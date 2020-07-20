@@ -1,0 +1,69 @@
+local transformer_model = "bert-base-uncased";
+{
+  "dataset_reader":{"type":"BertDatasetReader"},
+//  "train_data_path": "data/naacl18/prolocal/propara.run1.train.tsv",
+//  "validation_data_path": "data/naacl18/prolocal/propara.run1.dev.tsv",
+//  "test_data_path": "data/naacl18/prolocal/propara.run1.test.tsv",
+  "train_data_path": "data/Inputs/bert_annotations_isConnected_train_comp.tsv",
+  "validation_data_path": "data/Inputs/bert_annotations_isConnected_dev_comp.tsv",
+  "test_data_path": "data/Inputs/bert_annotations_isConnected_test_comp.tsv",
+  "evaluate_on_test": true,
+  "model": {
+    "type": "BertModel",
+//    "type": "basic_classifier",
+    "text_field_embedder": {
+//      "token_embedders": {
+        "tokens": {
+//          "type": "pretrained_transformer",
+          "model_name": transformer_model,
+          "max_length": 512,
+          "train_parameters": true
+        }
+//      }
+    },
+    "seq2vec_encoder": {
+       "type": "bert_pooler",
+       "pretrained_model": transformer_model,
+       "requires_grad": true
+    },
+    //"label_namespace": "labels"
+  },
+//    "model": {
+//    "type": "ProLocalModel",
+//    "text_field_embedder": {
+//      "tokens": {
+//        //"type": "embedding",
+//        "embedding_dim": 100,
+//        "pretrained_file": "data/glove.6B.100d.txt.gz",
+//        // Download glove embeddings file from https://nlp.stanford.edu/projects/glove/
+//        "trainable": true
+//      }
+//    },
+//    "seq2seq_encoder": {
+//      "type": "lstm",
+//     "bidirectional": true,
+//      "input_size": 102,
+//      "hidden_size": 50,
+//      "num_layers": 2,
+//      "dropout": 0.3
+//    }
+//  },
+  "data_loader": {
+    //"type": "bucket",
+    //"sorting_keys": [["tokens", "num_tokens"]],
+    "batch_size" : 2,
+    "shuffle" : true
+  },
+
+  "trainer": {
+    "num_epochs": 7,
+    "grad_clipping": 1.0,
+    "patience": 100,
+    "validation_metric": "+type_True_F1", //"-loss",
+    "cuda_device": 0,
+    "optimizer": {
+      "type": "huggingface_adamw",
+      "lr": 1.0e-5
+    }
+  }
+}

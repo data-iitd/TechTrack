@@ -1,0 +1,1282 @@
+514	1	glacier	null	null
+514	2	glacier	null	null
+514	3	glacier	null	null
+514	4	glacier	null	null
+514	5	glacier	null	null
+514	6	glacier	null	null
+514	7	glacier	null	null
+514	1	snow	unk	area
+514	2	snow	area	area
+514	3	snow	area	area
+514	4	snow	area	area
+514	5	snow	area	area
+514	6	snow	area	area
+514	7	snow	area	area
+514	1	mass	unk	unk
+514	2	mass	unk	unk
+514	3	mass	unk	unk
+514	4	mass	unk	unk
+514	5	mass	unk	unk
+514	6	mass	unk	unk
+514	7	mass	unk	unk
+445	1	magma	unk	volcano
+445	2	magma	volcano	volcano
+445	3	magma	volcano	volcano
+445	4	magma	volcano	volcano
+445	5	magma	volcano	volcano
+445	6	magma	volcano	volcano
+445	7	magma	volcano	volcano
+445	1	rock	null	null
+445	2	rock	null	unk
+445	3	rock	unk	null
+445	4	rock	null	null
+445	5	rock	null	null
+445	6	rock	null	null
+445	7	rock	null	null
+445	1	sedimentary rock	null	null
+445	2	sedimentary rock	null	null
+445	3	sedimentary rock	null	null
+445	4	sedimentary rock	null	unk
+445	5	sedimentary rock	unk	unk
+445	6	sedimentary rock	unk	unk
+445	7	sedimentary rock	unk	unk
+445	1	third kind of rock	null	null
+445	2	third kind of rock	null	null
+445	3	third kind of rock	null	null
+445	4	third kind of rock	null	null
+445	5	third kind of rock	null	null
+445	6	third kind of rock	null	unk
+445	7	third kind of rock	unk	unk
+394	1	generator	unk	unk
+394	2	generator	unk	unk
+394	3	generator	unk	unk
+394	4	generator	unk	unk
+394	5	generator	unk	unk
+394	6	generator	unk	unk
+394	7	generator	unk	unk
+394	1	fuel	unk	unk
+394	2	fuel	unk	unk
+394	3	fuel	unk	unk
+394	4	fuel	unk	unk
+394	5	fuel	unk	unk
+394	6	fuel	unk	unk
+394	7	fuel	unk	unk
+394	1	water	unk	unk
+394	2	water	unk	null
+394	3	water	null	null
+394	4	water	null	null
+394	5	water	null	null
+394	6	water	null	null
+394	7	water	null	null
+394	1	turbine	null	null
+394	2	turbine	null	null
+394	3	turbine	null	unk
+394	4	turbine	unk	unk
+394	5	turbine	unk	unk
+394	6	turbine	unk	unk
+394	7	turbine	unk	unk
+394	1	steam	null	null
+394	2	steam	null	null
+394	3	steam	null	null
+394	4	steam	null	null
+394	5	steam	null	null
+394	6	steam	null	null
+394	7	steam	null	null
+394	1	heat	null	unk
+394	2	heat	unk	unk
+394	3	heat	unk	unk
+394	4	heat	unk	unk
+394	5	heat	unk	unk
+394	6	heat	unk	unk
+394	7	heat	unk	unk
+394	1	electricity	null	null
+394	2	electricity	null	null
+394	3	electricity	null	null
+394	4	electricity	null	null
+394	5	electricity	null	unk
+394	6	electricity	unk	transformer
+394	7	electricity	transformer	transformer
+394	1	voltage	unk	unk
+394	2	voltage	unk	unk
+394	3	voltage	unk	unk
+394	4	voltage	unk	unk
+394	5	voltage	unk	unk
+394	6	voltage	unk	unk
+394	7	voltage	unk	unk
+708	1	rock	null	null
+708	2	rock	null	null
+708	3	rock	null	null
+708	4	rock	null	null
+708	5	rock	null	null
+708	6	rock	null	unk
+708	7	rock	unk	unk
+708	8	rock	unk	unk
+708	9	rock	unk	unk
+708	10	rock	unk	surface
+708	1	sediment	unk	unk
+708	2	sediment	unk	unk
+708	3	sediment	unk	unk
+708	4	sediment	unk	unk
+708	5	sediment	unk	unk
+708	6	sediment	unk	unk
+708	7	sediment	unk	unk
+708	8	sediment	unk	unk
+708	9	sediment	unk	unk
+708	10	sediment	unk	unk
+708	1	metamorphic rock	null	null
+708	2	metamorphic rock	null	null
+708	3	metamorphic rock	null	null
+708	4	metamorphic rock	null	null
+708	5	metamorphic rock	null	null
+708	6	metamorphic rock	null	null
+708	7	metamorphic rock	null	null
+708	8	metamorphic rock	null	null
+708	9	metamorphic rock	null	null
+708	10	metamorphic rock	null	null
+708	1	melt rock	unk	unk
+708	2	melt rock	unk	unk
+708	3	melt rock	unk	unk
+708	4	melt rock	unk	unk
+708	5	melt rock	unk	unk
+708	6	melt rock	unk	unk
+708	7	melt rock	unk	unk
+708	8	melt rock	unk	unk
+708	9	melt rock	unk	unk
+708	10	melt rock	unk	unk
+609	1	gasoline	null	null
+609	2	gasoline	null	null
+609	3	gasoline	null	null
+609	4	gasoline	null	unk
+609	5	gasoline	unk	cylinder
+609	6	gasoline	cylinder	cylinder
+609	1	exhaust	unk	unk
+609	2	exhaust	unk	unk
+609	3	exhaust	unk	unk
+609	4	exhaust	unk	unk
+609	5	exhaust	unk	unk
+609	6	exhaust	unk	unk
+609	1	explosion	unk	unk
+609	2	explosion	unk	unk
+609	3	explosion	unk	unk
+609	4	explosion	unk	unk
+609	5	explosion	unk	unk
+609	6	explosion	unk	unk
+609	1	spark	unk	unk
+609	2	spark	unk	unk
+609	3	spark	unk	unk
+609	4	spark	unk	null
+609	5	spark	null	null
+609	6	spark	null	null
+609	1	air	unk	unk
+609	2	air	unk	unk
+609	3	air	unk	unk
+609	4	air	unk	unk
+609	5	air	unk	unk
+609	6	air	unk	unk
+609	1	piston	unk	unk
+609	2	piston	unk	unk
+609	3	piston	unk	unk
+609	4	piston	unk	null
+609	5	piston	cylinder	cylinder
+609	6	piston	unk	unk
+349	1	sound	null	unk
+349	2	sound	unk	unk
+349	3	sound	unk	unk
+349	4	sound	unk	unk
+349	5	sound	unk	unk
+349	6	sound	unk	unk
+349	7	sound	unk	unk
+349	1	sound wave	unk	unk
+349	2	sound wave	unk	unk
+349	3	sound wave	unk	unk
+349	4	sound wave	unk	unk
+349	5	sound wave	unk	unk
+349	6	sound wave	unk	unk
+349	7	sound wave	unk	unk
+349	1	echo	unk	unk
+349	2	echo	unk	unk
+349	3	echo	unk	unk
+349	4	echo	unk	unk
+349	5	echo	unk	unk
+349	6	echo	unk	unk
+349	7	echo	unk	unk
+430	1	trash	unk	unk
+430	2	trash	unk	unk
+430	3	trash	unk	unk
+430	4	trash	unk	curbside
+430	5	trash	unk	unk
+430	6	trash	unk	truck
+430	7	trash	unk	unk
+430	8	trash	unk	unk
+430	9	trash	unk	unk
+430	10	trash	unk	landfill
+430	1	truck	unk	unk
+430	2	truck	unk	unk
+430	3	truck	unk	unk
+430	4	truck	unk	unk
+430	5	truck	unk	unk
+430	6	truck	unk	unk
+430	7	truck	unk	landfill
+430	8	truck	landfill	landfill
+430	9	truck	landfill	landfill
+430	10	truck	landfill	landfill
+388	1	water	unk	unk
+388	2	water	unk	unk
+388	3	water	unk	plant
+388	4	water	unk	unk
+388	5	water	unk	unk
+388	6	water	unk	unk
+388	1	turbine	plant	plant
+388	2	turbine	plant	plant
+388	3	turbine	plant	plant
+388	4	turbine	unk	generator
+388	5	turbine	generator	generator
+388	6	turbine	generator	generator
+388	1	generator	unk	unk
+388	2	generator	unk	unk
+388	3	generator	unk	unk
+388	4	generator	unk	unk
+388	5	generator	unk	null
+388	6	generator	null	null
+388	1	electricity	null	null
+388	2	electricity	null	null
+388	3	electricity	null	null
+388	4	electricity	null	null
+388	5	electricity	null	unk
+388	6	electricity	unk	unk
+1007	1	plant	unk	null
+1007	2	plant	null	null
+1007	3	plant	null	null
+1007	4	plant	null	null
+1007	5	plant	null	null
+1007	6	plant	null	null
+1007	1	material	unk	unk
+1007	2	material	unk	unk
+1007	3	material	unk	unk
+1007	4	material	unk	unk
+1007	5	material	unk	unk
+1007	6	material	unk	unk
+1007	1	microbe	unk	unk
+1007	2	microbe	unk	unk
+1007	3	microbe	unk	unk
+1007	4	microbe	unk	unk
+1007	5	microbe	unk	unk
+1007	6	microbe	unk	unk
+1303	1	food	unk	unk
+1303	2	food	unk	unk
+1303	3	food	unk	unk
+1303	4	food	unk	unk
+1303	5	food	unk	unk
+1303	1	milk	unk	unk
+1303	2	milk	unk	unk
+1303	3	milk	unk	unk
+1303	4	milk	unk	unk
+1303	5	milk	unk	unk
+1303	1	microbe	unk	unk
+1303	2	microbe	unk	unk
+1303	3	microbe	unk	unk
+1303	4	microbe	unk	unk
+1303	5	microbe	unk	unk
+630	1	trash	unk	garbage
+630	2	trash	unk	unk
+630	3	trash	unk	sanitation
+630	4	trash	unk	unk
+630	5	trash	unk	unk
+630	6	trash	unk	landfill
+630	1	truck	unk	unk
+630	2	truck	unk	unk
+630	3	truck	unk	unk
+630	4	truck	unk	unk
+630	5	truck	unk	landfill
+630	6	truck	unk	landfill
+5	1	sediment	seafloor	seafloor
+5	2	sediment	seafloor	seafloor
+5	3	sediment	seafloor	seafloor
+5	4	sediment	seafloor	seafloor
+5	5	sediment	seafloor	seafloor
+5	6	sediment	seafloor	seafloor
+5	7	sediment	seafloor	seafloor
+5	8	sediment	seafloor	seafloor
+5	9	sediment	seafloor	seafloor
+5	1	plankton	unk	null
+5	2	plankton	unk	seafloor
+5	3	plankton	seafloor	seafloor
+5	4	plankton	seafloor	seafloor
+5	5	plankton	seafloor	seafloor
+5	6	plankton	seafloor	seafloor
+5	7	plankton	seafloor	seafloor
+5	8	plankton	seafloor	seafloor
+5	9	plankton	seafloor	seafloor
+5	1	algae	unk	null
+5	2	algae	unk	seafloor
+5	3	algae	seafloor	seafloor
+5	4	algae	seafloor	seafloor
+5	5	algae	seafloor	seafloor
+5	6	algae	seafloor	seafloor
+5	7	algae	seafloor	seafloor
+5	8	algae	seafloor	seafloor
+5	9	algae	seafloor	seafloor
+5	1	oil	unk	unk
+5	2	oil	unk	unk
+5	3	oil	unk	unk
+5	4	oil	unk	unk
+5	5	oil	unk	unk
+5	6	oil	unk	unk
+5	7	oil	unk	unk
+5	8	oil	unk	unk
+5	9	oil	unk	rock
+5	1	material	unk	unk
+5	2	material	unk	unk
+5	3	material	unk	unk
+5	4	material	unk	unk
+5	5	material	unk	unk
+5	6	material	unk	unk
+5	7	material	unk	null
+5	8	material	null	null
+5	9	material	null	null
+543	1	blood	unk	unk
+543	2	blood	unk	unk
+543	3	blood	unk	unk
+543	4	blood	unk	unk
+543	5	blood	unk	unk
+543	6	blood	unk	unk
+543	7	blood	unk	body
+543	1	waste	unk	unk
+543	2	waste	unk	unk
+543	3	waste	unk	blood
+543	4	waste	unk	null
+543	5	waste	null	null
+543	6	waste	null	null
+543	7	waste	null	null
+543	1	urine	null	null
+543	2	urine	null	null
+543	3	urine	null	null
+543	4	urine	null	blood
+543	5	urine	unk	ureter
+543	6	urine	ureter	ureter
+543	7	urine	ureter	ureter
+543	1	filter blood	unk	unk
+543	2	filter blood	unk	unk
+543	3	filter blood	unk	unk
+543	4	filter blood	unk	unk
+543	5	filter blood	unk	unk
+543	6	filter blood	unk	unk
+543	7	filter blood	unk	body
+432	1	garbage	truck	truck
+432	2	garbage	truck	truck
+432	3	garbage	unk	unk
+432	4	garbage	unk	unk
+432	5	garbage	unk	landfill
+432	6	garbage	landfill	landfill
+432	1	garbage truck	unk	unk
+432	2	garbage truck	unk	unk
+432	3	garbage truck	unk	unk
+432	4	garbage truck	unk	unk
+432	5	garbage truck	unk	unk
+432	6	garbage truck	unk	unk
+432	1	trash	unk	unk
+432	2	trash	unk	garbage  truck
+432	3	trash	garbage  truck	garbage  truck
+432	4	trash	garbage  truck	garbage  truck
+432	5	trash	garbage  truck	garbage  truck
+432	6	trash	garbage  truck	garbage  truck
+432	1	recycle	unk	unk
+432	2	recycle	unk	unk
+432	3	recycle	unk	unk
+432	4	recycle	unk	unk
+432	5	recycle	unk	unk
+432	6	recycle	unk	unk
+396	1	uranium atom	unk	unk
+396	2	uranium atom	unk	null
+396	3	uranium atom	null	null
+396	4	uranium atom	null	null
+396	5	uranium atom	null	null
+396	6	uranium atom	null	null
+396	1	water	unk	unk
+396	2	water	unk	unk
+396	3	water	unk	null
+396	4	water	null	null
+396	5	water	null	null
+396	6	water	null	null
+396	1	steam	null	null
+396	2	steam	null	null
+396	3	steam	null	unk
+396	4	steam	unk	turbine
+396	5	steam	turbine	turbine
+396	6	steam	turbine	turbine
+396	1	heat	null	null
+396	2	heat	null	unk
+396	3	heat	unk	null
+396	4	heat	null	null
+396	5	heat	null	null
+396	6	heat	null	null
+396	1	electricity	null	null
+396	2	electricity	null	null
+396	3	electricity	null	null
+396	4	electricity	null	null
+396	5	electricity	null	null
+396	6	electricity	null	unk
+396	1	uranium fuel	unk	reactor
+396	2	uranium fuel	reactor	reactor
+396	3	uranium fuel	reactor	reactor
+396	4	uranium fuel	reactor	reactor
+396	5	uranium fuel	reactor	reactor
+396	6	uranium fuel	reactor	reactor
+1114	1	funnel	null	null
+1114	2	funnel	null	null
+1114	3	funnel	null	null
+1114	4	funnel	null	null
+1114	5	funnel	null	unk
+1114	6	funnel	unk	unk
+1114	7	funnel	unk	null
+1114	1	bedrock	unk	unk
+1114	2	bedrock	unk	unk
+1114	3	bedrock	unk	unk
+1114	4	bedrock	unk	unk
+1114	5	bedrock	unk	unk
+1114	6	bedrock	unk	unk
+1114	7	bedrock	unk	unk
+1114	1	water	unk	unk
+1114	2	water	unk	unk
+1114	3	water	unk	unk
+1114	4	water	unk	unk
+1114	5	water	unk	unk
+1114	6	water	unk	unk
+1114	7	water	unk	unk
+1114	1	cave	null	null
+1114	2	cave	null	null
+1114	3	cave	null	null
+1114	4	cave	null	null
+1114	5	cave	null	null
+1114	6	cave	null	null
+1114	7	cave	null	unk
+1114	1	rainwater	unk	soil
+1114	2	rainwater	unk	soil
+1114	3	rainwater	soil	soil
+1114	4	rainwater	soil	soil
+1114	5	rainwater	soil	soil
+1114	6	rainwater	soil	soil
+1114	7	rainwater	soil	soil
+1260	1	silk	null	null
+1260	2	silk	null	abdomen
+1260	3	silk	abdomen	abdomen
+1260	4	silk	abdomen	abdomen
+1260	5	silk	abdomen	abdomen
+1260	1	web	null	null
+1260	2	web	null	null
+1260	3	web	null	null
+1260	4	web	null	null
+1260	5	web	null	unk
+390	1	generator	null	null
+390	2	generator	null	null
+390	3	generator	null	null
+390	4	generator	null	null
+390	5	generator	null	null
+390	6	generator	null	unk
+390	7	generator	unk	unk
+390	1	water 's energy	unk	unk
+390	2	water 's energy	unk	unk
+390	3	water 's energy	unk	unk
+390	4	water 's energy	unk	unk
+390	5	water 's energy	unk	null
+390	6	water 's energy	null	null
+390	7	water 's energy	null	null
+390	1	water	unk	unk
+390	2	water	unk	unk
+390	3	water	unk	reservoir
+390	4	water	unk	unk
+390	5	water	unk	null
+390	6	water	null	null
+390	7	water	null	null
+390	1	electrical energy	null	null
+390	2	electrical energy	null	null
+390	3	electrical energy	null	null
+390	4	electrical energy	null	null
+390	5	electrical energy	null	null
+390	6	electrical energy	null	unk
+390	7	electrical energy	unk	unk
+390	1	turbine	reservoir	reservoir
+390	2	turbine	reservoir	reservoir
+390	3	turbine	reservoir	reservoir
+390	4	turbine	reservoir	reservoir
+390	5	turbine	reservoir	reservoir
+390	6	turbine	reservoir	reservoir
+390	7	turbine	reservoir	reservoir
+390	1	reservoir	null	null
+390	2	reservoir	null	null
+390	3	reservoir	null	null
+390	4	reservoir	null	null
+390	5	reservoir	null	null
+390	6	reservoir	null	null
+390	7	reservoir	null	null
+390	1	electricity	null	null
+390	2	electricity	null	null
+390	3	electricity	null	null
+390	4	electricity	null	null
+390	5	electricity	null	null
+390	6	electricity	null	null
+390	7	electricity	null	unk
+390	1	high voltage	null	null
+390	2	high voltage	null	null
+390	3	high voltage	null	null
+390	4	high voltage	null	null
+390	5	high voltage	null	null
+390	6	high voltage	null	null
+390	7	high voltage	null	null
+4	1	plant	unk	null
+4	2	plant	null	null
+4	3	plant	null	null
+4	4	plant	null	null
+4	5	plant	null	null
+4	6	plant	null	null
+4	7	plant	null	null
+4	8	plant	null	null
+4	9	plant	null	null
+4	10	plant	null	null
+4	1	bacterium	unk	unk
+4	2	bacterium	unk	unk
+4	3	bacterium	unk	unk
+4	4	bacterium	unk	unk
+4	5	bacterium	unk	unk
+4	6	bacterium	unk	unk
+4	7	bacterium	unk	unk
+4	8	bacterium	unk	unk
+4	9	bacterium	unk	unk
+4	10	bacterium	unk	unk
+4	1	sediment	unk	unk
+4	2	sediment	unk	unk
+4	3	sediment	unk	unk
+4	4	sediment	unk	unk
+4	5	sediment	unk	unk
+4	6	sediment	unk	unk
+4	7	sediment	unk	unk
+4	8	sediment	unk	unk
+4	9	sediment	unk	unk
+4	10	sediment	unk	unk
+4	1	oil	null	null
+4	2	oil	null	null
+4	3	oil	null	null
+4	4	oil	null	null
+4	5	oil	null	null
+4	6	oil	null	null
+4	7	oil	null	null
+4	8	oil	null	null
+4	9	oil	null	null
+4	10	oil	null	unk
+632	1	electricity	unk	unk
+632	2	electricity	unk	computer
+632	3	electricity	unk	unk
+632	4	electricity	unk	unk
+632	5	electricity	unk	unk
+632	6	electricity	unk	unk
+632	1	heat	unk	unk
+632	2	heat	unk	unk
+632	3	heat	unk	unk
+632	4	heat	unk	computer
+632	5	heat	computer	computer
+632	6	heat	computer	computer
+632	1	light	null	null
+632	2	light	null	null
+632	3	light	null	null
+632	4	light	null	null
+632	5	light	null	null
+632	6	light	null	unk
+758	1	fuel source	unk	unk
+758	2	fuel source	unk	alternator
+758	3	fuel source	alternator	alternator
+758	4	fuel source	alternator	alternator
+758	5	fuel source	alternator	alternator
+758	6	fuel source	alternator	alternator
+758	1	gas	unk	unk
+758	2	gas	unk	unk
+758	3	gas	unk	unk
+758	4	gas	unk	unk
+758	5	gas	unk	unk
+758	6	gas	unk	unk
+758	1	electron	unk	unk
+758	2	electron	unk	unk
+758	3	electron	unk	unk
+758	4	electron	unk	unk
+758	5	electron	unk	generator
+758	6	electron	generator	generator
+758	1	mechanical energy	null	null
+758	2	mechanical energy	null	null
+758	3	mechanical energy	null	unk
+758	4	mechanical energy	unk	unk
+758	5	mechanical energy	unk	unk
+758	6	mechanical energy	unk	unk
+758	1	electrical energy	null	null
+758	2	electrical energy	null	null
+758	3	electrical energy	null	null
+758	4	electrical energy	null	null
+758	5	electrical energy	null	null
+758	6	electrical energy	null	null
+608	1	fuel	unk	unk
+608	2	fuel	unk	unk
+608	3	fuel	unk	unk
+608	4	fuel	unk	unk
+608	5	fuel	unk	unk
+608	6	fuel	unk	unk
+608	7	fuel	unk	unk
+608	8	fuel	unk	unk
+608	9	fuel	unk	unk
+608	1	explosion	unk	unk
+608	2	explosion	unk	unk
+608	3	explosion	unk	unk
+608	4	explosion	unk	unk
+608	5	explosion	unk	unk
+608	6	explosion	unk	unk
+608	7	explosion	unk	unk
+608	8	explosion	unk	unk
+608	9	explosion	unk	unk
+608	1	spark	null	null
+608	2	spark	null	null
+608	3	spark	null	null
+608	4	spark	null	piston
+608	5	spark	piston	piston
+608	6	spark	piston	piston
+608	7	spark	piston	piston
+608	8	spark	piston	piston
+608	9	spark	piston	piston
+608	1	air	unk	unk
+608	2	air	unk	unk
+608	3	air	unk	unk
+608	4	air	unk	unk
+608	5	air	unk	unk
+608	6	air	unk	unk
+608	7	air	unk	unk
+608	8	air	unk	unk
+608	9	air	unk	unk
+608	1	piston	unk	unk
+608	2	piston	unk	unk
+608	3	piston	unk	unk
+608	4	piston	unk	unk
+608	5	piston	unk	unk
+608	6	piston	unk	shaft
+608	7	piston	shaft	shaft
+608	8	piston	shaft	shaft
+608	9	piston	unk	null
+716	1	clean blood	unk	unk
+716	2	clean blood	unk	unk
+716	3	clean blood	unk	unk
+716	4	clean blood	unk	unk
+716	5	clean blood	unk	unk
+716	6	clean blood	unk	body
+716	1	urine	null	null
+716	2	urine	null	null
+716	3	urine	null	null
+716	4	urine	null	unk
+716	5	urine	unk	kidney
+716	6	urine	kidney	kidney
+716	1	kidney	kidney	kidney
+716	2	kidney	kidney	kidney
+716	3	kidney	kidney	kidney
+716	4	kidney	kidney	kidney
+716	5	kidney	kidney	kidney
+716	6	kidney	kidney	kidney
+716	1	waste	unk	kidney
+716	2	waste	kidney	kidney
+716	3	waste	kidney	kidney
+716	4	waste	kidney	kidney
+716	5	waste	kidney	kidney
+716	6	waste	kidney	kidney
+716	1	blood	unk	kidney
+716	2	blood	kidney	kidney
+716	3	blood	kidney	kidney
+716	4	blood	unk	unk
+716	5	blood	unk	unk
+716	6	blood	unk	body
+375	1	motion energy	unk	unk
+375	2	motion energy	unk	unk
+375	3	motion energy	unk	unk
+375	4	motion energy	unk	unk
+375	5	motion energy	unk	null
+375	1	motion	null	null
+375	2	motion	null	null
+375	3	motion	null	null
+375	4	motion	null	unk
+375	5	motion	unk	null
+375	1	heat	null	null
+375	2	heat	null	null
+375	3	heat	null	null
+375	4	heat	null	null
+375	5	heat	null	unk
+375	1	electricity	unk	unk
+375	2	electricity	unk	null
+375	3	electricity	null	null
+375	4	electricity	null	null
+375	5	electricity	null	null
+375	1	light	null	null
+375	2	light	null	null
+375	3	light	null	null
+375	4	light	null	null
+375	5	light	null	null
+629	1	plastic bag	unk	unk
+629	2	plastic bag	unk	garbage
+629	3	plastic bag	garbage	garbage
+629	4	plastic bag	garbage	garbage
+629	5	plastic bag	garbage	garbage
+629	6	plastic bag	garbage	garbage
+629	7	plastic bag	garbage	garbage
+629	1	truck	unk	unk
+629	2	truck	unk	unk
+629	3	truck	unk	unk
+629	4	truck	unk	unk
+629	5	truck	unk	unk
+629	6	truck	unk	landfill
+629	7	truck	unk	landfill
+629	1	garbage can	plastic	plastic
+629	2	garbage can	plastic	plastic
+629	3	garbage can	unk	unk
+629	4	garbage can	unk	unk
+629	5	garbage can	unk	unk
+629	6	garbage can	unk	unk
+629	7	garbage can	unk	unk
+629	1	garbage truck	unk	unk
+629	2	garbage truck	unk	unk
+629	3	garbage truck	unk	unk
+629	4	garbage truck	unk	unk
+629	5	garbage truck	unk	unk
+629	6	garbage truck	unk	unk
+629	7	garbage truck	unk	unk
+629	1	trash	unk	plastic  bag
+629	2	trash	unk	unk
+629	3	trash	unk	unk
+629	4	trash	unk	unk
+629	5	trash	unk	unk
+629	6	trash	unk	unk
+629	7	trash	unk	landfill
+826	1	heat	null	unk
+826	2	heat	unk	null
+826	3	heat	null	null
+826	4	heat	null	null
+826	5	heat	null	null
+826	1	steam	null	null
+826	2	steam	null	unk
+826	3	steam	unk	turbine
+826	4	steam	turbine	turbine
+826	5	steam	turbine	turbine
+826	1	electricity	null	null
+826	2	electricity	null	null
+826	3	electricity	null	null
+826	4	electricity	null	unk
+826	5	electricity	unk	unk
+542	1	clean blood	unk	unk
+542	2	clean blood	unk	unk
+542	3	clean blood	unk	unk
+542	4	clean blood	unk	unk
+542	5	clean blood	unk	kidney
+542	6	clean blood	kidney	kidney
+542	7	clean blood	kidney	kidney
+542	1	urine	null	null
+542	2	urine	null	null
+542	3	urine	null	null
+542	4	urine	null	null
+542	5	urine	null	null
+542	6	urine	null	unk
+542	7	urine	unk	unk
+542	1	waste	blood	blood
+542	2	waste	unk	unk
+542	3	waste	unk	unk
+542	4	waste	unk	kidney
+542	5	waste	unk	unk
+542	6	waste	unk	null
+542	7	waste	null	null
+542	1	filter waste	unk	unk
+542	2	filter waste	unk	unk
+542	3	filter waste	unk	unk
+542	4	filter waste	unk	unk
+542	5	filter waste	unk	unk
+542	6	filter waste	unk	null
+542	7	filter waste	null	null
+542	1	blood	unk	unk
+542	2	blood	unk	kidney
+542	3	blood	unk	kidney
+542	4	blood	unk	unk
+542	5	blood	unk	kidney
+542	6	blood	kidney	kidney
+542	7	blood	kidney	kidney
+1197	1	food	unk	mouth
+1197	2	food	unk	unk
+1197	3	food	unk	unk
+1197	4	food	unk	unk
+1197	5	food	unk	small  intestine
+1197	6	food	small  intestine	small  intestine
+1197	7	food	small  intestine	small  intestine
+1197	8	food	small  intestine	small  intestine
+1197	9	food	small  intestine	small  intestine
+1197	1	sugar	unk	unk
+1197	2	sugar	unk	unk
+1197	3	sugar	unk	unk
+1197	4	sugar	unk	unk
+1197	5	sugar	unk	unk
+1197	6	sugar	unk	unk
+1197	7	sugar	unk	unk
+1197	8	sugar	unk	body
+1197	9	sugar	body	body
+1197	1	energy	null	null
+1197	2	energy	null	null
+1197	3	energy	null	null
+1197	4	energy	null	null
+1197	5	energy	null	null
+1197	6	energy	null	null
+1197	7	energy	null	null
+1197	8	energy	null	null
+1197	9	energy	null	unk
+509	1	fuel	unk	chamber
+509	2	fuel	unk	unk
+509	3	fuel	unk	unk
+509	4	fuel	unk	null
+509	5	fuel	unk	unk
+509	6	fuel	unk	unk
+509	7	fuel	unk	unk
+509	8	fuel	unk	unk
+509	9	fuel	unk	unk
+509	10	fuel	unk	unk
+509	1	chemical energy	unk	unk
+509	2	chemical energy	unk	unk
+509	3	chemical energy	unk	unk
+509	4	chemical energy	unk	unk
+509	5	chemical energy	unk	null
+509	6	chemical energy	null	null
+509	7	chemical energy	null	null
+509	8	chemical energy	null	null
+509	9	chemical energy	null	null
+509	10	chemical energy	null	null
+509	1	explosion	unk	unk
+509	2	explosion	unk	unk
+509	3	explosion	unk	unk
+509	4	explosion	unk	unk
+509	5	explosion	unk	unk
+509	6	explosion	unk	unk
+509	7	explosion	unk	unk
+509	8	explosion	unk	unk
+509	9	explosion	unk	unk
+509	10	explosion	unk	unk
+509	1	spend fuel	unk	unk
+509	2	spend fuel	unk	unk
+509	3	spend fuel	unk	unk
+509	4	spend fuel	unk	unk
+509	5	spend fuel	unk	unk
+509	6	spend fuel	unk	unk
+509	7	spend fuel	unk	unk
+509	8	spend fuel	unk	unk
+509	9	spend fuel	unk	unk
+509	10	spend fuel	unk	unk
+509	1	thermal energy	null	null
+509	2	thermal energy	null	null
+509	3	thermal energy	null	null
+509	4	thermal energy	null	null
+509	5	thermal energy	null	unk
+509	6	thermal energy	unk	unk
+509	7	thermal energy	unk	unk
+509	8	thermal energy	unk	unk
+509	9	thermal energy	unk	unk
+509	10	thermal energy	unk	unk
+509	1	new fuel	unk	unk
+509	2	new fuel	unk	unk
+509	3	new fuel	unk	unk
+509	4	new fuel	unk	unk
+509	5	new fuel	unk	unk
+509	6	new fuel	unk	unk
+509	7	new fuel	unk	unk
+509	8	new fuel	unk	unk
+509	9	new fuel	unk	unk
+509	10	new fuel	unk	unk
+509	1	piston	unk	unk
+509	2	piston	unk	unk
+509	3	piston	unk	unk
+509	4	piston	unk	unk
+509	5	piston	unk	unk
+509	6	piston	unk	unk
+509	7	piston	unk	unk
+509	8	piston	unk	unk
+509	9	piston	unk	unk
+509	10	piston	unk	unk
+446	1	sedimentary rock	null	null
+446	2	sedimentary rock	null	null
+446	3	sedimentary rock	null	null
+446	4	sedimentary rock	null	null
+446	5	sedimentary rock	null	null
+446	6	sedimentary rock	null	null
+446	1	magma	unk	volcano
+446	2	magma	unk	unk
+446	3	magma	unk	null
+446	4	magma	null	null
+446	5	magma	null	null
+446	6	magma	null	unk
+446	1	metamorphic rock	null	null
+446	2	metamorphic rock	null	null
+446	3	metamorphic rock	null	null
+446	4	metamorphic rock	null	null
+446	5	metamorphic rock	null	unk
+446	6	metamorphic rock	unk	unk
+446	1	crystal	unk	unk
+446	2	crystal	unk	unk
+446	3	crystal	unk	null
+446	4	crystal	null	null
+446	5	crystal	null	null
+446	6	crystal	null	null
+446	1	igneous rock	null	null
+446	2	igneous rock	null	null
+446	3	igneous rock	null	unk
+446	4	igneous rock	unk	null
+446	5	igneous rock	null	null
+446	6	igneous rock	null	null
+431	1	trash	unk	unk
+431	2	trash	unk	unk
+431	3	trash	unk	unk
+431	4	trash	unk	landfill
+431	5	trash	unk	unk
+431	1	trash truck	unk	unk
+431	2	trash truck	unk	unk
+431	3	trash truck	unk	unk
+431	4	trash truck	unk	landfill
+431	5	trash truck	landfill	landfill
+431	1	trashbag	null	unk
+431	2	trashbag	unk	outdoor
+431	3	trashbag	outdoor	outdoor
+431	4	trashbag	outdoor	outdoor
+431	5	trashbag	outdoor	outdoor
+1113	1	limestone	unk	unk
+1113	2	limestone	unk	unk
+1113	3	limestone	unk	unk
+1113	4	limestone	unk	unk
+1113	5	limestone	unk	unk
+1113	6	limestone	unk	unk
+1113	1	weak acid	null	null
+1113	2	weak acid	null	null
+1113	3	weak acid	null	null
+1113	4	weak acid	null	soil
+1113	5	weak acid	soil	soil
+1113	6	weak acid	soil	soil
+1113	1	water	unk	unk
+1113	2	water	unk	unk
+1113	3	water	unk	soil
+1113	4	water	unk	null
+1113	5	water	null	null
+1113	6	water	null	null
+1113	1	cave	null	null
+1113	2	cave	null	null
+1113	3	cave	null	null
+1113	4	cave	null	null
+1113	5	cave	null	null
+1113	6	cave	null	unk
+1113	1	rainwater	unk	unk
+1113	2	rainwater	unk	soil
+1113	3	rainwater	soil	soil
+1113	4	rainwater	soil	soil
+1113	5	rainwater	soil	soil
+1113	6	rainwater	soil	soil
+1113	1	carbon dioxide	unk	unk
+1113	2	carbon dioxide	unk	unk
+1113	3	carbon dioxide	unk	soil
+1113	4	carbon dioxide	soil	soil
+1113	5	carbon dioxide	soil	soil
+1113	6	carbon dioxide	soil	soil
+272	1	magnet	unk	unk
+272	2	magnet	unk	unk
+272	3	magnet	unk	unk
+272	4	magnet	unk	unk
+272	5	magnet	unk	unk
+272	6	magnet	unk	unk
+272	1	flow of electron	unk	unk
+272	2	flow of electron	unk	unk
+272	3	flow of electron	unk	unk
+272	4	flow of electron	unk	unk
+272	5	flow of electron	unk	unk
+272	6	flow of electron	unk	unk
+272	1	fuel	unk	generator
+272	2	fuel	generator	generator
+272	3	fuel	generator	generator
+272	4	fuel	generator	generator
+272	5	fuel	generator	generator
+272	6	fuel	generator	generator
+272	1	mechanical energy	unk	unk
+272	2	mechanical energy	unk	null
+272	3	mechanical energy	null	null
+272	4	mechanical energy	null	null
+272	5	mechanical energy	null	null
+272	6	mechanical energy	null	null
+272	1	electrical energy	null	null
+272	2	electrical energy	null	unk
+272	3	electrical energy	unk	unk
+272	4	electrical energy	unk	unk
+272	5	electrical energy	unk	unk
+272	6	electrical energy	unk	unk
+272	1	electricity	unk	unk
+272	2	electricity	unk	unk
+272	3	electricity	unk	unk
+272	4	electricity	unk	unk
+272	5	electricity	unk	wire
+272	6	electricity	unk	generator
+631	1	bag	unk	unk
+631	2	bag	unk	trashcan
+631	3	bag	trashcan	trashcan
+631	4	bag	trashcan	trashcan
+631	5	bag	trashcan	trashcan
+631	6	bag	trashcan	trashcan
+631	7	bag	trashcan	trashcan
+631	1	trashcan	unk	unk
+631	2	trashcan	unk	unk
+631	3	trashcan	unk	unk
+631	4	trashcan	unk	unk
+631	5	trashcan	unk	unk
+631	6	trashcan	unk	unk
+631	7	trashcan	unk	unk
+631	1	truck	trash	trash
+631	2	truck	trash	trash
+631	3	truck	trash	trash
+631	4	truck	trash	trash
+631	5	truck	unk	unk
+631	6	truck	unk	landfill
+631	7	truck	unk	landfill
+631	1	trash truck	unk	unk
+631	2	trash truck	unk	unk
+631	3	trash truck	unk	unk
+631	4	trash truck	unk	unk
+631	5	trash truck	unk	unk
+631	6	trash truck	unk	unk
+631	7	trash truck	unk	unk
+631	1	trash	truck	truck
+631	2	trash	truck	truck
+631	3	trash	truck	truck
+631	4	trash	truck	truck
+631	5	trash	truck	truck
+631	6	trash	truck	truck
+631	7	trash	truck	truck
+1008	1	bacterium	unk	unk
+1008	2	bacterium	unk	plant
+1008	3	bacterium	plant	plant
+1008	4	bacterium	plant	plant
+1008	5	bacterium	plant	plant
+1008	1	enzyme	null	null
+1008	2	enzyme	null	null
+1008	3	enzyme	null	plant
+1008	4	enzyme	plant	plant
+1008	5	enzyme	plant	plant
+1008	1	plant cell	unk	unk
+1008	2	plant cell	unk	unk
+1008	3	plant cell	unk	unk
+1008	4	plant cell	unk	unk
+1008	5	plant cell	unk	unk
+1008	1	component	null	null
+1008	2	component	null	null
+1008	3	component	null	null
+1008	4	component	null	null
+1008	5	component	null	null
+1259	1	thread	null	null
+1259	2	thread	null	gland
+1259	3	thread	gland	gland
+1259	4	thread	gland	gland
+1259	5	thread	gland	gland
+1259	1	web	unk	unk
+1259	2	web	unk	unk
+1259	3	web	unk	unk
+1259	4	web	unk	unk
+1259	5	web	unk	unk
+1226	1	food	unk	gut
+1226	2	food	gut	gut
+1226	3	food	gut	gut
+1226	4	food	gut	gut
+1226	5	food	gut	gut
+1226	6	food	gut	gut
+1226	1	enyzme	pancreas	pancreas
+1226	2	enyzme	pancreas	pancreas
+1226	3	enyzme	pancreas	pancreas
+1226	4	enyzme	pancreas	pancreas
+1226	5	enyzme	pancreas	pancreas
+1226	6	enyzme	pancreas	pancreas
+1226	1	fat	null	null
+1226	2	fat	null	null
+1226	3	fat	null	unk
+1226	4	fat	unk	unk
+1226	5	fat	unk	unk
+1226	6	fat	unk	unk
+1226	1	carbohydrate	unk	unk
+1226	2	carbohydrate	unk	unk
+1226	3	carbohydrate	unk	unk
+1226	4	carbohydrate	unk	unk
+1226	5	carbohydrate	unk	unk
+1226	6	carbohydrate	unk	unk
+1002	1	dirty laundry	unk	unk
+1002	2	dirty laundry	unk	unk
+1002	3	dirty laundry	unk	unk
+1002	4	dirty laundry	unk	unk
+1002	5	dirty laundry	unk	unk
+1002	1	laundry detergent	unk	unk
+1002	2	laundry detergent	unk	unk
+1002	3	laundry detergent	unk	unk
+1002	4	laundry detergent	unk	unk
+1002	5	laundry detergent	unk	unk
+634	1	electricity	unk	unk
+634	2	electricity	unk	unk
+634	3	electricity	unk	unk
+634	4	electricity	unk	unk
+634	5	electricity	unk	unk
+634	6	electricity	unk	unk
+634	1	energy	unk	unk
+634	2	energy	unk	unk
+634	3	energy	unk	unk
+634	4	energy	unk	unk
+634	5	energy	unk	unk
+634	6	energy	unk	unk
+634	1	visual signal	null	null
+634	2	visual signal	null	null
+634	3	visual signal	null	null
+634	4	visual signal	null	null
+634	5	visual signal	null	unk
+634	6	visual signal	unk	unk
+634	1	computation	null	null
+634	2	computation	null	null
+634	3	computation	null	null
+634	4	computation	null	null
+634	5	computation	null	null
+634	6	computation	null	unk
+544	1	fluid and liquid	unk	unk
+544	2	fluid and liquid	unk	unk
+544	3	fluid and liquid	unk	unk
+544	4	fluid and liquid	unk	unk
+544	5	fluid and liquid	unk	unk
+544	6	fluid and liquid	unk	unk
+544	1	fluid	unk	unk
+544	2	fluid	unk	unk
+544	3	fluid	unk	unk
+544	4	fluid	unk	unk
+544	5	fluid	unk	unk
+544	6	fluid	unk	unk
+544	1	nutrient	unk	unk
+544	2	nutrient	unk	unk
+544	3	nutrient	unk	unk
+544	4	nutrient	unk	unk
+544	5	nutrient	unk	unk
+544	6	nutrient	unk	body
+544	1	toxin	unk	unk
+544	2	toxin	unk	unk
+544	3	toxin	unk	unk
+544	4	toxin	unk	unk
+544	5	toxin	unk	unk
+544	6	toxin	unk	unk
+544	1	urine	null	null
+544	2	urine	null	null
+544	3	urine	null	null
+544	4	urine	null	null
+544	5	urine	null	null
+544	6	urine	null	null
+825	1	uranium atom	unk	unk
+825	2	uranium atom	unk	unk
+825	3	uranium atom	unk	unk
+825	4	uranium atom	unk	null
+825	5	uranium atom	null	null
+825	6	uranium atom	null	null
+825	7	uranium atom	null	null
+825	8	uranium atom	null	null
+825	9	uranium atom	null	null
+825	10	uranium atom	null	null
+825	1	heat energy	unk	unk
+825	2	heat energy	unk	unk
+825	3	heat energy	unk	unk
+825	4	heat energy	unk	unk
+825	5	heat energy	unk	unk
+825	6	heat energy	unk	null
+825	7	heat energy	null	null
+825	8	heat energy	null	null
+825	9	heat energy	null	null
+825	10	heat energy	null	null
+825	1	water	unk	unk
+825	2	water	unk	unk
+825	3	water	unk	unk
+825	4	water	unk	unk
+825	5	water	unk	unk
+825	6	water	unk	null
+825	7	water	null	null
+825	8	water	null	null
+825	9	water	null	null
+825	10	water	null	unk
+825	1	steam	unk	unk
+825	2	steam	unk	unk
+825	3	steam	unk	unk
+825	4	steam	unk	unk
+825	5	steam	unk	unk
+825	6	steam	unk	null
+825	7	steam	unk	null
+825	8	steam	unk	unk
+825	9	steam	unk	unk
+825	10	steam	unk	null
+825	1	electricity	null	null
+825	2	electricity	null	null
+825	3	electricity	null	null
+825	4	electricity	null	null
+825	5	electricity	null	null
+825	6	electricity	null	null
+825	7	electricity	null	null
+825	8	electricity	null	null
+825	9	electricity	null	unk
+825	10	electricity	unk	unk
+825	1	uranium	unk	unk
+825	2	uranium	unk	unk
+825	3	uranium	unk	null
+825	4	uranium	unk	null
+825	5	uranium	null	null
+825	6	uranium	null	null
+825	7	uranium	null	null
+825	8	uranium	null	null
+825	9	uranium	null	null
+825	10	uranium	null	null
+610	1	fuel	unk	chamber
+610	2	fuel	unk	null
+610	3	fuel	cylinder	cylinder
+610	4	fuel	cylinder	cylinder
+610	5	fuel	cylinder	cylinder
+610	6	fuel	cylinder	cylinder
+610	7	fuel	cylinder	cylinder
+610	8	fuel	cylinder	cylinder
+610	1	air	unk	unk
+610	2	air	unk	unk
+610	3	air	unk	cylinder
+610	4	air	cylinder	cylinder
+610	5	air	cylinder	cylinder
+610	6	air	unk	unk
+610	7	air	unk	unk
+610	8	air	unk	cylinder
+610	1	spark	unk	unk
+610	2	spark	unk	unk
+610	3	spark	unk	unk
+610	4	spark	unk	unk
+610	5	spark	unk	cylinder
+610	6	spark	cylinder	cylinder
+610	7	spark	cylinder	cylinder
+610	8	spark	cylinder	cylinder
+610	1	pressure	unk	unk
+610	2	pressure	unk	unk
+610	3	pressure	unk	unk
+610	4	pressure	unk	unk
+610	5	pressure	unk	unk
+610	6	pressure	unk	unk
+610	7	pressure	unk	unk
+610	8	pressure	unk	unk
+1112	1	limestone	null	null
+1112	2	limestone	null	null
+1112	3	limestone	null	null
+1112	4	limestone	null	null
+1112	5	limestone	null	null
+1112	1	rain	unk	unk
+1112	2	rain	unk	unk
+1112	3	rain	unk	null
+1112	4	rain	null	null
+1112	5	rain	null	null
+1112	1	cave	null	null
+1112	2	cave	null	null
+1112	3	cave	null	null
+1112	4	cave	null	null
+1112	5	cave	null	unk
+1112	1	acid	null	null
+1112	2	acid	null	null
+1112	3	acid	null	null
+1112	4	acid	null	null
+1112	5	acid	null	null
+1112	1	carbon dioxide	unk	unk
+1112	2	carbon dioxide	unk	unk
+1112	3	carbon dioxide	unk	unk
+1112	4	carbon dioxide	unk	unk
+1112	5	carbon dioxide	unk	unk
