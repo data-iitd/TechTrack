@@ -87,3 +87,10 @@ Use various scripts in the root folder to run training and testing of various mo
  * run_all_test.sh : train isOpened model and test on all folders
  * run_bert_test.sh : train combined Bert model and test on all properties
  * run_prolocal_all.sh : train ProLocal model for all properties
+
+# Data Processing Scripts
+Use the scripts from "data processing scripts" folder to parse data from wikihow pages and parse Brat output files to usable dataset formats
+* State change type dataset for ProLocal model
+* Natural Query, step and change type dataset for Bert model
+
+The raw subfolder also contains some un-documented, intermediate and raw scripts which need not be used but are present in case needed.
