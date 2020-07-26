@@ -3,3 +3,4 @@ pytest
 flaky
 pylev
 stemming
+bs4
