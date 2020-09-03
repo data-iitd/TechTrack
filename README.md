@@ -16,7 +16,7 @@ Source Code:
 The base code for this repository has been taken from https://github.com/allenai/propara
 
 # TechTrack
-The TechTrack dataset is track properties of diverse set of entities in technical procedural documents. For more details, read the Thesis paper.
+The TechTrack dataset is track properties of diverse set of entities in technical procedural documents. For more details, read the [Thesis paper](SaranshGoyal.pdf).
 
 To have a better understanding of the model and the dataset, go through the Thesis paper. To understand the format of the dataset, refer to the ProPara dataset:
 ```
@@ -68,7 +68,6 @@ ProStruct model is described in our EMNLP'18 paper:
  pytest -v -->
  <!-- ``` -->
 
-
 <!-- # Download the dataset
 You can download the ProPara dataset from
   ```
@@ -77,8 +76,8 @@ You can download the ProPara dataset from
 
 # Train your own models
 Detailed instructions are given in the following READMEs:
- * ProLocal: data/naacl18/prolocal/README.md
- * Bert: data/naacl18/bert/README.md
+ * [ProLocal](data/naacl18/prolocal/README.md)
+ * [Bert](data/naacl18/bert/README.md)
 
 # Scripts to use
 Use various scripts in the root folder to run training and testing of various models and datasets
