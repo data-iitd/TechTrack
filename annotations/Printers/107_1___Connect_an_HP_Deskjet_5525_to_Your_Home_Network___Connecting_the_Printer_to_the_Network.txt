@@ -1,0 +1,31 @@
+Connect an HP Deskjet 5525 to Your Home Network
+https://www.wikihow.com/Connect-an-HP-Deskjet-5525-to-Your-Home-Network
+
+0 - Connecting the Printer to the Network
+
+1 - Turn the printer on.
+Turn the printer on. Make sure it is plugged into a power source and press the power button.
+- ;
+
+2 - Locate the control panel.
+Locate the control panel. It's the small touch screen in front of the device.
+
+3 - Tap on Settings.
+Tap on Settings. This is the second icon on the menu of the control panel, the one with the satellite icon.
+
+4 - Tap on Wireless Setup Wizard.
+Tap on Wireless Setup Wizard. You may have to scroll down to find this.
+
+5 - Select "Network SSID.
+Select "Network SSID." From the list of available networks, select your home network.
+
+6 - Enter your wireless passcode.
+Enter your wireless passcode. Input your home network's security key or passcode.
+
+7 - Confirm the changes.
+Confirm the changes. You will be asked to confirm your settings. Tap "Okay."
+- The printer will try to establish a connection to your network.
+
+8 - View confirmation.
+View confirmation.  A notification stating “Confirmation successful” will appear if the printer was able to connect successfully.
+

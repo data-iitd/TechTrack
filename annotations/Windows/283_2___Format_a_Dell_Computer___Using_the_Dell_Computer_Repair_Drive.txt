@@ -1,0 +1,42 @@
+Format a Dell Computer
+https://www.wikihow.com/Format-a-Dell-Computer
+
+0 - Using the Dell Computer Repair Drive
+
+1 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu.
+
+2 - Open the "Advanced Boot Options" menu.
+Open the "Advanced Boot Options" menu. As soon as you see the Dell logo appear, begin repeatedly tapping the F8 key. If you time this correctly, you should see the Advanced Boot Options screen appear.[1]
+- X
+- Research source
+- 
+- If you see the Windows logo appear before you press the F8 key, you'll have to restart the computer and try again.
+
+3 - Select Repair Your Computer and press ↵ Enter.
+Select Repair Your Computer and press ↵ Enter. Use your computer's ↓ arrow key to select this option.
+
+4 - Select a language.
+Select a language. Click the "Language" drop-down box, click the language that you want to use, and then click Next.[2]
+- X
+- Research source
+
+5 - Log into your account.
+Log into your account. Select your account, then enter your password. Your account must have administrator privileges for you to continue.
+
+6 - Click Dell Factory Image Restore when prompted.
+Click Dell Factory Image Restore when prompted. This will open the Factory Image Restore window.
+
+7 - Click Next.
+Click Next. It's in the bottom-right corner of the window.
+
+8 - Confirm your decision to format the computer.
+Confirm your decision to format the computer. Check the "Yes, reformat hard drive and restore system software to factory condition" box if it isn't already checked.
+
+9 - Click Next.
+Click Next. It's in the bottom-right corner of the window. Doing so will prompt your Dell's hard drive to begin erasing and reformatting.
+- This process can take several hours, so just make sure that your Dell is plugged into an electrical outlet.
+
+10 - Click Finish when prompted.
+Click Finish when prompted. Doing so will restart your computer. Your Dell should now be back to its original, clean settings.
+

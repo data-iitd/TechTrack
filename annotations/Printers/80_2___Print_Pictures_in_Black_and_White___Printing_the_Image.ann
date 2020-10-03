@@ -1,0 +1,16 @@
+T1	Software-OS-Related 238 250	Print window
+T2	Software-OS-Related 378 396	Printer Properties
+A1	isOpened T2 f->t
+T3	Software-OS-Related 205 212	preview
+A2	isOpened T3 f->t
+T4	Software-OS-Related 416 431	Black and White
+A3	isOpened T4 f->t
+T5	Software-OS-Related 437 446	Grayscale
+A4	isOpened T5 f->t
+T6	Software-OS-Related 829 836	Options
+A5	isOpened T6 f->t
+T7	Software-OS-Related 878 896	Printer properties
+A6	isOpened T7 f->t
+T8	Hardware-Other 1058 1063	paper
+T9	Hardware-Devices 1341 1348	printer
+A7	isUsed T9 true

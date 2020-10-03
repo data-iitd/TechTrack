@@ -1,0 +1,13 @@
+T1	Software-Other 179 196	Internet Explorer
+A1	isOpened T1 f->t
+T2	Software-Other 314 322	Settings
+A2	isOpened T2 f->t
+T3	Software-Other 467 473	Safety
+A3	isOpened T3 f->t
+T4	Software-Other 611 635	Delete browsing history…
+A4	isOpened T4 f->t
+T5	Software-Other 725 732	History
+T6	Software-Other 739 755	Download history
+T7	Software-Other 929 935	Delete
+A5	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T1	

@@ -1,0 +1,37 @@
+Resolve No Sound on Windows Computer
+https://www.wikihow.com/Resolve-No-Sound-on-Windows-Computer
+
+0 - Adjusting the Speaker Properties
+
+1 - Right-click the Start  menu and select System.
+Right-click the Start  menu and select System. This opens your computer's settings.
+
+2 - Click Sound.
+Click Sound. It's near the top of the left column.
+
+3 - Select Speakers from the "Choose your output device" menu.
+Select Speakers from the "Choose your output device" menu. The menu is at the top of the right panel. If you have more than one entry for Speakers, choose the one for your built-in speakers and not for ones you've connected.
+
+4 - Click Device properties.
+Click Device properties. It's below the "Choose your output device" menu.
+- Before you continue, make sure the "Disable" check box at the top of the right panel is not checked.
+
+5 - Click Additional device properties.
+Click Additional device properties. It's under the "Related Settings" header. This opens the "Speakers Properties" dialog.
+
+6 - Click the Advanced tab.
+Click the Advanced tab. It's at the top of the window.
+
+7 - Click the drop-down box beneath "Default Format".
+Click the drop-down box beneath "Default Format". This box will likely say something like "24-bit, 44100 Hz (Studio Quality)" or "16-bit, 48000 Hz (DVD Quality)".
+
+8 - Click a new frequency.
+Click a new frequency. If the box initially had "24 bit" as the option, select a 16-bit option (or vice versa).
+
+9 - Click Test.
+Click Test. This option is on the right side of the window. Clicking it will cause your speakers to play a tune if they're working.
+
+10 - Repeat the test with each frequency.
+Repeat the test with each frequency. If you find a frequency that produces audio, you've resolved your computer's audio issues.
+- Click OK to close the window when you're finished.
+

@@ -1,0 +1,36 @@
+Capture Gaming Screenshots
+https://www.wikihow.com/Capture-Gaming-Screenshots
+
+0 - Using The Xbox App for Windows 10
+
+1 - Open the Xbox app in Windows 10.
+Open the Xbox app in Windows 10. You'll find this in your Start menu. You can also press ⊞ Win and type "xbox."
+- You can use the Xbox app to take a screenshot of any game running in Windows 10.[3]
+- X
+- Research source
+
+2 - Click the Settings button.
+Click the Settings button. You'll find this in the menu on the left side of the screen.
+
+3 - Click the "Game DVR" tab at the top of the menu.
+Click the "Game DVR" tab at the top of the menu. This will display the DVR and screenshot settings.
+
+4 - Toggle the DVR on if it is off.
+Toggle the DVR on if it is off. The Game DVR will need to be enabled in order to take screenshots with the app. Click the slider to toggle it on.
+
+5 - Set a custom screenshot shortcut (optional).
+Set a custom screenshot shortcut (optional). When the Game DVR is enabled, the built-in shortcut is ⊞ Win+Alt+PrtScn. You can click the empty field next to this and set your own custom shortcut if you want.
+
+6 - Click the "Open Folder" button in the "Saving captures" section.
+Click the "Open Folder" button in the "Saving captures" section. This will open the folder that your screenshots will be saved in.
+
+7 - Move up one directory and then move the Captures folder to another location.
+Move up one directory and then move the Captures folder to another location. If you want to change where your screenshots are saved, you'll need to move the Captures folder to that location. Screenshots will automatically save to the Captures folder, wherever it is.
+- For example, to move it to your Pictures folder, move up one directory and then drag the Captures folder to the Pictures folder in your sidebar.
+
+8 - Start a game that you want to take screenshots in.
+Start a game that you want to take screenshots in. The Xbox app does not need to be open to use the screenshot feature.
+
+9 - Press your screenshot key or combination to take the screenshot.
+Press your screenshot key or combination to take the screenshot. It will be saved to the Captures folder that you may have moved earlier.
+

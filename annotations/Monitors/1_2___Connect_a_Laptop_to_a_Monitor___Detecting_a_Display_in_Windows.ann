@@ -1,0 +1,14 @@
+T1	Software-OS-Related 140 158	Windows Start menu
+A1	isOpened T1 f->t
+T3	Hardware-Devices 309 315	screen
+A2	isPowered T3 start-T
+T6	Software-OS-Related 509 525	Windows Settings
+A4	isOpened T6 f->t
+T7	Software-OS-Related 540 546	System
+A5	isOpened T7 f->t
+T9	Software-OS-Related 685 692	Display
+A7	isOpened T9 f->t
+T10	Software-OS-Related 825 831	Detect
+T12	Hardware-Devices 933 939	screen
+A3	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T9	

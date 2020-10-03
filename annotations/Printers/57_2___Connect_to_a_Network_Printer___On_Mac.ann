@@ -1,0 +1,30 @@
+T1	Hardware-Devices 117 124	printer
+A1	isPowered T1 f->t
+T2	Hardware-Other 241 247	button
+T3	Hardware-Devices 317 324	printer
+A2	isConnected T3 f->t
+T4	Hardware-Other 583 599	printer's manual
+T5	Hardware-Devices 732 738	router
+T6	Hardware-Other 746 760	Ethernet cable
+T7	Hardware-Other 818 826	computer
+T8	Hardware-Devices 947 955	printers
+T9	Software-OS-Related 1126 1131	Wi-Fi
+A3	isOpened T9 f->t
+T10	Software-OS-Related 1297 1301	Join
+A4	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T9	
+T11	Software-OS-Related 1319 1329	Apple menu
+A5	isOpened T11 f->t
+T12	Software-OS-Related 1457 1475	System Preferences
+A6	isOpened T12 f->t
+T13	Software-OS-Related 1588 1607	Printers & Scanners
+A7	isOpened T13 f->t
+T14	Software-OS-Related 1710 1711	＋
+A8	isOpened T14 f->t
+T15	Software-OS-Related 2050 2053	Add
+A9	isSettingsChanged T15 true
+R2	SubPart Arg1:T15 Arg2:T13	
+T16	Hardware-Devices 2233 2240	printer
+A10	isUsed T16 true
+T17	Software-Device-Drivers 2265 2272	drivers
+T18	Hardware-Other 2296 2304	computer

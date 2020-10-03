@@ -1,0 +1,45 @@
+Install Ubuntu on VirtualBox
+https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
+
+0 - Creating a Virtual Machine
+
+1 - Install VirtualBox
+Install VirtualBox if you haven't yet done so. If you don't already have VirtualBox installed on your Windows or Mac computer, you'll need to install it before proceeding.
+
+2 - Open VirtualBox.
+Open VirtualBox. Double-click (or click once on a Mac) the VirtualBox app icon.
+
+3 - Click New.
+Click New. It's a blue badge in the upper-left corner of the VirtualBox window. Doing so opens a pop-up menu.
+
+4 - Enter a name for your virtual machine.
+Enter a name for your virtual machine. Type whatever you want to name your virtual machine (e.g., Ubuntu) into the "Name" text field that's near the top of the pop-up menu.
+
+5 - Select Linux as the "Type" value.
+Select Linux as the "Type" value. Click the "Type" drop-down box, then click Linux in the resulting drop-down menu.
+
+6 - Select Ubuntu as the "Version" value.
+Select Ubuntu as the "Version" value. Ubuntu should be selected by default after you set the "Type" value to Linux, but if it isn't, click the "Version" drop-down box and click Ubuntu (64-bit) before proceeding.
+
+7 - Click Next.
+Click Next. It's at the bottom of the menu.
+
+8 - Select an amount of RAM to use.
+Select an amount of RAM to use. Click and drag the slider left or right to decrease or increase the amount of RAM that VirtualBox will have available for your Ubuntu virtual machine.
+- The ideal amount of RAM will automatically be selected when you get to this page.
+- Make sure not to increase the RAM into the red section of the slider; try to keep the slider in the green.
+
+9 - Click Next.
+Click Next. It's at the bottom of the menu.
+
+10 - Create your virtual machine's virtual hard drive.
+Create your virtual machine's virtual hard drive. The virtual hard drive is a section of your computer's hard drive space which will be used to store your virtual machine's files and programs:
+- Click Create
+- Click Next
+- Click Next
+- Select an amount of space to use.
+- Click Create
+
+11 - Make sure that your Ubuntu file is done downloading.
+Make sure that your Ubuntu file is done downloading. Once the Ubuntu ISO finishes downloading, you can proceed with installing it to VirtualBox.
+

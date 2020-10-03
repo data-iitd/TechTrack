@@ -1,0 +1,35 @@
+T1	Software-Other 140 145	Skype
+A2	isInstalled T1 f->t
+T2	Hardware-Devices 278 284	webcam
+A5	isConnected T2 f->t
+T3	Hardware-Other 422 424	CD
+T5	Hardware-Devices 559 565	camera
+T6	Software-OS-Related 602 615	Control Panel
+A6	isOpened T6 f->t
+T7	Software-OS-Related 618 632	Device Manager
+A7	isOpened T7 f->t
+T8	Software-OS-Related 635 650	Imaging Devices
+A8	isOpened T8 f->t
+T9	Software-Other 718 723	Skype
+A9	isOpened T9 f->t
+T12	Software-Other 1097 1102	Tools
+A14	isOpened T12 f->t
+T13	Software-Other 1105 1112	Options
+A15	isOpened T13 f->t
+T14	Software-Other 1115 1129	Video Settings
+A16	isOpened T14 f->t
+T16	Software-Other 1144 1149	Skype
+A19	isOpened T16 f->t
+T17	Software-Other 1152 1163	Preferences
+A20	isOpened T17 f->t
+T18	Software-Other 1166 1177	Audio/Video
+A21	isOpened T18 f->t
+T25	Hardware-Devices 310 320	USB camera
+T26	Software-Device-Drivers 358 364	driver
+*	Equiv T25 T2
+T11	Software-Other 933 948	camera settings
+A1	isSettingsChanged T11 true
+A4	isOpened T1 start-F
+A10	isInstalled T26 f->t
+T4	Hardware-Devices 1473 1479	camera
+A3	isUsed T4 true

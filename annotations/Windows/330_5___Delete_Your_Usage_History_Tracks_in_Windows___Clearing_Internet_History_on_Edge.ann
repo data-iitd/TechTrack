@@ -1,0 +1,12 @@
+T1	Software-OS-Related 166 180	Microsoft Edge
+A1	isOpened T1 f->t
+T2	Software-OS-Related 468 476	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 566 586	Choose what to clear
+A3	isOpened T3 f->t
+T4	Software-OS-Related 955 960	Clear
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 709 725	Download History
+T6	Software-OS-Related 732 748	Browsing History
+R1	SubPart Arg1:T5 Arg2:T1	
+R2	SubPart Arg1:T6 Arg2:T1	

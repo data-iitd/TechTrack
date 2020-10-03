@@ -1,0 +1,34 @@
+T1	Software-OS-Related 107 115	Settings
+A1	isOpened T1 f->t
+T3	Software-OS-Related 376 399	Language and Input menu
+T4	Software-Other 481 498	Hacker’s Keyboard
+T6	Hardware-Other 1026 1030	keys
+T7	Hardware-Other 1032 1036	Ctrl
+T8	Hardware-Other 1038 1041	Alt
+T9	Hardware-Other 1047 1049	FN
+T10	Software-Other 1348 1365	Hacker’s Keyboard
+T11	Hardware-Devices 1542 1550	keyboard
+T12	Hardware-Other 1694 1696	PC
+T13	Software-Other 1786 1803	Hacker’s Keyboard
+T14	Software-OS-Related 1862 1881	Android Gingerbread
+T15	Hardware-Other 1947 1954	desktop
+T16	Hardware-Other 2060 2063	Esc
+T17	Hardware-Other 2064 2067	key
+T18	Hardware-Other 2079 2081	PC
+T19	Software-Other 874 882	portrait
+T20	Software-Other 887 896	landscape
+T2	Software-Other 291 317	Hacker’s Keyboard settings
+A2	isOpened T2 f->t
+A3	isInstalled T4 start-T
+T21	Software-Other 692 700	portrait
+A4	isSettingsChanged T21 true
+T22	Software-Other 704 713	landscape
+A5	isSettingsChanged T22 true
+T23	Software-Other 572 585	screen layout
+T24	Software-Other 807 817	row layout
+A6	isSettingsChanged T19 true
+R3	SubPart Arg1:T19 Arg2:T24	
+A7	isSettingsChanged T20 true
+R4	SubPart Arg1:T20 Arg2:T24	
+R1	SubPart Arg1:T21 Arg2:T23	
+R2	SubPart Arg1:T22 Arg2:T23	

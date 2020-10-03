@@ -1,0 +1,29 @@
+Improve the Print Quality of an Inkjet Printer
+https://www.wikihow.com/Improve-the-Print-Quality-of-an-Inkjet-Printer
+
+0 - Adhere to General Best Practices to Improve Print Quality
+
+1 - Use the highest resolution graphic files possible to improve the image quality of photos or graphics printed from a inkjet printer.
+Use the highest resolution graphic files possible to improve the image quality of photos or graphics printed from a inkjet printer. The higher the resolution or "dots-per-inch" (dpi) of the original file, the better the quality of the final product.
+
+2 - Turn off the printer when the device is not in use.
+Turn off the printer when the device is not in use. Leaving the printer on will leave the heads unprotected from dust and debris, which can significantly reduce print quality.
+
+3 - Avoid using paper products other than those recommended by the manufacturer.
+Avoid using paper products other than those recommended by the manufacturer. Inkjet printers are calibrated to work with certain types of paper. Using the wrong paper can result in issues related to color saturation. Use manufacturer recommended paper specifications to achieve the best results.
+
+4 - Reserve high-quality photo ink cartridges for printing images and graphics, and use standard ink cartridges for regular documents.
+Reserve high-quality photo ink cartridges for printing images and graphics, and use standard ink cartridges for regular documents. Clogged or blocked nozzles on the print heads is a common source of issues related to print quality.
+- Protect ink cartridges from dust or damage by storing them in a clean, secure location.
+- Follow the Printer's Recommended Maintenance Schedule to Improve Print Quality
+
+5 - Perform the recommended maintenance on an inkjet printer, as directed by the manufacturer.
+Perform the recommended maintenance on an inkjet printer, as directed by the manufacturer. Blocked nozzles and clogged printer heads are a common source of problems with Inkjet printers, and can significantly compromise print quality.
+
+6 - Perform a head cleaning regularly.
+Perform a head cleaning regularly. All inkjet printers have an automatic head-cleaning feature, which typically is accessed from the printer's control panel.
+
+7 - Perform a printer cartridge or head alignment.
+Perform a printer cartridge or head alignment. This feature is also automated on most inkjet printers, and usually can be accessed from the printer's control panel.
+- Refer to the printer's user manual or contact customer support for additional instructions on properly scheduled maintenance. Other scheduled maintenance tasks will vary by device.
+

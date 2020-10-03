@@ -1,0 +1,30 @@
+Take a Screenshot in Linux
+https://www.wikihow.com/Take-a-Screenshot-in-Linux
+
+0 - Using Shutter
+
+1 - Install Shutter.
+Install Shutter. This is a popular screenshot program that contains some advanced upload and editing capabilities. If you take and share screenshots often, you may want to give this program a try.
+- You can find Shutter through most distribution's package managers. Simply search for "Shutter" and install the program.[1]
+- X
+- Research source
+- 
+- 
+- To install Shutter from the Terminal on Debian-based distributions, type sudo add-apt-repository ppa:shutter/ppa and press ↵ Enter. Update your repositories by typing sudo apt-get update, and then install Shutter by typing sudo apt-get install shutter.
+
+2 - Select the type of screenshot you want to take.
+Select the type of screenshot you want to take. Along the top of the Shutter window, you'll see the three options that you can pick from: "Selection", "Desktop" and "Window". Click the button to select the type of screenshot you want to take.
+
+3 - Take your screenshot.
+Take your screenshot. If you selected "Desktop", your screenshot will be taken automatically. If you selected "Selection", the screen will dim and you can click and drag to create a selection box. Everything inside of the box will be captured. If you selected "Window", you can click the window that you want to take a screenshot of.
+- The screenshot will be saved automatically to your Pictures folder.
+
+4 - Edit the screenshot.
+Edit the screenshot. After taking the screenshot, a preview will appear in the Shutter window. Click the "Edit" button to open the Shutter editor. You can use the editor to highlight things on the screenshot or make notations. Click "Save" when you are finished.
+
+5 - Export the screenshot.
+Export the screenshot. You can send the screenshot to an image upload service, or add an FTP server to upload it to. Click the "Export" button to open the Export menu.
+- In the "Public hosting" tab, you can choose to upload the screenshot to your Dropbox account or a variety of online image hosting websites. You'll be asked for your account credentials when you select one.
+- In the "FTP" tab, you can enter in the connection information for your FTP server, which is useful if you post screenshots on a blog or website.
+- In the "Places" tab, you can move the screenshot to another location on your computer or network.
+

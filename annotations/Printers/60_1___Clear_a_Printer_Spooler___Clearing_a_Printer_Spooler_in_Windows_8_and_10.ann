@@ -1,0 +1,8 @@
+T1	Software-OS-Related 147 157	start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 740 753	Print spooler
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1150 1169	Restart the service
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 1553 1558	Print

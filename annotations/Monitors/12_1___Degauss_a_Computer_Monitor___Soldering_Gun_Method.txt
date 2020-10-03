@@ -1,0 +1,23 @@
+Degauss a Computer Monitor
+https://www.wikihow.com/Degauss-a-Computer-Monitor
+
+0 - Soldering Gun Method
+
+1 - Note:
+Note: You MUST use a soldering gun, not a soldering iron!
+- ;
+
+2 - Hold the soldering gun so that the rear of the case is toward the screen (the tip is facing away from the screen at a 90 degree angle)
+
+Hold the soldering gun so that the rear of the case is toward the screen (the tip is facing away from the screen at a 90 degree angle)
+
+3 - Place the gun in the center of the screen and turn it on, keeping it near but not touching the screen (to prevent scratching)
+
+Place the gun in the center of the screen and turn it on, keeping it near but not touching the screen (to prevent scratching)
+
+4 - Slowly move it to the top edge (or any edge), then slowly around the outer part of the screen (but still in front of the glass) until you return to the top (or the edge you moved out to), again slowly return the gun to the center of the screen.
+Slowly move it to the top edge (or any edge), then slowly around the outer part of the screen (but still in front of the glass) until you return to the top (or the edge you moved out to), again slowly return the gun to the center of the screen.
+
+5 - Keeping the gun on, slowly pull it straight away from the monitor until there is no more distortion visible (usually 3-4 feet), then turn the gun off (it is helpful to create a full-screen white image in MSPaint to display while doing this as it makes the discoloration very easy to see.
+Keeping the gun on, slowly pull it straight away from the monitor until there is no more distortion visible (usually 3-4 feet), then turn the gun off (it is helpful to create a full-screen white image in MSPaint to display while doing this as it makes the discoloration very easy to see. Ctrl + F in MSPaint (which can be found in Accessories) displays the image in fullscreen mode.)
+

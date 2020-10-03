@@ -1,0 +1,49 @@
+T1	Software-Other 130 134	file
+A1	isOpened T1 f->t
+T2	Software-OS-Related 155 160	print
+T3	Software-Other 232 240	document
+T4	Software-Other 242 247	image
+T5	Software-Other 251 259	web page
+T6	Hardware-Other 268 276	computer
+T7	Software-OS-Related 331 343	Print Screen
+T8	Hardware-Other 431 442	⌘ Command+P
+T9	Software-OS-Related 446 449	Mac
+A2	isOpened T9 start-T
+T10	Hardware-Other 453 462	Control+P
+T11	Software-OS-Related 466 473	Windows
+A3	isOpened T11 start-T
+T12	Software-Other 582 590	web page
+T13	Software-Other 566 578	current file
+T14	Hardware-Devices 611 618	printer
+A4	isPowered T14 start-T
+T15	Software-Other 866 874	web page
+T16	Software-Other 881 888	browser
+T17	Software-Other 922 928	Chrome
+A9	isOpened T17 start-T
+T18	Software-Other 936 942	Change
+T19	Software-Other 952 963	Destination
+T20	Software-Other 987 993	Safari
+T21	Software-Other 995 1002	Firefox
+T22	Software-OS-Related 1054 1057	Mac
+T23	Software-OS-Related 1062 1069	Windows
+T24	Software-Other 1090 1107	printing settings
+T25	Software-Other 1181 1189	browsers
+T26	Software-Other 1168 1176	programs
+T27	Software-Other 1229 1239	paper size
+T28	Software-Other 1241 1252	orientation
+T29	Software-Other 1258 1274	number of copies
+T30	Hardware-Other 1334 1341	↵ Enter
+T31	Hardware-Other 1345 1353	⏎ Return
+T32	Hardware-Devices 1362 1370	keyboard
+T33	Hardware-Devices 1475 1482	printer
+A6	isPowered T32 start-T
+A5	isSettingsChanged T27 true
+A7	isSettingsChanged T28 true
+A8	isSettingsChanged T29 true
+R1	SubPart Arg1:T27 Arg2:T24	
+R2	SubPart Arg1:T28 Arg2:T24	
+R3	SubPart Arg1:T29 Arg2:T24	
+A10	isUsed T33 true
+T34	Software-OS-Related 1560 1565	Print
+A11	isSettingsChanged T34 true
+R4	SubPart Arg1:T34 Arg2:T7	

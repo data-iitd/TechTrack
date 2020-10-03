@@ -1,0 +1,22 @@
+T6	Software-OS-Related 563 573	Apple menu
+T7	Software-OS-Related 586 604	System Preferences
+A7	isOpened T7 f->t
+T8	Hardware-Other 767 775	computer
+T10	Hardware-Devices 945 953	keyboard
+T11	Software-OS-Related 1102 1115	Input Sources
+A13	isOpened T11 f->t
+T18	Software-OS-Related 2003 2009	window
+T19	Hardware-Devices 2154 2160	screen
+T20	Software-OS-Related 171 180	languages
+A25	isSettingsChanged T20 true
+T4	Software-OS-Related 904 921	keyboard settings
+T22	Software-OS-Related 1218 1227	languages
+T23	Software-OS-Related 1330 1334	menu
+A1	isOpened T23 f->t
+T25	Software-OS-Related 1796 1804	language
+A2	isOpened T6 f->t
+A4	isSettingsChanged T25 true
+A3	isOpened T20 f->t
+R1	SubPart Arg1:T25 Arg2:T4	
+T1	Hardware-Devices 1171 1179	Keyboard
+T2	Hardware-Devices 2186 2194	keyboard

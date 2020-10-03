@@ -1,0 +1,12 @@
+T2	Software-OS-Related 577 582	Sound
+A1	isOpened T2 start-T
+T3	Software-OS-Related 649 661	Troubleshoot
+A2	isOpened T3 f->t
+T5	Software-OS-Related 809 821	audio device
+A3	isOpened T5 start-T
+T6	Software-OS-Related 834 846	troubleshoot
+T1	Software-OS-Related 162 173	Start  menu
+A5	isOpened T1 f->t
+T9	Software-OS-Related 185 191	System
+R1	SubPart Arg1:T9 Arg2:T1	
+A6	isOpened T9 f->t

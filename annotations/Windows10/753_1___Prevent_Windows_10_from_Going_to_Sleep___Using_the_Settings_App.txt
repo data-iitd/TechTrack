@@ -1,0 +1,22 @@
+Prevent Windows 10 from Going to Sleep
+https://www.wikihow.com/Prevent-Windows-10-from-Going-to-Sleep
+
+0 - Using the Settings App
+
+1 - Open the Settings app
+Open the Settings app. Press the Start  button in the lower-left corner of your screen and select the settings gear.
+- ;
+
+2 - Go to System.
+Go to System. It's the first category to the very left of the app.
+
+3 - Open the Power settings.
+Open the Power settings. Select Power and sleep from the left pane.
+
+4 - Locate at the sleep settings.
+Locate at the sleep settings. They'll be under the "Sleep" header, which is below the power settings.
+
+5 - Disable sleep.
+Disable sleep. Set both the dropdowns under "Sleep" to Never.
+- The duration which you can set after your PC should go to sleep when on battery, and on plugged in both states.[
+

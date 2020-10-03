@@ -1,0 +1,25 @@
+Install Tor on Linux
+https://www.wikihow.com/Install-Tor-on-Linux
+
+0 - Downloading the Tor Package
+
+1 - Open the Tor website.
+Open the Tor website. Go to https://www.torproject.org/projects/torbrowser.html in your web browser. This is where you'll download the Tor setup file.
+- ;
+
+2 - Click the Download tab.
+Click the Download tab. It's in the upper-right corner of the page. Doing so takes you to the Tor download page.
+
+3 - Click DOWNLOAD.
+Click DOWNLOAD. This purple button is on the far-left side of the page.
+- This button should have "Linux 64-bit" written at the bottom of it. If you see another operating system's name (e.g., "Windows"), first click the Linux link to the right of the button.
+- If asked what to do with the setup file, make sure that you select the "Save" or "Download" option before proceeding.
+
+4 - Wait for the setup file to download.
+Wait for the setup file to download. This should only take a few seconds.
+
+5 - Note the setup file's name.
+Note the setup file's name. You should see the setup file's name somewhere in the window; you'll need to know the language and version for the Tor setup file in order to install it.
+- For example, downloading the U.S. English version of Tor would result in the file name "tor-browser-linux64-7.5.2_en-US.tar.xz" for the most recent 64-bit version of Tor.
+- If you can't find the file's name, you'll be able to review it in the Downloads folder on your computer.
+

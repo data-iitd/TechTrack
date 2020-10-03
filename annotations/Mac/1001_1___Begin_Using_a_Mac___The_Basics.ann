@@ -1,0 +1,29 @@
+T1	Hardware-Devices 94 102	computer
+A1	isPowered T1 f->t
+T6	Software-OS-Related 403 407	menu
+T7	Hardware-Devices 413 416	Mac
+T21	Software-OS-Related 862 880	System Preferences
+T26	Software-OS-Related 1039 1045	Finder
+T34	Software-OS-Related 1252 1263	application
+T41	Software-OS-Related 1479 1483	Dock
+T42	Software-OS-Related 1518 1522	menu
+T46	Software-OS-Related 1578 1588	red button
+T54	Software-OS-Related 1882 1895	yellow button
+T56	Software-OS-Related 1943 1952	Title Bar
+T60	Software-OS-Related 2032 2044	green button
+T63	Software-OS-Related 2146 2154	Menu Bar
+T65	Software-OS-Related 2170 2174	Quit
+A9	isOpened T56 f->t
+A14	isOpened T6 f->t
+A21	isOpened T21 f->t
+T3	Software-OS-Related 700 713	shortcut menu
+T2	Software-OS-Related 1225 1235	Force quit
+A2	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T42	
+A3	isOpened T46 t->f
+A4	isSettingsChanged T54 true
+A5	isSettingsChanged T60 true
+T4	Software-OS-Related 2122 2138	application name
+A6	isOpened T4 f->t
+A7	isSettingsChanged T65 true
+A8	isOpened T3 f->t

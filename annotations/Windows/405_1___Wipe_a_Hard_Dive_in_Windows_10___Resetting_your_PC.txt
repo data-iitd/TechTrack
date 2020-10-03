@@ -1,0 +1,33 @@
+Wipe a Hard Dive in Windows 10
+https://www.wikihow.com/Wipe-a-Hard-Dive-in-Windows-10
+
+0 - Resetting your PC
+
+1 - Plug your computer into a power supply.
+Plug your computer into a power supply. If you’re using a laptop, you’ll want to make sure you don’t run out of battery power during this process.
+- ;
+
+2 - Right-click the  button.
+Right-click the  button. It’s usually at the bottom-left corner of the screen. Use this method to delete all of your data off of the PC and install a fresh version of Windows.
+
+3 - Click Settings.
+Click Settings. It’s toward the bottom of the menu.
+
+4 - Click Security & updates.
+Click Security & updates. It’s the icon with two curved arrows.
+
+5 - Click Recovery.
+Click Recovery. It’s in the left column.
+
+6 - Click Get started under “Reset this PC.
+Click Get started under “Reset this PC.” It’s the first button in the main panel.
+
+7 - Click Restore factory settings.
+Click Restore factory settings. This will erase the contents of the hard drive and then reinstall the factory version of Windows.
+
+8 - Click Remove files and clean the drive.
+Click Remove files and clean the drive. This formats the drive so that it will be more difficult for someone to recover your deleted data.
+
+9 - Click Reset.
+Click Reset. Your hard drive will now begin to format and then Windows will be reinstalled. This process may take several hours.
+

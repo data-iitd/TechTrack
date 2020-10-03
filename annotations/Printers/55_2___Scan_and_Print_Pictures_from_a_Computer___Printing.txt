@@ -1,0 +1,26 @@
+Scan and Print Pictures from a Computer
+https://www.wikihow.com/Scan-and-Print-Pictures-from-a-Computer
+
+0 - Printing
+
+1 - Launch the program that you use to view your pictures.
+Launch the program that you use to view your pictures. Sometimes this can be based off your operating system and sometimes this is a third-party software (such as Adobe Photoshop) or sometimes it's another program entirely different.
+
+2 - Open the file of the picture you saved previously in this program.
+Open the file of the picture you saved previously in this program. Most often times, this will be done with a quick keyboard shortcut of Ctrl+O, but you'll need to refer to your program documentation menus to ensure this can be done in your program, as not all programs use the same methods to open the Open window.
+
+3 - Preview your picture, as you turn on your printer (if it isn't initially on).
+Preview your picture, as you turn on your printer (if it isn't initially on). Make sure that the picture is really the one you want to view. Make any final adjustments to the picture to make the picture even better. If you aren't a photo-expert and can trust your program to make good decisions, use an Auto-Adjust setting to fix up your photos in edit mode. If you can't, you can manually adjust them with sliders and within the program boundaries until they are to exactly the style you'd like them to be.
+
+4 - Save your file to ensure the most current picture will print, if you've made any changes.
+Save your file to ensure the most current picture will print, if you've made any changes.
+
+5 - Use the keyboard shortcut Ctrl+P or whatever keyboard shortcut the print menu can be found in.
+Use the keyboard shortcut Ctrl+P or whatever keyboard shortcut the print menu can be found in.
+
+6 - Select the printer it should be printing on, as well as any other document style specifications that might need to be set.
+Select the printer it should be printing on, as well as any other document style specifications that might need to be set. This may include the amount of copies that need to be printed, as well as type of paper that is installed in the printer. Some printers will need you to select other options such as borderless printing and the like, but each printer is different, so follow the directions to your particular printer to find out what that printer is capable of printing.
+
+7 - Print the photo.
+Print the photo. Use the buttons on your computer to print the photo.
+

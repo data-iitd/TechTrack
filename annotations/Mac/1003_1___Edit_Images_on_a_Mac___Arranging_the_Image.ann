@@ -1,0 +1,16 @@
+T1	Software-Other 140 156	rotate the image
+T2	Software-Other 433 438	Tools
+T5	Software-Other 1367 1388	Rectangular Selection
+T8	Software-Other 1980 1984	Crop
+T9	Software-Other 1472 1497	elliptical selection tool
+T10	Software-Other 1506 1516	lasso tool
+A1	isSettingsChanged T1 true
+A2	isSettingsChanged T2 true
+T11	Software-Other 596 611	Flip Horizontal
+A3	isSettingsChanged T11 true
+T12	Software-Other 615 628	Flip Vertical
+A4	isSettingsChanged T12 true
+A5	isSettingsChanged T5 true
+A6	isSettingsChanged T8 true
+R1	SubPart Arg1:T11 Arg2:T1	
+R2	SubPart Arg1:T12 Arg2:T1	

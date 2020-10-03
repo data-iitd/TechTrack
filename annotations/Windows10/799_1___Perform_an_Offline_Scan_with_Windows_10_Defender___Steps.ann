@@ -1,0 +1,26 @@
+T1	Software-OS-Related 148 180	Windows Defender Security Center
+A1	isOpened T1 f->t
+T2	Software-OS-Related 583 602	Update and Security
+A2	isOpened T2 f->t
+T3	Software-OS-Related 672 697	Virus & threat protection
+A3	isOpened T3 f->t
+T4	Software-OS-Related 433 438	Start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 831 849	Protection updates
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1032 1049	Check for Updates
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1493 1506	Advanced scan
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1685 1708	Run a new advanced scan
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1750 1779	Windows Defender Offline scan
+A9	isOpened T9 f->t
+T11	Software-OS-Related 1903 1911	Scan now
+A11	isOpened T11 f->t
+T10	Software-OS-Related 1970 1974	Scan
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T3	
+T12	Hardware-Devices 2291 2299	computer
+T14	Software-OS-Related 2345 2352	restart
+T13	Software-OS-Related 2184 2187	Yes

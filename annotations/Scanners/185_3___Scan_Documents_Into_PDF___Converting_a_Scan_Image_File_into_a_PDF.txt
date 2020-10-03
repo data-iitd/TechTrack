@@ -1,0 +1,24 @@
+Scan Documents Into PDF
+https://www.wikihow.com/Scan-Documents-Into-PDF
+
+0 - Converting a Scan Image File into a PDF
+
+1 - Open the PNG to PDF website.
+Open the PNG to PDF website. Go to http://png2pdf.com/ in your computer's web browser. If you weren't able to scan a document directly into a PDF, this website will allow you to turn a scanned image (e.g., a PNG) file into a PDF.
+- If you scanned your document into your computer as a JPG file, go to http://jpg2pdf.com/ instead.
+
+2 - Click UPLOAD FILES.
+Click UPLOAD FILES. It's in the middle of the page. Doing so opens a File Explorer (Windows) or Finder (Mac) window.
+
+3 - Select your scanned image.
+Select your scanned image. Go to the folder in which your scanned image was saved, then click the image to select it.
+
+4 - Click Open.
+Click Open. It's in the bottom-right corner of the window. This will upload the image to the PNG (or JPG) to PDF site.
+
+5 - Wait for your image to convert into a PDF.
+Wait for your image to convert into a PDF. This should only take a few seconds.
+
+6 - Click DOWNLOAD.
+Click DOWNLOAD. It's below your converted file in the middle of the window. Doing so will prompt your PDF to download onto your computer.
+

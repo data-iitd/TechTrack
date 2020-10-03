@@ -1,0 +1,19 @@
+T1	Software-OS-Related 937 965	System Configuration Desktop
+A1	isOpened T1 start-F
+T2	Software-OS-Related 244 247	Run
+T3	Software-OS-Related 358 360	OK
+A2	isOpened T3 f->t
+T4	Software-OS-Related 997 1001	Boot
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1344 1353	Safe boot
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1612 1621	Safe boot
+A5	isOpened T6 f->t
+T7	Software-OS-Related 2069 2084	Alternate Shell
+T8	Software-OS-Related 2290 2313	Active Directory Repair
+T9	Software-OS-Related 2559 2566	Network
+T10	Software-OS-Related 2903 2910	Restart
+T11	Software-OS-Related 3107 3127	Exit without restart
+A6	isOpened T11 f->t
+T12	Software-OS-Related 152 177	System Configuration tool
+A7	isOpened T12 f->t

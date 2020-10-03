@@ -1,0 +1,11 @@
+T1	Software-OS-Related 187 204	Screen Saver menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 346 376	any of the photo screen savers
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 527 533	Source
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1044 1063	Shuffle slide order
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 630 652	source you want to use
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T4 Arg2:T1	

@@ -1,0 +1,37 @@
+T1	Hardware-Other 155 162	NumLock
+T2	Hardware-Other 167 182	Fn+NumLock keys
+T3	Hardware-Other 229 236	laptops
+T4	Hardware-Devices 270 278	keyboard
+A1	isPowered T4 start-T
+T7	Software-OS-Related 923 931	Toolbars
+T8	Software-OS-Related 936 948	Language bar
+T9	Hardware-Other 973 987	Windows button
+T10	Hardware-Other 1002 1010	Spacebar
+T11	Software-OS-Related 1071 1089	Windows Start menu
+A8	isOpened T11 f->t
+T12	Software-OS-Related 1221 1234	Control Panel
+A9	isOpened T12 f->t
+T13	Software-OS-Related 1283 1293	Start menu
+T14	Software-OS-Related 1437 1476	Change keyboards or other input methods
+A11	isOpened T14 f->t
+T16	Software-OS-Related 1572 1585	Control Panel
+T17	Software-OS-Related 1662 1689	Keyboards and Languages tab
+A14	isOpened T17 f->t
+T19	Software-OS-Related 1837 1853	Change keyboards
+T26	Software-OS-Related 507 515	language
+T27	Software-OS-Related 563 572	keyboards
+A2	isSettingsChanged T27 true
+T29	Hardware-Devices 1369 1378	keyboards
+T30	Hardware-Devices 1952 1961	keyboards
+T33	Software-OS-Related 2231 2246	keyboard layout
+T36	Software-OS-Related 2600 2615	keyboard layout
+A4	isSettingsChanged T19 true
+A5	isOpened T7 f->t
+A6	isOpened T8 f->t
+R1	SubPart Arg1:T19 Arg2:T17	
+T5	Software-OS-Related 2187 2205	preferred language
+A3	isSettingsChanged T5 true
+A12	isSettingsChanged T33 true
+R4	SubPart Arg1:T5 Arg2:T17	
+R5	SubPart Arg1:T33 Arg2:T17	
+T6	Hardware-Devices 3268 3276	keyboard

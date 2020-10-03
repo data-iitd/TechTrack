@@ -1,0 +1,31 @@
+Add a Dashboard Widget on a Mac
+https://www.wikihow.com/Add-a-Dashboard-Widget-on-a-Mac
+
+0 - Steps
+
+1 - Open the Dashboard.
+Open the Dashboard. The Dashboard can be found in your Applications folder, or by clicking on the Dashboard icon in the Dock.
+- If you are using 10.7 or a newer version of OS X, you can click on Mission Control. Dashboard is located in the top-left.
+- ;
+
+2 - Click the + icon at the bottom-left corner of the Dashboard.
+Click the + icon at the bottom-left corner of the Dashboard. Pressing an icon will display the widget in your Dashboard
+
+3 - Click More Widgets next to the "+" and "-" buttons.
+Click More Widgets next to the "+" and "-" buttons.
+
+4 - Select a category and pick a widget.
+Select a category and pick a widget. Then click Download.
+
+5 - Unzip the file by double-clicking on it.
+Unzip the file by double-clicking on it.
+
+6 - Open the file and click Install.
+Open the file and click Install. This will install the widget to your computer, but not the Dashboard.
+
+7 - Click the icon for your widget.
+Click the icon for your widget. This will install it to your dashboard.
+
+8 - Start using your widget!
+Start using your widget!
+

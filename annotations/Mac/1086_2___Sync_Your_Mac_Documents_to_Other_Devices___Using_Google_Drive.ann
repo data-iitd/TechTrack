@@ -1,0 +1,20 @@
+T1	Software-Other 204 241	https://drive.google.com/ on your Mac
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 282 311	Sign into your Google account
+A3	isOpened T2 f->t
+T3	Software-Other 405 408	New
+A4	isOpened T3 f->t
+T4	Software-Other 443 454	File Upload
+A5	isSettingsChanged T4 true
+T5	Software-Other 581 602	file on your computer
+A6	isSettingsChanged T5 true
+T6	Software-Other 640 644	Open
+A7	isSettingsChanged T6 true
+T7	Software-Other 807 832	https://drive.google.com/
+A8	isOpened T7 f->t
+A9	isInstalled T7 f->t
+T8	Software-Other 984 1013	Sign into your Google account
+A10	isOpened T8 f->t
+R1	SubPart Arg1:T8 Arg2:T7	
+R2	SubPart Arg1:T4 Arg2:T2	

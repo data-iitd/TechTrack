@@ -1,0 +1,21 @@
+Check Direct X Version
+https://www.wikihow.com/Check-Direct-X-Version
+
+0 - Find DirectX Version on Vista
+
+1 - Click on the Windows icon in the bottom left corner of the screen.
+Click on the Windows icon in the bottom left corner of the screen.
+- ;
+
+2 - Type "Dxdiag" in the space labeled "Search Programs and Files.
+Type "Dxdiag" in the space labeled "Search Programs and Files." The DirectX Diagnostic Tool window will launch.
+
+3 - Click on the "System" tab.
+Click on the "System" tab. The tab may be the first to present when the DirectX Diagnostic Window opens. If not, it should be the first tab on the top left.
+
+4 - Look on the system tab for a section labeled "System Information.
+Look on the system tab for a section labeled "System Information." Scan down to the bottom of the list for a section labeled "DirectX Version" where you should see your version.
+
+5 - Click the "Exit" button in the DirectX Diagnostic tool to close the window.
+Click the "Exit" button in the DirectX Diagnostic tool to close the window.
+

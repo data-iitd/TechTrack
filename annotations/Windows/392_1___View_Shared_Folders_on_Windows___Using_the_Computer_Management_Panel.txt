@@ -1,0 +1,24 @@
+View Shared Folders on Windows
+https://www.wikihow.com/View-Shared-Folders-on-Windows
+
+0 - Using the Computer Management Panel
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the Windows search bar.
+
+2 - Type computer management.
+Type computer management. A list of matching results will appear.
+
+3 - Click Computer Management.
+Click Computer Management.
+
+4 - Double-click Shared Folders.
+Double-click Shared Folders. It's in the left column.[1]
+- X
+- Research source
+- 
+-  This expands a list of subfolders.
+
+5 - Click Shares.
+Click Shares. You'll only have to click it once. A list of shared folders will appear.
+

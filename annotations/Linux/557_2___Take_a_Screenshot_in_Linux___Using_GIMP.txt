@@ -1,0 +1,23 @@
+Take a Screenshot in Linux
+https://www.wikihow.com/Take-a-Screenshot-in-Linux
+
+0 - Using GIMP
+
+1 - Install GIMP.
+Install GIMP. GIMP is a free image editor that comes installed on some Linux distributions. If you don't have it installed, you can get it for free using your distribution's package manager or Software Center. Open the Software Center, search for "gimp", and then install the "GIMP Image Editor".
+
+2 - Click the "File" menu and select "Create" → "Screenshot".
+Click the "File" menu and select "Create" → "Screenshot". The screenshot creation tool will open. This tool is very similar to the Gnome Screenshot utility.
+
+3 - Select the type of screenshot you want to take.
+Select the type of screenshot you want to take. You can choose to take three different types of screenshots: single window, full-screen, or custom selection. If you choose the single window option, you'll be able to click the window that you want to take a screenshot of.
+
+4 - Add a delay.
+Add a delay. You can add a delay before the screenshot is taken so that you can arrange everything exactly how you want it. If you have single window or custom screenshots selected, you'll choose your screenshot target after the delay timer runs out.
+
+5 - Click "Snap" to take the screenshot.
+Click "Snap" to take the screenshot. Depending on your settings, the screenshot may be taken immediately. When you're finished, the screenshot will open in the GIMP editing window.
+
+6 - Save the screenshot.
+Save the screenshot. If you don't want to make any edits to the screenshot, you can save it to your hard drive. Click the "File" menu and select "Export". Give the screenshot a name and choose where you would like to save it. Click the "Export" button once you are satisfied.
+

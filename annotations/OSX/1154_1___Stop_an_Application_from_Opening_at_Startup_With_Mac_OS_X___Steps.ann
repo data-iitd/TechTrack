@@ -1,0 +1,12 @@
+T1	Software-OS-Related 170 180	Apple Menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 294 313	System Preferences…
+A2	isOpened T2 f->t
+T3	Software-OS-Related 362 376	Users & Groups
+A3	isOpened T3 f->t
+T4	Software-OS-Related 464 475	Login Items
+A4	isOpened T4 f->t
+T5	Software-OS-Related 532 543	application
+T6	Software-OS-Related 735 736	➖
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	

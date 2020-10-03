@@ -1,0 +1,32 @@
+Turn Off Notifications on PC or Mac
+https://www.wikihow.com/Turn-Off-Notifications-on-PC-or-Mac
+
+0 - Disabling Notifications in Windows
+
+1 - Click the  menu.
+Click the  menu. It's usually at the bottom-left corner of the screen.
+- ;
+
+2 - Click  Settings.
+Click  Settings. It's near the bottom-left corner of the menu.
+
+3 - Click System.
+Click System. It's the first icon in the list.
+
+4 - Click Notifications & actions.
+Click Notifications & actions. It's near the top of the left column.
+
+5 - Scroll down to the “Notifications” section.
+Scroll down to the “Notifications” section. A list of notifications types and their switches will appear.
+- On  means that notifications of this type are enabled.
+- Off  means that you do not currently receive this type of notification.
+
+6 - Disable all app notifications.
+Disable all app notifications. To stop all Windows app notifications, slide the “Get notifications from apps and other senders” to Off .
+
+7 - Disable notifications from specific apps.
+Disable notifications from specific apps. If you want to receive notifications from some apps but not others:
+- Leave “Get notifications from apps and other senders” On .
+- Scroll down to the “Get notifications from these senders” section.
+- Use each app's own switch to turn notifications on or off for that app.
+

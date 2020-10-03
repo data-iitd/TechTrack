@@ -1,0 +1,32 @@
+Add a Laser Printer to a Home Network
+https://www.wikihow.com/Add-a-Laser-Printer-to-a-Home-Network
+
+0 - Add a Network Laser Printer to a Home Network
+
+1 - Determine the type of connection to use.
+Determine the type of connection to use. To add a network printer directly to a home network, a physical connection to a network router or hub is required. This connection could be made using an Ethernet cable, a USB cable or a wireless connection. Refer to the documentation included with your device to determine which connection methods are available.
+- ;
+
+2 - Establish a connection between the laser printer and the router or hub using an Ethernet or USB cable.
+Establish a connection between the laser printer and the router or hub using an Ethernet or USB cable. Refer to the device manual for instructions on how to connect the printer to the hub or router.
+- Plug 1 end of the Ethernet cable into the Ethernet connection port on the printer, and plug the other end of the Ethernet port on the network router or hub when using an Ethernet connection.
+- Insert the square end of the USB cable into the matching port on the laser printer and the rectangular end into and empty USB port on the network router or hub when using a USB connection.
+
+3 - Establish a connection between the laser printer and the router or hub using a wireless connection.
+Establish a connection between the laser printer and the router or hub using a wireless connection.
+- Press the setup button on the laser printer's control panel to open the setup wizard. The name assigned to your network should appear in the list of available networks.
+- Enter the network name and password when prompted by the setup wizard, and click OK. A wireless connection has been established between the laser printer and the router or hub.
+
+4 - Establish a connection between the network and the laser printer.
+Establish a connection between the network and the laser printer. Now that a physical connection between the device and the router or hub has been made, it is possible to add the laser printer to the home network.
+- Open the control panel from the Start Menu options and click the Printers icon to open the Printers folder.
+- Double-click the "Add a printer" option located in the toolbar. The Add Printer dialogue box will open.
+- Click on "Add a network, wireless or Bluetooth printer," and click Next.
+- Select the newly connected device from the options listed and click Finish. The laser printer has been added to the network.
+
+5 - Make a connection between other computers on the network and the newly installed laser printer.
+Make a connection between other computers on the network and the newly installed laser printer. After you have connected the network printer to the router or hub and added it to the network, a connection will need to opened for each computer installed on the network.
+- Open the Printers folder from the control panel and double-click the "Add a printer" option in the toolbar.
+- Choose "Add a network, wireless or Bluetooth printer," and click Next.
+- Select the newly installed printer from the list of available devices and click Finish. Repeat this step for each computer connected to the network. A connection to the laser printer has been opened for each computer installed on the home network.
+

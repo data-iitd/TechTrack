@@ -1,0 +1,41 @@
+Set Up a Database in the SPSS System
+https://www.wikihow.com/Set-Up-a-Database-in-the-SPSS-System
+
+0 - Steps
+
+1 - Open the SPSS:
+Open the SPSS: Click the Start button in the bottom left-hand corner of the screen and select SPSS from the menu of programs
+- ;
+
+2 - In the SPSS Data Editor, there have two components:
+In the SPSS Data Editor, there have two components: Data View and Variable View. Choosing the Data View by click the Data View button on the left-hand corner of the screen to enter the data..
+
+3 - After entered the data, changing the screen to the Variable View, simply click the Variable
+
+After entered the data, changing the screen to the Variable View, simply click the Variable
+
+4 - View button which is right beside the Data View button.
+View button which is right beside the Data View button.
+
+5 - To provide a variable name, click on the current variable name (for example, var00003) and type a name for it (for example, reasons)
+
+To provide a variable name, click on the current variable name (for example, var00003) and type a name for it (for example, reasons)
+
+6 - Give the variable a more detailed designation, known in SPSS as a Variable Label.
+Give the variable a more detailed designation, known in SPSS as a Variable Label. To do this, click the cell in the Label column for this variable, then, type in the variable label (for example, reasons for visiting).
+
+7 - Provide the value of the variable:
+Provide the value of the variable: To assign value labels, click the cell in the Values column for the variable in question. A small button with three dots on it appears. Click that button. The Value Labels dialogue box appears
+
+8 - To define the value labels:
+To define the value labels: enter the value in the area to the right of Value:, and the type in the value label in the area to the right of Label:. Then click Add.
+
+9 - Save the data:
+Save the data: Click the File and then choose the Save As. Put the name for the file and chooses the destination drive, then save it.
+
+10 - Analyzing the data and variables:
+Analyzing the data and variables: Make a selection from the menu bar at the top of the screen, for example, Analyze11.	From the menu that will appear, make a selection, for example Descriptive Statistics
+
+11 - This will bring up another menu where you provide more information, such as the operation to be performed, for example Frequencies.
+This will bring up another menu where you provide more information, such as the operation to be performed, for example Frequencies. Then you will get a new dialogue box which will provide the information for the whole statistics.
+

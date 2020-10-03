@@ -1,0 +1,6 @@
+T4	Software-Other 778 786	priority
+A4	isOpened T4 f->t
+T1	Software-OS-Related 225 237	Task Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 527 539	process list
+A2	isOpened T2 f->t

@@ -1,0 +1,4 @@
+T1	Software-OS-Related 900 906	Repair
+A1	isOpened T1 f->t
+T2	Software-OS-Related 943 949	Repair
+T3	Software-OS-Related 1246 1263	Reinstall Windows

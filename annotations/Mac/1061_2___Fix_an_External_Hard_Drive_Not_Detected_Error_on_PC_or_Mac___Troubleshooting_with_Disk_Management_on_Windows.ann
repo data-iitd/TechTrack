@@ -1,0 +1,30 @@
+T1	Software-OS-Related 268 281	Windows Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 500 515	Disk Management
+A2	isOpened T2 f->t
+T3	Software-OS-Related 651 670	external hard drive
+A3	isOpened T3 f->t
+T4	Software-OS-Related 842 871	Change Drive Letter and Paths
+A4	isOpened T4 f->t
+T5	Software-OS-Related 981 987	Change
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1091 1107	new drive letter
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1118 1120	Ok
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1414 1432	unallocated space.
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1589 1604	Initialize Disk
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1691 1693	Ok
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 2653 2672	external hard drive
+A11	isOpened T11 f->t
+T12	Software-OS-Related 2702 2708	Format
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 2773 2784	File System
+A13	isSettingsChanged T13 true
+T14	Software-OS-Related 2796 2798	Ok
+A14	isSettingsChanged T14 true
+R1	SubPart Arg1:T5 Arg2:T2	
+R2	SubPart Arg1:T9 Arg2:T2	

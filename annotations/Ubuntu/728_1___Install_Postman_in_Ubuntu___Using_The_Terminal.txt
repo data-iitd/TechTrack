@@ -1,0 +1,25 @@
+Install Postman in Ubuntu
+https://www.wikihow.com/Install-Postman-in-Ubuntu
+
+0 - Using The Terminal
+
+1 - Make sure Snap is installed.
+Make sure Snap is installed. If you are running Ubuntu 16.04 LTS or later, Snap is already installed and you don't need to do anything. If you are running any version below that, you need to install Snap.
+- To check your Ubuntu version, open the terminal by clicking on the terminal icon or using the Ctrl + Alt + T keystroke. Type lsb_release -a and hit Enter. The version appears in the Description and Release fields.
+- ;
+
+2 - Install Snap if required.
+Install Snap if required. Open the terminal by clicking on the terminal icon or using the Ctrl + Alt + T keystroke. Type sudo apt update followed by sudo apt install snapd in another line. Hit ↵ Enter.
+
+3 - Restart your computer after installing Snap, or log out and then log back in again.
+Restart your computer after installing Snap, or log out and then log back in again. Access the power settings from the power icon in the corner of the screen.
+
+4 - Open the terminal.
+Open the terminal. Click on the terminal icon or hold down Ctrl + Alt + T.
+
+5 - Install Postman.
+Install Postman. Type sudo snap install postman into the terminal and hit ↵ Enter.
+
+6 - Wait for Postman to finish downloading.
+Wait for Postman to finish downloading. Once installed, an output message will be displayed saying Postman has installed.
+

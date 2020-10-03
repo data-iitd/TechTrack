@@ -1,0 +1,15 @@
+T1	Software-OS-Related 149 154	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 238 251	Sound & Video
+A2	isOpened T2 f->t
+T3	Software-OS-Related 264 274	Radio Tray
+A3	isOpened T3 f->t
+T4	Software-OS-Related 505 511	cursor
+T5	Software-OS-Related 421 427	genres
+T6	Software-OS-Related 519 524	genre
+T7	Software-OS-Related 543 556	radio station
+T8	Software-OS-Related 707 713	Oldies
+A4	isOpened T8 f->t
+T9	Software-OS-Related 735 754	Antioch OTR AM 1710
+A5	isOpened T9 f->t
+T10	Software-OS-Related 774 786	notification

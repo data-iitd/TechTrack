@@ -1,0 +1,13 @@
+T1	Software-OS-Related 677 688	Charms menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 703 711	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 791 802	PC Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 907 926	Update and recovery
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1021 1029	Recovery
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1086 1097	Get started
+A6	isOpened T6 f->t

@@ -1,0 +1,14 @@
+T1	Software-OS-Related 125 130	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 181 189	settings
+A2	isOpened T2 f->t
+T4	Software-OS-Related 342 348	Camera
+T7	Hardware-Devices 582 588	webcam
+T8	Software-OS-Related 920 952	Allow apps to access your camera
+T9	Hardware-Devices 1046 1052	webcam
+T11	Software-OS-Related 1235 1276	Allow access to the camera on this device
+T3	Software-OS-Related 282 298	Privacy settings
+A3	isOpened T3 f->t
+A5	isOpened T4 f->t
+R2	SubPart Arg1:T8 Arg2:T3	
+A6	isSettingsChanged T11 true

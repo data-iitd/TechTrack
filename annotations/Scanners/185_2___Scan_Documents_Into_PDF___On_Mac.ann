@@ -1,0 +1,31 @@
+T1	Hardware-Devices 107 114	scanner
+T2	Hardware-Other 123 131	computer
+T3	Hardware-Other 224 233	USB cable
+T4	Hardware-Other 367 392	manufacturer's user guide
+T5	Hardware-Other 486 494	document
+T6	Hardware-Devices 502 509	scanner
+A3	isPowered T1 start-T
+A4	isConnected T1 f->t
+T12	Software-OS-Related 807 819	Applications
+A9	isOpened T12 f->t
+T15	Software-OS-Related 951 964	Image Capture
+A12	isOpened T15 f->t
+T16	Hardware-Other 1027 1033	camera
+T17	Hardware-Devices 1133 1140	scanner
+T20	Software-OS-Related 1342 1351	Scan Mode
+T22	Hardware-Other 1430 1439	documents
+T23	Hardware-Other 1475 1480	chute
+T25	Hardware-Other 1585 1588	lid
+T26	Software-OS-Related 1707 1714	Scan To
+T33	Hardware-Other 2033 2041	document
+T34	Hardware-Other 2151 2159	computer
+T37	Hardware-Other 2318 2326	document
+T38	Hardware-Other 2337 2345	computer
+A1	isSettingsChanged T20 true
+R1	SubPart Arg1:T20 Arg2:T15	
+T7	Software-OS-Related 1825 1841	Format drop-down
+T8	Software-OS-Related 1983 1999	Format drop-down
+A2	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T15	
+A5	isSettingsChanged T26 true
+R3	SubPart Arg1:T26 Arg2:T15	

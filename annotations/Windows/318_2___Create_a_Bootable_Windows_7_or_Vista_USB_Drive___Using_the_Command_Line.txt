@@ -1,0 +1,29 @@
+Create a Bootable Windows 7 or Vista USB Drive
+https://www.wikihow.com/Create-a-Bootable-Windows-7-or-Vista-USB-Drive
+
+0 - Using the Command Line
+
+1 - Plug-in your Flash Drive.
+Plug-in your Flash Drive. First plug-in your USB stick to your USB port and copy all the content to a safe location in your hard drive.
+
+2 - Run Command Prompt as an administrator.
+Run Command Prompt as an administrator. To open a command prompt, go to the Start menu and search for CMD. Right-click on it and select Run as Administrator to use it with admin rights.
+
+3 - Using the Diskpart utility find the drive number of your flash drive.
+Using the Diskpart utility find the drive number of your flash drive. To do so, type in the following command in the command prompt: DISKPART
+- Running DISKPART will display the version of DISKPART you are running and the name of your PC.
+- Type “list disk” to see a display of all your connected disk drives. Make a note of the number assigned to your Flash drive.
+
+4 - Format the drive.
+Format the drive. Execute the following list of commands one-by-one. Make sure you replace Disk 1 with the proper Disk number from DISKPART.select disk 1cleancreate partition primaryselect partition 1activeformat fs=NTFS QUICKassignexit
+
+5 - Make the flash drive bootable.
+Make the flash drive bootable. Use the bootsect utility that is shipped with Windows 7/Vista. To do so:
+- Insert the Windows 7/Vista DVD and note down the drive letter of the DVD drive. For this guide, the DVD drive is D: and the USB drive is G:.
+- Navigate to the directory where bootsect is found.D:cd d:\boot
+- Use the bootsect to make the USB Drive bootable. This updates the drive with BOOTMGR compatible code and prepares it to boot Windows 7/Vista. BOOTSECT.EXE /NT60 G:
+- Close the Command Prompt windows.
+
+6 - Copy all files from the Windows 7_Vista DVD to the formatted USB stick.
+Copy all files from the Windows 7/Vista DVD to the formatted USB stick. The safest and the fastest way would be to use the Windows Explorer. Open the disk, select everything, and drag it into your flash drive. This could take a few minutes to copy.
+

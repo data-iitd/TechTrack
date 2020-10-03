@@ -1,0 +1,69 @@
+T1	Hardware-Other 155 165	capacitors
+T2	Hardware-Devices 371 378	monitor
+A1	isPowered T2 start-F
+T3	Hardware-Other 492 505	circuit board
+T4	Hardware-Other 517 537	electronic equipment
+T5	Hardware-Other 616 636	static-free clothing
+T6	Hardware-Other 699 703	wool
+T7	Hardware-Other 705 710	metal
+T8	Hardware-Other 712 717	paper
+T9	Hardware-Other 719 723	lint
+T10	Hardware-Other 725 729	dust
+T11	Hardware-Other 1054 1060	carpet
+T12	Hardware-Other 1079 1096	anti-static spray
+T13	Hardware-Other 1112 1125	rubber gloves
+T14	Hardware-Devices 1250 1257	monitor
+T15	Hardware-Devices 1291 1297	laptop
+T16	Hardware-Other 1307 1314	battery
+T17	Hardware-Other 1849 1865	small containers
+T18	Hardware-Other 1879 1884	screw
+T19	Hardware-Other 1895 1915	removable components
+T20	Hardware-Devices 2061 2068	monitor
+T21	Hardware-Other 2180 2184	case
+T22	Hardware-Other 2265 2271	screws
+T23	Hardware-Other 2299 2305	frames
+T24	Hardware-Other 2352 2356	tool
+T25	Hardware-Other 2374 2379	knife
+T26	Hardware-Other 2408 2418	components
+T27	Hardware-Other 2426 2438	metal object
+T28	Hardware-Other 2615 2633	power supply board
+T29	Hardware-Other 2672 2685	circuit board
+T30	Hardware-Other 2708 2720	power socket
+T31	Hardware-Other 2757 2763	panels
+T32	Hardware-Other 2819 2841	cylindrical capacitors
+T33	Hardware-Other 3129 3139	metal pins
+T34	Hardware-Other 3213 3226	circuit board
+T35	Hardware-Other 3270 3276	screws
+T36	Hardware-Other 3281 3294	ribbon cables
+T37	Hardware-Other 3351 3356	cable
+T38	Hardware-Other 3388 3394	socket
+T39	Hardware-Other 3606 3616	capacitors
+T40	Hardware-Other 3683 3688	board
+T41	Hardware-Other 3724 3734	metal pins
+T42	Hardware-Other 3747 3757	components
+T43	Hardware-Other 3869 3873	pins
+T44	Hardware-Other 3998 4005	esistor
+T45	Hardware-Other 4080 4091	screwdriver
+T46	Hardware-Other 4149 4162	rubber gloves
+T47	Hardware-Other 4342 4352	multimeter
+T48	Hardware-Other 4464 4473	cylinders
+T49	Hardware-Other 4549 4559	capacitors
+T50	Hardware-Other 4892 4895	pin
+T51	Hardware-Other 5128 5138	multimeter
+T52	Hardware-Other 5193 5204	small discs
+T53	Hardware-Other 5216 5225	cylinders
+T54	Hardware-Other 5319 5329	capacitors
+T55	Hardware-Other 5401 5415	soldering iron
+T56	Hardware-Other 5420 5436	desoldering pump
+T57	Hardware-Other 5451 5455	pins
+T58	Hardware-Other 5615 5625	capacitors
+T59	Hardware-Other 5941 5955	soldering iron
+T60	Hardware-Other 5974 5984	capacitors
+T61	Hardware-Other 5992 6005	circuit board
+T62	Hardware-Other 6086 6089	pin
+T63	Hardware-Other 6212 6226	soldering wire
+T64	Hardware-Other 6455 6461	cables
+T65	Hardware-Other 6463 6470	panels,
+T66	Hardware-Other 6475 6485	components
+T67	Hardware-Devices 6532 6539	monitor
+T68	Hardware-Other 6569 6582	plastic panel

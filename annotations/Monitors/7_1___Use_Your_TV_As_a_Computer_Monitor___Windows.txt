@@ -1,0 +1,47 @@
+Use Your TV As a Computer Monitor
+https://www.wikihow.com/Use-Your-TV-As-a-Computer-Monitor
+
+0 - Windows
+
+1 - Determine how your computer can connect to the TV.
+Determine how your computer can connect to the TV. Connecting your computer to your TV requires connecting the two via a video cable. On the back of your computer, you'll see multiple ports and connectors. Video connectors may be located near the USB, speaker, and Ethernet connections, or you may have a separate graphics card further down the back of the computer. There are three main connectors that you want to look for on your computer:[1]
+- X
+- Research source
+- 
+- 
+- HDMI - This is the current standard for connecting HD devices, and most modern computers will have an HDMI port on the back. HDMI carries both picture and audio. The HDMI port looks like a longer USB port.
+- DVI - This is a digital connection that uses pins. DVI connectors are rectangular and have three rows of eight pins each. DVI only transfers the image signal.
+- VGA - This is the old standard for connecting display devices. It is a trapezoidal connection with 15 pins arranged in three rows, and is typically blue. Avoid using this connection if you have access to DVI or HDMI, as VGA is the lowest-quality. VGA only transfers the image signal, and cannot display HD images.
+- ;
+
+2 - Determine how your TV can connect to the computer.
+Determine how your TV can connect to the computer. Once you know the types of connections your computer supports, you'll need to find out what types of connections your TV supports. Most TVs have input ports on the back of the TV, though some have ports along one of the sides.
+- Most modern HDTVs have one or more HDMI ports. This is the quickest and most pain-free way to connect, and also provides the best quality. HDMI is the only connection method that transfers both audio and video through one cable.
+- DVI is not as common anymore, but can still be found on many HDTVs and standard definition TVs.
+- VGA is typically not available on HDTVs, but can be found on standard definition TVs.
+
+3 - Note the input label on your TV.
+Note the input label on your TV. This will help you select the correct input when switching to your computer's display.
+
+4 - Get the right video cable for your preferred connection.
+Get the right video cable for your preferred connection. Buying a cable can be a confusing experience, as companies often throw buzzwords around to make their cables seem better than the competition. When it comes down to it, most people won't notice a difference between a cheap and an expensive cable. If you're buying HDMI, the cable either works or it doesn't, so a $5 cable will result in the same quality as an $80 cable.
+- If you don't have a matching connector on both your computer and your TV, you'll need an adapter. For example, if you have a DVI connector on your computer but only have an HDMI port on your TV, you can get a DVI-to-HDMI adapter or cable. In this case, the HDMI wouldn't transfer any audio since DVI doesn't support audio.
+
+5 - Connect your computer to your TV using your cable.
+Connect your computer to your TV using your cable. If you are connecting HDMI to HDMI, you won't need any other cables. If you are connecting using a different method, you'll need an audio cable as well.
+- To connect an audio cable from a laptop, use a 3.5mm audio cable and connect it to the Headphone jack on your laptop. On a desktop, use the green audio jack on the back of the computer. When connecting the audio cable to the TV, you may be able to use a single 3.5mm audio plug or the stereo (RCA) 2-plug cable.
+- If you're connecting via VGA, turn your computer and TV off first. For DVI and HDMI, you don't need to worry about turning your equipment off.
+
+6 - Switch your TV to the correct input.
+Switch your TV to the correct input. Make sure to select the input that you connected the cable to on your TV. Most TV remotes have an "Input" or "Source" button that will allow you to choose.
+
+7 - Switch your computer to the TV's display.
+Switch your computer to the TV's display. There are several ways that you can do this, depending on the type of computer that you are using.
+- Many laptops have a "Display" key that will switch between connected displays. You may need to press the Fn key to access it, and it may just have a symbol instead of the word "Display".
+- In Windows 7 and later, you can press the Windows key + P to open the Project menu. You can then select which display mode you want to use (computer, TV, extended desktop, or duplicate displays).
+- In any version of Windows, you can right-click on the desktop and select "Screen Resolution" or "Properties". The "Multiple displays" menu will allow you to select between the different display modes (computer, TV, extended desktop, or duplicate displays).
+
+8 - Adjust the resolution of the display (if necessary).
+Adjust the resolution of the display (if necessary). Your computer's monitor and your TV may have different resolutions, and your TV's display may be blurry when you switch over. Use the "Resolution" slider in the "Screen Resolution/Properties" window to select a clear resolution.
+- Most HDTVs have a native resolution of 1920x1080. Select the "Recommended" resolution if possible.
+

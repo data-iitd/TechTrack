@@ -1,0 +1,55 @@
+Connect Two Monitors
+https://www.wikihow.com/Connect-Two-Monitors
+
+0 - Mac OS X
+
+1 - Know which Macs you can use.
+Know which Macs you can use. All Macs support at least one additional monitor, though some Macs only have one available port to share between charging, file transfers, and external displays. If you have a MacBook laptop with only one port, make sure that your computer is fully charged and disconnected from any peripherals (e.g., USB flash drives) before attempting to connect another monitor.
+
+2 - Find your Mac's video output port.
+Find your Mac's video output port. Depending on your Mac, you'll find one (or more) of the following ports on the side of your Mac (MacBook and MacBook Pro) or on the back of your Mac (iMac):
+- 
+- USB-C (Thunderbolt 3) — Oval-shaped port. Modern MacBooks, MacBook Pros, and iMacs have anywhere from one to four of these.
+- Thunderbolt 2 — Square-shaped port. Found on older Macs.
+- HDMI — Six-sided, flat port. Found on older Macs.
+
+3 - Find your monitor's video input port.
+Find your monitor's video input port. Modern monitors tend to use either DisplayPort or HDMI ports for their inputs, but some monitors will also have VGA ports.
+- If you have an exceptionally old monitor, you may find a DVI port on the back of your second monitor. DVI ports resemble white boxes with clusters of holes, as well as a section with a few separate holes.
+
+4 - Buy a cable to connect your monitor to your computer if necessary.
+Buy a cable to connect your monitor to your computer if necessary. If you don't have a cable which can connect your computer to your monitor (e.g., an HDMI cable), you'll need to buy one.
+- If your computer and your monitor both have a common port (e.g., HDMI), it's easier (and cheaper) to buy a cable that fits both ports even if a higher-definition option is available.
+- If the monitor's input doesn't match your computer's output (e.g., if the monitor uses a VGA input while your computer uses an HDMI output), you will need to buy an adapter.
+- Some video output combinations, such as HDMI to DisplayPort, come as cables that you can purchase instead of buying an adapter.
+
+5 - Plug one end of the cable into your computer.
+Plug one end of the cable into your computer. The cable should plug into your computer's video output port.
+
+6 - Plug the other end of the cable into your monitor.
+Plug the other end of the cable into your monitor. The free end of the cable should fit into your selected port on the back of the monitor.
+- If you're using an adapter, you'll plug one end of the cable into the adapter and then plug the monitor's cable into both the monitor and the adapter.
+
+7 - Power on the monitor.
+Power on the monitor. If your monitor isn't plugged into a power source, attach it via the included power cable; you can then press the Power button on the monitor to turn it on.
+- Depending on your computer, you may see your desktop reflected on the second monitor when it turns on.
+
+8 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+9 - Click System Preferences….
+Click System Preferences…. You'll find this option in the drop-down menu. Doing so opens the System Preferences window.
+
+10 - Click Displays.
+Click Displays. It's a screen-shaped icon in the System Preferences window. A pop-up window will open.
+
+11 - Click the Arrangement tab.
+Click the Arrangement tab. This is at the top of the Displays pop-up window.
+
+12 - Extend your desktop to the second display.
+Extend your desktop to the second display. If you want to use the second monitor as an extension of your desktop, uncheck the "Mirror displays" box at the bottom of the window.[1]
+- X
+- Research source
+- 
+- If you just want your second monitor to mirror whatever is on your Mac's primary monitor, skip this step.
+

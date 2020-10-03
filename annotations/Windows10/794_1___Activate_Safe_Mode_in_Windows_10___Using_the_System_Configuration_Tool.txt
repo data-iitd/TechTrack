@@ -1,0 +1,27 @@
+Activate Safe Mode in Windows 10
+https://www.wikihow.com/Activate-Safe-Mode-in-Windows-10
+
+0 - Using the System Configuration Tool
+
+1 - Launch the System Configuration tool.
+Launch the System Configuration tool. Press ⊞ Win+R to open the Run window. Type “msconfig” in the text field labeled “Open” in the Run window and then press Enter or click/tap “OK”. This will open the System Configuration window.
+- An alternative method is to open the System Configuration using Cortana. At the lower left side of your desktop is the Cortana search field. You can see it beside the Start button. Inside the search field are the words “Search the web and Windows.”.  When you click or tap the search field, a pop-up window appears. Type the words “system configuration” in Cortana’s search field. As you finish typing this, the System Configuration Desktop app appears as a choice at the top of the Cortana search window. Click or tap the System Configuration Desktop app.
+- ;
+
+2 - Switch to the Boot tab.
+Switch to the Boot tab. At the top of the System Configuration window, you will see five tabs: General, Boot, Services, Startup and Tools. Click/tap the Boot tab to access the Boot options section.
+
+3 - Activate the Safe Boot options.
+Activate the Safe Boot options. in the Safe Boot options section, click/tap the checkbox labeled “Safe boot.” When you check the “Safe boot” option, the greyed out options become available for you to choose.
+
+4 - Select the Safe Boot option of your choice.
+Select the Safe Boot option of your choice. Four safe boot options will become available after you check “Safe boot”: Minimal, Alternate Shell, Active Directory Repair, and Network.
+- “Minimal” loads Window’s graphical user interface (GUI) but runs only those system services that are critical. Note that your video card’s drivers will not be loaded, and so your device will display under minimum resolution. It is best to boot in minimal safe mode when you have no idea what the problem is. This is also the simplest and most-used of the safe boot options.
+- “Alternate Shell” loads Windows without its graphical user interface. You will have to work with the text-based command prompt. Needless to say, this option requires advanced knowledge of the Windows operating system.
+- “Active Directory Repair” loads machine-specific information found in Active Directory and is used to restore your computer’s stability by storing new or repaired information in the Active Directory. Using this safe mode option requires advanced computer knowledge.
+- “Network” loads Window’s graphical user interface with networking enabled. This is best used when Windows becomes unstable and you need to download or upgrade a driver or a patch. In Network safe mode, you can connect to the Internet or your network. You can also backup your data on your local network before you do any troubleshooting.
+
+5 - Restart your device.
+Restart your device. After you have chosen the safe boot option you like, click/tap “OK.” Click/tap “Restart” if you want to restart your device in safe mode immediately. Click/tap “Exit without restart” if you want to activate safe mode at a later time. When your device restarts, it will boot in safe mode.
+- If you use this method to access Safe Mode, your computer will boot in safe mode each time you open or restart your computer. You will have to instruct Windows not to boot in safe mode when you’re done. To do this open the Systems Configuration tool and go to the Boot tab. Uncheck the “Safe boot” option then click “OK.” Finally, click “Restart” when asked to. This will restart your device in normal mode.
+

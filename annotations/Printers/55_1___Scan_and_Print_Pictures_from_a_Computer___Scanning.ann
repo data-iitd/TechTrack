@@ -1,0 +1,9 @@
+T1	Hardware-Other 253 262	USB cords
+T2	Hardware-Other 299 324	serial and parallel ports
+T3	Hardware-Other 333 342	computers
+T4	Hardware-Other 552 562	power cord
+T5	Hardware-Other 612 629	electrical outlet
+T6	Hardware-Devices 688 695	scanner
+A1	isPowered T6 f->t
+T7	Hardware-Devices 2007 2011	Scan
+A2	isUsed T7 true

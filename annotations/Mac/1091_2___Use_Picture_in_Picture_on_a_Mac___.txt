@@ -1,0 +1,35 @@
+Use Picture in Picture on a Mac
+https://www.wikihow.com/Use-Picture-in-Picture-on-a-Mac
+
+0 - 
+
+1 - Open your web browser of choice.
+Open your web browser of choice.
+- PiP is also usable in iTunes.
+
+2 - Navigate to a video you would like to watch.
+Navigate to a video you would like to watch. YouTube and Vimeo are both popular video streaming sites.
+- Some video streaming sites may not support Picture-in-Picture.
+
+3 - Hold control and double-click on the video.
+Hold control and double-click on the video. This will reveal a drop-down menu.
+
+4 - Click "Enter Picture-in-Picture".
+Click "Enter Picture-in-Picture". Clicking on this icon will enable Picture-in-Picture, causing the video you're watching to open in a new, smaller window.
+- Some video players such as Vimeo will have a Picture-in-Picture icon built into the window. This is an icon at the bottom-right corner of the video window that displays as a white rectangle "popping out" of another rectangular frame. Clicking on this icon will enable Picture-in-Picture.
+
+5 - Open a new application.
+Open a new application. Click on an application in your dock or double-click on an application in your finder to open a new application. The video window will remain in the front of the screen.
+
+6 - Change your desktop window.
+Change your desktop window. Swipe three fingers to the left or right on your trackpad to navigate to a different desktop view. You will notice that the video still remains at the front of your screen.
+
+7 - Click and drag an edge of the video window to resize it.
+Click and drag an edge of the video window to resize it.
+
+8 - Click on the window to view basic options.
+Click on the window to view basic options. By clicking on the video's pop-out window, you'll see three new options:
+- A close window button in the upper-left corner.
+- A pause/play button at the bottom of the window.
+- An Exit PiP button next to the pause/play button, which will send the video back to your web browser to continue being played.
+

@@ -1,0 +1,41 @@
+Execute INSTALL.sh Files in Linux Using Terminal
+https://www.wikihow.com/Execute-INSTALL.sh-Files-in-Linux-Using-Terminal
+
+0 - Steps
+
+1 - Download the software you wish to install.
+Download the software you wish to install. The necessary files will usually be compressed into a .tar, .tgz, or .zip file.
+- If the script you downloaded is already in the ″INSTALL.sh″ format, you’ll need to compress it to a .zip or .tar file before you can continue. Right-click the script, select Compress…, choose .zip, and then click Create.
+- ;
+
+2 - Extract the Tar or Zip to your Desktop.
+Extract the Tar or Zip to your Desktop. Right-click the downloaded archive, and then select Extract Here (the exact text may vary by Linux version). This creates a new folder on your desktop containing the installation files.
+- If you're logged in via console, extract a .tar file by running tar -x filename.tar at the prompt.
+- To extract a .tgz or .tar.gz file from the prompt, use tar -xzf filename.tgz or tar -xvf filename.tar.gz.
+- To unpack a .zip file from console, type unzip filename.zip.
+
+3 - Double-click the extracted folder.
+Double-click the extracted folder. If you don’t see the install.sh file inside, it’s likely in one of the subfolders. Figure out which folder it’s in, and then continue to the next step.
+
+4 - Open a terminal window.
+Open a terminal window. A quick way to do this in most window managers is to press Ctrl+Alt+T on the keyboard.
+
+5 - Type cd ~_path_to_the_extracted_folder and press ↵ Enter.
+Type cd ~/path/to/the/extracted/folder and press ↵ Enter. Replace ″path/to/the/extracted/folder″ with the full path to the folder that contains the install.sh file.
+- For example, if you extracted the files to your desktop, you may type cd ~Desktop/file name. After typing the first few letters of a folder’s name, you can press the Tab ↹ key to automatically its name.
+- To make sure you’re in the right folder, type ls -a at the command prompt and press ↵ Enter. You should see a list of the same files and folders as you do when you doubleclick the new folder on the desktop.
+
+6 - Type chmod +x install.sh and press ↵ Enter.
+Type chmod +x install.sh and press ↵ Enter. If the installer is called something other than ″install.sh,″ type its name instead. This makes the installer file executable. You won’t see any confirmation message from this command.
+- As long as you don’t see an error, you’ll know the script is now executable.
+
+7 - Type sudo bash install.sh and press ↵ Enter.
+Type sudo bash install.sh and press ↵ Enter. Again, replace ″install.sh″ with the name of your .sh file if necessary.
+- If you get an error, try sudo ./install.sh instead.
+
+8 - Enter the root password and press ↵ Enter.
+Enter the root password and press ↵ Enter. This starts the installation of your application.
+
+9 - Follow the on-screen instructions to complete the installation.
+Follow the on-screen instructions to complete the installation. Depending on the app, you may have to enter additional information to complete the install.
+

@@ -1,0 +1,22 @@
+T1	Software-OS-Related 480 505	Mac OS X USB drive or DVD
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 597 609	Disk Utility
+A2	isOpened T2 f->t
+T3	Software-OS-Related 707 746	hard drive you would like to partition.
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 929 931	-)
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1023 1030	Current
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1197 1207	Untitled 1
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1356 1366	Untitled 2
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1495 1500	apply
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1581 1591	Apple icon
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1616 1623	restart
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T6 Arg2:T3	
+R2	SubPart Arg1:T7 Arg2:T3	

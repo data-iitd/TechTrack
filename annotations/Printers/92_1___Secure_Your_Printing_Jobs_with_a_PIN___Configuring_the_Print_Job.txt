@@ -1,0 +1,29 @@
+Secure Your Printing Jobs with a PIN
+https://www.wikihow.com/Secure-Your-Printing-Jobs-with-a-PIN
+
+0 - Configuring the Print Job
+
+1 - Go to the Job Storage tab.
+Go to the Job Storage tab. From the Document Properties window, select the Job Storage tab by clicking on it. This is where you configure your print jobs.
+- Note that only printers that support spooling or print job storage will have the extra menu options or properties.
+
+2 - Set the Job Storage Mode.
+Set the Job Storage Mode. Under the Job Storage Mode, click the “Stored Job” radio button. This sets your print to be a stored job instead of an immediate print.
+
+3 - Assign a PIN.
+Assign a PIN. Tick the “PIN to print” check box to indicate that a PIN is needed in order to access and print the job from the printer. In the box underneath it, key in a four-digit PIN code. This will be the PIN code that you will use to print from the printer.
+- You can change this every time you set a print job.
+
+4 - Set the Job Notification Options.
+Set the Job Notification Options. Tick “Display JOB ID when printing” so you will be able to see what job currently is being printed.
+
+5 - Indicate the User Name.
+Indicate the User Name. In this section, you must indicate your username or your unique identifier. The username will be used by the printer to identify you and collect all the print jobs under your username.
+- Some printers allow batch printing of all the print jobs under a single username.
+
+6 - Indicate the Job Name.
+Indicate the Job Name. Configure how the print job will be named. You can manually set and change this every time by selecting “Custom” and inputting the job name, or you can set this to “Automatic” and have the job named automatically in sequence.
+
+7 - Save the print job.
+Save the print job. Click on the “OK” button at the bottom of the window to save everything and close the window.
+

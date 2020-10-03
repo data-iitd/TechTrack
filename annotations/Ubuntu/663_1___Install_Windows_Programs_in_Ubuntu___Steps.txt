@@ -1,0 +1,33 @@
+Install Windows Programs in Ubuntu
+https://www.wikihow.com/Install-Windows-Programs-in-Ubuntu
+
+0 - Steps
+
+1 - Go to Applications > Ubuntu Software Center which is located in Main menu.
+Go to Applications > Ubuntu Software Center which is located in Main menu.
+- ;
+
+2 - When you open Ubuntu Software Center you will need to type 'wine' in search function which are located on the right upper corner of the window and hit Enter.
+When you open Ubuntu Software Center you will need to type 'wine' in search function which are located on the right upper corner of the window and hit Enter.
+
+3 - Choose 'Wine Microsoft Windows Compatibility Layer' package.
+Choose 'Wine Microsoft Windows Compatibility Layer' package.
+
+4 - Click on the 'Install' button, after that when it asks you for password, type the password and click on 'Authenticate' button or just hit Enter.
+Click on the 'Install' button, after that when it asks you for password, type the password and click on 'Authenticate' button or just hit Enter.
+
+5 - While you installing this application, somewhere in the middle, you will be asked to confirm EULA license terms.
+While you installing this application, somewhere in the middle, you will be asked to confirm EULA license terms. To do that, mark that little white box and click on 'Forward' button.
+
+6 - Now when Wine is installed, go to Applications > Wine, where is Wine located and and try to explore a little, to see what options this application has.
+Now when Wine is installed, go to Applications > Wine, where is Wine located and and try to explore a little, to see what options this application has.
+
+7 - Now first what you need to do is to locate your setup.exe.
+Now first what you need to do is to locate your setup.exe. where is located and then right click with your mouse on that file.
+
+8 - Now click on 'Permissions' option and then mark that little box beside 'Allow executing file as program' option.
+Now click on 'Permissions' option and then mark that little box beside 'Allow executing file as program' option. After that click on 'Close' button.
+
+9 - Now when you click with left mouse button on the setup.exe, file will start run.
+Now when you click with left mouse button on the setup.exe, file will start run.
+

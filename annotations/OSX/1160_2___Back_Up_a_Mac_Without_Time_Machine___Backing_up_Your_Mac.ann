@@ -1,0 +1,17 @@
+T1	Software-OS-Related 135 147	Disk Utility
+T2	Software-OS-Related 226 234	Continue
+T3	Software-OS-Related 369 388	external hard drive
+T4	Software-OS-Related 329 348	Disk Utility window
+A2	isOpened T4 f->t
+T5	Software-OS-Related 522 526	Edit
+A1	isOpened T5 f->t
+T6	Software-OS-Related 642 650	Restore…
+A3	isOpened T6 f->t
+T7	Software-OS-Related 748 764	Mac's hard drive
+T8	Software-OS-Related 923 930	Restore
+A4	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 1203 1210	restart
+T10	Software-OS-Related 1216 1219	Mac
+T11	Software-OS-Related 1258 1263	Eject
+T12	Software-OS-Related 1269 1288	external hard drive

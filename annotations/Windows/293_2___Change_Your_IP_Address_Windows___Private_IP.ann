@@ -1,0 +1,22 @@
+T1	Software-OS-Related 121 126	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 487 502	 Command Prompt
+A2	isOpened T2 f->t
+T3	Software-OS-Related 592 612	Run as administrator
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1354 1362	Settings
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1464 1482	Network & Internet
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1553 1559	Status
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1680 1708	Change connection properties
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1778 1782	Edit
+A8	isOpened T8 f->t
+R1	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 1790 1803	IP assignment
+A9	isOpened T9 f->t
+R2	SubPart Arg1:T9 Arg2:T8	
+T10	Software-OS-Related 1904 1917	IP assignment
+A10	isOpened T10 f->t

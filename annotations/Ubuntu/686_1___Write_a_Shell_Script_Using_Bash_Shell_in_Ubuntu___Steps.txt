@@ -1,0 +1,30 @@
+Write a Shell Script Using Bash Shell in Ubuntu
+https://www.wikihow.com/Write-a-Shell-Script-Using-Bash-Shell-in-Ubuntu
+
+0 - Steps
+
+1 - Launch the Terminal.
+Launch the Terminal. You can launch the terminal by opening the dash and searching for it by name. You could also open it using the keyboard shortcut Ctrl+Alt+T.
+- ;
+
+2 - Launch the vi_vim editor.
+Launch the vi/vim editor. Vim is a free and popular text editor that uses the command line interface. If you do not currently have Vim installed, you can do so easily by typing this command into the terminal: sudo apt-get install vim.
+
+3 - Type vim ListDir.sh and hit ↵ Enter.
+Type vim ListDir.sh and hit ↵ Enter. Once inside the Editor, type "I" or "i." This will allow you to insert/start typing your shell script.
+
+4 - Type the following code:
+Type the following code: #!/bin/bash. This is known as a Shebang line.
+
+5 - Type the code as shown in the figure.
+Type the code as shown in the figure. The first line (echo "Welcome") prints the line "Welcome" into the terminal. echo is used to return the given text and a new line. The second line (ls) lists the contents of the directory. ls is short for list. The final line (another echo statement) returns the text This completes the list of directories.
+
+6 - Exit vim.
+Exit vim. Type the following key combinations, Esc + : + wq to escape the editor. This will write the changes to the file and bring you back to the terminal. Save the file as ListDir.sh
+
+7 - Change the access permissions.
+Change the access permissions. Enter the following command: chmod +x ListDir.sh. chmod is a command used in Unix like operating systems to change the access permissions to a file.
+
+8 - Run the scrip.
+Run the scrip. Type ./ListDir.sh to run this script. You should get the list of directories and the message as shown in the above image.
+

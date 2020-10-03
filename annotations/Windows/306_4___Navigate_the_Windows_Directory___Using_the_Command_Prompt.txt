@@ -1,0 +1,33 @@
+Navigate the Windows Directory
+https://www.wikihow.com/Navigate-the-Windows-Directory
+
+0 - Using the Command Prompt
+
+1 - Click the Start button.
+Click the Start button.
+
+2 - Type cmd and press ↵ Enter.
+Type cmd and press ↵ Enter. This will start the Command Prompt.
+
+3 - Note your current folder.
+Note your current folder. When you start the Command Prompt, you'll start in your User folder.
+
+4 - Type dir _p and press ↵ Enter.
+Type dir /p and press ↵ Enter. This will display the contents of the current directory. The screen will stop scrolling whenever the screen has filled, and you can press any key to keep scrolling.
+- <DIR> entries are folders inside of your current directory.
+- The size of each file will be displayed in bytes before the file name.
+
+5 - Type cd.. and press ↵ Enter.
+Type cd.. and press ↵ Enter. This will take you up one directory level.
+
+6 - Type cd folderName to open a folder in your directory.
+Type cd folderName to open a folder in your directory. For example, in your User folder you can type cd documents and press ↵ Enter to open your Documents folder.
+
+7 - Type cd path to go to a specific directory.
+Type cd path to go to a specific directory. For example, to move directly to the Microsoft Office 15 directory in Program Files, you would type cd C:\Program Files\Microsoft Office 15
+
+8 - Type a file name and press ↵ Enter to open it.
+Type a file name and press ↵ Enter to open it. This will open the file in its default program. You'll need to type the entire file name as well as its extension.[1]
+- X
+- Research source
+

@@ -1,0 +1,12 @@
+T1	Software-OS-Related 300 304	File
+A1	isOpened T1 f->t
+T2	Software-OS-Related 413 420	Save As
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 477 481	menu
+A3	isOpened T3 f->t
+T4	Software-OS-Related 977 982	Files
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1262 1266	Save
+A5	isOpened T5 start-T
+R2	SubPart Arg1:T5 Arg2:T4	

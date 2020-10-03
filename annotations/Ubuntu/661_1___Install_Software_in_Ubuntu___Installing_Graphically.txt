@@ -1,0 +1,22 @@
+Install Software in Ubuntu
+https://www.wikihow.com/Install-Software-in-Ubuntu
+
+0 - Installing Graphically
+
+1 - Click on Dashboard in the side bar.
+Click on Dashboard in the side bar.
+- ;
+
+2 - Search for "Ubuntu Software Center and open it.
+Search for "Ubuntu Software Center and open it.
+
+3 - On the Left side you can select the category of software you want to install.
+On the Left side you can select the category of software you want to install. For example, you'd select Sound & Video to install any sound or video software.
+- An alternate way is to use the search function and search for the required software.
+
+4 - Select the software you want to install.
+Select the software you want to install. For example, choose Audacity from the list and click Install.
+
+5 - You will be prompted for the password of that computer.
+You will be prompted for the password of that computer. Type it to continue installing the software.
+

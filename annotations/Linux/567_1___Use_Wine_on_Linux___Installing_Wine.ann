@@ -1,0 +1,27 @@
+T1	Software-OS-Related 100 108	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 497 516	32-bit architecture
+T3	Software-OS-Related 660 693	sudo dpkg --add-architecture i386
+A2	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 699 707	Terminal
+T5	Software-OS-Related 743 756	root password
+T6	Software-OS-Related 808 829	computer's downloader
+T7	Software-Other 837 849	Wine website
+A4	isInstalled T7 start-F
+T8	Software-OS-Related 992 1046	wget -nc https://dl.winehq.org/wine-builds/Release.key
+T9	Software-OS-Related 1139 1152	root password
+A3	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T6	
+T10	Software-OS-Related 1077 1105	sudo apt-key add Release.key
+A5	isSettingsChanged T10 true
+R3	SubPart Arg1:T10 Arg2:T6	
+T11	Software-OS-Related 1181 1196	Wine repository
+T12	Software-OS-Related 1205 1212	library
+T13	Software-OS-Related 1348 1413	sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+T14	Software-OS-Related 1428 1510	sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main
+T15	Software-OS-Related 1592 1611	sudo apt-get update
+A6	isSettingsChanged T15 true
+T16	Software-OS-Related 1754 1807	sudo apt-get install --install-recommends wine-stable
+T17	Software-OS-Related 2016 2017	y
+T18	Hardware-Other 2140 2148	computer

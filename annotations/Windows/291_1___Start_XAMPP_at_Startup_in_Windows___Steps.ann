@@ -1,0 +1,8 @@
+T1	Software-Other 122 127	XAMPP
+A1	isOpened T1 f->t
+T2	Software-Other 526 532	Config
+A2	isOpened T2 f->t
+T3	Software-Other 610 629	XAMPP Control Panel
+A3	isOpened T3 start-T
+T4	Software-OS-Related 1088 1101	File Explorer
+A4	isOpened T4 f->t

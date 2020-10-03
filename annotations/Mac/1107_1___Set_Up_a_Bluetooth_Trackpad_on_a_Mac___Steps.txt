@@ -1,0 +1,39 @@
+Set Up a Bluetooth Trackpad on a Mac
+https://www.wikihow.com/Set-Up-a-Bluetooth-Trackpad-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Bluetooth.
+Click on Bluetooth. It's in the center of the preferences window.
+
+4 - Make sure Bluetooth is turned on.
+Make sure Bluetooth is turned on. If it's not, click on Turn Bluetooth On.
+
+5 - Click on <.
+Click on <. It's in the upper-left corner of the dialog box. This returns you the main "System Preferences" screen.
+
+6 - Put the Bluetooth trackpad in "discover" mode.
+Put the Bluetooth trackpad in "discover" mode. Follow the pairing instructions that came with the trackpad.
+
+7 - Click on Trackpad.
+Click on Trackpad. It's in the center of the preferences window.
+
+8 - Click on Set Up Bluetooth Trackpad.
+Click on Set Up Bluetooth Trackpad. It's in the lower right of the dialog box.
+
+9 - Click on the trackpad that appears in the list.
+Click on the trackpad that appears in the list.
+
+10 - Click on Continue.
+Click on Continue.
+
+11 - Follow any additional pairing instructions.
+Follow any additional pairing instructions. You have now set up the Bluetooth trackpad for your Mac.
+

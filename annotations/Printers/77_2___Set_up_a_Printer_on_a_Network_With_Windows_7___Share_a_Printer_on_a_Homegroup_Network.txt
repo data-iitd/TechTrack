@@ -1,0 +1,53 @@
+Set up a Printer on a Network With Windows 7
+https://www.wikihow.com/Set-up-a-Printer-on-a-Network-With-Windows-7
+
+0 - Share a Printer on a Homegroup Network
+
+1 - Go to the computer that your printer is physically plugged into.
+Go to the computer that your printer is physically plugged into.
+
+2 - Click on the Windows logo or Start button on the bottom of the computer screen.
+Click on the Windows logo or Start button on the bottom of the computer screen.
+
+3 - Click on "Control Panel.
+Click on "Control Panel."
+
+4 - Type "homegroup" into the search field, which can be found in the upper-right corner of the Control Panel window.
+Type "homegroup" into the search field, which can be found in the upper-right corner of the Control Panel window.
+
+5 - Click directly on "HomeGroup" when it appears in the search results.
+Click directly on "HomeGroup" when it appears in the search results.
+- You may also click on the "Share Printers" link within the HomeGroup section.
+
+6 - Place a check mark next to "Printers.
+Place a check mark next to "Printers."
+
+7 - Click on "Save changes.
+Click on "Save changes."
+- By default, there should already be a check mark next to "Printers."
+
+8 - Walk over to the computer with which you want to share the printer.
+Walk over to the computer with which you want to share the printer.
+
+9 - Click on the Start button.
+Click on the Start button.
+
+10 - Select "Control Panel.
+Select "Control Panel."
+
+11 - Type "homegroup" into the search box.
+Type "homegroup" into the search box.
+
+12 - Select "HomeGroup" from the search results window.
+Select "HomeGroup" from the search results window.
+
+13 - Click on "Install Printer.
+Click on "Install Printer."
+
+14 - Click "Install driver" from the dialog box that appears if you need to install the current driver for your printer.
+Click "Install driver" from the dialog box that appears if you need to install the current driver for your printer.
+
+15 - Access the printer as if it was physically connected by using the print dialog box from any program on your computer.
+Access the printer as if it was physically connected by using the print dialog box from any program on your computer.
+- You must power on the computer the printer is connected to in order to print documents from the other computer.
+

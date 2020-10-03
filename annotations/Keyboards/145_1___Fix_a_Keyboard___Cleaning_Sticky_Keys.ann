@@ -1,0 +1,23 @@
+T1	Hardware-Devices 101 109	keyboard
+A1	isPowered T1 t->f
+T2	Hardware-Other 120 128	computer
+T3	Hardware-Other 235 244	batteries
+T4	Hardware-Other 362 370	USB cord
+T5	Hardware-Other 467 487	flathead screwdriver
+T6	Hardware-Other 503 506	key
+T7	Hardware-Devices 841 849	keyboard
+T8	Hardware-Other 1019 1031	butter knife
+T9	Hardware-Other 1307 1311	swab
+T10	Hardware-Other 1332 1339	alcohol
+T11	Hardware-Other 1289 1292	key
+T12	Hardware-Devices 1700 1708	keyboard
+T13	Hardware-Other 2018 2029	screwdriver
+T14	Hardware-Other 2089 2092	key
+T15	Hardware-Other 2302 2306	swab
+T16	Hardware-Other 2320 2327	alcohol
+T17	Hardware-Other 2449 2454	towel
+T18	Hardware-Devices 2611 2619	keyboard
+T19	Hardware-Other 2644 2651	alcohol
+T20	Hardware-Other 2686 2689	key
+T21	Hardware-Devices 3003 3011	keyboard
+T22	Hardware-Other 3265 3273	circuits

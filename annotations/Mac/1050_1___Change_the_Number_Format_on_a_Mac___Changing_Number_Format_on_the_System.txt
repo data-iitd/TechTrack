@@ -1,0 +1,37 @@
+Change the Number Format on a Mac
+https://www.wikihow.com/Change-the-Number-Format-on-a-Mac
+
+0 - Changing Number Format on the System
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Language & Region.
+Click on Language & Region. It's at the top of the preferences window.
+- Click on ⋮⋮⋮⋮ in the top bar of the dialog box if you don't see all the system preferences icons.
+
+4 - Click on Advanced.
+Click on Advanced. It's in the lower right corner.
+
+5 - Click on the drop-down menu next to "Grouping."
+Click on the drop-down menu next to "Grouping."
+
+6 - Click on a separator.
+Click on a separator. You can choose from a comma, period, apostrophe, space, or none, to select how the system will format larger numbers like 1,000,000.
+
+7 - Click on the drop-down menu next to "Decimal."
+Click on the drop-down menu next to "Decimal."
+
+8 - Click on a separator.
+Click on a separator. You can choose from a comma or period to select how the system will format numbers with decimals.
+
+9 - Click on the drop-down menu next to "Measurement Units."
+Click on the drop-down menu next to "Measurement Units."
+
+10 - Click on a system of measurement.
+Click on a system of measurement. You can choose from Metric, U.K., or U.S. You have now changed the number format on your Mac.
+

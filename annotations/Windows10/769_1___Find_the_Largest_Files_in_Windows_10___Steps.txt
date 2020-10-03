@@ -1,0 +1,36 @@
+Find the Largest Files in Windows 10
+https://www.wikihow.com/Find-the-Largest-Files-in-Windows-10
+
+0 - Steps
+
+1 - Click on the search  bar.
+Click on the search  bar. This is usually located in the bottom-left corner of the screen, next to the Start button.
+- ;
+
+2 - Type show hidden into the search bar.
+Type show hidden into the search bar. A list of search results will appear.
+
+3 - Click Show hidden files and folders in the search results.
+Click Show hidden files and folders in the search results. This pulls up the settings for showing hidden files in a new dialog window.
+
+4 - Select Show hidden files, folders, and drives in the "Advanced Settings" box.
+Select Show hidden files, folders, and drives in the "Advanced Settings" box. It's the second option under the "Hidden files and folders" header. The circular button beside it will turn black once it’s been selected.
+
+5 - Click OK.
+Click OK. This ensures that all files will be displayed when you open File Explorer and run a search.
+
+6 - Open File Explorer.
+Open File Explorer. This has a manila folder as its icon and can usually be accessed from the taskbar on the desktop screen. If you don't see it there, you'll find it in the Start menu.
+
+7 - Click on the search  bar.
+Click on the search  bar. This is in the top-right corner when you open File Explorer.
+
+8 - Click on the Search Tools tab.
+Click on the Search Tools tab. Once you click on the search bar, this tab appears on the right end of the menu ribbon at the top of the screen in File Explorer.
+
+9 - Click on the Size tab in the Search Tools menu.
+Click on the Size tab in the Search Tools menu. It’s listed in the "Refine" group in the center panel of the Search Tools menu. This opens a drop-down menu of different size ranges for files.
+
+10 - Select Gigantic (> 128 MB) in the menu.
+Select Gigantic (> 128 MB) in the menu. Once you do this, File Explorer will take a few moments to fetch and display all the largest files on your PC.
+

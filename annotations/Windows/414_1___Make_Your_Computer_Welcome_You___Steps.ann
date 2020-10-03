@@ -1,0 +1,13 @@
+T1	Hardware-Other 135 143	keyboard
+T2	Hardware-Devices 1555 1563	computer
+A1	isUsed T2 true
+T3	Software-Other 354 361	Notepad
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1028 1033	start
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1249 1256	Startup
+A4	isOpened T5 f->t
+T6	Software-Other 1377 1384	abc.vbs
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1495 1501	folder
+A6	isOpened T7 f->t

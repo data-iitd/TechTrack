@@ -1,0 +1,9 @@
+T1	Hardware-Devices 166 174	computer
+T2	Hardware-Other 138 141	USB
+T3	Software-OS-Related 305 320	computer's BIOS
+A1	isOpened T3 f->t
+T4	Software-OS-Related 597 607	Boot Order
+A2	isOpened T4 f->t
+T5	Software-OS-Related 1043 1060	Removable Devices
+A3	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	

@@ -1,0 +1,57 @@
+Get Familiar With Ubuntu Commands
+https://www.wikihow.com/Get-Familiar-With-Ubuntu-Commands
+
+0 - Steps
+
+1 - Read this list of basic commands and become familiar with them.
+Read this list of basic commands and become familiar with them.
+- 
+- sudo ("superuser do") - Allows you to run other commands with administrative privileges. This is useful when, for example, you need to modify files in a directory that your user wouldn't normally have access to.
+- cd ("change directory") - Changes the directory you are currently working in. You can use full paths to folders or simply the name of a folder within the directory you are currently working. Some common uses:
+- 
+- cd / - Takes you to the root directory.
+- cd .. - Takes you up one directory level.,
+- cd - - Takes you to the previous directory.
+- 
+- pwd ("print working directory") - Displays the directory you are currently in.
+- ls ("list") - Lists all files and folders in your current working directory. You can also specify paths to other directories if you want to view their contents.
+- cp ("copy") - Allows you to copy a file. You should specify both the file you want copied and the location you want it copied to - for example, cp foo /home/john would copy the file "foo" to the directory "/home/john".
+- mv ("move") - Allows you to move files. You can also rename files by moving them to the directory they are currently in, but under a new name. The usage is the same as cp - mv foo /home/john would move the file "foo" to the directory "/home/john".
+- rm ("remove") - Removes the specified file.
+- 
+- rmdir ("remove directory") - Removes an empty directory.
+- rm -r ("remove recursively") - Removes a directory along with its content.
+- 
+- mkdir ("make directory") - Allows you to create a new directory. You can specify where you want the directory created - if you do not do so, it will be created in your current working directory.
+- history - Displays all of your previous commands up to the history limit.
+- ;
+
+2 - Acquaint yourself with these help commands.
+Acquaint yourself with these help commands.
+- 
+- man - Displays a "manual page" on the specified command. Manual pages are usually very detailed, and it's recommended that you read the man pages for any command you are unfamiliar with. Some common uses:
+- 
+- man man - Provides information about the manual itself.
+- man intro - Displays a brief introduction to Linux commands.
+- 
+- info - Similar to man, but often provides more detailed or precise information.
+- <command name> -h or <command name> --help provide a third alternative. While not as detailed as the info or man pages, this will provide a quick overview of the command and its uses.
+
+3 - Finally, learn some commands related to displaying information about your system.
+Finally, learn some commands related to displaying information about your system.
+- 
+- df (display filesystem) - Displays information about the disk space usage of all mounted filesystems. df -h uses KB, MB, and GB, if this format is preferred.
+- du (directory usage) - Displays the size of a directory and all of its subdirectories. du -h can be used if KB, MB, and GB are preferred.
+- free - Displays the amount of free space available on the system. To view the information in MB, use free -m.
+- uname -a - Provides a wide range of basic information about the system.
+- top - Displays the processes using the most system resources at any given time. "q" can be used to exit.
+
+4 - Make use of shortcuts to execute commands more quickly.
+Make use of shortcuts to execute commands more quickly.
+- The Up and Down arrow keys can be used to scroll through your command history, allowing you to quickly execute the same command multiple times.
+- The Tab key can be used to complete the command you are typing. If more than one command is possible, you can press it multiple times to scroll through the possible completions. If a very wide number of commands are possible, it can output a list of all possible completions.
+- Ctrl+r allows you to search your history for commands matching what you have typed.
+
+5 - Get involved with other resources.
+Get involved with other resources. There are many more commands and terminal tricks than the basics listed here, allowing for a nearly endless amount of customizability and functionality. As with any pursuit, the best way to become proficient with Ubuntu commands is to learn by doing and to get involved in the community! The Ubuntu Forums are an excellent resource for any budding command line user.
+

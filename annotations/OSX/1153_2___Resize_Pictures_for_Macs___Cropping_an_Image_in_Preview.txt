@@ -1,0 +1,26 @@
+Resize Pictures (for Macs)
+https://www.wikihow.com/Resize-Pictures-(for-Macs)
+
+0 - Cropping an Image in Preview
+
+1 - Click the Edit icon (a square with a pencil) to enter Edit Mode.
+Click the Edit icon (a square with a pencil) to enter Edit Mode.
+
+2 - Click the dotted rectangle icon in the editing toolbar, then select “Rectangular Selection”.
+Click the dotted rectangle icon in the editing toolbar, then select “Rectangular Selection”.[3]
+- X
+- Research source
+
+3 - Click and drag a part of the image you want to keep.
+Click and drag a part of the image you want to keep. Once you let go of the mouse button, you will see the dotted rectangle appear over a portion of the image.
+
+4 - Click Crop button.
+Click Crop button. This will remove all parts of the image that are outside of the rectangular selection.
+- You can resize the cropped area as you would any image.
+- If you don’t want to save your changes, press ⌘ Cmd+Z to undo them.
+
+5 - Press ⌘ Cmd+S to save your file.
+Press ⌘ Cmd+S to save your file.
+- If you want to save the cropped area as a brand new file (and keep the entire image from which you cropped it), Click “File,” then “Save As,” then choose a new filename.
+- To revert the image to a previous version after saving, click “File,” then “Revert To,” and select “Browse All Versions…” Now, choose an older version of the image.
+

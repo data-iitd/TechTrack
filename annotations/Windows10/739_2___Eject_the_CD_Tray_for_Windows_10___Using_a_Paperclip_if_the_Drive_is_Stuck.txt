@@ -1,0 +1,23 @@
+Eject the CD Tray for Windows 10
+https://www.wikihow.com/Eject-the-CD-Tray-for-Windows-10
+
+0 - Using a Paperclip if the Drive is Stuck
+
+1 - Turn off your PC.
+Turn off your PC. If you can't eject the tray using the physical eject button (if there is one) or Windows, the door is probably jammed. Turning off your computer will stop the disk from spinning and make it safe to open the drive with a paperclip.
+
+2 - Locate the manual release hole on the CD_DVD-ROM drive's door.
+Locate the manual release hole on the CD/DVD-ROM drive's door. You'll usually see a small round pinhole on, below, or beside the drive tray. Behind that hole is a button that can eject the tray whether the PC is on or off.
+- If you're using a desktop PC and don't see a pinhole, you'll need to remove the front panel to make it visible. Check your PC's manual for instructions on removing the panel.
+
+3 - Remove all power cords.
+Remove all power cords. It's important that your PC is not connected to a power source when attempting to open the tray with a paperclip.
+
+4 - Gently insert one end of a paperclip into the manual release hole.
+Gently insert one end of a paperclip into the manual release hole. Bend one end of the paperclip so it extends straight, and then insert it slowly into the pinhole. When you feel resistance, push inward until the tray pops open.
+- Sometimes the LED light and manual release holes will look very similar. If the paperclip doesn't easily insert into the hole, don't force it—you've likely found the light rather than the release hole.
+- If the tray will not pop out, see Ejecting from Inside a Desktop PC.
+
+5 - Pull the tray out.
+Pull the tray out. Gently pull the tray away from the drive to open it fully. Remove the stuck disk if applicable, and then push the tray back in when you're finished. Turn the computer back on then test the drive's eject button or use Windows File Explorer to see if the drive will eject normally. If you are only able to eject the tray with a paperclip going forward, you'll need to have the drive serviced.
+

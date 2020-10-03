@@ -1,0 +1,45 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - 
+
+1 - Understand what this error means.
+Understand what this error means. The "Critical Process Died" error refers to an instance in which an important hardware component (e.g., your hard drive) or a mandatory software attribute either didn't start up correctly or stopped suddenly.
+- This error can be trivial, but if you see it happen multiple times in a row or you're unable to start your computer without running into the BSOD, it indicates a more serious issue.
+
+2 - Make sure you've encountered the correct error.
+Make sure you've encountered the correct error. The "Critical Process Died" error returns the code 0x000000EF. If you see a different code, skip to the next part.
+
+3 - Determine whether this is the first time you're encountering this error.
+Determine whether this is the first time you're encountering this error. If you received this error once and then were able to use your computer normally, it may be that your computer had a minor problem when loading drivers. If you've received this error two or more times in a relatively short amount of time, however, you should proceed with attempting to fix the error.
+- If you're unable to use your computer without receiving this error, you need to take your computer into a reputable repair service or shop—it may be that your hard drive or processor is failing, in which case there's nothing you can do from your end.
+
+4 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+
+5 - Open Command Prompt in administrator mode.
+Open Command Prompt in administrator mode. Type in command prompt to search for Command Prompt, then right-click  Command Prompt and click Run as administrator in the drop-down menu.
+
+6 - Click Yes when prompted.
+Click Yes when prompted. Doing so will open the Command Prompt window.
+
+7 - Enter the System File Checker command.
+Enter the System File Checker command. Type in sfc /scannow and press ↵ Enter. Windows will begin scanning for issues.
+
+8 - Wait for the scan to complete.
+Wait for the scan to complete. Windows will attempt to fix any issues it encounters. Once the scan is complete, you can proceed.
+
+9 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu.
+
+10 - Try running the Deployment Image Servicing and Management (DISM) service.
+Try running the Deployment Image Servicing and Management (DISM) service. If you still receive the "Critical Process Died" error on occasion but can still access your computer, try doing the following:
+- Re-open Command Prompt in administrator mode.
+- Type in Dism /Online /Cleanup-Image /CheckHealth and press ↵ Enter.
+- Type in Dism /Online /Cleanup-Image /ScanHealth and press ↵ Enter.
+- Type in Dism /Online /Cleanup-Image /RestoreHealth and press ↵ Enter.
+- Wait for any processes to finish running, then restart your computer.
+
+11 - Take your computer into a reputable repair shop.
+Take your computer into a reputable repair shop. If the steps in this section haven't fixed the error or you're unable to access your computer without the BSOD appearing, you'll need to take your computer into a professional repair service. Since the "Critical Process Died" error often refers to hardware, your hard drive, processor, or RAM may be corrupted and in need of recovery.
+

@@ -1,0 +1,28 @@
+T1	Software-OS-Related 162 180	emacs filename.txt
+T2	Software-OS-Related 186 194	Terminal
+T3	Software-OS-Related 295 304	text file
+T7	Software-Other 493 505	Emacs editor
+A2	isOpened T7 f->t
+T9	Software-Other 709 723	Emacs commands
+T10	Software-OS-Related 837 845	document
+T11	Software-Other 963 979	Control commands
+T12	Software-Other 984 997	Meta commands
+T13	Software-Other 1046 1056	C-<letter>
+T14	Software-Other 1240 1250	M-<letter>
+T15	Software-Other 1254 1266	ESC <letter>
+T18	Software-OS-Related 1866 1870	file
+T19	Software-Other 1965 1982	Emacs text editor
+A4	isOpened T19 t->f
+T20	Software-OS-Related 2006 2015	directory
+T21	Software-OS-Related 2019 2027	Terminal
+T23	Software-OS-Related 2186 2204	emacs filename.txt
+T24	Software-OS-Related 2210 2218	Terminal
+T25	Software-OS-Related 2250 2259	directory
+T26	Software-Other 2315 2320	Emacs
+T4	Software-Other 476 485	text file
+A1	isOpened T4 f->t
+T5	Software-Other 1856 1860	save
+A3	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-Other 2128 2137	text file
+A5	isOpened T6 f->t

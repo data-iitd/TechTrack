@@ -1,0 +1,21 @@
+T1	Software-Other 149 159	UNetbootin
+A1	isOpened T1 f->t
+T2	Hardware-Other 291 300	USB drive
+T3	Software-Other 728 739	web browser
+A2	isOpened T3 f->t
+T4	Software-OS-Related 973 983	Windows 10
+T5	Software-OS-Related 1107 1117	Windows 10
+T6	Software-Other 1587 1597	UNetbootin
+A3	isOpened T6 f->t
+T7	Hardware-Other 1614 1623	USB drive
+T8	Software-OS-Related 2171 2180	Microsoft
+T9	Software-OS-Related 2284 2293	USB Drive
+A4	isOpened T9 f->t
+T10	Software-OS-Related 2304 2308	Type
+T11	Software-OS-Related 2422 2431	USB drive
+A5	isOpened T11 f->t
+T12	Software-OS-Related 2442 2447	Drive
+T13	Software-OS-Related 2775 2777	OK
+A6	isSettingsChanged T13 true
+R1	SubPart Arg1:T9 Arg2:T10	
+R2	SubPart Arg1:T11 Arg2:T12	

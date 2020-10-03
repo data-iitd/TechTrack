@@ -1,0 +1,29 @@
+Add a Webcam to OBS on PC or Mac
+https://www.wikihow.com/Add-a-Webcam-to-OBS-on-PC-or-Mac
+
+0 - Steps
+
+1 - Connect the webcam to your PC or Mac.
+Connect the webcam to your PC or Mac. If you haven’t yet set up your webcam, see Set up a Webcam now.;
+
+2 - Open OBS Studio.
+Open OBS Studio. It’s in the All Apps area of the Start  menu in Windows, and the Applications folder in macOS.
+
+3 - Click + under “Sources.
+Click + under “Sources.” It’s the first icon at the bottom of the “Sources” box. A menu will appear.
+
+4 - Click Video Capture Device.
+Click Video Capture Device. It’s near the bottom of the menu. This opens the “Create/Select Source” window.
+
+5 - Type a name for the webcam.
+Type a name for the webcam. It goes into the “Create New” box at the top of the window.
+
+6 - Click OK.
+Click OK. The Properties menu will appear.
+
+7 - Select your webcam from the “Device” drop-down menu.
+Select your webcam from the “Device” drop-down menu. It’s the first menu in the window.
+
+8 - Click OK.
+Click OK. It’s at the bottom of the window. Your webcam is now added to OBS Studio.
+

@@ -1,0 +1,28 @@
+Install Software on Linux
+https://www.wikihow.com/Install-Software-on-Linux
+
+0 - Using the Ubuntu Software Center
+
+1 - Click the Dash icon on your desktop.
+Click the Dash icon on your desktop. This button looks like a whirling circle in the upper-left corner. It will open your menu.
+- ;
+
+2 - Find and click the Software Center on the Dash menu.
+Find and click the Software Center on the Dash menu. The Software Center icon looks like a white "A" on an orange shopping bag. It will open the software store in a new window.
+- You may also be able to find this icon on the left-hand side of your desktop.
+- If you're using a different Linux distribution than Ubuntu, you may have a similar GUI for installing new software. Check out the Software or Applications section in your desktop environment.
+
+3 - Find and click the software you want to install.
+Find and click the software you want to install. You can either browse through the categories from the menu on the left-hand side, or type what you're searching for in the search box on the top-right.
+
+4 - Click the Install button next to the app.
+Click the Install button next to the app. This will download and install the selected software on your computer.
+- You will have to verify your computer's admin user password.
+
+5 - Type your account password.
+Type your account password. Select your username in the drop-down, and type your password into the password field.
+
+6 - Click the  Authenticate button.
+Click the  Authenticate button. This will verify your user password, and install the selected app.
+- You can open the app by clicking on its icon on the launcher at the left of the screen.
+

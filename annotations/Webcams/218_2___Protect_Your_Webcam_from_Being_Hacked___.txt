@@ -1,0 +1,26 @@
+Protect Your Webcam from Being Hacked
+https://www.wikihow.com/Protect-Your-Webcam-from-Being-Hacked
+
+0 - 
+
+1 - Open your System Preferences from your Dock.
+Open your System Preferences from your Dock. The icon looks like a silver cog.
+
+2 - Hit the Privacy tab along the top, if it's not already selected.
+Hit the Privacy tab along the top, if it's not already selected.
+
+3 - Select Security & Privacy.
+Select Security & Privacy.
+
+4 - Scroll down to Camera.
+Scroll down to Camera. This is where you can find a list of all the apps that have permission to use your camera.
+
+5 - Uncheck any boxes next to app names you don't want accessing your camera.
+Uncheck any boxes next to app names you don't want accessing your camera. You may be asked to reset restart the app to update the settings; follow any on-screen prompts if so.
+- If the apps or options are greyed out, you may have to hit the lock at the bottom left of your screen before you can make changes. You'll be prompted to enter your account password and hit Unlock.
+
+6 - Turn access on, app by app, if you'd like to.
+Turn access on, app by app, if you'd like to. If you've turned off access to your camera, you may be asked for permission again next time the app tries to use your camera. You can grant it from those prompts, if you'd like to.[4]
+- X
+- Research source
+

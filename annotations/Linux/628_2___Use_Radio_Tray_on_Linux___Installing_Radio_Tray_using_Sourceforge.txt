@@ -1,0 +1,21 @@
+Use Radio Tray on Linux
+https://www.wikihow.com/Use-Radio-Tray-on-Linux
+
+0 - Installing Radio Tray using Sourceforge
+
+1 - Open up your internet browser.
+Open up your internet browser.
+
+2 - Type in the search bar http:__radiotray.sourceforge.net_ and press ↵ Enter.
+Type in the search bar http://radiotray.sourceforge.net/ and press ↵ Enter.
+
+3 - Scroll down until you see a download section and choose your desired download option.
+Scroll down until you see a download section and choose your desired download option. .
+
+4 - Wait for your download to start automatically.
+Wait for your download to start automatically.
+- Some browsers will ask you what you want to do with the file. It is recommended that you save the file first and then scan the file using an anti virus program just to be on the safe side.
+
+5 - Once it's downloaded, find the download location and open the compressed file.
+Once it's downloaded, find the download location and open the compressed file.
+

@@ -1,0 +1,9 @@
+T1	Software-OS-Related 277 289	Disk Utility
+A1	isOpened T1 f->t
+T3	Software-OS-Related 595 602	convert
+T4	Software-OS-Related 625 637	Disk Utility
+R1	SubPart Arg1:T3 Arg2:T4	
+T2	Software-Other 181 198	Download the file
+A4	isOpened T2 f->t
+T7	Software-Other 361 370	.dmg file
+A5	isOpened T7 f->t

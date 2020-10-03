@@ -1,0 +1,36 @@
+Format a Hard Drive Using Ubuntu
+https://www.wikihow.com/Format-a-Hard-Drive-Using-Ubuntu
+
+0 - Performing a Quick Format
+
+1 - Open the Disks program.
+Open the Disks program. You can quickly find this by opening the Dash and typing disks. This will display all of your connected drives on the left side of the window.
+- ;
+
+2 - Select the drive you want to format.
+Select the drive you want to format. All of your drives will appear in the left frame. Be careful when you're selecting your drive, as everything on the partition will be deleted when you format it.
+
+3 - Click the Gear button and select "Format Partition."
+Click the Gear button and select "Format Partition." This will open a new window for configuring the file system.
+
+4 - Select the file system you want to use.
+Select the file system you want to use. Click the "Type" menu and select the file system you want to use.
+- If you want to use the drive to transfer files between Linux, Mac, and Windows computers, as well as most devices that support USB storage, select "FAT."
+- If you're just using the drive for your Linux computer, select "Ext4."
+- If you're planning on just using the drive in Windows, select "NTFS."
+
+5 - Give the volume a name.
+Give the volume a name. You can enter a label for the formatted volume into the empty field. This can help you identify your connected drives.
+
+6 - Select whether or not you want a secure erase.
+Select whether or not you want a secure erase. By default, the format process will delete but not overwrite the data on the drive. If you want to securely erase the contents, select "Overwrite existing data with zeroes" from the "Erase" menu. This will result in a slower but more secure format.
+
+7 - Click the "Format" button to start the format process.
+Click the "Format" button to start the format process. You'll be asked to confirm before you proceed. The format process will take longer for larger drives, and if you selected the more secure erasing option.
+- If you encounter difficulties formatting the drive, try GParted in the next section.
+
+8 - Mount the formatted drive.
+Mount the formatted drive. Once the drive has been formatted, click the "Mount" button that appears beneath the Volumes graph. This will mount the partition, allowing you to access the file system for storage. Click the link that appears to open the it in your file browser, or open the Files program and look for the drive in the left frame.[1]
+- X
+- Research source
+

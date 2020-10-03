@@ -1,0 +1,29 @@
+Change Themes on Ubuntu with Gnome Tweak Tool
+https://www.wikihow.com/Change-Themes-on-Ubuntu-with-Gnome-Tweak-Tool
+
+0 - Installing GNOME Tweak Tool and Shell Extensions
+
+1 - Press the Control+Alt+T keys together to open the terminal.
+Press the Control+Alt+T keys together to open the terminal.
+- Linux keyboard shortcuts are the same using a Mac or PC keyboard.
+- ;
+
+2 - Type sudo apt-get install gnome-tweak-tool into the Terminal, then hit ↵ Enter.
+Type sudo apt-get install gnome-tweak-tool into the Terminal, then hit ↵ Enter. This will contact the official repository to download the GNOME Tweak Tool package. When prompted, enter your account (current) password and the download and installation will proceed.
+- The "sudo" command grants security privileges of the super user. The apt-get command handles the Advanced Packing Tool (APT) to install the package.
+- Installing packages requires an active network connection. Do not disconnect from the network until installation is complete.
+
+3 - Type sudo add-apt-repository ppa:webupd8team_gnome3 into the Terminal, then hit ↵ Enter.
+Type sudo add-apt-repository ppa:webupd8team/gnome3 into the Terminal, then hit ↵ Enter. This will give you access to the PPA (Personal Package Archive) to access GNOME Shell Extensions and its themes since they cannot be downloaded through the official repository.[1]
+- X
+- Research source
+
+4 - Type sudo apt-get update into the Terminal, then hit ↵ Enter.
+Type sudo apt-get update into the Terminal, then hit ↵ Enter. This will make sure the PPA content is up-to-date.
+
+5 - Type sudo apt-get install gnome-shell-extensions-user-themes into the Terminal, then hit ↵ Enter.
+Type sudo apt-get install gnome-shell-extensions-user-themes into the Terminal, then hit ↵ Enter. This will install the GNOME Shell Extensions with user theme support enabling you to download and install custom themes to use with the Tweak Tool.
+
+6 - Restart your computer.
+Restart your computer. The GNOME Tweak Tool requires a restart for extensions installed to the tool.
+

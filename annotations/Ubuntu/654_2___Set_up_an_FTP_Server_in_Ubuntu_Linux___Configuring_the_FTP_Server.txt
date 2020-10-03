@@ -1,0 +1,49 @@
+Set up an FTP Server in Ubuntu Linux
+https://www.wikihow.com/Set-up-an-FTP-Server-in-Ubuntu-Linux
+
+0 - Configuring the FTP Server
+
+1 - Open the VSFTPD configuration file.
+Open the VSFTPD configuration file. Type in sudo nano /etc/vsftpd.conf and press ↵ Enter. You'll be editing this file to allow (or disable) certain VSFTPD features.
+
+2 - Allow local users to log into your FTP server.
+Allow local users to log into your FTP server. Use the arrow keys to scroll down to the # Uncomment this to allow local users to log in. heading, then remove the "#" from the local_enable=YES line below it.[2]
+- X
+- Research source
+- 
+- 
+- You can remove the "#" by using the arrow keys to select the letter in front of it (in this case, "l") and pressing the ← Backspace key.
+- Skip this step if the local_enable=YES line is already white.
+
+3 - Allow FTP write commands.
+Allow FTP write commands. Scroll down to the # Uncomment this to enable any form of FTP write command. heading, then remove the "#" from the write_enable=YES line below it.
+- Skip this step if write_enable=YES is already white.
+
+4 - Disable ASCII mangling.
+Disable ASCII mangling. Scroll all the way down to the # ASCII mangling is a horrible feature of the protocol. heading, then remove the "#" from the following two lines:
+- ascii_upload_enable=YES
+- ascii_download_enable=YES
+
+5 - Change the "chroot" settings.
+Change the "chroot" settings. Scroll down to the # chroot) heading, then add the following lines:
+- user_sub_token=$USER
+- chroot_local_user=YES
+- chroot_list_enable=YES
+- If any of these lines already exist, simply remove the "#" before each existing line.
+
+6 - Change the default "chroot" settings.
+Change the default "chroot" settings. Scroll down to the (default follows) heading, then add the following lines:
+- chroot_list_file=/etc/vsftpd.chroot_list
+- local_root=/home/$USER/Public_html
+- allow_writeable_chroot=YES
+- If any of these lines already exist, simply remove the "#" before each existing line.
+
+7 - Enable the "ls recurse" option.
+Enable the "ls recurse" option. Scroll down to the # You may activate the "-R" option... heading, then remove the "#" from the ls_recurse_enable=YES line below it.
+
+8 - Save and exit the text editor.
+Save and exit the text editor. To do so:
+- Press Ctrl+X
+- Type y
+- Press ↵ Enter
+

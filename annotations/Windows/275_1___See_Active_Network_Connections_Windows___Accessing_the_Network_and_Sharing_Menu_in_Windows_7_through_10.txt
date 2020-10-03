@@ -1,0 +1,28 @@
+See Active Network Connections (Windows)
+https://www.wikihow.com/See-Active-Network-Connections-(Windows)
+
+0 - Accessing the Network and Sharing Menu in Windows 7 through 10
+
+1 - Click Start.
+Click Start.
+- ;
+
+2 - Go to Settings.
+Go to Settings.
+
+3 - Select Ethernet.
+Select Ethernet.
+
+4 - Go to the Network and Sharing Center.
+Go to the Network and Sharing Center. The Network and Sharing Center is a feature of Windows 10 where you can find that status of your network, the type of connection you have, if you can connect to other computers other than your own, and if you are connected to your network or the internet.[1]
+- X
+- Research source
+
+5 - Click on the icon next to "Connections.
+Click on the icon next to "Connections." This should correspond to your connection type, for example "Ethernet" will be paired with an ethernet cable "plug" and a wireless network connection will be paired with five bars.[2]
+- X
+- Research source
+
+6 - Click Details.
+Click Details. This will prompt a window to display that will show the details of your network connection.
+

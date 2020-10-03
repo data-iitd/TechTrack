@@ -1,0 +1,14 @@
+T1	Software-OS-Related 151 163	Disk Utility
+A1	isOpened T1 f->t
+T2	Hardware-Other 413 423	blank disc
+T3	Software-OS-Related 606 621	disc image file
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 899 910	Burn button
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1022 1027	arrow
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1110 1129	Verify burned data”
+A5	isSettingsChanged T6 true
+T7	Software-OS-Related 1152 1156	Burn
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T1	

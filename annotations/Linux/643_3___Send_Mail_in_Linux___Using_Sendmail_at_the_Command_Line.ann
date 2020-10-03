@@ -1,0 +1,23 @@
+T1	Software-Other 131 140	text file
+T2	Software-Other 158 169	text editor
+T3	Software-Other 263 265	vi
+T4	Software-Other 272 283	vi mail.txt
+T5	Software-Other 394 406	email header
+T6	Software-Other 600 609	text file
+T7	Software-Other 456 481	recipient's email address
+T8	Software-Other 487 502	message subject
+T9	Software-Other 512 534	sender's email address
+T10	Software-Other 815 822	message
+T12	Software-Other 954 963	text file
+T13	Software-Other 1072 1076	:wq!
+A1	isSettingsChanged T13 true
+R1	SubPart Arg1:T13 Arg2:T12	
+T14	Software-Other 1044 1046	vi
+T11	Software-Other 1131 1139	mail.txt
+A2	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T12	
+T15	Software-OS-Related 1175 1183	terminal
+A3	isOpened T15 f->t
+T16	Software-OS-Related 1264 1269	Linux
+T17	Software-OS-Related 1322 1345	sendmail -vt < mail.txt
+T18	Software-OS-Related 1446 1453	message

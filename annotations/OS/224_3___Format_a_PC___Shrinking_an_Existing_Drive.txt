@@ -1,0 +1,30 @@
+Format a PC
+https://www.wikihow.com/Format-a-PC
+
+0 - Shrinking an Existing Drive
+
+1 - Open the Disk Management utility.
+Open the Disk Management utility. You can shrink any of your existing drives to convert the free space on them into a new partition. This can be useful if you have a lot of free space on a drive and want to create a dedicated drive for specific files, such as media.
+- Press ⊞ Win+R and type diskmgmt.msc to quickly launch the Disk Management utility. You can also right-click the Start button in Windows 8 and 10 to select Disk Management from the menu.
+
+2 - Select the partition that you want to shrink.
+Select the partition that you want to shrink. You can shrink any partition that has some free space. You'll likely want to choose one that you can at least get several GB out of to make your new partition useful. Make sure to leave enough space for the existing partition, especially if it is your boot partition. Windows performs best when it has at least 20% of the partition free.
+
+3 - Right-click the partition and select "Shrink volume".
+Right-click the partition and select "Shrink volume". This will open a new window after Disk Management determines how much space is available to create a new partition out of.
+
+4 - Enter in the size of your new partition.
+Enter in the size of your new partition. The window will display how much space is available to shrink the existing drive in megabytes (MB). 1024MB is equal to a single gigabyte (GB). You'll need to enter in the size you want to shrink the drive by (creating a new partition that size).
+
+5 - Start the shrinking process.
+Start the shrinking process. Click "Shrink" to carve out the space that you specified in the existing drive. It will appear in Disk Management as Unallocated space on the same drive as the old partition.
+
+6 - Create a partition.
+Create a partition. Right-click on the unallocated space and select "New simple volume". This will start the Simple Volume Wizard.
+
+7 - Follow the prompts to create the partition.
+Follow the prompts to create the partition. You'll be able to select how much of the Unallocated space you want to use for the new partition. You'll also be assigning a drive letter.
+
+8 - Format the new partition.
+Format the new partition. During the wizard, you'll be prompted to format the partition. You can format it with a file system now, or do it later by performing the steps in the previous method.
+

@@ -1,0 +1,14 @@
+T1	Software-OS-Related 254 262	Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 341 347	System
+A2	isOpened T2 f->t
+T3	Software-OS-Related 410 433	Notifications & actions
+A3	isOpened T3 f->t
+T4	Software-OS-Related 532 545	Notifications
+T5	Software-OS-Related 916 961	Get notifications from apps and other senders
+T6	Software-OS-Related 966 969	Off
+A4	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T3	
+T7	Software-OS-Related 1189 1191	On
+A5	isSettingsChanged T7 true
+T8	Software-OS-Related 1142 1187	Get notifications from apps and other senders

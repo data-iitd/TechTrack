@@ -1,0 +1,35 @@
+T1	Hardware-Devices 125 132	headset
+A1	isPowered T1 f->t
+T3	Software-OS-Related 376 381	Start
+A2	isOpened T3 f->t
+T4	Hardware-Devices 470 476	screen
+A3	isPowered T4 start-T
+T5	Software-OS-Related 520 528	Settings
+A4	isOpened T5 f->t
+T6	Software-OS-Related 632 639	Devices
+A5	isOpened T6 f->t
+T8	Software-OS-Related 742 767	Bluetooth & other devices
+A7	isOpened T8 f->t
+T11	Software-OS-Related 1324 1334	Bluetooth.
+A10	isOpened T11 f->t
+T12	Hardware-Devices 1422 1431	headset's
+A11	isPowered T12 f->t
+T14	Software-OS-Related 1988 1997	Bluetooth
+A13	isOpened T14 t->f
+T13	Software-OS-Related 1711 1725	headset's name
+A12	isOpened T13 f->t
+T15	Software-OS-Related 1779 1788	Bluetooth
+A14	isOpened T15 f->t
+T16	Software-OS-Related 1580 1589	Bluetooth
+T17	Software-OS-Related 2092 2096	Pair
+T20	Software-OS-Related 714 722	Settings
+T7	Hardware-Other 282 289	charger
+T22	Hardware-Other 2202 2210	computer
+T23	Hardware-Devices 2175 2182	headset
+A6	isConnected T23 f->t
+T2	Hardware-Other 876 893	Bluetooth  switch
+T9	Software-OS-Related 1178 1191	Add Bluetooth
+A8	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T8	
+A9	isSettingsChanged T17 true
+R2	SubPart Arg1:T17 Arg2:T8	

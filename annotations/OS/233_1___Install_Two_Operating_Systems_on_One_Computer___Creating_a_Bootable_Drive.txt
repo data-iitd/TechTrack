@@ -1,0 +1,50 @@
+Install Two Operating Systems on One Computer
+https://www.wikihow.com/Install-Two-Operating-Systems-on-One-Computer
+
+0 - Creating a Bootable Drive
+
+1 - Install Windows
+Install Windows.  If you haven't already done so, you should install Windows before installing any other operating systems.  Other operating systems, such as Linux are designed so they can work alongside Windows.  If you have not installed an operating system on your PC, make sure you install Windows first.[1]
+- X
+- Research source
+- 
+- The exception is if you are trying to dual-boot Windows alongside macOS on a Mac.  Macs are built a little different than most standard PCs and generally come with macOS already installed.
+- ;
+
+2 - Navigate to https:__rufus.ie_ in a web browser.
+Navigate to https://rufus.ie/ in a web browser. This is the web page to download Rufus which is a tool used to create a USB install drive that you can use to install an operating system on your computer.
+- You can also use an official install CD or DVD.
+
+3 - Download and install Rufus.
+Download and install Rufus.  Use the following steps to download and install Rufus from the download page.
+- Scroll down and click Rufus 3.8
+- Run the "Rufus-3.8.exe" from within your web browser or Downloads folder.
+
+4 - Download a disk image (ISO) for the operating system you want to install.
+Download a disk image (ISO) for the operating system you want to install.  A disk image is data that goes on an install disk, DVD or USB drive.  You will need to go to the website of the operating system you want to download and download the ISO file from that website.  The following links contain operating system ISO images you can download:
+- Windows 10
+- Windows 8
+- Windows 7
+- Ubuntu
+- Linux Mint
+- Debian
+- Installing macOS on a non-Apple computer is more complicated than installing other operating systems, but it is possible.
+
+5 - Insert a blank USB flash drive.
+Insert a blank USB flash drive.  Make sure the USB drive has enough space for the operating system you want to install.  Also, make sure the USB drive you use doesn't have any important data that you don't want to lose.  Insert the USB drive into an open USB port on your computer.
+
+6 - Open Rufus.
+Open Rufus.  It has an icon that resembles a USB flash drive.  Click the Rufus icon in your Windows Start menu to open Rufus.
+
+7 - Select your USB flash drive.
+Select your USB flash drive.  Use the drop-down menu below "Devices" to select your USB flash drive.
+
+8 - Click Select.
+Click Select.  It's the button to the right of "Boot Selection" in Rufus.  This opens a file browser you can use to select the ISO file for the operating system you want to install.
+
+9 - Select the operating system ISO file and click Open.
+Select the operating system ISO file and click Open.  This loads the ISO file into Rufus.
+
+10 - Click Start.
+Click Start.  It's at the bottom of Rufus on the right.  This starts the process of righting the ISO file to the USB drive.  This may take a while to complete.
+

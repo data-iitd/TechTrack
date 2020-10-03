@@ -1,0 +1,27 @@
+T1	Software-Other 206 233	https://www.virtualbox.org/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 298 307	Downloads
+A3	isSettingsChanged T2 true
+T3	Software-Other 381 416	VirtualBox 5.2.16 platform packages
+A4	isSettingsChanged T3 true
+T4	Software-Other 497 518	VirtualBox setup file
+A5	isInstalled T4 f->t
+T5	Software-Other 615 619	Next
+A6	isOpened T5 f->t
+T6	Software-Other 786 789	Yes
+A7	isSettingsChanged T6 true
+T7	Software-Other 854 861	Install
+A8	isOpened T7 f->t
+T8	Software-Other 946 949	Yes
+A9	isSettingsChanged T8 true
+T9	Software-Other 1263 1285	Launch VirtualBox" box
+A10	isSettingsChanged T9 true
+T10	Software-Other 1412 1418	Finish
+A11	isSettingsChanged T10 true
+R1	SubPart Arg1:T9 Arg2:T4	
+R2	SubPart Arg1:T2 Arg2:T1	
+R3	SubPart Arg1:T3 Arg2:T1	
+R4	SubPart Arg1:T6 Arg2:T4	
+R5	SubPart Arg1:T8 Arg2:T4	
+R6	SubPart Arg1:T10 Arg2:T4	

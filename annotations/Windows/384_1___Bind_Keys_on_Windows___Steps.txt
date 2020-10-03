@@ -1,0 +1,44 @@
+Bind Keys on Windows
+https://www.wikihow.com/Bind-Keys-on-Windows
+
+0 - Steps
+
+1 - Open your internet browser.
+Open your internet browser. You can use any web browser, such as Firefox, Opera, or Chrome.
+- ;
+
+2 - Go to https:__github.com_randyrants_sharpkeys_releases in your browser.
+Go to https://github.com/randyrants/sharpkeys/releases in your browser. SharpKeys is an open-source software that allows you to reassign your keyboard buttons on Windows.
+
+3 - Click and download sharpkeys36.zip.
+Click and download sharpkeys36.zip. This is a zipped folder containing the SharpKeys software.
+
+4 - Open the sharpkeys36.zip folder on your computer.
+Open the sharpkeys36.zip folder on your computer.
+- You need WinZip, WinRAR or some other unzipping software on your computer to open it.
+
+5 - Double-click SharpKeys.exe.
+Double-click SharpKeys.exe. This will open the SharpKeys software. You can find it in the sharpkeys36.zip folder.
+- When you see the welcome message in a pop-up window, click the Accept button.
+
+6 - Click the Add button.
+Click the Add button. This button is in the lower-left corner of the SharpKeys window. It will allow you to add a new keyboard button configuration.
+
+7 - Select the key you want to change on the left column.
+Select the key you want to change on the left column. This is the "Map this key (From key)" column.
+- For example, if you want to change your keyboard's Caps Lock button to Space, find and select Caps Lock on the left list.
+
+8 - Select the new function you want to assign on the right column.
+Select the new function you want to assign on the right column. This is the "To this key (To key)" column.
+- For example, if you're changing your Caps Lock button to Space, find and select Space on the right list.
+
+9 - Click the OK button.
+Click the OK button. This will save your new button configuration.
+
+10 - Click Write to Registry.
+Click Write to Registry. This button is in the lower-right corner of the SharpKeys window. It will apply your new button configuration.
+- If you're prompted to confirm, click OK.
+
+11 - Restart your computer.
+Restart your computer. Your new button configuration may not take effect until you restart your computer.
+

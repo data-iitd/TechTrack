@@ -1,0 +1,92 @@
+Connect an Xbox 360 to a Mac
+https://www.wikihow.com/Connect-an-Xbox-360-to-a-Mac
+
+0 - Steps
+
+1 - Connect a network cable to the back of your Xbox 360 console.
+Connect a network cable to the back of your Xbox 360 console.
+- ;
+
+2 - Plug the other end of the network cable into an Ethernet port on your Mac computer.
+Plug the other end of the network cable into an Ethernet port on your Mac computer.
+
+3 - Click on the Apple icon on your Mac computer, and select “System Preferences.
+Click on the Apple icon on your Mac computer, and select “System Preferences.”
+
+4 - Click on “Sharing” and place a checkmark next to “Internet Sharing.
+Click on “Sharing” and place a checkmark next to “Internet Sharing.”
+
+5 - Click on “AirPort” from the dropdown menu next to “Share your connection from.
+Click on “AirPort” from the dropdown menu next to “Share your connection from.”
+
+6 - Click on “Ethernet Adaptor (en2)” next to “To computers using.
+Click on “Ethernet Adaptor (en2)” next to “To computers using.”
+
+7 - Click on the “back” button at the top of the System Preferences window to return to the main menu.
+Click on the “back” button at the top of the System Preferences window to return to the main menu.
+
+8 - Click on “Network.
+Click on “Network.”
+
+9 - Select “WiFi” and click on the “DNS” tab.
+Select “WiFi” and click on the “DNS” tab.
+
+10 - Write down the number displayed below “DNS servers.
+Write down the number displayed below “DNS servers.”
+
+11 - Click on “OK,” then select “Ethernet.
+Click on “OK,” then select “Ethernet.”
+
+12 - Click on “TCP _ IP,” and select “Off” next to “Configure IPv4.
+Click on “TCP / IP,” and select “Off” next to “Configure IPv4.”
+
+13 - Click on “Apply.
+Click on “Apply.” Your Mac will now be configured to work with your Xbox 360.
+
+14 - Click on the “Guide” button on your Xbox 360 controller.
+Click on the “Guide” button on your Xbox 360 controller. The Guide button is the round button marked with an “X” in the middle of the controller.
+
+15 - Navigate to “Settings” and select “System Settings.
+Navigate to “Settings” and select “System Settings.”
+
+16 - Select “Network Settings,” followed by “Wired Network” if prompted to do so by your Xbox 360.
+Select “Network Settings,” followed by “Wired Network” if prompted to do so by your Xbox 360.
+
+17 - Select “Configure Network,” and select “IP Settings” from the Basic Settings tab.
+Select “Configure Network,” and select “IP Settings” from the Basic Settings tab.
+
+18 - Select “Manual,” then select “IP Address.
+Select “Manual,” then select “IP Address.”
+
+19 - Enter the following IP address, then select “Done:
+Enter the following IP address, then select “Done:” 192.168.2.2.
+
+20 - Select “Subnet Mask” and enter 255.255.255.0.
+Select “Subnet Mask” and enter 255.255.255.0.
+
+21 - Select “Done,” then select “Gateway.
+Select “Done,” then select “Gateway.”
+
+22 - Enter the following IP address, then select “Done:
+Enter the following IP address, then select “Done:” 192.168.2.1.
+
+23 - Navigate to the tab labeled “Basic Settings” and select “DNS Settings.
+Navigate to the tab labeled “Basic Settings” and select “DNS Settings.”
+
+24 - Select “Manual,” followed by “Primary DNS Server.
+Select “Manual,” followed by “Primary DNS Server.”
+
+25 - Enter the DNS Servers numbers you wrote down previously in step #10 of this article.
+Enter the DNS Servers numbers you wrote down previously in step #10 of this article.
+
+26 - Select “Done,” then select “Done” once again.
+Select “Done,” then select “Done” once again.
+
+27 - Press the “B” button on your Xbox 360 controller.
+Press the “B” button on your Xbox 360 controller.
+
+28 - Select “Test Xbox Live Connection” to verify that your Xbox 360 has been successfully connected to your Mac computer.
+Select “Test Xbox Live Connection” to verify that your Xbox 360 has been successfully connected to your Mac computer. You will now be able to connect to Xbox Live and play games on your Xbox 360 using your Mac’s Internet connection.[1]
+- X
+- Research source
+

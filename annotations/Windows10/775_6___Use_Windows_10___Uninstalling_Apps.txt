@@ -1,0 +1,24 @@
+Use Windows 10
+https://www.wikihow.com/Use-Windows-10
+
+0 - Uninstalling Apps
+
+1 - Click the Start  menu.
+Click the Start  menu. It’s usually at the bottom-left corner of the screen.
+
+2 - Click Settings .
+Click Settings . It’s near the bottom-left corner of the menu.
+
+3 - Click Apps.
+Click Apps. This opens the Apps & features window. All of your installed apps (including those that came pre-installed on the computer) appear in the right panel. Scroll down to see what’s there.
+
+4 - Click an app you want to remove.
+Click an app you want to remove. Depending on the app, you may see several buttons appear below.
+
+5 - Click Uninstall.
+Click Uninstall. A confirmation message will appear.
+- If the option is not available, you’ve selected an app that can’t be uninstalled. This usually happens because it’s a system app or part of another app’s installation.
+
+6 - Click Uninstall to confirm.
+Click Uninstall to confirm. The app will now be removed.
+

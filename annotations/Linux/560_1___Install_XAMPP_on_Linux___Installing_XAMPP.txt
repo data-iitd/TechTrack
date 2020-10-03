@@ -1,0 +1,52 @@
+Install XAMPP on Linux
+https://www.wikihow.com/Install-XAMPP-on-Linux
+
+0 - Installing XAMPP
+
+1 - Open the XAMPP download page.
+Open the XAMPP download page. Go to https://www.apachefriends.org/index.html in your computer's web browser. This is the official download site for XAMPP.
+- ;
+
+2 - Click XAMPP for Linux.
+Click XAMPP for Linux. It's in the middle of the page. This will prompt the XAMPP setup file to begin downloading onto your computer.
+- You may have to click Save File or select the "Downloads" folder as your save location before proceeding.
+
+3 - Allow the download to complete.
+Allow the download to complete. Once XAMPP's installation file finishes downloading onto your computer, you can proceed.
+
+4 - Open Terminal.
+Open Terminal. Click the Terminal app icon, which resembles a black box with a white ">_" inside of it.
+- You can also just press Alt+Ctrl+T to open a new Terminal window.
+
+5 - Change over to the "Downloads" directory.
+Change over to the "Downloads" directory. Type in cd Downloads and press ↵ Enter.
+- Make sure you capitalize "Downloads".
+- If your default downloads location is in a different folder, you'll have to change the directory to that folder.
+
+6 - Make the downloaded file executable.
+Make the downloaded file executable. Type in chmod +x xampp-linux-x64-7.2.9-0-installer.run﻿ and press ↵ Enter.[1]
+- X
+- Research source
+- 
+- If you download a different version of XAMPP (e.g., version 5.9.3), you'll replace "7.2.9" with your XAMPP version's number.
+
+7 - Enter the installation command.
+Enter the installation command. Type in sudo ./xampp-linux-x64-7.2.9-0-installer.run﻿ and press ↵ Enter.
+
+8 - Enter your password when prompted.
+Enter your password when prompted. Type in the password you use to log into your computer, then press ↵ Enter. The installation window will pop up.
+- You won't see the characters appear in Terminal when you type.
+
+9 - Follow the installation prompts.
+Follow the installation prompts. Once the installation window appears, do the following:
+- Click Next three times.
+- Uncheck the "Learn more about Bitnami for XAMPP" box.
+- Click Next, then click Next again to begin installing XAMPP.
+
+10 - Uncheck the "Launch XAMPP" box.
+Uncheck the "Launch XAMPP" box. It's in the middle of the final installation window.
+- Since XAMPP needs a few extra steps to actually run on Linux, you'll need to finish the installation without automatically running XAMPP.
+
+11 - Click Finish.
+Click Finish. This option is at the bottom of the window. Doing so will close the installation window. At this point, you're ready to run XAMPP.
+

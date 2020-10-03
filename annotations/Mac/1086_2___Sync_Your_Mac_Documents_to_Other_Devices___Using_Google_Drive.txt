@@ -1,0 +1,34 @@
+Sync Your Mac Documents to Other Devices
+https://www.wikihow.com/Sync-Your-Mac-Documents-to-Other-Devices
+
+0 - Using Google Drive
+
+1 - Navigate to https:__drive.google.com_ on your Mac.
+Navigate to https://drive.google.com/ on your Mac.
+
+2 - Sign into your Google account.
+Sign into your Google account.
+- If you do not have a Google account, you will need to make one.
+
+3 - Click New.
+Click New.
+
+4 - Click File Upload.
+Click File Upload.
+- You can also click Folder Upload to upload multiple documents.
+
+5 - Select a file on your computer to upload.
+Select a file on your computer to upload.
+
+6 - Click Open.
+Click Open.
+- You can also drag and drop files into the Google Drive window to upload them.
+
+7 - Navigate to https:__drive.google.com_ on your other device.
+Navigate to https://drive.google.com/ on your other device.
+- If you are using an iOS or Android device, you can also download the Google Drive app.
+
+8 - Sign into your Google account.
+Sign into your Google account. You will have access to all of your files uploaded from your Mac.
+- You can click/tap a document to view it or open the menu for a document and click/tap Download to save it to your device.
+

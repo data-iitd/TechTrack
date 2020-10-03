@@ -1,0 +1,25 @@
+T1	Software-Other 193 243	http://my.smithmicro.com/stuffit-expander-mac.html
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 556 572	StuffIt Expander
+A3	isInstalled T2 f->t
+T3	Software-Other 779 795	StuffIt Expander
+A4	isOpened T3 f->t
+T4	Software-Other 915 942	Move to Applications Folder
+A5	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	
+T5	Software-Other 1109 1125	StuffIt Expander
+A6	isOpened T5 f->t
+T6	Software-Other 1251 1264	Preferences….
+A7	isOpened T6 f->t
+T7	Software-Other 1358 1370	Advanced tab
+A8	isOpened T7 f->t
+T8	Software-Other 1469 1472	RAR
+T9	Software-Other 1569 1595	Assign to StuffIt Expander
+A10	isSettingsChanged T9 true
+R2	SubPart Arg1:T9 Arg2:T7	
+T10	Software-Other 1872 1880	RAR file
+A9	isOpened T10 f->t
+T11	Software-Other 2407 2424	extracted file(s)
+A11	isSettingsChanged T11 true
+R3	SubPart Arg1:T11 Arg2:T10	

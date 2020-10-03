@@ -1,0 +1,44 @@
+Record Your Voice on a Mac
+https://www.wikihow.com/Record-Your-Voice-on-a-Mac
+
+0 - Steps
+
+1 - Open QuickTime Player.
+Open QuickTime Player. Double-click the QuickTime Player app in your "Applications" folder. It's the icon of a black letter "Q" filled with blue inside. Alternatively, you can:
+- Click Spotlight .
+- Type quicktime player.
+- Double-click the QuickTime Player app.
+- ;
+
+2 - Click File.
+Click File. It's in the menu bar at the top of the screen. This opens a drop-down menu.
+
+3 - Click New Audio Recording.
+Click New Audio Recording. It's the second option from the top. This opens a new audio recording window.
+
+4 - Click the red button to begin recording.
+Click the red button to begin recording. It's in the middle of the Audio Recording window.
+
+5 - Speak directly to your Mac.
+Speak directly to your Mac. You should see the bars in the middle light up to indicate that it is receiving audio.
+
+6 - Click the black 'Stop' icon when you are finished recording.
+Click the black 'Stop' icon when you are finished recording. This stops the audio recording.
+- You can click the triangle 'Play' button in the middle to listen to your recording.
+
+7 - Click File.
+Click File. It's in the menu bar at the top of the screen. This opens a drop-down menu.
+
+8 - Click Save.
+Click Save. It's about halfway down the menu, below the "Close" option.
+
+9 - Type a filename for the recording.
+Type a filename for the recording. The default file is "Untitled" but it's best to replace it with something more descriptive. For example, "MeetingNotes" or "
+
+10 - Click the "Where" drop-down menu and select a location.
+Click the "Where" drop-down menu and select a location. Select a recent location in the drop-down list or click ⋁ to select a location in Finder where you want to save the voice recording file.
+
+11 - Click Save.
+Click Save. It's at the bottom-right of the window. This saves the audio file on your hard drive.
+- You can now quit QuickTime by clicking QuickTime Player in the top menu bar and selecting Quit QuickTime Player.
+

@@ -1,0 +1,28 @@
+T1	Software-OS-Related 167 177	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 269 287	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 317 323	iCloud
+A3	isOpened T3 f->t
+T4	Software-OS-Related 526 547	iCloud Drive checkbox
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 578 585	Options
+A5	isOpened T5 f->t
+T6	Software-OS-Related 637 665	Desktop and Document Folders
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 899 928	Check all boxes in the window
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 956 960	Done
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1009 1021	Settings app
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1240 1246	iCloud
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1279 1291	iCloud Drive
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1349 1378	iCloud Drive slider to enable
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1425 1441	iCloud Drive App
+A13	isOpened T13 f->t
+R1	SubPart Arg1:T12 Arg2:T9	
+R2	SubPart Arg1:T7 Arg2:T4	

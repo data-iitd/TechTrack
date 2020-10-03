@@ -1,0 +1,15 @@
+T1	Software-Other 97 111	Chrome website
+A1	isOpened T1 f->t
+T2	Software-Other 159 174	Download Chrome
+T3	Software-Other 220 236	download package
+T4	Software-OS-Related 289 294	Linux
+T5	Software-Other 535 553	Accept and Install
+T7	Software-OS-Related 633 644	System Menu
+A4	isOpened T7 f->t
+T8	Software-OS-Related 646 658	Applications
+A5	isOpened T8 f->t
+T9	Software-OS-Related 659 667	Internet
+A6	isOpened T9 f->t
+T6	Software-Other 668 681	Google Chrome
+A2	isOpened T6 f->t
+A3	isInstalled T6 f->t

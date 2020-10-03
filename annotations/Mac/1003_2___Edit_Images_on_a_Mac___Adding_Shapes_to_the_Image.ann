@@ -1,0 +1,15 @@
+T1	Software-Other 144 157	shapes button
+T2	Software-Other 830 853	solid colored rectangle
+T3	Software-Other 861 868	toolbar
+R1	SubPart Arg1:T1 Arg2:T3	
+R2	SubPart Arg1:T2 Arg2:T3	
+A2	isSettingsChanged T2 true
+A3	isSettingsChanged T1 true
+T4	Software-Other 967 979	outline colo
+A1	isSettingsChanged T4 true
+A4	isOpened T4 f->t
+T5	Software-Other 1293 1312	thickness of outlin
+A6	isOpened T5 f->t
+T6	Software-Other 1454 1463	thickness
+A5	isSettingsChanged T6 true
+R3	SubPart Arg1:T6 Arg2:T5	

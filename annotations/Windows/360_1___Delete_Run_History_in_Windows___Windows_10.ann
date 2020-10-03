@@ -1,0 +1,15 @@
+T1	Software-OS-Related 119 124	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 288 295	regedit
+A2	isOpened T2 f->t
+T3	Software-OS-Related 427 434	regedit
+A3	isOpened T3 f->t
+T4	Software-OS-Related 652 658	RunMRU
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1125 1131	RunMRU
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1883 1886	Yes
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-OS-Related 804 821	HKEY_CURRENT_USER
+A7	isOpened T7 f->t

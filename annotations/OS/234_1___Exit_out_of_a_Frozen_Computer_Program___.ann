@@ -1,0 +1,27 @@
+T1	Software-OS-Related 239 243	Lock
+T2	Software-OS-Related 245 256	Switch User
+T3	Software-OS-Related 258 266	Sign out
+T4	Software-OS-Related 272 284	Task Manager
+T5	Software-OS-Related 213 219	screen
+A1	isOpened T5 f->t
+T6	Software-OS-Related 307 319	Task Manager
+A2	isOpened T6 f->t
+T7	Software-OS-Related 485 504	Task Manager window
+T8	Software-OS-Related 777 784	Options
+T9	Software-OS-Related 1061 1067	Status
+T10	Software-OS-Related 1121 1135	Not responding
+T11	Software-OS-Related 1154 1162	End Task
+A3	isSettingsChanged T11 true
+T12	Software-OS-Related 1290 1309	Task Manager window
+T13	Software-OS-Related 1389 1398	Processes
+A4	isOpened T13 f->t
+T14	Software-OS-Related 1458 1470	Applications
+T15	Software-OS-Related 1041 1052	Apps header
+T16	Software-OS-Related 982 1002	unresponsive program
+R1	SubPart Arg1:T11 Arg2:T16	
+T17	Software-OS-Related 1786 1798	Applications
+T18	Software-OS-Related 1673 1680	process
+T19	Software-OS-Related 1911 1922	End Process
+A5	isSettingsChanged T19 true
+R2	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 2056 2068	Task Manager

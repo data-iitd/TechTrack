@@ -1,0 +1,52 @@
+T1	Software-Other 220 230	VirtualBox
+A1	isOpened T1 f->t
+T2	Software-Other 300 303	New
+A2	isOpened T2 f->t
+T3	Software-Other 334 339	Linux
+A3	isSettingsChanged T3 true
+T4	Software-Other 411 419	Continue
+A4	isOpened T4 f->t
+T5	Software-Other 489 507	512 MB memory size
+A5	isSettingsChanged T5 true
+T6	Software-Other 659 667	Continue
+A6	isOpened T6 f->t
+T7	Software-Other 785 830	Create a virtual hard drive now” radio button
+A7	isSettingsChanged T7 true
+T8	Software-Other 1020 1028	Continue
+A8	isOpened T8 f->t
+T9	Software-Other 841 847	Create
+A9	isOpened T9 f->t
+T10	Software-Other 947 974	VDI (VirtualBox Disk Image)
+A10	isSettingsChanged T10 true
+T11	Software-Other 1159 1190	Storage and physical hard drive
+T12	Software-Other 1253 1261	Continue
+A12	isOpened T12 f->t
+T13	Software-Other 1676 1681	Start
+A13	isOpened T13 f->t
+T14	Software-Other 1774 1792	yellow folder icon
+A14	isOpened T14 f->t
+T15	Software-Other 1875 1879	.iso
+A15	isSettingsChanged T15 true
+T16	Software-OS-Related 1978 1992	Install Ubuntu
+A16	isOpened T16 f->t
+T17	Software-OS-Related 2250 2258	Continue
+A17	isOpened T17 f->t
+T18	Software-OS-Related 2336 2365	Erase disk and install Ubuntu
+A18	isSettingsChanged T18 true
+T19	Software-OS-Related 2388 2396	Continue
+A19	isOpened T19 f->t
+T20	Software-OS-Related 2648 2660	Log in later
+A20	isSettingsChanged T20 true
+R1	SubPart Arg1:T3 Arg2:T1	
+R2	SubPart Arg1:T5 Arg2:T1	
+R3	SubPart Arg1:T7 Arg2:T1	
+R4	SubPart Arg1:T10 Arg2:T1	
+R5	SubPart Arg1:T11 Arg2:T1	
+R6	SubPart Arg1:T17 Arg2:T16	
+R7	SubPart Arg1:T18 Arg2:T16	
+R8	SubPart Arg1:T20 Arg2:T16	
+A11	isSettingsChanged T11 true
+T21	Software-Other 1596 1626	Select the name of the machine
+A21	isSettingsChanged T21 true
+R9	SubPart Arg1:T21 Arg2:T1	
+R10	SubPart Arg1:T15 Arg2:T14	

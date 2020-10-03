@@ -1,0 +1,39 @@
+T2	Hardware-Other 147 158	control box
+T4	Hardware-Other 291 295	Plug
+T5	Hardware-Other 301 305	cord
+T6	Hardware-Other 477 481	jack
+T8	Hardware-Other 564 569	slack
+T10	Hardware-Other 815 819	plug
+T12	Hardware-Other 796 804	USB cord
+T15	Software-OS-Related 1336 1346	search bar
+T16	Software-OS-Related 1392 1397	Sound
+A6	isOpened T16 f->t
+A7	isOpened T15 f->t
+T20	Software-OS-Related 1681 1694	Recording tab
+A11	isOpened T20 f->t
+T26	Hardware-Other 1885 1887	PC
+T27	Hardware-Devices 1575 1582	headset
+T7	Hardware-Other 920 927	speaker
+T29	Hardware-Other 940 942	PC
+T30	Hardware-Other 982 997	microphone port
+T31	Hardware-Other 1052 1058	laptop
+T22	Software-OS-Related 1778 1792	Default Device
+T18	Software-OS-Related 1479 1493	Default Device
+T9	Hardware-Other 718 726	computer
+T13	Hardware-Devices 1169 1176	headset
+T25	Hardware-Devices 1869 1876	headset
+A4	isConnected T25 f->t
+T3	Hardware-Other 356 360	port
+T32	Hardware-Other 699 710	control box
+T33	Hardware-Other 1022 1035	USB connector
+T34	Hardware-Other 1139 1145	Mobile
+T36	Hardware-Other 1101 1117	headphones ports
+T35	Hardware-Devices 1086 1096	microphone
+A1	isUsed T25 true
+T1	Hardware-Devices 132 139	headset
+A2	isPowered T1 f->t
+A9	isConnected T1 f->t
+A3	isSettingsChanged T22 true
+A8	isSettingsChanged T18 true
+R1	SubPart Arg1:T18 Arg2:T16	
+R2	SubPart Arg1:T22 Arg2:T20	

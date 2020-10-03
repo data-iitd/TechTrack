@@ -1,0 +1,5 @@
+T1	Software-OS-Related 232 254	Command Prompt (Admin)
+A1	isOpened T1 f->t
+T2	Software-OS-Related 336 339	Yes
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T2 Arg2:T1	

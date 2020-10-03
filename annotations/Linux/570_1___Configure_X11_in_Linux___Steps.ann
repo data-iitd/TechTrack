@@ -1,0 +1,58 @@
+T1	Software-OS-Related 113 131	configuration file
+T2	Software-OS-Related 729 745	new login prompt
+A1	isOpened T2 f->t
+T3	Software-OS-Related 781 787	Log in
+T5	Software-OS-Related 1149 1161	lightdm stop
+T6	Software-OS-Related 1208 1216	gdm stop
+T7	Software-OS-Related 1121 1128	LightDM
+T8	Software-OS-Related 1182 1187	Gnome
+A2	isSettingsChanged T5 true
+A3	isSettingsChanged T6 true
+R1	SubPart Arg1:T5 Arg2:T7	
+R2	SubPart Arg1:T6 Arg2:T8	
+T9	Software-OS-Related 1262 1271	directory
+A4	isOpened T9 f->t
+T10	Software-OS-Related 1229 1240	cd _etc_X11
+T11	Software-OS-Related 1390 1410	sudo Xorg -configure
+T12	Software-OS-Related 1776 1797	service lightdm start
+T13	Software-OS-Related 1748 1755	restart
+T14	Software-OS-Related 1756 1763	LightDM
+T15	Software-OS-Related 1815 1833	configuration file
+T16	Software-Other 1918 1921	vim
+A6	isInstalled T16 start-T
+T17	Software-OS-Related 1936 1958	vim /etc/X11/xorg.conf
+A7	isOpened T17 f->t
+T18	Software-OS-Related 2318 2323	Files
+T19	Software-OS-Related 2480 2488	fontpath
+T20	Software-OS-Related 2546 2553	Monitor
+T21	Software-OS-Related 2504 2510	Device
+T22	Software-OS-Related 2748 2760	Server Flags
+T23	Software-OS-Related 2837 2843	Vendor
+T24	Software-OS-Related 2870 2876	Module
+T25	Software-OS-Related 3015 3026	Input Class
+T26	Software-OS-Related 2980 2990	Extensions
+T27	Software-OS-Related 3090 3099	XkbLayout
+T28	Software-OS-Related 3141 3154	Server Layout
+A5	isSettingsChanged T18 true
+R3	SubPart Arg1:T18 Arg2:T17	
+A8	isSettingsChanged T21 true
+R4	SubPart Arg1:T21 Arg2:T17	
+R5	SubPart Arg1:T20 Arg2:T17	
+A9	isSettingsChanged T20 true
+A10	isSettingsChanged T22 true
+R6	SubPart Arg1:T22 Arg2:T17	
+T29	Software-OS-Related 1475 1496	xorg.conf in /etc/X11
+A11	isSettingsChanged T23 true
+A12	isSettingsChanged T24 true
+A13	isSettingsChanged T26 true
+A14	isSettingsChanged T25 true
+A15	isSettingsChanged T27 true
+A16	isSettingsChanged T28 true
+R7	SubPart Arg1:T23 Arg2:T17	
+R8	SubPart Arg1:T24 Arg2:T17	
+R9	SubPart Arg1:T26 Arg2:T17	
+R10	SubPart Arg1:T25 Arg2:T17	
+R11	SubPart Arg1:T27 Arg2:T17	
+R12	SubPart Arg1:T28 Arg2:T17	
+T30	Software-OS-Related 3237 3241	Xorg
+T31	Software-OS-Related 3207 3211	Save

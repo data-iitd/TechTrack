@@ -1,0 +1,36 @@
+Type Special Characters on Windows
+https://www.wikihow.com/Type-Special-Characters-on-Windows
+
+0 - Steps
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the Windows search bar.
+- ;
+
+2 - Type character map.
+Type character map. A list of suggested results will appear.
+
+3 - Click Character Map.
+Click Character Map. This opens a panel of special characters and symbols you can insert into almost any app or document.
+
+4 - Find the character you want to use.
+Find the character you want to use. Each font on your computer has different special characters. To view all of a font’s characters, select the font the “Font” drop-down menu.
+- To quickly find characters and accents for certain languages, check the “Advanced view” box at the bottom-left corner of the character map, then select a language from the “Character set” menu.
+- You can also type a keyword (e.g. accent, number, Cyrillic) into the “Search for” box and press ↵ Enter to find characters.
+
+5 - Click the character you want to use.
+Click the character you want to use. A larger version of that character will appear.
+
+6 - Click Select.
+Click Select. Now that character appears in the “Characters to copy” box.
+- If you want to insert several characters at once, click other characters and click Select until you are finished.
+
+7 - Click Copy.
+Click Copy. The special characters are now ready to be inserted into the app of your choice.
+
+8 - Go to the file or app where you want to insert the characters.
+Go to the file or app where you want to insert the characters. For example, if you’re entering them into a Word document, open that document now.
+
+9 - Press Ctrl+V.
+Press Ctrl+V. The selected special characters are now pasted into the document or application.
+

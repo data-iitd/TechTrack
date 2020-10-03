@@ -1,0 +1,64 @@
+Use a Keyboard to Click Instead of a Mouse
+https://www.wikihow.com/Use-a-Keyboard-to-Click-Instead-of-a-Mouse
+
+0 - Windows
+
+1 - Use the arrow keys and the ↵ Enter key.
+Use the arrow keys and the ↵ Enter key. If you just need to select a program or a file on your desktop, you can use the arrow keys to select the item and then press ↵ Enter to open it.
+- Pressing a letter on your keyboard will prompt the selection to jump to the next item with a name that begins with that letter. For example, pressing R on the desktop might select Recycle Bin.
+- Press Alt+F4 to close an open window. On some computers, you may need to hold down Alt+Fn and tap F4 instead.
+- ;
+
+2 - Make sure that your computer has a number pad.
+Make sure that your computer has a number pad. If your computer doesn't have a dedicated number pad on the right side of the keyboard, you won't be able to turn on the Accessibility feature that allows you to move your mouse around with the number pad. You can still take advantage of the following shortcuts:
+- 
+- Alt+Tab ↹ allows you to switch between open Windows.
+- Tab ↹ allows you to cycle through the different options from menus.
+- ↵ Enter will open most things that you select with your arrow keys.
+- ⇧ Shift+F10 or ☰ will open the right-click menu for whatever is selected.
+- Ctrl+Esc or ⊞ Win will open Start, from which you can type in a program or file name and then press ↵ Enter to open it.
+- ⊞ Win+E will open the File Explorer.
+- ⊞ Win+X will open the advanced options menu, from which point you can open Settings or shut down the computer.
+
+3 - Open Start .
+Open Start . Press the ⊞ Win key in the lower-left side of your computer's keyboard, or press the Ctrl and Esc keys at the same time.
+- If your mouse is working, just click the Windows logo in the bottom-left corner of the screen.
+
+4 - Type in ease of access.
+Type in ease of access. You should see the Ease of Access Center appear at the top of the Start window.
+
+5 - Press ↵ Enter.
+Press ↵ Enter. Doing so will open the Ease of Access Center window.
+
+6 - Select Make the keyboard easier to use and press ↵ Enter.
+Select Make the keyboard easier to use and press ↵ Enter. Use the ↓ downward-facing arrow key to move the selection down to the Make the keyboard easier to use option.
+
+7 - Select Set up Mouse Keys and press ↵ Enter.
+Select Set up Mouse Keys and press ↵ Enter. It's a blue link near the top of the page.
+
+8 - Review the keyboard shortcut.
+Review the keyboard shortcut. Beneath the "Keyboard shortcut" heading, you should see a line that says "Turn on Mouse Keys with" and then a list of keys. You can press this key combination to turn on Mouse Keys.
+- This combination is usually the left Alt key, the left ⇧ Shift key, and the Num ⇩ key all pressed at once, but the shortcut may vary depending on your computer.
+
+9 - Set the mouse sensitivity.
+Set the mouse sensitivity. If you don't change the mouse speed and acceleration, the mouse will be incredibly slow. To do so:
+- Scroll down until the "Top speed" slider is selected.
+- Press the → right arrow key to increase the speed.
+- Press Tab ↹ to jump down to the "Acceleration" slider.
+- Press the → right arrow key to increase the acceleration.
+
+10 - Select OK and press ↵ Enter.
+Select OK and press ↵ Enter. To navigate to the OK button at the bottom of the window, press Tab ↹ until the OK button is selected.
+
+11 - Enable Mouse Keys.
+Enable Mouse Keys. Press the keys listed in the shortcut (usually Alt+⇧ Shift+Num ⇩), then hold down one of your number pad's directional keys (normally the numbers 4, 8, 6, and 2 for left, up, right, and down) to see if the mouse starts moving.
+- If the mouse doesn't start moving, press Num ⇩ and try again.
+
+12 - Move the mouse with the number pad keys.
+Move the mouse with the number pad keys. Press 4 to move left, press 8 to move up, press 6 to move right, and press 2 to move down.
+- You can also press 7, 9, 1, or 3 to move diagonally.
+
+13 - Click by pressing 5 in the number pad.
+Click by pressing 5 in the number pad. You can also still use ↵ Enter to click selected items as well.
+- If pressing 5 prompts a drop-down menu, press / in the number pad to switch to click mode.
+

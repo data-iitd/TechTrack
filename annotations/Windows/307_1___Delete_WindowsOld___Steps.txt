@@ -1,0 +1,54 @@
+Delete Windows.Old
+https://www.wikihow.com/Delete-Windows.Old
+
+0 - Steps
+
+1 - Copy any essential files from the .
+Copy any essential files from the .Windows.old folder before deleting it. The Windows.old folder contains files and settings from your previous Windows installation. Make sure that any files you need are copied to your current User folders before deleting Windows.old.
+- Open the Computer/My Computer window, which you can access from the Start menu. Windows 8 users can press ⊞ Win+E.
+- Double-click the drive that contains Windows. This is typically the C: drive.
+- Double-click the Windows.old folder.
+- Double-click the Users folder and then open the folder for the user account you want to retrieve files from.
+- Copy and paste any files you want to keep into your current User folders (Documents, Pictures, Videos, etc.). You can also move files to your desktop.
+- ;
+
+2 - Open the Disk Cleanup utility.
+Open the Disk Cleanup utility. This utility will help automatically delete the Windows.old folder. There are a couple of different ways you can open it.
+- Press ⊞ Win+R, type cleanmgr, and press ↵ Enter.
+- Open the Control Panel, select "System and Security", then select "Administrative Tools". Open Disk Cleanup from the list that appears.
+
+3 - Select the drive that contains the .
+Select the drive that contains the .Windows.old folder. This is usually the C: drive.
+
+4 - Wait while Disk Cleanup scans the drive.
+Wait while Disk Cleanup scans the drive. This may take a few minutes.
+
+5 - Click the .
+Click the .Clean up system files button. You may be prompted for the administrator password.
+
+6 - Select your drive again if prompted.
+Select your drive again if prompted. Disk Cleanup will scan the drive again.
+
+7 - Check the "Previous Windows installation(s)" box.
+Check the "Previous Windows installation(s)" box. You can also check the boxes for any other types of files on the list you want to remove.
+
+8 - Click .
+Click .OK to delete the Windows.old folder. Click Delete Files to confirm that you want to remove it.[1]
+- X
+- Research source
+- windows.microsoft.com/en-us/windows7/how-do-i-remove-the-windows-old-folder
+
+9 - I can't delete the .
+I can't delete the .Windows.old folder when I drag it to the Recycle Bin. The Windows.old folder is protected, and you'll likely encounter errors if you try to drag it to the Recycle Bin or right-click on it to delete it. Instead, follow the steps above to delete the folder completely.
+
+10 - Disk Cleanup is not removing the .
+Disk Cleanup is not removing the .Windows.old folder. This may be caused if you have more than one Windows.old folder, such as a Windows.old.000 folder.
+- Open the Command Prompt as an Administrator. You can do this by clicking the Start menu, right-clicking on Command Prompt, and selecting "Run as Administrator". Windows 8 user's can right-click the Windows button and select "Command Prompt (Admin)".[2]
+- X
+- Research source
+- 
+- 
+- Type RD /S /Q %SystemDrive%\windows.old and press ↵ Enter. The Windows.old folder will be deleted immediately.
+- Repeat for any additional Windows.old folders. For example, to delete Windows.old.000, type RD /S /Q %SystemDrive%\windows.old.000 and press ↵ Enter.
+- Close the Command Prompt.
+

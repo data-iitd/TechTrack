@@ -1,0 +1,7 @@
+T1	Software-OS-Related 188 197	Spotlight
+A1	isOpened T1 f->t
+T2	Software-OS-Related 342 349	desktop
+T3	Software-OS-Related 436 447	application
+A2	isOpened T3 f->t
+T4	Software-OS-Related 942 949	desktop
+A3	isOpened T2 start-F

@@ -1,0 +1,31 @@
+Copy Files in Linux
+https://www.wikihow.com/Copy-Files-in-Linux
+
+0 - Using the Command Line
+
+1 - Open Terminal.
+Open Terminal. Click or double-click the Terminal app icon, which usually resembles a black box with a white ">_" on it.
+- You can also just press Alt+Ctrl+T to open Terminal on most Linux versions.
+- ;
+
+2 - Go to the proper directory.
+Go to the proper directory. Type in cd path where "path" is the address of the folder in which the file you want to copy is located, then press ↵ Enter.
+- For example, to tell Terminal to look for your file in the Desktop folder, you would type cd Desktop into Terminal.
+- Make sure you capitalize the folder's name if necessary.
+- If attempting to switch to a folder results in an error, you'll need to enter the folder's entire path (e.g., /home/name/Desktop/folder instead of just folder) here.
+
+3 - Type in the "copy" tag.
+Type in the "copy" tag. This tag is cp with a space after it.
+
+4 - Enter a file's name.
+Enter a file's name. Type in the name and extension of the file you want to copy after cp and the space, then add a space.
+- For example, if you want to copy a file named "hello", you would type cp hello into Terminal.
+- If the file name has an extension on the end of it (e.g., ".desktop"), make sure you include the extension in the file's name when typing it into Terminal.
+
+5 - Enter the destination folder.
+Enter the destination folder. Type in the path for the folder into which you want to copy the file.
+- For example, if you want to copy "hello" into a folder named "Hi" that's stored in the Documents folder, you would have cp hello /home/name/Documents/Hi (where "name" is your username) typed into Terminal.
+
+6 - Press ↵ Enter.
+Press ↵ Enter. Doing so will run your command. Your file will be pasted into the folder you specified.
+

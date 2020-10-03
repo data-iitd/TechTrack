@@ -1,0 +1,55 @@
+T1	Software-OS-Related 272 290	Windows Start menu
+T2	Software-OS-Related 300 313	Control Panel
+A1	isOpened T2 f->t
+A2	isOpened T1 f->t
+T3	Software-OS-Related 355 368	Power Options
+A3	isOpened T3 f->t
+T4	Software-OS-Related 424 457	Choose what the power button does
+A4	isOpened T4 f->t
+T5	Software-OS-Related 470 516	Change settings that are currently unavailable
+A5	isOpened T5 f->t
+T6	Software-OS-Related 551 585	Turn on fast startup (Recommended)
+T7	Software-OS-Related 626 638	Save changes
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	
+T8	Software-OS-Related 667 671	BIOS
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1126 1144	Windows Start menu
+A8	isOpened T9 f->t
+T10	Software-OS-Related 1159 1164	Power
+A9	isOpened T10 f->t
+T11	Software-OS-Related 1197 1204	Restart
+T12	Software-OS-Related 1215 1227	Troubleshoot
+A10	isOpened T12 f->t
+T13	Software-OS-Related 1238 1254	Advanced Options
+A11	isOpened T13 f->t
+T14	Software-OS-Related 1256 1278	UEFI Firmware Settings
+T15	Software-OS-Related 1288 1295	Restart
+T16	Software-OS-Related 1352 1356	BIOS
+T17	Hardware-Other 1384 1392	computer
+T18	Hardware-Devices 1449 1457	keyboard
+T19	Software-OS-Related 1522 1530	Security
+T20	Software-OS-Related 1532 1536	Boot
+T21	Software-OS-Related 1541 1555	Authentication
+T22	Software-OS-Related 1597 1605	Disabled
+A12	isSettingsChanged T22 true
+R2	SubPart Arg1:T22 Arg2:T20	
+T23	Software-OS-Related 1312 1323	Secure Boot
+T24	Hardware-Other 1649 1658	USB drive
+T25	Software-OS-Related 1637 1641	boot
+T26	Software-OS-Related 1747 1756	Boot menu
+T27	Hardware-Other 1864 1866	CD
+T28	Hardware-Other 1870 1873	DVD
+T29	Software-OS-Related 1885 1918	install from the CD/DVD-Rom first
+A13	isSettingsChanged T29 true
+R3	SubPart Arg1:T29 Arg2:T26	
+T30	Software-OS-Related 1816 1825	USB drive
+A14	isSettingsChanged T30 true
+R4	SubPart Arg1:T30 Arg2:T26	
+T31	Software-OS-Related 1937 1945	settings
+A15	isSettingsChanged T31 true
+T32	Software-OS-Related 2106 2110	BIOS
+A16	isOpened T32 t->f
+R5	SubPart Arg1:T31 Arg2:T32	
+T33	Software-OS-Related 2123 2129	reboot
+T34	Hardware-Other 2135 2143	computer

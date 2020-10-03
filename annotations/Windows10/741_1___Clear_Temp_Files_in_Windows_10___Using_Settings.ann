@@ -1,0 +1,20 @@
+T1	Software-OS-Related 126 142	Windows Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 196 206	Start icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 256 262	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 288 301	computer icon
+A4	isOpened T4 f->t
+T5	Software-OS-Related 316 323	Storage
+A5	isOpened T5 f->t
+T6	Software-OS-Related 419 442	Windows 10 is installed
+A6	isOpened T6 f->t
+T7	Software-OS-Related 586 601	Temporary Files
+A7	isOpened T7 f->t
+T8	Software-OS-Related 880 895	check the boxes
+T9	Software-OS-Related 1011 1023	Remove files
+A8	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	
+A9	isSettingsChanged T9 true
+R2	SubPart Arg1:T9 Arg2:T7	

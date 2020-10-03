@@ -1,0 +1,25 @@
+T1	Software-OS-Related 186 211	VSFTPD configuration file
+A1	isOpened T1 f->t
+T2	Software-OS-Related 397 442	Allow local users to log into your FTP server
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 878 902	Allow FTP write commands
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1139 1161	Disable ASCII mangling
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1403 1431	Change the "chroot" settings
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1711 1747	Change the default "chroot" settings
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 2066 2096	Enable the "ls recurse" option
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 2269 2273	Save
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2278 2282	exit
+A9	isOpened T9 t->f
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T1	
+R3	SubPart Arg1:T4 Arg2:T1	
+R4	SubPart Arg1:T5 Arg2:T1	
+R5	SubPart Arg1:T6 Arg2:T1	
+R6	SubPart Arg1:T7 Arg2:T1	
+R7	SubPart Arg1:T8 Arg2:T1	

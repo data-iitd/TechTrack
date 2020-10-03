@@ -1,0 +1,8 @@
+T1	Software-OS-Related 150 158	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 451 479	currently installed programs
+A2	isOpened T2 f->t
+T3	Software-OS-Related 825 832	apt-get
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1028 1041	root password
+A4	isSettingsChanged T4 true

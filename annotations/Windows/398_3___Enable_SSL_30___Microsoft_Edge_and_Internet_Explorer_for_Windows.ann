@@ -1,0 +1,10 @@
+T1	Software-Other 283 299	Internet Options
+A1	isOpened T1 f->t
+T2	Software-Other 343 351	Advanced
+A2	isOpened T2 f->t
+T3	Software-Other 491 498	SSL 3.0
+T4	Software-Other 563 568	Apply
+A3	isOpened T4 f->t
+T5	Software-Other 631 633	OK
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T2	

@@ -1,0 +1,14 @@
+T1	Software-OS-Related 162 172	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 293 311	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 359 377	Security & Privacy
+A3	isOpened T3 f->t
+T4	Software-OS-Related 564 573	FileVault
+A4	isOpened T4 f->t
+T5	Software-OS-Related 660 672	Padlock icon
+A5	isOpened T5 f->t
+T6	Software-OS-Related 894 912	Turn Off FileVault
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 971 1000	Restart & Turn Off Encryption
+A7	isSettingsChanged T7 true

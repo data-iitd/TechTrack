@@ -1,0 +1,27 @@
+Enable SSL 3.0
+https://www.wikihow.com/Enable-SSL-3.0
+
+0 - Firefox for Windows and macOS
+
+1 - Open Firefox on your PC or Mac.
+Open Firefox on your PC or Mac. You'll usually find it in the All Apps area of the Start menu (Windows) or in the Applications folder (macOS).
+- ;
+
+2 - Type about:config into the address bar and press ↵ Enter or ⏎ Return.
+Type about:config into the address bar and press ↵ Enter or ⏎ Return. A warning page will appear.
+
+3 - Click I accept the risk!.
+Click I accept the risk!. It's the blue button at the center of the page.
+
+4 - Type tls into the search bar.
+Type tls into the search bar. It's the wide search bar at the top of the screen. The list of options below will now be filtered to show only matching results.
+
+5 - Double-click security.tls.version.max.
+Double-click security.tls.version.max.
+
+6 - Enter 0 as the integer value.
+Enter 0 as the integer value.
+
+7 - Click OK.
+Click OK. SSL 3.0 support is now enabled in Firefox.
+

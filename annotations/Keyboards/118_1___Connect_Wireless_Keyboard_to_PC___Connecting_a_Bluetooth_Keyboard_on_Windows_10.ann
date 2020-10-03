@@ -1,0 +1,34 @@
+T1	Software-OS-Related 158 168	Start menu
+A1	isOpened T1 f->t
+T2	Hardware-Devices 269 275	screen
+A2	isPowered T2 start-T
+T3	Hardware-Devices 314 333	computer's keyboard
+A4	isPowered T3 start-T
+T4	Hardware-Other 296 297	⊞
+T5	Software-OS-Related 348 350	⚙️
+A7	isOpened T5 f->t
+T6	Software-OS-Related 413 425	Start window
+T7	Software-OS-Related 440 447	Devices
+A9	isOpened T7 f->t
+T8	Software-OS-Related 512 537	Bluetooth & other devices
+A10	isOpened T8 f->t
+T9	Software-OS-Related 652 661	Bluetooth
+A12	isSettingsChanged T9 true
+T11	Hardware-Devices 800 808	keyboard
+A13	isPowered T11 f->t
+T12	Hardware-Other 877 883	switch
+T13	Hardware-Other 1016 1025	batteries
+T14	Hardware-Other 1216 1223	charger
+T15	Software-OS-Related 1398 1420	Mouse, keyboard, & pen
+T16	Hardware-Devices 1452 1460	keyboard
+T17	Software-OS-Related 1543 1552	Bluetooth
+T18	Software-OS-Related 1707 1711	Pair
+T20	Hardware-Other 1837 1847	computer's
+T10	Software-OS-Related 750 778	computer's Bluetooth feature
+T21	Software-OS-Related 737 744	turn on
+T22	Software-OS-Related 1299 1314	keyboard's name
+T19	Software-OS-Related 1679 1694	keyboard's name
+T23	Software-OS-Related 1820 1828	keyboard
+R3	SubPart Arg1:T9 Arg2:T8	
+A3	isSettingsChanged T18 true
+R1	SubPart Arg1:T18 Arg2:T15	

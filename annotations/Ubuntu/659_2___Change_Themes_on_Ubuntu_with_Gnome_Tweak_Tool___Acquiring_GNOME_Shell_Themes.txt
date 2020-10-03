@@ -1,0 +1,27 @@
+Change Themes on Ubuntu with Gnome Tweak Tool
+https://www.wikihow.com/Change-Themes-on-Ubuntu-with-Gnome-Tweak-Tool
+
+0 - Acquiring GNOME Shell Themes
+
+1 - Press the Control+Alt+T keys together to open the Terminal.
+Press the Control+Alt+T keys together to open the Terminal.
+
+2 - Type in gnome-shell --version and press ↵ Enter.
+Type in gnome-shell --version and press ↵ Enter.[2]
+- X
+- Research source
+- 
+-  This will display the version of GNOME Shell that is installed.
+
+3 - Search for and download compatible shell themes.
+Search for and download compatible shell themes. Sites like GNOME-Look will host user-created themes that can be used with the Tweak Tool.
+- Make sure the theme is compatible with the version of GNOME installed on your computer. Theme creators will post compatibility information along with the theme details.
+
+4 - Double click the downloaded .zip to extract the folder containing the theme.
+Double click the downloaded .zip to extract the folder containing the theme. Note, not all theme downloads will be a zip file. Installation processes for themes will vary depending on how they are built. Theme download pages will list specific instructions on how to install the theme.
+- Some themes will have dependencies that must be installed to use the theme properly. A dependency is a script or piece of software utilized by the theme, but not included in its own installation.
+
+5 - Copy or move the theme folder into your “.themes” directory.
+Copy or move the theme folder into your “.themes” directory. This directory is located in “home > [USERNAME] > .themes”, where [USERNAME] is the name of the account you are logged into.
+- If this folder does not appear, create it by right-clicking and selecting New Folder. The '.themes' name is important as that is where the Tweak Tool will search for available themes.
+

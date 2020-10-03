@@ -1,0 +1,24 @@
+T1	Software-Other 115 122	Shutter
+A1	isInstalled T1 f->t
+T3	Software-OS-Related 511 519	Terminal
+T4	Software-OS-Related 556 595	sudo add-apt-repository ppa:shutter/ppa
+T5	Software-Other 861 868	Shutter
+T6	Software-Other 931 940	Selection
+T7	Software-Other 944 951	Desktop
+T8	Software-Other 958 964	Window
+T10	Software-Other 1104 1111	Desktop
+T11	Software-Other 1176 1185	Selection
+T12	Software-Other 1326 1332	Window
+T13	Software-Other 1605 1609	Edit
+T14	Software-Other 1630 1644	Shutter editor
+A6	isOpened T14 f->t
+T15	Software-Other 1921 1927	Export
+T16	Software-Other 1972 1986	Public hosting
+T17	Software-Other 1733 1737	Save
+A8	isSettingsChanged T17 true
+T19	Software-Other 2329 2335	Places
+T18	Software-Other 2181 2184	FTP
+T2	Software-Other 1578 1585	Shutter
+A2	isOpened T1 f->t
+R2	SubPart Arg1:T17 Arg2:T14	
+A3	isOpened T15 f->t

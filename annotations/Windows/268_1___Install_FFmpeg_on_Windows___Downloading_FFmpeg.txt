@@ -1,0 +1,45 @@
+Install FFmpeg on Windows
+https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+0 - Downloading FFmpeg
+
+1 - Open the FFmpeg download site.
+Open the FFmpeg download site. Go to https://ffmpeg.zeranoe.com/builds/ in your computer's web browser.
+- Although there is a dedicated FFmpeg website, the file that you can download from there won't work with Windows 10.
+- ;
+
+2 - Click Download Build.
+Click Download Build. It's a blue button on the right side of the page. FFmpeg will begin downloading onto your computer.
+- Depending on your browser's settings, you may first have to select a save location or confirm the download.
+
+3 - Open the FFmpeg download folder.
+Open the FFmpeg download folder. Double-click the downloaded FFmpeg ZIP folder to do so.
+
+4 - Extract the FFmpeg folder.
+Extract the FFmpeg folder. You can use your computer's built-in unzip feature to do this:
+- Click the Extract tab at the top of the window.
+- Click Extract all
+- Click Extract at the bottom of the window.
+- Wait for the window to open.
+
+5 - Rename the extracted folder.
+Rename the extracted folder. In the window that opens, you'll see a folder entitled "ffmpeg-20180424-d9706f7-win64-static". You'll need to rename this folder to "FFmpeg" by doing the following:
+- Click the folder once to select it.
+- Click the Home tab at the top of the window.
+- Click Rename in the "Organize" section of the toolbar.
+- Type in FFmpeg and then press ↵ Enter.
+
+6 - Copy the "FFmpeg" folder.
+Copy the "FFmpeg" folder. Select the "FFmpeg" folder if it isn't already selected, then press Ctrl+C to copy it.
+- If you don't want to save a copy of the "FFmpeg" folder here, you can press Ctrl+X instead.
+
+7 - Click This PC.
+Click This PC. It's a folder on the left side of the window, though you may need to scroll up to see it. Doing so opens the This PC window.
+
+8 - Open your hard drive's folder.
+Open your hard drive's folder. Double-click the hard drive folder (usually the "OS (C:)" folder) below the "Devices and drives" heading in the middle of the window.
+- If you don't see any folders listed below the "Devices and drives" heading, click Devices and drives once to force the folders to display.
+
+9 - Paste in the "FFmpeg" folder.
+Paste in the "FFmpeg" folder. Click a blank space anywhere inside of the folder, then press Ctrl+V. This will paste the copied "FFmpeg" folder into your computer's hard drive folder. After doing this, you can proceed with enabling FFmpeg in Command Prompt.
+

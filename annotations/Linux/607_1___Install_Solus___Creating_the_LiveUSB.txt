@@ -1,0 +1,26 @@
+Install Solus
+https://www.wikihow.com/Install-Solus
+
+0 - Creating the LiveUSB
+
+1 - Download the ISO file from the download page on the Solus website.
+Download the ISO file from the download page on the Solus website. Here you will be presented with two options: Solus and Solus MATE. The difference is that Solus MATE uses the MATE desktop environment instead of Budgie. If you're trying to run Solus on older hardware or simply prefer the traditional desktop environment that MATE provides, choose the second option.
+- Below the screenshot and headline, you will find a list of cities from where you can download the disk image. Choose the one that's closest to your location.
+- If you have a BitTorrent client, then you also have the option to download the file over a Torrent. This would speed up the download if you have a slower connection.
+
+2 - Prepare your USB thumb drive.
+Prepare your USB thumb drive. Take the USB drive that you retrieved in the first part. You should plug it into your computer. All of the information on it will be erased, so take this opportunity to back up any important files it may hold.
+
+3 - Launch the USB writing software.
+Launch the USB writing software.
+- For Windows users, click on the Start button or press the Windows key to open the Start menu. Once the menu is open, type in "Rufus". Assuming you downloaded it properly, it should show up in the results list. Click on the application to open it up.
+- Ubuntu users can press the super key to open up the Dash. With the dash open, search for "Gnome MultiWrite" and launch the application when it shows up.
+
+4 - Write the ISO file to the USB stick.
+Write the ISO file to the USB stick. Creating the LiveUSB can and probably will take a long time, especially if you're doing this on older hardware.
+- When in Rufus, select your USB thumb drive from the Devices drop down list. Next, check the box labeled "Create a bootable disk using", and then select "ISO image" from the adjacent menu. Click on the drive image logo and browse to the location where you saved the Solos ISO file. Finally, Hit start and then confirm to begin creating the LiveUSB.
+- When in Gnome MultiWriter, Ensure that your USB drive is plugged in and hit "Start copying". Once the file browser pops up, navigate to the location that you saved the Solus ISO file and open it up. The copying will start immediately.
+
+5 - Wait for the writing to finish.
+Wait for the writing to finish. As mentioned before, writing an ISO file to a USB thumb drive can take some time. Depending on how large the file is and how old your computer is, things can take much longer. Be patient.
+

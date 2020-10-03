@@ -1,0 +1,34 @@
+T1	Software-OS-Related 99 115	Boot from CD-ROM
+A1	isOpened T1 f->t
+T2	Software-OS-Related 203 237	Start Windows 98 setup from CD-ROM
+A2	isOpened T2 f->t
+T3	Software-OS-Related 363 409	Configure unallocated disk space (recommended)
+A3	isOpened T3 f->t
+T4	Software-OS-Related 666 696	Yes, enable large disk support
+A4	isOpened T4 f->t
+T5	Software-OS-Related 785 801	Boot from CD-ROM
+A5	isOpened T5 f->t
+T6	Software-OS-Related 889 923	Start Windows 98 setup from CD-ROM
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1153 1157	Next
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1046 1054	Continue
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1445 1452	Typical
+T10	Software-OS-Related 1564 1612	Install the most common components (Recommended)
+T11	Hardware-Devices 2123 2131	computer
+A9	isUsed T11 true
+T12	Software-OS-Related 2175 2194	Boot from Hard Disk
+A10	isOpened T12 f->t
+T13	Software-OS-Related 2730 2736	finish
+A11	isSettingsChanged T13 true
+A12	isOpened T13 f->t
+T14	Software-OS-Related 2775 2794	Boot from Hard Disk
+A13	isOpened T14 f->t
+T15	Hardware-Devices 3023 3031	computer
+A14	isUsed T15 true
+T16	Software-OS-Related 3076 3095	Boot from Hard Disk
+A15	isOpened T16 f->t
+T17	Software-OS-Related 3183 3185	Ok
+A16	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T16	

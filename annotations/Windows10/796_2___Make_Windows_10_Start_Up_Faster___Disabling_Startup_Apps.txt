@@ -1,0 +1,20 @@
+Make Windows 10 Start Up Faster
+https://www.wikihow.com/Make-Windows-10-Start-Up-Faster
+
+0 - Disabling Startup Apps
+
+1 - Open the Task Manager
+Open the Task Manager. Right-click an empty spot on the taskbar and click Task Manager.
+
+2 - Go to the Startup tab.
+Go to the Startup tab.
+
+3 - Review the list, finding enabled apps.
+Review the list, finding enabled apps. Look to the far right column and find apps that list as "Enabled". This means that they will run while Windows 10 boots up, potentially slowing it down.
+
+4 - Click an app from the list.
+Click an app from the list. If you're not sure what it is, you can right-click it and click Search online to obtain more information.
+
+5 - Disable the app from running at startup.
+Disable the app from running at startup. Click the Disable button, located at the bottom right.
+

@@ -1,0 +1,27 @@
+Print Using the Keyboard on PC or Mac
+https://www.wikihow.com/Print-Using-the-Keyboard-on-PC-or-Mac
+
+0 - Steps
+
+1 - Open the file or page you want to print.
+Open the file or page you want to print. You can basically print any document, image or web page on your computer.
+- If you want to print your screen, you can use the Print Screen feature to capture a picture of your screen, then print the picture.
+- ;
+
+2 - Press ⌘ Command+P on Mac or Control+P on Windows.
+Press ⌘ Command+P on Mac or Control+P on Windows. This will open the print setup for your current file or web page.
+
+3 - Select your printer from the drop-down.
+Select your printer from the drop-down. Click the printer drop-down at the top of the menu, and select the printer you want to use.
+- You can skip this step if the correct printer is already selected.
+- If you're printing a web page, your browser may have a different menu.
+- On Chrome, click Change next to "Destination" to select printer.
+- Safari, Firefox, and many other browsers use a drop-down just like Mac and Windows.
+
+4 - Change your printing settings (optional).
+Change your printing settings (optional). Most programs and browsers will allow you to change settings like paper size, orientation, and number of copies. You can make custom changes if you need any.
+
+5 - Press ↵ Enter or ⏎ Return on your keyboard.
+Press ↵ Enter or ⏎ Return on your keyboard. This will process and send your print job to the selected printer. You can pick up your hard copy from your printer.
+- You can also click the Print button to print the page.
+

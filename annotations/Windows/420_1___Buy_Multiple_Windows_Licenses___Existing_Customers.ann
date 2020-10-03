@@ -1,0 +1,10 @@
+T1	Software-Other 291 309	Existing Customers
+A1	isOpened T1 f->t
+T2	Software-Other 323 341	Product Activation
+A2	isOpened T2 f->t
+T3	Software-Other 813 832	Search for Products
+A3	isOpened T3 f->t
+T4	Software-Other 1033 1064	Volume Licensing Service Center
+A4	isOpened T4 f->t
+T5	Software-Other 1212 1216	Sign
+A5	isOpened T5 f->t

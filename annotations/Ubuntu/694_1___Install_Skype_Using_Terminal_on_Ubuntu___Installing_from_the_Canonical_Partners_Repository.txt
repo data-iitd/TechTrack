@@ -1,0 +1,43 @@
+Install Skype Using Terminal on Ubuntu
+https://www.wikihow.com/Install-Skype-Using-Terminal-on-Ubuntu
+
+0 - Installing from the Canonical Partners Repository
+
+1 - Press Ctrl+Alt+T to open a terminal window.
+Press Ctrl+Alt+T to open a terminal window. It used to be that Skype had to be installed by manually downloading the binary from Skype’s website, but now you can install it from the Canonical Partners repository. Start by opening a terminal window.
+- ;
+
+2 - Enable Multiarch for 64-bit Ubuntu.
+Enable Multiarch for 64-bit Ubuntu. If you’re using the 64-bit version of Ubuntu, you’ll need to enable Multiarch so the program will install. At the command prompt:[1]
+- X
+- Research source
+- 
+- 
+- Type: sudo dpkg --add-architecture i386
+- Press ↵ Enter.
+
+3 - Add the Canonical Partners repository to Ubuntu.
+Add the Canonical Partners repository to Ubuntu. This repository, which is where Skype (and a lot of other closed-source software) is found, is disabled by default.[2]
+- X
+- Research source
+- 
+-  To enable it from the command line:[3]
+- X
+- Research source
+- 
+- 
+- Type: sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+- Press ↵ Enter.
+
+4 - Install Skype from the Canonical Partners Repository.
+Install Skype from the Canonical Partners Repository. Ubuntu recommends that Skype only be installed through this repository (rather than downloading the package from Skype’s website).[4]
+- X
+- Research source
+- 
+-  Here’s how:
+- Type: sudo apt-get update && sudo apt-get install skype
+- Press ↵ Enter to begin the installation. When the installation is complete, you’ll return to the command line.
+
+5 - Type skype at the prompt and press ↵ Enter.
+Type skype at the prompt and press ↵ Enter. This will launch Skype. Follow the prompts to create your account so you can get started with video chat.
+

@@ -1,0 +1,33 @@
+Extract Tar Files in Linux
+https://www.wikihow.com/Extract-Tar-Files-in-Linux
+
+0 - Steps
+
+1 - Open the terminal.
+Open the terminal.
+- ;
+
+2 - Type tar.
+Type tar.
+
+3 - Type a space.
+Type a space.
+
+4 - Type -x.
+Type -x.
+
+5 - If the tar file is also compressed with gzip (.tar.gz or .tgz extension), type z.
+If the tar file is also compressed with gzip (.tar.gz or .tgz extension), type z.
+
+6 - Type f.
+Type f.
+
+7 - Type a space.
+Type a space.
+
+8 - Type the name of the file that you wish to extract.
+Type the name of the file that you wish to extract.
+
+9 - Press enter.
+Press enter.
+

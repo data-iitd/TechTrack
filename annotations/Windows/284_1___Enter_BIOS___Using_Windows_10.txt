@@ -1,0 +1,32 @@
+Enter BIOS
+https://www.wikihow.com/Enter-BIOS
+
+0 - Using Windows 10
+
+1 - Open your Windows Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');.
+Open your Windows Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');. You'll find it in the Start menu. As long as you are able to access your Windows desktop, you should be able to enter the UEFI/BIOS without worrying about pressing special keys at boot time.[1]
+- X
+- Research source
+- 
+- Entering the BIOS requires you to restart your PC. Save your work and shut down other programs before you continue with this method.
+
+2 - Click Update & Security.
+Click Update & Security. It's the icon of two curved arrows.
+
+3 - Click the Recovery tab.
+Click the Recovery tab. It's in the left column.
+
+4 - Click Restart Now under "Advanced startup.
+Click Restart Now under "Advanced startup." It's in the right panel, although you may need to scroll down a little to find this button.
+
+5 - Click Troubleshoot on the menu.
+Click Troubleshoot on the menu. Additional menu options will appear.
+
+6 - Click UEFI Firmware Settings.
+Click UEFI Firmware Settings. It's the icon of a microchip with a gear on it. A confirmation screen will appear.
+- If you don't see this option, you'll need to use the Using the Setup Key method.
+
+7 - Click Restart.
+Click Restart. This will restart your PC into the BIOS/UEFI.
+- Once you're in the BIOS or UEFI, use the arrow keys on your keyboard (or your mouse, if it works) to navigate and make menu selections.
+

@@ -1,0 +1,11 @@
+T1	Software-Other 126 132	WeChat
+A1	isOpened T1 f->t
+T2	Software-Other 319 320	☰
+A2	isOpened T2 f->t
+T3	Software-Other 398 406	Settings
+A3	isOpened T3 f->t
+T4	Software-Other 494 501	Log Out
+A4	isOpened T4 f->t
+T5	Software-Other 582 584	OK
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T1	

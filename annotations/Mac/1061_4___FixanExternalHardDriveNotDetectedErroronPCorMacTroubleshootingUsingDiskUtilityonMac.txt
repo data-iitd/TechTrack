@@ -1,0 +1,48 @@
+Fix an "External Hard Drive Not Detected" Error on PC or Mac
+https://www.wikihow.com/Fix-an-%22External-Hard-Drive-Not-Detected%22-Error-on-PC-or-Mac
+
+0 - Troubleshooting Using Disk Utility on Mac
+
+1 - Open the Finder .
+Open the Finder .  The Finder has a blue and white icon with a smiley face.  It's located in the dock at the bottom of the screen.
+
+2 - Click Applications.
+Click Applications.  It's in the side bar to the left.  This displays all the applications installed on your Mac.
+
+3 - Click Utilities.
+Click Utilities.  It's the blue folder in the Applications.  This displays all the utility programs for your Mac.
+
+4 - Click the external hard drive volume.
+Click the external hard drive volume.  It's listed below the drive name in the sidebar to the left.  This displays how much of the external hard drive has been used.
+
+5 - Click Mount (if available).
+Click Mount (if available).  This button is at the top of the Disk Utility app.  This forces Mac OS to read the external hard drive.  If the button says "Unmount", the external hard drive is already mounted.  If the "Mount" button is grey out, Mac cannot read the disk.
+
+6 - Click First Aid.
+Click First Aid.  If there is no volume for the external hard drive, or the mount button is greyed out, Mac cannot access the external hard drive.  Click "First Aid" at the top to scan the external hard drive for errors.
+
+7 - Click Run.
+Click Run.  It's in the prompt that appears when you click "First Aid".  This runs a scan of the external hard drive and attempts to fix any errors.
+
+8 - Click Repair Disk.
+Click Repair Disk.  If First Aid finds errors on the external hard drive, it display a list of the errors and ask if you want to repair the external hard drive.  Click Repair Disk to fix the errors on the external hard drive.  If First Aid is unable to repair the external hard drive, it may be formatted in a file system that MacOS can't read, or it may be a faulty external hard drive.[4]
+- X
+- Research source
+
+9 - Click Partition or Erase.
+Click Partition or Erase.  If the external drive has be formatted using a file system that can't be read by MacOS, you could either partition the unused portion of the external hard drive, or erase the entire drive and reformat it in a file system that can be read by MacOS.  If you plan on only using the the external hard drive, select Mac OS Extended as the file system.  If you plan on using the external hard drive on other devices, select FAT32, or exFAT as the file system.  Warning:  Erasing and reformatting your external hard drive will erase all the contents on your external hard drive.  Use that as a last resort.  If possible, try to back up the contents of the external hard drive to another computer before reformatting it.  Use the following steps to partition or erase your external hard drive:
+- 
+- Partition:
+- Click Partition in Disk Utility.
+- Type a name for the partition next to "Name:.  
+- Select a format for the partition next to "Format:".
+- Type how much space you want to allocate to the partition next to "Size:".
+- Click Apply.
+- 
+- 
+- Erase:
+- Click Erase in Disk Utility
+- Type a name for the external hard drive next to "Name:"
+- Select a file system next to "Format:"
+- Click Erase
+

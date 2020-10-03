@@ -1,0 +1,45 @@
+Share Files Between Linux Computers Using NFS
+https://www.wikihow.com/Share-Files-Between-Linux-Computers-Using-NFS
+
+0 - Creating the Server
+
+1 - Use NFS (Network File System) to share files between Linux computers on a local network.
+Use NFS (Network File System) to share files between Linux computers on a local network. If you need to share files with Windows or Mac computers, you will be much more successful using Samba.
+- ;
+
+2 - Understand how NFS works.
+Understand how NFS works. When sharing files with NFS, there are two side: the server and the clients. The server is the computer that is actually storing the files, while the clients are the computers that are accessing the shared folder by mounting the shared folder as a virtual drive. NFS will need to be configured on both the server and any client that wants to connect.
+
+3 - Open the terminal on the server computer.
+Open the terminal on the server computer. This is the computer that will be hosting the shared files. The server computer will need to be turned on and logged in in order for clients to mount the shared folder. NFS requires using the terminal to install and configure both the server and client.
+
+4 - Type .
+Type .sudo apt-get install nfs-kernel-server nfs-common portmap and press ↵ Enter. This will begin downloading and installing the NFS files on your computer.
+
+5 - After installation, type .
+After installation, type .dpkg-reconfigure portmap. Select "No" from the menu that appears. This will enable other computers on the network to connect to your shared folder.
+
+6 - Type .
+Type .sudo /etc/init.d/portmap restart to restart the portmap service. This will ensure that your changes take effect.
+
+7 - Make a dummy directory that will be used to share the data.
+Make a dummy directory that will be used to share the data. This is an empty directory that will direct the clients to the actual shared directory. This will allow you to change the shared directory on your server later without having to make any changes to the clients.
+- Type .mkdir -p /export/dummyname and press ↵ Enter. This will create a directory named dummyname that the clients will see.
+
+8 - Type pico _etc_fstab and press ↵ Enter.
+Type pico /etc/fstab and press ↵ Enter. This will open the /etc/fstab file and allow you to automatically mount the shared drive whenever the server boots up.
+
+9 - Add .
+Add .sharedpath dummypath none bind 0 0 to the end of the file. Replace sharedpath with the location of the shared drive, and replace dummypath with the location of the dummy directory you created earlier.
+- For example, to share the /dev/sdb drive with the clients using the dummy directory created earlier, you would type /dev/sdb /export/Shared none bind 0 0. Save the changes to the file.
+
+10 - Open the .
+Open the ./etc/exports file. You will need to add your dummy directory as well as the IPs that are allowed to access it to this file. Use the following format to share with all the IP addresses on your local network: /export/dummyname 192.168.1.1/24(rw,no_root_squash,async).[1]
+- X
+- Research source
+
+11 - Use the .
+Use the .sudo /etc/init.d/nfs-kernel-server restart command to restart the NFS server.[2]
+- X
+- Research source
+

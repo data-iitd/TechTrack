@@ -1,0 +1,103 @@
+Install Windows 95
+https://www.wikihow.com/Install-Windows-95
+
+0 - Installation
+
+1 - Wait for the screen message to appear.
+Wait for the screen message to appear. When this screen appears, press ↵ Enter.
+
+2 - Configure.
+Configure. If you haven't already allocated a partition to your hard drive, make sure 'Configure unallocated disk space' is highlighted and ↵ Enter.
+
+3 - Select whether you would like large disk support.
+Select whether you would like large disk support.
+- This is a matter of personal preference but 'Yes' was chosen in this tutorial.
+- This message may not come up if your hard drive is smaller than 512mb.
+
+4 - Ensure the Windows 95 Boot Disk is in Drive A and press ↵ Enter.
+Ensure the Windows 95 Boot Disk is in Drive A and press ↵ Enter.
+
+5 - Press ↵ Enter to continue with the installation.
+Press ↵ Enter to continue with the installation.
+
+6 - Click Continue to continue with the installation.
+Click Continue to continue with the installation.
+
+7 - Accept the license agreement.
+Accept the license agreement.
+- It's a good idea to read the agreement so you know what you're agreeing to.
+
+8 - Click Next
+
+Click Next
+
+9 - Select where on your hard drive you want Windows 95 to install and click Next >.
+Select where on your hard drive you want Windows 95 to install and click Next >.
+- Normally it is best to choose where Windows recommends.
+
+10 - Select what kind of setup you would like and click Next >
+
+Select what kind of setup you would like and click Next >
+- For this tutorial, 'Typical' was chosen.
+
+11 - Type in your product key and click Next >
+
+Type in your product key and click Next >
+- The product key should have come with your Windows 95 setup disks.
+
+12 - Type in your name and click Next >.
+Type in your name and click Next >.
+- It's not essential to put a company in
+
+13 - If you have any of the hardware, click the check boxes which relate to your hardware and click Next >.
+If you have any of the hardware, click the check boxes which relate to your hardware and click Next >.
+- For this tutorial, none of the check boxes were selected.
+
+14 - Choose whether you want to install the most common components for Windows or to choose the components yourself and click Next >
+
+Choose whether you want to install the most common components for Windows or to choose the components yourself and click Next >
+- For this tutorial, 'Install the most common components' was selected.
+
+15 - Choose whether you want to create a startup disk or not and click Next >
+
+Choose whether you want to create a startup disk or not and click Next >
+- The startup disk is a disk which can be inserted into your computer should Windows fail to boot and can then repair or reinstall Windows.
+- For this tutorial 'No' was selected.
+
+16 - Click Next
+
+Click Next
+
+17 - Remove any disks from their drives e.g.
+Remove any disks from their drives e.g. floppy disks as well as the installation disk and click Finish
+
+18 - If you get confronted with this error, please see Method 4 ' Fixing "Windows protection error"'
+
+If you get confronted with this error, please see Method 4 ' Fixing "Windows protection error"'
+
+19 - Click OK
+
+Click OK
+
+20 - Type in a Computer name and a Workgroup and click Close
+
+Type in a Computer name and a Workgroup and click Close
+- Computer description is not required.
+
+21 - Reinsert the Windows 95 installation disk and click OK
+
+Reinsert the Windows 95 installation disk and click OK
+
+22 - Ensure your date and time settings are correct and then click Close.
+Ensure your date and time settings are correct and then click Close.
+
+23 - Decide whether you want to install a printer.
+Decide whether you want to install a printer.
+- If so click Next > otherwise choose Cancel (Cancel was chosen in this tutorial).
+
+24 - Remove any disks in your computer and click OK to restart your computer.
+Remove any disks in your computer and click OK to restart your computer.
+
+25 - The Windows 95 installation is complete.
+The Windows 95 installation is complete. Enjoy.
+

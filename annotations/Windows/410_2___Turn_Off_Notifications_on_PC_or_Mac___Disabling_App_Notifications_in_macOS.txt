@@ -1,0 +1,30 @@
+Turn Off Notifications on PC or Mac
+https://www.wikihow.com/Turn-Off-Notifications-on-PC-or-Mac
+
+0 - Disabling App Notifications in macOS
+
+1 - Click the  menu.
+Click the  menu. It's at the top-left corner of the screen.
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click Notifications.
+Click Notifications. It's the gray square with a red circle at its top-right corner.
+
+4 - Select the app for which you want to disable notifications.
+Select the app for which you want to disable notifications. Apps are listed in the menu on the left side of the window.
+
+5 - Select Nonefor “App Alert.
+Select for “App Alert.” It's under the “Alert style” header on the right side of the window.
+
+6 - Remove the check marks from each notification option.
+Remove the check marks from each notification option. Make sure these boxes are unchecked:
+- Show notification on lock screenshot
+- Show in Notification Center
+- Badge app icon
+- Play sound for notifications
+
+7 - Repeat these steps for other apps on your Mac.
+Repeat these steps for other apps on your Mac. Your new notification settings will take effect immediately.
+

@@ -1,0 +1,28 @@
+Print Brochures
+https://www.wikihow.com/Print-Brochures
+
+0 - Using Preview
+
+1 - Open the brochure in Preview.
+Open the brochure in Preview. If your brochure is saved as a PDF on a Mac, Preview is most likely the default program with which the brochure will open, so just double-click the brochure.
+- If the brochure doesn't open in Preview, click the brochure file, then click File, select Open With, and click Preview in the resulting menu.
+
+2 - Click File.
+Click File. It's in the upper-left side of the screen. A drop-down menu will appear.
+
+3 - Click Print….
+Click Print…. This option is near the bottom of the drop-down menu. Doing so opens the "Print" window.
+
+4 - Select a printer.
+Select a printer. Click the "Printer" drop-down box at the top of the window, then click the printer that you want to use.
+
+5 - Click the "Horizontal" orientation option.
+Click the "Horizontal" orientation option. It resembles a sideways silhouette.
+
+6 - Set up double-sided printing.
+Set up double-sided printing. Click the drop-down box that's below the "Orientation" section, click Layout, click the "Two-Sided" box, and click Long-Edge Binding.
+
+7 - Click Print.
+Click Print. It's at the bottom of the window. Your brochure should print on both sides.
+- If your printer doesn't support double-sided printing, you can print only the first page from your brochure, remove the paper, reinsert the paper printed-side-up and front cover-side-in, and then print only the second page.
+

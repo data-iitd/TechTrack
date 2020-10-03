@@ -1,0 +1,13 @@
+T2	Software-OS-Related 520 528	Terminal
+A3	isOpened T2 f->t
+T5	Software-OS-Related 2506 2521	Create launcher
+A6	isOpened T5 f->t
+T6	Software-OS-Related 2537 2541	icon
+A7	isSettingsChanged T6 true
+T1	Software-OS-Related 139 158	Windows application
+A1	isOpened T1 f->t
+T3	Software-OS-Related 685 694	installer
+A2	isOpened T3 f->t
+T4	Software-Other 1804 1833	Run the installed application
+A4	isOpened T4 f->t
+R1	SubPart Arg1:T6 Arg2:T5	

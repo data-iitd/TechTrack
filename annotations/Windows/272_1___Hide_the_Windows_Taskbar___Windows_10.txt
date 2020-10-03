@@ -1,0 +1,24 @@
+Hide the Windows Taskbar
+https://www.wikihow.com/Hide-the-Windows-Taskbar
+
+0 - Windows 10
+
+1 - Right-click on the taskbar and select "Taskbar settings".
+Right-click on the taskbar and select "Taskbar settings". Make sure you right-click on a blank space, and not on an icon. To right-click on a touchscreen, press and hold the taskbar for a few moments, then release to open the right-click menu.
+- You can also open the Start menu, select "Settings," tap or click "Personalization," and then select "Taskbar" in the left menu.
+- If you right-click and see "Properties" instead of "Settings," you're running an outdated version of Windows 10. You can follow the instructions in the next section to hide the taskbar.
+- ;
+
+2 - Toggle "Automatically hide the taskbar in desktop mode" on.
+Toggle "Automatically hide the taskbar in desktop mode" on. The taskbar will hide immediately. This will affect the taskbar whenever your computer is in desktop mode. If your computer is not a tablet, this is the only setting you need to worry about.
+
+3 - Toggle "Automatically hide the taskbar in tablet mode" on.
+Toggle "Automatically hide the taskbar in tablet mode" on. This will hide the taskbar if your device is in tablet mode. You can switch to tablet mode by tapping the Notifications button in the lower-right corner of the desktop, and then tapping the "tablet mode" button.
+
+4 - Open the taskbar by moving your mouse to the bottom of the screen.
+Open the taskbar by moving your mouse to the bottom of the screen. When you place your cursor at the bottom of the screen, the taskbar will appear. It will hide again after you move your cursor off it.
+- If you're using a tablet, you can show the taskbar by swiping up from the bottom of the screen.
+
+5 - Change the location of the taskbar.
+Change the location of the taskbar. You can use the "Taskbar location on screen" menu to change where the taskbar appears. You may find it more useful to have it along one of the sides, or at the top of the screen. The change will take place immediately.
+

@@ -1,0 +1,41 @@
+T1	Hardware-Devices 126 134	keyboard
+A2	isConnected T1 t->f
+T2	Hardware-Other 144 152	computer
+T3	Hardware-Other 168 177	batteries
+T4	Hardware-Other 276 285	connector
+T5	Hardware-Other 260 264	cord
+T6	Hardware-Other 291 302	plastic bag
+T7	Hardware-Other 307 311	tape
+T8	Hardware-Devices 460 468	keyboard
+T9	Hardware-Other 476 486	dishwasher
+T10	Hardware-Other 496 500	keys
+T11	Hardware-Other 620 626	dishes
+T12	Hardware-Other 708 712	Lego
+T13	Hardware-Other 734 738	toys
+T14	Hardware-Other 749 752	bag
+T15	Hardware-Other 756 762	basket
+T16	Hardware-Other 811 816	combs
+T17	Hardware-Other 823 830	brushes
+T18	Hardware-Other 832 839	sandals
+T19	Hardware-Other 843 848	shoes
+T20	Hardware-Other 942 948	plates
+T21	Hardware-Other 958 971	ceramic items
+T22	Hardware-Devices 1053 1061	keyboard
+T23	Hardware-Other 1098 1105	plastic
+T24	Hardware-Other 1384 1404	dishwasher detergent
+T25	Hardware-Devices 1421 1429	keyboard
+T26	Hardware-Other 1869 1873	keys
+T27	Hardware-Other 2085 2089	rods
+T28	Hardware-Other 2093 2100	springs
+T29	Hardware-Devices 2233 2241	keyboard
+T30	Hardware-Other 2499 2517	keycap puller tool
+T31	Hardware-Other 2633 2644	paper clips
+T32	Hardware-Devices 2725 2733	keyboard
+A3	isConnected T32 f->t
+T33	Hardware-Other 2742 2750	computer
+A4	isPowered T32 f->t
+T34	Hardware-Other 3046 3056	dishwasher
+T35	Hardware-Other 3321 3328	plastic
+T36	Hardware-Other 3332 3347	rubber membrane
+T37	Hardware-Other 3358 3362	keys
+T38	Hardware-Other 3612 3615	bag

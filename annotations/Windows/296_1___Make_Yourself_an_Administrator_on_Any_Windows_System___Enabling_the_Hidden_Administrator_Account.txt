@@ -1,0 +1,28 @@
+Make Yourself an Administrator on Any Windows System
+https://www.wikihow.com/Make-Yourself-an-Administrator-on-Any-Windows-System
+
+0 - Enabling the Hidden Administrator Account
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- In order for this method to work, you must currently be logged into an account with Administrator privileges.
+- If you're attempting to give another account on this computer administrator privileges, skip to the third part.
+- ;
+
+2 - Type in command prompt.
+Type in command prompt. Doing so will prompt the Command Prompt program to appear at the top of the Start window.
+
+3 - Right-click  Command Prompt.
+Right-click  Command Prompt. A drop-down menu will appear.
+- If you don't have a right mouse button, use two fingers to click or tap the trackpad—or press the far-right corner of the trackpad button—in lieu of right-clicking.
+
+4 - Click Run as administrator.
+Click Run as administrator. It's in the drop-down menu.
+
+5 - Click Yes when prompted.
+Click Yes when prompted. Doing so will prompt Command Prompt to open in administrator mode.
+
+6 - Enable the hidden administrator account.
+Enable the hidden administrator account. Type:net user administrator /active:yes into Command Prompt, then press ↵ Enter.
+- From now on this computer, you'll have the option of opening the Administrator account at any time by using Safe Mode.
+

@@ -1,0 +1,27 @@
+Check Your Windows Product Key
+https://www.wikihow.com/Check-Your-Windows-Product-Key
+
+0 - Using ProduKey
+
+1 - Open the ProduKey website.
+Open the ProduKey website. Go to http://www.nirsoft.net/utils/product_cd_key_viewer.html on a working computer.
+
+2 - Scroll down and click Download ProduKey (In Zip file).
+Scroll down and click Download ProduKey (In Zip file). It's near the bottom of the page. Doing so will prompt the ProduKey setup folder to download onto your computer.
+
+3 - Open the ProduKey folder.
+Open the ProduKey folder. Double-click the ProduKey ZIP folder in your computer's default downloads folder (e.g., the desktop).
+
+4 - Click the Extract tab.
+Click the Extract tab. It's at the top of the window. A toolbar will appear below Extract.
+
+5 - Click Extract all.
+Click Extract all. This option is on the far-right side of the toolbar. Clicking it prompts a window to pop up.
+
+6 - Click Extract when prompted.
+Click Extract when prompted. It's at the bottom of the window. Doing so will decompress the ProduKey folder and open it for you.
+
+7 - Double-click the ProduKey application.
+Double-click the ProduKey application. It resembles a key. The ProduKey window will open; you should see your computer's 25-character product key to the right of the hard drive's name.
+- You can take a screenshot of the key or write it down to make sure you have access to it later.
+

@@ -1,0 +1,4 @@
+T1	Software-OS-Related 212 222	search box
+T2	Software-OS-Related 452 462	microphone
+A1	isOpened T2 f->t
+T3	Software-OS-Related 985 995	microphone

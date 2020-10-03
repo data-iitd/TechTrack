@@ -1,0 +1,32 @@
+T1	Hardware-Other 102 107	tools
+T2	Hardware-Other 186 211	Windows installation disk
+T3	Hardware-Other 218 254	Linux distribution installation disk
+T4	Software-OS-Related 423 429	Ubuntu
+T5	Software-OS-Related 434 438	Mint
+T6	Software-OS-Related 447 454	Back up
+T7	Software-OS-Related 562 569	Windows
+T8	Software-OS-Related 574 579	Linux
+T9	Software-OS-Related 695 704	documents
+T10	Software-OS-Related 706 714	pictures
+T11	Software-OS-Related 726 731	files
+T12	Software-OS-Related 760 765	drive
+T13	Software-Other 776 781	cloud
+T14	Software-OS-Related 855 862	Windows
+T15	Software-OS-Related 1073 1083	hard drive
+T16	Software-OS-Related 1093 1102	partition
+T17	Software-OS-Related 1108 1126	Linux installation
+T18	Software-OS-Related 1357 1375	Linux installation
+T19	Software-OS-Related 1414 1421	Windows
+T20	Hardware-Other 1509 1532	Linux installation disc
+T21	Software-OS-Related 1537 1543	reboot
+T22	Hardware-Other 1549 1557	computer
+T23	Software-OS-Related 1559 1563	Boot
+T24	Hardware-Other 1571 1575	disc
+T25	Software-OS-Related 1760 1770	partitions
+T26	Software-OS-Related 1804 1822	Linux installation
+T27	Software-OS-Related 1886 1906	Windows installation
+T30	Software-OS-Related 2307 2333	advanced partitioning tool
+T31	Software-OS-Related 2566 2582	operating system
+T32	Software-OS-Related 2643 2648	Linux
+T34	Software-OS-Related 2697 2703	reboot
+T35	Hardware-Other 2709 2717	computer

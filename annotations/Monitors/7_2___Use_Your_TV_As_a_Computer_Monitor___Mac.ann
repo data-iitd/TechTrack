@@ -1,0 +1,86 @@
+T1	Hardware-Other 133 143	video port
+T2	Hardware-Other 149 152	Mac
+T3	Hardware-Other 235 245	connectors
+T4	Hardware-Other 408 412	HDMI
+T5	Hardware-Other 458 466	USB port
+T6	Hardware-Devices 589 599	HD devices
+T7	Hardware-Other 619 627	MacBooks
+T8	Hardware-Other 694 702	adapters
+T9	Hardware-Other 707 718	Thunderbolt
+T10	Hardware-Other 845 872	Thunderbolt-to-HDMI adapter
+T11	Hardware-Devices 892 897	HDTVs
+T12	Hardware-Other 902 918	Mini DisplayPort
+T13	Hardware-Other 1025 1034	Micro-DVI
+T14	Hardware-Other 1198 1209	input ports
+T15	Hardware-Devices 1218 1220	TV
+T16	Hardware-Other 1342 1346	HDMI
+T17	Hardware-Other 1348 1351	DVI
+T18	Hardware-Other 1357 1360	VGA
+T19	Hardware-Other 1381 1393	HDMI-to-HDMI
+T20	Hardware-Other 1416 1421	cable
+T21	Hardware-Other 1615 1622	adapter
+T22	Hardware-Other 1712 1715	Mac
+T23	Hardware-Devices 1749 1751	TV
+T24	Hardware-Other 1858 1867	HDMI port
+T25	Hardware-Other 1916 1935	standard HDMI cable
+T26	Hardware-Other 1984 1995	Thunderbolt
+T27	Hardware-Other 1999 2015	Mini DisplayPort
+T28	Hardware-Other 2031 2075	Thunderbolt/Mini DisplayPort-to-HDMI adapter
+T29	Hardware-Other 2099 2104	cable
+T30	Hardware-Other 2148 2155	adapter
+T31	Hardware-Other 2210 2214	HDMI
+T32	Hardware-Other 2224 2234	HDMI cable
+T33	Hardware-Other 2322 2325	DVI
+T34	Hardware-Other 2329 2332	VGA
+T35	Hardware-Other 2349 2360	audio cable
+T36	Hardware-Other 2376 2387	video cable
+T37	Hardware-Other 2406 2413	adapter
+T38	Hardware-Other 2424 2427	Mac
+T39	Hardware-Other 2475 2488	video adapter
+T40	Hardware-Other 2496 2508	display port
+T41	Hardware-Other 2538 2549	video cable
+T42	Hardware-Other 2566 2573	adapter
+T43	Hardware-Devices 2582 2584	TV
+T44	Hardware-Other 2681 2691	HDMI ports
+T45	Hardware-Other 2656 2664	computer
+T46	Hardware-Other 2704 2723	standard HDMI cable
+T47	Hardware-Other 2809 2820	audio cable
+T48	Hardware-Other 2848 2851	Mac
+T49	Hardware-Devices 2866 2885	home theater system
+T50	Hardware-Other 2893 2910	3.5mm audio cable
+T51	Hardware-Other 2926 2940	Headphone jack
+T52	Hardware-Other 2960 2973	Audio In port
+T53	Hardware-Devices 3017 3019	TV
+T54	Hardware-Other 3107 3115	computer
+T55	Hardware-Other 3262 3269	desktop
+T56	Software-OS-Related 3340 3350	Apple menu
+A5	isOpened T56 f->t
+T57	Software-OS-Related 3375 3393	System Preferences
+A6	isOpened T57 f->t
+T58	Software-OS-Related 3482 3490	Displays
+A7	isOpened T58 f->t
+T60	Software-OS-Related 3613 3638	Best for external display
+T61	Software-OS-Related 3655 3662	Display
+T62	Software-OS-Related 3822 3832	Arrangemen
+A11	isOpened T62 f->t
+T63	Hardware-Other 3969 3974	mouse
+T65	Hardware-Other 4040 4058	computer's display
+T66	Hardware-Devices 4066 4068	TV
+A14	isConnected T66 start-T
+T67	Software-OS-Related 4206 4231	System Preferences window
+A15	isOpened T67 f->t
+T68	Software-OS-Related 4244 4249	Sound
+A16	isOpened T68 f->t
+T69	Software-OS-Related 4321 4327	Output
+A17	isOpened T69 f->t
+T70	Software-OS-Related 4342 4346	HDMI
+T71	Hardware-Other 4369 4378	HDMI cabl
+T72	Software-OS-Related 4428 4439	audio cable
+A1	isPowered T15 start-T
+T59	Software-OS-Related 3506 3523	System Preference
+A2	isSettingsChanged T60 true
+R1	SubPart Arg1:T60 Arg2:T61	
+A3	isSettingsChanged T70 true
+A4	isSettingsChanged T72 true
+R2	SubPart Arg1:T70 Arg2:T68	
+R3	SubPart Arg1:T72 Arg2:T68	

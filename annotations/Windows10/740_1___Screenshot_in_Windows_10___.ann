@@ -1,0 +1,12 @@
+T1	Software-OS-Related 670 683	Snip & Sketch
+A1	isOpened T1 f->t
+T2	Software-OS-Related 884 887	New
+T3	Software-Other 2564 2568	disk
+A3	isOpened T3 f->t
+T4	Software-Other 2734 2738	Save
+A4	isSettingsChanged T4 true
+T5	Software-Other 2448 2457	crop icon
+T6	Software-Other 2376 2386	ruler icon
+T7	Software-OS-Related 2300 2306	eraser
+T8	Software-OS-Related 2098 2104	finger
+T9	Software-OS-Related 1918 1922	Edit

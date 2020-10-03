@@ -1,0 +1,28 @@
+Make Yourself an Administrator on Any Windows System
+https://www.wikihow.com/Make-Yourself-an-Administrator-on-Any-Windows-System
+
+0 - Accessing the Hidden Administrator Account
+
+1 - Restart your computer into the Advanced Options menu.
+Restart your computer into the Advanced Options menu. To do so, open Start , click Power , and then hold down ⇧ Shift while Windows restarts.
+- You can release ⇧ Shift once you arrive at the Advanced Options screen.
+
+2 - Click Troubleshoot.
+Click Troubleshoot. It's the wrench-shaped icon on the Advanced Options screen.
+
+3 - Click Advanced options.
+Click Advanced options. You'll see this option near the bottom of the screen.
+
+4 - Click Startup Settings.
+Click Startup Settings. It's on the right side of the screen. Doing so opens a list of potential restart options.
+
+5 - Click Restart.
+Click Restart. This is near the bottom of the list.
+
+6 - Press 4.
+Press 4. Doing so selects "Safe Mode" as your restart option and restarts your computer into Safe Mode. This process can take several minutes.
+
+7 - Click the Administrator tab.
+Click the Administrator tab. It should be in the lower-left corner of the screen. Doing so will log you into the Administrator account.
+- You may have to click the Administrator tab several times to get it to open.
+

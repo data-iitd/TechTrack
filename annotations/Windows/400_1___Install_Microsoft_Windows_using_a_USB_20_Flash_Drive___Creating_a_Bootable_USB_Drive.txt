@@ -1,0 +1,23 @@
+Install Microsoft Windows using a USB 2.0 Flash Drive
+https://www.wikihow.com/Install-Microsoft-Windows-using-a-USB-2.0-Flash-Drive
+
+0 - Creating a Bootable USB Drive
+
+1 - Insert your flash drive.
+Insert your flash drive. Your flash drive will need to be at least 4 GB in size in order to successfully copy the ISO file onto it. All of the data on your flash drive will be lost when you turn it into an installation drive, so be sure to back up any important files before continuing.
+
+2 - Download the Windows 7 USB_DVD Download Tool.
+Download the Windows 7 USB/DVD Download Tool. This is available for free from Microsoft. Despite its name, this tool works with Windows 8 and Vista ISO files as well. You can install and run this tool on virtually any version of Windows.
+- If you would prefer to get your hands a little dirtier and create a bootable USB drive from the command line, check out this guide.
+
+3 - Select the Source file.
+Select the Source file. This is the ISO that you created or downloaded in the first section. Click Next.
+
+4 - Select USB device.
+Select USB device. You are given the option to either burn to a DVD or create a USB device. Click the USB Device option. Select your flash drive from the list of available devices.
+
+5 - Wait while program works.
+Wait while program works. The program will format the USB drive to boot correctly, and then copy the ISO file onto the drive. Depending on the speed of your machine, the copying process can take up to 15 minutes to complete.[1]
+- X
+- Research source
+

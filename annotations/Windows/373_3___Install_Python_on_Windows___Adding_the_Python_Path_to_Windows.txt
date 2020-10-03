@@ -1,0 +1,57 @@
+Install Python on Windows
+https://www.wikihow.com/Install-Python-on-Windows
+
+0 - Adding the Python Path to Windows
+
+1 - Press ⊞ Win+R to open the Run dialog.
+Press ⊞ Win+R to open the Run dialog. Use this method if you're installing an older version or see the "python is not recognized as an internal or external command" error when trying to use Python.
+
+2 - Type sysdm.cpl and click OK.
+Type sysdm.cpl and click OK. This opens the System Properties dialog.
+
+3 - Click the Advanced tab.
+Click the Advanced tab. It's at the top of the window.
+
+4 - Click Evironment Variables.
+Click Evironment Variables. It's near the bottom of the window.
+
+5 - Select the Path variable under "System variables.
+Select the Path variable under "System variables." This is in second group of variables (not the "User variables" group on top).
+
+6 - Click Edit.
+Click Edit. It's at the bottom of the window.
+
+7 - Edit the variables on Windows Vista and earlier.
+Edit the variables on Windows Vista and earlier. If you're using Windows 10, 8, or 7, skip to the next step. If you're using XP or Vista:
+- Click inside the "Variable value" box to deselect the selected text.
+- Scroll all the way to the end of the text that's already in the "Variable value" box.
+- Type a semicolon ; at the end of the text (no spaces).
+- Type the full path to Python (e.g., C:\Python27) right after the semicolon.
+- Type a semicolon ; at the end of what you just typed (no spaces).
+- Type the full path again, but add \Scripts to the end. Example: C:\Python27\Scripts;C:\Python27\Scripts.
+- Click OK until you've closed all windows, and then restart your PC. No need to continue with this method.[2]
+- X
+- Research source
+
+8 - Click New.
+Click New. It's the first button near the top-right corner of the window.
+
+9 - Enter the full path to Python.
+Enter the full path to Python. For example, if Python installed to C:\Python27, type that into the field.
+
+10 - Press ↵ Enter.
+Press ↵ Enter. Now you'll have to enter just one more path.
+
+11 - Click New again.
+Click New again.
+
+12 - Enter the full path to the Python "Scripts" directory.
+Enter the full path to the Python "Scripts" directory. This is the same path as you typed before, except you'll be adding \Scripts to the end.
+- For example, C:\Python27\Scripts.
+
+13 - Press ↵ Enter.
+Press ↵ Enter. Your new variables are saved.
+
+14 - Click OK and then OK again.
+Click OK and then OK again. You should now be able to run Python from the command line just by typing python.
+

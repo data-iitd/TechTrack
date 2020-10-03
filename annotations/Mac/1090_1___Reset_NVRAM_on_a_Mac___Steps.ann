@@ -1,0 +1,6 @@
+T1	Software-OS-Related 114 119	Apple
+A1	isOpened T1 f->t
+T2	Software-OS-Related 204 213	Shut Down
+A2	isOpened T2 f->t
+T3	Software-OS-Related 330 342	Shut Down to
+A3	isSettingsChanged T3 true

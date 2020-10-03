@@ -1,0 +1,49 @@
+Clean Install Windows 10
+https://www.wikihow.com/Clean-Install-Windows-10
+
+0 - Steps
+
+1 - Check whether your computer can run on Windows 10.
+Check whether your computer can run on Windows 10. Learning the capabilities of your computer system is the first thing to do while installing a desired operating system. Make sure that your computer meets the minimum requirements for installing Windows 10. The minimum requirements are:
+- Processor: 1 gigahertz (GHz) or faster.
+- RAM: 1 gigabyte (GB) (32-bit) or 2 GB (64-bit)
+- Free hard disk space: 16 GB.
+- Graphics card: Microsoft DirectX 9 graphics device with WDDM driver.
+- A Microsoft account and Internet access.
+- ;
+
+2 - Download the media creation tool.
+Download the media creation tool. You will need this tool to download the iso file and burn it to a DVD. You can find it here Microsoft on the Microsoft site. Scroll to the bottom of the page and you will find the download link. Select the proper tool according to your processor's architecture. To find out if your computer is running a 32-bit or 64-bit version of Windows, do the following:
+- Right click on "This PC" on desktop, and select the "Properties" Tab.
+- Under System, you can view the system type.
+
+3 - Install the Media Creation Tool.
+Install the Media Creation Tool. You can do this by double clicking on the file you downloaded. When a security prompt appears, click on "Yes" button.
+- Select "Create installation media for another PC" button.
+- Select the language and proper edition of Windows in the next window. Also, select proper architecture of your PC's processor in which you are installing Windows 10.
+- Choose the media for installation in the next window. Check the "ISO file" button. This will download the ISO file, or a disk image file. Select the desired location for the ISO file when you are prompted.
+
+4 - Burn the iso file to a DVD.
+Burn the iso file to a DVD. Here are the steps to burn the ISO file to a DVD.
+- Navigate to the ISO file you downloaded earlier.
+- Right click on the file, and select "Burn Disc Image" option.
+- Select the DVD drive in "Disc Burner" option.
+- Click on "Burn".
+
+5 - Restart your device and boot using the DVD burned with Windows 10.
+Restart your device and boot using the DVD burned with Windows 10. You can do this using your BIOS.[1]
+- X
+- Research source
+
+6 - Select language of your choice.
+Select language of your choice. Then select the option, "Install Windows Only". After that, format the partition you were using earlier for your operating system.
+
+7 - Install Windows 10 in that partition which you just successfully formatted, and wait for files to be copied.
+Install Windows 10 in that partition which you just successfully formatted, and wait for files to be copied. Note that Your computer may restart several times during the installation.
+
+8 - Provide your details and settings in the next processes.
+Provide your details and settings in the next processes. After successful installation, Windows will ask for information such as you email address, and ask you to customize settings. You can do that yourselves or choose the express settings for default settings.
+
+9 - After all is done, you are ready to use your clean-installed Windows 10.
+After all is done, you are ready to use your clean-installed Windows 10. You can check out the new features of the latest Windows version to get the most out of it. Good luck!
+

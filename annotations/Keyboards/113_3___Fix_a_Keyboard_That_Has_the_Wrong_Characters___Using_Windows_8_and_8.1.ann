@@ -1,0 +1,33 @@
+T1	Hardware-Other 163 170	NumLock
+T2	Hardware-Other 175 190	Fn+NumLock keys
+T3	Hardware-Devices 278 286	keyboard
+T4	Hardware-Other 237 244	laptops
+T11	Software-OS-Related 1257 1268	Charms menu
+A9	isOpened T11 f->t
+T12	Hardware-Other 1424 1429	mouse
+T13	Hardware-Devices 1463 1469	screen
+T14	Software-OS-Related 1517 1525	Settings
+A12	isOpened T14 f->t
+T15	Software-OS-Related 1595 1606	Charms bar.
+T16	Software-OS-Related 1651 1664	Control Panel
+A14	isOpened T16 f->t
+T20	Software-OS-Related 1879 1898	Change input method
+A16	isOpened T20 f->t
+T22	Software-OS-Related 1974 1987	Control Panel
+T30	Software-OS-Related 2739 2758	Add an input method
+A25	isOpened T30 f->t
+T37	Software-OS-Related 3418 3434	Language Options
+T38	Software-OS-Related 3456 3460	Save
+T39	Software-OS-Related 3515 3531	Language Options
+T7	Software-OS-Related 854 882	language and keyboard layout
+A1	isSettingsChanged T7 true
+A3	isOpened T7 f->t
+T5	Hardware-Devices 570 579	keyboards
+T6	Software-OS-Related 2163 2202	"Change your language preferences" menu
+A4	isSettingsChanged T6 true
+A5	isOpened T6 f->t
+T8	Hardware-Devices 2633 2642	keyboards
+T9	Software-OS-Related 3121 3146	preferred keyboard layout
+A2	isSettingsChanged T9 true
+A6	isSettingsChanged T38 true
+T10	Hardware-Devices 3642 3650	keyboard

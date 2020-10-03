@@ -1,0 +1,9 @@
+T1	Software-OS-Related 108 116	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 493 497	file
+T3	Software-OS-Related 515 522	extract
+T4	Software-OS-Related 155 159	tar.
+T5	Software-OS-Related 219 221	-x
+T6	Software-OS-Related 247 255	tar file
+T7	Software-OS-Related 319 320	z
+T8	Software-OS-Related 417 418	f

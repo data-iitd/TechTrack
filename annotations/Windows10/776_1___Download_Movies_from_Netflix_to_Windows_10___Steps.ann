@@ -1,0 +1,4 @@
+T1	Software-OS-Related 137 152	Microsoft Store
+A1	isOpened T1 f->t
+T2	Software-Other 545 552	Netflix
+T3	Software-Other 639 651	My Downloads

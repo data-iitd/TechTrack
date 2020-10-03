@@ -1,0 +1,29 @@
+Use a Keyboard to Click Instead of a Mouse
+https://www.wikihow.com/Use-a-Keyboard-to-Click-Instead-of-a-Mouse
+
+0 - Mac
+
+1 - Open the Accessibility menu.
+Open the Accessibility menu. Press Fn+⌥ Option+⌘ Command+F5 on a MacBook without a touch bar, or triple-tap the Touch ID button for a MacBook with a touch bar.
+- On an iMac, press ⌥ Option+⌘ Command+F5.
+- If your mouse is working, you can click the Apple menu , click System Preferences..., click Accessibility, and click Mouse & Trackpad.
+
+2 - Enable Mouse Keys.
+Enable Mouse Keys. Press ⌘ Command+⌥ Option+F5 (or tap the Touch ID button three times) while in this menu to enable Mouse Keys.
+- Leave the Accessibility menu open while using Mouse Keys so that you can turn on and off Mouse Keys with the ⌘ Command+⌥ Option+F5 shortcut.
+
+3 - Move the mouse with your keyboard.
+Move the mouse with your keyboard. Hold U to move the mouse left, O to move it right, 8 to move it up, and K to move it down. You can also use 7, 9, J, and L to move the mouse diagonally.
+
+4 - Press 5 to click.
+Press 5 to click. Doing so will act as a mouse click on whatever your mouse is currently selecting.
+
+5 - Hold down Ctrl while pressing 5 to right-click.
+Hold down Ctrl while pressing 5 to right-click. Doing so will allow you to open the context menu for selected items.
+
+6 - Press M to hold the mouse button and . to release it.
+Press M to hold the mouse button and . to release it. This will allow you to activate certain menus (e.g., the Trash menu).
+
+7 - Toggle off Mouse Keys.
+Toggle off Mouse Keys. Since you can't type while using Mouse Keys, press ⌥ Option+⌘ Command+F5 (or triple-tap the Touch ID button) to disable Mouse Keys once you've clicked on an item that you want to use.
+

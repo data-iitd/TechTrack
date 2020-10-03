@@ -1,0 +1,13 @@
+T1	Software-Other 533 554	file recovery program
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 980 1001	data recovery program
+A3	isInstalled T2 f->t
+T3	Software-Other 1474 1490	Select the drive
+A4	isSettingsChanged T3 true
+T4	Software-Other 1558 1569	Scan option
+A5	isSettingsChanged T4 true
+T5	Software-Other 1704 1745	Select the files that you want to recover
+A6	isSettingsChanged T5 true
+T6	Software-Other 2065 2080	Save your files
+A7	isSettingsChanged T6 true

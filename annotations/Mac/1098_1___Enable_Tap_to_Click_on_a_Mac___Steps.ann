@@ -1,0 +1,17 @@
+T1	Software-OS-Related 142 152	Apple icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 259 277	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 325 333	Trackpad
+A3	isOpened T3 f->t
+T4	Software-OS-Related 428 474	check box to enable "Look up & data detectors.
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 693 727	check box next to "Secondary click
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1019 1050	check box next to "Tap to click
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1229 1230	X
+A7	isOpened T7 t->f
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T5 Arg2:T3	
+R3	SubPart Arg1:T6 Arg2:T3	

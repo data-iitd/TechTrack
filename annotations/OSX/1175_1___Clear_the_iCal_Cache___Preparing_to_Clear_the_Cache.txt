@@ -1,0 +1,41 @@
+Clear the iCal Cache
+https://www.wikihow.com/Clear-the-iCal-Cache
+
+0 - Preparing to Clear the Cache
+
+1 - Open the Calendar app.
+Open the Calendar app. Double-click the calendar icon in your Mac's Dock.
+- ;
+
+2 - Back up your calendar's data.
+Back up your calendar's data. If you have multiple calendars synced to different accounts, you'll need to back those up, too. To do so:[1]
+- X
+- Research source
+- 
+- 
+- Click File
+- Select Export
+- Click Calendar Archive
+- Select a save location.
+
+3 - Try removing and re-adding the account.
+Try removing and re-adding the account. You may be able to solve your calendar problem by removing the calendar account from your computer and then adding it back. To do so:
+- Click the Apple Menu 
+- Click System Preferences
+- Click Internet Accounts
+- Select the calendar's account.
+- Click -
+- Restart your Mac
+- Go back to the Internet Accounts page.
+- Select an account provider (e.g., Outlook).
+- Enter your account's email address and password.
+
+4 - Close and re-open your Calendar.
+Close and re-open your Calendar. If the problem was fixed, your account simply needed a refresh. If not, continue to the next step.
+
+5 - Double-check your backups before clearing your cache.
+Double-check your backups before clearing your cache. There is a decent chance that your calendars' contents will be completely deleted if you clear your cache, so make absolutely sure that you have a backup file for each of your calendars. Only proceed after you are certain that you won't lose anything important.
+
+6 - Close your Calendar app.
+Close your Calendar app. You are now ready to proceed with clearing your calendar's cache.
+

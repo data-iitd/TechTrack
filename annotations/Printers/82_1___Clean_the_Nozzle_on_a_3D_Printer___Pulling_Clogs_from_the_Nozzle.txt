@@ -1,0 +1,37 @@
+Clean the Nozzle on a 3D Printer
+https://www.wikihow.com/Clean-the-Nozzle-on-a-3D-Printer
+
+0 - Pulling Clogs from the Nozzle
+
+1 - Unload the filament currently in your printer.
+Unload the filament currently in your printer. Look for the “Unload” option on your 3D printer’s menu or the program you use to run it. Once you select it, wait until the nozzle heats up before pulling out the filament. Slowly pull out the filament so you don’t damage your machine.[1]
+- X
+- Research source
+- 
+- If your filament doesn’t come out, heat up the nozzle more until you can pull it easily.
+- ;
+
+2 - Preheat the nozzle to 200 °C (392 °F).
+Preheat the nozzle to 200 °C (392 °F). After the filament is unloaded, the nozzle will start to cool down on its own. Go into your printer settings and start heating the nozzle to about 200 °C (392 °F). This will help loosen any leftover filament that could be clogging the nozzle. Let the nozzle heat completely before moving on.[2]
+- X
+- Research source
+
+3 - Push a clear ABS or nylon filament into the nozzle and hold it for 10-15 seconds.
+Push a clear ABS or nylon filament into the nozzle and hold it for 10-15 seconds. ABS plastic and nylon have high melting points so it’s easier to control to pick up clogs. Feed the end of the filament into the hole on top of your nozzle. Push the filament as far as you can through the nozzle until it stops. Keep the filament there for about 10-15 seconds so it has a chance to melt slightly.[3]
+- X
+- Research source
+- 
+- Avoid using any materials that have a lower melting point since they won’t retain their shape as well.
+
+4 - Pull out the filament and check for dirt before cutting the end off.
+Pull out the filament and check for dirt before cutting the end off. After 10-15 seconds, quickly pull the filament back out of the nozzle. Since the ABS or nylon is clear and melted slightly, you should easily see any residue that was pulled out of your nozzle. Cut about 5 cm (2.0 in) from the dirty end of the filament with a pair of scissors or snips.[4]
+- X
+- Research source
+
+5 - Repeat the process until the filament comes out clean.
+Repeat the process until the filament comes out clean. Continue putting the end of the filament into your nozzle and pulling it out after 15 seconds. As you keep working, the filament should pull up less dirt and grime. Keep cleaning the nozzle until the filament is clear when you pull it out.[5]
+- X
+- Research source
+- 
+- Always cut the dirty end off of the filament so you don’t put it back in your nozzle.
+

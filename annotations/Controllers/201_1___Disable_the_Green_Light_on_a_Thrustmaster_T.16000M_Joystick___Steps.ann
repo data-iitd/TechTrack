@@ -1,0 +1,16 @@
+T1	Hardware-Other 182 193	screwdriver
+T2	Hardware-Other 214 220	screws
+T3	Hardware-Devices 243 251	joystick
+T4	Hardware-Other 372 375	lid
+T5	Hardware-Other 417 421	leds
+T6	Hardware-Other 450 457	circuit
+T7	Hardware-Other 521 526	wires
+T8	Hardware-Other 553 558	board
+T9	Hardware-Other 601 607	switch
+T10	Hardware-Other 628 632	wire
+T11	Hardware-Other 711 716	board
+T12	Hardware-Other 669 674	photo
+T13	Hardware-Other 874 885	SPST switch
+T14	Hardware-Other 964 967	lid
+T15	Hardware-Other 978 984	screws
+A1	isPowered T3 start-F

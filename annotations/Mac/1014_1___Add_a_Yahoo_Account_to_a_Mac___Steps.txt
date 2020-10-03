@@ -1,0 +1,34 @@
+Add a Yahoo! Account to a Mac
+https://www.wikihow.com/Add-a-Yahoo!-Account-to-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Internet Accounts.
+Click on Internet Accounts. It's the blue "@" icon near the center of the Preferences window.
+
+4 - Click on Yahoo!.
+Click on Yahoo!. It's listed in the pane on the right side of the dialog box.
+
+5 - Type the email associated with your Yahoo! account.
+Type the email associated with your Yahoo! account.
+
+6 - Click on Next.
+Click on Next.
+
+7 - Type the password associated with your Yahoo! account.
+Type the password associated with your Yahoo! account.
+
+8 - Click on Next.
+Click on Next.
+
+9 - Click on checkboxes next to applications.
+Click on checkboxes next to applications. Select the Mac applications with which you'd like to use your Yahoo! account. Your Yahoo! account has now been added to your Mac.
+- Your Yahoo! account will now be accessible via any of the apps you selected. For example, if you checked Mail, Calendar, and Contacts, your Yahoo! email, calendar data, and contact information will be synced with the corresponding Mac apps.
+

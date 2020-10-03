@@ -1,0 +1,56 @@
+Use Your TV as a Second Monitor for Your Computer
+https://www.wikihow.com/Use-Your-TV-as-a-Second-Monitor-for-Your-Computer
+
+0 - Connecting Your Computer to the TV
+
+1 - Find your computer's video output port.
+Find your computer's video output port. Virtually all computers have at least one video output port:[1]
+- X
+- Research source
+- 
+- 
+- Windows
+- 
+- HDMI - A six-sided, tapered port. Transmits both audio and video.
+- DisplayPort - Similar to a USB port, but with one crimped corner. Transmits both audio and video.
+- VGA - A blue trapezoid with holes in it. VGA transmits video, but you will need a separate audio cable (such as A/V cables) to transmit sound.
+- 
+- Mac
+- 
+- HDMI - Found most often on Macs manufactured between 2012 and 2016. Also found on the backs of iMac computers.
+- Thunderbolt 3 (also known as "USB-C") - Found on the sides of modern MacBooks and the backs of iMacs. You can't connect a USB-C cable directly to a TV, but you can buy a USB-C to HDMI adapter.
+- 
+- ;
+
+2 - Find your TV's video input options.
+Find your TV's video input options. You'll usually find the video input section on the side or back of the TV. Nearly all modern TVs have HDMI ports; if your TV has an HDMI port, try to prioritize it.
+- Other common input ports include DVI, VGA, and A/V inputs.
+
+3 - Determine whether or not you need an adapter.
+Determine whether or not you need an adapter. If both your computer and your TV have the same port type (e.g., HDMI), you do not need an adapter; otherwise, you'll need a [computer port] to [TV port] cable or adapter (e.g., USB-C to HDMI).
+- Several options, such as USB-C to HDMI or VGA to HDMI, are available as single cables rather than needing adapters.
+
+4 - Buy any adapters and cables that you need.
+Buy any adapters and cables that you need. You can usually pick up cables and adapters in tech stores such as Best Buy, as well as online in places like Amazon and eBay.
+
+5 - Plug one end of the cable into your computer.
+Plug one end of the cable into your computer. The cable should plug into your computer's video output port.
+
+6 - Plug the other end of the cable into your TV.
+Plug the other end of the cable into your TV.
+- If you bought an adapter to bridge the gap between two separate cables, you'll instead plug the computer's cable into one end of the adapter, attach the other end of the adapter to the other cable, and plug the other cable into the TV.
+
+7 - Connect an audio cable if necessary.
+Connect an audio cable if necessary. If you are connecting your computer to your TV using HDMI-to-HDMI or DisplayPort-to-HDMI, you don't need any extra cables to send audio to the TV. If you're using a different connection, including something like VGA-to-HDMI, you'll need to use a separate audio cable to send audio from your computer to your TV.
+- Use a standard 3.5mm stereo cable to connect the Audio Out port on your computer to the Audio In port that matches the input you're connected to on the TV. The Audio Out port on your computer is usually green, and may have a symbol indicating that it is sending signal out.
+
+8 - Turn on the TV.
+Turn on the TV. Press the TV's Power  button to do so.
+
+9 - Switch your TV to the correct input.
+Switch your TV to the correct input. Use your TV's remote to turn it on and switch to the input that you connected your computer to. The input in question will usually have a label, such as "HDMI 1" or "1".
+- You can also use the Input or Video button on your TV to cycle through the available inputs.
+
+10 - Wait for your computer's screen to appear.
+Wait for your computer's screen to appear. Once you see your computer's screen appear on the TV, you can proceed with changing your display settings to set up your TV's screen as you like.
+

@@ -1,0 +1,31 @@
+Print AutoCAD Drawings on PC or Mac
+https://www.wikihow.com/Print-AutoCAD-Drawings-on-PC-or-Mac
+
+0 - Printing an AutoCAD Drawing on Windows
+
+1 - Click the Application button.
+Click the Application button.  It's the red "A" button in the upper-left corner of AutoCAD.
+
+2 - Click Print.
+Click Print.  It's next to the icon that resembles a printer.
+
+3 - Click Plot.
+Click Plot.  It's the first option in the "Print" sub-menu.  This displays the "Plot" dialogue box.
+- You can also click the printer icon at the top of AutoCAD to display the Plot dialogue box.
+
+4 - Select your customer page setup.
+Select your customer page setup.  Use the drop-down menu next to "Name" to select the custom page setup you just created.  This applies all the custom settings to the PDF.
+
+5 - Click Ok.
+Click Ok.  This opens a browser window.
+
+6 - Select where you want to save the file and click Save.
+Select where you want to save the file and click Save.  User the browser window to select where you want to save the PDF file.  Click Save at the bottom of the screen when you are finished.  This saves the drawing as a PDF and opens it in your default PDF viewing program.
+- If you AutoCAD drawing has multiple layers, you can select which layers you want to print on the side of the PDF.
+
+7 - Click the Printer icon.
+Click the Printer icon.  The icon that resembles a printer is the button that prints the PDF.
+
+8 - Select a Printer and click Print.
+Select a Printer and click Print.  If you are satisfied with how the drawing looks, select the printer you want to print from using the drop-down menu.  Then click Print to print the drawing.
+

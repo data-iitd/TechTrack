@@ -1,0 +1,16 @@
+T1	Software-OS-Related 172 180	terminal
+A1	isOpened T1 f->t
+T2	Hardware-Other 195 203	computer
+T4	Software-OS-Related 268 308	.sudo apt-get install portmap nfs-common
+T3	Software-OS-Related 378 387	directory
+T5	Software-OS-Related 668 683	/etc/fstab file
+A2	isOpened T5 f->t
+T7	Software-OS-Related 1185 1218	.sudo /etc/init.d/portmap restart
+T8	Software-OS-Related 1222 1229	restart
+T9	Software-OS-Related 1230 1237	portmap
+T10	Software-OS-Related 1460 1468	mount -a
+T11	Software-OS-Related 1478 1493	ls /sharedFiles
+T12	Hardware-Other 1583 1591	computer
+T6	Software-OS-Related 703 728	.serverIP:sharedDirectory
+A3	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	

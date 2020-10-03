@@ -1,0 +1,29 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - Changing Power Button Properties
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Click Settings .
+Click Settings . This icon is in the lower-left corner of the Start window.
+
+3 - Click System.
+Click System. This icon resembles a laptop.
+
+4 - Click Power & sleep.
+Click Power & sleep. It's on the left side of the System page.
+
+5 - Click Additional power settings.
+Click Additional power settings. This option is in the top-right side of the page.
+
+6 - Click Choose what the power buttons do.
+Click Choose what the power buttons do. You'll find this link in the top-left corner of the window.
+
+7 - Change the "On battery" and "Plugged in" boxes to "Shut down".
+Change the "On battery" and "Plugged in" boxes to "Shut down". Click the drop-down box right of "When I press the power button" and beneath "On battery", click Shut down, and repeat for the "Plugged in" column. This will ensure that pressing your computer's power button will shut down your computer.
+
+8 - Try to shut down your computer by pressing the power button.
+Try to shut down your computer by pressing the power button. If the computer successfully shuts down, the problem was resolved. If not, proceed to the next part.
+

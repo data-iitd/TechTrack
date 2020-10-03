@@ -1,0 +1,22 @@
+Fix the Sound on a Mac Computer
+https://www.wikihow.com/Fix-the-Sound-on-a-Mac-Computer
+
+0 - Checking Your Devices
+
+1 - Ensure you don't have headphones plugged in.
+Ensure you don't have headphones plugged in. If you have headphones plugged in, you won't be able to hear sound from the speakers. Sometimes inserting and removing a headphone plug will get the speakers to switch back on.
+
+2 - Click the Apple menu and select System Preferences.
+Click the Apple menu and select System Preferences. If you have multiple audio devices connected to your Mac, it may not switch inputs correctly.
+
+3 - Click the "Sounds" option and then select the "Output" tab.
+Click the "Sounds" option and then select the "Output" tab. This will display a list of devices that can output audio.
+
+4 - Select the proper output device.
+Select the proper output device. Select the device that you want to use to play sound.
+- If you want to play sound from your Mac's speakers, select "Internal Speakers" or "Digital Out."
+- If you're trying to play sound from your connected TV, select the "HDMI" option.
+
+5 - Check the volume level of external speakers.
+Check the volume level of external speakers. Many external speakers will have their own volume controls. If the speakers are turned off or down, you won't be able to hear sound from them even if they're selected.
+

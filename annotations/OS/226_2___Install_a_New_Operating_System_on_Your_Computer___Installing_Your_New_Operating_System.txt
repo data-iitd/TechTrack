@@ -1,0 +1,47 @@
+Install a New Operating System on Your Computer
+https://www.wikihow.com/Install-a-New-Operating-System-on-Your-Computer
+
+0 - Installing Your New Operating System
+
+1 - Determine your installation order.
+Determine your installation order. If you are installing a Linux distribution that you want to run alongside Windows, you need to install Windows first and then Linux. This is because Windows has a very strict boot loader that needs to be in place before Linux is installed, otherwise Windows won't load.
+
+2 - Boot from your installation disc.
+Boot from your installation disc. Insert the installation disc into your optical; drive, and reboot your computer. Normally a computer boots from the hard drive first, so you will need to adjust some settings in your BIOS in order to boot from the disc drive. You can enter the BIOS by hitting the designated Setup key during the boot process. The key will be displayed on the same screen as your manufacturer's logo.
+- Common Setup keys include F2, F10, F12, and Del/Delete.
+- Once you are in the Setup menu, navigate to the Boot section. Set your DVD/CD drive as the first boot device. If you are installing from a USB drive, make sure that the drive is inserted and then select it as the first boot device.
+- Once you've selected the correct drive, save your changes and exit Setup. Your computer will reboot.
+
+3 - Try your Linux distribution before installing.
+Try your Linux distribution before installing. Most Linux distributions come with a copy that can be loaded directly from the installation disc. This will allow you to “test drive” your new operating system before you commit to the installation process. Once you are ready to install, click the Installation program on the desktop.
+- This is only possible with Linux distributions. Windows does not allow you to test out the operating system before you install.
+
+4 - Wait for the Setup program to load.
+Wait for the Setup program to load. No matter which operating system you choose, the setup program will need to copy some files to your computer before it can continue. This can take several minutes, depending on the speed of your computer's hardware.
+- You will most likely need to choose some basic options, such as language and keyboard layout.
+
+5 - Enter your product key.
+Enter your product key. If you are installing Windows 8, you will need to enter your product key before you can begin the installation. Older Windows versions will ask for the product key after installation is complete. Linux users will not need a product key unless it is a purchased version such as Red Hat.
+
+6 - Choose your installation type.
+Choose your installation type. Windows will give you the option of Upgrading or performing a Custom installation. Even if you are upgrading an older version of Windows, it is highly recommended that you choose Custom and start from scratch. This will minimize problems that may arise later from combining old settings and new ones.
+- If you are installing Linux, you will be given the option to install alongside your existing operating system (Windows), or to erase the disk and install Linux by itself. Choose the option that best meets your needs. If you choose to install alongside Windows, you will be given the option to choose how much hard disk space you want to designate for Linux.
+
+7 - Format your partitions.
+Format your partitions. If you are installing Windows, you will need to choose which hard drive partition you want to install it on. Deleting partitions will wipe the data on the partition and return the space to the Unallocated section. Select the unallocated space and create a new partition.
+- If you are installing Linux, the partition needs to be formatted in the Ext4 format.
+
+8 - Set your Linux options.
+Set your Linux options. Before installation begins, your Linux installer will ask you for your timezone, and you will need to create a username and password. You will use this to log in to your Linux distribution as well as authorize system changes.
+- Windows users will fill out personal information after the installation is complete.
+
+9 - Wait for the installation to complete.
+Wait for the installation to complete. Depending on the speed of your computer, this can take up to an hour to finish. Most installations are hands-off at this point. Your computer may reboot several times during the installation process.
+
+10 - Create your Windows login.
+Create your Windows login. Once your Windows installation is complete, you will need to create a username. You can also choose to create a password, though this is not necessary. After creating your login info, you will be asked for your product key.
+- In Windows 8, you will be asked to customize the colors first. After that, you can choose to either log in with a Microsoft account or use a more traditional Windows username.
+
+11 - Install your drivers and programs.
+Install your drivers and programs. Once the installation is complete, you will be taken to your new desktop. From here, you can begin installing your programs and make sure that your drivers are installed and up to date. Make sure to install an antivirus program if you are going to be connecting to the internet.
+

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 548 553	Start
+A1	isOpened T1 f->t
+T2	Hardware-Devices 159 169	disk drive
+T3	Software-OS-Related 822 837	Disk Management
+A2	isOpened T3 f->t
+T4	Software-OS-Related 963 965	C:
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1113 1126	Shrink Volume
+T6	Software-OS-Related 1691 1697	Shrink
+A4	isSettingsChanged T6 true

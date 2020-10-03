@@ -1,0 +1,29 @@
+Change the Time Format on a Mac
+https://www.wikihow.com/Change-the-Time-Format-on-a-Mac
+
+0 - Creating a Custom Format
+
+1 - Click the Apple menu.
+Click the Apple menu.
+
+2 - Click "System Preferences."
+Click "System Preferences." You may already open to the "Language & Region" menu if you followed the previous method. If not, click the "Show All" button at the top of the window.
+
+3 - Click the "Language & Region" option.
+Click the "Language & Region" option. This will open your Mac's region settings.
+
+4 - Click the "Advanced" button.
+Click the "Advanced" button.
+
+5 - Click the "Times" tab.
+Click the "Times" tab.
+
+6 - Click and drag elements to customize the different formats.
+Click and drag elements to customize the different formats. These different lengths are used in different areas of the system.
+
+7 - Click the menu for each element to customize it.
+Click the menu for each element to customize it. This lets you select how the data is displayed. For example, clicking the minutes element can let you pick between "08" and "8" for the time.
+
+8 - Type custom labels for "AM" and "PM."
+Type custom labels for "AM" and "PM." You can switch the before noon and after noon labels to whatever you'd like.
+

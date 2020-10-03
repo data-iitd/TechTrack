@@ -1,0 +1,33 @@
+Fix a Stuck Pixel on an LCD Monitor
+https://www.wikihow.com/Fix-a-Stuck-Pixel-on-an-LCD-Monitor
+
+0 - Preparing to Fix
+
+1 - Make sure that the pixel is stuck, not dead.
+Make sure that the pixel is stuck, not dead. While "stuck" and "dead" are often used interchangeably for malfunctioning pixels, stuck pixels can be fixed while dead pixels cannot be fixed. If your pixel is displaying a specific color other than black or it changes color based on the background, it is most likely stuck.[1]
+- X
+- Research source
+- 
+- 
+- Dead pixels are either black or white all the time, regardless of what's on the screen. White pixels are actually called "hot" pixels, but they're principally identical to dead pixels.
+- If you determine that your monitor has a dead pixel, you'll need to either take it into a repair department or replace the screen. You can also generally get it replaced if it's still under warranty.
+- ;
+
+2 - Understand how pixels work.
+Understand how pixels work. Pixels display a combination of red, blue, and green that's contingent on your screen's contents. A pixel might get stuck for any number of reasons, including overuse of the screen or long bouts of intense on-screen colors; when a pixel gets stuck, it displays one color that may alter slightly as the pixels around it change color.
+- Again, a dead pixel will never change its color, regardless of the status of the surrounding pixels.
+
+3 - Check your monitor's warranty.
+Check your monitor's warranty. Many manufacturers will replace your monitor if it has a certain number of stuck or dead pixels. If your monitor is still covered under warranty, your best option is to take advantage of the warranty rather than trying to fix the monitor itself.
+- You can still try the software fix method since it's noninvasive.
+
+4 - Leave your monitor off for 24 hours.
+Leave your monitor off for 24 hours. If the pixel recently got stuck, leaving your monitor off for a full day may correct the problem. This isn't a guaranteed fix; however, a stuck pixel is often symptomatic of overuse, meaning that your monitor should be shut down for a while in order to prevent further damage anyway.
+- Unplug the monitor as well.
+
+5 - Consider sending the monitor into a repair service.
+Consider sending the monitor into a repair service. Even if your monitor's warranty has expired, paying a professional to repair your monitor may be cheaper than buying a new monitor in the event that you accidentally break it while trying to fix it.
+
+6 - Know that the pixel may fix itself.
+Know that the pixel may fix itself. Stuck pixels often disappear after a period of time, though the time-frame can vary from days to years. If you just have one stuck pixel on an expensive screen, it might be best to avoid tapping, rubbing, or otherwise touching the monitor in an attempt to fix the pixel.
+

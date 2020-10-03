@@ -1,0 +1,23 @@
+Make the Mac Notification Center Sort by App
+https://www.wikihow.com/Make-the-Mac-Notification-Center-Sort-by-App
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Notifications.
+Click on Notifications. It's in the upper-right of the preferences window.
+
+4 - Click on the drop-down menu.
+Click on the drop-down menu. It's at the bottom of the dialog box, next to  "Notification Center sort order."
+
+5 - Click on the app sort order that you prefer.
+Click on the app sort order that you prefer. Your Mac Notifications Center now sorts its notifications by app.
+- "Recents by app" sorts all of the most recent notifications by app.
+- "Manually by app" allows you to choose the order of notifications by dragging apps up or down in the list above the drop-down menu.
+

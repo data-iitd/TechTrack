@@ -1,0 +1,9 @@
+T1	Software-OS-Related 128 134	iTunes
+A1	isOpened T1 f->t
+T3	Software-OS-Related 397 401	File
+A3	isOpened T3 f->t
+T4	Software-OS-Related 402 414	New Playlist
+A4	isOpened T4 f->t
+T2	Hardware-Other 840 857	Insert a blank CD
+T5	Software-OS-Related 944 948	Burn
+A2	isOpened T5 f->t

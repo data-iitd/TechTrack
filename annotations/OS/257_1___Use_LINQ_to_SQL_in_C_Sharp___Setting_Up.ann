@@ -1,0 +1,9 @@
+T1	Software-Other 143 156	Visual Studio
+A1	isOpened T1 f->t
+T2	Software-Other 255 272	Solution Explorer
+A2	isOpened T2 f->t
+T3	Software-Other 339 355	Add Reference...
+A3	isOpened T3 f->t
+T4	Software-Other 407 423	System.Data.Linq
+T5	Software-Other 477 479	OK
+T6	Software-Other 712 725	Visual Studio

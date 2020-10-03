@@ -1,0 +1,46 @@
+Install Linux on a Chromebook
+https://www.wikihow.com/Install-Linux-on-a-Chromebook
+
+0 - Steps
+
+1 - Verify that all your local data has been saved to Google Drive or to another form of storage, such as a USB flash drive.
+Verify that all your local data has been saved to Google Drive or to another form of storage, such as a USB flash drive. Installing Linux on your Chromebook will erase and wipe all local data.
+- ;
+
+2 - Press and hold down the “Esc” and “Refresh” keys, then press the “Power” button.
+Press and hold down the “Esc” and “Refresh” keys, then press the “Power” button. Your Chromebook will reboot and enter into Recovery Mode.
+
+3 - Press “Ctrl + D” when the yellow exclamation point displays on-screen.
+Press “Ctrl + D” when the yellow exclamation point displays on-screen. A dialog box will display on-screen and ask you to confirm that you want to enter Developer Mode.
+
+4 - Press “Enter” to confirm that you want to go into Developer Mode.
+Press “Enter” to confirm that you want to go into Developer Mode. Your Chromebook will spend about 15 minutes wiping all local data and entering Developer Mode.
+
+5 - Wait for your Chromebook to fully reboot into Chrome OS.
+Wait for your Chromebook to fully reboot into Chrome OS. The screen will display a warning as it reboots that informs you that Chrome OS is missing or damaged, but this is normal when entering Developer Mode.
+
+6 - Download Crouton from goo.
+Download Crouton from goo.gl/fd3zc and verify that the file saves to your Downloads folder. Crouton is the name of the tool you’ll need to install Linux on your Chromebook.
+- Alternately, you can visit Crouton’s official site at https://github.com/dnschneid/crouton and click on the link to the right of “Chromium OS Universal Chroot Environment.”
+
+7 - Press the “Ctrl + Alt + T” keys.
+Press the “Ctrl + Alt + T” keys. This command will bring up the terminal on your Chromebook.
+
+8 - Type “shell” into the terminal and press “Enter.
+Type “shell” into the terminal and press “Enter.”
+
+9 - Type “sudo sh -e ~_Downloads_crouton -t xfce (Or any other Linux distro, such as KDE, with more Eye-candy, or xiwi for a Linux desktop inside your chrome browser)” into the terminal, then press “Enter.
+Type “sudo sh -e ~/Downloads/crouton -t xfce (Or any other Linux distro, such as KDE, with more Eye-candy, or xiwi for a Linux desktop inside your chrome browser)” into the terminal, then press “Enter. WARNING! You may want to enter "-r trusty" for acer chromebooks.” This command will install the Crouton application.
+- Type “sudo sh -e ~/Downloads/crouton -t touch,xfce” if you are installing Linux on a Chromebook Pixel.
+
+10 - Wait for Crouton to fully install on your Chromebook.
+Wait for Crouton to fully install on your Chromebook. The installation process may take up to several minutes, and will prompt you to enter a Linux username and password when complete.
+
+11 - Enter a username and password for your Linux OS.
+Enter a username and password for your Linux OS.
+
+12 - Type “sudo startxfce4” into the terminal to launch Linux on your desktop.
+Type “sudo startxfce4” into the terminal to launch Linux on your desktop. You will be required to type this command into the terminal any time you wish to use Linux when booting into Chrome OS.[1]
+- X
+- Research source
+

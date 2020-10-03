@@ -1,0 +1,8 @@
+T1	Software-Other 104 111	Notepad
+A1	isOpened T1 f->t
+T2	Software-Other 607 611	File
+A2	isOpened T2 f->t
+T3	Software-Other 633 640	Save As
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1149 1160	My Computer
+A4	isOpened T4 f->t

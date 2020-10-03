@@ -1,0 +1,12 @@
+T1	Software-Other 172 201	Adobe Lightroom download page
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 624 631	Sign in
+A3	isOpened T2 f->t
+T3	Software-Other 1001 1027	skill level with Lightroom
+A4	isSettingsChanged T3 true
+T4	Software-Other 1230 1238	Continue
+A5	isOpened T4 f->t
+T5	Software-Other 1495 1524	Open Adobe Application button
+A6	isOpened T5 f->t
+R1	SubPart Arg1:T3 Arg2:T1	

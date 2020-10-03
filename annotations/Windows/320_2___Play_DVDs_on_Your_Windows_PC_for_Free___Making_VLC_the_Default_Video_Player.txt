@@ -1,0 +1,23 @@
+Play DVDs on Your Windows PC for Free
+https://www.wikihow.com/Play-DVDs-on-Your-Windows-PC-for-Free
+
+0 - Making VLC the Default Video Player
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Click Settings .
+Click Settings . This gear is in the bottom-left side of the Start window.
+
+3 - Click Apps.
+Click Apps. This icon resembles a bulleted list of horizontal lines.
+
+4 - Click Default apps.
+Click Default apps. It's a tab on the left side of the Apps menu.
+
+5 - Scroll down to the "Video player" section and click the current app.
+Scroll down to the "Video player" section and click the current app. The current app below the "Video player" heading will usually be the Movies & TV app.
+
+6 - Click VLC media player.
+Click VLC media player. It's the orange traffic cone icon in the pop-out window. This will set VLC Media Player as your default movie player for all media on your computer.
+

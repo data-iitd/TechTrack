@@ -1,0 +1,10 @@
+T1	Software-OS-Related 165 178	Disks program
+A1	isOpened T1 f->t
+T2	Software-OS-Related 643 654	Gear button
+T3	Software-OS-Related 667 684	Format Partition.
+A3	isOpened T3 f->t
+A2	isSettingsChanged T2 true
+T4	Software-OS-Related 846 851	Type"
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1805 1811	Format
+A5	isSettingsChanged T5 true

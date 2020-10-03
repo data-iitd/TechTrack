@@ -1,0 +1,32 @@
+Fix the "Printer Offline" Error After a Windows 10 Update
+https://www.wikihow.com/Fix-the-%22Printer-Offline%22-Error-After-a-Windows-10-Update
+
+0 - Resetting the Printer
+
+1 - Unplug the power cord from the wall outlet when the printer is still on.
+Unplug the power cord from the wall outlet when the printer is still on. Doing this will turn off the printer and begin the reset process. 
+- Ensure you use the original cable that came in the pack along with the printer.
+- Check the cable for any physical damage as it may cause issue in the future.
+- ;
+
+2 - Wait for 10-15 seconds.
+Wait for 10-15 seconds.
+- The printer will reset the settings or any recent changes.
+- Then, replug the power cord again into the wall outlet.
+- Connect the power cord to the direct power supply wall outlet to avoid fluctuations.
+
+3 - Turn on the printer and wait for it to settle idle.
+Turn on the printer and wait for it to settle idle.
+- You can hear the carrier moving back and forth until it finally settles down.
+- Set the desired Preferences Settings on the Printer Touch Panel before proceeding with connecting the device.
+- Here, you can set desired Location, Time, Date and Language.
+
+4 - Connect the printer to the network or device.
+Connect the printer to the network or device.
+- For this, use either the USB cable or the Wireless Setup. It is always better to connect the printer to the network with a USB cable after a rest.
+- The USB connection will enable constant connectivity between the printer and the device.
+
+5 - Try printing a file.
+Try printing a file. If the error persists, try method 2.
+- If you still face the error message after reset, you should try uninstalling and reinstalling the printer driver and software.
+

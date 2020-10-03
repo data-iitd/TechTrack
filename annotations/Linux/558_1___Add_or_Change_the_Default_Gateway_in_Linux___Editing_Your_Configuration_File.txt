@@ -1,0 +1,22 @@
+Add or Change the Default Gateway in Linux
+https://www.wikihow.com/Add-or-Change-the-Default-Gateway-in-Linux
+
+0 - Editing Your Configuration File
+
+1 - Open the configuration file in an editor.
+Open the configuration file in an editor. Type sudo nano /etc/network/interfaces to open the file in the nano editor. Editing your configuration file will keep your changes every time the system restarts.
+
+2 - Navigate to the correct section.
+Navigate to the correct section. Find the section for the adapter you want to change the default gateway for. For a wired connection, this is usually eth0.
+
+3 - Add .
+Add .gateway IP Address to the section. For example, type gateway 192.168.1.254 to make the default gateway 192.168.1.254.
+
+4 - Save your changes and exit.
+Save your changes and exit. Press Ctrl+X and then Y to save your changes and exit.
+
+5 - Restart your network.
+Restart your network. Restart your network by typing sudo /etc/init.d/networking restart.[1]
+- X
+- Research source
+

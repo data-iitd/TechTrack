@@ -1,0 +1,46 @@
+Delete a User Account Picture in Windows 10
+https://www.wikihow.com/Delete-a-User-Account-Picture-in-Windows-10
+
+0 - Reverting to the Default User Photo
+
+1 - Click the Start  button.
+Click the Start  button. It's usually at the bottom-left corner of the screen.
+- ;
+
+2 - Click on your profile icon.
+Click on your profile icon. It should look like your current user photo, and it's near the top-left corner of the Start menu.
+
+3 - Click Change account settings.
+Click Change account settings.
+
+4 - Click Browse for one.
+Click Browse for one. It's under the "Create your picture" header. You'll see the "Open" dialog window.
+
+5 - Navigate to C:
+Navigate to C:\ProgramData\Microsoft\User Account Pictures. This is where you'll find the default user icons. Here's a quick way to do this:
+- Highlight this text with your mouse: C:\ProgramData\Microsoft\User Account Pictures.
+- Press Ctrl+C to copy it to your clipboard.
+- In the address bar at the top of the Open window, click your mouse at the end of the current path. This highlights the information that's already in that box.
+- Press Ctrl+V to paste the copied location.
+- Press ↵ Enter.
+
+6 - Select user.png and click Choose picture.
+Select user.png and click Choose picture. Any of the files with the name "user" should be fine. This replaces your user profile photo with the default.
+- Your old photo will still appear in your account settings. If you want to delete it from the computer completely, continue with this method.
+
+7 - Press ⊞ Win+E to open the File Explorer.
+Press ⊞ Win+E to open the File Explorer. Now you'll use the File Explorer to delete your old photo from the computer.
+
+8 - Paste %appdata%\Microsoft\Windows\AccountPictures into the address bar.
+Paste %appdata%\Microsoft\Windows\AccountPictures into the address bar. You'll do this just as you did when you navigated to the User Account Pictures folder in the Open window.
+
+9 - Press ↵ Enter.
+Press ↵ Enter. Now you'll see all of your user account photos.
+
+10 - Select the photo(s) you want to delete.
+Select the photo(s) you want to delete. To select multiple photos, hold Ctrl as you click.
+
+11 - Press the Del key on the keyboard.
+Press the Del key on the keyboard. The selected photos are now removed from your account.
+- If you log into Windows with your Microsoft account, you may still see your old profile photo in some locations (such as when you sign into other Windows 10 computers). See the "Removing a Profile Photo from a Microsoft Account" method to learn how to remove it.
+

@@ -1,0 +1,14 @@
+T1	Hardware-Other 137 156	external hard drive
+T2	Hardware-Other 1248 1267	external hard drive
+T3	Hardware-Other 1278 1281	Mac
+T4	Software-OS-Related 1699 1705	Format
+T5	Software-OS-Related 1711 1730	external hard drive
+T6	Software-OS-Related 1929 1956	Mac OS Extended (Journaled)
+T7	Software-OS-Related 1964 1981	File System value
+T8	Software-OS-Related 1990 2008	Turn off FileVault
+A1	isSettingsChanged T8 true
+T9	Software-OS-Related 2175 2178	Mac
+T10	Software-OS-Related 2182 2189	restart
+T11	Software-OS-Related 2466 2477	Restart Now
+T12	Software-OS-Related 2547 2560	Recovery icon
+A2	isOpened T12 f->t

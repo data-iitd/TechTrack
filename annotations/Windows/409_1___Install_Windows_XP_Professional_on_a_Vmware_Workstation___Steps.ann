@@ -1,0 +1,10 @@
+T1	Software-Other 162 168	VMware
+A1	isOpened T1 f->t
+T2	Software-Other 188 207	New Virtual Machine
+A2	isOpened T2 f->t
+T3	Software-Other 420 428	typical 
+A3	isOpened T3 f->t
+T4	Software-Other 601 631	Install Disc Image (ISO) radio
+A4	isOpened T4 f->t
+T5	Software-Other 1072 1087	Virtual Machine
+T6	Software-Other 1881 1883	no

@@ -1,0 +1,24 @@
+Set up an FTP Server in Ubuntu Linux
+https://www.wikihow.com/Set-up-an-FTP-Server-in-Ubuntu-Linux
+
+0 - Adding Usernames to the CHROOT List
+
+1 - Open the "chroot" text file.
+Open the "chroot" text file. Type in sudo nano /etc/vsftpd.chroot_list and press ↵ Enter.
+- You can skip to the last step in this part if you don't want to specify people who can access your FTP server.
+
+2 - Enter your password.
+Enter your password. Type in the password that you use to log into Ubuntu and press ↵ Enter. This will open the "chroot" text file.
+- Skip this step if not asked for your password.
+
+3 - Add usernames to the list.
+Add usernames to the list. Type in your own username, press ↵ Enter, and repeat with any other usernames of people whom you want to have access their Home directories from within your server.
+
+4 - Save your list.
+Save your list. Press Ctrl+X, type in y, and press ↵ Enter. Your list will be saved.
+
+5 - Restart VSFTPD.
+Restart VSFTPD. Type in sudo systemctl restart vsftpd and press ↵ Enter. This will stop and restart VSFTPD, ensuring that your changes have been saved. You can now access your FTP server.[3]
+- X
+- Research source
+

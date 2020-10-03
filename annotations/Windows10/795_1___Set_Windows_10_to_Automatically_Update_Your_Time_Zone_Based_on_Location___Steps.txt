@@ -1,0 +1,25 @@
+Set Windows 10 to Automatically Update Your Time Zone Based on Location
+https://www.wikihow.com/Set-Windows-10-to-Automatically-Update-Your-Time-Zone-Based-on-Location
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. Press the Start  button and select the settings gear from the lower-left corner.
+- ;
+
+2 - Go to the Time & language category.
+Go to the Time & language category. This section contains pretty much all the time, language, and region settings in Windows.
+
+3 - Ensure that the Date & time section is selected.
+Ensure that the Date & time section is selected.
+
+4 - Toggle the switch under "Set time zone automatically" to On .
+Toggle the switch under "Set time zone automatically" to On . With this setting on, the manual time zone settings disable so you can't change them by yourself. Don't worry—your computer will automatically manage these settings.
+
+5 - Toggle the switch under to "Set time automatically" On  (optional).
+Toggle the switch under to "Set time automatically" On  (optional). This will ensure that the time for the chosen time zone is correct.
+
+6 - Test it when you move into another time zone.
+Test it when you move into another time zone. Your time zone should update your time within a couple of moments.
+- If it didn't update to the new time zone, restart your PC or sign out and back in. You can also turn off and on the "Set time zone automatically" switch in settings.
+

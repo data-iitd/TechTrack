@@ -1,0 +1,49 @@
+Use LINQ to SQL in C Sharp
+https://www.wikihow.com/Use-LINQ-to-SQL-in-C-Sharp
+
+0 - Setting Up
+
+1 - Create
+Create or open a C# program in Visual Studio.  The example uses the Console Application template. 
+- ;
+
+2 -  Right click on your program in Solution Explorer.
+Right click on your program in Solution Explorer.
+
+3 -  Click Add Reference...
+Click Add Reference...
+
+4 -  Under .NET, select System.Data.Linq
+
+Under .NET, select System.Data.Linq
+
+5 -  Click OK
+
+Click OK
+
+6 -  Add the following lines to the top of the source code:
+Add the following lines to the top of the source code:
+- 
+- using System.Linq;
+- using System.Data.Linq;
+- using System.Data.Linq.Mapping;
+- 
+- Note: Visual Studio may have already added the line for System.Linq.
+
+7 -  Create a new DataContext class by entering this code, replacing login_string with your actual login string:
+Create a new DataContext class by entering this code, replacing login_string with your actual login string:
+- class MyDatabase : DataContext
+- {
+- 	private const String LoginString = "login_string";
+- 	public MyDatabase() : base(LoginString)
+- 	{
+- 	}
+- }
+
+8 -  Add this line to your Main method to create a new instance of the MyDatabase class:
+Add this line to your Main method to create a new instance of the MyDatabase class:
+- 
+- MyDatabase db = new MyDatabase();
+- 
+- The DataContext instance acts as your connection to SQL Server.
+

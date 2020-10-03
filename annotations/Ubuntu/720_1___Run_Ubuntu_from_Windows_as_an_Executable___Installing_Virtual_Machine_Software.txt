@@ -1,0 +1,38 @@
+Run Ubuntu from Windows as an Executable
+https://www.wikihow.com/Run-Ubuntu-from-Windows-as-an-Executable
+
+0 - Installing Virtual Machine Software
+
+1 - Determine the CPU type of your computer.
+Determine the CPU type of your computer. You will need to set up a virtual machine and download the ubuntu operating system that works best with your hardware. On your Windows host computer, going to your Control Panel then viewing your system information will show you this information. It will show either x86 (32-bit) or x64 (64-bit).
+- On Windows 7 and other previous versions you can click on “Start”, click on “Control Panel” then click on “System.”
+- If You are running Windows 8, right click on the Windows icon, click “Control Panel” to open the Control Panel. In the top right corner, search for “System.” You should see an option that says “System” in green text that appears bigger than the other options on screen.
+- You can get to the Control Panel through the file explorer by holding ⊞ Win and pressing the E key simultaneously. In the left column click on “This PC” or “My Computer” then in the ribbon at the top of the window will show an option that says “Open Control Panel” to open the control panel. In the top right corner, search for “System.” You should see an option that says “System” in green text that appears bigger than the other options on screen.
+- ;
+
+2 - Download the Ubuntu operating system.
+Download the Ubuntu operating system. You can use your web browser to navigate to the official Ubuntu website. Be sure to download an operating system that is optimized for your x86 or x64 CPU. You will receive a file that will be in a disk image format also known as an ISO file.[1]
+- X
+- Research source
+
+3 - Download and install virtual machine software.
+Download and install virtual machine software. You can make use of software such as Oracle VirtualBox or VMWare Workstation Player. You are able to download the software for free so long as it is for personal use.[2]
+- X
+- Research source
+
+4 - Create a virtual machine.
+Create a virtual machine. Open your virtual machine software. Depending on which program you are using will require different steps.
+- In Oracle VirtualBox, you can create a virtual machine by clicking on the “Machine” menu at the top of the window, clicking the “New” icon at the top of the window or hold Ctrl and N at the same time
+- In VMWare Workstation Player, click on the “Home” option in the left column of the window, then click on “Create a New Virtual Machine” on the right hand side.
+
+5 - Choose the Ubuntu operating system for your virtual machine.
+Choose the Ubuntu operating system for your virtual machine. You will receive several prompts to configure your virtual machine.
+- In Oracle VirtualBox, provide a name for your virtual machine. You will see two drop down options for the operating system. Specify the operating system type as “Linux” and change the version to be “Ubuntu.” There will be 32-bit and 64-bit operating system types.
+- In VMWare Workstation Player, you can choose to locate the ISO or CD containing the Ubuntu installation which will auto detect your operating system and CPU type, then click on Next. You will need to provide information for your account on the system by providing your full name, your user name and a password then click on “Next.” You will need to provide a name for your Ubuntu machine and provide a location on where to save your machine.
+
+6 - Allocate system resources to your virtual machine.
+Allocate system resources to your virtual machine. You will need to specify the amount of memory (RAM) and hard disk space for your virtual machine and click "Next" to continue to the next prompt. Your virtual machine will be created onto the list of virtual machines in your manager window.
+- VMWare Workstation Player will provide the recommended settings for RAM, but you can change this once you receive a prompt that shows the specifications of your virtual machine after you provide the option to allocate hard disk space. Click on “Customize Hardware” then click on memory from the left hand column. You will be able to adjust the slider located on the right hand column to allocate the amount of RAM for your virtual machine.
+- Your virtual machine will need resources allocated from your actual hardware. Be sure to leave enough resources for your host machine.
+- Provide over 6.7GB of disk space for your installation as Ubuntu requires this for installation.
+

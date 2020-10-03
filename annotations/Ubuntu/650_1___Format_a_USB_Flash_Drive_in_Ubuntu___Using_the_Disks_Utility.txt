@@ -1,0 +1,34 @@
+Format a USB Flash Drive in Ubuntu
+https://www.wikihow.com/Format-a-USB-Flash-Drive-in-Ubuntu
+
+0 - Using the Disks Utility
+
+1 - Click the Dash button and search for "disks."
+Click the Dash button and search for "disks." You'll see Disks appear in the Applications results.
+- ;
+
+2 - Launch Disks from the search results.
+Launch Disks from the search results. A list of connected devices will appear in the left frame.
+
+3 - Select your USB drive from the list of devices.
+Select your USB drive from the list of devices. Its details will appear in the right frame.
+
+4 - Select at least one volume on the USB drive.
+Select at least one volume on the USB drive. Most USB drives will only have one volume, but if yours has multiple volumes you can select one or all of them.
+
+5 - Click the Gear button underneath the Volumes and select "Format."
+Click the Gear button underneath the Volumes and select "Format." This will open the formatting options.
+
+6 - Select what you want to erase.
+Select what you want to erase. A Quick format will not erase any data on the drive. A Slow format will erase all of the data and check for errors on the drive.
+
+7 - Select the file system.
+Select the file system. There are several different file systems that you can choose from.
+- For maximum compatibility with other devices, select "FAT" (FAT32). This will work on all computers and virtually any other device that works with USB drives.
+- If you're just planning on using the drive with Linux, select "ext3." This will allow you to use Linux's advanced file permissions.
+
+8 - Format the drive.
+Format the drive. Click the Format button and wait for the USB drive to be formatted. This may take a while for larger drives, and erasing all of the data will add to the time it takes.[1]
+- X
+- Research source
+

@@ -1,0 +1,27 @@
+Get Your Windows 10 Start Menu Back
+https://www.wikihow.com/Get-Your-Windows-10-Start-Menu-Back
+
+0 - Checking and Repairing Corrupt Windows Files
+
+1 - See if you have any right click options at the Start Menu location.
+See if you have any right click options at the Start Menu location. If you do, select Task Manager.
+- If you can't get to it that way, do the '3 Finger Salute' (Ctrl+Alt+Delete). That will bring up several options, one of which is the Task Manager.
+- ;
+
+2 - In Task Manager, go to File and then Run new task.
+In Task Manager, go to File and then Run new task.
+
+3 - Type in 'powershell' and make sure that 'Create this task with administrative privileges.
+Type in 'powershell' and make sure that 'Create this task with administrative privileges.' is marked.
+- This is what you will be seeing.
+
+4 - Run the System File Checker.
+Run the System File Checker. Type in (or paste)  'sfc /scannow'  after the C:/ prompt.
+- It will run. Depending on your computer, it could be fairly quick or take a little while.
+
+5 - Check out the results.
+Check out the results. It may correct the problem there. Read what the screens says. Perhaps, even take a screenshot of it.
+
+6 - Restart and see if you have the Start Menu back.
+Restart and see if you have the Start Menu back.
+

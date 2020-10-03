@@ -1,0 +1,16 @@
+T1	Software-OS-Related 338 343	start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 367 375	settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 398 404	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 477 484	Display
+A4	isOpened T4 f->t
+T5	Software-OS-Related 557 577	Night light settings
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1554 1558	➕Add
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1572 1583	Night light
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	
+T8	Software-OS-Related 1055 1064	Set hours

@@ -1,0 +1,20 @@
+T1	Software-OS-Related 668 673	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 686 697	Power  icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 709 718	Shut Down
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1206 1210	BIOS
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1408 1418	Boot Order
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1936 1950	Removable Disk
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 2329 2342	Save and Exit
+A7	isOpened T7 t->f
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T6 Arg2:T4	
+R3	SubPart Arg1:T7 Arg2:T4	
+R4	SubPart Arg1:T3 Arg2:T1	
+T8	Software-OS-Related 920 936	on your computer
+A8	isOpened T8 f->t

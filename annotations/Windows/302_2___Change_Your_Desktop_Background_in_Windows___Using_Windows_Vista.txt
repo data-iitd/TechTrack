@@ -1,0 +1,25 @@
+Change Your Desktop Background in Windows
+https://www.wikihow.com/Change-Your-Desktop-Background-in-Windows
+
+0 - Using Windows Vista
+
+1 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. Doing so will prompt a drop-down menu.
+
+2 - Click Personalize.
+Click Personalize. This option is at the bottom of the drop-down menu.
+
+3 - Click "Desktop Background".
+Click "Desktop Background". It's the second link from the top of this window.
+
+4 - Click a picture.
+Click a picture. Doing so will select it as your desktop background.
+- You can also click the Windows Wallpapers box near the top of the window to pick a different pictures folder (e.g., "Pictures").
+- If you want to look for a specific picture, click Browse.
+
+5 - Click a picture positioning option.
+Click a picture positioning option. This section is beneath the "How should the picture be positioned?" heading. Your options (from left to right) include a full-screen version of the picture, a grid comprised of your photo, and a centered version of the picture.
+
+6 - Click OK.
+Click OK. It's at the bottom of the window. Doing so will apply your selected picture to the desktop background.
+

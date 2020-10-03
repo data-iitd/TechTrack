@@ -1,0 +1,14 @@
+T1	Software-OS-Related 182 183	<
+T2	Software-OS-Related 188 189	>
+T3	Software-OS-Related 361 372	Sort button
+T4	Software-OS-Related 580 590	Eye button
+T5	Software-OS-Related 730 742	share button
+T6	Software-OS-Related 1252 1255	Tag
+A1	isSettingsChanged T1 true
+A2	isSettingsChanged T2 true
+A3	isOpened T3 f->t
+A4	isOpened T4 f->t
+A5	isOpened T5 f->t
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1411 1412	X
+A7	isOpened T7 t->f

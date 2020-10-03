@@ -1,0 +1,58 @@
+Compile the Linux Kernel
+https://www.wikihow.com/Compile-the-Linux-Kernel
+
+0 - Steps
+
+1 - Download the latest version of the Linux kernel.
+Download the latest version of the Linux kernel. You can download it here.
+- ;
+
+2 - Be sure to download the full source.
+Be sure to download the full source. You can assure this by clicking on the "F" where it says "The latest stable version is..." Otherwise, you'll just download the patch, which is used when your current kernel is a patch number lower. An example of this would be 3.4.4.1>>3.4.4.2
+
+3 - Make sure you have downloaded the complete source code.
+Make sure you have downloaded the complete source code. Make sure it is not a patch or change log.
+
+4 - Open a terminal.
+Open a terminal.
+
+5 - Extract the kernel.
+Extract the kernel. Use these commands.
+- tar xjvf kernel (Here -j option is for bz2 compression)
+
+6 - Move into the directory (in the terminal) that was created.
+Move into the directory (in the terminal) that was created.
+
+7 - Configure the kernel.
+Configure the kernel. There are 4 common ways to do this.
+- Make old configuration -- asks you questions on what the kernel should support one by one, very time consuming.
+- Make menuconfig -- creates a menu where you can browse options on what the kernel supports. Requires curses library, but that is likely already on your computer.
+- Make qconfig/xconfig/gconfig -- same as menuconfig, except that now the configuration menu is graphics based."qconfig" Requires the QT library.
+- Use configuration of current kernel. Run this from your kernel source folder "cp /boot/config-`uname -r` .config". This saves a lot of time, but you may want to change version number of the to be compiled kernel to avoid replacing your current kernel. "General setup" -->  "Local version - append to kernel release". Example if the kernel version number is 3.13.0, you can example write there 3.13.0.RC1.
+
+8 - Install the drivers.
+Install the drivers. Once the configuration window is opened, you will see that a specific type of configuration is already selected like support for essential drivers like Broadcom wireless support/EXT4 filesystem etc. Further, you may customize the options like adding support for your specific type of device/controller/driver like you may add support for NTFS file system from "Filesystem >> DOS/FAT/NT/ >> select NTFS file system support, thereby taking full advantage of custom kernel.
+- NOTE: While configuring the kernel, you will see a section known as kernel hacking(by hacking we mean exploring into it), where different types of options are given for hacking into kernel and learning it. If you want to use it then you may add further options, otherwise you may disable the option "kernel debugging", as it makes the kernel a lot heavier and and may be improper to use in the production environment.
+
+9 - Compile and install the kernel.
+Compile and install the kernel. You can run needed commands in one line by separating them with double ampersands (&&) as written below. This may take a long time.
+- make && make modules_install && make install
+- You may want to use -j option with make. This allows to fork additional processes for compiling kernel, syntax would be "make -j 3". 3 here represents the number of processes to be created.
+
+10 - Make the kernel bootable.
+Make the kernel bootable.
+
+11 - Go to boot.
+Go to boot.
+
+12 - Run the following command.
+Run the following command. Remember to replace <kernelverison> with the version number of the kernel you build.
+- "mkinitrd -o initrd.img-<kernelversion><kernelversion>"
+- For Redhat based distros, you need not create initrd, as it is created by default
+
+13 - Point the boot loader at the new kernel.
+Point the boot loader at the new kernel. So it can be started. Use the tool that came with your distro to configure your bootloader. Add a new entry for the new kernel.
+
+14 - Reboot.
+Reboot.
+

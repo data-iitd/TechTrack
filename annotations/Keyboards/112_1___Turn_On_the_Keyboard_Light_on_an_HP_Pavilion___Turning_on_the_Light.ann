@@ -1,0 +1,16 @@
+T1	Hardware-Other 160 168	computer
+T2	Hardware-Other 178 185	charger
+T3	Hardware-Devices 256 264	keyboard
+T5	Hardware-Devices 591 599	keyboard
+T4	Hardware-Other 458 473	"Backlight" key
+T6	Hardware-Other 690 705	"Backlight" key
+T7	Hardware-Other 506 521	"Backlight" key
+T11	Hardware-Devices 1224 1232	keyboard
+T12	Hardware-Other 1118 1120	Fn
+T13	Hardware-Other 1363 1371	computer
+T16	Hardware-Other 1815 1832	computer's manual
+T10	Hardware-Other 1088 1103	"Backlight" key
+T8	Hardware-Devices 767 786	computer's keyboard
+T9	Hardware-Other 1597 1615	keyboard backlight
+T14	Hardware-Other 1579 1590	HP Pavilion
+A1	isPowered T3 start-T

@@ -1,0 +1,58 @@
+Bind a Razer Keyboard
+https://www.wikihow.com/Bind-a-Razer-Keyboard
+
+0 - Creating the key bind
+
+1 - Install and open the Razer Synapse program that came with your keyboard.
+Install and open the Razer Synapse program that came with your keyboard. The program may by installed using the disk or may be installed online.
+- Insert the disc and click install.
+- If you didn't receive a disk, the program can installed at https://www.razerzone.com/downloads
+- 
+- ;
+
+2 - Create an account.
+Create an account. An account is needed to save all changes and macros created. 
+- New users can click 'CREATE ACCOUNT'.
+- Past users may proceed by clicking 'LOGIN'.
+
+3 - Select the correct Razer device.
+Select the correct Razer device. At the bottom left hand corner, select the Razer device that you would like to make changes to.
+- The device image will become highlighted to indicate it has been selected.
+
+4 - Click on the 'MACROS'.
+Click on the 'MACROS'. The 'MACROS' button can be found in the top header between 'KEYBOARD' and 'STATS'. 
+- Click '+' to add a new macro.
+- Enter the desired name of the macro being created.
+
+5 - Choose the delay desired between keystrokes.
+Choose the delay desired between keystrokes. There are three different options that may be chosen based on the user's desire. 
+- Choosing 'RECORD DELAY' records the delay when recording keystrokes.
+- Choosing 'DEFAULT DELAY' allows one to set delays between keystrokes.
+- Choosing 'NO DELAY' will remove all delays between keystrokes.
+
+6 - Click 'Record'.
+Click 'Record'. Once when the user clicks record, the recording begins immediately. 
+- Type what you desire to bind to the keyboard.
+- The keystrokes will be recorded in order.
+- Click 'stop' to finish recording.
+
+7 - Select the 'KEYBOARD' menu header.
+Select the 'KEYBOARD' menu header. It can be located on the top header on the left hand side. 
+- Click on the 'CUSTOMIZE' menu sub-header to get to the customization page.
+
+8 - Select the key(s) that you desire to be used for the macro.
+Select the key(s) that you desire to be used for the macro. Any key(s) on the keyboard may be selected to key bind. 
+- To select the key that you would like to bind, click on any of the keys on the keyboard image using your mouse.
+- Select more than one key to bind by holding down the left mouse button and highlighting over the keys.
+
+9 - Click the drop down menu under 'KEY ASSIGNMENT'.
+Click the drop down menu under 'KEY ASSIGNMENT'. The key must be set to a macro. 
+- Scroll until you find the option 'MACRO' and click on it.
+- Change 'assign macro' to the macro that was created and named.
+- Be sure to click 'SAVE' in order to assign the macro.
+
+10 - Select the playback option.
+Select the playback option. This will allow the user to set the macro key to the desired amount of playback per keystroke. 
+- Select 'play once' option will play the keystroke binding only once.
+- Only select 'play multiple times' if you would like the keystroke binding to play more than once with only one click.
+

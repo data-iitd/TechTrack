@@ -1,0 +1,33 @@
+Change a Guest Account to an Administrator in Windows
+https://www.wikihow.com/Change-a-Guest-Account-to-an-Administrator-in-Windows
+
+0 - Making a Guest Account an Administrator
+
+1 - Sign into your computer with an Administrator account.
+Sign into your computer with an Administrator account. The first account created on a computer is the Administrator by default.
+- You cannot make changes to User Account Controls without administrator privileges.
+
+2 - Press ⊞ Win+X and select “Control Panel” from the menu that appears.
+Press ⊞ Win+X and select “Control Panel” from the menu that appears. The Control Panel contains various settings for your computer.
+- Windows XP, Vista, and 7 users can press ⊞ Win and select “Control Panel” from the start menu.
+
+3 - Click “Change Account Type”.
+Click “Change Account Type”. This button will appear under the “User Account and Family Safety” button and will take you to a list of your computer’s accounts.
+- If prompted to verify the action by User Account Control (UAC), click "Continue."
+
+4 - Click the Guest Account.
+Click the Guest Account. This will take you to the account details page.
+
+5 - Click “Change the Account Type”.
+Click “Change the Account Type”. This button is listed under the “Make Changes to the Account” header and will take you to a list of account types.
+
+6 - Select the “Administrator” account type.
+Select the “Administrator” account type.
+
+7 - Press “Change Account Type”.
+Press “Change Account Type”. This button is the lower right of the window and will set the Guest account as an administrator.[4]
+- X
+- Research source
+- 
+- Administrator status grants this account full access to the software and files on the computer.
+

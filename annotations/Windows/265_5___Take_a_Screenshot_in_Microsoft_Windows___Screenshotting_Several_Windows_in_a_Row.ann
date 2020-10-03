@@ -1,0 +1,27 @@
+T5	Software-OS-Related 679 684	Start
+A4	isOpened T5 f->t
+T6	Software-OS-Related 711 723	Windows logo
+A5	isOpened T6 f->t
+T7	Software-OS-Related 810 821	Run program
+A6	isOpened T7 f->t
+T9	Software-OS-Related 1069 1079	Run window
+T10	Hardware-Devices 1147 1153	screen
+T11	Software-OS-Related 1169 1181	Start Record
+T12	Software-OS-Related 1230 1237	toolbar
+T13	Software-OS-Related 1261 1275	Steps Recorder
+A11	isOpened T13 f->t
+T17	Software-OS-Related 1714 1725	Stop Record
+T24	Software-OS-Related 2136 2142	window
+A21	isOpened T24 start-T
+T25	Software-OS-Related 2247 2256	HTML file
+A22	isOpened T25 start-T
+T1	Software-OS-Related 938 946	open PSR
+A1	isOpened T1 f->t
+T8	Software-OS-Related 2055 2065	ZIP folder
+A3	isOpened T8 f->t
+T16	Software-OS-Related 2200 2204	Save
+A7	isSettingsChanged T16 true
+A8	isSettingsChanged T11 true
+A9	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T13	
+R2	SubPart Arg1:T11 Arg2:T13	

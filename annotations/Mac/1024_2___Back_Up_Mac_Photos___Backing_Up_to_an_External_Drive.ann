@@ -1,0 +1,18 @@
+T1	Software-OS-Related 152 162	Photos app
+A1	isOpened T1 f->t
+T2	Hardware-Devices 171 174	Mac
+A2	isPowered T2 start-T
+T3	Software-OS-Related 346 356	Photos tab
+A3	isOpened T3 f->t
+T4	Software-OS-Related 530 541	Preferences
+A4	isOpened T4 f->t
+T5	Software-OS-Related 693 706	Finder button
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 939 953	Photos Library
+T7	Hardware-Devices 1432 1446	external drive
+A7	isConnected T7 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T5 Arg2:T4	
+A8	isOpened T5 f->t
+A6	isSettingsChanged T6 true
+R3	SubPart Arg1:T6 Arg2:T5	

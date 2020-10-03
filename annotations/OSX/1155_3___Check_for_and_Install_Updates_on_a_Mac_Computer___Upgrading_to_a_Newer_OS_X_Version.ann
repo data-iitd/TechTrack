@@ -1,0 +1,15 @@
+T1	Software-OS-Related 178 187	App Store
+A1	isOpened T1 f->t
+T2	Software-OS-Related 429 438	App Store
+T3	Software-OS-Related 465 469	OS X
+T4	Software-OS-Related 244 248	OS X
+T5	Software-OS-Related 584 592	Featured
+T6	Software-OS-Related 691 702	Quick Links
+T7	Software-OS-Related 908 916	Download
+T8	Software-OS-Related 1303 1320	Install OS X Name
+A2	isOpened T8 f->t
+T9	Software-OS-Related 1338 1350	Applications
+T10	Software-OS-Related 2113 2116	Mac
+T11	Software-OS-Related 2122 2128	reboot
+T12	Software-OS-Related 1649 1656	upgrade
+T13	Software-OS-Related 1637 1644	install

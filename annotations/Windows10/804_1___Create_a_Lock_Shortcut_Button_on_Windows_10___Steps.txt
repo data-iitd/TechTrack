@@ -1,0 +1,20 @@
+Create a Lock Shortcut Button on Windows 10
+https://www.wikihow.com/Create-a-Lock-Shortcut-Button-on-Windows-10
+
+0 - Steps
+
+1 - Log into your user account where you'd like to add the button.
+Log into your user account where you'd like to add the button.;
+
+2 - Right-click the desktop and click New.
+Right-click the desktop and click New. Select Shortcut, which should be near the top of the drop-down list.
+
+3 - Type the shortcut of the address into the box.
+Type the shortcut of the address into the box. Write %windir%\System32\rundll32.exe user32.dll,LockWorkStation. Then click the Next button to proceed.
+
+4 - Type a title for the shortcut button then click the Finish button to close out of and create the button.
+Type a title for the shortcut button then click the Finish button to close out of and create the button. You might just write "Lock," but you can use whatever you'd like.
+
+5 - Test the button.
+Test the button. Find it on your desktop and click it. It should work.
+

@@ -1,0 +1,9 @@
+T1	Software-Other 174 181	browser
+A1	isOpened T1 f->t
+T2	Software-Other 207 217	mojang.com
+T3	Software-OS-Related 1890 1909	Microsoft App Store
+A2	isOpened T3 f->t
+T4	Software-OS-Related 2044 2054	Start Menu
+A3	isOpened T4 f->t
+T5	Software-Other 2483 2491	download
+T6	Software-Other 3162 3166	Open

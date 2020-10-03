@@ -1,0 +1,26 @@
+Use Print Friendly
+https://www.wikihow.com/Use-Print-Friendly
+
+0 - Steps
+
+1 - Copy the URL of the page you wish to print.
+Copy the URL of the page you wish to print. To do this, highlight the URL, then select Edit->Copy from your browser bar (the keyboard shortcut for this is CNTRL+C on a PC and CMD+C on a Mac)
+- ;
+
+2 - Go to printfriendly.com.
+Go to printfriendly.com. Paste the URL of the page you wish to print into the space provided by clicking Edit->Paste or holding down CNTRL+V (PC)/CMD+V (Mac) on your keyboard.
+
+3 - Click "print preview".
+Click "print preview". You may have to wait a bit for the page to generate.
+
+4 - Customize the page to be printed.
+Customize the page to be printed.
+- Decide if you want to keep the images. If the pictures add to the page you want to print, you'll probably want to keep them. However, if you don't feel that they are necessary, you can choose not to include them in the printout by checking the box in the upper right corner.
+- 
+- 
+- Remove any unneeded sections. To do this, roll your cursor over the section of the page that you wish to delete. Once it is highlighted, click on the section to delete it.
+- Note that you can undo your previous actions at anytime by clicking the "undo" button next to the "remove images" box.
+
+5 - Choose whether you want a PDF or hard copy of your page.
+Choose whether you want a PDF or hard copy of your page. A PDF will be saved on your computer, whereas a hard copy will be sent to your printer. You may also choose to email a link of the Print Friendly version of the document to your friends.
+

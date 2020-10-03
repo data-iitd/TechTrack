@@ -1,0 +1,17 @@
+T1	Hardware-Other 118 125	buttons
+T2	Hardware-Devices 217 228	controllers
+A1	isPowered T2 start-T
+T3	Hardware-Other 520 526	button
+T4	Hardware-Devices 580 591	controllers
+T5	Hardware-Other 497 501	keys
+T6	Hardware-Other 766 779	analog sticks
+T7	Hardware-Devices 880 891	controllers
+T8	Hardware-Other 948 955	buttons
+T9	Hardware-Other 1066 1073	buttons
+T10	Hardware-Devices 1168 1179	controllers
+T11	Hardware-Other 1044 1064	Bumper” and “Trigger
+T12	Hardware-Other 1294 1306	motion-sense
+T13	Hardware-Devices 1372 1384	base station
+T14	Hardware-Devices 1458 1468	controller
+T15	Hardware-Devices 82 87	Hydra
+*	Equiv T2 T15

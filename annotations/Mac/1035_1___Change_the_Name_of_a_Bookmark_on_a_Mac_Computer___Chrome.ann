@@ -1,0 +1,11 @@
+T1	Software-Other 128 134	Chrome
+A1	isOpened T1 f->t
+T2	Software-Other 222 230	bookmark
+A2	isSettingsChanged T2 true
+T3	Software-Other 320 324	Edit
+A3	isSettingsChanged T3 true
+A4	isOpened T3 f->t
+T4	Software-Other 693 697	Save
+A5	isSettingsChanged T4 true
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T2	

@@ -1,0 +1,46 @@
+Install an Operating System on a Brand New Computer
+https://www.wikihow.com/Install-an-Operating-System-on-a-Brand-New-Computer
+
+0 - On Windows
+
+1 - Insert the installation disk or flash drive.
+Insert the installation disk or flash drive. To install a new operating system on Windows, you must have the operating system's install tool on a DVD or flash drive, and the disk or flash drive must be inserted into your computer. If you don't have a version of the operating system you want to download, you can download one for the following operating systems:
+- Windows 10
+- Windows 8
+- Windows 7
+- ;
+
+2 - Restart your computer.
+Restart your computer. Press and hold your computer's Power button to turn it off, wait for a few seconds, and then press the Power button again to turn the computer back on.
+
+3 - Wait for the computer's first startup screen to appear.
+Wait for the computer's first startup screen to appear. Once the startup screen appears, you'll have a very limited window in which you can press the setup key.
+- It's best to start pressing the setup key as soon as the computer begins to restart.
+
+4 - Press and hold Del or F2 to enter the BIOS page.
+Press and hold Del or F2 to enter the BIOS page. The key you're prompted to press might also be different; if so, use that key instead. This will load your computer's BIOS page, from which point you can select your installation disk or drive.
+- You'll typically use the "F" keys to access the BIOS. These are at the top of your keyboard, though you may have to locate and hold the Fn key while pressing the proper "F" key.
+- You can look at your computer model's manual or online support page to confirm your computer's BIOS key.
+
+5 - Locate the "Boot Order" section.
+Locate the "Boot Order" section. This section is normally on the main page of the BIOS, though you may need to use the arrow keys to navigate over to the "Boot" or "Advanced" tab.
+- The "Boot Order" section varies from BIOS to BIOS. If you can't find your BIOS' "Boot Order" page, consult your motherboard's manual or look up your computer model online to find direct instruction for your specific BIOS page.
+
+6 - Select the location from which you want to start your computer.
+Select the location from which you want to start your computer. In this case, you'll be starting your computer either from the disk drive or from an external drive, such as a flash drive.
+- The disk drive option is usually labeled CD-ROM Drive, while external drives will show up as Removable Devices.
+
+7 - Move your selected location to the top of the list.
+Move your selected location to the top of the list. Typically, you'll press the + key with the boot location you want to use selected until it's at the top of the "Boot Order" list.
+- You can double-check the key that you're supposed to use in the legend that's usually on the right side or the bottom of the BIOS page.
+
+8 - Save your settings and exit the BIOS.
+Save your settings and exit the BIOS. There should be a "Save and Exit" key listed in the BIOS' key legend; press the key listed there to save your settings and exit the BIOS.
+- You may have to confirm this decision by pressing ↵ Enter with Yes selected.
+
+9 - Restart your computer.
+Restart your computer. Once your computer begins to start up again, it will select your disk or flash drive as the boot location, which means that it will begin installing the operating system.
+
+10 - Follow the on-screen prompts.
+Follow the on-screen prompts. Each operating system will have different steps to take when installing it, so just follow the on-screen directions to complete the installation.
+

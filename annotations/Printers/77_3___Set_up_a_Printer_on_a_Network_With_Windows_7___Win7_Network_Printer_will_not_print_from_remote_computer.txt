@@ -1,0 +1,46 @@
+Set up a Printer on a Network With Windows 7
+https://www.wikihow.com/Set-up-a-Printer-on-a-Network-With-Windows-7
+
+0 - Win7 Network Printer will not print from remote computer
+
+1 - On the host computer, make sure printer sharing has been turned on.
+On the host computer, make sure printer sharing has been turned on.
+
+2 - Move to the remote computer.
+Move to the remote computer.
+- Control Panel > Devices & Printers
+
+3 - If a printer icon exists, right click and select "Remove Device"
+
+If a printer icon exists, right click and select "Remove Device"
+
+4 - At the top, click "Add Printer"
+
+At the top, click "Add Printer"
+
+5 - Select "Add a network printer"
+
+Select "Add a network printer"
+
+6 - If no printers appear or none are listed:
+If no printers appear or none are listed:
+
+7 - Click "The printer that I want isn't listed"
+
+Click "The printer that I want isn't listed"
+
+8 - Pick "Select a shared printer by name"
+
+Pick "Select a shared printer by name"
+- Example: \\IP-35_64BIT-PC\HP LaserJet 6P > Next
+
+9 - If you don't know the exact printer name & path, print a test page from the host computer.
+If you don't know the exact printer name & path, print a test page from the host computer.
+
+10 - It will be listed next to "Computer Name"
+
+It will be listed next to "Computer Name"
+
+11 - In the final dialog box, select "Print test page" if desired.
+In the final dialog box, select "Print test page" if desired.
+

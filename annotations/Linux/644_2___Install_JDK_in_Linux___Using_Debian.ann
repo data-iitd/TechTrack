@@ -1,0 +1,16 @@
+T1	Software-OS-Related 125 133	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 272 276	su -
+T3	Software-OS-Related 343 368	Linux Uprising repository
+T4	Software-OS-Related 426 499	echo "deb http://ppa.launchpad.net/linuxuprising/java/ubuntu bionic main"
+T5	Software-OS-Related 528 602	apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 73C3DB2A
+T6	Software-OS-Related 634 648	apt-get update
+T7	Software-OS-Related 720 759	apt-get install oracle-java12-installer
+T8	Software-OS-Related 856 860	exit
+T9	Software-Other 910 913	JDK
+A2	isInstalled T9 f->t
+T10	Software-OS-Related 944 986	sudo apt install oracle-java12-set-default
+A3	isSettingsChanged T10 true
+T11	Software-Other 1084 1091	Java 12
+T12	Software-Other 1099 1119	default Java version
+T13	Software-OS-Related 1166 1180	java --version

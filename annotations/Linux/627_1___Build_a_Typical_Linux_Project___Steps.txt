@@ -1,0 +1,33 @@
+Build a Typical Linux Project
+https://www.wikihow.com/Build-a-Typical-Linux-Project
+
+0 - Steps
+
+1 - If the project has no explicit releases, you may need to pull the source code directly from its CVS or SVN repository.
+If the project has no explicit releases, you may need to pull the source code directly from its CVS or SVN repository. The websites of most such projects will have the corresponding command line which you only need to copy-paste to your system, for instance cvs -z3 -d:pserver:anonymous@cvs.savannah.gnu.org:/sources/classpath co classpath. The similar command usually downloads a large number of project files in a current folder.
+- ;
+
+2 - Look into the files README and INSTALL that should be at the top folder in the downloaded project.
+Look into the files README and INSTALL that should be at the top folder in the downloaded project. They may contain valuable information that will save you a lot of time.
+
+3 - Some projects provide the build script as a shell script (usually named build.sh).
+Some projects provide the build script as a shell script (usually named build.sh). This is not very frequent, but happens for very old projects and also for new projects that try to provide a "user friendly" build procedure. If you find such file, try to use it first (the installation may be placed in a separate script that is usually named install.sh). If you find these scripts, just run them. Otherwise, proceed to the following steps.
+
+4 - Search for the file called configure which also must be present in a project top folder.
+Search for the file called configure which also must be present in a project top folder. It is usually a .sh script that will tune the project build system to your machine. If you find it, type ./configure or sh configure to run this script. ./configure usually has a lot of options that may help if the "default" run fails with error messages. Run the script with the key --help to see the options. If there is no configure script, it may be an old - style project which only uses make files, so you can proceed directly to the next step.
+
+5 - Search for the file called makefile which may be initially present or appear after you run configure.
+Search for the file called makefile which may be initially present or appear after you run configure. If you find it, type the command make. It should find the make file in the current directory and build the project for you.
+
+6 - If there is no configure nor makefile in the project tree, it may be an ant - powered project with the build.xml file instead.
+If there is no configure nor makefile in the project tree, it may be an ant - powered project with the build.xml file instead. In this case, type ant in the project root folder. While make is more popular for C and C++ projects, ant is popular for java projects.
+
+7 - If ant doesn't work either, or the project is C or C++, try running .
+If ant doesn't work either, or the project is C or C++, try running ./autogen.sh to create the configure and makefile files. This uses Autoconf, automake and libtool to create these files.
+
+8 - After you succeeded to compile the makefile - based project, try make install to place the project files into appropriate locations (to install the project).
+After you succeeded to compile the makefile - based project, try make install to place the project files into appropriate locations (to install the project). The default locations like /usr/lib or /usr/bin are usually only root-writeable, so this step usually needs administrator rights.
+
+9 - After the installation succeeds, try to type the short project name.
+After the installation succeeds, try to type the short project name. This usually invokes the newly compiled and installed program which is now ready to use.
+

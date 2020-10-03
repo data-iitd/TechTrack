@@ -1,0 +1,39 @@
+T1	Software-Other 248 304	https://dl.google.com/android/android-sdk_r16-linux.tgz.
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 219 235	Android emulator
+A3	isInstalled T2 f->t
+T3	Software-Other 456 461	tools
+A4	isOpened T3 f->t
+T4	Software-Other 477 484	Android
+A5	isSettingsChanged T4 true
+T5	Software-Other 517 532	install package
+A6	isInstalled T5 f->t
+T6	Software-Other 551 561	select all
+A7	isSettingsChanged T6 true
+R1	SubPart Arg1:T5 Arg2:T2	
+T7	Software-Other 871 876	tools
+T8	Software-Other 899 911	manage AVD’s
+A9	isSettingsChanged T8 true
+A10	isOpened T7 f->t
+T9	Software-OS-Related 941 944	new
+A11	isOpened T9 f->t
+T10	Software-Other 1037 1047	create AVD
+A12	isOpened T10 f->t
+T11	Software-Other 1151 1153	Ok
+A13	isSettingsChanged T11 true
+T12	Software-Other 1221 1232	Android 2.3
+A14	isSettingsChanged T12 true
+T13	Software-Other 1275 1280	start
+A15	isOpened T13 f->t
+T14	Software-Other 1318 1324	launch
+A16	isOpened T14 f->t
+R2	SubPart Arg1:T4 Arg2:T2	
+R3	SubPart Arg1:T6 Arg2:T2	
+R4	SubPart Arg1:T8 Arg2:T7	
+R5	SubPart Arg1:T11 Arg2:T10	
+R6	SubPart Arg1:T12 Arg2:T10	
+T15	Software-Other 1381 1400	Search for WhatsApp
+T16	Software-Other 1779 1792	WhatsApp icon
+A17	isOpened T16 f->t
+A18	isOpened T15 f->t

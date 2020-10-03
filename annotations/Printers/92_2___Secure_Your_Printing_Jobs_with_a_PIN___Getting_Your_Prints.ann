@@ -1,0 +1,7 @@
+T1	Hardware-Other 199 208	documents
+T2	Hardware-Devices 163 170	printer
+T3	Hardware-Other 1718 1721	ink
+T4	Hardware-Other 1726 1731	paper
+T5	Software-Other 943 946	job
+A1	isOpened T5 f->t
+T6	Hardware-Devices 1567 1574	printer

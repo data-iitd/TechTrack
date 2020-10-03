@@ -1,0 +1,42 @@
+T1	Software-Other 141 147	Gboard
+A1	isInstalled T1 f->t
+T2	Software-Other 191 206	custom keyboard
+T3	Software-OS-Related 249 256	Android
+T4	Software-OS-Related 323 326	Get
+T5	Software-Other 508 514	Gboard
+A3	isOpened T5 f->t
+T6	Software-Other 528 545	Keyboard Settings
+A4	isOpened T6 f->t
+T7	Software-Other 767 775	keyboard
+T9	Software-Other 603 615	Glide Typing
+T10	Software-Other 955 972	Emoji Suggestions
+A7	isSettingsChanged T10 true
+T11	Software-Other 1169 1184	Auto-correction
+A9	isSettingsChanged T11 true
+T12	Software-Other 1454 1473	Auto-capitalization
+A11	isSettingsChanged T12 true
+T13	Software-Other 1636 1657	Block offensive words
+A13	isSettingsChanged T13 true
+T14	Software-Other 1950 1967	Character preview
+A15	isSettingsChanged T14 true
+T15	Software-Other 2088 2104	Enable caps lock
+A17	isSettingsChanged T15 true
+T16	Software-Other 2148 2156	keyboard
+T17	Software-Other 2464 2487	Show lower case letters
+A19	isSettingsChanged T17 true
+T18	Software-Other 2572 2580	keyboard
+T19	Software-Other 2797 2809	"." shortcut
+A21	isSettingsChanged T19 true
+T20	Software-Other 433 459	Gboard’s keyboard settings
+T21	Software-Other 803 818	google keyboard
+T8	Software-OS-Related 846 858	iOS settings
+A2	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T6	
+R2	SubPart Arg1:T10 Arg2:T6	
+R3	SubPart Arg1:T11 Arg2:T6	
+R4	SubPart Arg1:T12 Arg2:T6	
+R5	SubPart Arg1:T13 Arg2:T6	
+R6	SubPart Arg1:T14 Arg2:T6	
+R7	SubPart Arg1:T15 Arg2:T6	
+R8	SubPart Arg1:T17 Arg2:T6	
+R9	SubPart Arg1:T19 Arg2:T6	

@@ -1,0 +1,10 @@
+T1	Software-Other 153 169	Mac's  App Store
+A1	isOpened T1 f->t
+T2	Software-Other 412 423	High Sierra
+T3	Software-Other 522 530	Download
+A2	isOpened T3 f->t
+T4	Software-OS-Related 968 974	Finder
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1058 1077	Applications folder
+A4	isOpened T5 f->t
+T6	Software-Other 1271 1296	Install macOS High Sierra

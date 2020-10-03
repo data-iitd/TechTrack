@@ -1,0 +1,16 @@
+T1	Hardware-Other 157 163	floppy
+T2	Hardware-Other 539 568	Microsoft Windows 3.1 Disk #2
+T3	Hardware-Other 695 724	Microsoft Windows 3.1 Disk #3
+T4	Hardware-Other 1241 1270	Microsoft Windows 3.1 Disk #4
+T5	Hardware-Other 1400 1429	Microsoft Windows 3.1 Disk #5
+T6	Hardware-Other 1559 1588	Microsoft Windows 3.1 Disk #6
+T7	Hardware-Other 1731 1738	printer
+T8	Software-OS-Related 867 875	Continue
+A1	isOpened T8 f->t
+T9	Software-OS-Related 1075 1083	Continue
+A2	isOpened T9 f->t
+T10	Software-OS-Related 2512 2518	Reboot
+A3	isSettingsChanged T10 true
+T11	Software-OS-Related 2217 2229	Run tutorial
+A4	isOpened T11 f->t
+T12	Software-OS-Related 2161 2174	MS-DOS Editor

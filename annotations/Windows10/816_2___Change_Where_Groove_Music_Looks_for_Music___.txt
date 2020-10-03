@@ -1,0 +1,28 @@
+Change Where Groove Music Looks for Music
+https://www.wikihow.com/Change-Where-Groove-Music-Looks-for-Music
+
+0 - 
+
+1 - Open Groove Music.
+Open Groove Music. Tap the Windows key on your keyboard and type in “groove.” A search should automatically start, and the top result should be the Groove Music app you’re looking for. It may be listed as “Music.” Click this to continue.
+
+2 - Open Groove Music Settings menu.
+Open Groove Music Settings menu. In the new redesign of the Groove Music app, there is a new way to access the Settings. In the lower left-hand corner of the app, you should see a gear icon. Click this to open the Settings menu.
+- Once the Settings menu is open, you should see a heading near the top that says “Music on this PC.” Under this you should see two options in blue, one of which says “Choose where we look for music.”
+
+3 - Select “Choose where we look for music.
+Select “Choose where we look for music.” A small window should open that has one current location and a + icon inside a button to the left.
+
+4 - Click the + button.
+Click the + button. This will open a file browser.
+
+5 - Go to Network.
+Go to Network. Once the folder browser opens, go ahead and look under the Network heading on the left-hand side of the window.
+
+6 - Search for a folder to add from the network.
+Search for a folder to add from the network. Look for the device name and then simply begin browsing through the files the same as you would your own PC. When you are ready, select the folder you would like to add by clicking on it.
+
+7 - Add the network folder.
+Add the network folder. Click the “Add this folder to Music” button in the lower right-hand corner of the file browser window. You now have a network location that Groove Music will search for new music.
+- Please note that in order for Groove Music to search a location, that PC must be powered on and connected to the same network. The same goes for trying to play any music that may be located on any networked device.
+

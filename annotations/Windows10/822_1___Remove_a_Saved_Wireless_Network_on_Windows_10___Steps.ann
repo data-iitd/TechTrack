@@ -1,0 +1,12 @@
+T1	Software-OS-Related 147 152	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 257 270	settings gear
+A2	isOpened T2 f->t
+T3	Software-OS-Related 317 344	Network & Internet category
+A3	isOpened T3 f->t
+T4	Software-OS-Related 409 423	Wi-Fi settings
+A4	isOpened T4 f->t
+T5	Software-OS-Related 508 529	Manage known networks
+A5	isOpened T5 f->t
+T6	Software-OS-Related 902 908	Forget
+A6	isOpened T6 f->t

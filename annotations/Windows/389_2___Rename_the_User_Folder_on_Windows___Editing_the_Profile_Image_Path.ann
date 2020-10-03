@@ -1,0 +1,19 @@
+T1	Software-OS-Related 147 150	Run
+A1	isOpened T1 f->t
+T2	Software-OS-Related 499 507	Registry
+A2	isOpened T2 f->t
+T3	Software-OS-Related 572 590	HKEY_LOCAL_MACHINE
+A3	isOpened T3 f->t
+T4	Software-OS-Related 772 780	SOFTWARE
+A4	isOpened T4 f->t
+T5	Software-OS-Related 926 936	Windows NT
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1006 1020	CurrentVersion
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1094 1105	ProfileList
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1703 1719	ProfileImagePath
+A8	isOpened T8 f->t
+T9	Software-OS-Related 2204 2206	OK
+A9	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T2	

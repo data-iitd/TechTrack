@@ -1,0 +1,20 @@
+T1	Software-OS-Related 233 238	Shell
+A1	isOpened T1 f->t
+T2	Software-OS-Related 252 273	New Remote Connection
+A2	isOpened T2 f->t
+T3	Software-OS-Related 358 368	IP address
+T4	Software-OS-Related 344 354	host  name
+T5	Software-OS-Related 439 460	New Connection window
+T6	Software-OS-Related 593 600	Connect
+T7	Software-OS-Related 655 663	password
+T9	Software-OS-Related 826 827	+
+A3	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T2	
+T8	Software-OS-Related 875 884	host name
+T10	Software-OS-Related 888 898	IP address
+T11	Software-OS-Related 1035 1037	OK
+T12	Software-OS-Related 1067 1074	user ID
+T13	Software-OS-Related 1082 1086	User
+T14	Software-OS-Related 1100 1107	Connect
+A4	isSettingsChanged T14 true
+R2	SubPart Arg1:T14 Arg2:T2	

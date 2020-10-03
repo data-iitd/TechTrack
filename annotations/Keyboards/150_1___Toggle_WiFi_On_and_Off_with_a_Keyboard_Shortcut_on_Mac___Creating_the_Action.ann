@@ -1,0 +1,31 @@
+T1	Software-OS-Related 174 182	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 220 257	networksetup -listnetworkserviceorder
+T3	Software-OS-Related 370 378	Terminal
+A3	isOpened T3 t->f
+T4	Software-OS-Related 388 397	Automator
+A4	isOpened T4 f->t
+T5	Software-OS-Related 302 306	WiFi
+T6	Software-OS-Related 482 494	Quick Action
+A5	isOpened T6 f->t
+T8	Software-OS-Related 525 541	run shell script
+T9	Software-OS-Related 549 559	search bar
+T10	Software-OS-Related 763 809	Workflow receives no input in any application.
+T11	Software-OS-Related 817 821	Copy
+T12	Software-OS-Related 826 831	paste
+T13	Software-OS-Related 874 890	Run Shell Script
+T14	Software-OS-Related 907 908	X
+T15	Software-OS-Related 946 950	WiFi
+T16	Software-OS-Related 1141 1267	networksetup -getairportpower enX | grep "On" && networksetup -setairportpower enX off || networksetup -setairportpower enX on
+T17	Software-OS-Related 1285 1288	Run
+A10	isOpened T17 f->t
+T18	Software-OS-Related 1365 1369	WiFi
+A11	isOpened T18 t->f
+A12	isOpened T5 start-T
+A2	isOpened T8 f->t
+A8	isSettingsChanged T11 true
+A9	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T16	
+A7	isSettingsChanged T18 true
+A13	isSettingsChanged T17 true
+R3	SubPart Arg1:T17 Arg2:T16	

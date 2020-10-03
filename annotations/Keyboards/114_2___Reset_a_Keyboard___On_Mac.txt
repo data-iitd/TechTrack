@@ -1,0 +1,41 @@
+Reset a Keyboard
+https://www.wikihow.com/Reset-a-Keyboard
+
+0 - On Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences.
+Click System Preferences. It's near the top of the drop-down menu.
+
+3 - Click Keyboard.
+Click Keyboard. This keyboard-shaped icon is near the bottom of the System Preferences window.
+
+4 - Click the Keyboard tab.
+Click the Keyboard tab. It's in the top-left corner of the window.
+
+5 - Click Modifier Keys….
+Click Modifier Keys…. This option is in the lower-right side of the window.
+
+6 - Click Restore Defaults and click OK.
+Click Restore Defaults and click OK. It's in the bottom-left corner of the window. Doing so will wipe any preferences for your Mac's modifier keys (e.g., ⌘ Command).
+
+7 - Click the Text tab.
+Click the Text tab. This tab is at the top of the window.
+
+8 - Select a keyboard shortcut that you want to remove.
+Select a keyboard shortcut that you want to remove. Click the keyboard shortcut on the left side of the window.
+
+9 - Click -.
+Click -. It's below the list of shortcuts. Doing so removes the shortcut.
+
+10 - Click the Shortcuts tab.
+Click the Shortcuts tab. This tab is at the top of the window.
+
+11 - Click Restore Defaults.
+Click Restore Defaults. It's in the bottom-right corner of the window. Doing so resets your text shortcuts to the default settings.
+
+12 - Restart your Mac.
+Restart your Mac. Open the Apple menu, click Restart..., and click Restart when prompted. Your Mac's keyboard should be back to normal once your Mac finishes restarting.
+

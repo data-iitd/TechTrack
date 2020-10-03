@@ -1,0 +1,15 @@
+T1	Software-Other 168 176	software
+A1	isOpened T1 f->t
+T2	Software-Other 252 272	Data Recovery Wizard
+A2	isOpened T2 f->t
+T3	Software-Other 489 493	Next
+A3	isOpened T3 f->t
+T4	Software-Other 517 530	Recuva Wizard
+T5	Software-Other 659 666	Options
+A4	isOpened T5 f->t
+T6	Software-Other 685 707	Show Wizard at Startup
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-Other 1097 1102	Start
+A5	isOpened T7 f->t
+T8	Software-Other 1188 1195	Recover
+A6	isOpened T8 f->t

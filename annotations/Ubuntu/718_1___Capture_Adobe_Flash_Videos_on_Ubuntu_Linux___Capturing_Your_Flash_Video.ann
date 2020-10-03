@@ -1,0 +1,21 @@
+T1	Software-Other 257 264	Firefox
+A1	isOpened T1 f->t
+T2	Software-Other 289 293	site
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-Other 450 484	Allow the Flash video to play/load
+A4	isSettingsChanged T3 true
+T4	Software-OS-Related 1032 1040	terminal
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1170 1207	change you into your Videos directory
+A6	isSettingsChanged T5 true
+T6	Software-OS-Related 1368 1407	execute the FlashVideoCapture.pl script
+A7	isSettingsChanged T6 true
+T7	Software-OS-Related 1853 1894	Play back your captured *.flv video files
+A8	isOpened T7 f->t
+R1	SubPart Arg1:T3 Arg2:T1	
+T8	Software-OS-Related 2255 2281	Rename the foundflash1.flv
+A9	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T4	
+R3	SubPart Arg1:T5 Arg2:T4	
+R4	SubPart Arg1:T6 Arg2:T4	

@@ -1,0 +1,21 @@
+Reset a Keyboard
+https://www.wikihow.com/Reset-a-Keyboard
+
+0 - Resetting Language Settings on Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences.
+Click System Preferences. It's in the drop-down menu.
+
+3 - Click Language & Region.
+Click Language & Region. You'll find this in the top row of the System Preferences window.
+
+4 - Select a language to remove.
+Select a language to remove. Click a language in the left-hand window.
+
+5 - Click -.
+Click -. It's below the list of languages. Clicking - will remove the language from the list.
+- The top language in this menu is the default language. You can change this by clicking and dragging a different language up to the top of the menu.
+

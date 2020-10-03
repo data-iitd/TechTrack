@@ -1,0 +1,55 @@
+T1	Hardware-Other 292 306	compressed air
+T2	Hardware-Other 324 326	PC
+T3	Hardware-Other 139 155	desktop computer
+T4	Hardware-Other 159 165	server
+T5	Software-OS-Related 172 187	router_firewall
+T6	Hardware-Other 446 448	PC
+T7	Software-OS-Related 454 458	boot
+T8	Software-OS-Related 472 476	BIOS
+T9	Software-OS-Related 518 521	USB
+T10	Software-OS-Related 564 566	CD
+T11	Software-OS-Related 730 734	boot
+T12	Software-OS-Related 740 742	CD
+T13	Software-Other 753 771	floppy boot images
+T14	Software-OS-Related 775 791	Damn Small Linux
+T15	Software-OS-Related 796 807	Puppy Linux
+T16	Hardware-Other 875 886	floppy disk
+T17	Hardware-Other 914 916	PC
+T18	Software-OS-Related 1399 1405	SliTaz
+T19	Software-OS-Related 1407 1423	Damn Small Linux
+T20	Software-OS-Related 1425 1436	Puppy Linux
+T21	Software-OS-Related 1479 1483	burn
+T22	Software-OS-Related 1492 1495	cds
+T23	Software-OS-Related 1508 1528	bootable flash drive
+T24	Hardware-Other 2014 2016	PC
+T25	Hardware-Other 2058 2061	CDs
+T26	Software-OS-Related 2120 2123	DSL
+T27	Software-OS-Related 2127 2150	Puppy Linux boot screen
+A1	isOpened T27 f->t
+T28	Hardware-Other 2511 2513	PC
+T29	Software-OS-Related 2535 2549	swap partition
+T30	Software-Other 2556 2563	gParted
+T31	Software-Other 2567 2583	Ultimate Boot CD
+T32	Software-OS-Related 2899 2903	boot
+T34	Software-OS-Related 2951 2953	CD
+T33	Software-OS-Related 2967 2970	RAM
+T35	Software-OS-Related 2989 2994	Puppy
+T36	Software-OS-Related 3157 3162	Xvesa
+T37	Software-OS-Related 3175 3192	X.org framebuffer
+A2	isSettingsChanged T36 true
+R1	SubPart Arg1:T36 Arg2:T32	
+T38	Software-OS-Related 2917 2932	boot parameters
+T39	Software-OS-Related 3314 3318	ACPI
+T40	Software-OS-Related 3322 3325	APM
+A3	isSettingsChanged T39 true
+R2	SubPart Arg1:T39 Arg2:T32	
+T41	Software-OS-Related 3412 3423	Puppy Linux
+T42	Software-OS-Related 3669 3685	Damn Small Linux
+T43	Software-OS-Related 3753 3766	Feather Linux
+T44	Hardware-Other 3958 3970	serial mouse
+T45	Software-OS-Related 4141 4168	boot parameters/cheat codes
+T46	Software-OS-Related 2884 2895	cheat codes
+T47	Hardware-Other 4316 4325	hard disk
+T48	Software-OS-Related 4471 4490	frugal installation
+A4	isSettingsChanged T48 true
+R3	SubPart Arg1:T48 Arg2:T32	

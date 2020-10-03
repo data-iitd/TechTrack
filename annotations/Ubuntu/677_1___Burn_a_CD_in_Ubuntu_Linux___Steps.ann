@@ -1,0 +1,25 @@
+T1	Software-OS-Related 272 294	Ubuntu Software centre
+A1	isOpened T1 f->t
+T2	Software-Other 412 419	Brasero
+A2	isSettingsChanged T2 true
+A3	isOpened T2 f->t
+T3	Software-Other 529 543	Install Button
+A4	isInstalled T3 f->t
+T4	Software-Other 722 729	Brasero
+A5	isOpened T4 f->t
+T5	Software-Other 885 892	Data CD
+A6	isSettingsChanged T5 true
+T6	Software-Other 921 926	files
+A7	isSettingsChanged T6 true
+T7	Software-Other 938 942	Burn
+A8	isOpened T7 f->t
+T8	Software-Other 986 994	Audio CD
+A9	isSettingsChanged T8 true
+T9	Software-Other 1110 1115	music
+A10	isSettingsChanged T9 true
+T10	Software-Other 1125 1129	Burn
+A11	isOpened T10 f->t
+R2	SubPart Arg1:T5 Arg2:T4	
+R4	SubPart Arg1:T6 Arg2:T4	
+R5	SubPart Arg1:T8 Arg2:T4	
+R1	SubPart Arg1:T9 Arg2:T4	

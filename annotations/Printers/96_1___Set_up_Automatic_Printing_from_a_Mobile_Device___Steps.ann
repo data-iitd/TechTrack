@@ -1,0 +1,18 @@
+T1	Hardware-Other 191 199	computer
+T2	Software-Other 215 245	Automatic Print Email software
+T3	Hardware-Other 2681 2694	mobile device
+T4	Hardware-Devices 2756 2763	printer
+T5	Software-Other 876 881	Gmail
+T6	Software-Other 897 904	Options
+A1	isOpened T6 f->t
+T7	Software-Other 953 966	Mail Settings
+A2	isOpened T7 f->t
+T8	Software-Other 980 987	Filters
+A3	isOpened T8 f->t
+T9	Software-Other 1011 1030	Create a new filter
+A4	isOpened T9 f->t
+T10	Software-Other 1218 1229	Test Search
+T11	Software-Other 1884 1902	Your email account
+T12	Software-Other 1944 1955	New Account
+A5	isOpened T12 f->t
+A6	isOpened T11 f->t

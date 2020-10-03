@@ -1,0 +1,57 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Removing Arrows from Shortcut Icons
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen, or press ⊞ Win.
+
+2 - Type regedit into the Start window.
+Type regedit into the Start window. This will bring up the "regedit" program at the top of the window.
+
+3 - Click regedit.
+Click regedit. It's a blue group of blocks at the top of the window.
+
+4 - Click Yes when prompted.
+Click Yes when prompted. This will open the Registry Editor.
+
+5 - Navigate to the Explorer folder.
+Navigate to the Explorer folder. To do so:
+- Expand HKEY_LOCAL_MACHINE by clicking V left of it. This folder is in the top-left side of the Registry Editor window.
+- Expand SOFTWARE.
+- Expand Microsoft.
+- Expand Windows.
+- Expand CurrentVersion.
+- Click Explorer.
+
+6 - Click Edit.
+Click Edit. It's in the top-left corner of the Registry Editor window.
+
+7 - Select New, then click Key.
+Select New, then click Key. Doing so creates a new "key", which resembles a folder, in the column of folders below the Explorer folder.
+
+8 - Type Shell Icons into the key's name, then press ↵ Enter.
+Type Shell Icons into the key's name, then press ↵ Enter. Doing so renames the key.
+- Make sure you type this name exactly as it appears here.
+
+9 - Click the Edit tab.
+Click the Edit tab. It's in the upper-left corner of the window.
+
+10 - Select New, then click String Value.
+Select New, then click String Value. This creates a new code item in the Shell Icons key.
+
+11 - Type in 29, then press ↵ Enter.
+Type in 29, then press ↵ Enter. Doing so renames your string value.
+
+12 - Double-click the 29 string value.
+Double-click the 29 string value. This opens the Edit String window.
+
+13 - Type %windir%\System32\shell32.dll,-50 into the Value data field.
+Type %windir%\System32\shell32.dll,-50 into the Value data field. This field is at the bottom of the "Edit String" window.
+
+14 - Click OK.
+Click OK. Doing so saves your edit to the registry.
+
+15 - Restart your computer.
+Restart your computer. Once your computer reboots, you should no longer see the icon arrow in the bottom-left corner of your desktop icons.
+

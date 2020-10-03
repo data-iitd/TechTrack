@@ -1,0 +1,27 @@
+Connect a Bluetooth Speaker to Windows 10
+https://www.wikihow.com/Connect-a-Bluetooth-Speaker-to-Windows-10
+
+0 - Steps
+
+1 - Turn on your Bluetooth speaker and make it discoverable.
+Turn on your Bluetooth speaker and make it discoverable. The steps to make your speaker discoverable vary by model and maker, so you’ll need to look at the speaker’s manual if you don’t know how to do this.
+- Your speaker may require it to be plugged in and on for it to be paired.
+- Your speaker may require to be close to your computer to pair.
+- ;
+
+2 - Click the speech bubble icon in your taskbar.
+Click the speech bubble icon in your taskbar. You’ll see this near the right of your screen, as long as the taskbar is still in its default position along the bottom of the screen. If you have active notifications, the icon may look more like a square with a small number over it.
+
+3 - Click the Bluetooth icon  on the Action Center.
+Click the Bluetooth icon  on the Action Center. The Action Center is the panel of tiles at the bottom of the notifications panel.The tile will turn blue to indicate Bluetooth is on.
+- You can also enable Bluetooth on your PC in the Settings. Click Devices, then Bluetooth & other devices, and then slide the "Bluetooth" switch to the On position.
+
+4 - Click Connect on the Action Center.
+Click Connect on the Action Center. This is the tile with an icon of two devices. The panel will slide away for a moment as it searches.
+
+5 - Click your speaker’s name and icon.
+Click your speaker’s name and icon. If your speaker is in pairing mode, it should show up in the panel along the right of your screen. You should now be able to play music and other audio from your computer through your speaker.
+- Your PC and speaker will connect whenever they are in range of each other and have Bluetooth turned on.[1]
+- X
+- Research source
+

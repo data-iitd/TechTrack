@@ -1,0 +1,23 @@
+Dictate in Windows 10
+https://www.wikihow.com/Dictate-in-Windows-10
+
+0 - With the Dictation Toolbar
+
+1 - Make sure you are running the latest version of Windows 10.
+Make sure you are running the latest version of Windows 10.  The dictation toolbar is not available on Windows 10 Creators Update and earlier, and in certain countries in certain languages.  In that case, you will have to use Windows Speech Recognition.
+- ;
+
+2 - Select a text field.
+Select a text field.  It is pointless to try and dictate outside of a text field, as nothing will be written.
+
+3 - Press ⊞ Win+H to start dictating.
+Press ⊞ Win+H to start dictating.  A toolbar will appear on your screen with a microphone on the left and an x on the right.  It will say "Initializing..." for a bit then will say "Listening..." when it is ready.
+
+4 - Say what you want to type.
+Say what you want to type.  For example, you can say, "The quick brown fox jumps over the lazy dog" and the dictation toolbar will place the text you said into the text field.
+- To place punctuation, say the character (such as "Period" for ".")
+
+5 - Press ⊞ Win+H again to stop dictating.
+Press ⊞ Win+H again to stop dictating.  The toolbar will stop picking up text, and you will be able to speak normally without other input getting picked up.
+- You can also say "Stop dictating" or click the X in the corner to stop dictating.
+

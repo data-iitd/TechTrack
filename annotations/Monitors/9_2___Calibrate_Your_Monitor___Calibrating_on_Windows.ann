@@ -1,0 +1,53 @@
+T1	Software-OS-Related 113 118	Start
+A1	isOpened T1 f->t
+T3	Hardware-Devices 191 197	screen
+A3	isPowered T3 start-T
+T4	Software-OS-Related 215 231	calibration tool
+A4	isOpened T4 f->t
+T5	Software-OS-Related 341 351	Start menu
+T6	Software-OS-Related 379 395	calibration tool
+T7	Hardware-Devices 503 511	monitors
+T9	Hardware-Devices 675 682	monitor
+T10	Software-OS-Related 690 711	factory-default color
+A11	isSettingsChanged T10 true
+T11	Software-OS-Related 815 819	Menu
+A12	isOpened T11 f->t
+T12	Hardware-Devices 888 894	screen
+T13	Hardware-Other 1052 1058	laptop
+T14	Hardware-Other 997 1005	computer
+T15	Software-OS-Related 1073 1077	Next
+T16	Software-OS-Related 1188 1192	Next
+T17	Software-OS-Related 1156 1166	Good gamma
+A16	isOpened T17 start-T
+T18	Software-OS-Related 1583 1593	Good gamma
+A17	isSettingsChanged T18 true
+T19	Software-OS-Related 1640 1644	Next
+T20	Software-OS-Related 1736 1751	Good brightness
+A20	isOpened T20 f->t
+T21	Software-OS-Related 1773 1777	Next
+A22	isSettingsChanged T20 true
+T22	Hardware-Other 1850 1856	laptop
+T23	Software-OS-Related 1875 1879	Skip
+T24	Software-OS-Related 2034 2048	display's menu
+A24	isOpened T24 f->t
+T25	Software-OS-Related 2066 2070	Menu
+A25	isOpened T25 f->t
+T26	Software-OS-Related 2097 2107	Brightness
+A26	isOpened T26 f->t
+T27	Software-OS-Related 2301 2305	Next
+T28	Software-OS-Related 2392 2400	Contrast
+T29	Software-OS-Related 2431 2444	Good contrast
+A28	isOpened T29 start-T
+A29	isOpened T28 f->t
+T30	Software-OS-Related 2466 2471	Next.
+T31	Hardware-Other 2548 2554	laptop
+T32	Software-OS-Related 2665 2679	display's menu
+T33	Software-OS-Related 2810 2814	Next
+T34	Software-OS-Related 2905 2918	color balance
+A33	isSettingsChanged T34 true
+T36	Software-OS-Related 3211 3231	Previous calibration
+T37	Hardware-Devices 3248 3255	monitor
+T38	Software-OS-Related 3312 3331	Current calibration
+T39	Software-OS-Related 3369 3375	Finish
+A37	isSettingsChanged T39 true
+A2	isSettingsChanged T32 true

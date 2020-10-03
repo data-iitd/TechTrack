@@ -1,0 +1,60 @@
+T1	Software-OS-Related 93 99	Backup
+T2	Hardware-Other 527 552	Windows installation disc
+T3	Software-OS-Related 644 650	format
+T4	Hardware-Other 656 661	drive
+T5	Hardware-Other 164 169	drive
+T6	Software-OS-Related 1022 1031	Windows 7
+T7	Software-OS-Related 1054 1062	ISO file
+T8	Hardware-Other 1159 1168	blank DVD
+T9	Hardware-Other 1172 1181	USB drive
+T10	Software-Other 1192 1223	Windows 7 USB/DVD Download Tool
+T11	Software-OS-Related 1256 1265	Windows 8
+T12	Software-Other 1289 1318	Windows 8 Media Creation tool
+T13	Software-OS-Related 1530 1540	Windows 10
+T14	Hardware-Other 1872 1880	computer
+T15	Software-OS-Related 1884 1888	boot
+T16	Software-OS-Related 1898 1916	installation drive
+T17	Hardware-Other 2084 2087	DVD
+T18	Hardware-Other 2091 2094	USB
+T19	Hardware-Other 2112 2122	hard drive
+T20	Software-OS-Related 2463 2472	BOOT menu
+A1	isOpened T20 f->t
+T21	Software-OS-Related 2483 2501	installation drive
+A2	isSettingsChanged T21 true
+R1	SubPart Arg1:T21 Arg2:T20	
+T22	Software-OS-Related 2274 2283	Windows 7
+T23	Software-OS-Related 2298 2304	Reboot
+T24	Software-OS-Related 2533 2554	Windows 8 (and newer)
+T25	Software-OS-Related 2567 2572	Power
+T26	Software-OS-Related 2587 2599	Start screen
+T27	Software-OS-Related 2632 2639	Restart
+T28	Software-OS-Related 2660 2676	Advanced startup
+A3	isOpened T28 f->t
+T29	Software-OS-Related 2696 2708	Troubleshoot
+A4	isOpened T29 f->t
+T30	Software-OS-Related 2727 2743	Advanced options
+A5	isOpened T30 f->t
+T31	Software-OS-Related 2753 2775	UEFI Firmware Settings
+T32	Software-OS-Related 2795 2799	BOOT
+A6	isOpened T32 f->t
+T33	Software-OS-Related 2815 2833	installation drive
+A7	isSettingsChanged T33 true
+R2	SubPart Arg1:T33 Arg2:T32	
+T34	Software-OS-Related 3026 3034	language
+T35	Software-OS-Related 3093 3099	Custom
+T36	Software-OS-Related 3171 3177	format
+T37	Software-OS-Related 3183 3193	hard drive
+A8	isOpened T35 f->t
+T38	Hardware-Other 3395 3406	hard drives
+T39	Software-OS-Related 3237 3246	partition
+T40	Hardware-Other 3480 3488	computer
+T41	Software-OS-Related 3790 3803	Drive options
+A9	isOpened T41 f->t
+T42	Software-OS-Related 3824 3830	Delete
+T43	Software-OS-Related 3996 3999	New
+T44	Software-OS-Related 4273 4279	Format
+T45	Software-OS-Related 4375 4388	Drive options
+A10	isSettingsChanged T44 true
+R3	SubPart Arg1:T44 Arg2:T45	
+T46	Software-OS-Related 4635 4651	operating system
+T47	Hardware-Other 4771 4773	PC

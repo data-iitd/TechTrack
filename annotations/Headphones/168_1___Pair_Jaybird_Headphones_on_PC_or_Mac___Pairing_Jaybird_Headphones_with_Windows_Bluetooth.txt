@@ -1,0 +1,31 @@
+Pair Jaybird Headphones on PC or Mac
+https://www.wikihow.com/Pair-Jaybird-Headphones-on-PC-or-Mac
+
+0 - Pairing Jaybird Headphones with Windows Bluetooth
+
+1 - Click the Start  button.
+Click the Start  button. This is in the bottom-left corner of the desktop screen.
+- ;
+
+2 - Select Settings in the Start menu.
+Select Settings in the Start menu. This has a gear-shaped icon and, once selected, will pull up a pop-up menu displaying different system settings, including settings for connecting devices to your PC.
+
+3 - Click Devices.
+Click Devices. This is listed in the top-center of the Settings menu and has an outline of a speaker and keyboard as the display next to its title.
+
+4 - Click Add Bluetooth or other device.
+Click Add Bluetooth or other device. This will open a new menu where your PC will scan for available Bluetooth devices.
+
+5 - Press and hold the button on your headphones for 4 seconds.
+Press and hold the button on your headphones for 4 seconds. A light in the middle will turn solid to indicate that your headphones are now in pairing mode, which is necessary for Windows to detect them via Bluetooth.
+
+6 - Select your headphones in the Bluetooth menu.
+Select your headphones in the Bluetooth menu. Once you activate pairing mode, an icon with the name of your headphones will show up in the menu listing Bluetooth devices available for connection.
+- Make sure your PC has Bluetooth enabled before putting your headphones into pairing mode. To do this, go to Settings, select Devices, and click on the Bluetooth and other devices option in the menu pane on the left side to pull up the Bluetooth switch. Toggle it to on if it isn’t already on.
+- If there isn’t any Bluetooth switch visible in the Bluetooth and other devices menu, then you may need to open the Bluetooth troubleshooter (Settings > Update & Security > Troubleshoot > Bluetooth > Run the troubleshooter) to check if your PC has Bluetooth capability. If not, then you’ll need to go to your PC manufacturer’s website and search for updated drivers that enable Bluetooth support.[1]
+- X
+- Research source
+
+7 - Click on the name of your headphones.
+Click on the name of your headphones. This will complete the connection process and, once done, the Bluetooth search menu will close and your Jaybird headphones should be paired with your PC.
+

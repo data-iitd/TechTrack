@@ -1,0 +1,23 @@
+Change User Account Name in Windows 10
+https://www.wikihow.com/Change-User-Account-Name-in-Windows-10
+
+0 - Changing Your Local Account Name
+
+1 - Open Control Panel.
+Open Control Panel. In the left bottom search box for your computer, type in control panel, and then click the Control Panel to open it.;
+
+2 - Click on Change account type under User Accounts.
+Click on Change account type under User Accounts.
+
+3 - Click on the user account you want to change.
+Click on the user account you want to change.
+
+4 - Click on Change the account name.
+Click on Change the account name.
+
+5 - Type in the new account name.
+Type in the new account name. Click on Change Name.
+
+6 - Sign out of your user account.
+Sign out of your user account. You will see your user account name has been changed on the logon screen.
+

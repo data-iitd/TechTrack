@@ -1,0 +1,31 @@
+T1	Software-Other 163 189	Microsoft Edge web browser
+A1	isOpened T1 f->t
+T2	Software-Other 453 481	https://neosmart.net/EasyBCD
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-Other 642 650	Register
+A4	isSettingsChanged T3 true
+T4	Software-Other 816 824	Download
+A5	isSettingsChanged T4 true
+T5	Software-Other 1348 1363	install EasyBCD
+T6	Software-Other 1455 1462	EasyBCD
+A7	isOpened T6 f->t
+A6	isInstalled T5 f->t
+T7	Software-OS-Related 1624 1637	Linux/BSD tab
+A8	isSettingsChanged T7 true
+T8	Software-OS-Related 1738 1742	Type
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 1846 1850	Name
+A10	isSettingsChanged T9 true
+T10	Software-OS-Related 2058 2063	Drive
+A11	isSettingsChanged T10 true
+T11	Software-OS-Related 2118 2134	Add Entry button
+A12	isSettingsChanged T11 true
+T12	Hardware-Devices 2325 2334	USB drive
+A13	isConnected T12 t->f
+T13	Hardware-Devices 2351 2353	PC
+A14	isPowered T13 f->t
+R4	SubPart Arg1:T8 Arg2:T7	
+R5	SubPart Arg1:T9 Arg2:T7	
+R6	SubPart Arg1:T10 Arg2:T7	
+R1	SubPart Arg1:T4 Arg2:T2	

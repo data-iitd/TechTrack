@@ -1,0 +1,10 @@
+T1	Hardware-Devices 188 195	printer
+A1	isConnected T1 f->t
+T2	Software-OS-Related 533 543	Apple icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 624 642	System Preferences
+A3	isOpened T3 f->t
+T4	Software-OS-Related 687 702	Software Update
+A4	isOpened T4 f->t
+T5	Software-OS-Related 865 878	Update button
+A5	isSettingsChanged T5 true

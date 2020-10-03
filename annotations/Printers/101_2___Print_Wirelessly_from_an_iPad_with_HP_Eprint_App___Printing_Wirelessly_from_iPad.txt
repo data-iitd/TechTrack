@@ -1,0 +1,37 @@
+Print Wirelessly from an iPad with HP Eprint App
+https://www.wikihow.com/Print-Wirelessly-from-an-iPad-with-HP-Eprint-App
+
+0 - Printing Wirelessly from iPad
+
+1 - View the file.
+View the file. Review the selected file on the screen to make sure this is the correct one to print. You don’t want to waste paper and ink by printing the wrong files.
+- If the file has several pages, scroll through it by swiping left or right.
+
+2 - Define the number of copies.
+Define the number of copies. On the preview screen, there’s a header toolbar. Tap the “Copies” icon and select the number of copies from the drop-down list. You can select between 1 and 10.
+
+3 - Define the color and quality.
+Define the color and quality. On the preview screen, there’s a header toolbar. Tap the “Color & Quality” icon, then “Quality.” Select between “Draft” and “Normal.”
+- The quality of the print will be based on what you select.
+
+4 - Define the paper size.
+Define the paper size. On the preview screen, there’s a header toolbar. Tap the “Paper” icon then “Size.” Select the size of the paper you have in your printer.
+- There are six predefined paper sizes to choose from.
+
+5 - Define the paper source.
+Define the paper source. Tap the “Paper” icon on the header toolbar then “Source.” Select between “Auto Select” and “Main Tray.”
+- The printer will use what you select as the main source for the paper.
+
+6 - Define the orientation.
+Define the orientation. Tap the “Layout” icon on the header toolbar then “Orientation.” Select among “Use Document,” “Landscape,” and “Portrait.”
+
+7 - Define the layout.
+Define the layout. Tap the “Layout” icon on the header toolbar then “Two-sided.” Select among “Normal,” “Short Edge,” and “Long Edge.”
+
+8 - Define the page range.
+Define the page range. Tap the “Page Range” icon on the header toolbar then select between “Single” or “Multiple.” Set which pages will be printed, if not all.
+
+9 - Print.
+Print. Once you’ve set all the parameters and are ready to start the actual printing, tap the “Print” button at the bottom of the screen.
+- Make sure you have enough papers in your printer. The printer will receive the data and start printing.
+

@@ -1,0 +1,28 @@
+Wipe a Hard Dive in Windows 10
+https://www.wikihow.com/Wipe-a-Hard-Dive-in-Windows-10
+
+0 - Formatting a Hard Drive
+
+1 - Right-click the  button.
+Right-click the  button. It’s usually at the bottom-left corner of the screen. Use this method to wipe the data off of a different hard drive than the primary one, such as an external drive.
+
+2 - Click File Explorer.
+Click File Explorer. It’s toward the bottom of the menu. This opens your computer’s file browser.
+
+3 - Click This PC.
+Click This PC. It’s in the left column. A list of folders and hard drives connected to the PC will appear.
+
+4 - Right-click the drive you want to format.
+Right-click the drive you want to format.
+
+5 - Click Format.
+Click Format.
+
+6 - Choose whether to quick format.
+Choose whether to quick format. You can save time by checking the box next to “Quick Format,” but this option makes it easier for someone to restore your deleted data with the right software.[1]
+- X
+- Research source
+
+7 - Click Start.
+Click Start. The data on the hard drive will now be deleted.
+

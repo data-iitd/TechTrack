@@ -1,0 +1,33 @@
+T1	Hardware-Other 164 172	computer
+T2	Software-OS-Related 235 242	Notepad
+T3	Software-OS-Related 179 193	word processor
+A2	isOpened T3 f->t
+*	Equiv T3 T2
+T4	Hardware-Other 515 518	key
+T5	Hardware-Devices 525 534	keyboards
+T6	Hardware-Other 560 561	F
+T7	Hardware-Other 566 567	J
+T8	Hardware-Other 736 737	A
+T9	Hardware-Other 764 765	S
+T10	Hardware-Other 798 799	D
+T11	Hardware-Other 923 931	spacebar
+T12	Hardware-Other 829 830	;
+T13	Hardware-Other 858 859	L
+T14	Hardware-Other 893 894	K
+T15	Hardware-Other 1077 1080	key
+T16	Hardware-Other 1230 1239	Shift key
+T17	Hardware-Other 1365 1366	⇧
+*	Equiv T16 T17
+T18	Hardware-Other 1571 1575	keys
+T19	Hardware-Devices 1745 1753	keyboard
+T20	Hardware-Other 2113 2117	keys
+T21	Hardware-Devices 2212 2218	screen
+T22	Hardware-Devices 2243 2251	keyboard
+T23	Hardware-Other 2526 2527	.
+T24	Hardware-Other 2527 2528	,
+T25	Hardware-Other 2529 2530	;
+T26	Hardware-Other 2530 2531	,
+T27	Hardware-Other 2536 2537	"
+T28	Hardware-Devices 2575 2583	keyboard
+T29	Hardware-Other 2605 2609	keys
+T30	Hardware-Other 2664 2665	⇧

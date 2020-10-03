@@ -1,0 +1,15 @@
+T1	Software-OS-Related 415 423	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 473 487	lsb_release -a
+A2	isSettingsChanged T2 true
+T5	Software-OS-Related 895 902	Restart
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1090 1098	terminal
+A6	isOpened T6 f->t
+T7	Software-Other 1189 1196	Postman
+A7	isInstalled T7 f->t
+T8	Software-Other 150 154	Snap
+A8	isInstalled T8 start-T
+R1	SubPart Arg1:T2 Arg2:T1	
+T9	Software-Other 609 613	Snap
+A9	isInstalled T9 f->t

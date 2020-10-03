@@ -1,0 +1,21 @@
+T1	Software-OS-Related 126 134	terminal
+A1	isOpened T1 f->t
+T3	Hardware-Other 307 314	↵ Enter
+T5	Software-OS-Related 352 362	super user
+T4	Software-OS-Related 536 549	root password
+T9	Software-OS-Related 705 725	authentication error
+T11	Software-OS-Related 913 917	root
+T12	Software-OS-Related 954 955	#
+T13	Software-OS-Related 967 968	$
+T14	Software-OS-Related 1036 1047	root access
+T2	Software-OS-Related 291 296	.su -
+T8	Software-OS-Related 618 622	su -
+T16	Software-OS-Related 1112 1116	su -
+T17	Software-OS-Related 1120 1126	log in
+T18	Software-OS-Related 1287 1300	root password
+T19	Software-OS-Related 1379 1384	.sudo
+T20	Software-OS-Related 1396 1400	su -
+T21	Software-OS-Related 1409 1422	super user do
+*	Equiv T19 T21
+T23	Software-OS-Related 1474 1478	root
+T24	Software-OS-Related 1865 1878	user password

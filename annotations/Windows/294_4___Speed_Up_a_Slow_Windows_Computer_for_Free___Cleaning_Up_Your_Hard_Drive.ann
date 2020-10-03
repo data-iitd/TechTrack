@@ -1,0 +1,11 @@
+T1	Software-OS-Related 161 166	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 416 428	Disk Cleanup
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1440 1445	Start
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1634 1664	Defragment and Optimize Drives
+A4	isOpened T4 f->t
+T5	Software-OS-Related 2457 2465	Optimize
+A5	isOpened T5 f->t
+T6	Software-Other 2678 2694	external storage

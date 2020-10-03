@@ -1,0 +1,38 @@
+T1	Hardware-Other 139 144	drive
+T2	Hardware-Devices 154 162	computer
+A1	isUsed T2 true
+T3	Software-Other 379 399	Autorun Exterminator
+A2	isInstalled T3 f->t
+T4	Software-OS-Related 881 888	Extract
+A3	isOpened T4 f->t
+T5	Hardware-Other 519 530	flash drive
+T6	Software-Other 741 757	Downloads folder
+A4	isOpened T6 f->t
+T7	Hardware-Other 1131 1140	USB drive
+T8	Hardware-Devices 1149 1150	P
+A5	isUsed T8 true
+T9	Hardware-Other 1229 1238	USB drive
+T10	Hardware-Devices 1491 1499	Computer
+A6	isUsed T10 true
+T11	Software-OS-Related 1588 1602	Command Prompt
+A7	isOpened T11 f->t
+T12	Hardware-Devices 2894 2902	computer
+A8	isUsed T12 true
+T13	Hardware-Other 2873 2884	flash drive
+T14	Hardware-Other 3419 3428	USB drive
+T15	Software-OS-Related 1852 1866	Command Prompt
+A9	isOpened T15 f->t
+T16	Software-OS-Related 1886 1896	PowerShell
+A10	isOpened T16 f->t
+T17	Software-OS-Related 3863 3876	File Explorer
+A11	isOpened T17 f->t
+T18	Hardware-Other 4035 4044	USB drive
+T19	Hardware-Other 4861 4874	flash drive's
+T20	Software-OS-Related 4889 4902	File Explorer
+A12	isOpened T20 f->t
+T21	Software-OS-Related 5034 5040	Format
+T22	Software-OS-Related 5146 5151	Start
+T23	Hardware-Other 5418 5429	flash drive
+A13	isSettingsChanged T21 true
+A14	isSettingsChanged T22 true
+R1	SubPart Arg1:T22 Arg2:T21	

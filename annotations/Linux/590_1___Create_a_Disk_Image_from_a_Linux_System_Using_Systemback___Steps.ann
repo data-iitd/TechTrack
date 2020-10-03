@@ -1,0 +1,29 @@
+T1	Software-Other 167 177	Systemback
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 186 198	Linux system
+T3	Software-Other 730 740	Systemback
+A2	isOpened T3 f->t
+T4	Software-Other 855 873	Live system create
+A3	isOpened T4 f->t
+T5	Software-Other 1105 1117	distribution
+T6	Software-Other 1244 1254	Create new
+A4	isOpened T6 f->t
+T7	Software-Other 1531 1551	Live system creation
+A5	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T3	
+T8	Software-OS-Related 1672 1674	OK
+T11	Software-Other 1846 1860	Convert to ISO
+T12	Software-Other 1803 1812	Live file
+T9	Software-Other 2090 2100	Systemback
+A6	isOpened T9 t->f
+T10	Software-OS-Related 2157 2169	file manager
+A7	isOpened T10 f->t
+T13	Software-OS-Related 2187 2198	File System
+A8	isOpened T13 f->t
+T14	Software-OS-Related 2212 2216	home
+A9	isOpened T14 f->t
+T15	Software-OS-Related 2339 2342	USB
+T16	Software-OS-Related 2346 2349	DVD
+T17	Software-Other 2323 2333	image file
+T18	Software-Other 2427 2437	UNetbootin
+T19	Software-OS-Related 2577 2584	Restart

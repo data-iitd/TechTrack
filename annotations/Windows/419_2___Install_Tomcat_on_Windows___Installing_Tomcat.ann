@@ -1,0 +1,22 @@
+T1	Software-OS-Related 343 351	Tomcat 9
+A1	isOpened T1 f->t
+T2	Software-Other 525 570	32-bit_64-bit Windows Service Installer under
+T3	Software-Other 969 988	installation wizard
+A2	isOpened T3 f->t
+T4	Software-Other 1131 1138	I Agree
+T5	Software-Other 1658 1662	Next
+A3	isOpened T5 f->t
+T6	Software-Other 2351 2361	jre folder
+A4	isOpened T6 f->t
+T7	Software-Other 2511 2513	OK
+A5	isOpened T7 f->t
+T8	Software-Other 2783 2790	Install
+A6	isOpened T8 f->t
+T9	Software-Other 3049 3055	Finish
+A7	isSettingsChanged T9 true
+T10	Software-OS-Related 3423 3426	Run
+A8	isOpened T10 f->t
+T11	Software-OS-Related 3695 3705	Properties
+A9	isOpened T11 f->t
+T12	Software-OS-Related 3828 3833	Start
+A10	isOpened T12 f->t

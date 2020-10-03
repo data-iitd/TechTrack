@@ -1,0 +1,27 @@
+Scan and Print Pictures from a Computer
+https://www.wikihow.com/Scan-and-Print-Pictures-from-a-Computer
+
+0 - Scanning
+
+1 - Connect your scanner to your computer.
+Connect your scanner to your computer. Although most of today's scanners connect via USB cords, some older scanners connect to the serial and parallel ports on most computers. Plug the smaller end of the USB cord into your scanner's slot, and the bigger end into your PC.
+- ;
+
+2 - Power the scanner and turn the scanner on.
+Power the scanner and turn the scanner on.  Plug in the power cord to the scanner as well as the other end into the electrical outlet , and turn the device on. If you've already connected the scanner to your computer to grab the drivers to run the scanner to your computer, you can turn each item on in whatever order you feel to be most comfortable; however, if not, prepare to turn on the scanner once you are logged into your computer's user account.
+
+3 - Place whatever you want to scan into the scanner.
+Place whatever you want to scan into the scanner. Make sure that the picture is face down onto the scanner glass. Almost all scanners will have tiny insignias mentioning in which corner the picture will need to be placed. Place it a teensy-weensie bit below this area.
+- If the scanner has what's called a automatic document feeder, do not use this. Using these, on top of not being able to re-obtain the finished pictures, will also cause the pictures to jam the machine and the picture will also smudge. Only use the flatbed area of your scanner to obtain scans of your pictures.
+
+4 - Follow the directions from the scanner's manual as well as the scanner's third-party software to ensure you are pressing the right buttons.
+Follow the directions from the scanner's manual as well as the scanner's third-party software to ensure you are pressing the right buttons. Sometimes the button will be called "Scan" and other times it may be called something else entirely.
+- Sometimes, pressing the Scan button on your scanner will launch your scanning software, while other times, you can open your software where you can import pictures via your scanner and scan using this.
+- Do not take your picture from the scanner flatbed portion. Most scanners will need to rescan a select portion and save that area (as you'll see later).
+
+5 - Crop the previewed image if the scanning software you use offers you to preview the scan before you save the image.
+Crop the previewed image if the scanning software you use offers you to preview the scan before you save the image. Make sure that any of the white background that was used isn't showing in your finished image, and remember to rotate the image if possible.
+
+6 - Save the image.
+Save the image.  Most often doing so, this will take a secondary scan of the item as to scan only those areas.
+

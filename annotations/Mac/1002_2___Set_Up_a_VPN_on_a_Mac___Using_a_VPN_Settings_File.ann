@@ -1,0 +1,24 @@
+T4	Hardware-Devices 190 198	computer
+T1	Software-Other 367 384	VPN settings file
+T2	Software-OS-Related 430 443	Network panel
+A2	isOpened T2 f->t
+T5	Software-OS-Related 639 649	Apple menu
+T6	Software-OS-Related 695 714	System Preferences.
+A1	isOpened T5 f->t
+A3	isOpened T6 f->t
+T7	Software-OS-Related 761 768	Network
+A4	isOpened T7 f->t
+T8	Software-OS-Related 815 824	gear icon
+A5	isOpened T8 f->t
+T9	Software-OS-Related 924 945	Import Configurations
+T11	Software-OS-Related 1197 1224	Show VPN status in menu bar
+T13	Software-OS-Related 1465 1480	VPN status icon
+T15	Software-OS-Related 1663 1689	Connect [your VPN network]
+A6	isOpened T15 f->t
+A7	isSettingsChanged T9 true
+A9	isSettingsChanged T11 true
+T3	Software-OS-Related 1074 1086	VPN settings
+A10	isOpened T3 f->t
+R4	SubPart Arg1:T11 Arg2:T3	
+A11	isOpened T13 f->t
+A12	isSettingsChanged T15 true

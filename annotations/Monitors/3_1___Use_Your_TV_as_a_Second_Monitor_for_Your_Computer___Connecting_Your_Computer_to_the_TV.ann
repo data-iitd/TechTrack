@@ -1,0 +1,47 @@
+T1	Hardware-Other 184 193	computer'
+T2	Hardware-Other 195 212	video output port
+T4	Hardware-Other 369 373	HDMI
+T5	Hardware-Other 438 449	DisplayPort
+T6	Hardware-Other 539 542	VGA
+T7	Hardware-Other 630 641	audio cable
+T8	Hardware-Other 651 661	A/V cables
+T9	Software-OS-Related 689 692	Mac
+A2	isOpened T9 start-F
+T10	Hardware-Other 795 809	iMac computers
+T11	Hardware-Other 814 827	Thunderbolt 3
+T12	Hardware-Other 843 850	"USB-C"
+*	Equiv T12 T11
+T13	Hardware-Other 883 891	MacBooks
+*	Equiv T10 T13
+T14	Hardware-Devices 962 964	TV
+T15	Hardware-Other 993 1005	HDMI adapter
+T16	Hardware-Devices 1033 1036	TV'
+T17	Hardware-Other 1198 1208	HDMI ports
+T18	Hardware-Other 1514 1521	adapter
+T19	Hardware-Other 1549 1562	computer port
+T20	Hardware-Other 1568 1575	TV port
+T21	Hardware-Other 1662 1665	VGA
+T22	Hardware-Other 1751 1759	adapters
+T23	Hardware-Other 1764 1770	cables
+T24	Hardware-Other 1984 1989	cable
+T25	Hardware-Other 2000 2008	computer
+T26	Hardware-Other 2152 2157	cable
+T27	Hardware-Devices 2168 2170	TV
+T28	Hardware-Other 2239 2246	adapter
+T29	Hardware-Other 2476 2487	audio cable
+T30	Hardware-Other 2593 2605	HDMI-to-HDMI
+T31	Hardware-Devices 2584 2586	TV
+T32	Hardware-Other 2609 2628	DisplayPort-to-HDMI
+T33	Hardware-Other 2752 2763	VGA-to-HDMI
+T34	Hardware-Other 2870 2888	3.5mm stereo cable
+T35	Hardware-Other 2567 2575	computer
+T36	Hardware-Devices 3148 3150	TV
+T37	Hardware-Devices 3227 3229	TV
+A3	isPowered T14 start-F
+A6	isPowered T31 start-F
+A7	isPowered T36 f->t
+T38	Hardware-Other 3184 3197	Power  button
+T39	Hardware-Other 3304 3310	remote
+T40	Hardware-Other 3444 3450	HDMI 1
+T41	Hardware-Devices 3578 3595	computer's screen
+T42	Hardware-Devices 3772 3774	TV

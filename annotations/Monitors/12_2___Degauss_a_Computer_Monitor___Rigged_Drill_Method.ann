@@ -1,0 +1,23 @@
+T1	Hardware-Other 119 125	magnet
+T2	Hardware-Other 130 134	tape
+T3	Hardware-Devices 163 168	drill
+T4	Hardware-Other 221 225	Duct
+T5	Hardware-Other 398 416	small electric fan
+T6	Hardware-Other 422 427	motor
+T7	Hardware-Devices 528 534	screen
+A1	isPowered T7 start-F
+T8	Hardware-Devices 596 601	drill
+T9	Hardware-Devices 696 702	screen
+T10	Hardware-Devices 875 881	screen
+T11	Hardware-Devices 1038 1043	drill
+T12	Hardware-Devices 1082 1088	screen
+T13	Hardware-Other 1260 1266	magnet
+T14	Hardware-Devices 1280 1285	drill
+T15	Hardware-Other 1459 1465	magnet
+T16	Hardware-Devices 1481 1487	screen
+A2	isPowered T3 start-T
+T17	Hardware-Devices 849 856	trigger
+A3	isUsed T17 true
+*	Equiv T17 T8
+A4	isUsed T11 true
+A5	isUsed T14 true

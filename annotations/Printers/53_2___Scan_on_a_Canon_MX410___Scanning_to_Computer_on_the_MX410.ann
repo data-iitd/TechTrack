@@ -1,0 +1,6 @@
+T1	Software-Other 219 230	Canon MX410
+T2	Software-Other 378 383	photo
+A1	isOpened T1 f->t
+T3	Software-Other 881 885	Scan
+A2	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T1	

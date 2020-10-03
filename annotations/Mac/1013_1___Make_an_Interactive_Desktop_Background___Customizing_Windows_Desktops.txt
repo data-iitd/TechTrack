@@ -1,0 +1,43 @@
+Make an Interactive Desktop Background
+https://www.wikihow.com/Make-an-Interactive-Desktop-Background
+
+0 - Customizing Windows Desktops
+
+1 - Download and install Rainmeter.
+Download and install Rainmeter. Search the web for Rainmeter - the software can be downloaded from their website. The page also has links to helpful documentation and sites to download prefabricated background designs (called "skins").
+- Skins are often functionally interactive. Many utilize plugins that can interact directly with applications or the operating system (e.g. browser searches or volume control). Others may function just as eye candy.
+- Rainmeter is configured to run automatically after installation and comes preconfigured with the default “Illustro” skin, with helpful hints and tutorials.
+- Other similar software options include Deskscapes, Windowblinds, or SysAuto, which will work in a similar fashion.
+- ;
+
+2 - Return to the Rainmeter website.
+Return to the Rainmeter website. Navigate back to the Rainmeter website in your web browser to acquire new skins.
+
+3 - Browse for and download skins.
+Browse for and download skins. Press "Discover" on the Rainmeter website. Here there are links to various locations (such as Reddit, deviantArt, and the Rainmeter forums) where people show off and share their Rainmeter creations. Skin creations can vary widely in complexity and functionality.
+- You are also not limited to a single skin; multiple skins can be loaded simultaneously. For example, you may load two separate skins for a media player controller and a custom weather display.
+- Common skins include designs for browser bars, custom clocks, CPU usage displays, or music player overlays.
+
+4 - Install a .rmskin format skin.
+Install a .rmskin format skin. Double-click a .rmskin file, press "Install" and Rainmeter will run the self-extractor.
+- Skin downloads can come in two formats depending on how the creator decided to package them: .rmskin, a format specified for Rainmeter, or an archived folder (.zip, .rar).
+- Not every feature from a .rmskin installer has to be used. The .rmskin installer will open a window to confirm which features of the skin you want included. You can deselect checkboxes of features you do not want prior to installing.
+
+5 - Install a compressed format (.zip, .rar) skin.
+Install a compressed format (.zip, .rar) skin. If the skin creator compressed their file in this way then you will need to extract the files manually. Right-click and select “Extract Here” to extract them. Now open your Rainmeter "Skins" folder (the path will look something like C:\Users\[yourname]\Documents\Rainmeter\Skins). Drag the recently extracted folder over into the "Skins" folder.
+
+6 - Load a skin into your environment after installation is complete.
+Load a skin into your environment after installation is complete. Right-click the Rainmeter tray icon. Load a skin by selecting its name from the menu and the selecting the .ini file from the submenu.
+- To apply newly installed skins right click the Rainmeter tray icon and select “Refresh All”.
+- If there are multiple versions of a skin, they will be listed in the “Variants” menu. You can switch between variants at any time if you want a change in design.
+- Skins can also be unloaded from the right-click menu.
+
+7 - Configure your skin.
+Configure your skin. Click the Rainmeter tray icon in the lower right corner and then select “Manage” to see an overview of your skins and to make changes to their settings. Settings for each skin will vary depending on the way it was designed. You can also access an individual skin’s settings by right-clicking any of its elements on the desktop.
+
+8 - Experiment with creating your own skins.
+Experiment with creating your own skins. In order to get started, you will need a text editor to write in Rainmeter’s custom code (functionally similar to HTML, although loading and executing scripts will utilize Lua), and an image editor if you plan to make custom art. There is a lot of tutorial information on the Rainmeter website, but a few core concepts to know are:
+- A skin is a .ini file. This the most basic level to start with.
+- Folder structure matters, since skins can have variants, .ini files can be grouped into config folders to identify them (e.g. 2 variant skins for a custom clock)
+- Multiple skins combine to make a skin suite. The combined package is known as a "Root" folder. Roots are what get placed in the "Skins" folder when installed.
+

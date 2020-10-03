@@ -1,0 +1,43 @@
+Clear the Cache on a Mac
+https://www.wikihow.com/Clear-the-Cache-on-a-Mac
+
+0 - Clearing the System Cache
+
+1 - Close as many open programs as possible.
+Close as many open programs as possible. Open programs use files from the "Cache" folder, so you won't be able to remove as many cached files as you like if you have multiple programs open.
+- ;
+
+2 - Go to your Mac's Finder.
+Go to your Mac's Finder. Do this by clicking on your Desktop image or on the blue smiley-face icon on the far left in your Dock.
+
+3 - Click Go.
+Click Go. It's in the menu bar at the top of the screen. A drop-down menu will appear.
+
+4 - Click Go to Folder….
+Click Go to Folder…. You'll find this option near the bottom of the Go drop-down menu. Doing so opens a text box.
+
+5 - Enter the "Library" folder path.
+Enter the "Library" folder path. Type ~/Library/ into the text box.
+
+6 - Click Go.
+Click Go. It's a blue button in the bottom-right corner of the text box. This will open the Library folder, in which you should find a folder named "Caches".
+
+7 - Double-click the "Caches" folder.
+Double-click the "Caches" folder. This folder should be near the top of the Finder window, but scroll down to find it if it isn't there.
+
+8 - Select the "Caches" folder's contents.
+Select the "Caches" folder's contents. Click one item or folder in the "Caches" folder, then press ⌘ Command+A. Doing so selects everything in the "Caches" folder.
+
+9 - Delete the "Caches" folder's contents.
+Delete the "Caches" folder's contents. Click the File menu item at the top of the screen, then click Move Items to Trash in the drop-down menu. The "Caches" folder's contents will be moved to the Trash.
+- If you receive an error telling you that one or more of the files can't be deleted, they're being used by a program that's currently open. Skip deleting these files for now, then try deleting them later when the programs in question aren't open.
+
+10 - Click Finder.
+Click Finder. It's a menu item in the top-left corner of the screen. A drop-down menu will appear.
+
+11 - Click Empty Trash….
+Click Empty Trash…. This option is in the Finder drop-down menu.
+
+12 - Click OK when prompted.
+Click OK when prompted. Doing so will empty the trash, thus completely clearing the cache files from your Mac.
+

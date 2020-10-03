@@ -1,0 +1,48 @@
+T1	Software-OS-Related 579 586	Install
+A1	isOpened T1 f->t
+T2	Hardware-Other 268 277	USB drive
+T3	Software-OS-Related 174 178	Boot
+T4	Software-OS-Related 824 832	Continue
+T5	Software-OS-Related 1134 1142	Continue
+T6	Software-OS-Related 1328 1347	Normal Installation
+T7	Software-Other 1997 2037	Download updates while installing Ubuntu
+A2	isOpened T7 f->t
+T8	Software-OS-Related 4523 4530	Restart
+T9	Hardware-Other 4685 4694	USB drive
+A3	isOpened T5 f->t
+T10	Software-OS-Related 1641 1701	Install third-party software for graphics and WI-FI hardware
+T11	Software-OS-Related 2069 2077	Continue
+T12	Software-OS-Related 2233 2241	Continue
+T13	Software-OS-Related 2633 2634	+
+A4	isOpened T13 f->t
+T14	Software-OS-Related 2200 2214	Something else
+A5	isOpened T12 f->t
+T15	Software-OS-Related 3461 3463	Ok
+A6	isOpened T15 f->t
+T16	Software-OS-Related 3401 3410	Swap area
+T17	Software-OS-Related 3443 3449	Use as
+T18	Software-OS-Related 3338 3345	Logical
+T19	Software-OS-Related 3352 3375	Beginning of this space
+T20	Software-OS-Related 3892 3894	Ok
+A7	isSettingsChanged T20 true
+T21	Software-OS-Related 3660 3661	+
+T22	Software-OS-Related 3768 3795	Ext4 journaling file system
+T23	Software-OS-Related 3910 3917	Install
+A8	isSettingsChanged T23 true
+A9	isOpened T23 f->t
+T24	Software-OS-Related 4014 4022	Continue
+A10	isOpened T24 f->t
+T25	Software-OS-Related 458 466	language
+T26	Software-OS-Related 771 777	Ubuntu
+T27	Software-Other 1110 1123	WI-FI network
+A11	isOpened T11 f->t
+T28	Software-OS-Related 2447 2482	Install Ubuntu alongside Windows 10
+T29	Hardware-Devices 3115 3118	RAM
+T30	Software-OS-Related 3487 3496	partition
+T31	Software-OS-Related 3705 3712	Logical
+T32	Software-OS-Related 3719 3728	Beginning
+T33	Software-OS-Related 3806 3812	Use as
+T34	Software-OS-Related 4225 4233	Continue
+A12	isSettingsChanged T34 true
+A13	isOpened T34 f->t
+R2	SubPart Arg1:T20 Arg2:T30	

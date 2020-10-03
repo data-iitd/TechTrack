@@ -1,0 +1,45 @@
+Reset a Keyboard
+https://www.wikihow.com/Reset-a-Keyboard
+
+0 - On Windows
+
+1 - Open Start and type in device manager.
+Open Start and type in device manager. This will search your computer for the "Device Manager" program, which allows you to reset hardware on your computer.
+- If your keyboard won't let you type correctly, scroll down to the Windows System folder and click it, click Control Panel, click the "View by" option and then select Large Icons if you're in Category view, and find Device Manager.
+- ;
+
+2 - Click  Device Manager.
+Click  Device Manager. It's at the top of the Start window.
+
+3 - Scroll down and expand Keyboard.
+Scroll down and expand Keyboard. Click the  icon to the left of the Keyboard heading. A drop-down list of your currently connected keyboards will appear.
+
+4 - Select the keyboard that you want to reset.
+Select the keyboard that you want to reset. Click on a keyboard's name to select it.
+- If you're trying to reset an external keyboard (e.g., a wireless one), you can select it here.
+
+5 - Click the "Uninstall" icon.
+Click the "Uninstall" icon. This icon resembles a red "X" at the top of the window.
+
+6 - Click OK when prompted.
+Click OK when prompted. Doing so removes the keyboard from the Device Manager.
+
+7 - Click the "Search for updates" button.
+Click the "Search for updates" button. It resembles a computer monitor in the upper-right side of the Device Manager window. Clicking this will prompt the keyboard to reappear in Device Manager.
+
+8 - Select the keyboard again.
+Select the keyboard again. Click the keyboard's name.
+
+9 - Click the "Update drivers" button.
+Click the "Update drivers" button. This option is at the top of the window, and resembles a black box with a green arrow facing upward.
+
+10 - Click Search automatically for updated driver software.
+Click Search automatically for updated driver software. It's the top option in the pop-up window. This will prompt Windows to begin searching for the most recent software updates for your keyboard.
+
+11 - Allow the newest drivers to install.
+Allow the newest drivers to install. If there are any drivers available for your keyboard they will install automatically.
+- If there aren't any new drivers, click Close in the bottom-right corner of the window when prompted.
+
+12 - Restart your computer.
+Restart your computer. Open Start and click Power , then click Restart. Once your computer finishes restarting, your keyboard should be fully reset.
+

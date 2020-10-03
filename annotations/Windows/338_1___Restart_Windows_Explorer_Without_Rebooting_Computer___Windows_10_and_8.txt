@@ -1,0 +1,25 @@
+Restart Windows Explorer Without Rebooting Computer
+https://www.wikihow.com/Restart-Windows-Explorer-Without-Rebooting-Computer
+
+0 - Windows 10 and 8
+
+1 - Open the Task Manager
+Open the Task Manager. Since the taskbar is likely to be frozen along with Windows Explorer, pressing Ctrl+⇧ Shift+Esc will also open the Task Manager.
+- ;
+
+2 - Switch to the detailed view, if in the simplified view.
+Switch to the detailed view, if in the simplified view. Click the "More details" button at the bottom-left, which will expand the window and allow you to view your active processes.
+
+3 - Click the "Name" column heading.
+Click the "Name" column heading. Doing so will organize the content in the window and allow you to find the Windows Explorer process easier.
+
+4 - Scroll down to the "Windows processes" section at the bottom of the list.
+Scroll down to the "Windows processes" section at the bottom of the list.
+
+5 - Click the "Windows Explorer" process listing.
+Click the "Windows Explorer" process listing. It'll have a small file folder  icon next to it.
+
+6 - Restart Windows Explorer.
+Restart Windows Explorer. Click the Restart button at the bottom-right corner of the Task Manager window. Doing so will end the process and begin another instance of it.
+- Alternatively, right-click the listing and click Restart.
+

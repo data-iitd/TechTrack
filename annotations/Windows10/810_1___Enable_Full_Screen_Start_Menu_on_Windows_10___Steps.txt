@@ -1,0 +1,25 @@
+Enable Full Screen Start Menu on Windows 10
+https://www.wikihow.com/Enable-Full-Screen-Start-Menu-on-Windows-10
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. This can be done through the Start menu. Follow these steps:
+- Click or tap the Start  button
+- Select the settings gear  in the lower-left corner.
+- ;
+
+2 - Navigate to the Personalization settings.
+Navigate to the Personalization settings. Select Personalization from the category list.
+
+3 - Click or tap Start from the left pane.
+Click or tap Start from the left pane. It's second from the bottom.
+
+4 - Toggle on  the slider under "Use Start full screen".
+Toggle on  the slider under "Use Start full screen". If you don't see the setting, you might have to scroll down.
+- If you are on a tablet, this option might already be enabled. Users with tablet mode enabled will still see the full screen Start menu, even if they toggle the switch to off.
+
+5 - Test it out.
+Test it out. Open the Start menu and you'll see tiles take up the entire screen. It's different from the Windows 8 Start screen. For example, the power, user, app list are to the left as well as extra tiles will be pushed down instead of to the right (no more horizontal scrolling).
+- The entire taskbar will still be visible and usable. You'll be able to see everything, including the notification center icons and the search bar/icon (unless you've disabled it).
+

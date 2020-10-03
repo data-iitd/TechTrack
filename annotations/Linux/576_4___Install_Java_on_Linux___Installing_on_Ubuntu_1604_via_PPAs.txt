@@ -1,0 +1,25 @@
+Install Java on Linux
+https://www.wikihow.com/Install-Java-on-Linux
+
+0 - Installing on Ubuntu 16.04 via PPAs
+
+1 - First of all, this is a 3rd party package, your distro's maintainer can't audit this package, use with caution.
+First of all, this is a 3rd party package, your distro's maintainer can't audit this package, use with caution. That being said, first open a terminal by pressing Ctrl+Alt+T.
+
+2 - Ensure you have an updated system.
+Ensure you have an updated system. Type in sudo apt-get update && sudo apt-get upgrade -y, you might get prompted for a password, type it in and press ↵ Enter, no dots or asterisks will appear as you type, this is normal.
+- While technically optional, this step is always recommended before installing anything, keeping your system updated will help prevent many problems.
+
+3 - Add the PPA repository to your system.
+Add the PPA repository to your system. Type in sudo add-apt-repository ppa:webupd8team/java, and then press ↵ Enter.
+
+4 - Update your package lists again.
+Update your package lists again. Type in sudo apt-get update and wait for the lists to be refreshed.
+
+5 - Install the package.
+Install the package. Type in sudo apt-get install oracle-java9-installer -y.
+- You might get prompted for a password, type it in and press ↵ Enter, no dots or asterisks will appear, this is normal.
+
+6 - Make Oracle's Java the default.
+Make Oracle's Java the default. In many Ubuntu derivatives, OpenJDK is set to be the default Java to be used, if you want Oracle's Java to be used by default you need to type sudo apt install oracle-java9-set-default.
+

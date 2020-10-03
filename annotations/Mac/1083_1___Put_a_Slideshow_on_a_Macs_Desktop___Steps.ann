@@ -1,0 +1,18 @@
+T1	Software-OS-Related 150 160	Apple logo
+A1	isOpened T1 f->t
+T2	Software-OS-Related 252 270	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 332 354	Desktop & Screen Saver
+A3	isOpened T3 f->t
+T4	Software-OS-Related 452 459	Desktop
+A4	isOpened T4 f->t
+T5	Software-OS-Related 499 505	folder
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 648 662	Change picture
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 880 892	Random order
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 948 949	x
+A8	isOpened T8 t->f
+R1	SubPart Arg1:T6 Arg2:T4	
+R2	SubPart Arg1:T7 Arg2:T4	

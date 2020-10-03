@@ -1,0 +1,37 @@
+T1	Hardware-Other 177 188	HP Pavilion
+T2	Hardware-Other 205 212	battery
+T4	Hardware-Other 297 305	computer
+T5	Hardware-Other 350 359	backlight
+T6	Hardware-Other 401 409	laptop's
+T7	Hardware-Other 676 679	USB
+T8	Hardware-Other 696 704	computer
+T9	Hardware-Other 666 672	cables
+T10	Hardware-Other 748 756	computer
+T11	Hardware-Other 776 789	charger cable
+T12	Hardware-Other 809 817	speakers
+T13	Hardware-Other 791 807	USB flash drives
+T14	Hardware-Devices 850 858	computer
+T15	Software-OS-Related 907 914	Start  
+A1	isOpened T15 f->t
+T16	Software-OS-Related 929 934	Power
+A2	isOpened T16 f->t
+T17	Software-OS-Related 946 955	Shut down
+T18	Hardware-Other 996 1014	computer's battery
+T19	Hardware-Other 1159 1167	computer
+T20	Hardware-Other 1234 1242	switches
+T21	Hardware-Other 1311 1317	laptop
+T22	Hardware-Other 1283 1296	battery cover
+T23	Hardware-Other 1423 1428	towel
+T24	Hardware-Other 1453 1458	Power
+T25	Hardware-Other 1576 1584	computer
+T26	Hardware-Other 1619 1626	battery
+T27	Hardware-Other 1752 1760	computer
+T28	Hardware-Other 1798 1805	charger
+T30	Hardware-Devices 1903 1911	computer
+A4	isPowered T14 t->f
+A5	isPowered T30 f->t
+T31	Hardware-Other 1964 1969	Power
+T32	Hardware-Other 2053 2062	backlight
+T34	Hardware-Other 2142 2150	computer
+T35	Hardware-Devices 2221 2229	keyboard
+A3	isSettingsChanged T17 true

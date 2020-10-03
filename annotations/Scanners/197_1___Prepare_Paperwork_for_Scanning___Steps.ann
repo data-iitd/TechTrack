@@ -1,0 +1,15 @@
+T1	Hardware-Other 125 134	documents
+T2	Hardware-Devices 152 159	scanner
+T3	Hardware-Other 275 280	pages
+T4	Hardware-Devices 380 387	scanner
+A1	isPowered T2 start-T
+T5	Hardware-Other 558 565	staples
+T7	Hardware-Other 580 584	tape
+T6	Hardware-Other 567 578	paper clips
+T8	Hardware-Other 618 624	sheets
+T9	Hardware-Other 752 756	page
+T10	Hardware-Other 835 840	pages
+T11	Hardware-Devices 1055 1062	scanner
+T12	Software-Device-Drivers 1196 1213	scanning software
+A4	isRelatedDeviceConnected T12 f->t
+A5	isInstalled T12 start-T

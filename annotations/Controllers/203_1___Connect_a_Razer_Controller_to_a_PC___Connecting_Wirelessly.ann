@@ -1,0 +1,37 @@
+T1	Hardware-Other 140 146	switch
+T2	Hardware-Devices 174 184	controller
+T3	Hardware-Other 188 190	PC
+T4	Hardware-Other 318 324	switch
+T5	Hardware-Other 589 595	manual
+T6	Software-OS-Related 653 662	Bluetooth
+T8	Hardware-Other 711 720	USB cable
+T7	Hardware-Other 835 840	wired
+T9	Hardware-Other 860 866	lights
+T10	Hardware-Other 934 943	PS button
+T11	Hardware-Devices 956 966	controller
+A1	isPowered T11 f->t
+T12	Hardware-Other 1107 1109	PS
+T13	Hardware-Other 1122 1129	buttons
+T14	Hardware-Other 1230 1242	status light
+T15	Hardware-Devices 1285 1295	controller
+A2	isConnected T15 f->t
+T16	Hardware-Other 1339 1346	buttons
+T17	Software-OS-Related 1381 1389	Settings
+A3	isOpened T17 f->t
+T19	Software-OS-Related 1595 1602	Devices
+A4	isOpened T19 f->t
+T20	Software-OS-Related 1691 1721	Add Bluetooth or other devices
+A5	isOpened T20 f->t
+T21	Software-OS-Related 1936 1952	Razer controller
+A6	isOpened T21 f->t
+T22	Hardware-Devices 2069 2085	Razer controller
+A7	isPowered T22 t->f
+T23	Software-OS-Related 2135 2139	Done
+T24	Software-Device-Drivers 2307 2314	drivers
+A9	isInstalled T24 f->t
+T25	Hardware-Devices 2417 2433	Razer controller
+T26	Hardware-Devices 619 635	Razer controller
+*	Equiv T26 T2
+A11	isPowered T2 start-F
+A8	isSettingsChanged T23 true
+R1	SubPart Arg1:T23 Arg2:T20	

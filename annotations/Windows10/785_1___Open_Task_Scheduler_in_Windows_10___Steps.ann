@@ -1,0 +1,16 @@
+T1	Software-OS-Related 262 267	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 543 545	OK
+A2	isOpened T2 f->t
+T3	Software-OS-Related 583 588	Start
+T4	Software-OS-Related 958 986	Windows Administrative Tools
+A3	isOpened T4 f->t
+T5	Software-OS-Related 808 813	Start
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1045 1058	Control Panel
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1337 1351	Command Prompt
+T8	Software-OS-Related 1383 1388	Start
+A6	isOpened T8 f->t
+T9	Software-OS-Related 1007 1021	Task Scheduler
+A7	isOpened T9 f->t

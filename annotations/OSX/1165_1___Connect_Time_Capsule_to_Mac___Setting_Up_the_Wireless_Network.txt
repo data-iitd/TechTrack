@@ -1,0 +1,57 @@
+Connect Time Capsule to Mac
+https://www.wikihow.com/Connect-Time-Capsule-to-Mac
+
+0 - Setting Up the Wireless Network
+
+1 - Open the Finder  on your Mac.
+Open the Finder  on your Mac.  The Finder is the app that has a blue and white image with a smiley face.  The Finder is used to browse files and applications on your Mac.
+
+2 - Click Applications.
+Click Applications.  It's in the sidebar to the left in the Finder.  This will display all the applications installed on your Mac.
+
+3 - Double-click the Utilities folder.
+Double-click the Utilities folder. It's the blue folder with the icon of a wrench and screwdriver on it at the bottom of the page.  This is where all your Mac's system applications are stored.
+
+4 - Double-click AirPort Utility.
+Double-click AirPort Utility.  It's the app with a blue Wi-Fi symbol on a white background. It's located near the top of the page when displayed alphabetically.
+
+5 - Click Other wireless devices.
+Click Other wireless devices.  It's in the upper-left corner of the AirPort Utility app.
+
+6 - Click AirPort Time Capsule.
+Click AirPort Time Capsule.  It's in the menu for Other wireless devices in AirPort Time Capsule.  You may see six letters and numbers after "AirPort Time Capsule" like "fea88c" or something similar.
+
+7 - Select Create New Network and click Next.
+Select Create New Network and click Next.  You will see a list of options when you click on the Time Capsule in AirPort Utility.  Click the radial button next to "Create New Network" at the top of the list of options.  Click "Next" when you are done.
+
+8 - Name the network.
+Name the network.  Click the text box next to "Network Name" and type a name for the network.  You can name the network anything you want.  You can name it your last name, or something clever.
+
+9 - Name the base station.
+Name the base station.  Click the box next to "Base Station Name" and type a name.  The base station is the name for the Time Capsule.  Having a separate name for the Time Capsule is useful if you ever get another Time Capsule to expand your network.
+
+10 - Create a password.
+Create a password.  Use the text boxes next to "Network Password" and "Verify Password" to create a password.  Make sure the password is identical for both boxes.
+- To create a separate password for the Time Capsule, uncheck "Use a single password"  This will give you two more boxes to create a password for the individual Time Capsule.  This is useful if you have more than one Time Capsule and you want to create a password for a guest house or guest room.
+
+11 - Click Next.
+Click Next.  It's in the lower-right corner of the AirPort Utility app.
+
+12 - Restart your modem.
+Restart your modem.  Now you will be asked to reboot your modem.  Unplug it for about a minute and plug it back in and wait for it to fully restart.
+
+13 - Create a guest network (optional).
+Create a guest network (optional).  If you wish to enable a guest network, check the checkbox next to "Enable guest network" and then type a name for the guest network.  This allows guests to be able to access your network without being able to access all the computers on the network.  If you don't want to have a guest network, don't click the checkbox.
+
+14 - Click Next.
+Click Next.  It's in the lower-right corner of the AirPort Utility app.
+
+15 - Enable diagnostics & usage data to be sent to Apple (optional).
+Enable diagnostics & usage data to be sent to Apple (optional).  If you want your Time Capsule to send diagnostics and usage data to Apple, click the radial button next to "Send diagnostics & usage data to Apple".  All data sent to Apple is anonymous.  If you don't wish to send diagnostics and usage data to Apple, click the radial button next to "Don't Send".
+
+16 - Click Next.
+Click Next.  It's in the lower-right corner of the AirPort Utility app.  AirPort Utility will now configure your network.
+
+17 - Click Done.
+Click Done.  You network setup is now complete.
+

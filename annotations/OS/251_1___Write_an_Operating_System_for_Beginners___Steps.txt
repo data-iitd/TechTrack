@@ -1,0 +1,21 @@
+Write an Operating System for Beginners
+https://www.wikihow.com/Write-an-Operating-System-for-Beginners
+
+0 - Steps
+
+1 - Grab the software.
+Grab the software. You will need Microsoft Visual C# 2008 Express Edition and the Cosmos User Kit. Get Visual C# at http://www.microsoft.com/express and get the Cosmos User Kit at http://www.codeplex.com/Cosmos/Release/ProjectReleases.aspx.
+- ;
+
+2 - Install the software.
+Install the software. If you took the entire Visual Studio, it will take a long time to install, however VCS itself will not take that long. Install VCS first, then install the Cosmos User Kit.
+
+3 - Start learning C#.
+Start learning C#. Before you start programming, you will obviously need to start learning C#. If you already know, then skip to the next step.
+
+4 - Create your operating system.
+Create your operating system. Create a new project in VCS by clicking File, New Project and selecting CosmosBoot, or the like. Then you can start coding. Enter your code on the line after 'Cosmos.Kernel.Boot.Default;'. You can add 'Console.WriteLine("Cosmos booted.");' to test it out.
+
+5 - Try it by pressing F5.
+Try it by pressing F5. Leave everything at it's default, unless you want to burn it to a CD and select ISO Image. See further instructions on YouTube, just run a search for 'Cosmos C#' or something like that.
+

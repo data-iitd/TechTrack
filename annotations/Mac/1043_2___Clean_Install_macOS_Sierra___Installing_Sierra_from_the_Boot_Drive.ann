@@ -1,0 +1,30 @@
+T1	Software-OS-Related 184 189	Apple
+A1	isOpened T1 f->t
+T2	Software-OS-Related 207 214	Restart
+A2	isOpened T2 f->t
+T3	Software-OS-Related 358 365	Restart
+A3	isOpened T3 f->t
+T4	Software-OS-Related 815 835	Install macOS Sierra
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1012 1024	Disk Utility
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1036 1044	Continue
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1229 1242	startup drive
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1435 1440	Erase
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1713 1740	Mac OS Extended (Journaled)
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1885 1890	Erase
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 2131 2143	Disk Utility
+A11	isOpened T11 t->f
+T12	Software-OS-Related 2268 2281	Install macOS
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 2434 2459	freshly-erased hard drive
+A13	isSettingsChanged T13 true
+T14	Software-OS-Related 2609 2616	Install
+A14	isOpened T14 f->t
+R1	SubPart Arg1:T14 Arg2:T12	
+R2	SubPart Arg1:T10 Arg2:T5	

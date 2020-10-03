@@ -1,0 +1,6 @@
+T1	Software-OS-Related 133 138	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 303 316	File Explorer
+A2	isOpened T2 f->t
+T3	Software-OS-Related 527 534	This PC
+A3	isOpened T3 f->t

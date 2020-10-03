@@ -1,0 +1,29 @@
+Enable SSL 3.0
+https://www.wikihow.com/Enable-SSL-3.0
+
+0 - Microsoft Edge and Internet Explorer for Windows
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the search bar.
+
+2 - Type internet options.
+Type internet options. A list of matching results will appear.
+
+3 - Click Internet Options.
+Click Internet Options.
+
+4 - Click the Advanced tab.
+Click the Advanced tab. A list of check boxes will appear under the “Settings” header.
+
+5 - Scroll down and check the box next to “SSL 3.0.
+Scroll down and check the box next to “SSL 3.0.”
+
+6 - Click Apply.
+Click Apply. It's at the bottom of the window.
+
+7 - Click OK.
+Click OK. It's next to the Apply button.
+
+8 - Restart your PC as prompted.
+Restart your PC as prompted. Once Windows starts back up, Edge and Internet Explorer will both support SSL 3.0.
+

@@ -1,0 +1,18 @@
+T1	Software-OS-Related 429 437	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 487 501	lsb_release -a
+A2	isSettingsChanged T2 true
+T6	Software-OS-Related 904 911	Restart
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1098 1113	Ubuntu Software
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1273 1280	postman
+A8	isSettingsChanged T8 true
+T9	Software-Other 1330 1337	Install
+A9	isInstalled T9 f->t
+T10	Software-Other 164 168	Snap
+A10	isInstalled T10 start-T
+T11	Software-Other 618 622	Snap
+A11	isInstalled T11 f->t
+R2	SubPart Arg1:T2 Arg2:T1	
+R1	SubPart Arg1:T8 Arg2:T7	

@@ -1,0 +1,30 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing File Explorer History
+
+1 - Open File Explorer
+Open File Explorer 
+- . Click the File Explorer app icon, which resembles a folder, in the taskbar at the bottom of the screen.
+- You can also click Start , type in file explorer, and click File Explorer at the top of the Start window.
+
+2 - Click View.
+Click View. This tab is in the top-left section of the File Explorer window. You should see a toolbar appear at the top of File Explorer.
+
+3 - Click Options.
+Click Options. It's a box-shaped icon in the upper-right side of the File Explorer window. Doing so opens the Folder Options window.
+- If clicking Options prompts a drop-down menu, click Change folder and search options in the drop-down menu before you proceed.
+
+4 - Click the General tab.
+Click the General tab. You'll see this option in the upper-left corner of the Folder Options window.
+
+5 - Click Clear.
+Click Clear. It's in the "Privacy" section toward the bottom of the window. Doing so will remove your recent searches from the File Explorer.
+- If you pinned any folders or files to the File Explorer, they won't be cleared. You can remove a pinned folder or file by right-clicking it and then clicking Unpin from Quick access.
+
+6 - Consider hiding your future search history.
+Consider hiding your future search history. To do so, uncheck both the "Show recently used files in Quick Access" and "Show recently used folders in Quick Access" boxes in the "Privacy" section. Doing so will prevent future searches from appearing in the File Explorer.
+
+7 - Click OK.
+Click OK. It's at the bottom of the Folder Options window. Your File Explorer history should now be clear.
+

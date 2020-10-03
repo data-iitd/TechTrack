@@ -1,0 +1,16 @@
+T1	Software-OS-Related 184 194	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 315 333	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 385 407	Desktop & Screen Saver
+A3	isOpened T3 f->t
+T4	Software-OS-Related 494 501	Desktop
+A4	isOpened T4 f->t
+T5	Software-OS-Related 607 639	checkbox next to "Change picture
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 767 805	drop-down menu next to "Change picture
+A6	isOpened T6 f->t
+T7	Software-OS-Related 849 858	frequency
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T7 Arg2:T4	

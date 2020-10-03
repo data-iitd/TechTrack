@@ -1,0 +1,23 @@
+Hide the Menu Bar on a Mac
+https://www.wikihow.com/Hide-the-Menu-Bar-on-a-Mac
+
+0 - Hiding the Menu Bar
+
+1 - Click the Apple menu.
+Click the Apple menu.
+- ;
+
+2 - Select "System Preferences."
+Select "System Preferences."
+
+3 - Click the "General" option.
+Click the "General" option. If you don't see this, click the "Show All" button first, which looks like 12 dots arranged in a grid pattern at the top of the window.
+
+4 - Check the "Automatically hide and show the menu bar" box.
+Check the "Automatically hide and show the menu bar" box. This will hide the menu bar when the mouse is not over it.
+
+5 - Move your mouse to the top of the screen.
+Move your mouse to the top of the screen. This will reveal the menu bar.[1]
+- X
+- Research source
+

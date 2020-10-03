@@ -1,0 +1,13 @@
+T1	Software-Other 144 155	FineScanner
+A2	isInstalled T1 f->t
+T2	Software-OS-Related 209 226	Google Play Store
+T3	Software-OS-Related 231 240	App Store
+T4	Software-Other 506 517	FineScanner
+A5	isOpened T4 f->t
+T7	Hardware-Other 773 779	camera
+T8	Hardware-Other 796 803	storage
+T9	Hardware-Other 870 876	camera
+T12	Hardware-Devices 1427 1433	screen
+T5	Software-Other 1373 1379	filter
+A1	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	

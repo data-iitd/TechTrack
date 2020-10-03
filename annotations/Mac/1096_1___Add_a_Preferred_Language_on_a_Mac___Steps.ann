@@ -1,0 +1,20 @@
+T1	Software-OS-Related 146 156	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 269 287	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 487 504	Language & Region
+A3	isOpened T3 f->t
+T4	Software-OS-Related 594 613	Preferred languages
+A4	isOpened T4 f->t
+T5	Software-OS-Related 575 576	+
+A5	isOpened T5 f->t
+T6	Software-OS-Related 680 710	language that you want to add.
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 868 871	Add
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1063 1075	new language
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1153 1170	Add Input Source"
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1690 1697	Restart
+A10	isOpened T10 f->t

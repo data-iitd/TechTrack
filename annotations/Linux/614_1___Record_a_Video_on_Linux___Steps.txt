@@ -1,0 +1,33 @@
+Record a Video on Linux
+https://www.wikihow.com/Record-a-Video-on-Linux
+
+0 - Steps
+
+1 - Make sure xvidcap is installed.
+Make sure xvidcap is installed.
+- ;
+
+2 - Go to a terminal and type xvidcap.
+Go to a terminal and type xvidcap. The xvidcap window will appear.
+
+3 - Un-anchor the recording area by clicking the lock button.
+Un-anchor the recording area by clicking the lock button.
+
+4 - Move the xvidcap window out of your desired recording area.
+Move the xvidcap window out of your desired recording area.
+
+5 - Use the eyedropper to draw a rectangle around the area you wish to record.
+Use the eyedropper to draw a rectangle around the area you wish to record.
+
+6 - Right click the test-0000.mpeg area and select preferences.
+Right click the test-0000.mpeg area and select preferences.
+
+7 - Configure the video name and frame rate to your liking.
+Configure the video name and frame rate to your liking.
+
+8 - Get ready to record.
+Get ready to record.
+
+9 - Press the record button to begin.
+Press the record button to begin. You can pause recording, but if you stop it you cannot add any more video to the file.
+

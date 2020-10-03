@@ -1,0 +1,14 @@
+T1	Hardware-Other 142 159	Bluetooth speaker
+T2	Hardware-Devices 518 526	computer
+T3	Software-OS-Related 558 564	speech
+T4	Software-OS-Related 893 902	Bluetooth
+A1	isOpened T4 f->t
+T5	Software-OS-Related 916 929	Action Center
+A2	isOpened T5 f->t
+T6	Software-OS-Related 1293 1300	Connect
+T7	Software-OS-Related 1181 1188	Devices
+A3	isOpened T7 f->t
+T8	Software-OS-Related 1195 1220	Bluetooth & other devices
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1242 1251	Bluetooth
+T10	Software-OS-Related 1308 1321	Action Center

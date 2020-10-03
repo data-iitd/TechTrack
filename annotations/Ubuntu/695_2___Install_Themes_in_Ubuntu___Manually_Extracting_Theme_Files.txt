@@ -1,0 +1,53 @@
+Install Themes in Ubuntu
+https://www.wikihow.com/Install-Themes-in-Ubuntu
+
+0 - Manually Extracting Theme Files
+
+1 - Search for a theme.
+Search for a theme.  To search for Ubuntu themes, go to https://www.google.com and search "Ubuntu Themes."  Popular lists of themes include the following:
+- Gnome-Look
+- OMG Ubuntu
+- Ubuntu Pit
+- It's Foss.
+
+2 - Click the download link.
+Click the download link.  When you find a theme you want to install click the download link to download the files.
+
+3 - Select "Save File" and click Ok.
+Select "Save File" and click Ok.  This saves the file to your Downloads folder.
+- Some themes have different versions and variations.  Make sure you download the correct version you want to download.
+
+4 - Click the Archive Manager tool.
+Click the Archive Manager tool.  It's the icon that resembles a file cabinet on the dock, which is usually on the left side of the screen.
+
+5 - Click the Downloads folder.
+Click the Downloads folder.
+
+6 - Right-click the downloaded file and select Extract Here.
+Right-click the downloaded file and select Extract Here. Themes and icon files are usually downloaded as a ".tar.xz" file. This extracts the files inside.
+
+7 - Open the extracted folder.
+Open the extracted folder.  This displays the contents of the folder.
+
+8 - Drag and drop any image files to the "Pictures" folder.
+Drag and drop any image files to the "Pictures" folder. The "Pictures" folder is in the sidebar to the left of the file manager. Then click Downloads in the sidebar to the left return to the Downloads folder.
+
+9 - Right-click the extracted folder and select Copy.
+Right-click the extracted folder and select Copy.
+
+10 - Click Home.
+Click Home.  It's the first option at the top of the file manager in the sidebar to the left.
+
+11 - Click the ☰ menu.
+Click the ☰ menu.  It's the icon with three horizontal lines.  It's in the upper-right corner of the Archive Manager.
+
+12 - Click Show Hidden Files on the menu.
+Click Show Hidden Files on the menu. Additional files will appear.
+
+13 - Click the .themes or .icons folder.
+Click the .themes or .icons folder. These are hidden folders in the Home folder.
+- If you don't have a ".themes" or ".icons" folder, click New Folder and create two new folders and name them ".themes" and ".icons".
+
+14 - Right-click a blank space in the folder and click Paste.
+Right-click a blank space in the folder and click Paste. Themes go in the ".themes" folders and icons themes go in the ".icons" folder.
+

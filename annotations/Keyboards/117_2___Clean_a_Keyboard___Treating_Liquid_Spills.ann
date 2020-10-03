@@ -1,0 +1,21 @@
+T1	Hardware-Other 109 117	computer
+T2	Hardware-Devices 133 141	keyboard
+A1	isPowered T2 t->f
+T3	Hardware-Other 359 365	laptop
+T4	Hardware-Devices 811 819	keyboard
+T5	Hardware-Other 957 962	towel
+T6	Hardware-Other 943 952	trash bag
+T7	Hardware-Other 1126 1130	keys
+T8	Hardware-Other 1289 1295	laptop
+T9	Hardware-Devices 1507 1515	keyboard
+T10	Hardware-Other 1534 1539	cloth
+T11	Hardware-Other 1799 1805	towels
+T12	Hardware-Other 1810 1817	tissues
+T13	Hardware-Other 2056 2063	T-shirt
+T14	Hardware-Devices 2088 2096	keyboard
+T15	Hardware-Other 2257 2262	towel
+T17	Hardware-Other 2574 2578	keys
+T18	Hardware-Other 2724 2730	laptop
+T16	Hardware-Devices 2677 2685	keyboard
+A10	isPowered T16 f->t
+T19	Hardware-Other 2852 2856	keys

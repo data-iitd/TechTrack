@@ -1,0 +1,14 @@
+T1	Software-OS-Related 163 176	File Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 429 433	View
+A2	isOpened T2 f->t
+T3	Software-OS-Related 587 594	Options
+A3	isOpened T3 f->t
+T4	Software-OS-Related 877 884	General
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1005 1010	Clear
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1465 1505	Show recently used files in Quick Access
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1512 1554	Show recently used folders in Quick Access
+A7	isSettingsChanged T7 true

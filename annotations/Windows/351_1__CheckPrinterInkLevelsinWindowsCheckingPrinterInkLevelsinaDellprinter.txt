@@ -1,0 +1,23 @@
+Check Printer Ink Levels in Windows
+https://www.wikihow.com/Check-Printer-Ink-Levels-in-Windows
+
+0 - Checking Printer Ink Levels in a Dell printer
+
+1 - Open Control Panel.
+Open Control Panel. You can type “Control Panel” into the Windows search bar in your Start Menu or by pressing ⊞ Win+S.
+
+2 - Click View devices and printers.
+Click View devices and printers. You'll see this under the “Hardware and Sound” header.
+
+3 - Double-click your printer icon.
+Double-click your printer icon. A new window loads with printer features and options.
+
+4 - Click Printer Options.
+Click Printer Options. A new window loads with new tabs and options.
+
+5 - Click the Services tab.
+Click the Services tab. New options appear.
+
+6 - Click Dell Ink levels.
+Click Dell Ink levels. Your printer's ink levels are displayed. If not, your printer may not support this feature.
+

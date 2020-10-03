@@ -1,0 +1,27 @@
+Convince a Windows User to Switch to Linux
+https://www.wikihow.com/Convince-a-Windows-User-to-Switch-to-Linux
+
+0 - Steps
+
+1 - Help them with computer viruses.
+Help them with computer viruses. When someone whines about their computer having viruses explain to them that there is another operating system that is more secure. When they say they don't want to buy a Mac, because they are too expensive, tell them about Linux.
+- ;
+
+2 - Compare the security for them.
+Compare the security for them. Windows is too open when it comes to allowing what programs can do to the operating system itself, that makes it easy for viruses to do whatever they want, because all it takes is to run the .exe file that you downloaded from Internet, which might be fake, so it is up to user to be careful. The only thing that anti-virus software does is take that right away from Windows and recognize threats. Many years later (felt like centuries), Microsoft "invented" the dreaded User Account Control which is annoying so most people disable it, defeating the purpose. Macs and Linux are designed to limit what programs can do to the system. Furthermore, there are infinitely many viruses designed for Windows 8-10 than for Macs (because so few people use Macs), and probably none for Linux. The inventors of Ubuntu provide frequent free security updates, and no one else makes Linux security: There is no need for it!
+
+3 - One at a time.
+One at a time. Switching to a new operating system is a big change for many, one new program is not. It is best for them to try open source software one by one, if they use Internet Explorer, recommend Firefox. When they need to get the job done, recommend to them software that will also work on Linux, such as VLC instead Windows Media Player, because it can do so much more than Windows Media Player.
+
+4 - Use a Linux LiveUSB drive or LiveCD to fix their non-bootable Windows system.
+Use a Linux LiveUSB drive or LiveCD to fix their non-bootable Windows system. Make sure they are around to see how you are doing it. Leave it on for them to try, and tell them that it would run incredibly fast when it's installed on their PC.
+
+5 - When they are ready to try Linux, install it for them as well as all multimedia codecs, any programs they might want to use and open source alternatives.
+When they are ready to try Linux, install it for them as well as all multimedia codecs, any programs they might want to use and open source alternatives. If there is something that is not available for Linux, such as Microsoft Office, make sure you show them how to perform any task they want with LibreOffice for example. Remember that you are something called system administrator and they are only users so you only need to show them how to use Linux, don't try to teach them how to maintain it. It will be too confusing for most users.
+
+6 - WINE to run Windows software.
+WINE to run Windows software. When you install Linux on their PC, also Install WINE, but do not tell them about it, until they want to use a program that is only available for Windows, you want to make sure they use Linux software natively as much as possible.
+
+7 - Help them to help themselves.
+Help them to help themselves. Make sure you tell them about Software Center, so they can install software that is available for Ubuntu. Also, tell them about the Linux communities on the Internet, so when they have a problem they can get help from more experienced Linux users.
+

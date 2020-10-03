@@ -1,0 +1,24 @@
+T1	Software-Other 124 135	ICO Convert
+A1	isOpened T1 f->t
+T2	Software-Other 182 204	http://icoconvert.com/
+T3	Software-Other 224 235	web browser
+T4	Software-Other 340 351	Choose file
+T6	Software-Other 618 622	Open
+A6	isOpened T6 f->t
+T7	Software-Other 730 741	ICO Convert
+A7	isOpened T7 start-T
+T8	Software-Other 756 762	Upload
+A8	isOpened T8 f->t
+T9	Software-Other 815 826	ICO Convert
+T10	Software-Other 1270 1281	Select None
+T11	Hardware-Devices 1450 1459	computers
+A11	isPowered T11 start-T
+T14	Software-Other 1652 1663	Convert ICO
+T15	Software-Other 1768 1786	Download your icon
+A14	isOpened T15 f->t
+A2	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T9	
+T5	Software-Other 1574 1616	ICO for Windows 7, Windows 8, Vista and XP
+A3	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T9	
+A4	isOpened T14 f->t

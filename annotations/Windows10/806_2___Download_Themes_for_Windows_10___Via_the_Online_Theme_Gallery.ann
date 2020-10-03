@@ -1,0 +1,9 @@
+T1	Software-Other 616 624	Download
+T2	Software-OS-Related 147 158	Themes page
+A2	isOpened T2 f->t
+T3	Software-Other 205 212	browser
+A3	isOpened T3 f->t
+A1	isOpened T1 f->t
+T4	Software-Other 788 792	save
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	

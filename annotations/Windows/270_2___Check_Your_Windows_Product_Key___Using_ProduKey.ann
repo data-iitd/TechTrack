@@ -1,0 +1,13 @@
+T1	Software-Other 177 232	http://www.nirsoft.net/utils/product_cd_key_viewer.html
+A1	isOpened T1 f->t
+T2	Software-Other 125 133	ProduKey
+A2	isOpened T2 f->t
+T4	Software-Other 294 302	ProduKey
+A3	isOpened T4 f->t
+A4	isInstalled T4 start-T
+T5	Software-OS-Related 402 406	page
+T7	Software-Other 503 518	ProduKey folder
+A5	isOpened T7 f->t
+T3	Software-Other 666 677	Extract tab
+T6	Software-Other 784 795	Extract all
+A6	isSettingsChanged T6 true

@@ -1,0 +1,32 @@
+Set Keyboard Shortcuts for the Launchpad
+https://www.wikihow.com/Set-Keyboard-Shortcuts-for-the-Launchpad
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Keyboard.
+Click on Keyboard. It's in the center of the preferences window.
+
+4 - Click on Shortcuts.
+Click on Shortcuts.
+
+5 - Click on Launchpad & Dock.
+Click on Launchpad & Dock. It's in the left pane of the dialog box.
+
+6 - Click the checkbox next to "Show Launchpad."
+Click the checkbox next to "Show Launchpad." It's in the right pane of the dialog box.
+
+7 - Click on Show Launchpad.
+Click on Show Launchpad. When you click on the text, it will highlight in blue and a white text box will appear.
+
+8 - Type the key combination for your custom shortcut.
+Type the key combination for your custom shortcut. You have now set a keyboard shortcut for Launchpad.
+- Your custom shortcut should begin with the command (⌘), control, or option key. It can include more than one such key, e.g. control-option-B.
+- Launchpad is an application that appears by default in your Mac's Dock. Unless it's been removed, you can also open Launchpad by clicking on its icon -- a gray circle containing a rocketship -- in your Dock.
+

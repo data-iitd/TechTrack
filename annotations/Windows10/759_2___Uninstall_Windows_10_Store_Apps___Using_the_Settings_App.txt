@@ -1,0 +1,26 @@
+Uninstall Windows 10 Store Apps
+https://www.wikihow.com/Uninstall-Windows-10-Store-Apps
+
+0 - Using the Settings App
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button and select the settings gear .
+
+2 - Go to the Apps category.
+Go to the Apps category. If you don't have this option, click System instead. You're probably running an older version of Windows 10.
+
+3 - Locate the app you wish to uninstall.
+Locate the app you wish to uninstall. Use the search bar to find a specific app if you wish.
+- You can change the order of the list by selecting a different sort order.
+- You can also use the search bar above the app list to find the application.
+
+4 - Click the app listing.
+Click the app listing.
+
+5 - Uninstall the app.
+Uninstall the app. Click the Uninstall.
+
+6 - Confirm the app uninstallation.
+Confirm the app uninstallation. A mini confirmation dialog will appear. Click Uninstall to confirm that you really want to uninstall the app. If you've changed your mind, simply click away.
+- After doing this, the app will disappear from the list and be uninstalled. This may take up to thirty seconds.
+

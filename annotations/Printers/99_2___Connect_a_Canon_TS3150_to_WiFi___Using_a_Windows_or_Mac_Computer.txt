@@ -1,0 +1,65 @@
+Connect a Canon TS3150 to Wi%E2%80%90Fi
+https://www.wikihow.com/Connect-a-Canon-TS3150-to-Wi%E2%80%90Fi
+
+0 - Using a Windows or Mac Computer
+
+1 - Go to the Canon Start Up page.
+Go to the Canon Start Up page. You can use any web browser to complete the setup process for your printer and computer.
+
+2 - Click Set Up.
+Click Set Up. You'll see this next to a red unboxing icon in the middle of the web page.
+
+3 - Enter TS3150 and click Go.
+Enter TS3150 and click Go. Capitalization does not matter.
+- If a region or country selection screen appears, follow the on-screen instructions to continue.
+
+4 - Click Download.
+Click Download. If you're using Windows 10 in S mode, this method will not work; the necessary drivers and software (Inkjet Print Utility) you'll need will automatically download to your computer when your printer is connected to the network.[3]
+- X
+- Research source
+- 
+- Your OS should be detected automatically and you should see the appropriate downloads; however, you can change the OS in the drop-down menu that's located in the upper right corner of the page.
+
+5 - Click the .exe (Windows) or .dmg (Mac) file.
+Click the .exe (Windows) or .dmg (Mac) file. If you're using Windows, you might have to give the file permission to continue. On a Mac, click Next.
+
+6 - Click Start Setup.
+Click Start Setup. You'll see this at the top of the new window.
+
+7 - Click to select your region and country.
+Click to select your region and country. The countries listed change as you select different regions, so if you don't see your country listed in one region, try another.
+- Click Next to continue.
+
+8 - Click Yes after you read the license agreement.
+Click Yes after you read the license agreement. Make sure you agree to the terms before clicking Yes to continue.
+
+9 - Click Agree or Do not agree to install survey software.
+Click Agree or Do not agree to install survey software. It doesn't matter if you agree to this additional software; you'll be able to use the printer either way.
+
+10 - Make sure the box is checked  next to "Deactivate the block.
+Make sure the box is checked  next to "Deactivate the block." This ensures that your printer and computer can communicate through the firewall.
+- Click Next to continue.
+
+11 - Select the connection type (if the connection selection screen appears).
+Select the connection type (if the connection selection screen appears). You can choose to use a wireless connection or USB connection.[4]
+- X
+- Research source
+- 
+- If your computer automatically detected the connection to your printer and didn't display this screen, you can skip this step.
+
+12 - Click Yes (if you see the check connection method screen).
+Click Yes (if you see the check connection method screen). You should see your printer's serial number displayed as well as any other pertinent information, like your wireless router's ID.
+- If the information displayed on this screen is incorrect, click No to be able to reconnect to a different router or printer.
+
+13 - Click Next.
+Click Next. You'll see this after you've successfully connected your printer and computer.
+- To complete the setup, continue following the on-screen instructions, including aligning the print head and performing a print test.
+
+14 - Click Next to install the appropriate software.
+Click Next to install the appropriate software. You'll be able to select parts of the software (like the Quick Menu) to install.
+
+15 - Click Exit.
+Click Exit. When the printing software is downloaded and installed, you'll be able to close the setup tutorial.[5]
+- X
+- Research source
+

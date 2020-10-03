@@ -1,0 +1,11 @@
+T1	Software-Other 201 204	CVS
+T2	Software-Other 208 211	SVN
+A1	isInstalled T1 start-T
+A2	isInstalled T2 start-T
+T3	Software-Other 1506 1515	configure
+A3	isSettingsChanged T3 true
+T4	Software-Other 2524 2527	ant
+A4	isInstalled T4 start-T
+T5	Software-OS-Related 3056 3064	Autoconf
+T6	Software-OS-Related 3066 3074	automake
+T7	Software-OS-Related 3079 3086	libtool

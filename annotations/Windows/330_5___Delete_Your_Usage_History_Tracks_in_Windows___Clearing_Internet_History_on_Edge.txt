@@ -1,0 +1,23 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing Internet History on Edge
+
+1 - Open Microsoft Edge.
+Open Microsoft Edge. Click the Microsoft Edge app icon, which resembles a dark-blue box with a white "e" on it (or, in some cases, a dark-blue "e").
+
+2 - Click ⋯.
+Click ⋯. This option is in the top-right corner of the Edge window. Clicking it prompts a drop-down menu.
+
+3 - Click Settings.
+Click Settings. It's at the bottom of the drop-down menu.
+
+4 - Scroll down and click Choose what to clear.
+Scroll down and click Choose what to clear. This button is beneath the "Clear browsing data" heading.
+
+5 - Make sure "Download History" and "Browsing History" are checked.
+Make sure "Download History" and "Browsing History" are checked. You can check other items here as well, but these two items must be checked in order to clear your Edge history.
+
+6 - Click Clear.
+Click Clear. It's in the middle of the menu. Doing so will delete your Edge browsing and downloads history.
+

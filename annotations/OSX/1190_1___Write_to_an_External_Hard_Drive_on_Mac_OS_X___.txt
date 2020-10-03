@@ -1,0 +1,33 @@
+Write to an External Hard Drive on Mac OS X
+https://www.wikihow.com/Write-to-an-External-Hard-Drive-on-Mac-OS-X
+
+0 - 
+
+1 - Connect your drive.
+Connect your drive. Using your cable of choice (usually USB), connect your external hard drive to your Mac.
+- ;
+
+2 - Check the format of the drive.
+Check the format of the drive. Make sure your external hard drive is NTFS formatted. To do this, right click on your external drive, then click Get Info.
+
+3 - Confirm NTFS formatting.
+Confirm NTFS formatting. In the Info window, select the General tab. Under this tab should be a Format info field. This should read "Format: NTFS"
+
+4 - Install third-party software.
+Install third-party software. Mac OS X does not offer native write support for NTFS-formatted drives. In order to write to drives formatted this way, you will need a third-party application or patch.
+- One popular example of this type of software is the open source software NTFS-3G.[1]
+- X
+- Research source
+- 
+- 
+- NTFS-3G's developers also maintain a commercial, more stable, standalone application that enables NTFS writing.
+
+5 - Restart your computer.
+Restart your computer. The installer will ask you to restart your computer. Allow it to restart in order to complete installation.
+
+6 - Check for successful installation.
+Check for successful installation. After restarting your Mac, you should see a new icon labeled "NTFS-3G" in your System Preferences. This may differ if you are using Tuxera.
+
+7 - Do a test write.
+Do a test write. Copy a file from your computer to your external hard drive. If it copies correctly, then you may now write files to your external hard drive.
+

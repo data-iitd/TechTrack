@@ -1,0 +1,47 @@
+Change Windows Startup Sound
+https://www.wikihow.com/Change-Windows-Startup-Sound
+
+0 - Windows 8 Logon Sound
+
+1 - Understand what has changed in Windows 8.
+Understand what has changed in Windows 8. Microsoft made a lot of changes to the underlying Windows architecture in order to boost performance for Windows 8. One of the features that got cut was the sounds that plays when Windows starts up and shuts down. You can re-enable these using the Windows Registry, but thanks to another Windows 8 feature (Fast Boot), you'll only hear them when you perform a full manual shutdown.
+- Note: This method will only change the Logon sound.
+
+2 - Open the Windows Registry Editor.
+Open the Windows Registry Editor. You can do this by pressing the ⊞ Win key and typing regedit.
+
+3 - Use the directory tree on the left to navigate to .
+Use the directory tree on the left to navigate to .HKEY_CURRENT_USER → AppEvents → EventLabels.
+
+4 - Find and open the .
+Find and open the .WindowsLogon folder.
+
+5 - Double click the .
+Double click the .ExcludeFromCPL key.
+
+6 - Change the value from .
+Change the value from .1 to 0. Click OK.
+
+7 - Repeat this for any other disabled sounds you want to re-enable.
+Repeat this for any other disabled sounds you want to re-enable. This includes WindowsLogoff and SystemExit.
+
+8 - Open the Control Panel.
+Open the Control Panel. You can search for it or press ⊞ Win+X and select it from the menu.
+
+9 - Select the "Sounds" option and click the .
+Select the "Sounds" option and click the .Sounds tab.
+
+10 - Scroll down and select the "Windows Logon" entry.
+Scroll down and select the "Windows Logon" entry.
+
+11 - Click .
+Click .Browse... to search your computer for a replacement sound. It must be in WAV format.
+
+12 - Perform a full shutdown.
+Perform a full shutdown. In order to hear your logon sound, you must boot up from a full shutdown. Performing a regular shutdown will enable Fast Boot when you turn your computer on again, skipping the sound.
+- Press ⊞ Win+X
+- Select "Shut down or sign out" → "Shut down"
+
+13 - Boot your computer up.
+Boot your computer up. You should hear your new logon sound once the computer logs into Windows.
+

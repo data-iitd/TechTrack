@@ -1,0 +1,31 @@
+Connect Wireless Keyboard to PC
+https://www.wikihow.com/Connect-Wireless-Keyboard-to-PC
+
+0 - Connecting a Bluetooth Keyboard on Windows 7
+
+1 - Open the Start menu.
+Open the Start menu. Do this either by clicking the Windows icon in the bottom-left corner of the screen, or by pressing the ⊞ Win key on your computer's keyboard.
+
+2 - Click Devices and Printers.
+Click Devices and Printers. This button should be on the right side of the Start window, just below the Control Panel option.
+- If you don't see this option, type devices and printers into the "Search" field at the bottom of the Start window, then click Devices and Printers.
+
+3 - Click Add a device.
+Click Add a device. This link is in the top-left side of the Devices and Printers window.
+
+4 - Turn on your keyboard.
+Turn on your keyboard. To do so, you must first locate the On/Off switch. Its location will vary depending on the keyboard, so look on the bottom, back, and sides of the keyboard.
+- If your keyboard uses batteries, you'll also need to make sure it has a fresh set before continuing.
+- Many Bluetooth keyboards use built-in, rechargeable batteries instead of AAs or AAAs, so if your keyboard came with a charger, consider charging it for awhile before turning it on.
+
+5 - Look for the keyboard's name.
+Look for the keyboard's name. After a few seconds, it should appear beneath the "Bluetooth" heading.
+- Your keyboard may have a pairing button that you must first press before it will show up in the Bluetooth menu.
+- If you don't see your keyboard's name, your Windows 7 computer might not support Bluetooth. You can fix this by purchasing a Bluetooth adapter.
+
+6 - Click Next.
+Click Next. It's in the bottom-right corner of the window.
+
+7 - Wait for your keyboard to finish connecting.
+Wait for your keyboard to finish connecting. This process may take a few minutes. Once it completes, you should be able to use your wireless keyboard like a normal keyboard.
+

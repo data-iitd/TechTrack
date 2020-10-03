@@ -1,0 +1,31 @@
+T1	Software-OS-Related 179 184	Start
+A1	isOpened T1 f->t
+T3	Software-OS-Related 311 324	File Explorer
+A3	isOpened T3 f->t
+T4	Software-OS-Related 420 427	Desktop
+A4	isOpened T4 f->t
+T5	Software-OS-Related 568 579	folder icon
+A5	isOpened T5 f->t
+T6	Software-OS-Related 777 781	Home
+A6	isOpened T6 f->t
+T7	Software-Other 888 895	toolbar
+T10	Software-OS-Related 935 945	Properties
+A9	isOpened T10 f->t
+T12	Software-OS-Related 1036 1043	toolbar
+T13	Software-OS-Related 1172 1184	Change Icon"
+T16	Software-OS-Related 1436 1442	Folder
+T17	Software-OS-Related 1577 1581	icon
+T18	Software-OS-Related 1652 1663	System icon
+T19	Software-OS-Related 1698 1709	Custom icon
+T20	Software-OS-Related 1873 1875	OK
+A13	isOpened T20 f->t
+T8	Software-OS-Related 845 858	File Explorer
+A8	isOpened T16 f->t
+A10	isOpened T18 f->t
+A16	isOpened T19 f->t
+T9	Software-OS-Related 1939 1944	Apply
+A14	isSettingsChanged T9 true
+T11	Software-OS-Related 1957 1959	OK
+A15	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T6	
+A2	isOpened T13 f->t

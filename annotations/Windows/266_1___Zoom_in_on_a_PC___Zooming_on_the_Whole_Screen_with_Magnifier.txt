@@ -1,0 +1,40 @@
+Zoom in on a PC
+https://www.wikihow.com/Zoom-in-on-a-PC
+
+0 - Zooming on the Whole Screen with Magnifier
+
+1 - Press ⊞ Win++ on the keyboard.
+Press ⊞ Win++ on the keyboard. Pressing the Windows key and the + (plus) key at the same time will activate the Magnifier feature on Windows 10 and 8.1.[1]
+- X
+- Research source
+- 
+-  The tool will immediately magnify the entire screen until you change the settings.
+- If you're using Windows 7, click the Start button, type magnifier into the search bar, and then click Magnifier in the search results.
+- Windows 10 and 8 users who'd prefer to use a mouse can also open Magnifier by navigating to Settings > Ease of Access > Magnifier > Turn on Magnifier (or use the slider).
+
+2 - Click the + to zoom in.
+Click the + to zoom in. This magnifies the entire screen. You can keep clicking this button until you reach the desired zoom level.
+- The percentage (e.g., 200%) will update as you zoom in and out.
+- If you'd rather zoom in with the keyboard, press Windows key and the + key (the same shortcut you used to open the tool).
+
+3 - Click the - to zoom out.
+Click the - to zoom out. As with zooming in, you can keep clicking this button until you're zoomed out to the desired level.
+- You can also zoom out by pressing the Windows key and the - (minus) key.
+
+4 - Click the Views menu to choose where to zoom.
+Click the Views menu to choose where to zoom. The default option is to magnify the entire screen, but you have other options:
+- 
+- Lens acts like a magnifying glass that you move around the screen.
+- Full-screen magnifies the entire screen (the default).
+- Docked magnifies a fixed portion of the screen in a bar or box. The zoomed content will appear in the box as you move the cursor around.[2]
+- X
+- Research source
+
+5 - Click the gear icon to manage your Magnifier preferences.
+Click the gear icon to manage your Magnifier preferences. This opens the Magnifier panel in settings, where you can customize Magnifier to your liking.
+- If you'd like Magnifier to launch automatically when you start your computer, select either Start Magnifier after sign-in or Start Magnifier before sign-in for everyone.
+- To change the default view, select an option from the "Choose a view" menu.
+
+6 - Click the X at the top-right corner to close Magnifier.
+Click the X at the top-right corner to close Magnifier.
+

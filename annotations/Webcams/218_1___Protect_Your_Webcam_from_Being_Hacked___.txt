@@ -1,0 +1,27 @@
+Protect Your Webcam from Being Hacked
+https://www.wikihow.com/Protect-Your-Webcam-from-Being-Hacked
+
+0 - 
+
+1 - Open the Start menu .
+Open the Start menu .
+
+2 - Click on the settings button .
+Click on the settings button . It's right above the power button.
+
+3 - Open the Privacy settings.
+Open the Privacy settings.
+
+4 - Select Camera in the navigation page.
+Select Camera in the navigation page. The navigation pane is to the right, and the settings for "Camera" are located under the "App permissions" group.
+
+5 - Control which Windows store apps can access your webcam.
+Control which Windows store apps can access your webcam. Change the toggle switch next to the apps to control whether or not they can access the webcam.
+- It is recommended that you turn off access to apps that you don't use to help protect your privacy.
+- Turn off access to all apps by switching off the toggle switch under "Allow apps to access your camera." This will only stop apps from the Windows store from accessing your camera.
+
+6 - Disable webcam access entirely (optional).
+Disable webcam access entirely (optional). If you don't use your webcam at all, then you can disable webcam access entirely by clicking on Change under "Allow access to the camera on this device", and then changing the toggle switch to off .
+- If you use your camera rarely, then you might want to turn off your webcam entirely, and only turn it on when you use it.
+- While this method will stop many viruses and hackers from being able to access your webcam, it is not foolproof and it can still be bypassed. The only way to be sure that your webcam cannot be hacked is to disconnect or cover it.
+

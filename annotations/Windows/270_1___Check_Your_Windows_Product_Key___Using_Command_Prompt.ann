@@ -1,0 +1,13 @@
+T1	Software-OS-Related 127 132	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 159 166	Windows
+T3	Hardware-Devices 205 211	screen
+T4	Software-OS-Related 230 244	command prompt
+A2	isOpened T4 start-T
+T5	Hardware-Devices 311 319	computer
+T6	Software-OS-Related 361 376	 Command Prompt
+A3	isOpened T6 start-T
+T8	Software-OS-Related 580 591	product key
+A4	isOpened T8 start-T
+T9	Software-OS-Related 719 733	Command Prompt
+T10	Software-OS-Related 772 783	product key

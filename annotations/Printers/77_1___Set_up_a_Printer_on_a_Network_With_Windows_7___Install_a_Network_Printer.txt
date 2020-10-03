@@ -1,0 +1,38 @@
+Set up a Printer on a Network With Windows 7
+https://www.wikihow.com/Set-up-a-Printer-on-a-Network-With-Windows-7
+
+0 - Install a Network Printer
+
+1 - Obtain the name that has been given to the network printer.
+Obtain the name that has been given to the network printer.
+- Contact your network administrator if you are unfamiliar with the name of the network printer you need to install.
+- ;
+
+2 - Turn on the network printer.
+Turn on the network printer.
+
+3 - Click on the Start button or Windows logo from the bottom left-hand corner of your computer screen.
+Click on the Start button or Windows logo from the bottom left-hand corner of your computer screen.
+
+4 - Select "Devices and Printers" by clicking on it.
+Select "Devices and Printers" by clicking on it.
+
+5 - Select "Add a Printer" by clicking on it to bring up the Add Printer wizard.
+Select "Add a Printer" by clicking on it to bring up the Add Printer wizard.
+
+6 - Click on "Add a network, wireless or Bluetooth printer.
+Click on "Add a network, wireless or Bluetooth printer."
+
+7 - Click on the name of the printer you want to set up from the list of available printers that appear.
+Click on the name of the printer you want to set up from the list of available printers that appear.
+
+8 - Click on the "Next" button.
+Click on the "Next" button.
+
+9 - Click on "Install driver" if you are prompted to install the printer driver.
+Click on "Install driver" if you are prompted to install the printer driver.
+- You may be prompted to type in the administrator password if you are connected to a network.
+
+10 - Click on the "Finish" button to finish installing the printer and close the Add Printer wizard.
+Click on the "Finish" button to finish installing the printer and close the Add Printer wizard.
+

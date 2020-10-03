@@ -1,0 +1,10 @@
+T1	Software-Other 234 245	Photo Booth
+A1	isOpened T1 f->t
+T2	Software-Other 284 291	Effects
+A2	isOpened T2 f->t
+T3	Software-Other 590 603	User Backdrop
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 849 857	backdrop
+A4	isSettingsChanged T4 true
+R2	SubPart Arg1:T4 Arg2:T2	

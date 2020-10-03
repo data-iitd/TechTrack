@@ -1,0 +1,33 @@
+Disable Driver Signature Enforcement in Windows 10
+https://www.wikihow.com/Disable-Driver-Signature-Enforcement-in-Windows-10
+
+0 - Steps
+
+1 - Click on the  Button.
+Click on the  Button. From the windows 10 desktop screen click on the start button.
+- ;
+
+2 - Click on the  Icon.
+Click on the  Icon. From the start menu click on the power icon.
+
+3 - Restart Windows 10 in Advanced Mode.
+Restart Windows 10 in Advanced Mode. Press and hold down the ⇧ Shift on your keyboard and Click on the Restart Button.
+
+4 - Click on Troubleshoot.
+Click on Troubleshoot. After restarting the pc, Windows will ask you to choose an option.
+
+5 - Click Advanced Options.
+Click Advanced Options. From the Troubleshoot screen click on advanced options.
+
+6 - Click Startup Settings.
+Click Startup Settings. In the Advance Option screen, click on Startup Settings.
+
+7 - Click On Restart Button.
+Click On Restart Button. In order to change windows settings  click on restart button from the Startup Settings.
+
+8 - Press 7 key on your keyboard.
+Press 7 key on your keyboard. From the startup settings press 7 key to Disable Driver Signature Enforcement on your windows 10.
+
+9 - Install Unsigned  Mobile Drivers without any issue.
+Install Unsigned  Mobile Drivers without any issue. Your PC will boot with driver signature enforcement disabled and you’ll be able to install unsigned drivers. However, the next time you restart your computer, driver signature enforcement will be disabled—unless you go through this menu again. You’re now free to install drivers that haven’t been officially signed by Microsoft.
+

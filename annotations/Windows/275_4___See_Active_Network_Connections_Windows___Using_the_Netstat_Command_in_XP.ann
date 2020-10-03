@@ -1,0 +1,6 @@
+T1	Software-OS-Related 159 164	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 194 197	Run
+A2	isOpened T2 f->t
+T3	Software-OS-Related 265 268	cmd
+A3	isOpened T3 f->t

@@ -1,0 +1,22 @@
+T1	Software-Other 149 160	web browser
+T2	Software-Other 616 623	browser
+A1	isInstalled T2 f->t
+T3	Software-Other 689 697	DMG file
+A2	isOpened T3 f->t
+T4	Software-OS-Related 767 781	browser's icon
+T5	Software-OS-Related 791 819	Applications folder shortcut
+T6	Software-Other 882 887	Eject
+T7	Software-Other 861 871	DMG window
+T8	Software-OS-Related 927 937	Apple menu
+A3	isOpened T8 f->t
+T9	Software-OS-Related 1065 1084	System Preferences…
+A4	isOpened T9 f->t
+T10	Software-OS-Related 1214 1221	General
+A5	isOpened T10 f->t
+T11	Software-OS-Related 1401 1420	Default web browser
+A6	isOpened T11 f->t
+T12	Software-OS-Related 1568 1575	browser
+A7	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	
+T13	Software-OS-Related 1914 1932	System Preferences
+A8	isOpened T13 t->f

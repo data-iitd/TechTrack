@@ -1,0 +1,21 @@
+T1	Software-Other 125 139	Microsoft Edge
+A1	isOpened T1 f->t
+T2	Software-Other 587 595	Register
+A2	isSettingsChanged T2 true
+T3	Software-Other 603 617	Non-commercial
+A3	isOpened T3 start-T
+R1	SubPart Arg1:T2 Arg2:T3	
+T4	Software-Other 761 769	Download
+A4	isSettingsChanged T4 true
+T5	Software-Other 1038 1045	EasyBCD
+A5	isOpened T5 f->t
+T6	Software-Other 1301 1308	EasyBCD
+A6	isOpened T6 f->t
+T7	Software-Other 1440 1447	EasyBCD
+A7	isOpened T7 f->t
+T8	Software-Other 1598 1607	Linux_BSD
+A8	isOpened T8 f->t
+T9	Software-Other 1684 1690	Grub 2
+T10	Software-Other 1701 1705	Type
+R2	SubPart Arg1:T9 Arg2:T10	
+T11	Hardware-Other 2283 2292	USB drive

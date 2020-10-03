@@ -1,0 +1,13 @@
+T1	Software-Other 169 176	Firefox
+A1	isOpened T1 f->t
+T2	Software-Other 410 417	Library
+A2	isOpened T2 f->t
+T3	Software-Other 500 507	History
+A3	isOpened T3 f->t
+T4	Software-Other 569 590	Clear Recent History…
+A4	isOpened T4 f->t
+T5	Software-Other 961 968	Details
+A5	isOpened T5 f->t
+T6	Software-Other 1325 1334	Clear Now
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T1	

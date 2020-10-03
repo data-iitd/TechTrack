@@ -1,0 +1,29 @@
+Transfer a Hand Drawing to a Computer
+https://www.wikihow.com/Transfer-a-Hand-Drawing-to-a-Computer
+
+0 - Using a Scanner
+
+1 - Find a scanner to use.
+Find a scanner to use. Typically, scanners are found near or combined with printers. If you don't have one at home, see if your local library or school/college campus has one you can use.
+
+2 - Place the drawing in the scanner.
+Place the drawing in the scanner. Make sure the drawing is placed in the correct direction. You can always fix the rotation later on in through in-house software.
+
+3 - Check for a connection point to access the file once scanned.
+Check for a connection point to access the file once scanned. This could be through USB, WiFi, or through uploading on the internet (ex: Google Drive).
+
+4 - Scan the drawing.
+Scan the drawing. Wait, how do you do that? Fortunately, there is usually some free pre-installed software. Examples of software used are Image Capture for Mac and Scan for Windows 10.
+- Note: There are many slight nuances to scanning with different equipment so, if your lost on how to do this step then google "How to scan on [name of what your scanning with]." Hopefully, there is a wikiHow on that.
+
+5 - Configure scan settings.
+Configure scan settings. Depending on your preferences, you can change certain settings. 
+- Color: You could choose to have color or black and white.
+- DPI:  Increasing the DPI value to its highest is recommended for a better resolution (around 600 DPI will do fine) since it allows for manipulations later on. A lower value will be fine too, but editing it may make the drawing look worse.
+- File format: There are multiple file formats to choose but, JPEG and PNG are typically suitable. PNG is more preferable since it can scale while retaining its resolution at the cost of a larger file size.
+
+6 - Edit the digital drawing.
+Edit the digital drawing. Most likely, the drawing will have some problems. Both Windows and Mac have their own in-house software for this. There is also free photo-editing software available such as Gimp. Clicking "Edit/markup" on Windows/Mac will pull up a window to make changes.
+- Crop: Clears up any white space on the edges of the paper if you haven't used the whole page for the drawing.
+- Note: You can convert/trace the drawing to a vector format for easier editing. This information will be mentioned later in the article.
+

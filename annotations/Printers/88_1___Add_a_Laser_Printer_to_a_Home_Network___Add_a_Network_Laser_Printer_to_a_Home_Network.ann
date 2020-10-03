@@ -1,0 +1,21 @@
+T1	Hardware-Other 398 412	Ethernet cable
+T2	Hardware-Other 416 425	USB cable
+T3	Hardware-Other 431 450	wireless connection
+T4	Hardware-Devices 709 722	laser printer
+T5	Hardware-Other 989 1002	Ethernet port
+T6	Hardware-Other 1010 1024	network router
+T7	Hardware-Other 1192 1200	USB port
+T8	Hardware-Other 1480 1492	setup button
+T9	Software-OS-Related 1516 1529	control panel
+A1	isOpened T9 f->t
+T10	Software-OS-Related 1542 1554	setup wizard
+A2	isOpened T10 f->t
+T11	Software-OS-Related 1723 1725	OK
+T12	Software-OS-Related 2239 2252	Add a printer
+A3	isOpened T12 f->t
+T13	Software-OS-Related 2338 2382	Add a network, wireless or Bluetooth printer
+A4	isOpened T13 f->t
+T14	Software-OS-Related 2395 2399	Next
+A5	isSettingsChanged T14 true
+R1	SubPart Arg1:T14 Arg2:T10	
+T15	Hardware-Other 2568 2577	computers

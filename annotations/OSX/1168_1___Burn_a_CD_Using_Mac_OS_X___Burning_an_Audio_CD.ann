@@ -1,0 +1,17 @@
+T1	Software-OS-Related 128 134	iTunes
+A1	isOpened T1 f->t
+T2	Software-OS-Related 170 174	File
+A2	isOpened T2 f->t
+T3	Software-OS-Related 145 157	new playlist
+A3	isOpened T3 f->t
+T4	Software-Other 511 516	songs
+A4	isSettingsChanged T4 true
+T5	Hardware-Other 1412 1420	blank CD
+T6	Software-OS-Related 1428 1432	File
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1446 1467	Burn Playlist to Disc
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1966 1979	burn settings
+T9	Software-OS-Related 2641 2645	Burn
+A7	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T7	

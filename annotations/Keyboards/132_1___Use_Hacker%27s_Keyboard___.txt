@@ -1,0 +1,25 @@
+Use Hacker%27s Keyboard
+https://www.wikihow.com/Use-Hacker%27s-Keyboard
+
+0 - 
+
+1 - Open your device’s Settings menu.
+Open your device’s Settings menu. Go to the Settings application on your device by tapping the gear app icon on your home screen or application drawer.
+
+2 - Open the Hacker’s Keyboard settings.
+Open the Hacker’s Keyboard settings. Scroll down to the Language and Input menu, and tap on it. Under the list of Keyboards in the Language and Input menu, tap “Hacker’s Keyboard.” This will open the settings menu for the keyboard app.
+
+3 - Select a screen layout.
+Select a screen layout. Look under the Keyboard View settings header. Here, you can set the keyboard to portrait or landscape mode by tapping on the option and using the slider to adjust the percentage.
+
+4 - Select a row layout.
+Select a row layout. Under each screen layout option, portrait and landscape, you can choose to either have the 4-row or 5-row layout. The latter will have more buttons for advanced input, as well as arrow keys, Ctrl, Alt, and FN keys to name a few. Tap to select the option you prefer.
+- The 4-row layout is best for when the device is in portrait mode, and the 5-row layout is more efficient when used in landscape orientation.
+
+5 - Tinker with the other settings.
+Tinker with the other settings. In the Settings menu for Hacker’s Keyboard, you will be able to find a host of other configuration options, all of which are plain to understand and try out. Tinker with the settings to get the best experience with the keyboard. It is a rewarding experience, especially when you frequently type on a Terminal emulator or when needing input that you can only do on a full PC keyboard.
+
+6 - Test it out.
+Test it out. Open an application with a text field to try Hacker’s Keyboard out. Your previous keyboard will be replaced with a plain Android Gingerbread-themed keyboard. The difference is that It will be almost like a desktop keyboard!
+- You can use the arrow keys when on the 5-row layout to move the text cursor, as well as the Esc key when using PC emulators on your Android device.
+

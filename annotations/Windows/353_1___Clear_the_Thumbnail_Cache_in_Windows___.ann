@@ -1,0 +1,12 @@
+T1	Software-OS-Related 119 131	Disk Cleanup
+A1	isOpened T1 f->t
+T2	Hardware-Other 305 315	hard drive
+T3	Hardware-Devices 478 486	computer
+A2	isUsed T3 true
+T4	Software-OS-Related 163 168	Start
+A3	isOpened T4 f->t
+T6	Software-OS-Related 926 938	Delete Files
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T1	
+T5	Software-OS-Related 797 809	Disk Cleanup
+A4	isOpened T5 f->t

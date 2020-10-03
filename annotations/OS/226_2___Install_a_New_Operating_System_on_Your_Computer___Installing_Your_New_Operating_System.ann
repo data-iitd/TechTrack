@@ -1,0 +1,46 @@
+T1	Software-OS-Related 267 285	Linux distribution
+T2	Software-OS-Related 317 324	Windows
+T3	Software-OS-Related 418 429	boot loader
+T4	Software-OS-Related 520 524	Boot
+T5	Software-OS-Related 535 552	installation disc
+T6	Hardware-Other 637 642	drive
+T7	Software-OS-Related 648 654	reboot
+T8	Hardware-Other 660 668	computer
+T9	Software-OS-Related 772 776	BIOS
+A1	isOpened T9 f->t
+T10	Software-OS-Related 1083 1095	Boot section
+T11	Software-OS-Related 1106 1118	DVD/CD drive
+T12	Software-OS-Related 1174 1183	USB drive
+T13	Software-OS-Related 1337 1342	Setup
+A2	isOpened T13 t->f
+T14	Software-OS-Related 1387 1405	Linux distribution
+T15	Hardware-Other 1552 1569	installation disc
+T16	Software-OS-Related 1595 1605	test drive
+T17	Software-OS-Related 1909 1922	Setup program
+T18	Software-OS-Related 1985 2001	operating system
+T19	Software-OS-Related 2055 2060	files
+T20	Hardware-Other 2069 2077	computer
+T21	Software-OS-Related 2252 2260	language
+T22	Software-OS-Related 2265 2280	keyboard layout
+T23	Software-OS-Related 2300 2311	product key
+T24	Software-OS-Related 2360 2369	Windows 8
+T25	Software-OS-Related 2694 2701	Windows
+T26	Software-OS-Related 2756 2775	Custom installation
+T27	Software-OS-Related 2730 2739	Upgrading
+T28	Software-OS-Related 3020 3025	Linux
+T29	Software-OS-Related 3363 3369	Format
+T30	Software-OS-Related 3375 3385	partitions
+T31	Software-OS-Related 3434 3441	Windows
+T32	Software-OS-Related 3473 3493	hard drive partition
+T33	Software-OS-Related 3787 3800	Linux options
+T34	Software-OS-Related 3898 3906	timezone
+T35	Software-OS-Related 3938 3946	username
+T36	Software-OS-Related 3951 3959	password
+T37	Hardware-Other 4258 4266	computer
+T38	Software-OS-Related 4373 4379	reboot
+T39	Software-OS-Related 4447 4460	Windows login
+T40	Software-OS-Related 4560 4568	username
+T41	Software-OS-Related 4602 4610	password
+T42	Software-OS-Related 4701 4712	product key
+T43	Software-Device-Drivers 4914 4921	drivers
+T44	Software-Other 4926 4934	programs

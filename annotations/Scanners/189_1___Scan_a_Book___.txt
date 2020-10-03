@@ -1,0 +1,91 @@
+Scan a Book
+https://www.wikihow.com/Scan-a-Book
+
+0 - 
+
+1 - Choose a scanner.
+Choose a scanner. You'll need to make a choice between a flatbed scanner and a sheet feed scanner, depending on what you can afford and what you're looking for:
+- A flatbed scanner generally costs less and offers precise scans. The benefits of this scanner is that the book does not require its pages separated or its binding to be destroyed. Furthermore, flatbeds can easily scan just about anything that can be placed on the glass, not just paper documents. It is simple and flexible, especially for books.
+- A sheet feed scanner is able to scan both sides of the page and is much faster than a flatbed. A sheet feed scanner requires the same amount of space as a flatbed, but scanning a bound book is impossible using this type of scanner (unless the book is destroyed by separating each of the pages.) There are some other disadvantages to sheet feed scanners:
+- The moving parts required to do the job of feeding are prone to jamming and malfunction, which typically renders the scanner useless.
+- Feed scanners are not designed for books, but for digitizing large amounts of single-page documents.
+- Feed scanners usually offer less crisp images; the pages have to move through the scanner in order to be read by the machine.
+- 
+- ;
+
+2 - Look for an extended warranty offer when purchasing your scanner.
+Look for an extended warranty offer when purchasing your scanner. A good sheet feed scanner, even at the low end in price, is an investment, so consider getting an extended warranty from a third party. If you'll be using your scanner a lot, get an extended warranty.
+- The well known third party warranty users like "Square Trade" cost more than other warranty issuers. But because such companies tend to be affiliated with well known companies, you can generally have more confidence in them.
+- The warranty price and length will be cheaper than getting an extended warranty bought locally. Weigh the expense by factoring in the costs of shipping (if necessary), insurance, confidence in the warranty issuer, and your estimate of the frequency of repair.
+
+3 - Separate the book into individual pages.
+Separate the book into individual pages. This is an absolute necessity with a sheet feed scanner. With a flatbed scanner, it is a good idea to separate the pages to achieve an excellent scan and to avoid damaging your scanner because scanning a bound book requires pressing the cover on the book with some force.
+- If there is a print or copy shop nearby, you may be able to take the book to them and ask them to cut off the binding with large powerful paper shears. This costs very little and will save a great deal of time; it eliminates the next few steps and all your pages will be square and devoid of binding glue or stitching.
+
+4 - Remove the binding from the book.
+Remove the binding from the book. Contrary to what you may think, there are easy ways to do this with both a hardcover book and a paperback:
+- Hardcover: Use a utility knife to cut the paper hinge between the covers and endpapers. Then hit the flue with a moist, not wet, sponge to remove any paper residue.
+- Paperback: Use a blow-drier on its warm, not hot, setting to slowly heat up the glue holding the paper to the spine. Then simply pull the pages from the spine until they all come off in one bunch.
+
+5 - Use a utility knife to cut off pages in groups of about 20.
+Use a utility knife to cut off pages in groups of about 20. You can start from the font and work your way to the back. Or you can fold the book in half in the middle and break two equal portions in half, and then break each half in half, and so on.
+
+6 - If possible, carve off the binding glue, along with a thin strip of paper, with a sharp knife first or industrial shears.
+If possible, carve off the binding glue, along with a thin strip of paper, with a sharp knife first or industrial shears. Industrial shears are not essential, but if you decide to purchase one, choose the old style cutter because it can cut thin strips easily.
+- When cutting with a rotary cutter, overlap the paper, on the cutting platform, or else the paper will sink into the groove and the ends will not cut thoroughly.
+- Additionally, to minimize uneven cutting, when using a rotary blade cutter, reduce the amount of sheets you cut. With a rotary cutter, your margins will be narrower on one side (cropping can adjust the margin width). A good scissors and a photo editing program like Windows Live is all that you need to get the pages looking professional in the end.
+
+7 - Peel off any remaining binding glue on each page to protect your scanner.
+Peel off any remaining binding glue on each page to protect your scanner. If you used industrial shears or a rotary cutter to remove the binding glue, you won't have much to remove.
+- There might be an adhesive type of glue also — remove this too, as you want to avoid paper jams.
+- If you have streaks on your scanned images, you may have some glue on the glass lens.  Wipe the sticky, rubber cement glue off of the glass lens with a soft cotton cloth moistened with rubbing alcohol or glass cleaner.
+
+8 - As much as possible, keep the pages organized and in sequential order.
+As much as possible, keep the pages organized and in sequential order. At this stage, if they aren't in order, organize them so that they are.
+
+9 - If you do not have Paper Port, purchase this software or software similar to it.
+If you do not have Paper Port, purchase this software or software similar to it. Paper Port connects the scanned pages together and it also converts your scans to various file types such as PDF, TIFF, JPEG, BNG, etc. PDF files are good because they cannot accidentally be altered later when reading your book on your computer. For basic scanning, PDF and TIFF files are enough.
+
+10 - Also consider download Windows Live image editing program or similar software.
+Also consider download Windows Live image editing program or similar software. Use Windows Live to fix the irregular edges of the pages by cropping them. These irregular edges are caused when separating the book into individual pages and could be distracting to view. Use the "straighten image" and "cropping" features in Windows Live.
+- If you so desire, make your scanning projects technically correct. Windows Live works well because the final product will be uniform in size without configuring.
+
+11 - Scan the book completely including the blank pages.
+Scan the book completely including the blank pages. The blank pages have a purpose — they stop the flow of thought. If you do not include blank pages, include a note of this. For example, if blank pages 95 and 96 were omitted, put a note on page 94 (write: "page 95 and 96 were blank"), because in the future it might be temporarily confusing to find those two pages missing. Have the scan number correspond with the page number, or very close to it, so when using Adobe Reader later, it will be easy to navigate through the book.
+
+12 - Protect your home scanner by feeding it just one page at a time.
+Protect your home scanner by feeding it just one page at a time. Paper jams from feeding more than a page will wear out the scanner roller area faster.
+- Pages that were joined (stacked) by Paper Port can be separated into individual pages by Paper Port, but if you have have a batch of pages, all on one page, and made by your scanner -this file cannot be altered. If you scan your pages separately, any mistake can be deleted and replaced with a rescan of that page.
+
+13 - Take note of how your scanner assigns scan numbers.
+Take note of how your scanner assigns scan numbers. If your scanner assigns each scan a counter number, then do nothing. This is ideal for inserting a missing page or a page that had to be rescanned.
+- If your scanner automatically has the date and time for a scan number, configure your job to be on a counter. This is much easier to work with.
+- When working with scans that were assigned time or date scan numbers, one option, although tedious, is to change those numbers to sequential numbers.  A better option, when working with time or date scan numbers, is to divide your scanned pages into small batches. The pages tend to stay in sequence when working with small batches.
+- When using Paper Port, divide your work in batches. Paper Port works much faster when working with a small amount of pages versus a large amount. Instead of stacking 350 pages in one step, do it in several steps, of 60 pages per batch, and it will be much faster and less of a burden on your computer's memory.
+
+14 - Use color scans for the front and back covers, as well as for pages with color photos.
+Use color scans for the front and back covers, as well as for pages with color photos. Do a few color scans with different DPI settings and check the size of each page when scanning a book totally in color. Multiply the scanned page size with the number of pages to calculate the total size of whole file.
+- Choose the DPI, carefully considering the readability and size of the scan. Color scans use a lot of space. Check the time is takes to scan a page at a high DPI — it will be in the minutes, while a black and white scan, at the default DPI, will be in seconds.
+- Know also that each color scan must be edited, with a photo editing program such as Windows Live Photo Gallery, because the text in your scans will be faded. In Windows Live go to "adjust exposure" then to "highlights" and finally move the slider knob in highlights to darken the text.
+
+15 - Use grayscale for black and white pictures.
+Use grayscale for black and white pictures. For each grayscale and color scan with picture (or photos) and text, edit the exposure so the text will be readable. Editing, here, is an absolute necessity as grayscale scans will be pale.
+- In Windows Live Photo Gallery, go to "adjust exposure" and adjust the "highlights" slider bar. Adjust the highlights to make the text darker and the text will be indistinguishable from a black and white scan. Adjusting the highlights will not affect your image or photo.
+
+16 - Use black and white for scanning text.
+Use black and white for scanning text. Set the scanner on black and white, do not set it on auto.  By setting the scanner on auto, the scanner will choose between color, grayscale and black and white, but the scanner does not make these choices as accurately as you can.
+
+17 - Review your scanned images.
+Review your scanned images. Always save the scanned images as TIFF files because TIFF files are easy to navigate and edit. Although your ultimate file type will be PDF (Paper Port can only join PDF files), PDF files in separate pages are difficult to navigate through.
+- For example, if you are reviewing 100 pages of TIFF files, you could scroll through them, but with PDF files you have to open (and close) each file one at a time. Furthermore, PDF files cannot be edited, so if you have a PDF file of 100 pages all connected from the beginning, and there are several pages that are unsatisfactory, you cannot do anything about it. For this reason, save your scans initially in TIFF or some other format that can be edited, and change to PDF later.
+
+18 - After reviewing your scanned images in the TIFF format, save your images in PDF form.
+After reviewing your scanned images in the TIFF format, save your images in PDF form. Next, using Paper Port, join (stack) the pages into one big file. Stacked files can be unstacked, in case you find an error later. A stacked PDF file will be easy to navigate through.
+
+19 - Have a good backup system on your hard drive or on an external drive.
+Have a good backup system on your hard drive or on an external drive. This is a precaution against computer failure, mistakes and accidental deletion. If your backup system fails, restore your deleted items from the recycle bin. Scanning can get confusing and mistakes happen. Ideally, do your scanning when your mind is rested and clear, but as this might not always be the case, use a backup system, at the very least.
+
+20 - Try not change the layout of the pages, especially the margins.
+Try not change the layout of the pages, especially the margins. A book that has small fonts is a good candidate for scanning, but do not crop your scans and reduce the margins (for example, because you want to make the book more readable) because margins serve a purpose. Margins are like a frame on a picture, and a page looks better with margins.
+- When reading that book, with the small fonts, later on your computer, you can easily make the fonts bigger by using the "zoom" feature. When working with books with very small print, you could crop each page a bit to make the final product a few percentage points larger and more readable.
+

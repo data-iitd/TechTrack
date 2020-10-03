@@ -1,0 +1,32 @@
+T1	Software-Other 101 109	ISO file
+T2	Software-Other 140 153	Solus website
+T3	Hardware-Other 874 889	USB thumb drive
+T4	Hardware-Other 1008 1016	computer
+T5	Hardware-Other 931 940	USB drive
+*	Equiv T3 T5
+T6	Software-OS-Related 1213 1220	Windows
+T7	Software-OS-Related 1241 1246	Start
+A1	isOpened T7 f->t
+T8	Software-Other 1335 1340	Rufus
+A2	isOpened T8 f->t
+T9	Software-Other 1552 1568	Gnome MultiWrite
+T10	Software-OS-Related 1462 1468	Ubuntu
+A3	isOpened T9 f->t
+T11	Software-Other 1632 1640	ISO file
+T12	Software-OS-Related 1648 1657	USB stick
+T13	Software-OS-Related 1710 1717	LiveUSB
+T14	Software-Other 1820 1825	Rufus
+T15	Software-Other 1839 1854	USB thumb drive
+T16	Software-Other 1917 1945	Create a bootable disk using
+T17	Software-Other 1965 1974	ISO image
+A4	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T16	
+A5	isSettingsChanged T16 true
+R2	SubPart Arg1:T16 Arg2:T15	
+T18	Software-Other 2106 2111	start
+T19	Software-Other 2171 2188	Gnome MultiWriter
+T20	Software-Other 2240 2253	Start copying
+A6	isSettingsChanged T20 true
+R3	SubPart Arg1:T20 Arg2:T19	
+T21	Software-Other 2502 2510	ISO file
+T22	Software-OS-Related 2516 2533	USB thumb drive c

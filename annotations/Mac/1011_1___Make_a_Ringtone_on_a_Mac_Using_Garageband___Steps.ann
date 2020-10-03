@@ -1,0 +1,36 @@
+T1	Software-Other 447 457	GarageBand
+A1	isOpened T1 start-F
+T2	Hardware-Other 531 533	CD
+T3	Software-OS-Related 552 558	Finder
+T4	Software-OS-Related 629 635	iTunes
+T5	Software-Other 1003 1013	GarageBand
+T6	Software-Other 1507 1515	eye tool
+T7	Software-Other 2068 2086	end of song" arrow
+T8	Software-Other 2281 2291	GarageBand
+T9	Software-OS-Related 2510 2516	iTunes
+T10	Software-Other 2526 2531	Share
+T11	Software-Other 2544 2552	menu bar
+A2	isOpened T10 f->t
+T12	Hardware-Other 2748 2754	iPhone
+T13	Hardware-Other 2826 2840	Windows phones
+R1	SubPart Arg1:T10 Arg2:T11	
+T14	Software-Other 2987 3000	email account
+A3	isOpened T14 f->t
+T15	Software-Other 3020 3029	new email
+A4	isOpened T15 f->t
+R2	SubPart Arg1:T15 Arg2:T14	
+A5	isInstalled T1 start-F
+A6	isOpened T3 f->t
+A7	isOpened T4 f->t
+A8	isOpened T5 start-F
+A9	isSettingsChanged T6 true
+R3	SubPart Arg1:T6 Arg2:T5	
+A10	isSettingsChanged T7 true
+R4	SubPart Arg1:T7 Arg2:T8	
+T16	Software-Other 428 441	drag the song
+A11	isSettingsChanged T16 true
+A12	isOpened T16 f->t
+T17	Software-Other 1149 1155	delete
+A13	isSettingsChanged T17 true
+T18	Software-Other 1123 1137	unneeded track
+A14	isSettingsChanged T18 true

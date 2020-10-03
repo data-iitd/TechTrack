@@ -1,0 +1,50 @@
+Set Up a Mac
+https://www.wikihow.com/Set-Up-a-Mac
+
+0 - Configuring Your Mac
+
+1 - Choose your language.
+Choose your language. The first thing the setup will ask you to do is to choose your native language. Scroll down the list to highlight the language you wish to use and press the “Return” key on your keyboard to select it and proceed to the next step.
+
+2 - Choose your keyboard.
+Choose your keyboard. If you’re using a Mac Mini, the setup will require you to choose what kind of keyboard you like to use. Highlight the keyboard of your choice from the list and click the “Continue” button to proceed.
+
+3 - Connect your Mac to the Internet.
+Connect your Mac to the Internet. Select the Wi-Fi network from the list of available connections detected by the computer. Click on the access point you want to connect to and select “Continue” to proceed.
+- If the access point you wish to connect to is password protected, a text field will appear right below the list where you can type the password before hitting “Continue.”
+- If you prefer using a wired connection, take the Internet cable coming from your router or modem and plug it into the LAN port at the back of the computer or along the sides if you’re using a laptop.
+
+4 - Transfer information to this Mac.
+Transfer information to this Mac. You can get your saved files and documents from your old computer (Mac or Windows) and move it to your Mac. To do this, select from which computer you’d like to get your files and click the “Continue” button.
+- Transferring files from your old computer to your Mac will take a lot of time, depending on the amount of files to be moved. If you want to finish the setup first, simply select “Not Now” from the list. You can transfer the files later once your Mac has been configured.
+
+5 - Enable location services.
+Enable location services. The next step will ask you if you want your Mac to determine your exact location and save it in its settings. This allows the built in apps on the Mac, like maps, iTunes and more, to work more accurately and display information relevant to where you are.
+- To enable this option, put a check mark on the box you’ll see on this page and click “Continue.” Otherwise, you can just leave it blank and move on.
+
+6 - Sign in with your Apple ID.
+Sign in with your Apple ID. On the next page, you’ll need to enter your Apple ID. Enter the account credentials on the allocated text fields and hit “Continue” again to proceed.
+- If you don’t have an Apple ID yet, you can get one clicking the “Create a Free Apple ID” on the lower-left corner of the setup window.
+- If you wish to sign in later, you can just click the “Skip” button to continue on to the next step without signing in.
+
+7 - Set up your iCloud and Messaging.
+Set up your iCloud and Messaging. If you logged in your Apple ID, you’ll be asked to set up your iCloud and Messaging services.
+- Put a check mark on the “Set up iCloud on this Mac” if you want to enable this service or you could just leave it blank if you don’t like to. Press the “Continue” button to start setting up your Messaging.
+- To set up your Mac’s messaging services, put a check mark on all your displayed email addresses on the setup page where you want to receive messages from your iMessage or Facetime contacts. Press the “Continue” button again to move on.
+
+8 - Use iCloud to find your Mac.
+Use iCloud to find your Mac. If you chose to enable the iCloud service earlier, you can also use it to find your Mac in the event that you lose it. Put a check mark on the “Set up Find My Mac on this Mac” and click the “Continue” button.
+- A confirmation message will appear at the top of the screen asking to verify your action. Click the “Allow” button on the message to confirm.
+
+9 - Create your computer account.
+Create your computer account. Next, you will be required to create your user account on the Mac. Type in your full name, account name, and password (if you wish to use one) on the text fields provided to create a user account for the computer. Click the “Continue” to proceed.
+
+10 - Choose your time zone.
+Choose your time zone. You can manually select your time zone from the drop-down list on this setup page,
+- If you’ve enabled the location services in step 5, you can set up the Mac to automatically adjust it depending on your location by selecting the “Set time zone automatically using current locations” options on the upper portion of the page.
+
+11 - Register.
+Register. The last step will be registering your Mac to your Apple ID. This way, you can be constantly be updated with all the new promos, products, features, and support Apple has to offer. Put a check mark on the “Keep me up to date” option and click on the “Continue” button for the last time.
+- If you wish to register your Mac later after the setup, you can do so by clicking the “Skip” button instead.
+- Once you’ve either registered or skipped the previous step, you’ll be taken to the Thank You window, telling you that you’ve successfully finished setting up your Mac!
+

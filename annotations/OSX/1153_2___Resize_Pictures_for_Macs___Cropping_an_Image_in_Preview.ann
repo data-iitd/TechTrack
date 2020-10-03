@@ -1,0 +1,11 @@
+T1	Software-OS-Related 132 136	Edit
+A1	isOpened T1 f->t
+T2	Software-OS-Related 329 350	Rectangular Selection
+A2	isOpened T2 f->t
+T3	Software-OS-Related 299 314	editing toolbar
+T5	Software-OS-Related 510 515	image
+T6	Hardware-Other 611 623	mouse button
+T7	Software-OS-Related 708 712	Crop
+A3	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	
+T8	Software-OS-Related 982 986	save

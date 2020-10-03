@@ -1,0 +1,23 @@
+Customize the Share Menu on macOS
+https://www.wikihow.com/Customize-the-Share-Menu-on-macOS
+
+0 - Steps
+
+1 - Click the Apple menu.
+Click the Apple menu. It’s the apple-shaped symbol at the top-left corner of the screen.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Double-click Extensions.
+Double-click Extensions. It’s in the third group of settings and has a puzzle piece icon.
+
+4 - Click Share Menu.
+Click Share Menu. It’s in the left panel.
+
+5 - Select apps to add or remove.
+Select apps to add or remove. If you see a check mark next to an app name, the app currently appears in the Share Menu.
+- To remove an app, remove its corresponding check mark.
+- To add an app, find it in the list, then click its corresponding box to add a check mark.
+

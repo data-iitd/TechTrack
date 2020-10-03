@@ -1,0 +1,26 @@
+Turn Off a Personal Computer
+https://www.wikihow.com/Turn-Off-a-Personal-Computer
+
+0 - Mac
+
+1 - Click on the  Apple menu, then choose the appropriate option:
+Click on the  Apple menu, then choose the appropriate option:
+- Shut down - shuts down the computer, and installs any Windows Updates.
+- Restart - shuts down the computer, installs any Windows Updates, and starts your computer again.  Useful if your computer is having trouble with hardware and programs.
+- Sleep - turns off your computer's display and temporarily halts any running programs.
+
+2 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by entering an administrator username and password and clicking Shutdown/Restart
+
+3 - Click on the Shutdown, Restart, or Sleep button.
+Click on the Shutdown, Restart, or Sleep button.
+
+4 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by entering an administrator username and password and clicking Shutdown/Restart
+
+5 - Open Terminal.
+Open Terminal.
+
+6 - Type sudo reboot to restart or sudo halt to shut down.
+Type sudo reboot to restart or sudo halt to shut down.  You will not be prompted for the shutdown, but may be prompted for an administrator username and password.
+

@@ -1,0 +1,42 @@
+T1	Software-Other 357 424	http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Device-Drivers 490 522	download universal-USB-Installer
+A3	isRelatedDeviceConnected T2 start-F
+T3	Software-Device-Drivers 1110 1117	I agree
+A4	isSettingsChanged T3 true
+T4	Software-Device-Drivers 1260 1280	Ubuntu 11.10 Desktop
+A5	isSettingsChanged T4 true
+T5	Software-Device-Drivers 1327 1340	check the box
+A6	isSettingsChanged T5 true
+T6	Software-Device-Drivers 1443 1446	yes
+A7	isSettingsChanged T6 true
+T7	Software-Device-Drivers 1638 1651	browse button
+A8	isSettingsChanged T7 true
+T8	Software-Device-Drivers 1847 1869	USB flash drive letter
+A9	isSettingsChanged T8 true
+T9	Software-Device-Drivers 2840 2843	yes
+A10	isSettingsChanged T9 true
+T10	Software-Device-Drivers 3395 3400	close
+A11	isSettingsChanged T10 true
+T11	Software-OS-Related 3575 3597	Turn off your computer
+A12	isOpened T11 t->f
+T12	Software-OS-Related 3851 3872	Turn on your computer
+A13	isOpened T12 f->t
+T13	Software-OS-Related 4001 4028	select your USB flash drive
+A14	isSettingsChanged T13 true
+T14	Software-OS-Related 4535 4559	run Ubuntu from this USB
+A15	isOpened T14 f->t
+T15	Software-OS-Related 4896 4898	Go
+A16	isOpened T15 f->t
+T16	Software-OS-Related 4927 4935	computer
+A17	isOpened T16 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	
+R3	SubPart Arg1:T8 Arg2:T2	
+R4	SubPart Arg1:T5 Arg2:T2	
+R5	SubPart Arg1:T6 Arg2:T2	
+R6	SubPart Arg1:T7 Arg2:T2	
+R7	SubPart Arg1:T9 Arg2:T2	
+R8	SubPart Arg1:T10 Arg2:T2	
+R9	SubPart Arg1:T13 Arg2:T12	

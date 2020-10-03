@@ -1,0 +1,27 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Selecting Tools
+
+1 - Open the palette.
+Open the palette. If the window with brushes, pens, and whatnot isn't already open, click ☰ in the upper-left corner of the window, then click Supplies.
+- The palette will usually already be open, but you can click the Supplies button to move it off-screen if you're simply looking at your work.
+- You can move the palette by clicking and dragging one of its edges around.
+
+2 - Select your style of painting.
+Select your style of painting. There are three main types of drawing in Fresh Paint:
+- 
+- Oil - This is usual the default. If not, click one of the white-tipped brushes on the right or left side of the palette, then select the brush width that you want to use.
+- Watercolor - Click one of the brown-tipped brushes on the left side of the palette, then select the proper brush from the palette.
+- Pen & Pencil - Click the pencil icon in the palette, then select the proper tool (e.g., a pencil or a pen) from the palette.
+
+3 - Select a color.
+Select a color. Click the color wheel in the lower-right side of the palette, then click the color that you want to use.
+- You can also mix colors by clicking the palette-shaped icon on the right side of the palette window, or create your own color by clicking the black circle in the lower-right corner of the palette window.
+
+4 - Return to the palette's main window.
+Return to the palette's main window. Click the brush-shaped icon at the bottom of the palette window to do so.
+
+5 - Adjust the brush stroke size.
+Adjust the brush stroke size. Click the - or + at the top of the palette window to decrease or increase your selected brush's stroke width. You're now ready to begin painting.
+

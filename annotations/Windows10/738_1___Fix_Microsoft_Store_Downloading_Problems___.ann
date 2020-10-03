@@ -1,0 +1,17 @@
+T1	Software-OS-Related 143 153	search bar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 222 232	Start menu
+A2	isOpened T2 f->t
+T4	Software-OS-Related 565 589	Change the Date and Time
+A4	isOpened T4 f->t
+T5	Software-OS-Related 547 556	Windows 8
+T3	Software-OS-Related 436 449	Date and Time
+A3	isOpened T3 f->t
+T6	Software-OS-Related 629 653	Change the Date and Time
+T7	Software-OS-Related 1057 1059	OK
+A6	isSettingsChanged T7 true
+T8	Software-OS-Related 1219 1224	Store
+A5	isOpened T8 f->t
+R1	SubPart Arg1:T7 Arg2:T3	
+T9	Software-OS-Related 1388 1396	downward
+A7	isOpened T9 f->t

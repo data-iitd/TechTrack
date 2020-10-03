@@ -1,0 +1,20 @@
+T1	Hardware-Devices 104 111	monitor
+A1	isPowered T1 t->f
+T2	Hardware-Other 313 318	shoes
+T3	Hardware-Other 346 353	goggles
+T4	Hardware-Other 434 441	jewelry
+T5	Hardware-Other 454 459	rings
+T6	Hardware-Other 464 471	watches
+T7	Hardware-Other 547 558	screwdriver
+T8	Hardware-Other 654 659	knife
+T9	Hardware-Other 705 709	wire
+T10	Hardware-Other 725 730	clips
+T11	Hardware-Other 817 831	monitor's case
+T12	Hardware-Other 866 872	screws
+T13	Hardware-Other 1015 1020	clamp
+T14	Hardware-Other 1171 1175	clip
+*	Equiv T13 T14
+T15	Hardware-Other 1183 1196	screwdriver's
+T16	Hardware-Other 1318 1329	screwdriver
+T17	Hardware-Other 1490 1501	suction cup
+T18	Hardware-Other 1560 1577	screwdriver blade

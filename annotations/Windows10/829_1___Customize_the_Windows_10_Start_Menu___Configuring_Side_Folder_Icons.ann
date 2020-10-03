@@ -1,0 +1,11 @@
+T1	Software-OS-Related 150 158	Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 258 282	Personalization category
+A2	isOpened T2 f->t
+T3	Software-OS-Related 334 339	Start
+A3	isOpened T3 f->t
+T4	Software-OS-Related 407 443	Choose which folders appear on Start
+T5	Software-OS-Related 571 576	icons
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+A5	isOpened T4 f->t

@@ -1,0 +1,9 @@
+T1	Software-OS-Related 148 156	Services
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1004 1006	OK
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 816 823	service
+T4	Software-OS-Related 422 429	disable
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1174 1181	Restart
+A4	isSettingsChanged T5 true

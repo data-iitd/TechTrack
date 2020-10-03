@@ -1,0 +1,20 @@
+Create a Bootable Windows 7 or Vista USB Drive
+https://www.wikihow.com/Create-a-Bootable-Windows-7-or-Vista-USB-Drive
+
+0 - Creating a Bootable Drive
+
+1 - Download Windows 7 USB_DVD Download Tool.
+Download Windows 7 USB/DVD Download Tool. This is available for free from Microsoft. Despite its name, this tool works with Windows Vista ISOs as well. You can run this tool on virtually any version of Windows.
+
+2 - Select the Source file.
+Select the Source file. This is the ISO that you created or downloaded in the first section. Click Next.
+
+3 - Select USB device.
+Select USB device. You are given the option to either burn to a DVD or create a USB device. For this guide, click USB Device.
+
+4 - Choose your USB device.
+Choose your USB device. Make sure that your flash drive is connected correctly. You will need at least 4GB space on your flash drive to copy over the Windows installation.
+
+5 - Wait while program works.
+Wait while program works. The program will format the USB drive to boot correctly, then copy the ISO file onto the drive. The copying process can take up to 15 minutes to complete, depending on the speed of your machine.
+

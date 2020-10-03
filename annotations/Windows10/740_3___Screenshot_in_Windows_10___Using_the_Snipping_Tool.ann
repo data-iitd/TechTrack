@@ -1,0 +1,22 @@
+T1	Software-Other 122 135	Snipping Tool
+A1	isOpened T1 f->t
+T2	Software-OS-Related 229 239	Windows 10
+T3	Software-Other 549 553	Mode
+T4	Software-Other 669 683	Free-form Snip
+T5	Software-Other 689 705	Rectangular Snip
+T6	Software-Other 710 721	Window Snip
+T7	Software-Other 729 745	Full-screen Snip
+T8	Software-Other 894 908	Free-form snip
+T9	Software-Other 987 1003	Rectangular snip
+T10	Software-Other 1083 1094	Window snip
+T11	Software-Other 1324 1340	Full-screen snip
+T12	Software-Other 1422 1425	New
+A2	isOpened T12 f->t
+T13	Software-Other 2134 2137	pen
+T14	Software-Other 2274 2285	highlighter
+T15	Software-Other 2365 2372	rainbow
+T16	Software-Other 2461 2465	disk
+T17	Software-Other 2612 2616	save
+A3	isOpened T17 f->t
+T18	Software-Other 2636 2640	Save
+A4	isSettingsChanged T18 true

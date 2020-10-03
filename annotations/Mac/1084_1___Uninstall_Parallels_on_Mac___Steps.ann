@@ -1,0 +1,11 @@
+T1	Software-OS-Related 151 163	Applications
+A1	isOpened T1 f->t
+T2	Software-OS-Related 472 494	Parallels Desktop icon
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 793 802	Trash bin
+A3	isOpened T3 f->t
+T4	Software-OS-Related 919 930	Empty Trash
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1077 1088	Empty Trash
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

@@ -1,0 +1,40 @@
+See Active Network Connections (Windows)
+https://www.wikihow.com/See-Active-Network-Connections-(Windows)
+
+0 - Using the Netstat Command in XP
+
+1 - Press Start.
+Press Start.
+
+2 - Click "Run.
+Click "Run." This will prompt a text box to appear.
+
+3 - Type "cmd" without the quotation marks.
+Type "cmd" without the quotation marks.
+
+4 - Wait for a black window, or terminal, to appear.
+Wait for a black window, or terminal, to appear. This is where you will enter your netstat command. There are a few different options that you can use and some of the more popular are listed below.
+
+5 - Enter netstat -a to show current connections.
+Enter netstat -a to show current connections. This command will show you a list of your current TCP, or Transmission Control Protocol connections and ports, with the physical computer name listed for local addresses and the host name listed for remote addresses. It will also tell you the state of the port (waiting, established, etc…)[9]
+- X
+- Research source
+
+6 - Enter netstat -b to show which programs are using connections.
+Enter netstat -b to show which programs are using connections. This command will show you the same list as netstast -a but it will also show you which programs are using the connections/ports.[10]
+- X
+- Research source
+
+7 - Enter netstat -n to show IP addresses.
+Enter netstat -n to show IP addresses. This command will show you the same list of TCP connections and ports, but with numerical, or IP addresses instead of the actual names of the computers or services.[11]
+- X
+- Research source
+
+8 - Enter netstat _?
+Enter netstat /? to show the different commands that are available to you. This command will provide you with the statistics for all of the variations of the netstat protocols.[12]
+- X
+- Research source
+
+9 - Check active network connections.
+Check active network connections. Once you have entered your netstat command, a list of TCP/UCP connections with IP addresses will appear.
+

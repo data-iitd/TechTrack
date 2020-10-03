@@ -1,0 +1,11 @@
+T1	Software-Other 122 133	Inking Mode
+T2	Software-Other 376 388	drawing tool
+A1	isOpened T2 f->t
+A2	isOpened T1 f->t
+T3	Software-Other 561 581	line style and color
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 1497 1506	checkmark
+A4	isOpened T4 t->f
+R2	SubPart Arg1:T4 Arg2:T1	
+A5	isSettingsChanged T4 true

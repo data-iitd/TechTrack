@@ -1,0 +1,27 @@
+Solve the Lnk File Extension Problem in Windows
+https://www.wikihow.com/Solve-the-Lnk-File-Extension-Problem-in-Windows
+
+0 - Using the Windows System Restore Feature
+
+1 - Click “Start”.
+Click “Start”. Windows offers its users a convenient System Restore feature. This feature allows users to revert back to a recent point when their computer was working just fine. This nifty tool will undo any recent changes made to the registry and will uninstall programs that were incorrectly installed; without affecting existing files. Here is how you can Do a System Restore.
+
+2 - Access System Restore.
+Access System Restore. In the search box, type “System Restore”.
+
+3 - Click on System Restore.
+Click on System Restore. This will automatically run the wizard.
+
+4 - Choose a restore point.
+Choose a restore point. Select an earlier date to restore your system to. Windows will automatically select the most recent restore point.
+- If you wish to select a different restore point, tick the “Show more restore points” box. You will find this at the bottom left-hand corner of the screen.
+- Click Next. A list of available points will be displayed on the screen. Each point will have a description, detailing the changes made in that restore point.
+- Choose your desired restore point. Click on the restore point to choose it.
+- The wizard will ask to confirm your choice. Confirm your choice of restore point.
+- Click “Finish”. Then click “Yes” for the wizard to restore your system to an earlier state.
+- Note that it will take the wizard a while to complete the restore. Wait patiently, till you receive a prompt that the restore was successful.
+
+5 - Test the restore.
+Test the restore. Reboot Windows and work with it to confirm that the restore was successful.
+- In case some previously installed programs are still giving trouble, you may have to install them again.
+

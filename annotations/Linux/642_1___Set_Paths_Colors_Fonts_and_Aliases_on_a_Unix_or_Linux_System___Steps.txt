@@ -1,0 +1,47 @@
+Set Paths, Colors, Fonts, and Aliases on a Unix or Linux System
+https://www.wikihow.com/Set-Paths,-Colors,-Fonts,-and-Aliases-on-a-Unix-or-Linux-System
+
+0 - Steps
+
+1 - Remember that Unix and Linux are case sensitive to settings and commands.
+Remember that Unix and Linux are case sensitive to settings and commands.  Be precise when entering settings.  The directory listing command "ls" will not work if you type "LS" or "Ls".
+- All commands will be listed in their correct case, even at the beginning of a sentence in this article.
+- "Unix" will be used to refer to Unix or Linux.
+- Prompts will not be shown in this article.  It is also assumed that you need to press <Enter> after issuing a command.
+- Unix files that control setting and aliases usually start with a "." !  When you wish to list these out (using the ls command), you must add " -a" after it, like this: ls -a
+- ;
+
+2 - Learn to use emacs or vi, preferably both.
+Learn to use emacs or vi, preferably both.  emacs and vi are the text editing tools used in Unix.  emacs is easier to use than vi, but vi is included with all forms of Unix; emacs is not.
+
+3 - Set Up Paths -- A "path" is the directories the computer will look in to find a command (or program) you wish to run.
+Set Up Paths -- A "path" is the directories the computer will look in to find a command (or program) you wish to run.
+- Make a copy of the .login file before you edit it.  If you make a mistake, you will only need to copy back the original.
+- The path to most commands should already be set up.
+- 
+- Determine which directories are in your "path".  Enter this:  echo $path
+- Examine your path to determine if you need to add another directory. You should see a listing after entering the above command like this (We will suppose your username is "joe"):  /usr/local/bin /etc/log /home/joe   The listing will probably be much longer.
+- Modify the .login file, in your home directory in order to add to your path.
+- The .login file probably already has a line saying: set path = ($path)  If you want to access programs, without typing the full path, in a subdirectory of your home directory;  modify the path line in the .login file to look like this:set path = ($path $HOME/bin)  If the programs you wish to access are somewhere else, you will have to give the explicit pathname:set path = ($path /etc/log/monitors/)
+
+4 - Modify the ".
+Modify the ".Xdefaults" file, in order to change your default fonts and colors.
+- Make a copy of the .Xdefaults file before you modify it.  The "X" is capitalized.
+- Examine the .Xdefaults file.  It should look something like this: xterm*Font:             courr10xterm*VisualBell:       truexterm*Background:       blackxterm*Foreground:       cyanxterm*Geometry:         95x50-0-92xterm*ScrollBar:        truexterm*ScrollLines:      200dtterm*blink Rate 0emacs*Background:       blackemacs*Foreground:       ghostwhiteemacs*bitmapIcon: on
+- Modify the file (with emacs or vi) to change to your preferred fonts and colors.  You can modify almost any part of the X window, from the title bar to the cursor.
+- Consult a Unix or Linux book about "X" window settings.  The potential fonts and colors available are too numerous too mention here.
+
+5 - Create Aliases -- Aliases in Unix are commands that substitute for other commands.
+Create Aliases -- Aliases in Unix are commands that substitute for other commands.
+- For instance, you are constantly typing "Ls" instead of "ls" when you are trying to list a directory.  So you create an alias that makes "Ls" behave like "ls".
+- Unix administrators often arrange that all users have the command rm set up as an alias for "rm -i".  This forces the user to type "y" before deleting a file!
+- Make sure that the alias you wish to set up is not already in use.  Use the command "which" to verify that the command is not in use.  If you see this, it is ok to proceed: which jk jk: Command not found.
+- Temporary Aliases  -- if you need an alias for only a short time, create it at the command prompt.  type: alias <name of the alias> '<command you wish to substitute>'
+- Example, you are working in a facility with 3,000 CPUs.  Most of these machines only have marginal user accounts because they are rarely accessed(by regular users).  You need to look at many directories (each having many files) and do not want to keep typing "ls -alth | more" (This command is a directory listing command that lists all files, in order of most recent modification and lists the size of the file in human readable form.  It will halt scrolling when the page is filled until you press the space key.)You type: alias l 'ls -alth | more'Now, you only have to type "l" to issue the command.
+- Permanent aliases
+- Check to see if an .aliases file already exists in your home directory.
+- If the .aliases file already exists, make a copy of it before you begin.
+- Create or Modify the .aliases file using emacs or vi.  Use the same syntax as when you made a temporary alias: alias <name of your alias> '<command you wish to substitute>'
+- Here is an example from an .aliases file:alias l         'll -alht | more'alias clock     'xclock -fg red -hd green -bg black &'alias giant     'xterm -bg black -fg cyan -fn courr24 -sb -sl 500 -n `hostname` & 'alias tiny      'xterm -bg black -fg cyan -sb -sl 500 -fn courr08 -n `hostname` &'
+- If you wish to use your permanent aliases without logging back in do this:source .aliasesYour aliases will be available in that window ONLY (unless you repeat the command in the other windows) during the current session.  Any new windows that read the file will have the aliases automatically available.
+

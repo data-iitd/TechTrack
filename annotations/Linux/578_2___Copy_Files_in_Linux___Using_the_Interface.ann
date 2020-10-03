@@ -1,0 +1,18 @@
+T1	Software-OS-Related 114 132	keyboard shortcuts
+T2	Software-OS-Related 271 275	copy
+T3	Software-OS-Related 280 285	paste
+T4	Software-OS-Related 295 300	Linux
+T7	Software-OS-Related 561 565	file
+T8	Software-OS-Related 578 582	copy
+T9	Software-OS-Related 684 688	file
+T10	Software-OS-Related 761 765	file
+T11	Software-OS-Related 813 827	drop-down menu
+A1	isOpened T11 f->t
+T12	Software-OS-Related 991 995	Copy
+T13	Software-OS-Related 1151 1169	destination folder
+T14	Software-OS-Related 1340 1354	drop-down menu
+A2	isOpened T14 f->t
+T15	Software-OS-Related 1362 1368	folder
+T16	Software-OS-Related 1383 1388	Paste
+A3	isSettingsChanged T16 true
+R1	SubPart Arg1:T16 Arg2:T13	

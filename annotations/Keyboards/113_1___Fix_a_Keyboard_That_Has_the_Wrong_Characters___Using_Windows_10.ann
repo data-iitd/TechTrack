@@ -1,0 +1,38 @@
+T1	Hardware-Other 230 237	laptops
+T2	Hardware-Devices 271 279	keyboard
+A1	isPowered T2 start-T
+T4	Software-OS-Related 1431 1446	Time & language
+A3	isOpened T4 f->t
+T7	Hardware-Other 156 163	NumLock
+T8	Hardware-Other 168 183	Fn+NumLock keys
+T9	Hardware-Other 328 335	NumLock
+T12	Software-OS-Related 836 844	Language
+T17	Software-OS-Related 1382 1392	Start menu
+A12	isOpened T17 f->t
+T19	Hardware-Other 1563 1571	computer
+T20	Software-OS-Related 1586 1594	Language
+A14	isOpened T20 f->t
+T21	Software-OS-Related 1652 1672	Time & Language menu
+T23	Hardware-Other 1819 1827	computer
+T24	Software-OS-Related 1959 1977	Language installer
+T29	Hardware-Devices 2763 2771	keyboard
+T33	Software-OS-Related 3411 3420	Languages
+T35	Software-OS-Related 3570 3577	Options
+A28	isOpened T35 f->t
+T38	Software-OS-Related 3766 3781	keyboard layout
+A32	isSettingsChanged T38 true
+T41	Hardware-Devices 4434 4443	keyboards
+T3	Software-OS-Related 1272 1288	Windows Settings
+A2	isOpened T3 f->t
+A5	isOpened T12 f->t
+A8	isSettingsChanged T12 true
+*	Equiv T21 T4
+A4	isOpened T24 f->t
+T5	Software-OS-Related 2280 2297	Select a language
+A9	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T24	
+A6	isSettingsChanged T33 true
+T6	Software-OS-Related 3134 3147	Language menu
+R2	SubPart Arg1:T33 Arg2:T6	
+T10	Software-OS-Related 3705 3722	keyboard settings
+R3	SubPart Arg1:T38 Arg2:T10	

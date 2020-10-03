@@ -1,0 +1,23 @@
+Resolve No Sound on Windows Computer
+https://www.wikihow.com/Resolve-No-Sound-on-Windows-Computer
+
+0 - Disabling Audio Enhancements
+
+1 - Right-click the Start  menu and select System.
+Right-click the Start  menu and select System. This opens your computer's settings.
+
+2 - Click Sound.
+Click Sound. It's near the top of the left column.
+
+3 - Scroll down and click Sound Contol Panel.
+Scroll down and click Sound Contol Panel. It's under the "Related Settings" header.
+
+4 - Click the default speakers and select Properties.
+Click the default speakers and select Properties.
+
+5 - Click the Enhancements tab.
+Click the Enhancements tab. If you don't see this tab, you may have tabs for specific enhancements, such as Dolby Audio.
+
+6 - Disable available enhancements.
+Disable available enhancements. If you see the option to Disable all enhancements, select that option now. Otherwise, disable any enhancements you see individual and retest the sound. If disabling enhancements doesn't bring back sound, re-enable them and try another method.
+

@@ -1,0 +1,32 @@
+T1	Software-OS-Related 123 131	terminal
+T2	Software-Other 89 96	Fluxbox
+A1	isInstalled T2 f->t
+T3	Software-Other 286 293	Fluxbox
+A2	isOpened T3 f->t
+T4	Software-Other 546 553	desktop
+T5	Software-Other 570 574	menu
+A3	isOpened T5 f->t
+T6	Software-Other 642 649	Fluxbox
+T7	Software-Other 657 664	taskbar
+T8	Software-Other 681 693	applications
+T9	Software-Other 818 825	Fluxbox
+T10	Software-Other 831 852	tabbed window manager
+T11	Software-Other 1140 1151	home folder
+A4	isOpened T11 f->t
+T12	Software-Other 1165 1173	.fluxbox
+A5	isOpened T12 f->t
+T13	Software-Other 1263 1267	menu
+T14	Software-Other 1294 1306	exec firefox
+T15	Software-Other 1393 1402	wallpaper
+T16	Software-Other 1410 1434	fluxbox startup settings
+A6	isSettingsChanged T15 true
+R1	SubPart Arg1:T15 Arg2:T16	
+T18	Software-Other 1729 1735	Styles
+T17	Software-Other 1673 1694	Fluxbox configuration
+T19	Software-Other 1868 1873	icons
+T20	Software-OS-Related 1882 1889	desktop
+T21	Software-Other 1890 1897	Fluxbox
+T22	Software-Other 1931 1937	FBDesk
+T23	Software-Other 1988 1993	iDesk
+T24	Software-Other 1997 2000	ROX
+A7	isInstalled T23 f->t

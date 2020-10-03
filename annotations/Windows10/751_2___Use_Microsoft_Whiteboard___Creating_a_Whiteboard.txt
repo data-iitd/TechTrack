@@ -1,0 +1,31 @@
+Use Microsoft Whiteboard
+https://www.wikihow.com/Use-Microsoft-Whiteboard
+
+0 - Creating a Whiteboard
+
+1 - Open Microsoft Whiteboard on your computer.
+Open Microsoft Whiteboard on your computer. You'll find it in the Start menu.
+
+2 - Click + Create New Whiteboard.
+Click + Create New Whiteboard. It's the large purple tile. This opens a blank new whiteboard.
+
+3 - Click the Add icon.
+Click the Add icon. It's near the top-right corner of the whiteboard—look for a purple circle with the outline of a person and a plus (+) symbol inside.
+
+4 - Slide the "Web sharing link off" switch to On .
+Slide the "Web sharing link off" switch to On . This makes it so you can create an invitation link to your whiteboard. After a few moments, the link will appear below the toggle switch.
+- If you want to disable the sharing link at any point, return to this menu and toggle the switch back off.
+
+5 - Click Copy Link.
+Click Copy Link. It's the large button below the link. This copies the direct URL to your clipboard.
+
+6 - Send the link to anyone you want to join.
+Send the link to anyone you want to join. To paste the link into an email or social media post, right-click the typing area and select Paste from the menu. Anyone who has the link can then click it to open the whiteboard in their web browser.
+
+7 - Click the ☰ menu to format the whiteboard.
+Click the ☰ menu to format the whiteboard. The three-line menu is at the top-right corner of the whiteboard. This opens the Settings menu, where you'll find some settings you can change for this particular whiteboard session:
+- If you have an active pen tool (such as a stylus that came with your computer or tablet), you can enable Active pen mode. This allows you to make marks with the pen but use your fingers to zoom and pan around the board.
+- If you want the lines and shapes you draw with the drawing tool to turn into perfect shapes, you can toggle on Ink to Shape. To create organized tables automatically from your hand-drawn lines, you can also toggle on Ink to Table.
+- To set the background color to something other than white, and/or to add or remove gridlines, click Format background and make your selections.
+- When you're done with your whiteboard, you can save it as an image on this menu by clicking Export and choosing an image type.
+

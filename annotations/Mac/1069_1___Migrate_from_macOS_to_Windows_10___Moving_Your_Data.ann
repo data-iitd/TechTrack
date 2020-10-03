@@ -1,0 +1,33 @@
+T2	Software-Other 403 410	Sign in
+A2	isSettingsChanged T2 true
+A3	isOpened T2 f->t
+T4	Software-OS-Related 1184 1203	Applications folder
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1801 1814	OneDrive icon
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1842 1849	sign in
+A7	isSettingsChanged T6 true
+T7	Software-OS-Related 2007 2027	OneDrive preferences
+A8	isOpened T7 f->t
+T8	Software-OS-Related 2042 2069	box under "Files On-Demand"
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 2074 2082	Settings
+A10	isOpened T9 f->t
+T10	Software-OS-Related 2181 2188	Account
+A11	isOpened T10 f->t
+T11	Software-OS-Related 2209 2253	boxes to show all the files on File Explorer
+A12	isSettingsChanged T11 true
+T12	Software-OS-Related 2337 2367	Protect your Important folders
+A13	isOpened T12 f->t
+T13	Software-OS-Related 2380 2394	Update Folders
+A14	isSettingsChanged T13 true
+T14	Software-OS-Related 2657 2676	Keep on this device
+A15	isSettingsChanged T14 true
+R1	SubPart Arg1:T8 Arg2:T5	
+R2	SubPart Arg1:T11 Arg2:T5	
+R3	SubPart Arg1:T12 Arg2:T5	
+T1	Software-Other 131 139	OneDrive
+A1	isInstalled T1 f->t
+T3	Software-Other 668 681	syncing files
+A4	isSettingsChanged T3 true
+R4	SubPart Arg1:T3 Arg2:T1	

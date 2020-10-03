@@ -1,0 +1,45 @@
+Delete Thumbs.db Files
+https://www.wikihow.com/Delete-Thumbs.db-Files
+
+0 - Steps
+
+1 - Open the folder containing your image files.
+Open the folder containing your image files. Find and double-click on the folder containing your image files to open it in a new File Explorer window.
+- ;
+
+2 - Click the View tab at the top.
+Click the View tab at the top. This button is at the top of the File Explorer window, above the folder directory. It will open your file and folder viewing options on a toolbar at the top.
+
+3 - Check the 
+Hidden items option on the View toolbar.
+Check the 
+- Hidden items option on the View toolbar. You can find this option in the "Show/hide" section of the View toolbar.
+- When this option is checked, you'll be able to see regular hidden files on your computer.
+
+4 - Click the Options button on the View toolbar.
+Click the Options button on the View toolbar. This button is on the right-end of the toolbar. It will open a drop-down menu.
+
+5 - Click Change folder and search options in the drop-down.
+Click Change folder and search options in the drop-down. This will open your Folder Options menu in a new dialogue box.
+
+6 - Click the View tab in the "Folder Options" window.
+Click the View tab in the "Folder Options" window. This button is at the top of the dialogue box. You can manually change all your file and folder viewing options here.
+
+7 - Click and uncheck the Hide protected operating system files option.
+Click and uncheck the Hide protected operating system files option. You can find this option under the "Hidden files and folders" heading in the Advanced Settings box here.
+
+8 - Click Yes in the confirmation pop-up.
+Click Yes in the confirmation pop-up. This will confirm your action, and uncheck the option.
+
+9 - Click OK or Apply in the Folder Options window.
+Click OK or Apply in the Folder Options window. This will apply your new folder settings. You can now see your "Thumbs.db" files in the folder containing your images.
+
+10 - Right-click the "Thumbs.db" file you want to delete.
+Right-click the "Thumbs.db" file you want to delete. You can find this file in the same folder as your image files.
+
+11 - Select Delete on the right-click menu.
+Select Delete on the right-click menu. It's towards the bottom between "Create shortcut" and "Rename."
+
+12 - Click Yes in the confirmation window.
+Click Yes in the confirmation window. This will confirm your action, and move the selected Thumbs.db file to your computer's Trash or Recycle Bin.
+

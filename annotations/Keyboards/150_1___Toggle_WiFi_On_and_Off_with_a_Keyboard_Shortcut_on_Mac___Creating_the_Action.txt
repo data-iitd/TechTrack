@@ -1,0 +1,26 @@
+Toggle WiFi On and Off with a Keyboard Shortcut on Mac
+https://www.wikihow.com/Toggle-WiFi-On-and-Off-with-a-Keyboard-Shortcut-on-Mac
+
+0 - Creating the Action
+
+1 - Open Terminal.
+Open Terminal. Copy paste this in: networksetup -listnetworkserviceorder.;
+
+2 - Remember the number that shows the WiFi.
+Remember the number that shows the WiFi. Then, you can close Terminal and open Automator.
+
+3 - Choose a type for your document.
+Choose a type for your document. Click on Quick Action and Choose.
+
+4 - Search for run shell script in the search bar on the left.
+Search for run shell script in the search bar on the left. Double click on it.
+
+5 - Make sure the top section is correct on the right:
+Make sure the top section is correct on the right: Workflow receives no input in any application.
+
+6 - Copy and paste the following script into the section of “Run Shell Script,” substituting “X”  with any number that you found the WiFi port to be earlier.
+Copy and paste the following script into the section of “Run Shell Script,” substituting “X”  with any number that you found the WiFi port to be earlier. The script is: networksetup -getairportpower enX | grep "On" && networksetup -setairportpower enX off || networksetup -setairportpower enX on.
+
+7 - Click on Run in the top right corner.
+Click on Run in the top right corner. See if your WiFi turns off. You might need to wait a few seconds. If it works, click on the X and save the action, and name it something obvious like “WiFi Toggle.” Then, proceed to the next section.
+

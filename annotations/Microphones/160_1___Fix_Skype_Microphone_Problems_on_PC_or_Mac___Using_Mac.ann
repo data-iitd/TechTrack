@@ -1,0 +1,15 @@
+T1	Software-Other 140 145	Skype
+A1	isOpened T1 f->t
+T2	Hardware-Other 154 162	computer
+T5	Software-Other 435 440	Skype
+A3	isOpened T5 f->t
+T8	Hardware-Devices 539 545	screen
+A4	isPowered T8 start-T
+T10	Software-Other 591 613	Audio & Video Settings
+A5	isOpened T10 f->t
+T11	Software-Other 711 721	microphone
+T13	Software-Other 845 853	settings
+A8	isOpened T13 t->f
+A2	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T10	
+R2	SubPart Arg1:T10 Arg2:T5	

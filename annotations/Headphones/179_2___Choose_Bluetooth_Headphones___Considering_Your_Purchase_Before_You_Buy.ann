@@ -1,0 +1,16 @@
+T2	Hardware-Devices 342 362	Bluetooth headphones
+T3	Software-OS-Related 394 410	phone’s settings
+T4	Hardware-Other 545 558	other devices
+T5	Hardware-Devices 667 687	Bluetooth headphones
+T6	Hardware-Other 825 837	Wi-Fi router
+T7	Hardware-Other 796 816	cordless home-phones
+T8	Hardware-Other 960 966	router
+*	Equiv T6 T8
+T9	Hardware-Other 999 1007	computer
+T10	Hardware-Devices 1246 1256	headphones
+T11	Hardware-Devices 1634 1654	Bluetooth headphones
+T12	Hardware-Devices 1914 1934	Bluetooth headphones
+T13	Hardware-Devices 2042 2052	headphones
+T14	Hardware-Devices 2566 2586	Bluetooth headphones
+T15	Software-OS-Related 2368 2377	Bluetooth
+A1	isSettingsChanged T15 true

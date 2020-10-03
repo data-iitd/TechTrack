@@ -1,0 +1,41 @@
+T1	Software-OS-Related 147 157	Apple menu
+T3	Software-Other 371 378	VPN app
+A1	isOpened T1 f->t
+T4	Software-OS-Related 200 213	Network panel
+T5	Software-OS-Related 217 236	System Preferences,
+T6	Software-OS-Related 576 595	System Preferences.
+A4	isOpened T6 f->t
+T8	Software-OS-Related 822 831	Interface
+T9	Software-OS-Related 642 649	Network
+A6	isOpened T9 f->t
+T7	Software-OS-Related 937 940	VPN
+T11	Software-Other 1094 1097	VPN
+T15	Software-OS-Related 1884 1915	Show VPN status in the menu bar
+T16	Software-OS-Related 1964 1987	Authentication Settings
+T17	Software-OS-Related 2243 2251	Password
+T18	Software-OS-Related 2358 2366	Advanced
+T19	Software-OS-Related 2486 2522	Send all traffic over VPN connection
+T20	Software-OS-Related 2626 2634	menu bar
+T21	Software-OS-Related 2812 2827	VPN status icon
+A14	isOpened T21 f->t
+T22	Software-OS-Related 2880 2903	Connect [your VPN name]
+T2	Software-OS-Related 346 358	macOS Sierra
+T23	Software-OS-Related 1774 1786	Account Name
+T26	Software-OS-Related 2690 2705	VPN status icon
+T27	Software-OS-Related 1467 1473	Create
+T28	Software-OS-Related 1494 1506	VPN settings
+A3	isOpened T28 f->t
+R3	SubPart Arg1:T18 Arg2:T28	
+A5	isSettingsChanged T8 true
+A7	isSettingsChanged T7 true
+A8	isSettingsChanged T27 true
+A10	isSettingsChanged T15 true
+A9	isSettingsChanged T17 true
+A2	isSettingsChanged T19 true
+A13	isSettingsChanged T26 true
+A15	isSettingsChanged T22 true
+A11	isOpened T16 f->t
+T10	Software-OS-Related 2041 2062	authentication method
+A16	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T28	
+A12	isOpened T18 f->t

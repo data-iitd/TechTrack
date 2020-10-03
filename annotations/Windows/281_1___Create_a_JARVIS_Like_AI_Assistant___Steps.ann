@@ -1,0 +1,30 @@
+T1	Software-Other 159 170	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 1150 1160	L.I.N.K.S.
+A2	isOpened T2 f->t
+T3	Software-Other 1371 1384	Download Page
+A3	isOpened T3 f->t
+T4	Software-Other 293 310	Create an account
+A4	isOpened T4 f->t
+T5	Software-Other 548 555	Sign Up
+A5	isOpened T5 f->t
+T6	Software-Other 903 908	email
+A6	isOpened T6 f->t
+T7	Software-Other 1504 1511	Mark II
+A7	isOpened T7 f->t
+T8	Software-Other 1749 1766	MARK-II Setup.exe
+A8	isOpened T8 f->t
+T9	Software-Other 1623 1630	Install
+A9	isInstalled T9 f->t
+T10	Software-Other 2214 2224	microphone
+A10	isOpened T10 f->t
+T11	Software-Other 2623 2630	Proceed
+T12	Software-Other 3108 3117	color tab
+A11	isOpened T12 f->t
+T13	Software-Other 3410 3418	Settings
+A12	isOpened T13 f->t
+A13	isOpened T11 f->t
+T14	Software-Other 4468 4473	Apply
+A14	isSettingsChanged T14 true
+R3	SubPart Arg1:T12 Arg2:T8	
+R1	SubPart Arg1:T14 Arg2:T13	

@@ -1,0 +1,28 @@
+T1	Software-OS-Related 416 425	Spotlight
+A1	isOpened T1 f->t
+T2	Software-OS-Related 682 694	Disk Utility
+A2	isOpened T2 f->t
+T3	Hardware-Other 135 144	USB drive
+T4	Hardware-Devices 155 158	Mac
+A3	isPowered T4 start-T
+T5	Software-Other 267 284	macOS High Sierra
+A4	isInstalled T5 f->t
+T6	Hardware-Other 343 352	USB ports
+T7	Hardware-Other 372 396	USB-C to USB-3.0 adapter
+T8	Software-OS-Related 553 565	disk utility
+T9	Software-OS-Related 806 815	USB drive
+A5	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T2	
+T10	Software-OS-Related 923 932	Erase tab
+A6	isOpened T10 f->t
+T11	Software-OS-Related 1033 1039	Format
+T12	Software-OS-Related 1192 1205	OS X Extended
+A7	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T10	
+T13	Software-OS-Related 1335 1341	Scheme
+T14	Software-OS-Related 1446 1464	GUID Partition Map
+A8	isSettingsChanged T14 true
+R3	SubPart Arg1:T14 Arg2:T10	
+T15	Software-OS-Related 1554 1559	Erase
+A9	isSettingsChanged T15 true
+R4	SubPart Arg1:T15 Arg2:T10	

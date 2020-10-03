@@ -1,0 +1,26 @@
+Change File Names in Bulk on PC or Mac
+https://www.wikihow.com/Change-File-Names-in-Bulk-on-PC-or-Mac
+
+0 - Windows
+
+1 - Press ⊞ Win+E to open the File Explorer.
+Press ⊞ Win+E to open the File Explorer. This displays a list of drives, folders, and files on your computer.
+- ;
+
+2 - Open the folder with the files you want to change.
+Open the folder with the files you want to change.
+
+3 - Select the files.
+Select the files. To select more than one file at a time, hold Ctrl as you click each file. If you prefer, you can click and drag a box around the files you want to edit.
+- To select all of the files in a folder, click somewhere in the folder, then press Ctrl+A.
+
+4 - Right-click the highlighted files.
+Right-click the highlighted files. A context menu will expand.
+
+5 - Click Rename.
+Click Rename. It’s near the bottom of the menu. The names of all of the files are now edible.
+
+6 - Type in the name you want for your files and press ↵ Enter.
+Type in the name you want for your files and press ↵ Enter. This changes all of the file names to what you’ve typed, but each subsequent file will end with a number.
+- For example, if you name the first file Cat.gif, the next file will be called Cat(2).gif, then Cat(3).gif, etc.
+

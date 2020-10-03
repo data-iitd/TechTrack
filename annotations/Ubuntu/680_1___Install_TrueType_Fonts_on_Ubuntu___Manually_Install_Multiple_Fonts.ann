@@ -1,0 +1,32 @@
+T1	Software-Other 172 186	TrueType fonts
+A1	isOpened T1 f->t
+T2	Software-OS-Related 538 550	Applications
+A2	isOpened T2 f->t
+T3	Software-OS-Related 553 564	Accessories
+A3	isOpened T3 f->t
+T4	Software-OS-Related 567 575	Terminal
+A4	isOpened T4 f->t
+T5	Software-OS-Related 707 742	cd /usr/local/share/fonts/truetype”
+T6	Software-OS-Related 888 906	sudo mkdir myfonts
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1126 1136	cd myfonts
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1238 1262	sudo cp ~/fontname.ttf .
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1565 1604	sudo chown root fontname.ttf”(or *.ttf)
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1664 1669	cd ..
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 1681 1689	fc-cache
+A11	isSettingsChanged T11 true
+T12	Software-Other 306 341	Move your files to the ~/ Directory
+A12	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T1	
+A5	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T4	
+R3	SubPart Arg1:T6 Arg2:T4	
+R4	SubPart Arg1:T7 Arg2:T4	
+R5	SubPart Arg1:T8 Arg2:T4	
+R6	SubPart Arg1:T9 Arg2:T4	
+R7	SubPart Arg1:T10 Arg2:T4	
+R8	SubPart Arg1:T11 Arg2:T4	

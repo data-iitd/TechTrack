@@ -1,0 +1,15 @@
+T1	Hardware-Other 167 175	computer
+T2	Hardware-Devices 123 145	multi-function machine
+T3	Hardware-Other 390 400	HDMI cable
+T4	Software-OS-Related 707 725	System Preferences
+T5	Software-OS-Related 729 742	Control Panel
+T6	Hardware-Other 760 768	computer
+T7	Software-OS-Related 928 949	Printers and Scanners
+A1	isOpened T7 f->t
+T8	Software-OS-Related 955 962	Devices
+A2	isOpened T8 f->t
+T9	Software-OS-Related 1008 1026	dd Printer/Scanner
+A3	isOpened T9 f->t
+T10	Hardware-Other 1140 1148	computer
+T11	Hardware-Devices 1194 1213	Canon MX410 Scanner
+A4	isConnected T11 f->t

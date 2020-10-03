@@ -1,0 +1,24 @@
+Check Your Windows Version
+https://www.wikihow.com/Check-Your-Windows-Version
+
+0 - Find Your Windows Version in Settings
+
+1 - Click the Windows Start menu .
+Click the Windows Start menu . It's the button with the Windows logo. By default, it's in the lower-left corner in the Windows taskbar. This displays the start menu.
+
+2 - Click the gear icon .
+Click the gear icon . It's in the sidebar to the left of the Windows Start menu. This displays the Settings menu.
+
+3 - Click System.
+Click System. It's next to an icon that resembles a laptop computer. It's the first option in the Windows Settings menu.
+
+4 - Click About.
+Click About. It's the last option in the sidebar to the left. This displays information about your system.
+
+5 - Scroll down and check your device and Windows specifications.
+Scroll down and check your device and Windows specifications. This information is displayed on the "About" page in Windows Settings. As of March 2020, the latest version of Windows 10 is Version 1909.
+- Your system type (i.e. 32-bit/64-bit) is displayed next to System Type below "Device Specifications".
+- Your Windows Edition (i.e. Windows 10 Home) is displayed next to Edition below "Windows Specifications".
+- Your Windows version is displayed next to Version below "Windows Specifications".
+- Your Windows Build number is displayed next to OS Build on below "Windows Specifications".
+

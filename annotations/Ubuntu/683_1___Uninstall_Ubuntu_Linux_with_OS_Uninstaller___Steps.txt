@@ -1,0 +1,26 @@
+Uninstall Ubuntu Linux with OS Uninstaller
+https://www.wikihow.com/Uninstall-Ubuntu-Linux-with-OS-Uninstaller
+
+0 - Steps
+
+1 - Boot Ubuntu live from an USB or CD.
+Boot Ubuntu live from an USB or CD. When it asks, choose "Try Ubuntu"
+- ;
+
+2 - Open the terminal.
+Open the terminal. After you have successfully launched Ubuntu, you have to open the terminal. There are two ways to do this. One way is to press (Ctrl + Alt + T) and the other is to click on the Dash Home button (or hit the Windows logo key on your keyboard) and search for "Terminal".
+
+3 - Install OS-Uninstaller.
+Install OS-Uninstaller. To do this type :  sudo add-apt-repository ppa:yannubuntu/boot-repair
+-  and press enter. After this type : sudo apt-get update; sudo apt-get install -y os-uninstaller && os-uninstaller
+-  and press enter.
+
+4 - Open OS-Uninstaller.
+Open OS-Uninstaller. Click on the dash home button and search for "OS-Uninstaller".
+
+5 - Select the OS you want to uninstall.
+Select the OS you want to uninstall. In this case it is Ubuntu.
+
+6 - Press the OK button.
+Press the OK button.
+

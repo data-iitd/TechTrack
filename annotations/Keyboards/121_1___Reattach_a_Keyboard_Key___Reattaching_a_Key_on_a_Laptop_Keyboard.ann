@@ -1,0 +1,20 @@
+T1	Hardware-Other 259 262	key
+T2	Hardware-Devices 285 293	keyboard
+T3	Hardware-Devices 671 679	keyboard
+T4	Hardware-Other 785 788	key
+T5	Hardware-Other 875 885	rubber nub
+T6	Hardware-Other 1137 1144	laptops
+T7	Hardware-Other 1158 1169	metal hooks
+T8	Hardware-Other 1210 1222	plastic hook
+T9	Hardware-Other 1243 1259	retainer bracket
+T10	Hardware-Other 1268 1271	key
+T11	Hardware-Devices 1386 1394	keyboard
+T12	Hardware-Other 1722 1725	key
+T13	Hardware-Devices 1826 1834	keyboard
+T14	Hardware-Other 1980 1985	hooks
+T15	Hardware-Other 2104 2107	key
+T16	Hardware-Other 2195 2199	hook
+T17	Hardware-Other 2375 2381	button
+T18	Hardware-Other 2615 2618	key
+T19	Hardware-Other 2669 2677	computer
+A5	isPowered T2 start-F

@@ -1,0 +1,21 @@
+Set up a Wireless Network in Puppy Linux
+https://www.wikihow.com/Set-up-a-Wireless-Network-in-Puppy-Linux
+
+0 - Set up your new router
+
+1 - Plug your router into your internet socket if you want to share your internet.
+Plug your router into your internet socket if you want to share your internet.
+- ;
+
+2 - Plug your router into your PC with an ethernet cable.
+Plug your router into your PC with an ethernet cable.
+
+3 - Go to your browser and type in the address "http:__192.168.0.1 192.168.0.1" or "http:__192.168.2.1 192.168.2.1", or "http:__192.168.1.1 192.168.1.1".
+Go to your browser and type in the address "http://192.168.0.1 192.168.0.1" or "http://192.168.2.1 192.168.2.1", or "http://192.168.1.1 192.168.1.1".
+
+4 - Enter your user name and password from your router (often "admin" and "admin") then your internet service provider.
+Enter your user name and password from your router (often "admin" and "admin") then your internet service provider.
+
+5 - Enable wireless and set your encryption (WPA as a minimum, WEP can be cracked in seconds) use AES encryption if you have it available, skip if you do not.
+Enable wireless and set your encryption (WPA as a minimum, WEP can be cracked in seconds) use AES encryption if you have it available, skip if you do not. and type a memorable passkey that is at least 64 characters.  It's a hassle, but you only have type it a few times.
+

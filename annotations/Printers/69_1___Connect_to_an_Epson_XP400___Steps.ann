@@ -1,0 +1,13 @@
+T1	Hardware-Other 194 203	USB cable
+T2	Hardware-Other 181 189	computer
+T3	Hardware-Other 319 345	Epson XP-400 software disc
+T4	Hardware-Other 586 605	Epson software disc
+T5	Hardware-Other 1336 1339	USB
+T6	Software-Other 808 813	setup
+A1	isInstalled T6 f->t
+T7	Software-Other 846 855	setup.exe
+A2	isOpened T7 f->t
+T8	Software-Other 950 957	Install
+A3	isInstalled T8 f->t
+T9	Hardware-Other 1047 1055	computer
+T10	Hardware-Devices 1400 1407	printer

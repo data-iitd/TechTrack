@@ -1,0 +1,9 @@
+T1	Hardware-Devices 151 157	iSight
+A1	isConnected T1 f->t
+T2	Software-OS-Related 229 235	iMovie
+A2	isOpened T2 f->t
+T3	Software-OS-Related 345 357	video camera
+A3	isOpened T3 f->t
+T4	Software-OS-Related 402 420	Record with iSight
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	

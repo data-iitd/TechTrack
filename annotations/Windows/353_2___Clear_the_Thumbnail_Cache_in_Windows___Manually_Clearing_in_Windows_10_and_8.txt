@@ -1,0 +1,31 @@
+Clear the Thumbnail Cache in Windows
+https://www.wikihow.com/Clear-the-Thumbnail-Cache-in-Windows
+
+0 - Manually Clearing in Windows 10 and 8
+
+1 - Open File Explorer
+Open File Explorer. Click the File Explorer  taskbar icon. It looks like a file folder.
+
+2 - Go to the View tab at the top of the ribbon.
+Go to the View tab at the top of the ribbon.
+
+3 - Show hidden files and folders.
+Show hidden files and folders. Check the box next to "Hidden items". It'll be in the "Show/hide" portion of the ribbon.
+- You may also want to enable item checkboxes for easier file selection.
+
+4 - Go to %homepath%\AppData\Local\Microsoft\Windows\Explorer using the address bar.
+Go to %homepath%\AppData\Local\Microsoft\Windows\Explorer using the address bar. Click the address bar, copy and paste the code, and then hit the ↵ Enter keyboard key.
+
+5 - Select all files with names that begin with "thumbcache".
+Select all files with names that begin with "thumbcache". Check the boxes next to any file that begins with the word "thumbcache". If you don't have checkboxes enabled, press and hold the Ctrl key while clicking on multiple file listings.
+
+6 - Delete the files.
+Delete the files. Right-click anywhere over a highlighted file and click Delete.
+- Alternatively, click the Home tab in the ribbon and then choose the "Delete" option.
+
+7 - Confirm the warning message, if prompted.
+Confirm the warning message, if prompted. Click the Yes button.
+
+8 - Empty the Recycle Bin
+Empty the Recycle Bin. If you've set your deleted files to go to the Recycle Bin before being permanently deleted, you'll need to empty the Recycle Bin to permanently delete the thumbnail cache.
+

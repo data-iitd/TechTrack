@@ -1,0 +1,24 @@
+Speed Up a Mac
+https://www.wikihow.com/Speed-Up-a-Mac
+
+0 - Turning off Visual Effects
+
+1 - Go to  System Preferences.
+Go to  System Preferences. It'll be located on your dock or you can search for it using Finder.
+
+2 - Select Dock from the menu.
+Select Dock from the menu.
+
+3 - Uncheck the box next to  "Animate opening applications.
+Uncheck the box next to  "Animate opening applications."
+
+4 - Uncheck the box next to  "Automatically hide and show the Dock.
+Uncheck the box next to  "Automatically hide and show the Dock." Animations can sometimes cause your mac to run slower. They look nice but aren't necessary to make your Mac run effectively.
+
+5 - Select Scale Effect from the drop-down menu.
+Select Scale Effect from the drop-down menu.
+- It's located next to Minimize Windows Using.
+
+6 - Exit to save your settings.
+Exit to save your settings. Visual effects may sometimes cause your Mac to run slower as its an extra feature that can be resource-hungry. Turning them off can greatly increase the speed of your mac.
+

@@ -1,0 +1,39 @@
+Install Jdownloader on Ubuntu
+https://www.wikihow.com/Install-Jdownloader-on-Ubuntu
+
+0 - Steps
+
+1 - To Install JDownloader open Terminal by pressing Ctr+Alt+T and type or copy_paste this command to Terminal:
+To Install JDownloader open Terminal by pressing Ctr+Alt+T and type or copy/paste this command to Terminal: sudo add-apt-repository ppa:jd-team/jdownloader  and hit Enter.
+- ;
+
+2 - When it asks password, type password and hit Enter.
+When it asks password, type password and hit Enter.
+
+3 - Type or copy_paste this command to Terminal:
+Type or copy/paste this command to Terminal: sudo apt-get update and hit Enter.
+
+4 - After Terminal finish downloading and installing, type or copy_paste this command to Terminal:
+After Terminal finish downloading and installing, type or copy/paste this command to Terminal: sudo apt-get install jdownloader and hit Enter.
+
+5 - When Terminal ask you do you want to continue, type 'y' and hit Enter.
+When Terminal ask you do you want to continue, type 'y' and hit Enter.
+
+6 - After Terminal finish downloading and installing, close your Terminal.
+After Terminal finish downloading and installing, close your Terminal.
+
+7 - Open Dash by hitting Windows key (beside Alt key) and type 'JD' to the search function and click on the JDownloader icon.
+Open Dash by hitting Windows key (beside Alt key) and type 'JD' to the search function and click on the JDownloader icon.
+
+8 - After that JDownloader will start downloading updates.
+After that JDownloader will start downloading updates. Wait until application finish downloading and installing.
+
+9 - Choose Your language and hit Enter.
+Choose Your language and hit Enter.
+
+10 - Choose do you want to integrate JDownloader to Firefox or not.
+Choose do you want to integrate JDownloader to Firefox or not.
+
+11 - Now you're ready to use JDownloader.
+Now you're ready to use JDownloader.
+

@@ -1,0 +1,38 @@
+Install Themes in Ubuntu
+https://www.wikihow.com/Install-Themes-in-Ubuntu
+
+0 - Installing Themes in a Terminal Window
+
+1 - Search for a theme.
+Search for a theme.  To search for Ubuntu themes, go to https://www.google.com and search "Ubuntu Themes".  Popular lists of themes include the following:
+- Gnome-Look
+- OMG Ubuntu
+- Ubuntu Pit
+- It's Foss.
+- ;
+
+2 - Click the Ubuntu icon.
+Click the Ubuntu icon.  It's in the dock to the left.  It's the circular icon with three notches.  This opens the Dash.
+
+3 - Type terminal in the search bar.
+Type terminal in the search bar.  The search bar is at the top of the Dash.
+
+4 - Click the terminal.
+Click the terminal. The terminal has an icon that resembles a black screen with a white prompt.
+
+5 - Type sudo apt-get install [package name]-theme and press ↵ Enter.
+Type sudo apt-get install [package name]-theme and press ↵ Enter.  Replace "[package name]" with the name of the theme package.  For example, to install the Arc theme, you would type sudo apt-get install arc-theme in the terminal.
+- Enter your password if prompted to do so.
+- Some themes may require additional commands. Read the installation instructions for any theme you want to download.
+
+6 - Press Y on the keyboard.
+Press Y on the keyboard. You'll see how much free disk space you will have on your computer once the installation is complete.
+
+7 - Type sudo apt-get install [package name]-icons in the terminal and press ↵ Enter.
+Type sudo apt-get install [package name]-icons in the terminal and press ↵ Enter. Use this command to install an icons theme in Ubuntu.
+- Enter your password when prompted.
+- Some themes may require additional commands. Read the installation instructions for any theme you want to download.
+
+8 - Press Y on the keyboard.
+Press Y on the keyboard. You'll see how much free disk space you will have on your computer once the installation is complete.
+

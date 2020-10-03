@@ -1,0 +1,19 @@
+T1	Hardware-Other 678 680	CD
+T2	Hardware-Other 682 685	DVD
+T3	Hardware-Other 687 690	USB
+T4	Hardware-Other 692 695	HDD
+T5	Software-OS-Related 1122 1135	control panel
+A1	isOpened T5 f->t
+T6	Software-Other 912 925	Windows 7 AIK
+T7	Software-OS-Related 1088 1108	User Account Control
+T8	Hardware-Other 1568 1570	CD
+T9	Software-OS-Related 1362 1376	Command Prompt
+A2	isOpened T9 f->t
+T10	Software-OS-Related 1384 1389	start
+A3	isOpened T10 f->t
+T11	Software-OS-Related 1684 1698	Command Prompt
+A4	isOpened T11 f->t
+T12	Software-Other 2841 2851	virtualbox
+A5	isOpened T12 f->t
+T13	Software-Other 2853 2859	vmware
+A6	isOpened T13 f->t

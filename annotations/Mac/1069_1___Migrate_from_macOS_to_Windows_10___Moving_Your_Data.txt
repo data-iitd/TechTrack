@@ -1,0 +1,37 @@
+Migrate from macOS to Windows 10
+https://www.wikihow.com/Migrate-from-macOS-to-Windows-10
+
+0 - Moving Your Data
+
+1 - Download OneDrive on your Mac.
+Download OneDrive on your Mac.  OneDrive automatically syncs with Microsoft Windows 10 PCs when connected to the Internet.  It is also available for your iPhone and Android for free.
+- ;
+
+2 - Sign in with_create a Microsoft account on OneDrive.
+Sign in with/create a Microsoft account on OneDrive.  PCs work best when signed into Microsoft accounts, and allow you to install Universal Windows Platform (UWP) apps, sync your stuff, and use Cortana.  Plus, it's free.
+
+3 - Check all of the boxes pertaining to syncing files.
+Check all of the boxes pertaining to syncing files.  You will need to sync each and every file possible.  OneDrive by default has about 16 GB of free storage, but storage plans extend to about 1 TB of storage.
+- You should upgrade your storage if your overall disk space takes up more than 16 GB.
+- Office 365 subscribers get a free TB of storage, so have your friends temporarily share their subscription, or share a subscription with your family.
+
+4 - Go to the Applications folder.
+Go to the Applications folder.  This is located at /var/Applications.  Search up every app on your Mac for your Windows 10 PC in the Microsoft Store (don't forget to sign in), and download them.  Apps not available in the Microsoft Store can be downloaded from the software vendor's website.
+- Depending on your PC, you may be locked down to Windows Store apps, but you can upgrade from Windows 10 S to Windows 10 Home/Pro to install these apps.
+- Be sure to have product keys/app accounts ready so that you can use those apps on Windows.
+
+5 - Sign in to OneDrive on Windows.
+Sign in to OneDrive on Windows.  Click on the OneDrive icon on the system tray, choose sign in, then enter your account details.  Do not sync anything yet.
+
+6 - Open OneDrive preferences and check the box under "Files On-Demand" in "Settings".
+Open OneDrive preferences and check the box under "Files On-Demand" in "Settings".
+
+7 - Click "Account", and check all the boxes to show all the files on File Explorer.
+Click "Account", and check all the boxes to show all the files on File Explorer.
+
+8 - Under "Protect your Important folders", click on "Update Folders".
+Under "Protect your Important folders", click on "Update Folders". Choose to protect all of the folders so your Mac Desktop and other components show up on your PC.
+
+9 - Download the files you wish to.
+Download the files you wish to. Opening a file will download a file temporarily.  To download a file permanently, choose "Keep on this device" from the right click menu. Choose "Free up space" to remove a file.
+

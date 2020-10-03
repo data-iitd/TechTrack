@@ -1,0 +1,21 @@
+Scan on a Canon MX410
+https://www.wikihow.com/Scan-on-a-Canon-MX410
+
+0 - Connecting the Scanner
+
+1 - Ensure that your multi-function machine is connected to your computer, the wall outlet and to the Internet.
+Ensure that your multi-function machine is connected to your computer, the wall outlet and to the Internet. If you have a strong Wi-Fi connection, you may not need to use the HDMI cable that came with the Internet to connect the two devices
+- ;
+
+2 - Follow the installation prompts when you first connect it.
+Follow the installation prompts when you first connect it. Many computers will alert you that you have connected a new device, and they will help you install it.
+
+3 - Go to the System Preferences or Control Panel sections of your computer.
+Go to the System Preferences or Control Panel sections of your computer. This is usually accessible through the Applications or My Computer section. Choose “Printers and Scanners” or “Devices” to add a device on your own.
+
+4 - Click “Add Printer/Scanner.
+Click “Add Printer/Scanner.” This may also be truncated in the form of a plus button.  Once clicked, allow the computer to register any devices.
+
+5 - Click on the Canon MX410 Scanner.
+Click on the Canon MX410 Scanner. Add the scanner to your list of available devices.
+

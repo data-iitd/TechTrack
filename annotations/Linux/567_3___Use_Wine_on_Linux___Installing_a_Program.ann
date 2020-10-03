@@ -1,0 +1,11 @@
+T1	Software-OS-Related 106 115	Downloads
+A1	isOpened T1 f->t
+T2	Software-Other 310 318	EXE file
+T3	Software-Other 480 484	file
+T4	Software-Other 561 598	Open With Wine Windows Program Loader
+A2	isOpened T4 f->t
+T5	Software-Other 737 744	Install
+T6	Hardware-Other 853 861	computer
+A3	isInstalled T5 f->t
+R1	SubPart Arg1:T5 Arg2:T2	
+T7	Software-Other 1125 1130	Close

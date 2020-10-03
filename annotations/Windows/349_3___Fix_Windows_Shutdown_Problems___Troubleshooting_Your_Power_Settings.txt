@@ -1,0 +1,34 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - Troubleshooting Your Power Settings
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Click Settings .
+Click Settings . This icon is in the lower-left corner of the Start window.
+
+3 - Click Update & security.
+Click Update & security. It's an icon of a circular arrow.
+
+4 - Click Troubleshoot.
+Click Troubleshoot. This tab is on the left side of the window.
+
+5 - Scroll down and click Power.
+Scroll down and click Power. It's toward the bottom of the page.
+
+6 - Click Run the troubleshooter.
+Click Run the troubleshooter. This button will appear below and to the right of the Power option. Clicking it will start the troubleshooting process.
+
+7 - Wait for an error to appear.
+Wait for an error to appear. Common power issues include errors related to battery life and screen brightness.
+- If no errors appear and the process completes, your power settings aren't responsible for your computer failing to shut down.
+
+8 - Click Apply this fix.
+Click Apply this fix. You'll do this for each problem that Windows comes across.
+- If you see something listed as a problem that you don't care to fix, click Skip this fix instead.
+
+9 - Try to shut down your computer.
+Try to shut down your computer. If the computer successfully shuts down, the problem was resolved. If not, proceed to the next part.
+

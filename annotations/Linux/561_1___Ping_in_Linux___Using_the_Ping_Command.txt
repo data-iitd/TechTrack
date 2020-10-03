@@ -1,0 +1,25 @@
+Ping in Linux
+https://www.wikihow.com/Ping-in-Linux
+
+0 - Using the Ping Command
+
+1 - Open Terminal on your computer.
+Open Terminal on your computer. Click or double-click the Terminal app icon—which resembles a black box with a white ">_" in it—or press Ctrl+Alt+T at the same time.
+- ;
+
+2 - Type in the "ping" command.
+Type in the "ping" command. Type in ping followed by the web address or IP address of the website you want to ping.
+- For example, to ping Facebook, you would type in ping www.facebook.com.
+
+3 - Press ↵ Enter.
+Press ↵ Enter. Doing so will run your "ping" command and begin sending requests to the address.
+
+4 - Review the ping speed.
+Review the ping speed. On the far-right side of each line that appears, you'll see a number followed by "ms"; this is the number of milliseconds it takes for the target computer to respond to your data request.
+- The lower the number, the faster the connection between your computer and the other computer or website.
+- When you ping a web address in the terminal, the second line shows the IP address of the website you are pinging. You can use that to ping a website instead of the IP address.
+
+5 - Stop the ping process.
+Stop the ping process. The "ping" command will run indefinitely; to stop it, press Ctrl+C. This will cause the command to stop running and display the results of the ping below the "^C" line.
+- To see the average time it took for the other computer to respond, look at the number after the first slash (/) in the line below the "# packets transmitted, # received" section.
+

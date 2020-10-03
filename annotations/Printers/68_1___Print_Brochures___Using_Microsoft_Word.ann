@@ -1,0 +1,17 @@
+T1	Software-Other 114 128	Microsoft Word
+A1	isOpened T1 f->t
+T2	Software-Other 186 199	Word document
+A2	isOpened T2 f->t
+T3	Hardware-Other 359 367	computer
+T4	Software-Other 264 267	PDF
+A3	isOpened T4 f->t
+T5	Software-Other 387 391	File
+A4	isOpened T5 f->t
+T6	Software-Other 546 551	Print
+A5	isOpened T6 f->t
+T7	Software-Other 681 688	Printer
+A6	isOpened T7 f->t
+T8	Software-Other 838 853	Print One-Sided
+T9	Software-Other 1316 1321	Print
+A7	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T5	

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 867 890	Advanced Repair Options
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1102 1118	Startup Settings
+T3	Software-OS-Related 1316 1337	Advanced Boot options
+T4	Software-OS-Related 1418 1425	Restart
+A2	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	
+T5	Hardware-Devices 119 127	computer
+A3	isPowered T5 f->t
+T6	Hardware-Devices 2103 2111	computer

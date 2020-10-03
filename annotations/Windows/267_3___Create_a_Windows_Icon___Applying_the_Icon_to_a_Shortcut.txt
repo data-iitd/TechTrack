@@ -1,0 +1,36 @@
+Create a Windows Icon
+https://www.wikihow.com/Create-a-Windows-Icon
+
+0 - Applying the Icon to a Shortcut
+
+1 - Understand where you can use your icon.
+Understand where you can use your icon. Icons can be applied to any shortcut. Shortcuts, which are links to EXE files, are typically found on the desktop, though you can apply an icon to any shortcut.
+- The one exception to the shortcut rule is the "This PC" app icon on the desktop. While you can create a shortcut of This PC and then edit its icon, the This PC icon on the desktop cannot be edited.
+- If you don't have a shortcut for a program, you can make one before proceeding.
+
+2 - Right-click a shortcut's icon.
+Right-click a shortcut's icon. Doing so will prompt a drop-down menu.
+
+3 - Click Properties.
+Click Properties. It's at the bottom of the drop-down menu.
+- If you instead see Personalize at the bottom of the list, click once the icon and then right-click it again.
+
+4 - Click Change Icon….
+Click Change Icon…. You'll see this option at the bottom of the window.
+- If you don't see this option, first click the Shortcut tab at the top of the window.
+
+5 - Click Browse….
+Click Browse…. It's in the upper-right corner of the pop-up window. Doing so opens a File Explorer window.
+
+6 - Select your icon file.
+Select your icon file. Go to the icon file's location, then click the icon file you want to use.
+
+7 - Click Open.
+Click Open. It's in the bottom-right corner of the window.
+
+8 - Click OK.
+Click OK. This is at the bottom of the window.
+
+9 - Click Apply, then click OK.
+Click Apply, then click OK. Doing so closes the open windows and applies your icon to the selected shortcut.
+

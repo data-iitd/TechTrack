@@ -1,0 +1,35 @@
+Calibrate Your Monitor
+https://www.wikihow.com/Calibrate-Your-Monitor
+
+0 - Preparing to Calibrate
+
+1 - Understand when your monitor needs calibration.
+Understand when your monitor needs calibration. Typically speaking, high-resolution monitors that you connect to a desktop unit (e.g., a 4K display) require some calibration before they'll display correctly the colors and items on your screen. Failing to calibrate such monitors can result in washed-out or blurry textures.
+- Lower-quality monitors (e.g., 720p ones)—especially ones used for gaming or other casual activities—don't need to be calibrated, though calibration won't hurt them.
+- Built-in monitors such as the ones included in laptops rarely need calibration, though you're more than welcome to calibrate built-in monitors using the same process you'd follow for a separate one.
+- 
+- ;
+
+2 - Clean your monitor if necessary.
+Clean your monitor if necessary. If your monitor is dirty or smudged, take a moment to wipe it down before attempting to calibrate it.
+
+3 - Place your monitor in a neutral lighting environment.
+Place your monitor in a neutral lighting environment. Your monitor shouldn't have any glare or direct light shining on it; for best results, make sure your monitor is in a room where it can remain unimpacted by direct natural and artificial light.
+
+4 - Connect your monitor using a high-quality cable.
+Connect your monitor using a high-quality cable. If possible, make sure your monitor is connected to your computer using a DisplayPort cable.
+- You can use an HDMI cable instead if you don't have access to a DisplayPort option, but refrain from using a DVI, VGA, or lower connector.
+
+5 - Turn on your monitor for at least 30 minutes before continuing.
+Turn on your monitor for at least 30 minutes before continuing. This will give your monitor plenty of time to warm up.[1]
+- X
+- Research source
+- 
+- If your computer is set to hibernate or use a screensaver, move the mouse every few minutes to keep your screen from turning off.
+
+6 - Change your monitor's resolution back to default if necessary.
+Change your monitor's resolution back to default if necessary. By default, your monitor should display in the highest possible resolution, which is necessary for calibration:
+- 
+- Windows — Open Start , click Settings , click System, click Display, click the "Resolution" drop-down box, and click the "Recommended" resolution. Click Keep changes when prompted.
+- Mac — Open the Apple menu , click System Preferences..., click Displays, click the Display tab, hold down ⌥ Option while clicking Scaled, select your connected display, and check the "Default for display" box.
+

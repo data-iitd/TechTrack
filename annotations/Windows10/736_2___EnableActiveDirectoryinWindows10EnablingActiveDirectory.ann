@@ -1,0 +1,11 @@
+T1	Software-OS-Related 150 163	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 303 311	Programs
+A2	isOpened T2 f->t
+T3	Software-OS-Related 343 364	Turn Windows features
+T4	Software-OS-Related 482 516	Remote Server Administration Tools
+T5	Software-OS-Related 753 764	AD DS Tools
+A3	isOpened T5 f->t
+T6	Software-OS-Related 646 671	Role Administration Tools
+T7	Software-OS-Related 894 905	Restart now
+A4	isSettingsChanged T7 true

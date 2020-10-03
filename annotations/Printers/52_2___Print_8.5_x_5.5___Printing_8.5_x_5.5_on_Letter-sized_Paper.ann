@@ -1,0 +1,4 @@
+T1	Software-OS-Related 136 150	word processor
+T2	Software-OS-Related 789 794	Print
+A1	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	

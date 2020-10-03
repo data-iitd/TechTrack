@@ -1,0 +1,28 @@
+Extract RPM Packages
+https://www.wikihow.com/Extract-RPM-Packages
+
+0 - Steps
+
+1 - RPM is a sort of cpio archive.
+RPM is a sort of cpio archive. So rpm2cpio converts the specified .rpm file to a cpio archive. Unpack the content of rpm is possible using standard archiving tools, regardless of your distribution’s package format. Even though rpm utility is capable of doing so , here is a more generic option on how to do it. WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');
+
+2 - Open a terminal (or Console as it is usually called in KDE).
+Open a terminal (or Console as it is usually called in KDE).
+
+3 - Download the rpm file which you want to install and place it in a place of your choice.
+Download the rpm file which you want to install and place it in a place of your choice. mkdir testing cd testing  wget ftp://download.fedora.redhat.com/pub/fedora/linux/updates/11/SRPMS/mediawiki-1.15.1-50.fc11.src.rpm
+
+4 - Now using the two command line utilities, rpm2cpio and cpio you could try to extract all the files.
+Now using the two command line utilities, rpm2cpio and cpio you could try to extract all the files.  rpm2cpio mediawiki-1.15.1-50.fc11.src.rpm | cpio -idmv
+
+5 - You could also try installing with following arguments.
+You could also try installing with following arguments.
+- i: Restore archive
+- d: Create leading directories where needed
+- m: Retain previous file modification times when creating files
+- v: Verbose i.e. display progress
+
+6 - The package most probably has been extracted to that directory.
+The package most probably has been extracted to that directory. To check whether you have been successful in extracting it properly type in. ls 
+- If you get some file names when you run the command, rpm has been extracted successfully into that directory.
+

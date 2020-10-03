@@ -1,0 +1,27 @@
+Edit the Windows Registry
+https://www.wikihow.com/Edit-the-Windows-Registry
+
+0 - Making a Registry Backup
+
+1 - Make a backup of the Windows Registry.
+Make a backup of the Windows Registry. Do this before you edit it so you can revert to the pre-edited version if necessary.
+- ;
+
+2 - Press ⊞ Win+r.
+Press ⊞ Win+r. The Run window opens.
+
+3 - Type "regedit" without the quotes and press ↵ Enter.
+Type "regedit" without the quotes and press ↵ Enter. If prompted by User Account Control, click Yes to open the Registry Editor.
+
+4 - Right-click the Computer icon in the left pane.
+Right-click the Computer icon in the left pane.
+
+5 - Click Export.
+Click Export.
+
+6 - Choose a location and type a name for the backup.
+Choose a location and type a name for the backup.
+
+7 - Click Save.
+Click Save.
+

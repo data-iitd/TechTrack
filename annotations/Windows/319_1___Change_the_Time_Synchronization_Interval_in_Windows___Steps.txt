@@ -1,0 +1,36 @@
+Change the Time Synchronization Interval in Windows
+https://www.wikihow.com/Change-the-Time-Synchronization-Interval-in-Windows
+
+0 - Steps
+
+1 - Open Internet Time Synchronization.
+Open Internet Time Synchronization. To do this, open Date and Time Settings. You can do this either through the Control Panel, or by clicking on the time on the taskbar, then clicking "Change date and time settings..." then clicking the "Internet Time" tab.
+- Verify the computer is set to synchronize automatically.
+- ;
+
+2 - Open the Registry Editor.
+Open the Registry Editor. There are several ways of doing this, choose the most convenient for you. If you get a User Account Control dialog, click Yes.
+- Press the Windows logo key and R. This will open the Run dialog. Then type regedit and click OK.
+- Alternatively, open the Start Menu and type "regedit" in the search box. Click the regedit program to open.
+
+3 - Navigate to HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\W32Time\TimeProviders\NtpClient.
+Navigate to HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\W32Time\TimeProviders\NtpClient. Just click the arrows next to the folder icons to navigate to the correct directories. You may have to scroll a bit when you reach the SYSTEM key.
+
+4 - Right click on the SpecialPollInterval key, then click Modify.
+Right click on the SpecialPollInterval key, then click Modify.
+
+5 - Convert your desired time to seconds.
+Convert your desired time to seconds. You can quickly do this using Google or a website like Easysurf.
+
+6 - Click Decimal.
+Click Decimal. Then, enter your interval in seconds (without commas), and click OK.
+
+7 - Close the Registry Editor.
+Close the Registry Editor.
+
+8 - Open Date and Time Settings.
+Open Date and Time Settings. Click Internet Time, click Change Settings, then Update Now. This will immediately synchronize your clock. Click OK to close the dialog.
+
+9 - Confirm your new synchronization interval works.
+Confirm your new synchronization interval works. If it does, the next synchronization time should be exactly one interval away from the time you synchronized.
+

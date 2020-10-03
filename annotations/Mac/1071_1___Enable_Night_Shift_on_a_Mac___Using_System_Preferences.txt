@@ -1,0 +1,26 @@
+Enable Night Shift on a Mac
+https://www.wikihow.com/Enable-Night-Shift-on-a-Mac
+
+0 - Using System Preferences
+
+1 - Open your Mac’s System Preferences panel.
+Open your Mac’s System Preferences panel. Click the Apple icon in the upper-left corner of your screen and select System Preferences on the drop-down menu. It will open a new pop-up window.
+
+2 - Click the Displays button.
+Click the Displays button. This option looks like a desktop monitor icon towards the upper-left corner of the System Preferences window. It will open a menu where you can change your computer's display resolution, brightness, and color settings.
+
+3 - Click the Night Shift tab.
+Click the Night Shift tab. Displays menu will open up to the Display tab. Click the Night Shift tab at the top of the window in order to set up your Night Shift settings.
+
+4 - Click the drop-down arrows next to Schedule.
+Click the drop-down arrows next to Schedule. This option lets you set up a schedule for Night Shift to automatically turn on and off after dark every day. It is set to Off by default. You can select to schedule it from Sunset to Sunrise according to your local time, or you can set up your own Custom schedule.
+- If you select Sunset to Sunrise, Night Shift will automatically turn on every day at your local sunset time and turn off at sunrise. Your Mac will use your time zone settings to update sunset and sunrise times every day.
+- If you select Custom, you will have the option to type in your own timeframe to turn on and off. You can always go back and change your times.
+
+5 - Click and check the box next to Manual.
+Click and check the box next to Manual. If you don't want to set up a Night Shift schedule, you can manually turn it on by checking this box.
+- Click again and uncheck the box to turn it off.
+
+6 - Click and drag the slider next to Color Temperature.
+Click and drag the slider next to Color Temperature. You can use this slider to find the most comfortable color temperature for your own eyes and make it your designated Night Shift setting. Your computer's display will shift to this color when you have Night Shift on.
+

@@ -1,0 +1,13 @@
+T1	Software-OS-Related 162 175	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 311 336	View devices and printers
+A2	isOpened T2 f->t
+T3	Software-OS-Related 452 464	printer icon
+A3	isOpened T3 f->t
+T4	Software-OS-Related 574 581	Options
+A4	isOpened T4 f->t
+T5	Software-OS-Related 670 678	Services
+A5	isOpened T5 f->t
+T6	Software-OS-Related 742 757	Dell Ink levels
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T2	

@@ -1,0 +1,4 @@
+T1	Software-Other 108 126	Linux Distribution
+A1	isOpened T1 f->t
+T2	Software-Other 1083 1090	Live CD
+A2	isOpened T2 f->t

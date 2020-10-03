@@ -1,0 +1,80 @@
+Install Ubuntu Linux
+https://www.wikihow.com/Install-Ubuntu-Linux
+
+0 - Installing on Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click Restart….
+Click Restart…. It's near the bottom of the drop-down menu.
+
+3 - Click Restart Now when prompted.
+Click Restart Now when prompted. Doing so will prompt your Mac to begin restarting.
+
+4 - Immediately hold down the ⌥ Option key.
+Immediately hold down the ⌥ Option key. Do this right after clicking Restart Now. You'll need to continue doing this until instructed otherwise.
+- If you're booting from a DVD, don't do this. Instead, skip to the "Wait for the Linux installer window to appear" step.
+
+5 - Release the ⌥ Option key when the boot manager window appears.
+Release the ⌥ Option key when the boot manager window appears. Once you see a window with different hard drive options appear, you can release the ⌥ Option key.
+
+6 - Select your flash drive's name and press ⏎ Return.
+Select your flash drive's name and press ⏎ Return. Use the arrow keys to select it. Doing so will start your computer from the flash drive.
+
+7 - Wait for the Linux installer window to appear.
+Wait for the Linux installer window to appear. If you're booting from a DVD, this may take a few minutes.
+
+8 - Select Install Ubuntu and press ⏎ Return.
+Select Install Ubuntu and press ⏎ Return. This will open the Ubuntu installer program.
+
+9 - Select a language, then click Continue.
+Select a language, then click Continue. Click the language that you want to use for Ubuntu, then click Continue in the bottom-right corner.
+
+10 - Click Install Ubuntu.
+Click Install Ubuntu. It's on the right side of the window.
+
+11 - Check both boxes on the "Preparing to install Ubuntu" page.
+Check both boxes on the "Preparing to install Ubuntu" page. Check the "Download updates while installing Ubuntu" box and the "Install third-party software for graphics..." box.[3]
+- X
+- Research source
+
+12 - Click Continue.
+Click Continue. It's in the bottom-right corner of the window.
+
+13 - Check the "Install Ubuntu alongside Mac" box.
+Check the "Install Ubuntu alongside Mac" box. You'll find this at the top of the window.
+
+14 - Click Install Now.
+Click Install Now. It's in the bottom-right corner.
+
+15 - Click Continue when prompted.
+Click Continue when prompted. Doing so will begin the Ubuntu installation process.
+
+16 - Select a region, then click Continue.
+Select a region, then click Continue. Click a time zone block on the world map to select a region.
+
+17 - Select a keyboard layout, then click Continue.
+Select a keyboard layout, then click Continue. To do this, click a language on the left side of the window, then click a version of the language (e.g., US) on the right side.
+
+18 - Enter your user information.
+Enter your user information. Fill out the following fields:
+- 
+- Your name - Your first and last name.
+- Your computer's name - The name that you want your computer to use. Make sure that this isn't too complicated.
+- Pick a username - Type in a username that you'd like to use for your Ubuntu profile.
+- Choose a password - Enter a password. This is what you'll use to sign into your computer.
+- Confirm your password - Re-enter the password.
+
+19 - Select a login option.
+Select a login option. Check either "Log in automatically" or "Require my password to log in" in the middle of the page.
+
+20 - Click Continue.
+Click Continue.
+
+21 - Click Restart Now when prompted.
+Click Restart Now when prompted. Doing so will bring up a screen on which you can select your preferred operating system (e.g., Ubuntu or Windows).
+
+22 - Select Ubuntu and press ↵ Enter.
+Select Ubuntu and press ↵ Enter. Only do this if prompted. Your computer will boot into Ubuntu rather than MacOS, signifying that you have successfully installed Ubuntu Linux on your Mac.
+

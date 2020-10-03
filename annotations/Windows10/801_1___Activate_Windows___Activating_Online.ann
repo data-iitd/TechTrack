@@ -1,0 +1,10 @@
+T1	Software-OS-Related 100 108	Settings
+A1	isOpened T1 f->t
+T2	Hardware-Devices 121 129	computer
+A2	isUsed T2 true
+T3	Software-OS-Related 299 317	Updates & Security
+A3	isOpened T3 f->t
+T4	Software-OS-Related 425 435	Activation
+A4	isOpened T4 f->t
+T5	Software-OS-Related 574 592	Change product key
+A5	isOpened T5 f->t

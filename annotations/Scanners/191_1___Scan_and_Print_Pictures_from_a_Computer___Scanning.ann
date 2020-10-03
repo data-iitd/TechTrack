@@ -1,0 +1,28 @@
+T1	Hardware-Devices 141 148	scanner
+A1	isPowered T1 start-F
+A2	isConnected T1 f->t
+T2	Hardware-Other 157 165	computer
+T3	Hardware-Other 253 262	USB cords
+T4	Hardware-Other 299 324	serial and parallel ports
+T5	Hardware-Other 391 405	scanner's slot
+T6	Hardware-Other 436 438	PC
+*	Equiv T2 T6
+T7	Hardware-Devices 462 469	scanner
+A5	isPowered T7 f->t
+T8	Hardware-Other 552 562	power cord
+T9	Hardware-Other 612 629	electrical outlet
+T10	Hardware-Other 704 712	computer
+T12	Hardware-Devices 998 1005	scanner
+T13	Hardware-Other 1107 1120	scanner glass
+T14	Hardware-Other 1315 1340	automatic document feeder
+T15	Hardware-Other 1423 1431	pictures
+T16	Hardware-Devices 1473 1480	machine
+*	Equiv T12 T16
+T17	Hardware-Other 1629 1645	scanner's manual
+T19	Hardware-Other 1729 1736	buttons
+T20	Hardware-Other 1916 1920	Scan
+T21	Hardware-Devices 2027 2034	scanner
+T22	Hardware-Other 2138 2146	pictures
+T11	Software-Other 2052 2069	scanning software
+A3	isOpened T11 f->t
+A4	isInstalled T11 start-T

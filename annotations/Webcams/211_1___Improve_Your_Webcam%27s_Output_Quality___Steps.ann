@@ -1,0 +1,16 @@
+T1	Hardware-Other 130 134	lamp
+T2	Hardware-Other 298 304	laptop
+T3	Hardware-Devices 405 411	webcam
+T4	Hardware-Other 629 633	lamp
+T5	Hardware-Other 738 750	Typing paper
+T6	Hardware-Other 752 764	tissue paper
+T7	Hardware-Devices 906 922	computer monitor
+A1	isPowered T7 start-T
+T8	Software-OS-Related 871 881	brightness
+A2	isSettingsChanged T8 true
+T9	Software-OS-Related 889 897	contrast
+A4	isSettingsChanged T9 true
+T10	Hardware-Other 1258 1263	shirt
+T11	Hardware-Devices 1379 1385	webcam
+T12	Hardware-Other 1623 1628	sheet
+A3	isPowered T3 start-T

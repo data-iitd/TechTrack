@@ -1,0 +1,34 @@
+Make a Computer Operating System
+https://www.wikihow.com/Make-a-Computer-Operating-System
+
+0 - Building Your Operating System
+
+1 - Choose a development environment.
+Choose a development environment. This is the platform you'll be using to code your new operating system. It's a matter of personal preference, but most people either use Windows or a flavor of UNIX. If you're using Windows, it's a good idea to install a UNIX environment like Cygwin or MinGW. You'll generally want to make sure whatever environment you're using includes the following: 
+- GCC (the Gnu compiler). If you're using Windows, you can install it in Cygwin or MinGW.
+- Binutils is a collection of tools used for manipulating object files. Again, if you're using Windows, you can install it in Cygwin.
+- A good text editor. Vim and emacs are commonly used in UNIX environments. Windows users can use Notepad, or check out Notepad++ for a multi-tab upgrade.
+- Perl and/or Python. One or both are recommended for string manipulation.
+
+2 - Set up your version control system.
+Set up your version control system. Writing an operating system means you'll likely be creating hundreds (or thousands!) of lines of code. When you're working on revisions, this can get confusing. Some options to check out are CVS, Mercurial, and Subversion.
+
+3 - Decide on a bootloader.
+Decide on a bootloader. If you don't want to create your own, you can use an existing one like Grand Unified Bootloader (GRUB). If you do feel daring enough to code a bootloader, check out Rolling Your Own Bootloader on OSDev.org.
+
+4 - Choose a kernel design.
+Choose a kernel design. The kernel is the core of your operating system, providing an interface between the user and the computer hardware. There are monolithic kernels and micro kernels. Monolithic kernels implement all the services in the kernel, while microkernels have a small kernel combined with user daemons implementing services. In general, monolithic kernels are faster, but microkernels have better fault isolation and reliability.
+
+5 - Start small.
+Start small. Begin with small things such as displaying text and interrupts before moving on to things such as memory management and multitasking. You can also try making a simple 16-bit Operating System, instead of taking a big leap.
+- You will not have a full system in two weeks. Start with an OS that boots, then move on to the cool stuff.
+
+6 - Test your new operating system with a virtual machine.
+Test your new operating system with a virtual machine. Rather than rebooting your computer each time you make changes or having to transfer the files from your development computer to your test machine, use a virtual machine application. VMWare is a common option that works with both Windows and Linux, and so is Bochs. Check for potential deadlocks and other bugs and repair them as needed.
+
+7 - Release a "release candidate.
+Release a "release candidate." You can do this by uploading your tested code to your public repository. This will allow people to test your operating system and report back on any issues they run into.
+
+8 - Network with other operating system developers.
+Network with other operating system developers. There's an entire community of operating system developers congregating on various forums, including /r/osdev on Reddit and the Software Engineering Stack Exchange. One you've gotten a grasp on developing a basic operating system, read existing posts to see what kind of things come up during the development process.
+

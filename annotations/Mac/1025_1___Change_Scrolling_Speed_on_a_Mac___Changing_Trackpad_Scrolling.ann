@@ -1,0 +1,18 @@
+T1	Software-OS-Related 164 174	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 276 294	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 498 511	Accessibility
+A3	isOpened T3 f->t
+T4	Software-OS-Related 562 578	Mouse & Trackpad
+A4	isOpened T4 f->t
+T5	Software-OS-Related 695 711	Trackpad Options
+A5	isOpened T5 f->t
+T6	Software-OS-Related 861 877	Scrolling speed"
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1039 1051	with inertia
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T6 Arg2:T5	
+R2	SubPart Arg1:T7 Arg2:T5	
+R3	SubPart Arg1:T5 Arg2:T4	
+R6	SubPart Arg1:T4 Arg2:T3	

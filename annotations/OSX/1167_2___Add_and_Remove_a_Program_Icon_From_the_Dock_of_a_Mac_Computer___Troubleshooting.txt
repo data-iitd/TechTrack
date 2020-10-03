@@ -1,0 +1,54 @@
+Add and Remove a Program Icon From the Dock of a Mac Computer
+https://www.wikihow.com/Add-and-Remove-a-Program-Icon-From-the-Dock-of-a-Mac-Computer
+
+0 - Troubleshooting
+
+1 - Restart your computer.
+Restart your computer. This may fix the problem if the application is failing to quit properly. There are many issues this won't fix, but it's an easy option that's worth trying first.
+
+2 - Look for the program in Activity Monitor.
+Look for the program in Activity Monitor. If you can add and remove most programs, but one of them won't leave your Dock, it's probably "open" — even if it doesn't look like it. If restarting didn't solve the problem, try this:
+- Go to Applications → Utilities and open Activity Monitor.
+- Search the list for a process with the name of the application you are trying to remove from the Dock.
+- Click that name, then click the "X" button at the top of the window to quit that process.
+- Repeat the process for all other processes with a similar name.
+
+3 - Check parental controls.
+Check parental controls. If you are using an account with parental controls, you may not be able to change the Dock. If you have the password for an administrator account, you can enable Dock modification:
+- Open System Preferences in the Applications folder.
+- Select your account.
+- If the options are greyed out, click the lock in the bottom left corner and enter an administrator username and password.
+- Select the "Other" tab.
+- Uncheck "Prevent the Dock from being modified" or "Allow this user to modify the Dock."
+
+4 - Repair Disk Permissions.
+Repair Disk Permissions. Problems with accessing or changing files can happen if the files that set user permissions are corrupted. Try running an automatic repair process to see if this fixes the issue:
+- If you are using 10.11 El Capitan, your computer should protect your permissions automatically. This option is only available (and only necessary) on 10.10 Yosemite or earlier.
+- Go to Applications → Utilities and open Disk Utility.
+- Select your hard drive in the left pane.
+- Click the First Aid button near the top of the window.
+- Press Repair Disk Permissions and wait for it to finish. This may take a long time, especially if you have a large or slow hard drive. Your computer may be slow or unresponsive during this time.
+
+5 - Relaunch Dock in Terminal.
+Relaunch Dock in Terminal. You can use Terminal to enable changes to your Dock and relaunch it to fix buggy behavior, all in one command. Just follow these instructions:[1]
+- X
+- Research source
+- 
+- 
+- Go to Applications → Utilities and open Terminal.
+- Copy-paste this command into the Terminal window: defaults write com.apple.dock contents-immutable -bool false;killall Dock
+- Press ⏎ Return. Wait a few seconds while your Dock relaunches.
+
+6 - Reset the Dock completely.
+Reset the Dock completely. If nothing else works, you can restore your Dock to its default state. This will remove any icons you've added to the Dock. Follow these instructions:[2]
+- X
+- Research source
+- 
+- 
+- Go to Applications → Utilities and open Terminal.
+- Copy-paste this command into Terminal: defaults delete com.apple.dock; killall Dock
+- Press ⏎ Return. Wait for your Dock to relaunch with default icons.
+
+7 - Get rid of malware
+Get rid of malware. If the icon stuck on your Dock is an advertisement or a program you didn't put there, install antivirus software. Have it scan your hard drive for malware, and delete the malware causing the problem.
+

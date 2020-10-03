@@ -1,0 +1,23 @@
+Compress Files in Windows
+https://www.wikihow.com/Compress-Files-in-Windows
+
+0 - Steps
+
+1 - Download Winzip or Winrar trail version or buy it.
+Download Winzip or Winrar trail version or buy it.
+- ;
+
+2 - Install Winzip_Winrar.
+Install Winzip/Winrar.
+
+3 - Right Click on the files you want to compress and click on "Add to archive".
+Right Click on the files you want to compress and click on "Add to archive".
+
+4 - Choose the compressed file save directory and click on OK.
+Choose the compressed file save directory and click on OK.
+
+5 - Now, when you want to uncompress it later you do the following:
+Now, when you want to uncompress it later you do the following:
+- Right Click the archive.
+- Click on "Extract Here".
+

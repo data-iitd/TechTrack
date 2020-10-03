@@ -1,0 +1,28 @@
+Install Windows from Ubuntu
+https://www.wikihow.com/Install-Windows-from-Ubuntu
+
+0 - Running the Windows Installer
+
+1 - Restart your computer into the BIOS_UEFI.
+Restart your computer into the BIOS/UEFI. The steps to enter the BIOS/UEFI depend on your PC manufacturer and model. You'll usually have to press a certain key (often F2, F10, F1, or Del) right after the computer starts back up.
+- Insert the USB drive into a free USB port if you haven't already.
+
+2 - Set the USB drive to come first in the boot order.
+Set the USB drive to come first in the boot order. You'll usually do this in a menu called "Boot" or "Boot Order." The steps to do this vary by PC, but you'll usually have to select USB Drive and mark it as 1st Boot Device. Check your PC manufacturer's website for more specific instructions about your BIOS/UEFI.
+
+3 - Save your changes and exit the BIOS_UEFI.
+Save your changes and exit the BIOS/UEFI. Most BIOS/UEFI make the "Save" and "Exit" keys very clear somewhere on the screen. Once you exit the BIOS/UEFI, your computer will boot from your USB drive and display the "Windows Setup" window.
+
+4 - Click Custom: Install Windows only (advanced).
+Click Custom: Install Windows only (advanced). It's the second option on the window. A list of partitions will appear.
+
+5 - Select the Windows10 partition and click Next.
+Select the Windows10 partition and click Next. This is the partition you just created. Windows will now install on the selected partition.
+
+6 - Follow the on-screen instructions to install Windows.
+Follow the on-screen instructions to install Windows. Once you finish the setup, you'll boot to the Windows desktop.
+
+7 - Connect to the internet in Windows.
+Connect to the internet in Windows. Now that Windows is installed, you'll need to install a tool that allows you to dual-boot it with your existing Ubuntu installation.
+- To learn how to connect to Wi-Fi, see How to Connect to WiFi in Windows 10 or How to Connect to the Internet.
+

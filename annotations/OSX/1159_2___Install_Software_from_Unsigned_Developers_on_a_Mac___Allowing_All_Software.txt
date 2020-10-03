@@ -1,0 +1,43 @@
+Install Software from Unsigned Developers on a Mac
+https://www.wikihow.com/Install-Software-from-Unsigned-Developers-on-a-Mac
+
+0 - Allowing All Software
+
+1 - Open Spotlight .
+Open Spotlight . Click the magnifying glass icon in the top-right corner of the screen. In order to allow all software installations, you'll first need to restore an installation option that MacOS Sierra got rid of.
+
+2 - Type in terminal, then click  Terminal.
+Type in terminal, then click  Terminal. It should appear directly below the Spotlight search bar.
+
+3 - Type sudo spctl --master-disable into Terminal and press ⏎ Return.
+Type sudo spctl --master-disable into Terminal and press ⏎ Return. This is the code that enables the installation option.
+
+4 - Enter your password.
+Enter your password. This is the password you use to sign into your Mac. Doing so will restore the option you need in the Security & Privacy menu.
+
+5 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+6 - Click System Preferences.
+Click System Preferences. This option is near the top of the drop-down menu.
+
+7 - Click Security & Privacy.
+Click Security & Privacy. It's near the top of the System Preferences window.
+
+8 - Click the lock icon.
+Click the lock icon. It's in the bottom-left corner of the window.
+
+9 - Enter your password, then click Unlock.
+Enter your password, then click Unlock. You should now be able to edit the settings in this menu.
+
+10 - Check the Anywhere box.
+Check the Anywhere box. It's below the "Allow apps downloaded from" heading near the bottom of the window. Doing so prompts a pop-up window.
+
+11 - Click Allow From Anywhere when prompted.
+Click Allow From Anywhere when prompted. Doing this will allow you to install software from unsigned developers without having to confirm from within this menu.
+- If you don't install any unsigned software within 30 days, you'll have to re-enable this settings.
+- Click the lock icon if you'd like to prevent further changes.
+
+12 - Install your software.
+Install your software. You should now be able to install your software as you usually would.
+

@@ -1,0 +1,46 @@
+Open RAR Files on Mac OS X
+https://www.wikihow.com/Open-RAR-Files-on-Mac-OS-X
+
+0 - Using Unarchiver
+
+1 - Download the Unarchiver application.
+Download the Unarchiver application. The Unarchiver is an app that allows you to open RAR files on your Mac. To download it, do the following:
+- Open your Mac's  App Store
+- Click the search bar in the upper-right side of the App Store window.
+- Type unarchiver into the search bar, then press ⏎ Return.
+- Click Get below the "Unarchiver" heading.
+- Click Install App below the "Unarchiver" heading when prompted.
+- Enter your Apple ID password if prompted.
+- ;
+
+2 - Open Launchpad.
+Open Launchpad. Click the Launchpad icon, which resembles a rocket ship. It's usually found in the Dock at the bottom of your Mac's screen.
+
+3 - Click The Unarchiver application.
+Click The Unarchiver application. This will launch the Unarchiver program.
+- If prompted, you may have to select whether you want to save unarchived files to the same folder each time, or if you want to be asked each time.
+
+4 - Click the Archive Formats tab.
+Click the Archive Formats tab. It's at the top of the window.
+
+5 - Check the "RAR Archive" box.
+Check the "RAR Archive" box. Doing so ensures that the Unarchiver program will be able to open RAR files in the future.
+
+6 - Select a RAR file.
+Select a RAR file. Go to the location of a RAR file which you want to open, then click the RAR file.
+- If you are trying to extract a multi-part RAR file, start with the ".rar" or ".part001.rar" file. All the parts should be in the same folder.
+
+7 - Click File.
+Click File. It's at the top of your Mac's screen. A drop-down menu will appear.
+- In some cases, you may also be able to double-click the RAR file to open it in Unarchiver. This may not work if you have multiple apps which can open RAR files on your Mac.
+
+8 - Select Open With.
+Select Open With. This option is in the File drop-down menu. A pop-out will appear.
+
+9 - Click The Unarchiver.
+Click The Unarchiver. It's in the pop-out menu. Doing so will prompt your RAR file to open in Unarchiver, which will begin extracting the RAR file's contents into the RAR's folder.
+- If the RAR file is password-protected, you'll be prompted to enter the password before the files can be extracted.
+
+10 - Open the extracted file(s).
+Open the extracted file(s). By default, The Unarchiver will extract the RAR's files into the same folder in which the RAR file was located. For example, if the RAR file was in the Desktop folder, you'll find the extracted files there.
+

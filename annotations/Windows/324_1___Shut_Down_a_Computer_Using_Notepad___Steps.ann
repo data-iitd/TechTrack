@@ -1,0 +1,8 @@
+T1	Software-Other 120 127	Notepad
+A1	isOpened T1 f->t
+T2	Software-Other 1467 1471	File
+A2	isOpened T2 f->t
+T3	Software-Other 1485 1492	Save As
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1991 1995	Save
+A4	isSettingsChanged T4 true

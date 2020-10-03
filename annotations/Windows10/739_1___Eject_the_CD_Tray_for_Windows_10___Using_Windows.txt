@@ -1,0 +1,33 @@
+Eject the CD Tray for Windows 10
+https://www.wikihow.com/Eject-the-CD-Tray-for-Windows-10
+
+0 - Using Windows
+
+1 - Close any apps using the CD_DVD-ROM drive.
+Close any apps using the CD/DVD-ROM drive. If any open apps are accessing files on the CD or DVD inside the drive, close those apps—Windows will not eject the tray otherwise.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Press the eject button.
+Press the eject button. If your CD/DVD-ROM drive has a physical eject button, you can usually press it to open the tray. Eject buttons are usually right beside the drive door. Some PCs have eject keys on the keyboard, usually near volume controls. Look for key with an upward-pointing triangle with a horizontal line underneath.[2]
+- X
+- Research source
+- 
+- 
+- If your CD/DVD-ROM drive has a long horizontal plastic bar on the front, press firmly on the right side of the bar to eject the tray.
+- Continue with this method if the eject button doesn't work.
+
+3 - Press ⊞ Win+E to open the File Explorer.
+Press ⊞ Win+E to open the File Explorer. You can also open File Explorer by right-clicking the Start menu and selecting File Explorer. Your list of drives will appear on the left panel.
+
+4 - Right-click the CD_DVD-ROM drive in the left panel.
+Right-click the CD/DVD-ROM drive in the left panel. You may have to scroll down to the bottom to find it under "This PC." A menu will expand.
+- If you're not sure which drive is correct, look for a name or icon reflecting the disk that's inside. If no disk is inside, you may see something like "Optical" or "DVD" near the drive letter instead.
+
+5 - Click Eject on the menu.
+Click Eject on the menu. As long as the drive is working properly and no apps are currently accessing files on the CD or DVD in the drive, the tray should now slide open.
+- If the tray will not open, reboot the PC and try these steps again.
+- If the tray doesn't open after a reboot, see Using a Paperclip if the Drive is Stuck.
+

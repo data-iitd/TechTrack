@@ -1,0 +1,11 @@
+T1	Hardware-Other 201 212	flash drive
+T2	Software-OS-Related 370 375	Eject
+T3	Software-OS-Related 691 696	Eject
+A1	isSettingsChanged T3 true
+T4	Software-OS-Related 781 786	Eject
+T5	Software-OS-Related 991 1014	Safe to Remove Hardware
+T6	Hardware-Devices 1137 1154	computer's screen
+A2	isPowered T6 start-T
+T7	Hardware-Other 1161 1172	flash drive
+T8	Hardware-Other 1270 1281	flash drive
+T9	Hardware-Devices 1244 1252	computer

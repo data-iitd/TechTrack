@@ -1,0 +1,13 @@
+T1	Software-OS-Related 410 423	Mac App Store
+A1	isOpened T1 f->t
+T2	Software-OS-Related 531 538	Updates
+A2	isOpened T2 f->t
+T3	Software-OS-Related 677 681	OS X
+T4	Software-OS-Related 234 255	OS X Mavericks (10.9)
+T5	Software-OS-Related 336 354	El Capitan (10.11)
+T6	Software-OS-Related 318 334	Yosemite (10.10)
+T7	Software-OS-Related 646 654	Download
+T8	Software-OS-Related 730 740	El Capitan
+T9	Software-OS-Related 764 771	Updates
+T10	Software-OS-Related 851 864	system update
+T11	Software-OS-Related 1049 1054	sound

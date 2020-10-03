@@ -1,0 +1,7 @@
+T1	Software-OS-Related 333 350	Shut Down Windows
+A1	isOpened T1 f->t
+T2	Software-OS-Related 267 271	very
+A2	isOpened T2 f->t
+T3	Software-OS-Related 667 674	Restart
+T4	Software-OS-Related 767 769	OK
+A3	isSettingsChanged T4 true

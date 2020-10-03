@@ -1,0 +1,22 @@
+T1	Software-OS-Related 145 154	time zone
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 249 257	Continue
+A2	isOpened T2 f->t
+T3	Software-OS-Related 354 372	on-screen keyboard
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 710 719	Your name
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 986 1001	Pick a username
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1141 1158	Choose a password
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1196 1217	Confirm your password
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1259 1267	Continue
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1909 1930	Power off the machine
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1943 1945	OK
+A10	isOpened T10 f->t
+T11	Software-Other 1973 1995	virtual machine's name
+A11	isOpened T11 f->t

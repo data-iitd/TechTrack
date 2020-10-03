@@ -1,0 +1,6 @@
+T1	Software-OS-Related 116 129	File Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 168 179	address bar
+A2	isOpened T2 f->t
+T3	Software-OS-Related 428 435	Taskmgr
+A3	isOpened T3 f->t

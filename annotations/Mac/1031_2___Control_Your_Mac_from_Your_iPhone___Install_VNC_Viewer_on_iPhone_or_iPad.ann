@@ -1,0 +1,14 @@
+T1	Hardware-Devices 190 196	iPhone
+A1	isPowered T1 start-T
+T2	Software-OS-Related 207 216	App Store
+A2	isOpened T2 f->t
+T3	Software-OS-Related 300 306	Search
+A3	isOpened T3 f->t
+T4	Software-Other 577 591	VNC Viewer app
+A4	isOpened T4 f->t
+T5	Software-Other 693 696	GET
+A5	isSettingsChanged T5 true
+T6	Software-Other 981 985	OPEN
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T6 Arg2:T4	

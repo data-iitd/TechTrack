@@ -1,0 +1,40 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Adding Shortcuts to the Desktop
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen, or press ⊞ Win on your keyboard.
+
+2 - Click File Explorer .
+Click File Explorer . It's in the lower-left side of the Start window.
+
+3 - Click the Desktop folder.
+Click the Desktop folder. It's on the left side of the File Explorer window.
+
+4 - Click the Home tab.
+Click the Home tab. You'll find this tab in the upper-left side of the File Explorer window.
+
+5 - Click New item.
+Click New item. It's in the "New" section of the tool bar at the top of the window.
+
+6 - Click Shortcut.
+Click Shortcut. This option is in the New item drop-down menu. A window with options for your new shortcut will appear.
+
+7 - Click Browse.
+Click Browse. It's in the middle of the page. Doing so opens a pop-up window.
+
+8 - Scroll down and click the program's or file's folder.
+Scroll down and click the program's or file's folder. For example, if the program or file is in the Documents folder, you'd click My Documents.
+- You may have to click through several different folders to find the program or file for which you want to create a shortcut.
+
+9 - Click OK.
+Click OK. Doing so sets the desktop shortcut's target as your selected item.
+- If you rename the desktop icon or move it to a new folder, your shortcut will no longer work.
+
+10 - Click Next, then enter a name.
+Click Next, then enter a name. The default name for the shortcut is the same name as the program itself.
+
+11 - Click Finish.
+Click Finish. It's in the bottom-right corner of the window. This will create your shortcut in the folder you selected.
+

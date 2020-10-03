@@ -1,0 +1,29 @@
+T7	Software-OS-Related 762 788	Creating a virtual machine
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1400 1423	Virtual Machine Manager
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1436 1440	File
+T10	Software-OS-Related 1447 1466	New Virtual Machine
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1527 1543	type and version
+T12	Software-OS-Related 1586 1609	memory and CPU settings
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1620 1659	Enable storage for this virtual machine
+A13	isSettingsChanged T13 true
+T14	Software-OS-Related 1666 1708	Create a disk on the computer's hard drive
+A14	isSettingsChanged T14 true
+T15	Software-OS-Related 1806 1822	Advanced options
+A15	isOpened T15 f->t
+T16	Software-OS-Related 1939 1962	Set a fixed MAC address
+A16	isSettingsChanged T16 true
+R1	SubPart Arg1:T16 Arg2:T8	
+T1	Software-Other 453 465	bridge-utils
+A1	isInstalled T1 f->t
+T2	Software-Other 625 628	KVM
+A2	isInstalled T2 f->t
+A3	isOpened T9 f->t
+A4	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T10	
+R3	SubPart Arg1:T12 Arg2:T10	
+R4	SubPart Arg1:T13 Arg2:T10	
+R5	SubPart Arg1:T14 Arg2:T10	

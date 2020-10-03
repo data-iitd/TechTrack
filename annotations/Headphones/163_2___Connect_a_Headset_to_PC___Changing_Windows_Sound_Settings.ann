@@ -1,0 +1,21 @@
+T5	Software-OS-Related 354 359	Sound
+A5	isOpened T5 f->t
+T8	Hardware-Devices 649 656	headset
+A8	isPowered T8 f->t
+T9	Software-OS-Related 736 749	Recording tab
+A9	isOpened T9 f->t
+T12	Software-OS-Related 926 937	Set Default
+T17	Hardware-Devices 1197 1204	headset
+T18	Hardware-Other 1215 1223	computer
+T19	Hardware-Other 1062 1064	PC
+T3	Software-OS-Related 321 335	Sound settings
+A3	isOpened T3 f->t
+T1	Software-OS-Related 553 564	Set Default
+T2	Software-OS-Related 202 212	Start menu
+A2	isOpened T2 f->t
+A1	isSettingsChanged T1 true
+R1	SubPart Arg1:T1 Arg2:T3	
+A4	isSettingsChanged T12 true
+T4	Hardware-Devices 974 981	headset
+A6	isSetup T17 true
+*	Equiv T12 T3

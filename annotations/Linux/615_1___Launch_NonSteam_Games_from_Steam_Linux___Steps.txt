@@ -1,0 +1,46 @@
+Launch Non‐Steam Games from Steam (Linux)
+https://www.wikihow.com/Launch-Non%E2%80%90Steam-Games-from-Steam-(Linux)
+
+0 - Steps
+
+1 - Download and Install the Linux version of Steam, if you have not done so already.
+Download and Install the Linux version of Steam, if you have not done so already. You can download the .deb file here or the .rpm/unpackaged file here.
+- ;
+
+2 - Find out what the 'launch command' for your non-Steam game is.
+Find out what the 'launch command' for your non-Steam game is. For example, for the non-Steam version of Oil Rush, this would be (directories can change depending on your game's install location) ./home/user/Programs/OilRush/launcher_x86.sh
+- If the launch script for the program is in /usr/bin, take note of the name of the script used (for example, to launch Google Chrome, the launch path is simply: chrome)
+- If you are adding a WINE/PlayOnLinux program (a Windows-only game you play on Linux) you will need to find the location of the WINEPREFIX for said game. Then find the full directory path to the game. For default WINE the directory is commonly /home/user/.wine/drive_c/Program Files   or Program Files (x86) if you are using 64bit wine.   Refer to playOnLinux to find the location it stores your WINEPREFIXes at, as it can be different for some systems.
+- For an example we will be using my EvE-Online directory:/home/user/.wine/drive_c/Program Files (x86)/CCP/EVE/
+- The command used for WINE games should be as follows: WINEDEBUG=-all wine "/home/user/.wine/drive_c/Program Files (x86)/CCP/EVE/eve.exe"
+
+3 - Add it to Steam.
+Add it to Steam. After you have determined the path and launch commands for your program (super simple stuff, right?), open and log in to the Steam client.
+- Under the "Library" section in Steam, on the bottom left click "Add a Game..."
+- Click "Add a Non-Steam game.."
+- Here's the creative part. You will want to select any random program on the list. Fore example, you might use VLC Media Player.
+
+4 - Modify the shortcut.
+Modify the shortcut. You will notice now that VLC Media Player (or whatever you selected) will appear in the clients "SteamOS+Linux" Library list. Right-click on the name and select "Properties".
+- First you will change the name of the Shortcut. For example, you might name it "Eve - Online"
+- Next you go to the second box down which is "Target:". You will change this to your games launch command.
+- For the Linux game this was: "/home/user/Programs/OilRush/launcher_x86.sh"
+- For the WINE game this was: WINEDEBUG=-all wine "/home/user/.wine/drive_c/Program Files (x86)/CCP/EVE/eve.exe"
+- If the launch script is already in the /usr/bin folder, simply enter what the name of the script is here, with no quotes.
+- Note: Any /path/to/files should be in " " (quotes) to avoid weird things from happening. Seriously, aliens might invade. Use quotes and stay safe.
+- 
+- If you are launching a non-steam Linux game, change the "Start In:" to the folder the launch script is located, for WINE/PoL games, or if the launch script is in /usr/bin, leave this as the default.
+- For Oil Rush "Start In:" should be: "/home/user/Programs/OilRush"
+- For Eve - Online it should be: "/usr/bin"
+- For Chrome it would be: "/usr/bin"
+
+5 - Change the icon being used, if desired.
+Change the icon being used, if desired. To do this, either find a suitable icon with google search and download it, or find where your program stores it's icon at and use that. This varies a lot between programs; common places are in its launcher directory, in /usr/opt, in /home/user/Pictures/Icons, the list goes on.
+- For WINE/PoL games, if the icon is not easily located within the programs directory, it's likely saved inside the .exe itself, and you have two options..
+- Search for the icon online. This is simpler, and recommended.
+- Download a program that strips icon images from .exe files.
+
+6 - Launch the game_program of your choice directly from the Linux Steam client.
+Launch the game/program of your choice directly from the Linux Steam client. You will have full access to all Steam client features, including in-game overlay complete with music player, web browser, IMs, friends list, the works. You will also get the steam FPS overlay in-game should you enable it in the Steam settings.
+- Also, you get the added advantage of people on your friends list seeing what game you're playing, even if it's not a Steam game, provided you named the shortcut in Steam properly. Enjoy!
+

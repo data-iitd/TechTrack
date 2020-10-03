@@ -1,0 +1,32 @@
+Connect a Headset to PC
+https://www.wikihow.com/Connect-a-Headset-to-PC
+
+0 - Changing Windows Sound Settings
+
+1 - Open .
+Open . Click the Windows logo in the bottom-left corner of the screen. The Start menu will open.
+
+2 - Type sound into Start.
+Type sound into Start. Doing so will search your computer for the Sound settings app.
+
+3 - Click Sound.
+Click Sound. It's a speaker-shaped icon at the top of the Start window.
+
+4 - Click your headset's name.
+Click your headset's name. You'll find it in the middle of the window.
+
+5 - Click Set Default.
+Click Set Default. It's in the lower-right side of the window. Doing so sets your headset as the default sound output item to use when it is connected.
+
+6 - Click the Recording tab.
+Click the Recording tab. This is at the top of the Sound window.
+
+7 - Click your headset's name.
+Click your headset's name. It's in the middle of the window.
+
+8 - Click Set Default.
+Click Set Default. This sets your headset as the default sound input item (e.g., microphone) when it is connected to your PC.
+
+9 - Click Apply, then click OK.
+Click Apply, then click OK. Doing so saves your settings. You're now ready to begin using your headset with your computer.
+

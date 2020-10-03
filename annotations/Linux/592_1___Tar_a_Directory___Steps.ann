@@ -1,0 +1,11 @@
+T1	Software-Other 185 188	tar
+A1	isInstalled T1 start-T
+T2	Software-Other 1005 1008	tar
+T3	Software-Other 2291 2294	tar
+T4	Software-Other 2851 2855	gzip
+A2	isInstalled T4 start-T
+T5	Software-Other 3480 3483	tar
+T6	Software-Other 3635 3639	gzip
+T7	Software-Other 3764 3769	bzip2
+T8	Software-Other 2966 2971	bzip2
+A3	isInstalled T8 start-T

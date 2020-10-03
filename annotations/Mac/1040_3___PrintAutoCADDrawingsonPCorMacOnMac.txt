@@ -1,0 +1,31 @@
+Print AutoCAD Drawings on PC or Mac
+https://www.wikihow.com/Print-AutoCAD-Drawings-on-PC-or-Mac
+
+0 - On Mac
+
+1 - Open the AutoCAD drawing you want to print.
+Open the AutoCAD drawing you want to print.  You must have AutoCAD installed on your computer in order to open an AutoCAD file.  You can open an AutoCAD file by double-clicking a .dwg or .dxf file, or use the following steps to open an AutoCAD file within AutoCAD.
+- Open AutoCAD.
+- Click File.
+- Click Open.
+- Browse and select your AutoCAD file.
+- Click Open.
+
+2 - Click File.
+Click File. It's in the menu bar at the top of the screen. This opens a drop-down menu.
+
+3 - Click Print.
+Click Print. It's near the bottom of the File menu. This opens the "Plot - Model" page with additional options.
+
+4 - Click the Name drop-down menu in the "Printer_Plotter" section.
+Click the Name drop-down menu in the "Printer/Plotter" section. This opens a drop-down menu.
+
+5 - Select your printer from the list.
+Select your printer from the list. Select your printer from the list of Plotters.
+
+6 - Adjust the print settings if needed.
+Adjust the print settings if needed. In the box labeled "Plot Settings," make sure the correct paper size, orientation, and what to print are matching the settings for the printer you selected.
+
+7 - Click Plot.
+Click Plot. It's a blue button at the bottom-right corner of the "Plot - Model" window. This will plot your drawing and send the print job to the printer. Your printer will start printing the AutoCAD drawing you selected.
+

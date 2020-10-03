@@ -1,0 +1,15 @@
+T1	Software-OS-Related 117 127	Apple menu
+A1	isOpened T1 f->t
+T2	Hardware-Devices 204 210	screen
+A2	isPowered T2 start-T
+T3	Software-OS-Related 255 273	System Preferences
+A4	isOpened T3 f->t
+T4	Software-OS-Related 343 360	Language & Region
+A5	isOpened T4 f->t
+T5	Software-OS-Related 427 445	System Preferences
+T8	Software-OS-Related 470 478	language
+T9	Software-OS-Related 649 657	language
+R1	SubPart Arg1:T8 Arg2:T4	
+A3	isSettingsChanged T8 true
+R2	SubPart Arg1:T9 Arg2:T4	
+A6	isSettingsChanged T9 true

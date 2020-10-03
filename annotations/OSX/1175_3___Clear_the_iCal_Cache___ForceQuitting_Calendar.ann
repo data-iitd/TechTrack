@@ -1,0 +1,20 @@
+T1	Software-OS-Related 148 156	Continue
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 300 309	Spotlight
+A2	isOpened T2 f->t
+T3	Software-OS-Related 441 457	activity monitor
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 646 662	Activity Monitor
+A4	isOpened T4 f->t
+T5	Software-OS-Related 835 848	CalendarAgent
+A5	isOpened T5 f->t
+T6	Software-OS-Related 938 942	Quit
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1044 1054	Force Quit
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1364 1379	Trash Can icon,
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1386 1398	Empty Trash.
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1412 1423	Empty Trash
+A10	isSettingsChanged T10 true

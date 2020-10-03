@@ -1,0 +1,17 @@
+T1	Software-OS-Related 422 427	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 622 630	Services
+A2	isOpened T2 f->t
+T3	Software-OS-Related 927 941	Windows Update
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1065 1077	Startup type
+T5	Software-OS-Related 1364 1372	Disabled
+A4	isSettingsChanged T5 true
+R3	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1532 1536	Stop
+A5	isSettingsChanged T6 true
+T7	Software-OS-Related 1013 1038	Windows Update Properties
+R2	SubPart Arg1:T6 Arg2:T7	
+T8	Software-OS-Related 1684 1689	Apply
+A6	isSettingsChanged T8 true
+R6	SubPart Arg1:T8 Arg2:T7	

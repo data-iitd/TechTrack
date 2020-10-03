@@ -1,0 +1,24 @@
+Disable the Function Key
+https://www.wikihow.com/Disable-the-Function-Key
+
+0 - Using Mac
+
+1 - Open your Mac's Apple menu on the menu bar.
+Open your Mac's Apple menu on the menu bar. Click the Apple icon in the upper-left corner of  your screen to open the Apple menu.
+
+2 - Click System Preferences on the menu.
+Click System Preferences on the menu. This will open your System Preferences in a new window.
+
+3 - Click Keyboard in System Preferences.
+Click Keyboard in System Preferences. This option looks like a keyboard icon on the second row of the System Preferences menu. It will open your typing and input settings.
+
+4 - Click the Keyboard tab at the top.
+Click the Keyboard tab at the top. You can find it next to Text on the Keyboard page.
+- The Keyboard menu may automatically open up to this tab. In this case, you don't have to click the tab here.
+
+5 - Check the "Use F1, F2, etc keys as standard function keys" box.
+Check the "Use F1, F2, etc keys as standard function keys" box. When this option is selected, the Fn key on your keyboard will be disabled except the special functions printed on each of your F keys.
+- You can find this option at the bottom of the Keyboard menu.
+- The F keys on the top row of your keyboard will now act as standard function keys (F1–F12). You can use the function keys without pressing Fn.
+- If you want to use one of the special functions printed at the top of your keyboard, hold down Fn while pressing the F key. This will now be the only function of your Fn key.
+

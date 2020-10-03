@@ -1,0 +1,10 @@
+T1	Software-OS-Related 471 484	file explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 605 616	New Library
+A2	isOpened T2 f->t
+T3	Software-OS-Related 767 783	Include a folder
+A3	isOpened T3 f->t
+T4	Software-OS-Related 992 997	Books
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1025 1041	Include a folder
+A5	isOpened T5 f->t

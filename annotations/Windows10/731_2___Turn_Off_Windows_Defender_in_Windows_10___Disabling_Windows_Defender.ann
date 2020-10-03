@@ -1,0 +1,46 @@
+T1	Software-OS-Related 151 156	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 183 195	Windows logo
+T3	Hardware-Devices 229 235	screen
+A2	isPowered T3 start-T
+T4	Software-OS-Related 277 292	Registry Editor
+A3	isOpened T4 f->t
+T5	Software-OS-Related 774 792	HKEY_LOCAL_MACHINE
+A4	isOpened T5 f->t
+T6	Software-OS-Related 890 898	SOFTWARE
+A5	isOpened T6 f->t
+T7	Software-OS-Related 939 947	Policies
+A6	isOpened T7 f->t
+T8	Software-OS-Related 972 981	Microsoft
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1010 1026	Windows Defender
+A8	isOpened T9 f->t
+T10	Software-OS-Related 1060 1076	Windows Defender
+R1	SubPart Arg1:T2 Arg2:T1	
+T11	Software-OS-Related 474 481	regedit
+A9	isOpened T11 f->t
+T12	Software-OS-Related 526 529	Yes
+A10	isOpened T12 f->t
+R2	SubPart Arg1:T12 Arg2:T11	
+A11	isOpened T10 f->t
+T13	Software-OS-Related 1450 1453	New
+A12	isOpened T13 f->t
+R3	SubPart Arg1:T13 Arg2:T10	
+T14	Software-OS-Related 1559 1564	DWORD
+T15	Software-OS-Related 1973 1991	DisableAntiSpyware
+A13	isOpened T15 f->t
+T16	Software-OS-Related 2246 2248	OK
+A14	isSettingsChanged T16 true
+T17	Software-OS-Related 2121 2131	Value data
+A15	isSettingsChanged T17 true
+R4	SubPart Arg1:T16 Arg2:T17	
+R5	SubPart Arg1:T17 Arg2:T15	
+T18	Software-OS-Related 2356 2361	Start
+A16	isOpened T18 f->t
+T19	Software-OS-Related 2370 2375	Power
+A17	isOpened T19 f->t
+T20	Software-OS-Related 2889 2891	OK
+A18	isSettingsChanged T20 true
+T21	Software-OS-Related 2388 2395	Restart
+A19	isSettingsChanged T21 true
+A20	isSettingsChanged T12 true

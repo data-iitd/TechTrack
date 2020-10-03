@@ -1,0 +1,21 @@
+T1	Software-Other 91 116	vi <name_of_file_to_edit>
+T2	Software-OS-Related 203 209	cursor
+T3	Software-OS-Related 394 400	cursor
+T4	Software-Other 447 448	i
+T5	Software-Other 577 588	Insert mode
+A1	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T8	
+T6	Software-Other 775 788	standard mode
+A2	isSettingsChanged T6 true
+T7	Software-Other 886 887	x
+T8	Software-Other 551 557	editor
+T9	Software-Other 863 879	single character
+A3	isSettingsChanged T7 true
+R2	SubPart Arg1:T7 Arg2:T9	
+T10	Software-Other 1031 1040	whole row
+T11	Software-Other 1047 1049	dd
+A4	isSettingsChanged T11 true
+R3	SubPart Arg1:T11 Arg2:T10	
+T12	Software-OS-Related 1324 1326	:x
+T15	Software-Other 1452 1454	:w
+T13	Software-Other 1586 1589	:q!

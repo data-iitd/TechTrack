@@ -1,0 +1,50 @@
+Upgrade Oracle Java on Ubuntu Linux
+https://www.wikihow.com/Upgrade-Oracle-Java-on-Ubuntu-Linux
+
+0 - Inform your system of the updated Oracle Java version:
+
+1 - Inform your Ubuntu Linux system where your Oracle Java JRE_JDK is located, now you will want to update the system to use Oracle Java 1.7.0_40
+
+Inform your Ubuntu Linux system where your Oracle Java JRE/JDK is located, now you will want to update the system to use Oracle Java 1.7.0_40
+- 
+- Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/jre1.7.0_40/bin/java" 1
+-  Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/local/java/jdk1.7.0_40/bin/javac" 1
+- Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/local/java/jre1.7.0_40/bin/javaws" 1
+
+2 - Inform your Ubuntu Linux system, that Oracle Java JRE 1.7.0_40 must be the new default Java
+
+Inform your Ubuntu Linux system, that Oracle Java JRE 1.7.0_40 must be the new default Java
+- 
+- Type/Copy/Paste: sudo update-alternatives --set java /usr/local/java/jre1.7.0_40/bin/java
+- Type/Copy/Paste: sudo update-alternatives --set javac /usr/local/java/jdk1.7.0_40/bin/javac
+- Type/Copy/Paste: sudo update-alternatives --set javaws /usr/local/java/jre1.7.0_40/bin/javaws
+
+3 - Reload your system wide PATH _etc_profile by typing the following command:
+Reload your system wide PATH /etc/profile by typing the following command:
+- 
+- Type/Copy/Paste: . /etc/profile
+- Note your system wide PATH /etc/profile file will reload after reboot of your Ubuntu Linux system
+
+4 - Test to see if the new version of Oracle Java was installed correctly on your system by running the following commands and noting the version number of the new Java update.
+Test to see if the new version of Oracle Java was installed correctly on your system by running the following commands and noting the version number of the new Java update.
+- Type/Copy/Paste: java -version
+- this command displays the version of Java running on your system
+
+5 - You should receive a message which displays:
+You should receive a message which displays:
+- java version "1.7.0_40"Java(TM) SE Runtime Environment (build 1.7.0_40-b08)Java HotSpot(TM) 64-Bit Server VM (build build 25.1-b02, mixed mode)
+- Type/Copy/Paste: javac -version
+- this command lets you know that you are now able to compile java programs from the terminal
+- You should receive a message which displays:
+- javac 1.7.0_40
+
+6 - Afterwards, you have the option of removing the old Oracle Java JDK_JRE, by simply removing the directory's which hold the old Java JDK_JRE binaries.
+Afterwards, you have the option of removing the old Oracle Java JDK/JRE, by simply removing the directory's which hold the old Java JDK/JRE binaries.
+- 
+- Type/Copy/Paste: cd /usr/local/java
+- Type/Copy/Paste: sudo rm -rf jdk1.7.0_40
+- Type/Copy/Paste: sudo rm -rf jre1.7.0_40
+
+7 - Reboot your Ubuntu Linux system and your system will be fully configured for running and developing Java programs.
+Reboot your Ubuntu Linux system and your system will be fully configured for running and developing Java programs.
+

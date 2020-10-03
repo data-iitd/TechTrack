@@ -1,0 +1,39 @@
+T1	Hardware-Devices 127 135	keyboard
+A1	isPowered T1 t->f
+A2	isConnected T1 t->f
+T2	Hardware-Other 225 231	laptop
+T3	Hardware-Other 301 308	battery
+T4	Hardware-Devices 441 449	keyboard
+T5	Hardware-Other 455 469	compressed air
+T6	Hardware-Other 594 598	keys
+T7	Hardware-Other 803 812	toothpick
+T8	Hardware-Other 932 947	keyboard's keys
+T9	Hardware-Devices 1015 1023	keyboard
+T10	Hardware-Other 1029 1046	isopropyl alcohol
+T11	Hardware-Other 1143 1148	cloth
+T12	Hardware-Other 1278 1282	keys
+T13	Hardware-Other 1468 1476	computer
+T14	Hardware-Other 1615 1619	keys
+T15	Hardware-Devices 1806 1814	keyboard
+T16	Hardware-Other 2105 2118	keycap puller
+T17	Hardware-Other 1872 1876	keys
+T18	Hardware-Other 2260 2271	screwdriver
+T19	Hardware-Other 2309 2315	laptop
+T20	Hardware-Other 2521 2528	MacBook
+T21	Hardware-Other 2757 2766	space bar
+T22	Hardware-Other 2818 2822	keys
+T23	Hardware-Other 2851 2865	compressed air
+T24	Hardware-Other 2936 2953	isopropyl alcohol
+T25	Hardware-Devices 3001 3010	keyboards
+T26	Hardware-Other 3124 3128	keys
+T27	Hardware-Other 3223 3231	colander
+T28	Hardware-Other 3274 3280	bucket
+T29	Hardware-Other 3330 3341	paper towel
+T30	Hardware-Other 3377 3392	keyboard's keys
+T31	Hardware-Devices 3463 3471	keyboard
+T32	Hardware-Other 3504 3509	lever
+T33	Hardware-Other 3636 3645	lubricant
+T34	Hardware-Other 3746 3754	plastics
+T35	Hardware-Other 3791 3796	WD-40
+T36	Hardware-Devices 3944 3952	keyboard
+T37	Hardware-Other 4155 4163	computer

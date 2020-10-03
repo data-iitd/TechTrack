@@ -1,0 +1,26 @@
+Add and Remove a Program Icon From the Dock of a Mac Computer
+https://www.wikihow.com/Add-and-Remove-a-Program-Icon-From-the-Dock-of-a-Mac-Computer
+
+0 - Removing a Program Icon from the Dock
+
+1 - Quit the program.
+Quit the program. All programs will appear on the Dock while they are open. Quit the application first so you can tell when you've successfully removed it from the Dock.
+- A program is open if it has a small dot next to the Dock icon, even if no windows are open. Right-click the icon (or hold Control and click}) and select "Quit" or "Force Quit" to close the program.
+
+2 - Drag the icon off the Dock and across the screen.
+Drag the icon off the Dock and across the screen. Click and hold the program icon on your Dock. Drag the icon at least a third of the way across the screen, away from the Dock.
+
+3 - Wait a couple of seconds.
+Wait a couple of seconds. Don't release the mouse button right away, or the program will just jump back to the Dock. Wait until the program icon turns transparent. (You might see other visual indicators on some versions of OS X, such as the word "Remove" or a little cloud appearing over the icon.)
+- If nothing happens to the icon, move it farther from the Dock.
+
+4 - Release the mouse button.
+Release the mouse button. An animation resembling a poof of smoke will indicate that the program icon has been removed from the Dock.
+
+5 - Use the right-click menu instead.
+Use the right-click menu instead. You can also use a drop down menu to remove an item from the Dock:
+- Right-click the icon (or hold down Control and click).
+- Hover over "Options."
+- Select "Remove from Dock."
+- If the Options sub-menu says "Keep in Dock" as well, the program is open. Click "Keep in Dock" to uncheck that option, and the program will disappear from the Dock once you close it.
+

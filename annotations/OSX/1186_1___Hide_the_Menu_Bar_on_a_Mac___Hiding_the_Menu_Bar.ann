@@ -1,0 +1,8 @@
+T1	Software-OS-Related 146 156	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 208 226	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 276 282	Genera
+A3	isOpened T3 f->t
+T4	Software-OS-Related 506 546	Automatically hide and show the menu bar
+A4	isSettingsChanged T4 true

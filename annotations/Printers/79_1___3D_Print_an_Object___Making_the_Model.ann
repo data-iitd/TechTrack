@@ -1,0 +1,6 @@
+T1	Software-OS-Related 105 108	New
+A1	isOpened T1 f->t
+T2	Software-OS-Related 588 594	Export
+A2	isOpened T2 f->t
+T3	Software-OS-Related 611 619	STL file
+A3	isOpened T3 f->t

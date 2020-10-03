@@ -1,0 +1,37 @@
+Improve the Print Quality on a Laser Printer
+https://www.wikihow.com/Improve-the-Print-Quality-on-a-Laser-Printer
+
+0 - Steps
+
+1 - Clean and service the printer regularly to protect device components from dust and debris.
+Clean and service the printer regularly to protect device components from dust and debris. Small particles can collect on the toner cartridges and other components, which can significantly interfere with the print quality of a laser printer.
+- ;
+
+2 - Store spare toner cartridges in their original packaging in a clean and safe space.
+Store spare toner cartridges in their original packaging in a clean and safe space. Toner cartridges are easily damaged and should remain level at all times. Handle toner cartridges as directed by the manufacturer and as sparingly as possible to ensure optimum quality.
+
+3 - Use the highest resolution graphic file possible to improve the image quality of photos or graphics printed from a laser printer.
+Use the highest resolution graphic file possible to improve the image quality of photos or graphics printed from a laser printer. The higher the resolution or "dots-per-inch"(dpi) of the original file, the better the quality of the final product.
+- Avoid using images or graphics that have been reduced in size for file storage concerns.
+
+4 - Adjust the application settings and the printer settings to the highest possible resolution.
+Adjust the application settings and the printer settings to the highest possible resolution. Both of these features can typically be accessed from the "Print" menu. Dpi settings can range between 72 dpi and 2400 dpi. Choose the highest dpi setting available for best results when using a laser printer.
+
+5 - Use manufacturer recommended paper products.
+Use manufacturer recommended paper products. Refer to the product documentation to determine the recommended paper thickness. Laser printers are pre-calibrated to use a specific type and thickness of paper. Using the wrong type of paper can affect the color saturation and reduce the print quality of projects.
+
+6 - Adjust the print speed of a laser printer to improve the quality of a laser printer.
+Adjust the print speed of a laser printer to improve the quality of a laser printer. The printer speed settings can have a significant impact on color saturation. Printing speed generally ranges between 5 and 20 pages per minute (ppm).
+- Raise the print speed settings on a laser printer when color saturation is too high, and lower them slightly when images or documents seem under saturated or faded.
+
+7 - Protect the laser printer from sources of excessive heat.
+Protect the laser printer from sources of excessive heat. Thermal stress can reduce the quality of documents and images printed on a laser printer.
+- Ensure the printer is not set up next to computer towers, CRT monitors and other devices that may radiate heat and affect the print quality.
+
+8 - Protect the laser printer from excessive moisture and humidity.
+Protect the laser printer from excessive moisture and humidity. Situate the printer in a cool, dry place. Make sure it is located away from windows or other possible sources of water vapor and humidity.
+
+9 - Confirm that the laser printer is using the latest device drivers and firmware versions available from the manufacturer.
+Confirm that the laser printer is using the latest device drivers and firmware versions available from the manufacturer. Outdated drivers and firmware updates also can affect the quality of projects printed from a laser printer.
+- Navigate to the manufacturer's support and downloads page to download and install the latest drivers and firmware updates available for your printer.
+

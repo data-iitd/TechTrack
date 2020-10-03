@@ -1,0 +1,12 @@
+T2	Software-OS-Related 187 199	Settings app
+T3	Software-OS-Related 278 295	Update & security
+T4	Software-OS-Related 346 356	Developers
+A2	isOpened T4 f->t
+T5	Software-OS-Related 502 516	Developer Mode
+A3	isOpened T5 f->t
+A5	isOpened T3 f->t
+T1	Software-OS-Related 151 156	 Home
+A1	isOpened T1 f->t
+T6	Software-OS-Related 809 812	Yes
+A4	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	

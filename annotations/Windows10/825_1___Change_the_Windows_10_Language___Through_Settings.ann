@@ -1,0 +1,20 @@
+T1	Software-OS-Related 392 400	language
+A1	isOpened T1 f->t
+T2	Software-OS-Related 415 422	Options
+A2	isOpened T2 f->t
+T3	Software-OS-Related 435 443	Download
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 124 132	Settings
+A4	isOpened T4 f->t
+T5	Software-OS-Related 135 150	Time & Language
+A5	isOpened T5 f->t
+T6	Software-OS-Related 153 170	Region & Language
+A6	isOpened T6 f->t
+R1	SubPart Arg1:T3 Arg2:T6	
+T7	Software-OS-Related 725 739	Set as default
+A7	isSettingsChanged T7 true
+R2	SubPart Arg1:T7 Arg2:T1	
+T8	Software-OS-Related 841 848	Restart
+A8	isOpened T8 f->t
+T9	Hardware-Devices 854 862	computer
+A9	isUsed T9 true

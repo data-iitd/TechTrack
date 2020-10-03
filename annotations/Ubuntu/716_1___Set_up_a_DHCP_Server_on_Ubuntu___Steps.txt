@@ -1,0 +1,26 @@
+Set up a DHCP Server on Ubuntu
+https://www.wikihow.com/Set-up-a-DHCP-Server-on-Ubuntu
+
+0 - Steps
+
+1 - Install dhcp3-server; execute the following commands, and follow the prompts:
+Install dhcp3-server; execute the following commands, and follow the prompts:
+- aptitude install dhcp3-server
+- ;
+
+2 - When asks you what connection you want to run the DHCP server on, use 'eth0'.
+When asks you what connection you want to run the DHCP server on, use 'eth0'.
+
+3 - Now that you have a DHCP server installed, it won't run until you properly configure it.
+Now that you have a DHCP server installed, it won't run until you properly configure it.
+
+4 - Open your DHCP server's configuration as root, using your favorite text editor.
+Open your DHCP server's configuration as root, using your favorite text editor.
+
+5 - 
+Copy and paste the following code into your dhcpd.conf. You may want to make back ups before saving over your original.
+
+6 - Restart the DHCP server.
+Restart the DHCP server.
+- service dhcp3-server restart
+

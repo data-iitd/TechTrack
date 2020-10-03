@@ -1,0 +1,8 @@
+T1	Hardware-Devices 105 116	Canon MX410
+A1	isPowered T1 f->t
+T2	Hardware-Other 200 203	Fax
+T3	Hardware-Other 553 564	Fax Quality
+T4	Hardware-Other 738 740	OK
+T5	Hardware-Other 1135 1137	OK
+T6	Hardware-Other 1505 1510	Color
+T7	Hardware-Other 1544 1549	Black

@@ -1,0 +1,19 @@
+T1	Software-Other 191 202	Fresh Paint
+T2	Software-Other 798 799	☰
+T3	Software-Other 904 907	New
+A1	isOpened T3 f->t
+A2	isOpened T2 f->t
+T4	Software-Other 1161 1173	Fresh Canvas
+T5	Software-Other 1249 1262	Custom Canvas
+T6	Software-Other 1370 1371	☰
+A3	isOpened T6 f->t
+T7	Software-Other 1390 1396	Import
+T8	Software-Other 1646 1652	Photos
+T9	Hardware-Other 1732 1738	webcam
+T10	Software-Other 1942 1948	Preset
+T11	Software-Other 2016 2028	Blank Canvas
+T12	Software-Other 2241 2247	Import
+T13	Software-Other 2315 2329	Start Painting
+A4	isOpened T13 f->t
+T14	Software-Other 2263 2269	Camera
+T15	Software-Other 2273 2279	Photos

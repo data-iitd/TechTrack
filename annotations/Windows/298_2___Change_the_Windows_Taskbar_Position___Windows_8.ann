@@ -1,0 +1,10 @@
+T1	Software-OS-Related 156 163	taskbar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 394 410	Lock the taskbar
+A2	isOpened T2 f->t
+T3	Software-OS-Related 526 536	Properties
+A3	isOpened T3 f->t
+T4	Software-OS-Related 688 714	Taskbar location on screen
+A4	isOpened T4 f->t
+T5	Software-OS-Related 888 890	Ok
+A5	isSettingsChanged T5 true

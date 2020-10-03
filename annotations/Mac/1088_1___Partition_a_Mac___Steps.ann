@@ -1,0 +1,38 @@
+T1	Software-OS-Related 233 245	Time Machine
+T2	Hardware-Other 343 353	USB drives
+T3	Hardware-Other 450 475	Mac OSX installation disk
+T4	Software-OS-Related 491 498	Restart
+A1	isOpened T4 f->t
+T5	Software-OS-Related 939 947	language
+A2	isSettingsChanged T5 true
+T6	Software-OS-Related 959 963	Next
+A3	isOpened T6 f->t
+T7	Software-OS-Related 1034 1058	Accept the license terms
+A4	isSettingsChanged T7 true
+T8	Software-OS-Related 1131 1140	Utilities
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1168 1180	Disk Utility
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1356 1360	disk
+A7	isSettingsChanged T10 true
+T11	Software-OS-Related 1598 1607	Partition
+A8	isOpened T11 f->t
+T12	Software-OS-Related 2571 2583	upper volume
+A9	isSettingsChanged T12 true
+T13	Software-OS-Related 2776 2826	Format drop-down menu "Mac OS Extended (Journaled)
+A10	isSettingsChanged T13 true
+T14	Software-OS-Related 2895 2907	lower volume
+A11	isSettingsChanged T14 true
+T15	Software-OS-Related 3091 3141	Format drop-down menu "Mac OS Extended (Journaled)
+A12	isSettingsChanged T15 true
+T16	Software-OS-Related 3331 3336	Apply
+T17	Software-OS-Related 3444 3446	OK
+A14	isSettingsChanged T17 true
+A13	isSettingsChanged T16 true
+T18	Software-OS-Related 3834 3846	Disk Utility
+A15	isSettingsChanged T18 true
+T19	Software-OS-Related 3875 3892	Quit Disk Utility
+A16	isSettingsChanged T19 true
+R1	SubPart Arg1:T12 Arg2:T11	
+R2	SubPart Arg1:T14 Arg2:T11	
+R3	SubPart Arg1:T16 Arg2:T11	

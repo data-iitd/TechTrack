@@ -1,0 +1,38 @@
+Update Windows
+https://www.wikihow.com/Update-Windows
+
+0 - Changing Windows 10 Update Preferences
+
+1 - Click the Start  button.
+Click the Start  button. It’s usually at the bottom-left corner of the screen.
+- Though Windows installs most updates automatically, you have some control over the way the updates happen. Use this method to fine-tune the updates that occur behind the scenes.
+
+2 - Click Settings .
+Click Settings . It’s toward the bottom of the menu.
+
+3 - Click Update & security.
+Click Update & security. It’s the option with two curved arrows.
+
+4 - Click Advanced options.
+Click Advanced options. It’s toward the bottom of the right panel.
+
+5 - Use the switches under ″Update Options″ to set your preferences.
+Use the switches under ″Update Options″ to set your preferences.
+- 
+- Give me updates for other Microsoft products when I update Windows: Toggle this switch on if you want Windows Update to check for updates for products such as Office, Edge, and Visio.
+- Automatically download updates, even over metered data connections: If you pay for internet service based on the amount of data you use, keep this switch in the off (gray) position.[3]
+- X
+- Research source
+- 
+-  When this switch is off, you’ll be notified of new updates but have to agree to download them.
+- We’ll show a reminder when we’re going to restart: (some screens may say "Show a notification when your PC requires a restart to finish updating") If you want to see more notifications about restarting, turn this on: It’s a good idea to turn this on so Windows does not surprise you by rebooting your computer at an inopportune time.
+
+6 - Click the back button.
+Click the back button. It’s at the top-left corner of the window. This brings you back to the Windows Update window.
+
+7 - Click Change active hours.
+Click Change active hours. It’s in the right panel, right above ″View update history.″
+
+8 - Choose the hours you are most active on the computer.
+Choose the hours you are most active on the computer. Since Windows must restart your computer after installing certain critical updates, you’ll want to make sure it doesn’t happen when you’re in the middle of something important. Set the start and end times (the maximum amount of time is 18 hours), and then click Save.
+

@@ -1,0 +1,20 @@
+Hide the Menu Bar on a Mac
+https://www.wikihow.com/Hide-the-Menu-Bar-on-a-Mac
+
+0 - Hiding the Dock
+
+1 - Click the Apple menu.
+Click the Apple menu.
+
+2 - Select "System Preferences."
+Select "System Preferences."
+
+3 - Click the "Dock" option.
+Click the "Dock" option. You'll find this in the top row of options. If you're not in the main System Preferences menu, click the "Show All" button at the top of the window.
+
+4 - Check the "Automatically hide and show the Dock" box.
+Check the "Automatically hide and show the Dock" box. This will immediately hide the dock at the bottom of the screen.
+
+5 - Move your mouse to the bottom of the screen.
+Move your mouse to the bottom of the screen. This will reveal the Dock.
+

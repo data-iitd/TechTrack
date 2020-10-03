@@ -1,0 +1,56 @@
+Install Puppy Linux
+https://www.wikihow.com/Install-Puppy-Linux
+
+0 - Installing Puppy Linux
+
+1 - Boot from your Puppy Linux installation media.
+Boot from your Puppy Linux installation media. If you decide you want a more permanent installation of Puppy Linux than just a bootable image, start by booting from the image you created. Once you've reached the desktop, move to the next step.
+
+2 - Click the Menu.
+Click the Menu. It's at the bottom-left corner of the screen.
+
+3 - Select the Setup menu.
+Select the Setup menu. Another menu branch will expand.
+
+4 - Click Puppy Installer.
+Click Puppy Installer. It's near the bottom of the menu.
+
+5 - Click Universal installer.
+Click Universal installer. It's the first option.
+
+6 - Select an installation location.
+Select an installation location. The developers recommend either installing to removable USB media (flash drive or an external hard drive), or choosing the "Frugal" install option on an internal hard drive.[6]
+- X
+- Research source
+- 
+-  If you choose an internal hard drive, you can select the Frugal option in a few moments.
+
+7 - Select the drive you want to install to.
+Select the drive you want to install to. Information about that drive will appear.
+
+8 - Select a partition.
+Select a partition. If you do a "Frugal" install, you won't have to worry about creating a brand new partition for Puppy Linux—just select an existing partition and you'll be fine. If you want to fully install Puppy Linux on its own dedicated partition, click the Gparted button to create one now.
+- Choose or create a FAT32 partition if you want to be able to use the drive as removable storage.
+
+9 - Click OK to confirm the partition.
+Click OK to confirm the partition.
+
+10 - Select the location of your boot media files.
+Select the location of your boot media files. This is the ISO image on the CD/DVD/USB drive you created.
+
+11 - Choose between a Frugal or Full installation.
+Choose between a Frugal or Full installation. If you're installing on any type of drive without a dedicated partition for Puppy Linux, select Frugal.  If you created a new partition, select Full.
+
+12 - Follow the on-screen instructions to complete the installation.
+Follow the on-screen instructions to complete the installation. Once the files are installed, you'll be prompted to care of some last-minute details, such as setting up the bootloader.
+
+13 - Save your session (Frugal installs only).
+Save your session (Frugal installs only). If you did a Full install, any changes you make to the system will save automatically. Frugal installs, whether on a USB or internal drive, require you to save your session when exiting. Here's how to do it:
+- Go to Menu > Shut Down > Reboot Computer.
+- Click SAVE on the pop-up window.
+- Select a file system and click OK.
+- Type a name for the saved session and click OK.
+- Select Normal if you don't need to encrypt the file (common), or select an encryption method and then follow the on-screen instructions.
+- Select a save file size and click OK. 512MB usually works just fine.
+- If the current save location works for you, click YES, SAVE. If not, click CHANGE FOLDER and select a different location. It's fine to save to your bootable installation media (even the CD/DVD, if it's re-writable). Once the file is saved, the computer will reboot.
+

@@ -1,0 +1,28 @@
+Use Apple Pay on a Mac
+https://www.wikihow.com/Use-Apple-Pay-on-a-Mac
+
+0 - Setting Up Apple Pay
+
+1 - Open the Settings app on your iPhone.
+Open the Settings app on your iPhone. Even though you'll be using Apple Pay on your Mac, you'll need to have it set up on your iPhone. You'll need an iPhone 6 or newer model.[1]
+- X
+- Research source
+- 
+- You can also enable Apple Pay on your Apple Watch paired with an iPhone 5 or later model.
+- ;
+
+2 - Select "Wallet & Apple Pay."
+Select "Wallet & Apple Pay." This will open your device wallet. Touch ID will need to be enabled in order to use Apple Pay.
+- If you don't have the "Wallet & Apple Pay" option, and you're using an iPhone 6 with the latest iOS, you may need to change your region settings. Open the "General" section of the Settings app. Select "Language & Region" and set "Region" to your correct location.
+
+3 - Tap "Add a Credit or Debit Card."
+Tap "Add a Credit or Debit Card." This will let you add participating cards to Apple Pay.
+
+4 - Scan your card.
+Scan your card. Line your credit or debit card up in the viewfinder that appears. When properly lined up, your card will be automatically scanned and the payment details filled out.
+- If you can't get the scanner to work, tap "Enter Card Details Manually" and then enter your payment information.
+- Not all banks support Apple Pay, and it is not available in all countries. Contact your bank if you are not sure if they support Apple Pay.
+
+5 - Verify your card.
+Verify your card. Depending on your bank, you may be able to get a text to verify your card, or you may have to call your bank to activate your card for Apple Pay.
+

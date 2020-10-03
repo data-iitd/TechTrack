@@ -1,0 +1,26 @@
+Reset a Keyboard
+https://www.wikihow.com/Reset-a-Keyboard
+
+0 - Resetting Language Settings on Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+3 - Click Time & language.
+Click Time & language. It's a clock-shaped icon in the middle of the window.
+
+4 - Click the Region & language tab.
+Click the Region & language tab. This is on the left side of the page.
+
+5 - Select a language.
+Select a language. Click the language that you want to remove.
+
+6 - Remove the language.
+Remove the language. Click Remove below the language. Doing so will immediately remove it from your computer.
+
+7 - Change the default language.
+Change the default language. Click a language that you want to set as the default, then click Set as default.
+

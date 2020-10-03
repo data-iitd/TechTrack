@@ -1,0 +1,35 @@
+Change DVD Drive Region Code in Windows 10
+https://www.wikihow.com/Change-DVD-Drive-Region-Code-in-Windows-10
+
+0 - Steps
+
+1 - Open File Explorer
+Open File Explorer. This can be done by clicking the taskbar icon  or pressing ⊞ Win+E.
+- ;
+
+2 - Navigate to "This PC" from the left navigation pane.
+Navigate to "This PC" from the left navigation pane.
+
+3 - Find your DVD drive under "Devices and drives".
+Find your DVD drive under "Devices and drives".
+
+4 - Open the drive's properties.
+Open the drive's properties. Right-click on the drive and choose Properties.
+
+5 - Navigate to the Hardware tab.
+Navigate to the Hardware tab. The tabs are located at the top of the DVD drive properties window.
+
+6 - Open the properties of the device that the type is labeled as "DVD_CD-ROM Drives".
+Open the properties of the device that the type is labeled as "DVD/CD-ROM Drives". Click the Properties button towards the bottom.
+- The name of the drive will be different depending on the type of DVD drive your computer has.
+
+7 - Click on the DVD Region tab in the new window that opens.
+Click on the DVD Region tab in the new window that opens.
+
+8 - Change the region.
+Change the region. Click on a geographic region name to play DVDs meant only for that region.
+- Underneath, the current region code and the one that will be set when you choose a country from the list right above will be shown. Here is a color-coded map of DVD regions with their corresponding region numbers:
+
+9 - Save your changes.
+Save your changes. Click the OK button.
+

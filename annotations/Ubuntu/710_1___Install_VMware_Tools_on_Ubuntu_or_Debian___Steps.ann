@@ -1,0 +1,35 @@
+T1	Software-OS-Related 173 186	Linux console
+A1	isOpened T1 f->t
+T2	Software-OS-Related 448 493	apt-get install build-essential linux-headers
+A2	isOpened T2 f->t
+T3	Software-OS-Related 729 731	VM
+A3	isOpened T3 f->t
+T4	Software-OS-Related 734 738	Gues
+A4	isOpened T4 f->t
+T5	Software-OS-Related 741 770	'Install Upgrade VMware Tools
+A5	isOpened T5 f->t
+T6	Software-OS-Related 814 817	OK'
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 983 1012	mount /dev/cdrom /media/cdrom
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1082 1084	ls
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1144 1164	Change the directory
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1538 1545	cd /tmp
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 1658 1701	tar zxvf vmwaretools-(version number).tar.g
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 1815 1839	cd vmware-tools-distrib/
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1874 1892	/vmware-install.pl
+A13	isSettingsChanged T13 true
+T14	Hardware-Other 1965 1970	Enter
+R1	SubPart Arg1:T5 Arg2:T3	
+R2	SubPart Arg1:T7 Arg2:T1	
+R3	SubPart Arg1:T9 Arg2:T1	
+R4	SubPart Arg1:T6 Arg2:T3	
+R5	SubPart Arg1:T10 Arg2:T1	
+R6	SubPart Arg1:T11 Arg2:T1	
+R7	SubPart Arg1:T12 Arg2:T1	
+R8	SubPart Arg1:T13 Arg2:T1	

@@ -1,0 +1,29 @@
+Change Windows Startup Sound
+https://www.wikihow.com/Change-Windows-Startup-Sound
+
+0 - 
+
+1 - Download the "Startup Sound Changer" program.
+Download the "Startup Sound Changer" program. This is a utility created by Windows enthusiasts, as there is no easy way to change the Windows 8, 7, or Vista startup sound normally. You can download the utility from Winaero.
+- ;
+
+2 - Extract the utility.
+Extract the utility. Double-click the downloaded ZIP file and drag the StartupSoundChanger.exe file onto your desktop.
+
+3 - Run the utility.
+Run the utility. You will be shown a small menu of options.
+
+4 - Click "Replace" and browse your computer for a replacement sound.
+Click "Replace" and browse your computer for a replacement sound. It must be in WAV format.
+- You can restore the original sound by running the utility and clicking "Restore".
+
+5 - Open the Control Panel.
+Open the Control Panel. You can search for this or find it in the Start menu.
+
+6 - Select "Sounds" and then click the .
+Select "Sounds" and then click the .Sounds tab.
+
+7 - Check the "Play Windows Startup sound" box and click .
+Check the "Play Windows Startup sound" box and click .Apply.
+- Note: You won't be able to hear the startup sound in Windows 8 unless you perform a full shutdown (see next section).
+

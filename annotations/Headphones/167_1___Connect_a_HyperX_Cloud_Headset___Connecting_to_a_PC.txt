@@ -1,0 +1,43 @@
+Connect a HyperX Cloud Headset
+https://www.wikihow.com/Connect-a-HyperX-Cloud-Headset
+
+0 - Connecting to a PC
+
+1 - Connect the headset to the control box.
+Connect the headset to the control box. The control box is the small box that has volume controls, headset, and microphone ports. Plug each cord attached to the headset into its matching labeled port on the box.[1]
+- X
+- Research source
+- 
+- 
+- If your headset has only one attached cord, plug it into the 1/8" jack on the control box.
+- Your headset comes with an extender cord. If you need more slack, plug the headset connector(s) into the extender cord, then plug the extender cord into the control box.
+- ;
+
+2 - Connect the control box to the computer.
+Connect the control box to the computer. If your control box has a USB cord attached, plug it into an available USB port. If it has two 1/8″ connectors, plug the headphone connector into the speaker port on the PC, and the microphone connector into the microphone port.
+- If you don’t have a USB connector and are using a laptop that doesn’t have separate microphone and headphones ports, see Connecting to a Mobile Device.
+
+3 - Set the headset as as your default audio device.
+Set the headset as as your default audio device. Here’s how:[2]
+- X
+- Research source
+- 
+- 
+- Press ⊞ Win+S to open the search bar.
+- Type sound into the search bar.
+- Click Sound. This opens the Sound panel.
+- Right-click your HyperX headset.
+- Click Set as Default Device.
+- Click Apply.
+- Keep this window open (don’t click ″OK″ yet).
+
+4 - Set the headset as your default microphone.
+Set the headset as your default microphone. Here’s how:
+- Click the Recording tab at the top of the Sound panel.
+- Right-click your HyperX headset.
+- Click Set as Default Device.
+- Click Apply.
+
+5 - Click OK.
+Click OK. Now that you’ve connected your headset to your PC, you are ready to start using it in your games. All audio and microphone activity will be routed to and from the headset.
+

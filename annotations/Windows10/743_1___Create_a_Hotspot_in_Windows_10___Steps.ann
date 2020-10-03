@@ -1,0 +1,18 @@
+T1	Software-OS-Related 107 120	Open Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 148 161	Start  button
+A2	isOpened T2 f->t
+T3	Software-OS-Related 261 287	Network & Internet section
+A3	isOpened T3 f->t
+T4	Software-OS-Related 350 364	Mobile hotspot
+A4	isOpened T4 f->t
+T5	Software-OS-Related 447 455	settings
+T6	Software-OS-Related 532 565	Share my Internet connection from
+A5	isSettingsChanged T6 true
+A6	isOpened T6 f->t
+T7	Software-OS-Related 581 592	Edit button
+A7	isOpened T7 f->t
+T8	Software-OS-Related 818 865	Share my Internet connection with other devices
+R2	SubPart Arg1:T7 Arg2:T4	
+A8	isSettingsChanged T7 true
+R3	SubPart Arg1:T6 Arg2:T4	

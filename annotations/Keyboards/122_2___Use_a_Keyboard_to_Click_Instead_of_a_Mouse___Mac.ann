@@ -1,0 +1,41 @@
+T1	Software-OS-Related 138 151	Accessibility
+A1	isOpened T1 f->t
+T2	Hardware-Other 194 218	Fn+⌥ Option+⌘ Command+F5
+T3	Hardware-Other 224 231	MacBook
+T4	Hardware-Other 242 251	touch bar
+T5	Hardware-Other 271 286	Touch ID button
+T6	Hardware-Other 328 332	iMac
+T7	Hardware-Other 340 361	⌥ Option+⌘ Command+F5
+T8	Hardware-Other 374 379	mouse
+T10	Software-OS-Related 429 450	System Preferences...
+A3	isOpened T10 f->t
+T11	Software-OS-Related 483 499	Mouse & Trackpad
+T13	Hardware-Other 553 574	⌘ Command+⌥ Option+F5
+T14	Hardware-Other 587 602	Touch ID button
+T15	Software-OS-Related 670 683	Accessibility
+T18	Hardware-Other 817 822	mouse
+T19	Hardware-Devices 833 841	keyboard
+A7	isPowered T19 start-T
+T20	Hardware-Other 884 885	U
+T21	Hardware-Other 910 911	O
+T22	Hardware-Other 930 931	8
+T23	Hardware-Other 951 952	K
+T24	Hardware-Other 987 988	7
+T25	Hardware-Other 990 991	9
+T26	Hardware-Other 993 994	J
+T27	Hardware-Other 1000 1001	L
+T28	Hardware-Other 1045 1046	5
+T29	Hardware-Other 1099 1104	mouse
+T30	Hardware-Other 1175 1179	Ctrl
+T31	Hardware-Other 1195 1196	5
+T32	Software-OS-Related 1298 1310	context menu
+T33	Hardware-Other 1344 1345	M
+T34	Hardware-Other 1358 1370	mouse button
+T35	Software-OS-Related 1504 1514	Trash menu
+T36	Hardware-Other 1604 1614	Mouse Keys
+T37	Hardware-Other 1622 1643	⌥ Option+⌘ Command+F5
+T38	Hardware-Other 1663 1678	Touch ID button
+T9	Software-OS-Related 706 716	Mouse Keys
+T12	Software-OS-Related 515 525	Mouse Keys
+A2	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	

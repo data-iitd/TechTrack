@@ -1,0 +1,26 @@
+Remove Unwanted Programs from Your Computer
+https://www.wikihow.com/Remove-Unwanted-Programs-from-Your-Computer
+
+0 - Steps
+
+1 - If you are running Windows, Here's what you need to do, First of all, Click on the "Start" button and go to "Control Panel".
+If you are running Windows, Here's what you need to do, First of all, Click on the "Start" button and go to "Control Panel". Where you control your stuff on the windows.
+- ;
+
+2 - Click on "Add or Remove Programs" to open the up the properties of the software and programs that you have.
+Click on "Add or Remove Programs" to open the up the properties of the software and programs that you have.
+
+3 - Click on the software or program that you want to change or remove from.
+Click on the software or program that you want to change or remove from. First of all, Look for every software and search for a program or software to remove from your computer. Click on the "Remove" button to uninstall a program.
+- The uninstall window will open but accept to uninstall this program. Let it uninstall, it depends if it's quickly or slow. Once it's all done...
+
+4 - Now have fun with a computer and the uninstall is complete!
+Now have fun with a computer and the uninstall is complete!
+
+5 - Perform a full-scan of your computer with an anti-virus and anti-spyware_anti-malware program.
+Perform a full-scan of your computer with an anti-virus and anti-spyware/anti-malware program. Using programs such as Windows Defender may help quite a bit to clean/clear up unwanted programs and get your around the unwanted programs entirely.
+
+6 - Be careful of which User Account Control boxes you click to accept, if you are have administrative rights on the computer.
+Be careful of which User Account Control boxes you click to accept, if you are have administrative rights on the computer. Only accept program or program modifications seem to be credible or able to backtrack to be known to the piece of software you are trying to obtain. 
+- Gather a list of programs on a weekly basis of programs that might ask you to update the program or will end up doing an auto-search for updates in the background, to know if you can or will encounter boxes from programs that you might not remember later on down the line.
+

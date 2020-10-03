@@ -1,0 +1,15 @@
+T1	Software-Other 131 146	AOMEI Backupper
+A1	isOpened T1 f->t
+T2	Software-Other 362 368	Backup
+A2	isOpened T2 f->t
+T3	Software-Other 459 470	Disk Backup
+A3	isOpened T3 f->t
+T4	Software-Other 573 579	Step 1
+A4	isOpened T4 f->t
+T5	Software-Other 695 698	Add
+A5	isOpened T5 f->t
+T6	Software-Other 1102 1108	Step 2
+A6	isOpened T6 f->t
+T7	Software-Other 1170 1182	Start Backup
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T2	

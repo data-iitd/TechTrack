@@ -1,0 +1,45 @@
+Migrate from macOS to Windows 10
+https://www.wikihow.com/Migrate-from-macOS-to-Windows-10
+
+0 - Getting to Know the Interface
+
+1 - Use Ctrl in place of ⌘ Command for most commands.
+Use Ctrl in place of ⌘ Command for most commands.  For example, to undo, use Ctrl+Z.
+
+2 - Use ⇧ Shift in place of ⌥ Option for most commands.
+Use ⇧ Shift in place of ⌥ Option for most commands.  For example, to open Task Manager quickly, instead of using ⌘ Command+⌥ Option+Esc, use Ctrl+⇧ Shift+Esc.
+
+3 - Memorize the exceptions.
+Memorize the exceptions.  To close a window, don't use Ctrl+Q, use Alt+F4, and to switch between windows, use Alt+Tab ↹ or ⊞ Win+Tab ↹ instead of Ctrl+Tab ↹ (this shortcut may be used to switch between tabs in a browser, though).
+
+4 - Learn how to use the default apps.
+Learn how to use the default apps.
+- Instead of using Preferences, use Settings or Control Panel.
+- Use Camera instead of Photo Booth.
+- Instead of using iTunes, use Groove Music to play your music and Movies & TV to play your movies.
+- Use Microsoft Edge instead of Safari to surf the web.
+- Use Notepad instead of TextEdit to edit .txt files.
+- Use Photos instead of iPhoto and iMovie to view, import, and edit photos and videos.
+
+5 - Understand the taskbar.
+Understand the taskbar.  The taskbar is similar to the dock.  All of your open apps and your quick launch apps are on your taskbar.  The Recycle Bin isn't there, though; it's on the desktop.
+
+6 - Understand Start.
+Understand Start.  It's the same as the Launchpad and the Apple menu combined.  In Start, you can quickly launch apps, shut down your computer, and open up folders.
+- For more options, right-click on the Start button.
+
+7 - Understand Cortana.
+Understand Cortana.  Cortana is the same as Siri and Spotlight Search combined.  It can do the same as Siri, but it can also search the web and files.
+
+8 - Understand the location of certain functions.
+Understand the location of certain functions.  On Mac, the buttons appear in the following order in the upper left corner:  Close, minimize, full screen/maximize.  On Windows, the buttons appear in the following order in the upper right corner:  minimize, maximize/exit full screen, close.
+
+9 - Understand the filesystem.
+Understand the filesystem.  Files are located in the C drive, particularly your user folder.  It is very easy to switch drives.
+
+10 - Understand multitasking.
+Understand multitasking.  You can view all open apps, as well as previously open apps on Windows 10 version 1803, through the Task View/Timeline.  You can also create new virtual desktops in Desktop Mode as in Mission Control.
+
+11 - Understand the Action Center.
+Understand the Action Center.  The Action Center is like the Notification Center, except you can also change quick settings there as well, like the Control Center.
+

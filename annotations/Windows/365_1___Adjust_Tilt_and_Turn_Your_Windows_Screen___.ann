@@ -1,0 +1,7 @@
+T1	Software-Other 145 150	image
+T3	Software-OS-Related 1666 1678	monitor menu
+A2	isOpened T3 f->t
+T2	Hardware-Devices 352 361	monitor's
+A1	isUsed T2 true
+T4	Software-OS-Related 362 366	menu
+A3	isOpened T4 f->t

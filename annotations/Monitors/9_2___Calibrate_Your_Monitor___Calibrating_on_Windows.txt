@@ -1,0 +1,62 @@
+Calibrate Your Monitor
+https://www.wikihow.com/Calibrate-Your-Monitor
+
+0 - Calibrating on Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open the calibration tool.
+Open the calibration tool. Type in calibrate display, then click Calibrate display color at the top of the Start menu.
+
+3 - Make sure that the calibration tool is on the correct display.
+Make sure that the calibration tool is on the correct display. If you use dual monitors, you may need to move the calibration window onto the second monitor.
+
+4 - Click Next.
+Click Next. It's in the bottom-right corner of the page.
+
+5 - Set your monitor to its factory-default color settings.
+Set your monitor to its factory-default color settings. If necessary, press your monitor's "Menu" button, then select the factory default color settings from the on-screen menu.
+- This isn't necessary if you've never changed the color settings on your monitor (not in your computer's settings).
+- Skip this step if you're on a laptop.
+
+6 - Click Next.
+Click Next. It's in the bottom-right corner of the page.
+
+7 - Review the "Good gamma" example, then click Next.
+Review the "Good gamma" example, then click Next. The "Good gamma" example is in the middle of the page. Ideally, you'll set your gamma to match this example.
+
+8 - Adjust your display's gamma.
+Adjust your display's gamma. Click and drag the slider on the left side of the page up or down to raise or lower your gamma, making sure that the cube in the middle of the page resembles the "Good gamma" example from the previous step.
+
+9 - Click Next twice.
+Click Next twice. It's in the bottom-right corner of the page.
+
+10 - Review the "Good brightness" example, then click Next.
+Review the "Good brightness" example, then click Next. If you're on a laptop, you'll click the Skip option in the middle of the page and then skip the next two steps.
+
+11 - Adjust your display's brightness.
+Adjust your display's brightness. Open your display's menu by pressing the "Menu" button, then select the "Brightness" section and raise or lower the brightness as needed.
+- Your brightness should be set so that your display meets the criteria listed under the picture in the middle of the page.
+
+12 - Click Next.
+Click Next. It's in the bottom-right corner of the page. Doing so takes you to the "Contrast" example.
+
+13 - Review the "Good contrast" example, then click Next.
+Review the "Good contrast" example, then click Next. Again, if you're on a laptop, skip the next two steps.
+
+14 - Adjust your display's contrast.
+Adjust your display's contrast. Using your display's menu, raise or lower the contrast until the photo in the middle of the page matches the criteria listed under the photo.
+
+15 - Click Next twice.
+Click Next twice. It's in the bottom-right corner of the page.
+
+16 - Adjust the color balance.
+Adjust the color balance. Click and drag each slider at the bottom of the page left or right until you see neutral (not green-, red-, or blue-tinted) greys in the bar at the top of the page.
+
+17 - Click Next, then review your changes.
+Click Next, then review your changes. You can click Previous calibration to see what the monitor looked like before you made your changes and then click Current calibration to see the comparison.
+
+18 - Click Finish.
+Click Finish. It's at the bottom of the page. Your calibration settings will be saved.
+

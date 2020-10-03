@@ -1,0 +1,24 @@
+Turn Off the Microsoft Narrator Start Up
+https://www.wikihow.com/Turn-Off-the-Microsoft-Narrator-Start-Up
+
+0 - Disabling Narrator
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- If Narrator is currently running, opening Start will cause Narrator to read aloud different options, including Cortana's name. This can trigger Cortana to start listening for audio input, so it's best to turn off Narrator before this point.
+
+2 - Open the Ease of Access Center.
+Open the Ease of Access Center. Type in ease of access, then click Ease of Access Center at the top of the Start window.
+
+3 - Click the Use the computer without a display link.
+Click the Use the computer without a display link. It's directly under the "Explore all settings" heading in the middle of the page.
+
+4 - Uncheck the "Turn on Narrator" box.
+Uncheck the "Turn on Narrator" box. This option is near the top of the window. Doing so indicates that you no longer want Narrator to turn on whenever you sign in.
+
+5 - Click Apply.
+Click Apply. It's at the bottom of the page. This applies your settings.
+
+6 - Click OK.
+Click OK. Doing so confirms your changes and exits the menu. Narrator should no longer turn on when you log into your computer.
+

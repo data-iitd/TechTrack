@@ -1,0 +1,28 @@
+Switch to Ubuntu
+https://www.wikihow.com/Switch-to-Ubuntu
+
+0 - Steps
+
+1 - Verify that the computer tasks and_or software you want to run will either work with Ubuntu, or has alternative software to replace it.
+Verify that the computer tasks and/or software you want to run will either work with Ubuntu, or has alternative software to replace it. Even if your existing software will not run natively in Ubuntu, a compatibility layer known as Wine may be able to run it.
+- ;
+
+2 - Back-up your data.
+Back-up your data. Use an external hard drive to copy over files or create a copy of your partitions. Alternatively, use a flash drive, DVDs, or CDs to copy over files.
+
+3 - Go to http:__www.ubuntu.com and download the CD image.
+Go to http://www.ubuntu.com and download the CD image. Do this by clicking on the Download Ubuntu button; here you can choose between the 32 and 64 bit versions, and will find instructions on how to burn them to a CD.
+- The CD image is about 700 MB.
+
+4 - Boot your PC from the Ubuntu CD.
+Boot your PC from the Ubuntu CD. This may involve either manually selecting the optical drive or changing the boot order in your BIOS, if simply inserting the CD and rebooting doesn't work. You can find detailed instructions on the Ubuntu Download Page. After a minute or two, you should see a windows that asks whether you want to try or install Ubuntu. Choose the 'Try Ubuntu' option, and in another minute, you should see the basic Ubuntu desktop. You should have access to most of your hardware, including network, sound, and graphics. Some older video cards and wifi cards may have compatibility issues; in this case you might want to check the LinuxQuestions Hardware Compatibility List, as well as asking about your hardware on the Ubuntu Forums.
+
+5 - Install it.
+Install it. Assuming you booted into the live desktop properly, this is as simple as double-clicking the Install icon on the desktop. The install program will prompt you for your language, location, and keyboard layout before you get to the hard-disk partitioning section. When Ubuntu asks for a timezone, and you do not see your city simply click on a city that is near/in your timezone (e.g Vancouver, Canada instead of Seattle, United States). Partitioning your hard disk is the only step of the install process that has the potential to do serious harm. If you install to the wrong partition, you could accidentally nuke your Windows drive and all of its contents. That's why it is recommended to run a full backup before you start the install process. The safest way to install is to add a new hard drive or create free space on the existing drive. This is not always an option; you can re-size your partitions to free space using the sliders.
+
+6 - Bring over some of your data from your Windows partition.
+Bring over some of your data from your Windows partition. If you wish, Ubuntu can bring over your Firefox bookmarks, music, photos, and documents from your Windows partition (if you are keeping the Windows Partition).
+
+7 - Confirm your installer's settings and press Install to finish the process.
+Confirm your installer's settings and press Install to finish the process. You'll need to wait 20–40 minutes while the install completes and then finish by rebooting your PC and selecting the Ubuntu entry from the boot manager that was installed.
+

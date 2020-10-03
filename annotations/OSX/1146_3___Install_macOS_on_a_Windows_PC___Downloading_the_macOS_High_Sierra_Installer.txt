@@ -1,0 +1,35 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Downloading the macOS High Sierra Installer
+
+1 - Open your Mac's  App Store.
+Open your Mac's  App Store. Click the App Store app icon, which is blue with a white "A" on it, in your Mac's Dock.
+
+2 - Click the search bar.
+Click the search bar. It's in the upper-right side of the App Store window.
+
+3 - Search for High Sierra.
+Search for High Sierra. Type high sierra into the search bar, then press ⏎ Return.
+
+4 - Click Download.
+Click Download. It's to the right of the High Sierra icon. Doing so will prompt the installer to begin downloading onto your Mac.
+
+5 - Wait for the installer window to open.
+Wait for the installer window to open. Once it does, you'll need to close it immediately.[2]
+- X
+- Research source
+
+6 - Press ⌘ Command+Q when the window opens.
+Press ⌘ Command+Q when the window opens. This will close the installer window.
+
+7 - Open  Finder.
+Open  Finder. Click the blue face-like icon in your Mac's Dock.
+
+8 - Click the Applications folder.
+Click the Applications folder. It's on the left side of the Finder window.
+
+9 - Make sure that the installer is there.
+Make sure that the installer is there. The installer will be called "Install macOS High Sierra" or something similar and will have an image of a ridge of mountains on it. As long as the installer is present in the Applications folder, you can proceed.
+- If the installer isn't there, try downloading High Sierra again.
+

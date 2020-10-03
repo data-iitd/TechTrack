@@ -1,0 +1,45 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Changing System Desktop Icons
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen, or press the ⊞ Win key.
+- ;
+
+2 - Click Settings .
+Click Settings . It's in the lower-left side of the Start window.
+
+3 - Click Personalization.
+Click Personalization. This is the monitor-shaped icon on the Windows Settings page.
+- You can also access this page by right-clicking a blank space on the desktop and then clicking Personalization in the drop-down menu.
+
+4 - Click Themes.
+Click Themes. It's a tab on the left side of the Personalization window.
+
+5 - Click Desktop icon settings.
+Click Desktop icon settings. This link is in the upper-right side of the Themes page. Clicking it opens the Desktop Icon Settings window.
+- If you haven't edited your theme at all, this link will be in the middle of the page beneath the "Related Settings" heading.
+- You can also click Get more themes in the Store below the "Apply a theme" heading to browse desktop themes. Some themes will change your desktop icons' appearances.
+
+6 - Click an icon you want to change.
+Click an icon you want to change. This will select the icon.
+- For example, you might click This PC or Recycle Bin.
+- You can also check the box next to a desktop icon's name at the top of the window to make it appear on your desktop, or uncheck the box to remove it from the desktop.
+- Check the "Allow themes to change desktop icons" box on this window to enable theme-related icon changes.
+
+7 - Click Change Icon.
+Click Change Icon. It's near the bottom of the window.
+
+8 - Select an icon.
+Select an icon. You can select two different types of icons:
+- 
+- System icon - Click an icon in the window.
+- Custom icon - Click Browse, then click the folder that your custom icons are in on the left side of the window. Select the icon you want to use, then click Open.
+
+9 - Click OK.
+Click OK. This will assign your selected icon to the desktop program.
+
+10 - Click Apply, then click OK.
+Click Apply, then click OK. Doing so confirms your decision and changes the desktop program's icon to your selected icon.
+

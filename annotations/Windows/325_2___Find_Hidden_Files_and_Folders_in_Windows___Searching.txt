@@ -1,0 +1,23 @@
+Find Hidden Files and Folders in Windows
+https://www.wikihow.com/Find-Hidden-Files-and-Folders-in-Windows
+
+0 - Searching
+
+1 - Open File Explorer .
+Open File Explorer . This app is the folder-shaped icon on your taskbar.
+- You can also type file explorer into Start and then press ↵ Enter.
+
+2 - Click your hard drive's name.
+Click your hard drive's name. It's in the left-hand column of options. In most cases, this will be OS (C:).
+
+3 - Click the search bar.
+Click the search bar. It's in the top-right corner of the File Explorer window.
+
+4 - Type in the name of a hidden item.
+Type in the name of a hidden item. If you don't know the item's name, try typing an asterisk and then the item's file type (e.g., typing "*.jpg" will show results for all jpeg images that end in the filetype ".jpg").
+
+5 - Review the results.
+Review the results. You should see several hidden folders and files here.
+- These files and folders are not accessible from the Start search.
+- If you don't see your desired hidden file, folder, or other item, click This PC in the left-hand column and run your search again.
+

@@ -1,0 +1,11 @@
+T1	Software-OS-Related 137 152	Ubuntu Software
+A1	isOpened T1 f->t
+T2	Software-OS-Related 456 462	Skype"
+T3	Software-Other 524 529	Skype
+A3	isOpened T3 f->t
+T4	Software-Other 668 675	Install
+A5	isInstalled T4 f->t
+A2	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	
+T6	Software-OS-Related 1026 1031	Skype
+A4	isOpened T6 f->t

@@ -1,0 +1,34 @@
+Make Yourself an Administrator on Any Windows System
+https://www.wikihow.com/Make-Yourself-an-Administrator-on-Any-Windows-System
+
+0 - Changing Standard User Account Privileges
+
+1 - Press ⊞ Win+R.
+Press ⊞ Win+R. This will open the "Run" text box. If you're using the Administrator account with Safe Mode, this is the best way to open the "Run" box since the Start menu doesn't always work.
+- If you're currently logged into a different user's administrator account, you can click Start instead.
+
+2 - Type in netplwiz and press ↵ Enter.
+Type in netplwiz and press ↵ Enter. This will open the User Accounts window.
+- If you typed this into Start, click netplwiz at the top of the Start window instead.
+
+3 - Select your personal account.
+Select your personal account. Click on your personal account's name or username. If you're on a communal computer, you may have to scroll down to find the proper account.
+
+4 - Click Properties.
+Click Properties. It's in the lower-right corner of the window. A new window will open.
+
+5 - Click the Group Membership tab.
+Click the Group Membership tab. You'll find this at the top of the new window.
+
+6 - Check the "Administrator" box.
+Check the "Administrator" box. It's in the middle of the window.
+
+7 - Click OK.
+Click OK. This option is at the bottom of the window.
+
+8 - Click OK.
+Click OK. It's at the bottom of the window. Doing so will apply your account changes.
+
+9 - Restart your computer.
+Restart your computer. When your computer finishes restarting, you should be out of Safe Mode and your account should now have administrator privileges.
+

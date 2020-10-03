@@ -1,0 +1,24 @@
+Install Edubuntu
+https://www.wikihow.com/Install-Edubuntu
+
+0 - Installing Edubuntu on a USB
+
+1 - Download Edubuntu 14.04.2 LTS from the website.
+Download Edubuntu 14.04.2 LTS from the website. Depending on your internet speed, this could take some time. Here you will be able to choose over downloading the 64-bit ISO file (newer computers) or the 32-bit ISO file (almost all computers).
+
+2 - Plug in the USB stick.
+Plug in the USB stick. Again, you need to format this USB stick as FAT32. If you have any important files on your USB stick, back them up now.
+
+3 - Launch the software.
+Launch the software.
+- On Ubuntu, you can open the Dash and enter "startup disk creator" or "unetbootin" depending on what you want to use.
+- On Windows or Mac, search for "unetbootin" and select it when the rocket with the title UNetBootin shows up.
+
+4 - Configure the software to install the Edubuntu image you downloaded.
+Configure the software to install the Edubuntu image you downloaded. The process in UNetBootin and Startup Disk Creator are pretty much the same.
+- In Startup Disk Creator, click the "others" button under Source disc image (.iso), navigate to the Downloads folder and select "edubuntu-14.04.4-dvd-[i386 or amd64].iso". Then, select the USB stick you want to use to install Edubuntu.
+- In UNetBootin, click on the Diskimage radio button. Then, ensure that ISO is selected from the first drop-down menu and click the "..." button. Next, navigate to the downloads folder and open "edubuntu-14.04.4-dvd-[i386 or amd64].iso" as you would in Startup Disk Creator. Finally, make sure that Type is set to USB Drive and then select your USB stick from the Drive drop-down menu.
+
+5 - Click "OK" in UNetBootin or "Make startup disk" in Startup Disk Creator.
+Click "OK" in UNetBootin or "Make startup disk" in Startup Disk Creator. Your live USB is now being made. This may take a while to load depending on how fast your computer is.
+

@@ -1,0 +1,27 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Changing Windows Boot Order
+
+1 - Unplug any USB items from your Windows computer.
+Unplug any USB items from your Windows computer. Make sure that you don't have any USB drives, in particular.
+
+2 - Enter your computer's BIOS or UEFI settings page
+Enter your computer's BIOS or UEFI settings page. This process varies from computer to computer, but you will typically restart your computer and then repeatedly press a key (e.g., Del) immediately as the computer begins to start up.
+
+3 - Locate the "Boot Order" section.
+Locate the "Boot Order" section. This section is normally on the main page of the BIOS, though you may need to use the arrow keys to navigate over to the "Boot" or "Advanced" tab.
+- The "Boot Order" section varies from BIOS to BIOS. If you can't find your BIOS' "Boot Order" page, consult your motherboard's manual or look up your computer model online to find direct instruction for your specific BIOS page.
+
+4 - Select Removable Devices.
+Select Removable Devices. Use the arrow keys to move the blinking bar down to Removable Devices.
+- On some pages, this section may instead be called USB Devices or something similar (e.g., Peripherals).
+
+5 - Move your selected location to the top of the list.
+Move your selected location to the top of the list. Typically, you'll press the + key with the boot location you want to use selected until it's at the top of the "Boot Order" list.
+- You can double-check the key that you're supposed to use in the legend that's usually on the right side or the bottom of the BIOS page.
+
+6 - Save your settings and exit the BIOS.
+Save your settings and exit the BIOS. Look for the key you're supposed to press to save and exit in the legend on the right side of the page, then press it. Doing so will shift your Windows computer's boot priority so that installation USB drive will be selected as the boot point once you plug it in.
+- You may have to press another key to confirm this choice.
+

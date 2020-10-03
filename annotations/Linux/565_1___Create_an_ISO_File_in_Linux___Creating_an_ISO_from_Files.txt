@@ -1,0 +1,28 @@
+Create an ISO File in Linux
+https://www.wikihow.com/Create-an-ISO-File-in-Linux
+
+0 - Creating an ISO from Files
+
+1 - Gather your ISO files in the home directory.
+Gather your ISO files in the home directory. Place any files that you want to turn into an ISO file in a folder inside of the home folder.
+- ;
+
+2 - Open Terminal.
+Open Terminal. Open the Menu, then click Terminal to open it. The Terminal app is how you'll access the command line, which is similar to Command Prompt on Windows or Terminal on Mac.
+- Linux distributions vary in appearance, so you may have to look for the Terminal app inside of a folder in the Menu section.
+- You might also find Terminal on the desktop, or in a toolbar on the top or bottom of the screen.
+
+3 - Enter the "change directory" command.
+Enter the "change directory" command. Type in cd /home/username/, making sure to use your own username for the username section, and press ↵ Enter. This will change your current directory to the home folder.
+- For example, if your username is "potato", you would type in cd /home/potato/.
+
+4 - Type in the ISO creation command.
+Type in the ISO creation command. Type in mkisofs -o destination-filename.iso /home/username/folder-name, making sure to replace "destination-filename" with whatever you want to name the ISO file and "folder-name" with the name of the folder in which your ISO's files are stored.
+- For example: to create an ISO file named "blueberry" from files in a folder called "pie", you would type in mkisofs -o blueberry.iso /home/username/pie.
+- File names and folder names are case-sensitive, so make sure you capitalize anything that needs to be capitalized.
+- To create a multiple-word name, place underscores between words (e.g., "blueberry pie" becomes "blueberry_pie").
+
+5 - Press ↵ Enter.
+Press ↵ Enter. Doing so will run the command, which creates an ISO file comprised of your selected directory's files. You'll find this ISO file in your home directory.
+- You may be prompted to enter your password before the ISO file is created. If so, type in your password and press ↵ Enter.
+

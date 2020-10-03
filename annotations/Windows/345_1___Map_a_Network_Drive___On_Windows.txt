@@ -1,0 +1,45 @@
+Map a Network Drive
+https://www.wikihow.com/Map-a-Network-Drive
+
+0 - On Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Open File Explorer .
+Open File Explorer . Click the folder-shaped icon in the lower-left side of the Start window.
+
+3 - Click This PC.
+Click This PC. This folder is in the left-hand column of options in the File Explorer window.
+
+4 - Click the Computer tab.
+Click the Computer tab. It's in the upper-left side of the This PC window. A toolbar will appear below the Computer tab.
+
+5 - Click the Map network drive icon.
+Click the Map network drive icon. This option is in the "Network" section of the toolbar; it resembles a grey drive with a green bar below it. Clicking this prompts a pop-up window to appear.
+
+6 - Select a drive letter.
+Select a drive letter. Click the "Drive" drop-down box, then click the letter that you want to use for the folder.
+- Hard drives all have letters assigned to them (the hard drive on your computer is most likely labeled "C", for example).
+- Consider picking a letter like X or Z in order to avoid conflicting with any of the A through F drive letters that you will most likely use on your computer at some point.
+
+7 - Click Browse….
+Click Browse…. It's in the middle-right side of the window. Another window will open.
+
+8 - Select the folder that you want to use as the drive.
+Select the folder that you want to use as the drive. Click on the name of the computer you want to use, then navigate to the folder that you want to select as the drive and click on it once to select it.
+- If you aren't connected to at least one other computer on your network, you won't be able to select a folder.
+
+9 - Click OK.
+Click OK. It's at the bottom of the window. Doing so saves your selected folder as the drive destination.
+- Make sure that the owner of the folder's computer doesn't move the folder after this point.
+
+10 - Make sure that the "Reconnect at sign-up" box is checked.
+Make sure that the "Reconnect at sign-up" box is checked. Click the checkbox to the left of this option if the box isn't checked. This will ensure that you always have access to the folder.
+- If you are connecting to a shared folder on a network that is not on your computer, you may also need to provide login information. If so, check the box labeled "Connect using different credentials" and enter your login information.
+
+11 - Click Finish.
+Click Finish. It's at the bottom of the window. This will complete the setup process and link your computer to the selected folder. You should now be able to use the specific folder as a drive.
+- The folder in question will appear in the This PC window below the "Devices and drives" heading. It will have the letter you selected as its name.
+

@@ -1,0 +1,21 @@
+Change the Time Format on a Mac
+https://www.wikihow.com/Change-the-Time-Format-on-a-Mac
+
+0 - Turning on 24-Hour Time
+
+1 - Click the Apple menu.
+Click the Apple menu.
+- ;
+
+2 - Click "System Preferences."
+Click "System Preferences." If you are not taken to the main System Preferences menu, click the "Show All" button at the top of the window.
+
+3 - Click "Language & Region."
+Click "Language & Region." This icon can be found in the top row and has a flag for an icon.
+
+4 - Click the "Time format" box.
+Click the "Time format" box. This will toggle between 24-hour time and 12-hour time.
+
+5 - Click the "Region" menu to change your country.
+Click the "Region" menu to change your country. This will change your time and date formats automatically to match the country standard.
+

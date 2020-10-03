@@ -1,0 +1,29 @@
+Install XAMPP on Linux
+https://www.wikihow.com/Install-XAMPP-on-Linux
+
+0 - Running XAMPP
+
+1 - Re-open Terminal if necessary.
+Re-open Terminal if necessary. If you closed the Terminal window that you used to install XAMPP, re-open Terminal.
+- XAMPP doesn't have any desktop files, so you'll need to launch it from within its installation directory via Terminal each time you want to run it.
+
+2 - Switch to the XAMPP installation directory.
+Switch to the XAMPP installation directory. Type in cd /opt/lampp and press ↵ Enter.[2]
+- X
+- Research source
+
+3 - Enter the "Open" command.
+Enter the "Open" command. Type in sudo ./manager-linux-x64.run﻿ and press ↵ Enter.
+
+4 - Enter your password when prompted.
+Enter your password when prompted. Type in the password you usually use to log into your computer, then press ↵ Enter.
+
+5 - Click the Manage Servers tab.
+Click the Manage Servers tab. This option is at the top of the window.
+
+6 - Click Start All.
+Click Start All. It's at the bottom of the window. Doing so prompts any active components of XAMPP to begin running.
+
+7 - Open your computer's localhost page.
+Open your computer's localhost page. Go to 127.0.0.1 in your computer's web browser. You should see the XAMPP dashboard here; at this point, you're able to begin using XAMPP as you please.
+

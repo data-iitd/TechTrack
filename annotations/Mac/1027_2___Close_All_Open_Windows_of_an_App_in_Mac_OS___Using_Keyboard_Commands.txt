@@ -1,0 +1,23 @@
+Close All Open Windows of an App in Mac OS
+https://www.wikihow.com/Close-All-Open-Windows-of-an-App-in-Mac-OS
+
+0 - Using Keyboard Commands
+
+1 - Open multiple windows in an app.
+Open multiple windows in an app. You can open and close multiple windows in most apps, including all internet browsers, text editors, productivity apps, media players, image viewers, and file managers.
+- You can also use this method to close all open folders if you have multiple windows open in Finder.
+
+2 - Press and hold the ⌘ Command button on your keyboard.
+Press and hold the ⌘ Command button on your keyboard.
+- On some keyboards, you will see ⌘ Cmd instead of Command.
+
+3 - Press Tab ↹ while holding ⌘ Command.
+Press Tab ↹ while holding ⌘ Command. This button is in the upper-left corner of your keyboard. This key combination will let you scroll through app icons to switch between apps currently open and running on your Mac.
+
+4 - Make sure the application switcher is on the app you want to close.
+Make sure the application switcher is on the app you want to close. Scroll through apps in the switcher until you're on the correct app.
+
+5 - Press ⌥ Option+⌘ Command+W on your keyboard.
+Press ⌥ Option+⌘ Command+W on your keyboard. Press the three buttons at the same time to close all the open windows in this app. All open windows will close. The app will keep running in the background.
+- On some keyboards, you will have Alt instead of Option. In this case, look for the ⌥ sign on your keyboard.
+

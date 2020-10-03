@@ -1,0 +1,10 @@
+T1	Software-OS-Related 187 202	terminal window
+A1	isOpened T1 f->t
+T2	Software-OS-Related 466 502	sudo before the rest of your command
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 956 962	gksudo
+T4	Software-OS-Related 1981 1988	sudo -i
+A3	isOpened T4 f->t
+T5	Software-OS-Related 2335 2360	usermod -aG sudo username
+A4	isSettingsChanged T5 true
+A5	isSettingsChanged T3 true

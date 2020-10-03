@@ -1,0 +1,28 @@
+Add Arrows to a Screenshot (Macs)
+https://www.wikihow.com/Add-Arrows-to-a-Screenshot-(Macs)
+
+0 - Steps
+
+1 - Open up the screenshot you took.
+Open up the screenshot you took. By default, it should open in Mac's Preview app.
+- ;
+
+2 - Click the small pencil icon in the top menu.
+Click the small pencil icon in the top menu. The pencil icon is the last icon at the top menu and opens up the Annotation menu, directly under the top menu.
+
+3 - Click the small arrow or line icon and select the arrow option from the drop-down menu.
+Click the small arrow or line icon and select the arrow option from the drop-down menu. On some versions of Preview, the two options are separate, but on newest versions, you find the arrow by clicking the line icon and then adjusting the line style to one with an arrow on one side.
+- You can also select the lines option, and make an arrow with three strokes of the lines.
+
+4 - Click, hold, and drag until the arrow is pointing to the right spot you want it to.
+Click, hold, and drag until the arrow is pointing to the right spot you want it to. Make sure the arrow is pointing where it's supposed to point. Let go of your mouse button when you're done.
+- To adjust the location of the arrow, you can click and drag to move it around the image.
+- To change the length or angle of the arrow, you can click on one end of the arrow and hold your mouse down while adjusting the arrow.
+- You can also change the color and thickness/style of the arrow from the menu bar by clicking on the relevant icons and making your selections.
+
+5 - Click the pencil icon again.
+Click the pencil icon again. This will remove the bottom menu.
+
+6 - Save your screenshot.
+Save your screenshot. When you show or add the screenshot to someone, the arrow will be there.
+

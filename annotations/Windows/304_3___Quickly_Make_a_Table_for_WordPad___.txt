@@ -1,0 +1,34 @@
+Quickly Make a Table for WordPad
+https://www.wikihow.com/Quickly-Make-a-Table-for-WordPad
+
+0 - 
+
+1 - Know which versions of WordPad this works in.
+Know which versions of WordPad this works in. Creating a table using your keyboard is only supported in Windows 8 or newer versions of WordPad. If you are running Windows 7 or earlier, you'll need to try one of the other methods in this article.
+
+2 - Place your cursor where you want your table to start.
+Place your cursor where you want your table to start. When you're using your keyboard to insert automatic tables, the table will start on the line you are currently working on. You can start a table anywhere in your document.
+
+3 - Create the first row.
+Create the first row. Use + and - to create the measurements for the first row of cells. Start and end each cell with a +, and use - to indicated how many characters wide the cell is. Don't worry too much about the actual measurements, as you can make adjustments later. See below for an example first row:
+- +----------+-----+---------------+
+
+4 - Press .
+Press .↵ Enter to generate the first row. Your characters will turn into the first row of the table, with the + signs becoming the borders of the cells. You can start typing text into each of the cells. The cells will resize automatically if the amount of text is too much to fit.
+
+5 - Add additional rows.
+Add additional rows. Move the cursor to the very end of the first row, so that it is flashing right on the outside of the table border. Press ↵ Enter to create a second row for the table. Repeat this process to continue adding rows to the table.
+- Pressing Tab ↹ while in the last cell will create a new row. Continuing to press Tab ↹ will move to the next available cell, creating a new row when you reach the end of the last row of the table.
+
+6 - Resize your rows and columns.
+Resize your rows and columns. Once you've added a few rows, you can use your mouse to resize them. Find the border that you want to move and click and drag it.
+
+7 - Add your content.
+Add your content. Now that the table has been created, you can start adding your information to it. Simply move from cell to cell and enter the information that you want to add to the table. You can highlight and format the text however you'd like.[1]
+- X
+- Research source
+
+8 - Save the file as a Rich Text Format (.rtf) file.
+Save the file as a Rich Text Format (.rtf) file. This format will keep your newly-created table. If you save it as a text (.txt) file, your table formatting will be lost. Rich Text Format files can be opened in most word processors.
+- You can also save it as a OpenOffice XML Document (.docx), which can be opened in Word.
+

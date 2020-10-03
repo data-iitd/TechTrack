@@ -1,0 +1,46 @@
+Format a Dell Computer
+https://www.wikihow.com/Format-a-Dell-Computer
+
+0 - Using a Windows Installation Disc
+
+1 - Make sure that you have a Windows installation disc.
+Make sure that you have a Windows installation disc. With a few tweaks to your computer's settings, you can prompt your computer to boot from the CD rather than from the main hard drive, allowing you to erase the hard drive and then reformat it.
+- If you don't have a Windows installation disc, you can make one by downloading the Windows 10 installation tool ISO from the Windows 10 installation page and then burning the ISO onto a DVD.
+
+2 - Insert your Windows disc into the computer.
+Insert your Windows disc into the computer. Place the disc logo side-up in the DVD tray, then close the tray.
+
+3 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu.
+
+4 - Wait for the "Press any key to boot from disc" prompt to appear.
+Wait for the "Press any key to boot from disc" prompt to appear. On most Dell computers, inserting a Windows installation disc will prompt the computer to select the disc as the boot option.
+- If your computer completely restarts without this prompt appearing, you'll need to change your BIOS boot order.
+
+5 - Press any key on your keyboard.
+Press any key on your keyboard. Doing so will start the disc booting sequence.
+
+6 - Select a language.
+Select a language. Click the "Language" drop-down box, click the language that you want to use, and click Next in the bottom-right corner of the window.
+
+7 - Accept the terms of use.
+Accept the terms of use. Check the "I accept the license terms" box, then click Next.
+
+8 - Click Custom.
+Click Custom. It's in the middle of the window. This will prompt a list of your computer's connected hard drives to appear.
+
+9 - Select your Dell's hard drive.
+Select your Dell's hard drive. Click the hard drive with (C:) on it to select it.
+- If you don't see a (C:) option, look for a drive with the largest amount of space on it.
+
+10 - Click Format.
+Click Format. It should be near the bottom of the page. Doing so will erase your hard drive and reformat it according to Windows defaults.
+- You may be prompted to select a file system. If so, select NTFS and click OK.
+- The reformatting process can take several hours, so just make sure that your computer is plugged into a power source.
+
+11 - Click Next or Continue when prompted.
+Click Next or Continue when prompted. Doing so completes the formatting process.
+
+12 - Follow the on-screen instructions.
+Follow the on-screen instructions. There should be a "Reinstall Windows" option here; clicking it will begin the Windows reinstallation process, at which point you can follow the on-screen prompts to finish reinstalling Windows.
+

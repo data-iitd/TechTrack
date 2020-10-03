@@ -1,0 +1,32 @@
+Use Cygwin
+https://www.wikihow.com/Use-Cygwin
+
+0 - Installing Cygwin
+
+1 - setup.exe
+Install Cygwin. Go to http://cygwin.com and click on "Install Cygwin" in the left column.  This will allow you to download a setup.exe file and choose "Install from Internet." Click "Next."
+- ;
+
+2 - Choose your settings.
+Choose your settings. For most users, it is fine to leave the default installation directory, which is "c:\cygwin\ and the other default settings.
+
+3 - Choose a temporary directory.
+Choose a temporary directory. This is where Cygwin will store the packages you download. Any temporary directory will work.
+
+4 - Download through a "Direct Connection.
+Download through a "Direct Connection." You will now be presented with a list of Cygwin mirrors. Either select the default, or, if that is running to slowly, choose a random option. Click "Next."
+
+5 - Choose your software packages.
+Choose your software packages. You will be presented with a long list of packages that will seem daunting in their scope if you are new to Cygwin. If you are new to Cygwin, stick with the default packages and click "Next." Wait for the loading bar to complete, which may take a few minutes.[1]
+- X
+- Research source
+
+6 - Use Cygwin as you would UNIX.
+Use Cygwin as you would UNIX.  It might require a bit of customization. For example, adding your user name to "/etc/password." Make sure you allow it to put an icon on your desktop during setup. When you double-click that icon, it will open up a shell window.
+
+7 - Wait for the first few lines to appear.
+Wait for the first few lines to appear. These will only appear the first time you use Cygwin. After the initial setup phase, you will instead be greeted with yourusername@yourcomputer'sname~ $ in green text. This is where you will input your commands.
+
+8 - Update Cygwin programs.
+Update Cygwin programs. If you would like to update or download more Cygwin compatible programs, simply return to Cygwin's homepage and click "Update." This will take you back to settings options from when you first downloaded Cygwin.
+

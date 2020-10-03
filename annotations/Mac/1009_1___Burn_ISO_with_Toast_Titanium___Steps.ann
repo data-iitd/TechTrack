@@ -1,0 +1,14 @@
+T1	Software-Other 131 145	Toast Titanium
+A1	isOpened T1 f->t
+T2	Software-Other 198 202	Copy
+T4	Software-Other 353 363	Image File
+T5	Software-Other 443 449	Select
+T6	Hardware-Devices 639 644	drive
+T7	Software-Other 745 749	COPY
+T8	Hardware-Other 933 936	DVD
+A3	isSettingsChanged T2 true
+A2	isSettingsChanged T4 true
+R1	SubPart Arg1:T2 Arg2:T1	
+A4	isSettingsChanged T7 true
+R2	SubPart Arg1:T4 Arg2:T1	
+A5	isConnected T6 start-T

@@ -1,0 +1,36 @@
+T8	Software-OS-Related 1121 1156	Always show icons, never thumbnails
+T9	Software-OS-Related 1511 1516	Apply
+T10	Software-OS-Related 1529 1531	OK
+T11	Software-OS-Related 1917 1934	Extra large icons
+T12	Hardware-Devices 302 308	screen
+A12	isPowered T12 start-T
+T13	Software-OS-Related 402 407	Start
+T1	Software-OS-Related 200 213	File Explorer
+A1	isOpened T1 f->t
+T3	Software-OS-Related 475 479	menu
+T4	Software-OS-Related 503 509	folder
+A2	isOpened T4 f->t
+T14	Software-OS-Related 540 553	File Explorer
+T5	Software-OS-Related 669 673	View
+T15	Software-OS-Related 735 755	File Explorer window
+T6	Software-OS-Related 827 834	Options
+T16	Software-OS-Related 912 918	window
+T7	Software-OS-Related 1032 1036	View
+T17	Software-OS-Related 1093 1099	window
+A3	isSettingsChanged T8 true
+T18	Software-OS-Related 1244 1261	Files and Folders
+T19	Software-OS-Related 1294 1300	window
+T21	Software-OS-Related 1633 1641	settings
+T20	Software-OS-Related 1656 1662	window
+A5	isOpened T20 t->f
+T22	Software-OS-Related 1686 1692	folder
+T23	Software-OS-Related 2004 2008	View
+T24	Software-OS-Related 2045 2051	Layout
+T26	Software-OS-Related 2081 2092	Large icons
+T27	Software-OS-Related 2094 2106	Medium icons
+T28	Software-OS-Related 2108 2113	Tiles
+T29	Software-OS-Related 2118 2125	Content
+A6	isSettingsChanged T10 true
+R2	SubPart Arg1:T10 Arg2:T21	
+A4	isOpened T13 f->t
+A7	isOpened T6 f->t

@@ -1,0 +1,31 @@
+T2	Software-OS-Related 179 213	https://ffmpeg.zeranoe.com/builds/
+T3	Hardware-Devices 222 232	computer's
+A2	isPowered T3 start-T
+T4	Software-Other 353 363	Windows 10
+T6	Software-Other 472 478	FFmpeg
+T7	Hardware-Devices 512 520	computer
+A4	isPowered T7 start-T
+T8	Software-Other 553 562	settings,
+T1	Software-Other 119 125	FFmpeg
+A1	isOpened T1 f->t
+T9	Software-OS-Related 649 655	FFmpeg
+A5	isOpened T9 f->t
+T5	Software-Other 383 397	Download Build
+T10	Software-OS-Related 782 788	FFmpeg
+A6	isOpened T10 start-T
+T11	Hardware-Devices 842 852	computer's
+T12	Software-OS-Related 901 908	Extract
+T13	Software-OS-Related 1022 1028	window
+T14	Software-OS-Related 1056 1072	extracted folder
+A7	isOpened T14 start-T
+T15	Software-OS-Related 1111 1117	window
+A8	isOpened T15 start-T
+T16	Software-OS-Related 1237 1243	FFmpeg
+T17	Software-OS-Related 1321 1329	Home tab
+T20	Hardware-Other 1716 1718	PC
+T21	Software-OS-Related 1743 1749	folder
+T22	Software-OS-Related 1774 1780	window
+A10	isOpened T22 start-T
+T24	Software-OS-Related 2008 2026	Devices and drives
+T25	Software-OS-Related 2057 2063	window
+T27	Hardware-Devices 2398 2408	computer's

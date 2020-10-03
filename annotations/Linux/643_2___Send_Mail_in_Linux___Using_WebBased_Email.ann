@@ -1,0 +1,31 @@
+T1	Software-Other 109 120	web browser
+T2	Software-OS-Related 579 587	terminal
+A3	isOpened T2 f->t
+T3	Software-OS-Related 604 684	wget https: / /dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+T4	Software-OS-Related 712 763	sudo dpkg -i google-chrome-stable_current_amd64.deb
+T5	Software-OS-Related 797 810	root password
+T6	Software-Other 838 844	Chrome
+A4	isInstalled T6 f->t
+A5	isOpened T6 f->t
+*	Equiv T1 T6
+T7	Software-Other 941 948	website
+A1	isOpened T7 f->t
+T8	Software-Other 956 979	web-based email service
+T9	Software-Other 1062 1067	Gmail
+T10	Software-Other 1069 1080	Outlook.com
+T11	Software-Other 1086 1096	Yahoo Mail
+T12	Software-Other 1105 1112	Sign in
+T13	Software-Other 1116 1133	create an account
+T14	Software-Other 1303 1308	inbox
+A2	isOpened T14 f->t
+T15	Software-Other 1327 1334	Compose
+T16	Software-Other 1338 1349	New Message
+*	Equiv T15 T16
+A6	isOpened T15 f->t
+T17	Software-Other 1544 1569	recipient's email address
+T18	Software-Other 1580 1582	To
+T19	Software-Other 1740 1747	subject
+T20	Software-Other 1885 1889	spam
+T21	Software-Other 1915 1922	message
+T22	Software-Other 2037 2041	Send
+T23	Software-Other 2194 2201	message

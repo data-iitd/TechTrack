@@ -1,0 +1,105 @@
+T1	Software-OS-Related 215 220	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 223 231	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 234 241	Privacy
+A3	isOpened T3 f->t
+T4	Software-OS-Related 252 259	General
+A4	isOpened T4 f->t
+T5	Software-OS-Related 283 291	Turn off
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	
+T6	Software-OS-Related 570 575	Start
+A6	isOpened T6 f->t
+T7	Software-OS-Related 578 586	Settings
+A7	isOpened T7 f->t
+T8	Software-OS-Related 589 596	Privacy
+A8	isOpened T8 f->t
+T9	Software-OS-Related 665 668	OFF
+A9	isSettingsChanged T9 true
+R2	SubPart Arg1:T9 Arg2:T8	
+T11	Software-OS-Related 787 792	Start
+A11	isOpened T11 f->t
+T12	Software-OS-Related 795 803	Settings
+A12	isOpened T12 f->t
+T13	Software-OS-Related 806 813	Privacy
+A13	isOpened T13 f->t
+T15	Software-OS-Related 882 884	ON
+A15	isSettingsChanged T15 true
+R3	SubPart Arg1:T15 Arg2:T13	
+T14	Software-OS-Related 824 832	Location
+A14	isOpened T14 f->t
+T10	Software-OS-Related 607 615	Location
+A10	isOpened T10 f->t
+T16	Software-OS-Related 1217 1228	Set default
+A16	isSettingsChanged T16 true
+R4	SubPart Arg1:T16 Arg2:T14	
+T17	Software-OS-Related 1366 1371	Clear
+A17	isSettingsChanged T17 true
+R5	SubPart Arg1:T17 Arg2:T14	
+T18	Software-OS-Related 1455 1461	Camera
+A18	isOpened T18 f->t
+T19	Software-OS-Related 1519 1522	OFF
+A19	isSettingsChanged T19 true
+R6	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 1768 1778	Microphone
+A20	isOpened T20 f->t
+T21	Software-OS-Related 1836 1839	OFF
+A21	isSettingsChanged T21 true
+R7	SubPart Arg1:T21 Arg2:T20	
+T22	Software-OS-Related 2538 2551	Notifications
+A22	isOpened T22 f->t
+T23	Software-OS-Related 2616 2619	OFF
+A23	isSettingsChanged T23 true
+R8	SubPart Arg1:T23 Arg2:T22	
+T24	Software-OS-Related 2665 2688	Speech, inking & typing
+T25	Software-OS-Related 2841 2888	Turn off speech services and typing suggestions
+T26	Software-OS-Related 2911 2923	manage cloud
+T27	Software-OS-Related 3123 3135	Account Info
+A24	isOpened T27 f->t
+T28	Software-OS-Related 3159 3162	OFF
+A25	isSettingsChanged T28 true
+R9	SubPart Arg1:T28 Arg2:T27	
+T29	Software-OS-Related 3457 3465	Contacts
+A26	isOpened T29 f->t
+T30	Software-OS-Related 3489 3492	OFF
+A27	isSettingsChanged T30 true
+R10	SubPart Arg1:T30 Arg2:T29	
+T31	Software-OS-Related 3699 3711	Call History
+T32	Software-OS-Related 3735 3738	OFF
+T33	Software-OS-Related 4095 4100	Email
+A28	isOpened T33 f->t
+T34	Software-OS-Related 4124 4127	OFF
+A29	isSettingsChanged T34 true
+R11	SubPart Arg1:T34 Arg2:T33	
+T35	Software-OS-Related 4287 4291	Mail
+T36	Software-OS-Related 4296 4304	Calendar
+T37	Software-OS-Related 4391 4396	Tasks
+A30	isOpened T37 f->t
+T38	Software-OS-Related 4420 4423	OFF
+A31	isSettingsChanged T38 true
+R12	SubPart Arg1:T38 Arg2:T37	
+T39	Software-OS-Related 4641 4650	Messaging
+A32	isOpened T39 f->t
+T40	Software-OS-Related 4674 4677	OFF
+A33	isSettingsChanged T40 true
+R13	SubPart Arg1:T40 Arg2:T39	
+T41	Software-OS-Related 4994 5000	Radios
+A34	isOpened T41 f->t
+T42	Software-OS-Related 5024 5027	OFF
+A35	isSettingsChanged T42 true
+R14	SubPart Arg1:T42 Arg2:T41	
+T43	Software-OS-Related 5237 5250	Other devices
+A36	isOpened T43 f->t
+T44	Software-OS-Related 5274 5277	OFF
+A37	isSettingsChanged T44 true
+T45	Software-OS-Related 5372 5396	Feedback and Diagnostics
+A38	isOpened T45 f->t
+T46	Software-OS-Related 5421 5426	Basic
+A39	isSettingsChanged T46 true
+R15	SubPart Arg1:T46 Arg2:T45	
+T47	Software-OS-Related 5932 5947	Background Apps
+A40	isOpened T47 f->t
+T48	Software-OS-Related 5999 6002	Off
+A41	isSettingsChanged T48 true
+R16	SubPart Arg1:T48 Arg2:T47	

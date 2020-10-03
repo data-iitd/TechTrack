@@ -1,0 +1,46 @@
+Connect to a Network Printer
+https://www.wikihow.com/Connect-to-a-Network-Printer
+
+0 - On Windows
+
+1 - Turn on your printer.
+Turn on your printer. Plug your printer into an electrical outlet if necessary, then press the printer's "Power"  button to turn on the printer if it isn't already on.
+- ;
+
+2 - Make sure your printer is connected to Wi-Fi.
+Make sure your printer is connected to Wi-Fi. In order to connect to your printer via a network, your printer must be connected to Wi-Fi.
+- The steps for connecting a printer to Wi-Fi will vary from printer to printer, so check your printer's manual or online documentation for model-specific instructions on connecting to Wi-Fi.
+- Some printers must be connected directly to your router via an Ethernet cable in order to connect to the Internet.
+
+3 - Connect your computer to your printer's Wi-Fi network if necessary.
+Connect your computer to your printer's Wi-Fi network if necessary. Most printers require you to be connected to the same network to which your printer is connected. If your computer is connected to a different network, do the following:
+- Click the "Wi-Fi"  icon on the right side of the taskbar.
+- Click the name of the Wi-Fi network to which your printer is connected.
+- Click Connect.
+- Enter the password and click Next if asked for a password.
+
+4 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+5 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+6 - Click Devices.
+Click Devices. It's in the middle of the Settings window.
+
+7 - Click Printers & scanners.
+Click Printers & scanners. This tab is on the left side of the window.
+
+8 - Click Add a printer or scanner.
+Click Add a printer or scanner. It's at the top of the window. Doing so opens a list of available printers on your network.
+
+9 - Select your printer's name.
+Select your printer's name. Click the name of the printer to which you want to connect. The printer's name will expand.
+- Your printer's name is usually a combination of the printer's manufacturer's name and the model number.
+
+10 - Click Add device.
+Click Add device. It's below the expanded printers name. Your computer will begin connecting to the printer.
+
+11 - Follow any on-screen prompts.
+Follow any on-screen prompts. Depending on your printer, it may need to install drivers or be verified by your computer. If so, click through any on-screen prompts as they appear.
+

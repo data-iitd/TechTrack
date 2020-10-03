@@ -1,0 +1,40 @@
+Remove a Background from the Desktop Background List (Windows)
+https://www.wikihow.com/Remove-a-Background-from-the-Desktop-Background-List-(Windows)
+
+0 - Windows XP
+
+1 - Open up My Computer from the Start menu.
+Open up My Computer from the Start menu.
+- Then select Tools then Folder Options
+- 
+- 
+- Click the "View" tab then click "Show Hidden Files and Folders" and click "OK".
+- WH.shared.addScrollLoadItem('0b6e5bae6b884d5c1f812a73272b1335')
+
+2 - Navigate to the C:
+Navigate to the C:\ drive and look for the Windows folder. If you are presented with a warning about modifying system files, click the 'Show files' link to continue.
+
+3 - When you're in the Windows folder, locate and double-click the Web folder
+
+When you're in the Windows folder, locate and double-click the Web folder
+- Then double-click on the "Wallpaper" folder.
+- 
+- 
+- Look for the wallpaper/pictures you want to delete
+- WH.shared.addScrollLoadItem('6eccd03f3cdee41f360b0f5fc1d6df34')
+- 
+- 
+- If you're using Firefox, it may be stored in C:\Documents and Settings\<user name>\Application Data\Mozilla\Firefox
+- WH.shared.addScrollLoadItem('6d33fe3a41317b55de71d09f30d768b4')
+- 
+- 
+- If you're using Internet Explorer, it may be stored in C:\Documents and Settings\<user name>\Application Data\Microsoft\Internet Explorer
+- WH.shared.addScrollLoadItem('8837848149d0986dfadaccaad9ca18ba')
+
+4 - If you still have not found it, go to Start Menu, Search.
+If you still have not found it, go to Start Menu, Search.
+- Click "All files and folders", and enter the name of the background to locate it.
+
+5 - When you have located the file, you can either delete it, or move it to a new folder.
+When you have located the file, you can either delete it, or move it to a new folder.  Try creating a folder called Moved Backgrounds.  If you move the file to this new folder, it will be removed from your list, but still available on your PC should you change your mind.
+

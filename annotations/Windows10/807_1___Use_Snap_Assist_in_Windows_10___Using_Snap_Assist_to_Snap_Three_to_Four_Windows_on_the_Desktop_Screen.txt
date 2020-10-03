@@ -1,0 +1,23 @@
+Use Snap Assist in Windows 10
+https://www.wikihow.com/Use-Snap-Assist-in-Windows-10
+
+0 - Using Snap Assist to Snap Three to Four Windows on the Desktop Screen
+
+1 - Left-click the title bar of the application window you want and hold down the mouse button.
+Left-click the title bar of the application window you want and hold down the mouse button. Assuming that you have more than three windows open at the same time, select one of the application windows you want to snap to a quarter (or one-fourth) of the screen. Left-click the title bar of this window. When you left-click the title bar and hold down the mouse button, it will be resized, and it can be moved around.
+
+2 - Drag the window to one of the four corners of the screen.
+Drag the window to one of the four corners of the screen. When you drag the window to one of the corners, you will see a transparent overlay (or boundary indicator) indicating which quarter of the screen your window will Snap to.
+
+3 - Release the mouse button.
+Release the mouse button. This will Snap the window to a quarter (one-fourth) of the desktop screen. This is called the corner snap. You will notice that Snap Assist will not be activated when you Snap a window to just one quarter of the screen (that is, leftover space is still three-quarters of the screen). Snap Assist will only come into play if the leftover space is half or one quarter of your screen.
+
+4 - Snap another window to another corner.
+Snap another window to another corner. Select another open application window and corner snap it below the first window you corner snapped.
+
+5 - Use Snap Assist to position the third open window to the other half of the screen.
+Use Snap Assist to position the third open window to the other half of the screen. When you corner snap the second window, Snap Assist will be activated. You will see the thumbnail of the other open windows appear in the leftover space. Click the window you want, and it will occupy the leftover half of the screen. You have now snapped three windows to your screen: one occupying half of the screen, and the other two occupying one quarter each of the other side of the screen. If this is the configuration you want then you can stop here.
+
+6 - Do a 2x2 Snap.
+Do a 2x2 Snap. If you want four open windows to occupy each of the four quarters of the screen, continue by corner snapping the window that occupies one half of the screen to the corner beside one of the windows that occupy one-fourth of the screen. This will activate Snap Assist again on the leftover quarter of the screen. Click the thumbnail of the application window you want and you will have four windows occupying each quarter of the screen.
+

@@ -1,0 +1,13 @@
+T5	Software-OS-Related 1036 1041	Start
+A5	isOpened T5 f->t
+T15	Software-OS-Related 1089 1099	search bar
+A9	isOpened T15 f->t
+T14	Hardware-Devices 801 809	computer
+T16	Hardware-Other 546 554	keyboard
+T1	Software-Other 1159 1164	Paint
+A1	isOpened T1 f->t
+T2	Software-Other 1542 1546	Save
+A2	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-Other 1770 1782	Save as type
+R2	SubPart Arg1:T3 Arg2:T1	

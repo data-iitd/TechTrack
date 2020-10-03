@@ -1,0 +1,25 @@
+T1	Software-Other 118 126	festival
+T2	Software-Other 128 134	espeak
+T3	Software-Other 138 145	freetts
+T4	Software-Other 206 214	festival
+A1	isInstalled T4 f->t
+T5	Software-Other 416 423	FestVox
+T6	Software-Other 425 439	MBROLA project
+T7	Software-Other 441 451	CMU Arctic
+T8	Software-Other 455 465	Nitech HTS
+T10	Software-OS-Related 996 1008	command line
+A3	isOpened T10 f->t
+T11	Software-Other 1045 1053	festival
+A4	isOpened T11 f->t
+A7	isInstalled T1 start-F
+A8	isInstalled T2 start-F
+A9	isInstalled T3 start-F
+T16	Software-Other 267 273	espeak
+A10	isInstalled T16 f->t
+T9	Software-Other 710 717	Install
+A2	isInstalled T9 f->t
+T12	Software-Other 370 375	voice
+A11	isInstalled T12 start-T
+R2	SubPart Arg1:T9 Arg2:T12	
+T13	Software-Other 1195 1201	voices
+A5	isOpened T13 f->t

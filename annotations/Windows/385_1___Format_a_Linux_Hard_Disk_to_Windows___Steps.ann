@@ -1,0 +1,9 @@
+T1	Hardware-Devices 185 187	PC
+A1	isUsed T1 true
+T2	Software-OS-Related 163 169	CD-ROM
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1356 1375	Unpartitioned space
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1690 1694	NTFS
+T5	Software-OS-Related 1874 1879	FAT32
+T6	Hardware-Other 136 153	installation disc

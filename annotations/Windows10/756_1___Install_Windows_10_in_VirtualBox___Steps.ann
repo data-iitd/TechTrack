@@ -1,0 +1,14 @@
+T1	Software-Other 275 283	web page
+T2	Software-Other 444 454	VirtualBox
+A1	isOpened T2 f->t
+T3	Software-Other 467 478	new machine
+A2	isOpened T3 f->t
+T4	Software-Other 1222 1228	slider
+T5	Software-Other 1413 1417	Next
+A3	isOpened T5 f->t
+T6	Software-Other 1695 1699	Next
+A4	isOpened T6 f->t
+T7	Software-Other 2177 2183	Create
+A5	isOpened T7 f->t
+T8	Software-Other 2354 2364	VirtualBox
+A6	isOpened T8 f->t

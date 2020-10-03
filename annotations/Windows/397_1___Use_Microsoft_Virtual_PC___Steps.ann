@@ -1,0 +1,12 @@
+T1	Software-Other 104 124	Microsoft Virtual PC
+A1	isInstalled T1 f->t
+T2	Software-Other 550 553	New
+A2	isOpened T2 f->t
+T3	Software-Other 583 614	Create A Virtual Machine Button
+T4	Software-OS-Related 908 924	operating system
+T5	Software-OS-Related 1725 1748	A New Virtual Hard Disk
+T6	Software-Other 2152 2157	Start
+A3	isOpened T6 f->t
+T7	Hardware-Other 2325 2329	disk
+T8	Hardware-Devices 3144 3152	computer
+A4	isUsed T8 true

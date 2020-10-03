@@ -1,0 +1,69 @@
+Remove Shortcut Arrows
+https://www.wikihow.com/Remove-Shortcut-Arrows
+
+0 - Steps
+
+1 - Click the Start Menu icon .
+Click the Start Menu icon . You can also press the ⊞ Win key to open your Start Menu.
+- ;
+
+2 - Search "Regedit" in the search bar.
+Search "Regedit" in the search bar. You might need to click the search icon  to open the search bar first.
+- As you type, you'll see search results populate.
+
+3 - Click regedit.
+Click regedit. It's labeled as "Registry Editor" and an executable app.
+
+4 - Click Yes when prompted.
+Click Yes when prompted. Before the app runs, you'll get a pop-up asking if the program "Registry Editor" can make changes to your device. You'll need to allow this by pressing Yes to continue.
+
+5 - Click  next to "HKEY_LOCAL_MACHINE.
+Click  next to "HKEY_LOCAL_MACHINE." You'll see this folder in the panel on the left side of the window. When you click the expand arrow, you'll see a list of folders that are inside "HKEY_LOCAL_MACHINE."
+
+6 - Click  next to "SOFTWARE.
+Click  next to "SOFTWARE." A list of folders inside "SOFTWARE" will expand down.
+
+7 - Click  next to "Microsoft.
+Click  next to "Microsoft." A list of folders inside "Microsoft" will expand down.
+
+8 - Click  next to "Windows.
+Click  next to "Windows." You'll find this by scrolling down, and a list of folders inside "Windows" will expand down.
+
+9 - Click  next to "CurrentVersion.
+Click  next to "CurrentVersion." A list of folders inside "CurrentVersion" will dropdown.
+
+10 - Click Explorer.
+Click Explorer. A list of folders inside "Explorer" will drop down and you'll see the address bar at the top reflect the navigation to the Explorer file: "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer".
+
+11 - Right-click the Explorer folder.
+Right-click the Explorer folder. A menu will pop up at your cursor.
+
+12 - Hover your mouse over New and click Key.
+Hover your mouse over New and click Key. You're creating a new folder inside the "Explorer" folder.
+
+13 - Name the folder Shell Icons.
+Name the folder Shell Icons. It'll prompt you to name it as soon as you create it, but if you don't, you can always right-click on the new folder (called "New Key #1 by default) and select Rename.
+
+14 - Right-click the Shell Icons folder.
+Right-click the Shell Icons folder. A menu will pop-up at your cursor.
+
+15 - Hover your mouse over New and click String Value.
+Hover your mouse over New and click String Value. This will create a new file in the Shell Icons folder.
+
+16 - Name your file 29.
+Name your file 29. You should now have a default file and a 29 file.
+
+17 - Double-click the 29 file.
+Double-click the 29 file. Another window will open.
+
+18 - Paste the following in the Value Data field:
+Paste the following in the Value Data field: %windir%\System32\shell32.dll,-50.
+
+19 - Click OK.
+Click OK. You'll see this button at the bottom of the window.
+
+20 - Restart your computer.
+Restart your computer. You can go to the Start Menu and press the power icon to select to restart your computer. After your computer restarts, you will no longer see the arrows on the shortcut icons.[1]
+- X
+- Research source
+

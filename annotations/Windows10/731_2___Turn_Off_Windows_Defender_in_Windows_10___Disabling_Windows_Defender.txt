@@ -1,0 +1,59 @@
+Turn Off Windows Defender in Windows 10
+https://www.wikihow.com/Turn-Off-Windows-Defender-in-Windows-10
+
+0 - Disabling Windows Defender
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+
+2 - Open Registry Editor.
+Open Registry Editor. The Registry Editor program allows you to make changes to your computer's core features. To open it, do the following:
+- Type in regedit.
+- Click the blue regedit icon at the top of the Start menu.
+- Click Yes when prompted.
+
+3 - Go to the Windows Defender folder's location.
+Go to the Windows Defender folder's location. You'll do this by expanding each of the necessary folders in the left-hand section of Registry Editor as follows:
+- Expand the "HKEY_LOCAL_MACHINE" folder by double-clicking it (skip this step if the folder is already expanded).
+- Expand the "SOFTWARE" folder.
+- Scroll down and expand the "Policies" folder.
+- Expand the "Microsoft" folder.
+- Click once the "Windows Defender" folder.
+
+4 - Right-click the "Windows Defender" folder.
+Right-click the "Windows Defender" folder. You should see a drop-down menu appear.
+- If your mouse doesn't have a right-click button, click the right side of the mouse, or use two fingers to click the mouse.
+- If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad.
+
+5 - Select New.
+Select New. It's near the top of the drop-down menu. Selecting it prompts a pop-out menu.
+
+6 - Click DWORD (32-bit) Value.
+Click DWORD (32-bit) Value. This option is in the pop-out menu. Clicking it places a blue-and-white file in the "Windows Defender" window on the right side of the page.
+
+7 - Enter "DisableAntiSpyware" as the file name.
+Enter "DisableAntiSpyware" as the file name. When the DWORD file appears, type in DisableAntiSpyware and then press ↵ Enter.[2]
+- X
+- Research source
+
+8 - Open the "DisableAntiSpyware" DWORD file.
+Open the "DisableAntiSpyware" DWORD file. Double-click it to do so. A pop-up window will open.
+
+9 - Replace the "Value data" number with 1.
+Replace the "Value data" number with 1. This essentially turns on the DWORD value.
+
+10 - Click OK.
+Click OK. It's at the bottom of the window.
+
+11 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu. When your computer finishes restarting, Windows Defender will be disabled.
+
+12 - Re-enable Windows Defender when needed.
+Re-enable Windows Defender when needed. If you decide that you want to re-enable Windows Defender in the future, do the following:
+- Go back to the Windows Defender folder in Registry Editor.
+- Click once the "Windows Defender" folder.
+- Open the "DisableAntiSpyware" value by double-clicking it.
+- Change the "Value data" from 1 to 0.
+- Click OK, then restart your computer.
+- Delete the "DisableAntiSpyware" value if you don't want it to be available later.
+

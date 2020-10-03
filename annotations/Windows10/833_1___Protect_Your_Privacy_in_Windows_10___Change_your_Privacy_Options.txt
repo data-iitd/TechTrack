@@ -1,0 +1,151 @@
+Protect Your Privacy in Windows 10
+https://www.wikihow.com/Protect-Your-Privacy-in-Windows-10
+
+0 - Change your Privacy Options
+
+1 - Turn off General Privacy Options.
+Turn off General Privacy Options.
+- Click Start > Settings > Privacy.
+- Click General option on the left.
+- Turn off Advertising ID. A tracking ID which operates independently of your Microsoft Account.
+- Turn off Language list.
+- Turn off App launches, which allows Cortana to look you type or say.
+
+2 - Stop location tracking of your phone.
+Stop location tracking of your phone.
+- Go to Start > Settings > Privacy.
+- Click Location option on the left.
+- Slide Location service to OFF.
+
+3 - Only enable tracking for specific apps if needed.
+Only enable tracking for specific apps if needed.
+- Click Start > Settings > Privacy.
+- Click Location option on the left.
+- Slide Location service to ON.
+- Scroll down to the app list.
+- Turn off tracking individually for all except necessary apps.
+
+4 - Set a Default location if you need the service.
+Set a Default location if you need the service. Windows will automatically give the default location to any app which requests location tracking.
+- Scroll down.
+- Click on the Set default.
+- Go through the Maps app to specify any location.
+
+5 - Clear Location history.
+Clear Location history.
+- Scroll down.
+- Click on Clear.
+
+6 - Turn off app access to camera.
+Turn off app access to camera.
+- Click on Camera on the left pane.
+- Slide the Let apps use my camera to OFF.
+- 
+- 
+- To turn off camera individually for each app, scroll down and slide to Off.
+- WH.shared.addScrollLoadItem('550a5447f5c53dabf1445240c8970590')
+
+7 - Turn off app access to microphone.
+Turn off app access to microphone.
+- Click on Microphone on the left pane.
+- Slide Let apps use my microphone to OFF.
+- 
+- 
+- Turn off microphone individually by sliding app setting to Off.
+- WH.shared.addScrollLoadItem('0047f0c89d4a663a6310704c0cf28967')
+
+8 - The Camera and Microphone settings here only apply to Store apps and have no effect on other Windows programs, Cortana, Windows Hello or the face-scanning logon program.
+The Camera and Microphone settings here only apply to Store apps and have no effect on other Windows programs, Cortana, Windows Hello or the face-scanning logon program.
+
+9 - Turn off app access to Notifications.
+Turn off app access to Notifications. This stops looking and changing your Notifications pane (Action Center) on the right side of the Windows desktop.
+- Click Notifications on the left pane.
+- Slide the Let apps use my notifications to OFF.
+
+10 - Turn off the cloud-based service of Speech, inking & typing.
+Turn off the cloud-based service of Speech, inking & typing.
+- Turn it off to stop Windows from storing and analyzing your voice and handwriting.
+- Turn off speech services and typing suggestions.
+- Click the link to manage cloud, and get rid of your speech info in their cloud.
+
+11 - Turn off Let App access my name, picture, and other account info.
+Turn off Let App access my name, picture, and other account info.
+- Click Account Info.
+- Move the slider to OFF.
+- You'll never find a definitive, official list of what “other info" is.
+
+12 - Turn off Let App access my contacts (xbox, twitter, etc.
+Turn off Let App access my contacts (xbox, twitter, etc.). Mail, Calendar, People and Phone have access to Contacts regardless of the setting.
+- Choose Contacts.
+- Move the slider to OFF.
+- Turn off contact access individually for each app down on the list.
+
+13 - Turn off Let App access to Call History.
+Turn off Let App access to Call History. The Phone app always has access.
+- Choose Call History.
+- Move the slider to OFF.
+- 
+- 
+- Turn off call history access individually for each app down on the list.
+- WH.shared.addScrollLoadItem('4ee92697018f1f740a573e81c6630623')
+
+14 - Turn off Let App access and send email.
+Turn off Let App access and send email. The Mail and Calendar apps always have access to view and send email, but by default People does as well.
+- Click Email.
+- Move the slider to OFF.
+- 
+- Turn off email access individually for each app, scroll down on the list and slide each app’s setting to Off.
+
+15 - Turn off Tasks.
+Turn off Tasks. Mail and Calendar also always get access. Other apps that you install may get on the list.
+- 
+- Click Tasks.
+- Move the slider to OFF.
+
+16 - Turn off Let App read and send messages (text or MMS).
+Turn off Let App read and send messages (text or MMS). You can block all apps except Messaging, from reading/sending text or MMS messages.
+- 
+- Click Messaging.
+- Move the slider to OFF.
+- 
+- 
+- 
+- Turn off messages access individually for each app, scroll down on the list and slide each app’s setting to Off.
+- WH.shared.addScrollLoadItem('e50be82c06dc1d37b80f3c11d6e1b64d')
+
+17 - Turn Off let apps control radios.
+Turn Off let apps control radios. Same idea, but for Bluetooth.
+- 
+- Click Radios.
+- Move the slider to OFF.
+- Turn off messages access individually for each app.
+
+18 - Turn Off Sync with Devices.
+Turn Off Sync with Devices. More of the same, this time for beacons and Xbox, some TVs and projectors.
+- 
+- Click Other devices.
+- Move the slider to OFF.
+
+19 - Send only Basic data and telemetry.
+Send only Basic data and telemetry.
+- Click on Feedback and Diagnostics in left pane.
+- Select Basic which includes 1,966 separate data fields sent to Microsoft every day. There is no proper info on how much data is sent with Full.
+- 
+- 
+- Marisa Rogers in this windows blog told that “71 percent of customers are selecting Full diagnostics data".
+- Turn Off "Let Microsoft provide more tailored experiences with relevant tips and recommendations".
+
+20 - Stop apps from using data and processing power in the background.
+Stop apps from using data and processing power in the background.
+- Click on Background Apps in left pane.
+- Leave Background apps On and turn Off for all apps except Windows Defender Security Center.
+- 
+- 
+- Desktop apps don’t appear in the list, and won’t be affected by the setting.
+
+21 - Stop apps from running diagnostics on other apps and from looking at details about other apps, like their internal names, package names, username, and memory usage.
+Stop apps from running diagnostics on other apps and from looking at details about other apps, like their internal names, package names, username, and memory usage.
+- 
+- Turn App Diagnostics Off.
+- This setting doesn’t affect desktop apps.
+

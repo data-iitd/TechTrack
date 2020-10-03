@@ -1,0 +1,39 @@
+Install an HP Deskjet 3050A
+https://www.wikihow.com/Install-an-HP-Deskjet-3050A
+
+0 - Steps
+
+1 - Go to Hewlett-Packard’s website at http://support.hp.com/us-en/drivers/selfservice/HP-Deskjet-3050A-e-All-in-One-Printer-series---J6/4311836/model/5061081#Z7_3054ICK0KGTE30AQO5O3KA30R1 to access the drivers and software for the HP Deskjet 3050A.
+Go to Hewlett-Packard’s website at http://support.hp.com/us-en/drivers/selfservice/HP-Deskjet-3050A-e-All-in-One-Printer-series---J6/4311836/model/5061081#Z7_3054ICK0KGTE30AQO5O3KA30R1 to access the drivers and software for the HP Deskjet 3050A.
+- ;
+
+2 - Verify that the correct make and model of your computer is displayed next to “Your operating system.
+Verify that the correct make and model of your computer is displayed next to “Your operating system.”
+- Click on “Edit” to select the correct make and model of your computer if HP’s site is displaying the incorrect make and model.
+
+3 - Click on “Download” displayed to the right of “HP Deskjet Full Feature Software and Drivers.
+Click on “Download” displayed to the right of “HP Deskjet Full Feature Software and Drivers.”
+
+4 - Click on “Save File” at the prompt.
+Click on “Save File” at the prompt.
+
+5 - Select the location or folder in which you want your Windows or Mac computer to store the installation file.
+Select the location or folder in which you want your Windows or Mac computer to store the installation file.
+
+6 - Wait for the Deskjet 3050A drivers and software file to download to your computer.
+Wait for the Deskjet 3050A drivers and software file to download to your computer.
+
+7 - Navigate to the file after the download has completed.
+Navigate to the file after the download has completed.
+
+8 - Double-click on the file to begin the installation process.
+Double-click on the file to begin the installation process.
+
+9 - Follow the on-screen prompts to complete installation.
+Follow the on-screen prompts to complete installation. The installation wizard may ask you to agree to terms and conditions, enter a name for the printer, and indicate whether you want a wired or wireless connection.
+
+10 - Click on “Done.
+Click on “Done.” Your HP Deskjet 3050A printer will now be installed and ready for use.[1]
+- X
+- Research source
+

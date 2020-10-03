@@ -1,0 +1,17 @@
+T1	Software-OS-Related 137 150	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 168 181	User Accounts
+T3	Software-OS-Related 296 308	ser Accounts
+A2	isOpened T3 f->t
+T4	Software-OS-Related 421 443	Manage Another Account
+A3	isOpened T4 f->t
+T5	Software-OS-Related 521 539	Add a user account
+A4	isOpened T5 f->t
+T6	Software-OS-Related 696 731	Sign in without a Microsoft account
+A5	isOpened T6 f->t
+T7	Software-OS-Related 859 872	Local Account
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1423 1427	Next
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1489 1495	Finish
+A8	isSettingsChanged T9 true

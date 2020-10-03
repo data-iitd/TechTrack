@@ -1,0 +1,31 @@
+Burn ISO with Toast Titanium
+https://www.wikihow.com/Burn-ISO-with-Toast-Titanium
+
+0 - Steps
+
+1 - Open Toast Titanium
+
+Open Toast Titanium
+- ;
+
+2 - Click on the "Copy" tab.
+Click on the "Copy" tab.
+
+3 - At the top-left corner of the screen there is a drop down menu.
+At the top-left corner of the screen there is a drop down menu. Choose "Image File" from the menu.
+
+4 - Click on Select and browse for your iso file.
+Click on Select and browse for your iso file.
+
+5 - Once you are done selecting your ISO file insert your Blank Disk in the drive.
+Once you are done selecting your ISO file insert your Blank Disk in the drive.
+
+6 - Click on the red "COPY" button at the bottom-right corner of the window.
+Click on the red "COPY" button at the bottom-right corner of the window.
+
+7 - Wait for the process to finish.
+Wait for the process to finish.
+
+8 - That's it.
+That's it. Your ISO file is burned on the DVD.
+

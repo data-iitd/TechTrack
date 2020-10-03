@@ -1,0 +1,44 @@
+Use Siri on a Mac
+https://www.wikihow.com/Use-Siri-on-a-Mac
+
+0 - Installing macOS Sierra
+
+1 - Consider backing up your computer.
+Consider backing up your computer. Before installing a brand-new operating system on your Mac, you may want to back up your files; failure to do so could result in losing your files in the event of an error.
+- ;
+
+2 - Open your Mac's App Store.
+Open your Mac's App Store. You'll find the App Store icon--a white stylized "A" on a blue background--in your dock. MacOS Sierra is free to download and install from the Apple App Store for Mac OS X users who meet the following criteria:[1]
+- X
+- Research source
+- 
+- 
+- Your Mac must be from 2009 or later.
+- Your Mac must be running the Yosemite, Mavericks, or El Capitan version of OS X (if it isn't, you'll need to upgrade before you can install macOS).
+- Your Mac must have at least 2 gigabytes of RAM.
+- Your Mac must have at least 10 gigabytes of free hard drive space to accommodate the download.
+
+3 - Type "macOS Sierra" into the App Store's search bar.
+Type "macOS Sierra" into the App Store's search bar. The search bar should be in the top right corner of your App Store's window.
+- You may also see a link to macOS Sierra in the "Quick Links" section on the right side of your screen, or an "Upgrade Now" banner at the top of the screen. You can click either of these to expedite your process.
+
+4 - Click the "Get" button at the top of your screen.
+Click the "Get" button at the top of your screen. This will begin the download process; you'll need to follow your Mac's on-screen instructions to initiate the download itself.[2]
+- X
+- Research source
+- 
+- You may have to enter your Apple ID and the relevant password in order to begin your download.
+
+5 - Wait for your macOS Sierra download to complete.
+Wait for your macOS Sierra download to complete. Once it does, you should see an installer window pop up.
+
+6 - Follow the installer's instructions.
+Follow the installer's instructions. You'll need to agree to Apple's Terms and Conditions before you can officially install macOS Sierra.
+
+7 - Click "Install" to begin the macOS installation.
+Click "Install" to begin the macOS installation. The installation will default to your Macintosh hard drive.
+- You may have to enter your computer's Administrator password to finalize this process.
+
+8 - Enable Siri.
+Enable Siri. After installing macOS Sierra, you will be asked whether or not you want to enable Siri. Check "Enable Siri on this Mac" and hit continue. Now you'll be able to use Siri right from your desktop!
+

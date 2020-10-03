@@ -1,0 +1,24 @@
+T1	Software-OS-Related 242 250	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 322 369	sudo add-apt-repository ppa:jd-team/jdownloader
+A3	isOpened T2 f->t
+T3	Software-OS-Related 479 487	password
+A4	isOpened T3 f->t
+T4	Software-OS-Related 601 620	sudo apt-get update
+A5	isSettingsChanged T4 true
+T5	Software-Other 834 866	sudo apt-get install jdownloader
+A7	isInstalled T5 f->t
+T6	Software-Other 1014 1015	y
+A8	isOpened T6 f->t
+T7	Software-OS-Related 1172 1180	Terminal
+A9	isOpened T7 t->f
+T8	Software-Other 1416 1432	JDownloader icon
+A10	isOpened T8 f->t
+T9	Software-Other 1666 1674	language
+A11	isSettingsChanged T9 true
+A12	isOpened T9 f->t
+T10	Software-Other 1769 1823	do you want to integrate JDownloader to Firefox or not
+A13	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T8	
+R2	SubPart Arg1:T9 Arg2:T8	
+R3	SubPart Arg1:T4 Arg2:T1	

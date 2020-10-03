@@ -1,0 +1,30 @@
+Install Android on Ubuntu Linux with Eclipse IDE
+https://www.wikihow.com/Install-Android-on-Ubuntu-Linux-with-Eclipse-IDE
+
+0 - 
+
+1 - Type_Copy_Paste:
+Type/Copy/Paste: sudo -s /usr/local/eclipse/eclipse
+- this will install the ADT plugin tool for all users on the system
+
+2 - Install the ADT Plugin for Eclipse, the ADT is a plugin for the Eclipse IDE.
+Install the ADT Plugin for Eclipse, the ADT is a plugin for the Eclipse IDE. Before you can install or use ADT, you must have a compatible version of Eclipse installed on your development computer. Start Eclipse, then select Help > Install New Software. Click Add, in the top-right corner. In the Add Repository dialog that appears, enter "ADT Plugin" for the Name and the following URL for the Location
+
+3 - Type_Copy_Paste:
+Type/Copy/Paste: https://dl-ssl.google.com/android/eclipse/
+- Click OK
+- Note: If you have trouble acquiring the plugin, try using "http" in the Location URL, instead of "https" (https is preferred for security reasons)
+
+4 - In the Available Software dialog, select the checkbox next to Developer Tools and click Next.
+In the Available Software dialog, select the checkbox next to Developer Tools and click Next. In the next window, you'll see a list of the tools to be downloaded and Click Next. Read and accept the license agreements, then click Finish.
+- Note: If you get a security warning saying that the authenticity or validity of the software can't be established, click OK.
+
+5 - When the installation completes, restart Eclipse.
+When the installation completes, restart Eclipse. Configuring the ADT Plugin, after you've successfully downloaded the ADT as described above, the next step is to modify your ADT preferences in Eclipse to point to the Android SDK directory:
+- Select Window > Preferences... to open the Preferences panel
+- Select Android from the left panel. You may see a dialog asking whether you want to send usage statistics to Google. If so, make your choice and click Proceed. You cannot continue with this procedure until you click Proceed.
+
+6 - For the SDK Location in the main panel, click Browse.
+For the SDK Location in the main panel, click Browse... and locate your downloaded SDK directory, which should be /opt/android-sdk-linux
+- Click Apply, then OK.
+

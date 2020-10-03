@@ -1,0 +1,14 @@
+T1	Software-OS-Related 119 124	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 127 130	Run
+A2	isOpened T2 f->t
+T3	Software-OS-Related 133 140	regedit
+A3	isOpened T3 f->t
+T8	Software-OS-Related 242 257	Keyboard Layout
+A8	isOpened T8 f->t
+T9	Software-OS-Related 397 400	New
+A9	isOpened T9 f->t
+T10	Software-OS-Related 403 415	Binary Value
+A10	isOpened T10 f->t
+T4	Software-OS-Related 730 737	regedit
+A4	isOpened T4 t->f

@@ -1,0 +1,32 @@
+T1	Software-OS-Related 674 679	Start
+A1	isOpened T1 f->t
+T2	Software-Other 951 958	Regedit
+A2	isOpened T2 f->t
+T3	Software-Other 1308 1316	SOFTWARE
+A3	isOpened T3 f->t
+T4	Software-Other 1184 1202	HKEY_LOCAL_MACHINE
+A4	isOpened T4 f->t
+T5	Software-Other 1480 1483	New
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T3 Arg2:T4	
+T6	Software-Other 1390 1395	Intel
+A6	isOpened T6 f->t
+T7	Software-Other 1902 1905	GMM
+A7	isOpened T7 f->t
+R2	SubPart Arg1:T6 Arg2:T3	
+T8	Software-Other 1618 1621	Key
+A8	isOpened T8 f->t
+R4	SubPart Arg1:T8 Arg2:T5	
+R5	SubPart Arg1:T7 Arg2:T6	
+T9	Software-Other 2017 2020	New
+A9	isOpened T9 f->t
+T11	Software-Other 2471 2491	DedicatedSegmentSize
+A11	isOpened T11 f->t
+T12	Software-Other 3079 3081	Ok
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 3604 3609	Start
+A13	isOpened T13 f->t
+T14	Software-OS-Related 3696 3703	Restart
+A14	isSettingsChanged T14 true
+T10	Software-Other 2081 2101	DWORD (32 Bit) Value
+A10	isOpened T10 f->t

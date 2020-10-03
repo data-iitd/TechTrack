@@ -1,0 +1,39 @@
+Open an MPP File on PC or Mac
+https://www.wikihow.com/Open-an-MPP-File-on-PC-or-Mac
+
+0 - Opening an MPP with Project Viewer 365
+
+1 - Navigate to https:__www.projectplan365.com_download_.
+Navigate to https://www.projectplan365.com/download/.
+- This method will download Project Plan 365 with a Trial period which lasts 30 days. After that is over, you will be unable to use the program.
+- With Project Plan 365, you can edit MPP files as well as view them.
+
+2 - Click Windows or MacOS from the drop-down menu.
+Click Windows or MacOS from the drop-down menu. This is under “Select your operating system:”
+
+3 - Click the green Download Project Plan 365 button.
+Click the green Download Project Plan 365 button. A pop-up box will appear for the download location and file name change.
+
+4 - Click Ok.
+Click Ok.
+
+5 - Follow the Installer Setup Wizard.
+Follow the Installer Setup Wizard. It will lead you through setting up and installing Project Plan 365.
+- Read any and all agreements before clicking I agree.
+
+6 - Click Install.
+Click Install. You will see a progress bar as the installation progresses.
+
+7 - Click File.
+Click File. A menu will drop down.
+
+8 - Click Open.
+Click Open. A list of locations will appear, such as your local storage and your Google Drive.
+
+9 - Select a location.
+Select a location.
+
+10 - Navigate to your file and open it.
+Navigate to your file and open it.
+- Your MPP file will load for you to read.
+

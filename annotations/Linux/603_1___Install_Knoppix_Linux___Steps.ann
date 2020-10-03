@@ -1,0 +1,19 @@
+T1	Software-Other 109 116	Knoppix
+T2	Software-Other 162 177	Knoppix Website
+T6	Software-Other 1391 1398	ImgBurn
+T7	Software-Other 1374 1387	InfraRecorder
+T9	Software-OS-Related 1438 1444	reboot
+T10	Hardware-Other 1450 1458	computer
+T11	Hardware-Other 1468 1472	disc
+T12	Software-Other 1611 1618	Knoppix
+T13	Software-OS-Related 1871 1875	menu
+A1	isOpened T13 f->t
+T14	Software-OS-Related 2096 2103	Knoppix
+A3	isInstalled T1 start-F
+A4	isOpened T2 f->t
+A5	isInstalled T2 start-F
+A6	isInstalled T7 start-T
+A7	isInstalled T6 start-T
+T3	Hardware-Other 1000 1004	disc
+A2	isOpened T12 f->t
+A8	isInstalled T12 f->t

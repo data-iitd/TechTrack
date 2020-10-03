@@ -1,0 +1,66 @@
+Optimize Your PC Performance
+https://www.wikihow.com/Optimize-Your-PC-Performance
+
+0 - Optimizing Windows 7 PC Performance
+
+1 - Clean up your hard disk.
+Clean up your hard disk. Use a program such as Disk Cleanup to remove temporary files, system files and a variety of other files that you no longer use.
+- Open the Start menu.
+- In the Search box, type cleanmgr.
+- Click the Cleanmgr program.
+- Specify the drive you would like the program to clean up.
+- Click OK. This will start the process.
+
+2 - Run the Performance troubleshooter.
+Run the Performance troubleshooter. This program repairs performance issues related to your Windows PC and speeds up slow computers.
+- Click the Start button.
+- Click on “Control Panel”.
+- Under “System and Security”, click “Find and Fix Problems”.
+- Click “Check for performance issues”.
+- A Performance Wizard window pops up. Click “Next” and wait for it to diagnose the problem.
+- In the event that the troubleshooter recommends that you check programs to tweak PC performance, click “Next”.
+- Clicking the “View detailed information” lets you access the detailed troubleshooting report.
+- If you wish to close the wizard, you simply need to click “Close”.
+
+3 - Uninstall and delete unused programs.
+Uninstall and delete unused programs. Unused programs can end up taking a lot of space on your computer, thereby reducing its performance, over a period of time. It is advisable to delete such programs.
+- Click the Start button.
+- Click on “Control Panel”.
+- Under “Programs”, click “Uninstall a program”. This will bring up a list of all your programs.
+- Click the program you wish to remove and click “Uninstall”. You will find this tab on the top of the menu.
+
+4 - Limit programs at startup.
+Limit programs at startup. Many programs are designed to run automatically at startup. While this is convenient for programs you use often, unnecessary software running at startup could guzzle down memory, eventually slowing down your PC. You can manage startup programs in several ways.
+- Press Win-r on the desktop.
+- In the “Open” field, type msconfig.
+- Press Enter.
+- Click Startup.
+- Uncheck the items which you do not want to launch at startup.
+- Once you are done, click OK.
+- In the popup box that appears next, click Restart. This will restart your computer, to finish the process.
+
+5 - Defragment your hard disk.
+Defragment your hard disk. Regularly defragmenting your hard drive organizes the files in your computer, creating more space in the drive. Disk Defragmenter is a great built-in tool, designed for this purpose.
+- Click the Start button.
+- In the Search box, type Disk Defragmenter.
+- Click Disk Defragmenter.
+- Under Current status, select the disk you wish to defragment.
+- Click Analyze disk. This will let you know if you need to defragment that particular disk.
+- After Windows is done analyzing the disk, it shows you the percentage of fragmentation on the disk. If that number is above 10 percent, you should defragment the disk.
+
+6 - Run fewer programs at a given time.
+Run fewer programs at a given time. Keeping too many programs open at one and the same time can bring down your PC’s performance. Try to work with fewer programs at the same time.
+- Press Ctrl+Shift+Esc to open the Task Manager.
+- Click Processes. This will let you see the list of processes running on your PC.
+- Scroll down to view the entire list of programs.
+- Check the name and description of each program to identify it.
+- Check the Memory column to see how much memory is being consumed by each process.
+- Right-click on any active process and choose “End process”. This will close the program.
+
+7 - Run only one antivirus program.
+Run only one antivirus program. Running two or more antivirus programs could slow down your computer over a period of time.
+- The Windows Action Center will usually notify you if you are running more than one antivirus program.
+
+8 - Regularly restart your PC.
+Regularly restart your PC. Restart your computer at least one a week. This helps clear memory and properly shuts down all programs running in the background; with or without your knowledge.
+

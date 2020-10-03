@@ -1,0 +1,49 @@
+Install Puppy Linux
+https://www.wikihow.com/Install-Puppy-Linux
+
+0 - Booting Into Puppy Linux
+
+1 - Download the ISO file from http:__puppylinux.com_index.html#download.
+Download the ISO file from http://puppylinux.com/index.html#download. The latest official images can always be found at this location. The "Compatibility" column tells you which distribution's packages and components are incorporated in that image of Puppy Linux.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Create a bootable CD, DVD, or USB drive.
+Create a bootable CD, DVD, or USB drive. To install Puppy Linux, you'll first need to boot from ISO image you just downloaded. This means you'll need to create a bootable CD, DVD, or USB drive containing the ISO file.[2]
+- X
+- Research source
+- 
+- 
+- CD/DVD: To burn an optical disc in Windows 10, right-click the downloaded ISO file and select Burn disc image.[3]
+- X
+- Research source
+- 
+-   If you're using Linux, you can use any disc burning software, such as Brasero, to burn the image—just make sure you burn the disc as an image, not as a data disc.
+- USB: Creating a bootable USB drive will erase all of the data on the drive, so make sure you back up your data. If you're using Ubuntu, use Startup Disk Creator.[4]
+- X
+- Research source
+- 
+-  Windows users can use a free, open-source app called Rufus.
+
+3 - Boot from the image.
+Boot from the image. Once you've created your boot disc or drive, reboot your computer so that it boots from the disc or drive into Puppy Linux. After several dark screens with text, you will see the Puppy Linux desktop and a Quick Setup window. 
+- If the computer boots back up to your normal operating system, you'll need to go into the system BIOS and give the optical and/or USB ports priority over the hard drive.  See How to Enter BiOS to learn how to boot into the BIOS.
+
+4 - Choose your settings and click OK.
+Choose your settings and click OK. If you want to change the language, time zone, or other settings, you can do so now. If not, just click the X at the top-right corner of the window to close it.
+
+5 - Save your session (optional).
+Save your session (optional). If you just want to play around with Puppy Linux and not install it, feel free to do so. Since the operating system runs entirely in RAM, all of your changes and actions will be deleted when you shut down your PC. If you choose not to install Puppy Linux but want to save the changes you've made to the operating system, follow these steps to do so:[5]
+- X
+- Research source
+- 
+- When you're ready to log out, go to Menu > Shut Down > Reboot Computer.
+- Click SAVE on the pop-up window.
+- Select a file system and click OK.
+- Type a name for the saved session and click OK.
+- Select Normal if you don't need to encrypt the file (common), or select an encryption method and then follow the on-screen instructions.
+- Select a save file size and click OK. 512MB usually works just fine.
+- If the current save location works for you, click YES, SAVE. If not, click CHANGE FOLDER and select a different location. It's fine to save to your bootable installation media (even the CD/DVD, if it's re-writable). Once the file is saved, the computer will reboot.
+

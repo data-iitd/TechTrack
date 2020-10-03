@@ -1,0 +1,23 @@
+T1	Software-OS-Related 147 157	Apple logo
+A1	isOpened T1 f->t
+T2	Software-OS-Related 268 286	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 381 385	Siri
+A3	isOpened T3 f->t
+T4	Software-OS-Related 650 680	checkbox next to "Enable Siri"
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 965 973	Language
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1153 1163	Siri Voice
+A6	isSettingsChanged T6 true
+A7	isSettingsChanged T5 true
+T7	Software-OS-Related 1422 1444	box next to "Mic input
+A8	isSettingsChanged T7 true
+T8	Software-OS-Related 1856 1873	Keyboard Shortcut
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 1927 1939	Customize...
+A10	isSettingsChanged T9 true
+R1	SubPart Arg1:T5 Arg2:T3	
+R2	SubPart Arg1:T6 Arg2:T3	
+R3	SubPart Arg1:T7 Arg2:T3	
+R4	SubPart Arg1:T8 Arg2:T3	

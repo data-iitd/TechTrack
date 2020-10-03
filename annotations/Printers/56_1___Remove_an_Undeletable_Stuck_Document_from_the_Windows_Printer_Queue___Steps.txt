@@ -1,0 +1,37 @@
+Remove an Undeletable Stuck Document from the Windows Printer Queue
+https://www.wikihow.com/Remove-an-Undeletable-Stuck-Document-from-the-Windows-Printer-Queue
+
+0 - Steps
+
+1 - Turn off your printer from the printer itself and make sure the power cords are properly inserted into the printer and into the printer/USB port on your computer.
+Turn off your printer from the printer itself and make sure the power cords are properly inserted into the printer and into the printer/USB port on your computer.  Sometimes, this will clear up the problem without any other adjustments being made. If the printer it networked wirelessly, you will just need to turn it off and unplug the power cord from the outlet for 30-60 seconds instead.
+- ;
+
+2 - Right-click the Computer/My Computer box, from your Windows operating system and select the "Manage" option from the context menu that results.
+Right-click the Computer/My Computer box, from your Windows operating system and select the "Manage" option from the context menu that results.
+
+3 - Grant your computer access to the "Computer Management Snapin Launcher" tool from the User Account Control box that displays if your computer is Windows Vista or newer.
+Grant your computer access to the "Computer Management Snapin Launcher" tool from the User Account Control box that displays if your computer is Windows Vista or newer.
+
+4 - Double-click the Services and Applications selection from the Name column followed by the "Services" item.
+Double-click the Services and Applications selection from the Name column followed by the "Services" item.
+
+5 - Scroll and click on the Print Spooler item in the list of services your computer is using.
+Scroll and click on the Print Spooler item in the list of services your computer is using. The list of printer services will most-often be immense and unruly, but with careful looking, you'll find it rather quickly.
+
+6 - Right-click the "Properties" option and click the "Stop" button.
+Right-click the "Properties" option and click the "Stop" button. This button should be located underneath the label called "Service status" along with the status of "Started". Wait a few seconds for this service to stop.
+- Once you have stopped the Print Spooler, you may want to leave that window open.  It will help remind you at the very end to turn the Print Spooler back on.
+
+7 - Delete all documents that exist in the C:\Windows|System32\spool\PRINTERS folder using your computer's Windows Explorer (folder tree) list folder.
+Delete all documents that exist in the C:\Windows|System32\spool\PRINTERS folder using your computer's Windows Explorer (folder tree) list folder. This folder is the log of spooled and unprinted documents waiting to be printed. Use the Run command (⊞ Win+R) to open the folder. Once cleared, close this folder and don't open this folder until the next time the problem arises.
+
+8 - Restart the Print Spooler service from the Print Spooler Properties box and click the "OK" button to confirm you'd like to restart the service.
+Restart the Print Spooler service from the Print Spooler Properties box and click the "OK" button to confirm you'd like to restart the service.
+
+9 - Close the "Computer Management" dialog box.
+Close the "Computer Management" dialog box.
+
+10 - Re-run a test printable document.
+Re-run a test printable document.
+

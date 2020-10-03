@@ -1,0 +1,29 @@
+Install Windows 10
+https://www.wikihow.com/Install-Windows-10
+
+0 - Installing
+
+1 - Click Next when prompted.
+Click Next when prompted. You can also change the options on this page (e.g., the setup language) before continuing if need be.
+
+2 - Click Install Now.
+Click Install Now. It's in the middle of the window.
+
+3 - Enter your Windows 10 key, then click Next.
+Enter your Windows 10 key, then click Next. If you don't have a Windows 10 key, instead click Skip in the bottom-right corner of the screen.
+
+4 - Click the "Accept" box and click Next.
+Click the "Accept" box and click Next. This will indicate that you accept the terms of use.
+
+5 - Click Upgrade.
+Click Upgrade. It's at the top of the "Which type of installation do you want?" window. This option installs Windows 10 while preserving your files, apps, and settings.
+- You can click Custom instead to clean install Windows 10 on your computer. Doing so will prompt you to select a partition to format before continuing.
+
+6 - Wait for Windows 10 to install.
+Wait for Windows 10 to install. This process may take anywhere from half an hour to several hours, depending on your computer's previous operating system and processing speed.
+- If prompted to press a key in order to boot from a CD, do not press a key.
+
+7 - Follow the on-screen setup instructions.
+Follow the on-screen setup instructions. Once Windows 10 has been installed on your computer, you'll be able to customize its settings (e.g., your region, your preferred language, location settings, etc.). Once you finish this process, you will be taken to your computer's desktop.
+- You can also click Express Settings to set up Windows 10 with the recommended settings.
+

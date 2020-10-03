@@ -1,0 +1,20 @@
+Enable the Windows Subsystem for Linux
+https://www.wikihow.com/Enable-the-Windows-Subsystem-for-Linux
+
+0 - Enabling Developer Mode
+
+1 - Click the  Home button at the top-left of the Settings app.
+Click the  Home button at the top-left of the Settings app.
+
+2 - Click on Update & security.
+Click on Update & security.
+
+3 - Click on For Developers on the left pane.
+Click on For Developers on the left pane. It's second from the bottom of the list.
+
+4 - Click on the radio button next to "'Developer Mode".
+Click on the radio button next to "'Developer Mode".
+
+5 - Confirm the warning.
+Confirm the warning. Windows 10 will display a warning for all of the implications that should be considered before turning Developer Mode on. Carefully read through all of these warnings and then press the Yes button.
+

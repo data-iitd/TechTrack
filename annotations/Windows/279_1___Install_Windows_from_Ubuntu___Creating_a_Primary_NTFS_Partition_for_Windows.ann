@@ -1,0 +1,16 @@
+T1	Software-Other 1422 1433	File System
+A1	isOpened T1 f->t
+T2	Software-Other 597 604	Gparted
+A2	isOpened T2 f->t
+T3	Software-Other 676 687	Right-click
+A3	isOpened T3 f->t
+T4	Software-Other 739 750	Resize_Move
+A4	isOpened T4 f->t
+T5	Software-Other 1285 1294	Create as
+A5	isOpened T5 f->t
+T6	Software-Other 1675 1678	Add
+A6	isSettingsChanged T6 true
+T7	Software-Other 1768 1779	mark button
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T1 Arg2:T4	

@@ -1,0 +1,51 @@
+Optimize Your PC Performance
+https://www.wikihow.com/Optimize-Your-PC-Performance
+
+0 - Optimizing Windows 8 PC Performance
+
+1 - Disable animations.
+Disable animations. Animations, which are so much part of Windows 8, can cause a sort of time lag, while moving from screen to screen. To disable animations, do the following:
+- Click the Windows key.
+- Type “System Performance Properties”.
+- Click “Enter”.
+- Uncheck the “Animate windows” box.
+- Disable some other animations, if you so wish.
+
+2 - Determine which apps use the most resources.
+Determine which apps use the most resources. You can use Task Manager to find out which programs use the most resources.
+- Right-click the desktop taskbar.
+- Select “Task Manager”.
+- Click “More details” in case wish to see the full interface.
+- Apps using up a lot of resources will be highlighted.
+
+3 - Change power settings.
+Change power settings. Windows offers you a Power Plan and Settings Tool, which you can use to optimize the amount of power consumed by your PC. These plans help your computer save energy, to offer maximum performance.
+- Click on the battery icon. This is visible on the taskbar of your PC.
+- Choose “More power options”.
+- Select from three plans, namely, Balanced (this offers full performance and saves power while inactive), Power Saver (saves power by reducing system performance) and High Performance (maximizes performance and responsiveness).
+- You can change your plan by clicking the Change Plan Settings link.
+- To configure an Existing Plan, you can select/change the SLEEP and DISPLAY power plan settings.
+- To create a Custom Plan, you have to go to the “Create a Power Plan” window. Give it a name and click “Next”. Then go about configuring your settings.
+
+4 - Change Windows indexing.
+Change Windows indexing. Windows 8 maintains and constantly updates files and folders to return quicker search results. While this is convenient, keeping information that you do not need often, could eventually end up slowing down your PC. Here is how you can disable indexing:
+- Click on Start.
+- Type Indexing. Next, you will see the currently indexed locations.
+- Click the Modify button.
+- Uncheck the locations that you do not want indexed.
+- To turn off indexing on a drive, open Computer and right-click on your local drive.
+- On the General tab, uncheck the box that says, “Allow files on this drive to have contents indexed”.
+- Choose all the folders and subfolders which you do not want indexed.
+- Restart your computer for the changes to take effect.
+
+5 - Optimize your PC’s hard drives.
+Optimize your PC’s hard drives. In Windows 8, he Disk Defragmenter has been named as “Optimize Drives”. Here is how you can optimize your PC’s hard drives:
+- Click on the Charms Bar.
+- Click “Optimize Drives”. This will open a new dialog box, displaying the list of drives.
+- Select a drive of your choice.
+- Click on Optimize. This starts the defragmentation process.
+- You can schedule this process to run automatically.
+- Click Change Settings.
+- Select the “Run on a Schedule” checkbox.
+- Click OK to save your schedule.
+

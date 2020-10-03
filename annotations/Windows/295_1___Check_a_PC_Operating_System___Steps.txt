@@ -1,0 +1,45 @@
+Check a PC Operating System
+https://www.wikihow.com/Check-a-PC-Operating-System
+
+0 - Steps
+
+1 - Turn on your PC.
+Turn on your PC. Watch as the computer starts up.
+- ;
+
+2 - Check whether your operating system name, such as "Windows Vista," is displayed.
+Check whether your operating system name, such as "Windows Vista," is displayed. If you do not see your operating system or want more details about it, let your computer finish starting up.
+
+3 - Click the "Start" button if there is one.
+Click the "Start" button if there is one. It is found in the lower left corner of the Desktop. A "Start" button means you have the Windows 95 OS or later.
+- If you do not have a "Start" button, look for other indicators that show what operating system you have.
+- A Microsoft Windows logo or flag may mean you have a version of Windows that predates Windows 95, such as Windows 3.11.
+- If you see a red hat in a corner of your screen, you are running the Red Hat Linux operating system.
+- If you see a green or blue "L" in a screen corner, you have Lindows or Linspire.
+- A gray or black footprint in a screen corner indicates you are using a graphical user interface (GUI) called GNU Network Object Model Environment (GNOME) on a form of Linux or UNIX.
+- The Sun Solaris operating system is being used with X, a graphics system for UNIX, if you have a purple background with "Sun" or "Solaris" being visually indicated on your screen.
+
+4 - See if there is text written down the side of the "Start" menu.
+See if there is text written down the side of the "Start" menu. The text may name your PC's operating system and edition such as "Windows 95," "Windows 2000 Professional," "Windows XP Home," etc.
+- If you are not sure if the text shown is the name of your operating system or you want more information on the OS, try 1 of the options below.
+
+5 - Type "winver" without quotation marks in the "Start" menu's search box, then press "Enter.
+Type "winver" without quotation marks in the "Start" menu's search box, then press "Enter."
+- You may need to choose "Run" in the "Start" menu, then type in "winver" without quotation marks. Press "Enter."
+
+6 - Look for an "About Windows" window to appear.
+Look for an "About Windows" window to appear. The name of the OS should be in the top portion of the window.
+- The version number of the operating system will be shown after the word "Version" and any service pack that has been installed as an upgrade will be displayed in parentheses. An example would be "Version 6.0 (Build 6001: Service Pack 1)."
+
+7 - Right click the "My Computer" icon as an alternative.
+Right click the "My Computer" icon as an alternative. It can usually be found on your Desktop or in your "Start" menu.
+
+8 - Select "Properties" from the menu that appears.
+Select "Properties" from the menu that appears.
+
+9 - Look at the "System Properties" window that displays.
+Look at the "System Properties" window that displays. More detailed information on your operating system can be found under the "General" tab after "System:" or "System type," such as whether you are running a 64-bit or 32-bit version of Windows.
+- See what operating system edition you are running near the top of the window under "System:" or "Windows edition." An example is "Windows XP Home."
+- If running an edition of Windows XP, look for "x64 Edition" to see if you have the 64-bit version. If it is not there, you have the 32-bit version.
+- For an edition of Windows Vista or Windows 7, look for "64-bit Operating System" or "32-bit Operating System" next to the words "System type."
+

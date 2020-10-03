@@ -1,0 +1,32 @@
+Create a New Local User Account in Windows 10
+https://www.wikihow.com/Create-a-New-Local-User-Account-in-Windows-10
+
+0 - 
+
+1 - Open Control Panel, and navigate to User Accounts.
+Open Control Panel, and navigate to User Accounts.
+
+2 - If you were in category view, you will need to click User Accounts one more time.
+If you were in category view, you will need to click User Accounts one more time.
+
+3 - Click "Manage Another Account".
+Click "Manage Another Account". You may be prompted by UAC.
+
+4 - Click "Add a user account" below the box with the existing accounts.
+Click "Add a user account" below the box with the existing accounts.
+
+5 - At the bottom of the pop-up, click "Sign in without a Microsoft account (not recommended)".
+At the bottom of the pop-up, click "Sign in without a Microsoft account (not recommended)".
+
+6 - Click "Local Account" at the bottom of the popup.
+Click "Local Account" at the bottom of the popup.
+
+7 - Enter a Username, Password, and Password Hint.
+Enter a Username, Password, and Password Hint. If you are creating a password, you will need to confirm your password in the Reenter password box. You can also create a password hint. The password hint will be displayed after one incorrect password attempt. If you don't want a password hint, leave that box blank. If you don't want a password at all, only fill in the username box and leave the rest blank. Click "Next" at the bottom of the popup when you are done.
+
+8 - Click "Finish" at the bottom of the popup.
+Click "Finish" at the bottom of the popup.
+
+9 - Switch over to your new account.
+Switch over to your new account. Enter your new password if you have one. You will need to wait a few moments for your account to be prepared for first use. After this is completed, your new account is ready to use!
+

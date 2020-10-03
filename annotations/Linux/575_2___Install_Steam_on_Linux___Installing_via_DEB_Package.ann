@@ -1,0 +1,13 @@
+T1	Software-OS-Related 119 127	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 318 351	sudo dpkg --add-architecture i386
+T3	Software-OS-Related 496 511	sudo apt update
+T4	Software-OS-Related 666 740	sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386
+T5	Software-OS-Related 852 924	cd _tmp && wget http:__media.steampowered.com_client_installer_steam.deb
+T6	Software-Other 1040 1057	Steam DEB package
+T7	Hardware-Other 1066 1074	computer
+T8	Software-OS-Related 1096 1116	sudo gdebi steam.deb
+T9	Software-Other 1176 1185	Steam app
+A2	isInstalled T9 f->t
+T10	Software-Other 1204 1215	DEB package
+A3	isOpened T9 f->t

@@ -1,0 +1,15 @@
+T1	Software-Other 267 296	aptitude install dhcp3-server
+A1	isOpened T1 f->t
+T2	Software-Other 459 463	eth0
+A2	isSettingsChanged T2 true
+T3	Software-Other 982 1005	Restart the DHCP server
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T4	Software-Other 750 785	DHCP server's configuration as root
+T5	Software-Other 829 862	Copy and paste the following code
+A5	isSettingsChanged T5 true
+A6	isSettingsChanged T4 true
+T6	Software-Other 807 818	text editor
+A7	isOpened T6 f->t
+R2	SubPart Arg1:T4 Arg2:T6	
+R3	SubPart Arg1:T5 Arg2:T6	

@@ -1,0 +1,49 @@
+Install Chromium OS
+https://www.wikihow.com/Install-Chromium-OS
+
+0 - Installing Chromium OS to a Computer Using CloudReady
+
+1 - Download and install CloudReady from https:__www.neverware.com_freedownload_.
+Download and install CloudReady from https://www.neverware.com/freedownload/. CloudReady is the easiest method to install Chromium OS on your computer, and the links to download are under step 2. You'll need to download the correct version for the OS you're currently using.
+- For example, if you're using a Windows 10 machine, you'll need to click the Download USB Maker button.
+- If you're using a Mac, click either the 32-bit or 64-bit download button, then go to https://guide.neverware.com/build-installer/working-mac-os/#download-cloudready to follow the instructions for installing CloudReady.
+- If you're having issues downloading CloudReady, you might need to update your BIOS, erase your disk, or disable fast boot and secure boot on your Linux.
+- ;
+
+2 - Download Etcher from https:__www.balena.io_etcher_.
+Download Etcher from https://www.balena.io/etcher/. You'll want to click the green download button to change the download version if you need to.
+- Etcher helps you flash OS images to SD cards & USB drives.
+- Install Etcher once it downloads by running the Installer wizard and either following the on-screen prompts (Windows) or by dragging and dropping the program icon into the Applications folder (Mac).
+
+3 - Flash CloudReady to USB drive.
+Flash CloudReady to USB drive. You can find Etcher in your Start Menu or Applications folder.
+- Select Select Image and choose the CloudReady downloaded file.
+- Select Select Drive and choose the formatted USB drive.
+- Select Flash! and the process will begin. It might take around 10 minutes to completely flash CloudReady onto the USB, but make sure Etcher says it's 100% completed before you close the program.
+
+4 - Restart your computer and boot from the USB drive.
+Restart your computer and boot from the USB drive. This can usually be done using a keyboard command such as F12 (Windows)]or Opt (Mac) while your computer is rebooting.
+- If you're using Windows and can't boot from the USB drive, see this wikiHow to learn how to check (and change) the boot order.
+
+5 - Log in as a guest.
+Log in as a guest. Even if you are prompted to log in with your Google account, you can find the guest login at the bottom left corner of your screen.
+
+6 - Press Ctrl+Alt+F2 (Windows) or Ctrl+⌘ Cmd+F2 (Mac).
+Press Ctrl+Alt+F2 (Windows) or Ctrl+⌘ Cmd+F2 (Mac). A Terminal/command line prompt will open.
+
+7 - Enter sudo _usr_sbin_chromeos-install --dst _dev_sda.
+Enter sudo /usr/sbin/chromeos-install --dst /dev/sda. This command will install Chrome OS to your computer's storage drive.[1]
+- X
+- Research source
+- 
+- 
+- This command will erase everything on your hard drive and install Chromium OS.
+- If you're prompted for a username and password, use "chronos" as your login and "chrome" as the password.
+
+8 - Enable Proprietary Services for Netflix.
+Enable Proprietary Services for Netflix. By default, CloudReady does not include support for Flash or DRM protection schemes like Wildvine. To install these, open Settings and navigate to Plugins. Press Install next to Wildvine Content Decryption Module, Adobe Flash, and Proprietary Media Components.[2]
+- X
+- Research source
+- 
+- If you're running into issues, you can always go to the CloudReady troubleshooting page for answers.
+

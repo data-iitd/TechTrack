@@ -1,0 +1,38 @@
+T1	Software-Other 100 104	DBAN
+T2	Software-Other 385 393	dban.org
+T3	Hardware-Other 580 584	DBAN
+T4	Hardware-Other 596 599	DVD
+T5	Hardware-Other 603 605	CD
+T6	Hardware-Other 858 866	computer
+T7	Hardware-Other 884 893	DBAN disc
+T8	Software-OS-Related 870 874	boot
+T9	Software-OS-Related 1035 1044	Windows 7
+T10	Software-OS-Related 1220 1229	BOOT menu
+A1	isOpened T10 f->t
+T11	Software-OS-Related 1243 1256	optical drive
+A2	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T10	
+T12	Software-OS-Related 1287 1296	Windows 8
+T13	Software-OS-Related 1321 1326	Power
+T14	Software-OS-Related 1357 1361	menu
+T15	Software-OS-Related 1386 1393	Restart
+T16	Software-OS-Related 1414 1430	Advanced startup
+A3	isOpened T16 f->t
+T17	Software-OS-Related 1450 1462	Troubleshoot
+A4	isOpened T17 f->t
+T18	Software-OS-Related 1481 1497	Advanced options
+A5	isOpened T18 f->t
+T19	Software-OS-Related 1507 1529	UEFI Firmware Settings
+T20	Software-OS-Related 1576 1589	optical drive
+A6	isSettingsChanged T20 true
+T21	Software-OS-Related 1556 1565	BOOT menu
+R2	SubPart Arg1:T20 Arg2:T21	
+T22	Software-Other 1631 1635	DBAN
+A7	isOpened T22 f->t
+T23	Software-OS-Related 1794 1799	drive
+T24	Software-Other 2207 2230	DBAN's default settings
+T25	Hardware-Other 2169 2173	.F10
+T26	Hardware-Other 2484 2485	M
+T27	Software-OS-Related 2503 2508	drive
+T28	Software-OS-Related 2521 2534	DoD 5220.22-M
+T29	Software-OS-Related 2540 2552	Gutmann Wipe

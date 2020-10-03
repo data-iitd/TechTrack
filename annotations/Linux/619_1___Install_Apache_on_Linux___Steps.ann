@@ -1,0 +1,22 @@
+T1	Software-OS-Related 102 110	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 633 641	Terminal
+T3	Software-OS-Related 601 629	sudo apt-get install apache2
+T4	Software-Other 734 747	Apache server
+A2	isInstalled T4 f->t
+T5	Software-OS-Related 1077 1095	user/root password
+T6	Software-OS-Related 1115 1133	user_root password
+T7	Software-OS-Related 1220 1226	Apache
+T8	Hardware-Other 1235 1243	computer
+T9	Software-Other 1525 1538	Apache server
+A3	isOpened T9 f->t
+T10	Hardware-Other 1547 1555	computer
+T11	Software-Other 1685 1701	internet browser
+A4	isOpened T11 f->t
+A5	isInstalled T11 start-T
+T12	Software-Other 1835 1844	localhost
+T13	Software-Other 1853 1874	browser's address bar
+T14	Software-Other 1928 1941	Apache server
+T15	Software-Other 2126 2140	localhost page
+T16	Software-Other 2163 2183	Apache2 Default Page
+A6	isOpened T16 f->t

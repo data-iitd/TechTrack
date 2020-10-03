@@ -1,0 +1,38 @@
+Dual Boot Windows 10 and Ubuntu 16.04
+https://www.wikihow.com/Dual-Boot-Windows-10-and-Ubuntu-16.04
+
+0 - Preparing You Computer For Installation
+
+1 - Create a backup of your computer hard drive (Optional).
+Create a backup of your computer hard drive (Optional). If you have any important files that you do not want to lose, you may want to back up the computer you intend to create a dual boot on. You can back up a computer using an external hard drive, or using a cloud storage service such as Google Drive, or Dropbox.
+
+2 - Turn off Fast Boot.
+Turn off Fast Boot. Use the following steps to turn off Fast Boot on Windows.
+- Click the Windows Start menu.
+- Type Control Panel and click the Control Panel icon
+- Type Power Options in the search bar in the upper-right corner.
+- Click "Choose what the power button does".
+- Click "Change settings that are currently unavailable".
+- Make sure the box that says "Turn on fast startup (Recommended)" at the bottom is not checked.
+- Click Save changes.
+
+3 - Enter your computer BIOS
+Enter your computer BIOS. You'll need to disable secure boot. This is done in your computer's BIOS menu. Most computers allow you to enter the BIOS menu by pressing one of the function keys (F1, F2, F9, F12) or the Delete or ESC key while your computer boots up. You can also use the following steps to reboot into the BIOS menu from within Windows:
+- Click the Windows Start menu.
+- Click the Power icon.
+- Hold "Shift" and click Restart.
+- Click Troubleshoot.
+- Click Advanced Options: UEFI Firmware Settings
+- Click Restart.
+
+4 - Disable Secure Boot.
+Disable Secure Boot. Once your computer boots into the BIOS menu, you can use the arrow keys to navigate the BIOS menu. Locate the Secure Boot settings and set it to Disabled. The BIOS menu is different from one computer manufacturer to another. This options is usually found under the "Security, "Boot", or "Authentication" tab.[2]
+- X
+- Research source
+
+5 - Change the Boot order to boot from the USB drive first
+Change the Boot order to boot from the USB drive first. Again, the BIOS menu is different from one computer manufacturer to another.  Usually, you can change the boot order in the "Boot" menu. Set the Boot order to boot from a USB drive first.
+- If you want to boot Ubuntu from a separate hard drive from your Windows install drive, you will need to open your computer and disconnect your Windows hard drive during the Ubuntu install process. [3]
+- X
+- Research source
+

@@ -1,0 +1,9 @@
+T1	Software-OS-Related 192 197	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 677 691	Command Prompt
+A2	isOpened T2 f->t
+T3	Software-OS-Related 934 954	Run as administrator
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1026 1029	Yes
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	

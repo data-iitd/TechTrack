@@ -1,0 +1,31 @@
+Activate Text to Speech in Mac OS X
+https://www.wikihow.com/Activate-Text-to-Speech-in-Mac-OS-X
+
+0 - Setting The Voice
+
+1 - Open System Preferences.
+Open System Preferences.
+- ;
+
+2 - Click on Speech.
+Click on Speech.
+
+3 - Click on the text to speech tab.
+Click on the text to speech tab.
+
+4 - Click on system voice.
+Click on system voice.
+
+5 - Click on More Voices.
+Click on More Voices.
+
+6 - Click on the voice that you would like to try out.
+Click on the voice that you would like to try out.
+
+7 - Click on the play button.
+Click on the play button.  Make sure that the volume is high.
+
+8 - Select the Voice that you like
+
+Select the Voice that you like
+

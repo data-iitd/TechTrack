@@ -1,0 +1,21 @@
+Edit Gboard Keyboard Settings
+https://www.wikihow.com/Edit-Gboard-Keyboard-Settings
+
+0 - Changing Keyboard Order and Text Replacement
+
+1 - Open iPhone or iPad settings.
+Open iPhone or iPad settings. Here you can access all installed keyboards. Any of the settings here that match those in the Gboard will not apply to Gboard. Those must be changed from the Gboard app to affect Gboard’s behavior.
+
+2 - Access keyboard settings.
+Access keyboard settings. Go to “General > Keyboard” to access the keyboard options.
+
+3 - Tap Keyboards.
+Tap Keyboards. This button displays a list of all usable keyboards.
+
+4 - Set Gboard as the main keyboard.
+Set Gboard as the main keyboard. Tap “Edit” and tap and drag Gboard to the top of the list. Release and press “Done” to save your settings. This moves Gboard to the top of the list when switching between keyboards.
+
+5 - Edit text replacements.
+Edit text replacements. Go back to keyboard settings and tap “Text Replacement”. Here you can set filters and shortcuts for when you type. Tap the “+” button to enter a phrase and its replacement and tap “Save” to complete.
+- For example, iOS defaults with “omw” to be automatically replaced with “On my way!”. Changes to this setting will also be made in the Gboard app.
+

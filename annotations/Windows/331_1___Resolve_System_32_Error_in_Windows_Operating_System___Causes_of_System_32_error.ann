@@ -1,0 +1,4 @@
+T1	Software-OS-Related 200 208	registry
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1143 1158	hardware issues
+T3	Software-Other 762 778	bad system files

@@ -1,0 +1,40 @@
+T1	Software-Other 110 141	https:__cygwin.com_install.html
+A1	isOpened T1 f->t
+T2	Software-Other 303 321	setup-x86.exe file
+T3	Software-OS-Related 331 338	Windows
+T4	Software-OS-Related 549 558	installer
+T5	Software-Other 597 612	downloaded file
+T6	Software-OS-Related 625 637	setup wizard
+A4	isOpened T6 f->t
+T7	Software-OS-Related 778 782	Next
+T8	Software-OS-Related 851 872	Install from Internet
+T9	Software-OS-Related 883 887	Next
+T10	Software-OS-Related 984 988	Next
+T11	Software-OS-Related 1053 1076	local package directory
+T12	Software-OS-Related 1087 1091	Next
+A2	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T6	
+A3	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T6	
+T13	Software-OS-Related 1211 1228	internet settings
+T14	Software-OS-Related 1239 1243	Next
+A5	isSettingsChanged T13 true
+R3	SubPart Arg1:T13 Arg2:T6	
+T15	Software-OS-Related 1394 1407	download site
+T16	Software-OS-Related 1418 1422	Next
+A6	isSettingsChanged T15 true
+T17	Software-OS-Related 1636 1644	packages
+A7	isSettingsChanged T17 true
+T18	Software-OS-Related 1757 1758	+
+R4	SubPart Arg1:T17 Arg2:T6	
+R5	SubPart Arg1:T15 Arg2:T6	
+T19	Software-OS-Related 1921 1925	Next
+T20	Software-OS-Related 2023 2027	Next
+T21	Software-Other 2250 2256	Cygwin
+A8	isOpened T21 f->t
+A9	isInstalled T21 f->t
+T22	Software-Other 2380 2382	cd
+T23	Software-Other 2427 2433	C code
+T24	Software-Other 3018 3048	gcc yourcode.c –o yourcode.exe
+A10	isSettingsChanged T24 true
+R6	SubPart Arg1:T24 Arg2:T23	

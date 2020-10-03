@@ -1,0 +1,33 @@
+Turn Off Automatic Updates in Windows 10
+https://www.wikihow.com/Turn-Off-Automatic-Updates-in-Windows-10
+
+0 - Using a Metered Connection
+
+1 - Understand that this method won't work for Ethernet connections.
+Understand that this method won't work for Ethernet connections. You can only disable automatic updates by using this method on a Wi-Fi connection.
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+
+3 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start menu. This will open the Settings window.
+
+4 - Click  Network & Internet.
+Click  Network & Internet. It's in the Settings window.
+
+5 - Click the Wi-Fi tab.
+Click the Wi-Fi tab. You'll find this option in the upper-left side of the window.
+
+6 - Click your current connection's name.
+Click your current connection's name. It's near the top of the page. Doing so will open the Wi-Fi connection's settings page.
+
+7 - Scroll down to the "Set as metered connection" section.
+Scroll down to the "Set as metered connection" section. This section is near the bottom of the page.
+
+8 - Click the "Off" switch .
+Click the "Off" switch . This will turn it on , which will prevent Windows from downloading updates over your currently connected network.[1]
+- X
+- Research source
+- 
+- If this switch is colored and has "On" next to it, your Wi-Fi is already set up as a metered connection.
+

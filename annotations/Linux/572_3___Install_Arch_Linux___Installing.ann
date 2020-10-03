@@ -1,0 +1,56 @@
+T1	Software-OS-Related 97 113	Wi-Fi connection
+T2	Software-OS-Related 314 321	ip link
+T3	Software-OS-Related 405 432	pacman -S iw wpa_supplicant
+T4	Software-OS-Related 192 200	ethernet
+T5	Hardware-Other 151 159	computer
+T6	Hardware-Devices 181 187	router
+T7	Software-OS-Related 494 510	pacman -S dialog
+T8	Software-OS-Related 532 554	install the Wi-Fi menu
+A1	isOpened T8 f->t
+T9	Software-OS-Related 564 585	pacman -S wpa_actiond
+T10	Software-OS-Related 696 746	systemctl enable netctl-auto@interfacename.service
+T11	Software-OS-Related 1154 1183	pacstrap /mnt base base-devel
+T12	Software-OS-Related 1369 1375	chroot
+A2	isOpened T12 f->t
+T13	Software-OS-Related 1416 1432	arch-chroot /mnt
+T14	Software-OS-Related 1550 1558	password
+T15	Software-OS-Related 1665 1671	passwd
+T16	Software-OS-Related 1788 1796	language
+T17	Software-OS-Related 1836 1856	nano /etc/locale.gen
+T18	Software-OS-Related 1107 1118	base system
+T19	Software-OS-Related 2235 2245	locale-gen
+T20	Software-OS-Related 2316 2325	time zone
+T21	Software-OS-Related 2369 2390	cd usr/share/zoneinfo
+T22	Software-OS-Related 2421 2423	ls
+T23	Software-OS-Related 2488 2517	cd usr/share/zoneinfo/country
+T24	Software-OS-Related 2564 2566	ls
+T25	Software-OS-Related 2639 2696	ln -s /usr/share/zoneinfo/country/timezone /etc/localtime
+A3	isSettingsChanged T25 true
+R1	SubPart Arg1:T25 Arg2:T20	
+A4	isSettingsChanged T19 true
+R2	SubPart Arg1:T19 Arg2:T16	
+T26	Hardware-Other 2748 2756	computer
+T27	Software-OS-Related 2812 2837	echo name > /etc/hostname
+T28	Software-OS-Related 2729 2738	host name
+A5	isSettingsChanged T27 true
+R3	SubPart Arg1:T27 Arg2:T28	
+T29	Software-Other 2969 2984	GRUB bootloader
+T30	Software-OS-Related 3060 3070	Arch Linux
+T31	Software-OS-Related 3101 3120	pacman -S grub-bios
+T32	Software-OS-Related 3151 3152	y
+T33	Software-Other 3227 3231	GRUB
+A6	isInstalled T33 f->t
+T34	Software-OS-Related 3399 3427	grub-install /dev/drive name
+T35	Software-OS-Related 3495 3499	init
+T36	Software-OS-Related 3656 3675	mkinitcpio -p linux
+T37	Software-OS-Related 3712 3730	configuration file
+T38	Software-Other 3735 3739	GRUB
+T39	Software-OS-Related 3798 3834	grub-mkconfig -o /boot/grub/grub.cfg
+T40	Software-OS-Related 3873 3878	fstab
+T41	Software-OS-Related 3919 3950	genfstab /mnt >> /mnt/etc/fstab
+T42	Software-OS-Related 3986 3996	Arch Linux
+T43	Software-OS-Related 4048 4054	Reboot
+T44	Hardware-Other 4060 4068	computer
+T45	Software-OS-Related 4259 4267	Log into
+T46	Software-OS-Related 4447 4457	Arch Linux
+A7	isOpened T46 f->t

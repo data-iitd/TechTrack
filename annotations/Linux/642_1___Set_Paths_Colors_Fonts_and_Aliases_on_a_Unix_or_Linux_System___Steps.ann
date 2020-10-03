@@ -1,0 +1,10 @@
+T1	Software-Other 915 920	emacs
+A1	isInstalled T1 start-T
+T2	Software-Other 924 926	vi
+A2	isInstalled T2 start-T
+T3	Software-OS-Related 1160 1164	path
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 2418 2427	Xdefaults
+A4	isSettingsChanged T4 true
+A5	isOpened T4 f->t
+T5	Software-OS-Related 3275 3282	Aliases

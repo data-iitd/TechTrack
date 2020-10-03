@@ -1,0 +1,24 @@
+Disable the Capslock Key in Windows
+https://www.wikihow.com/Disable-the-Capslock-Key-in-Windows
+
+0 - Using KeyTweak
+
+1 - Download the KeyTweak program.
+Download the KeyTweak program. This is a free program that allows you to remap and disable any key on your keyboard, including the CapsLock key. You can download KeyTweak from a variety of locations online.
+- Make sure to pay attention during the installation of KeyTweak. Depending on where you downloaded it from, you may be prompted to install adware during the installation process. Make sure to read every screen and uncheck any additional software that you don't want to install.
+
+2 - Run the program.
+Run the program. After installing KeyTweak, open the program. You will see a display of a virtual keyboard. The keys will be numbered instead of displaying the characters normally printed on them.
+
+3 - Select the CapsLock key from the diagram.
+Select the CapsLock key from the diagram. You can ensure you have the right key selected by looking at the Keyboard Controls section. There you will see what function is currently assigned to the selected key.
+
+4 - Click "Disable Key".
+Click "Disable Key". This button is located in the Keyboard Controls section. This will turn off the selected key, which will keep Caps Lock from activating when you press it.
+
+5 - Reboot your computer.
+Reboot your computer. In order for the changes to take effect, you will need to reboot your computer.
+
+6 - Turn Caps Lock back on.
+Turn Caps Lock back on. When you want to re-enable the CapsLock key again, open up KeyTweak, select the CapsLock key from the diagram, and click the Restore Default button in the Keyboard Controls section. You will need to restart your computer for the changes to take effect.
+

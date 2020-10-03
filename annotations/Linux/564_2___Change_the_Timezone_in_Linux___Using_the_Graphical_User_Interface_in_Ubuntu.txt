@@ -1,0 +1,33 @@
+Change the Timezone in Linux
+https://www.wikihow.com/Change-the-Timezone-in-Linux
+
+0 - Using the Graphical User Interface in Ubuntu
+
+1 - Click the "System Menu" icon .
+Click the "System Menu" icon . It's a downward-facing triangle in the upper-right corner of the screen. A drop-down menu will appear.[2]
+- X
+- Research source
+
+2 - Click the "Settings" icon.
+Click the "Settings" icon. This wrench-and-screwdriver-shaped icon is in the lower-left corner of the drop-down menu. Doing so opens the Ubuntu Control Center.
+
+3 - Scroll down and click Details.
+Scroll down and click Details. It's at the bottom of the sidebar that's on the left side of the window.
+- Make sure that your mouse is over the left-hand sidebar when scrolling.
+
+4 - Click Date & Time.
+Click Date & Time. You'll find this tab on the left side of the window.
+
+5 - Turn off Automatic Time Zone.
+Turn off Automatic Time Zone. Click the blue "Automatic Time Zone" switch in the middle of the page to do so.
+- If the "Automatic Time Zone" switch is grey, skip this step.
+
+6 - Click Time Zone.
+Click Time Zone. It's near the bottom of the window. Doing so opens the Time Zone menu.
+
+7 - Select a time zone.
+Select a time zone. Click your approximate location on the world map to do so. You should see the time change to match the selected area's time zone.
+
+8 - Close the window.
+Close the window. This will save your settings and update your time zone accordingly.
+

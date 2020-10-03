@@ -1,0 +1,8 @@
+T1	Software-OS-Related 91 97	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 179 181	Go
+A2	isOpened T2 f->t
+T3	Software-OS-Related 291 308	Connect to Server
+A3	isOpened T3 f->t
+T4	Software-OS-Related 950 957	Connect
+A4	isOpened T4 f->t

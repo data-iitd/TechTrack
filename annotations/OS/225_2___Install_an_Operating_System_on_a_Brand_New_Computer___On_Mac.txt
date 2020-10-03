@@ -1,0 +1,30 @@
+Install an Operating System on a Brand New Computer
+https://www.wikihow.com/Install-an-Operating-System-on-a-Brand-New-Computer
+
+0 - On Mac
+
+1 - Restart your Mac.
+Restart your Mac. Press and hold your Mac's Power button until the computer turns off, then press the Power button again to turn your Mac on.
+- If your Mac is already off, just press the Power button to turn it on.
+- You will need Internet access to perform this process on your Mac.
+
+2 - Hold down ⌘ Command, ⌥ Option, and R at the same time.
+Hold down ⌘ Command, ⌥ Option, and R at the same time. You'll need to start doing this before the Mac start-up sound plays.
+
+3 - Release the keys when you see the globe icon.
+Release the keys when you see the globe icon. Once the image of a spinning globe and the words "Starting Internet Recovery. This may take a while" appear, release the keys.
+- You may be prompted to select a wireless network and enter the network's password before continuing.
+
+4 - Wait for your Mac's operating system to download.
+Wait for your Mac's operating system to download. This can take anywhere from a few minutes to a few hours depending on your Internet connection and the operating system itself.
+- Your Mac will download the operating system that came installed on it. For example, if your Mac was running OS X Yosemite when you bought it, Yosemite is the operating system that will be installed.
+
+5 - Select an installation location.
+Select an installation location. On the operating system page, click your Mac's disk drive icon, which is a grey box in the middle of the page.
+
+6 - Click Install.
+Click Install. It's in the bottom-right corner of the page.
+
+7 - Wait for the operating system to install.
+Wait for the operating system to install. Again, this can take several minutes to several hours depending on your Mac and the operating system. Once the installation is complete, your Mac will restart into your new operating system.
+

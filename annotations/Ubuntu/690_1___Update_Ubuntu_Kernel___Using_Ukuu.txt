@@ -1,0 +1,47 @@
+Update Ubuntu Kernel
+https://www.wikihow.com/Update-Ubuntu-Kernel
+
+0 - Using Ukuu
+
+1 - Open Terminal.
+Open Terminal. Click the black Terminal icon on the left side of the screen. This will open the Terminal window.
+- You can also press Ctrl+Alt+T to open Terminal.
+- ;
+
+2 - Add the Ukuu repository.
+Add the Ukuu repository. Type in sudo add-apt-repository ppa:teejee2008/ppa and press ↵ Enter.
+- Ukuu is a free program that will find and install the correct kernel for you.
+
+3 - Enter your password when prompted.
+Enter your password when prompted. Type in the password you use to log into your computer, then press ↵ Enter.
+- You won't see any characters or stars appear while typing.
+
+4 - Press ↵ Enter when prompted.
+Press ↵ Enter when prompted. Doing so adds the repository; this may take a few minutes, so don't type anything until the repository finishes adding.
+
+5 - Update the repository.
+Update the repository. Type in sudo apt-get update and press ↵ Enter. The repository will briefly update, after which point you can continue.
+
+6 - Install Ukuu.
+Install Ukuu. Type in sudo apt-get install ukuu and press ↵ Enter, then type in y when prompted and press ↵ Enter.
+
+7 - Verify that Ukuu installed.
+Verify that Ukuu installed. Type in ukuu, then press ↵ Enter. If you see a list of commands appear in Terminal, Ukuu successfully installed.
+
+8 - Install the latest available kernel.
+Install the latest available kernel. Type in sudo ukuu --install-latest and press ↵ Enter, then allow Ukuu to run.
+- Skip this step if you want to use Ukuu's interface to install a kernel.
+
+9 - Install a kernel from the Ukuu program.
+Install a kernel from the Ukuu program. If you would rather browse the available kernels using the Ukuu program, do the following:
+- Click the "Applications" ⋮⋮⋮ icon in the bottom-left corner of the screen.
+- Scroll down and click Ukuu.
+- Select the Kernel you want to install, then click Install.
+- Enter your password when prompted, then click Authenticate.
+
+10 - Reboot your computer.
+Reboot your computer. Click the "Menu"  icon in the top-right corner of the screen, then click the "Power"  icon and click Restart in the resulting pop-up window.
+
+11 - Check your current kernel.
+Check your current kernel. You can double-check that Ubuntu's installation of your kernel was successful by opening Terminal and entering uname -sr. You should see the version number of the most recent (or, if different, your selected) kernel.
+

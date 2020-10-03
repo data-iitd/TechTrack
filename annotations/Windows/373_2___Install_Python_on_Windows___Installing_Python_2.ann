@@ -1,0 +1,18 @@
+T1	Software-Other 155 166	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 363 379	Python 2 version
+A2	isOpened T2 f->t
+T3	Software-Other 1022 1038	Python installer
+A3	isInstalled T3 f->t
+T4	Software-Other 1363 1367	Next
+A4	isOpened T4 f->t
+T5	Software-Other 1432 1460	install directory (optional)
+A5	isOpened T5 f->t
+T6	Software-Other 1644 1648	Next
+A6	isOpened T6 f->t
+T7	Software-Other 1704 1720	Customize Python
+T8	Software-Other 2025 2047	Add python.exe to Path
+T9	Software-Other 2344 2348	Next
+A7	isOpened T9 f->t
+T10	Software-Other 2608 2614	Finish
+A8	isSettingsChanged T10 true

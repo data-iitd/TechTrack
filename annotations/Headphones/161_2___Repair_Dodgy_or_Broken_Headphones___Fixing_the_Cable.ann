@@ -1,0 +1,26 @@
+T1	Hardware-Other 689 699	multimeter
+T2	Hardware-Devices 213 223	headphones
+T3	Hardware-Other 816 821	knife
+T4	Hardware-Other 781 795	wire strippers
+T5	Hardware-Devices 1167 1177	headphones
+T6	Hardware-Other 1317 1322	cord.
+T7	Hardware-Devices 1569 1580	headphones.
+T8	Hardware-Other 1834 1845	shrink tube
+T9	Hardware-Devices 1934 1943	headphone
+T10	Hardware-Other 133 138	cable
+T11	Hardware-Other 257 262	cable
+T13	Hardware-Other 848 853	cable
+T14	Hardware-Other 1882 1895	rubber tubing
+T15	Hardware-Other 1944 1949	cable
+T18	Hardware-Other 457 461	plug
+T19	Hardware-Other 1683 1692	soldering
+T20	Hardware-Other 1722 1731	splicing.
+T17	Hardware-Other 2858 2872	soldering iron
+T23	Hardware-Other 3318 3329	shrink tube
+T24	Hardware-Other 3030 3034	coat
+T25	Hardware-Other 3624 3629	cable
+T26	Hardware-Other 2194 2199	wires
+A1	isPowered T2 start-T
+T12	Hardware-Other 1237 1242	wires
+T16	Hardware-Other 2088 2092	wire
+*	Equiv T15 T16

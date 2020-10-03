@@ -1,0 +1,40 @@
+Move Windows to Another Drive
+https://www.wikihow.com/Move-Windows-to-Another-Drive
+
+0 - Cloning Your Hard Drive
+
+1 - Power off your computer.
+Power off your computer.  Before installing a new disk drive, or any other hardware, make sure your computer is turned off, unplugged, and that you work on a clean, static free surface.
+
+2 - Install the new hard drive.
+Install the new hard drive.  To install a new hard drive, you will need a free slot on your motherboard.  Connect the power and data cables from the motherboard to the hard drive.
+- Read 2 Simple Ways to Install a Hard Drive to learn how to install a hard drive.  If you don't have a free slot on your hard drive, you will need to purchase a USB adapter to connect the hard drive externally while you migrate your system.
+
+3 - Turn on your computer.
+Turn on your computer.  After the new hard drive is installed, boot up your computer by pressing the power button.
+
+4 - Open AOMEI Backupper.
+Open AOMEI Backupper.  It's the blue icon with a green and orange circle on the front.  You can launch it from the Windows Start menu.
+
+5 - Click Clone.
+Click Clone.  It's in the sidebar to the left.
+
+6 - Click Disk Clone.
+Click Disk Clone.  It's the first option in the "Disk Clone" menu.
+
+7 - Select the disk you want to clone and click Next.
+Select the disk you want to clone and click Next.  You will see a list of all recognizable hard drives.  Select the one you want to clone and click the button that says "Next".  It's the orange button in the lower-right corner of the app.
+
+8 - Select the new hard drive and click Next.
+Select the new hard drive and click Next.  If the new hard drive is properly installed, it should be recognized by AOMEI Backupper.  Click it to select it, and click "Next" in the lower-right corner.
+- If there is any data on the new hard drive, it will be erased.
+
+9 - Select "Edit partitions on the destination disk".
+Select "Edit partitions on the destination disk".  This will give you a few options for partitioning the new drive.  It is recommended that you choose "Fit partition to entire disk".
+- If you are transferring to a new SSD, you should check "Align partition to optimize for SSD".  This will improve the performance of your SSD.
+
+10 - Click Start Clone.
+Click Start Clone. This will transfer all the contents of your old hard drive, to the new hard drive.[2]
+- X
+- Research source
+

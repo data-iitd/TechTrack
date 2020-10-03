@@ -1,0 +1,20 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Saving a Painting
+
+1 - Click ☰.
+Click ☰. It's in the top-left corner of the Fresh Paint window. A pop-out menu will appear.
+
+2 - Click Save As.
+Click Save As. This option is near the bottom of the pop-out menu. Clicking it prompts a File Explorer window to open.
+
+3 - Enter a name.
+Enter a name. Type the name under which you want to save your painting into the "File name" text box.
+
+4 - Select a save location.
+Select a save location. Click a folder in which you want to save the painting on the left side of the window.
+
+5 - Click Save.
+Click Save. It's in the bottom-right corner of the window. Your painting will be saved as a high-quality file.
+

@@ -1,0 +1,33 @@
+T1	Hardware-Devices 164 172	Mac mini
+T2	Hardware-Devices 235 238	RAM
+T3	Software-OS-Related 330 335	Apple
+T4	Hardware-Devices 364 372	computer
+A1	isPowered T4 start-T
+T5	Software-OS-Related 400 414	About This Mac
+A2	isOpened T5 f->t
+A3	isOpened T3 f->t
+T6	Software-OS-Related 567 587	ervice and Coverage"
+T7	Software-OS-Related 891 894	RAM
+T8	Hardware-Devices 934 942	Mac mini
+T9	Hardware-Devices 1448 1465	Mac mini computer
+T10	Software-OS-Related 1621 1628	"Apple"
+T11	Software-OS-Related 1646 1655	Shut Down
+T12	Hardware-Devices 1765 1773	Mac mini
+T13	Hardware-Devices 1948 1956	Mac mini
+T14	Hardware-Devices 2166 2173	Mac min
+T15	Hardware-Devices 2595 2598	RAM
+T16	Hardware-Devices 3100 3103	RAM
+T17	Hardware-Devices 3113 3121	Mac mini
+T18	Hardware-Devices 3577 3585	Mac mini
+T19	Hardware-Devices 3835 3843	computer
+T20	Software-OS-Related 4031 4039	Mac mini
+T21	Hardware-Devices 4059 4062	RAM
+T22	Software-OS-Related 4075 4080	Apple
+A5	isOpened T22 f->t
+T23	Software-OS-Related 4148 4163	About This Mac.
+A6	isSettingsChanged T6 true
+A7	isPowered T9 f->t
+A4	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T10	
+A8	isSettingsChanged T23 true
+R2	SubPart Arg1:T23 Arg2:T22	

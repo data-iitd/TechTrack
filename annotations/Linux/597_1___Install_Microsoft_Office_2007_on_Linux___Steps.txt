@@ -1,0 +1,36 @@
+Install Microsoft Office 2007 on Linux
+https://www.wikihow.com/Install-Microsoft-Office-2007-on-Linux
+
+0 - Steps
+
+1 - Install Wine
+Install Wine. Wine is a compatibility layer for running Windows applications on non-Windows POSIX-compliant operating systems. 
+- If you're using Ubuntu, learn how to install Wine on Ubuntu.
+- ;
+
+2 - Open Wine configuration.
+Open Wine configuration. Configuration needs to be performed in order for Microsoft PowerPoint to work.
+
+3 - Select Libraries tab.
+Select Libraries tab.
+
+4 - Override riched20 DLL.
+Override riched20 DLL. Select dropbox under "New override for library" label, search for and select riched20.
+
+5 - Edit riched20 DLL.
+Edit riched20 DLL. Select riched20 under "Existing overrides" label and press Edit... button.
+
+6 - Select native load order.
+Select native load order. Select Native (Windows) load order radio button and press OK button.
+
+7 - Apply load order change.
+Apply load order change. Press Apply button to save and apply change to DLL load order.
+
+8 - Run installation executable.
+Run installation executable. Locate your installation files and double-click setup.exe. 
+- If double-clicking doesn't work, right click the executable file and select Open with Wine Windows Program Loader.
+- If it still doesn't work, make sure it has permission to run. Right-click the executable file, select Properties and check Allow executing file as program under Permissions.
+
+9 - Install Microsoft Office 2007
+Install Microsoft Office 2007. Install the office suite as if you were running Windows machine. Following the installation wizard will leave you with a functional Microsoft Office 2007 installation.
+

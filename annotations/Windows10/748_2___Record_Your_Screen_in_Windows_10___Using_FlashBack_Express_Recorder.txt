@@ -1,0 +1,47 @@
+Record Your Screen in Windows 10
+https://www.wikihow.com/Record-Your-Screen-in-Windows-10
+
+0 - Using FlashBack Express Recorder
+
+1 - Install FlashBack Express from the FlashBack website.
+Install FlashBack Express from the FlashBack website. There are a variety of free apps that can record your screen if the Xbox Game Bar doesn’t work on your computer. FlashBack Express is one of them.  To download the app:[2]
+- X
+- Research source
+- 
+- 
+- Click CONTINUE TO EXPRESS below the purple button near the center of the page.
+- Click GET EXPRESS – FREE.
+- Save the installer to your computer.
+- Double-click the installer and follow the on-screen instructions to complete the installation.
+
+2 - Open FlashBack Express Recorder.
+Open FlashBack Express Recorder. You’ll find it in the Start menu inside a folder called Blueberry Software.
+
+3 - Click Record Your Screen.
+Click Record Your Screen. This opens a panel with customization options.
+
+4 - Choose what you want to record.
+Choose what you want to record.
+- To record the whole screen, select Full screen from the ″Record″ drop-down menu.
+- Select Window if you just want to record use of a single app.
+- Select Region if you’d like to select an area of the screen to record.
+- To record your webcam, check the box at the bottom of the window that says ″Record Webcam.″
+
+5 - Select which sound to record.
+Select which sound to record.
+- If you don’t want to record sound, remove the check mark from the ″Record Sound″ box.
+- To record sounds using your computer’s microphone, leave the ″Microphone″ option checked. If you don’t want your recording to pick up your own voice (or sounds within your space), remove the check mark next to this option.
+- To record sounds coming from your computer (such as in-app sounds), check the ″Default PC Speakers″ box (or select your speakers).
+
+6 - Click Record when you’re ready to start recording.
+Click Record when you’re ready to start recording.
+- If you’re recording the full screen, a countdown will appear. When the countdown is complete, everything on the screen will be recorded.
+- If you’re recording one window, you’ll be prompted to click the window you want to record, and then click Record. The recording will begin once the countdown is complete and a progress bar will be displayed.
+- If you’re recording a region of the screen, follow the on-screen instructions to select which part of the screen to capture, and then click Record. The recording will begin once the countdown is complete and a progress bar will be displayed.
+
+7 - Click the red square when you’re finished recording.
+Click the red square when you’re finished recording. It’s on the progress bar. A pop-up window will appear, asking what you want to do.
+
+8 - Click Save to save the recording.
+Click Save to save the recording. You’ll be prompted to save the recorded video to a folder called FlashBack Movies in the Documents folder, but you can select a different location in the left panel. Click Save after selecting a folder.
+

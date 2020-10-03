@@ -1,0 +1,22 @@
+Customize the Windows 10 Start Menu
+https://www.wikihow.com/Customize-the-Windows-10-Start-Menu
+
+0 - Configuring Side Folder Icons
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button and click the settings gear .
+
+2 - Go to the Personalization category.
+Go to the Personalization category.
+
+3 - Click Start from the left pane.
+Click Start from the left pane.
+
+4 - Click "Choose which folders appear on Start".
+Click "Choose which folders appear on Start". This will be at the bottom of the Start settings page.
+
+5 - Configure which icons appear.
+Configure which icons appear. These will be a bunch of different options to choose from, including File Explorer, Settings, Documents, Downloads, Music, Pictures, Videos, HomeGroup, Network, and Personal folder.
+- Toggle on  a switch under an item name to make the icon appear on Start. Oppositely, toggling off  an option will remove its icon from Start.
+- Basically: On = show, Off = hide
+

@@ -1,0 +1,8 @@
+T1	Software-Other 164 179	Microsoft Store
+T2	Software-Other 616 623	profile
+A1	isOpened T2 f->t
+T3	Software-Other 880 884	Sign
+A2	isOpened T3 f->t
+T4	Software-Other 1274 1282	Continue
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	

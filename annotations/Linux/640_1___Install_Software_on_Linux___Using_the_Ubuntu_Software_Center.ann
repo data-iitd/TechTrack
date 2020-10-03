@@ -1,0 +1,18 @@
+T1	Software-OS-Related 134 143	Dash icon
+T2	Software-OS-Related 284 288	menu
+A1	isOpened T2 f->t
+T3	Software-OS-Related 321 336	Software Center
+A2	isOpened T3 f->t
+T4	Software-OS-Related 835 843	software
+T5	Software-OS-Related 856 863	install
+T6	Software-OS-Related 1084 1091	Install
+T7	Software-OS-Related 1111 1114	app
+T8	Software-OS-Related 1262 1292	computer's admin user password
+T9	Software-OS-Related 1311 1327	account password
+T10	Software-OS-Related 1463 1475	Authenticate
+T11	Software-OS-Related 1539 1552	user password
+T12	Software-OS-Related 1558 1565	install
+T13	Software-Other 1579 1582	app
+A3	isInstalled T13 f->t
+T14	Software-Other 1604 1607	app
+A4	isOpened T14 f->t

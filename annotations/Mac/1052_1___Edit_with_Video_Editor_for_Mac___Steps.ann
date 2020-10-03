@@ -1,0 +1,18 @@
+T1	Software-Other 155 163	Add File
+A1	isOpened T1 f->t
+T2	Software-Other 251 265	Edit the Video
+A2	isSettingsChanged T2 true
+T3	Software-Other 498 512	Crop the Video
+A3	isSettingsChanged T3 true
+T4	Software-Other 713 732	Adjust Video Effect
+A4	isSettingsChanged T4 true
+T5	Software-Other 967 985	Merge into on file
+A5	isSettingsChanged T5 true
+T6	Software-Other 1143 1151	Profile"
+A6	isOpened T6 f->t
+T7	Software-Other 1270 1276	Browse
+A7	isOpened T7 f->t
+T8	Software-Other 1392 1400	Settings
+A8	isOpened T8 f->t
+T9	Software-Other 1686 1691	Start
+A9	isOpened T9 f->t

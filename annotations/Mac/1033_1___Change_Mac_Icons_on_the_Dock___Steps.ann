@@ -1,0 +1,20 @@
+T1	Software-OS-Related 353 363	search bar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 751 763	Instant Alfa
+A2	isOpened T2 f->t
+T3	Software-OS-Related 919 954	solid background of the chosen icon
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1028 1033	Enter
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1045 1052	Convert
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1265 1274	spotlight
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1554 1577	icon's original picture
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T5 Arg2:T3	
+T8	Software-OS-Related 531 536	Enter
+A8	isOpened T8 f->t
+T9	Software-Other 1679 1682	app
+A9	isOpened T9 t->f

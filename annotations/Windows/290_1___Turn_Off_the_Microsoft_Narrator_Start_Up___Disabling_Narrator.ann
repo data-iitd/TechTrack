@@ -1,0 +1,4 @@
+T1	Software-OS-Related 145 150	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 491 505	Ease of Access
+A2	isOpened T2 f->t

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 139 155	Taskbar settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 744 790	Automatically hide the taskbar in desktop mode
+T3	Software-OS-Related 119 126	taskbar
+A2	isOpened T3 f->t
+R1	SubPart Arg1:T1 Arg2:T3	
+T4	Software-OS-Related 1063 1108	Automatically hide the taskbar in tablet mode
+A3	isSettingsChanged T2 true
+A4	isSettingsChanged T4 true
+T5	Hardware-Other 1425 1430	mouse

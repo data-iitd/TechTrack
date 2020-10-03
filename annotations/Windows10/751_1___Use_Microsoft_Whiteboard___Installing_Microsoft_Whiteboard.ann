@@ -1,0 +1,11 @@
+T1	Software-Other 130 145	Microsoft Store
+A1	isOpened T1 f->t
+T2	Software-Other 205 215	Start menu
+A2	isOpened T2 f->t
+T3	Software-Other 1100 1120	Microsoft Whiteboard
+A3	isOpened T3 f->t
+T4	Software-Other 1287 1291	blue
+A4	isInstalled T4 f->t
+T5	Software-Other 1516 1522	Launch
+A5	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T3	

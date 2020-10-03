@@ -1,0 +1,18 @@
+T1	Software-Other 140 145	Excel
+A1	isOpened T1 f->t
+T3	Software-Other 930 939	Worksheet
+A3	isOpened T3 f->t
+T5	Software-Other 2726 2744	spreadsheet editor
+A4	isOpened T5 f->t
+T4	Software-Other 2502 2507	cells
+A6	isSettingsChanged T4 true
+R2	SubPart Arg1:T4 Arg2:T5	
+T7	Software-Other 149 159	OpenOffice
+A7	isInstalled T7 start-T
+T8	Software-Other 493 504	LibreOffice
+T9	Software-Other 706 713	WordPad
+A8	isOpened T9 f->t
+A2	isSettingsChanged T9 true
+R1	SubPart Arg1:T3 Arg2:T9	
+T2	Software-Other 3215 3232	spreadsheet edito
+A5	isOpened T2 f->t

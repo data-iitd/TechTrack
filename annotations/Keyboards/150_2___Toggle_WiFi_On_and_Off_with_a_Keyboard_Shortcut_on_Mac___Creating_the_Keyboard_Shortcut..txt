@@ -1,0 +1,20 @@
+Toggle WiFi On and Off with a Keyboard Shortcut on Mac
+https://www.wikihow.com/Toggle-WiFi-On-and-Off-with-a-Keyboard-Shortcut-on-Mac
+
+0 - Creating the Keyboard Shortcut.
+
+1 - Open System Preferences > Keyboard.
+Open System Preferences > Keyboard. At the top, click on Shortcuts.
+
+2 - Click on Services.
+Click on Services. Scroll to the very bottom until you find the action that you just created.
+
+3 - Click on the None to the right of the name.
+Click on the  to the right of the name. Then, click on Add Shortcut.
+
+4 - Type in your shortcut.
+Type in your shortcut. You might use Ctrl+⌥ Opt+⌘ Cmd+W. Control Option Command W). Make sure the shortcut is not a common shortcut.
+
+5 - Test your shortcut.
+Test your shortcut. It should work!
+

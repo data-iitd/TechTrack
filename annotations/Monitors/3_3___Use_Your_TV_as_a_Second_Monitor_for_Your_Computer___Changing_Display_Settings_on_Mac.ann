@@ -1,0 +1,31 @@
+T1	Software-OS-Related 181 191	Apple menu
+A1	isOpened T1 f->t
+T3	Hardware-Devices 268 274	screen
+A3	isPowered T3 start-T
+T4	Software-OS-Related 319 337	System Preferences
+A4	isOpened T4 f->t
+T5	Software-OS-Related 468 476	Displays
+A5	isOpened T5 f->t
+T8	Software-OS-Related 597 605	Displays
+A8	isOpened T8 f->t
+T11	Software-OS-Related 903 917	screen scaling
+A12	isSettingsChanged T11 true
+T13	Software-OS-Related 699 714	TV's resolution
+A16	isSettingsChanged T13 true
+T14	Hardware-Devices 1044 1056	Mac's screen
+T15	Hardware-Devices 1064 1066	TV
+A21	isPowered T15 start-T
+T16	Software-OS-Related 1221 1236	Arrangement tab
+A19	isOpened T16 f->t
+T17	Software-OS-Related 1332 1347	Mirror displays
+A23	isSettingsChanged T17 true
+T18	Hardware-Devices 1412 1414	TV
+T19	Hardware-Devices 1460 1463	Mac
+T21	Hardware-Devices 1713 1717	Mac'
+T22	Hardware-Other 1954 1959	mouse
+T23	Hardware-Other 1998 2006	computer
+T24	Hardware-Devices 2037 2048	TV's screen
+R1	SubPart Arg1:T13 Arg2:T8	
+R2	SubPart Arg1:T11 Arg2:T8	
+A2	isSetup T24 true
+R3	SubPart Arg1:T17 Arg2:T16	

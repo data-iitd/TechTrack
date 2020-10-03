@@ -1,0 +1,12 @@
+T1	Software-OS-Related 132 137	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 155 168	Control Panel
+A2	isOpened T2 f->t
+T3	Software-OS-Related 234 258	Sounds and Audio Devices
+A3	isOpened T3 f->t
+T4	Software-OS-Related 313 319	Sounds
+A4	isOpened T4 f->t
+T5	Software-OS-Related 386 399	Start Windows
+T6	Software-OS-Related 477 483	Browse
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T3	

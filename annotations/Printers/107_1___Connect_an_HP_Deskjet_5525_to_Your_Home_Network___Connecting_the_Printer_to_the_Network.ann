@@ -1,0 +1,15 @@
+T1	Hardware-Devices 182 189	printer
+A1	isPowered T1 f->t
+T2	Hardware-Other 247 259	power source
+T3	Software-Other 311 324	control panel
+A2	isOpened T3 f->t
+T4	Software-Other 419 427	Settings
+A3	isOpened T4 f->t
+T5	Software-Other 552 573	Wireless Setup Wizard
+A4	isOpened T5 f->t
+T6	Software-Other 663 675	Network SSID
+A5	isOpened T6 f->t
+T7	Software-Other 983 987	Okay
+A6	isSettingsChanged T7 true
+T8	Software-Other 1128 1151	Confirmation successful
+R1	SubPart Arg1:T7 Arg2:T5	

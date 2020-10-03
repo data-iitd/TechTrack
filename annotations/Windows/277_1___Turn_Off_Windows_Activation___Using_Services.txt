@@ -1,0 +1,29 @@
+Turn Off Windows Activation
+https://www.wikihow.com/Turn-Off-Windows-Activation
+
+0 - Using Services
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will open.
+- ;
+
+2 - Type services into Start.
+Type services into Start. Doing so searches for the Services app, which lets you control which system processes run.
+
+3 - Click Services.
+Click Services. It's a gear-shaped icon at the top of the Start window. The Services window will open.
+
+4 - Scroll down and click Software Protection.
+Scroll down and click Software Protection. You'll find this service in the "S" section of the window.
+- On some computers, this will say sppsvc instead.
+
+5 - Click the "Properties" icon.
+Click the "Properties" icon. It's the folder-shaped icon just below the View tab in the upper-left side of the window. A new window will open.
+
+6 - Click Stop.
+Click Stop. This option is in the middle-left side of the window. Doing so will prompt the Software Protection service to stop running.
+- If this button is greyed out, you will need to use the Registry instead.
+
+7 - Click OK.
+Click OK. It's at the bottom of the window. Your activation will remain off until you restart or update your computer, at which point you will need to disable it again.
+

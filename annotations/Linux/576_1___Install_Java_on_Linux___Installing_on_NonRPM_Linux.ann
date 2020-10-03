@@ -1,0 +1,12 @@
+T1	Software-Other 120 148	Java for Linux download page
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 248 253	Linux
+T3	Software-OS-Related 760 772	command line
+T4	Software-OS-Related 911 919	Terminal
+A3	isOpened T4 f->t
+*	Equiv T3 T4
+T5	Software-OS-Related 999 1021	installation directory
+T6	Software-Other 1526 1530	Java
+A4	isInstalled T6 f->t
+T7	Software-OS-Related 1431 1464	tar zxvf jre-8u151-linux-i586.tar

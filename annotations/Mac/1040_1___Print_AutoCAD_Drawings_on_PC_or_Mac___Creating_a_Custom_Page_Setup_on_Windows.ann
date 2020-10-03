@@ -1,0 +1,46 @@
+T1	Software-Other 217 224	AutoCAD
+A1	isInstalled T1 start-F
+T2	Software-Other 449 453	File
+A2	isOpened T2 f->t
+A3	isSettingsChanged T2 true
+T3	Software-Other 464 468	Open
+A4	isOpened T3 f->t
+T4	Software-Other 559 565	Output
+A5	isOpened T4 f->t
+T6	Software-Other 743 761	Page Setup Manager
+A7	isOpened T6 f->t
+R1	SubPart Arg1:T6 Arg2:T4	
+T5	Software-Other 874 877	New
+A6	isOpened T5 f->t
+R2	SubPart Arg1:T5 Arg2:T6	
+T7	Software-Other 1408 1415	plotter
+A8	isOpened T7 f->t
+T8	Software-Other 1891 1901	Paper size
+A9	isSettingsChanged T8 true
+T9	Software-Other 2213 2225	What to plot
+A10	isSettingsChanged T9 true
+T10	Software-Other 2821 2848	Center the plot" (optional)
+A11	isSettingsChanged T10 true
+T11	Software-Other 3000 3010	plot scale
+A12	isSettingsChanged T11 true
+T12	Software-Other 3560 3577	Plot style table"
+A13	isSettingsChanged T12 true
+T13	Software-Other 3997 4007	Shade plot
+A14	isSettingsChanged T13 true
+T14	Software-Other 4225 4237	Plot Options
+A15	isSettingsChanged T14 true
+T15	Software-Other 4441 4460	Drawing Orientation
+A16	isSettingsChanged T15 true
+T16	Software-Other 4688 4690	Ok
+A17	isSettingsChanged T16 true
+T17	Software-Other 4785 4790	Close
+A18	isSettingsChanged T17 true
+R3	SubPart Arg1:T7 Arg2:T6	
+R4	SubPart Arg1:T8 Arg2:T6	
+R5	SubPart Arg1:T9 Arg2:T6	
+R6	SubPart Arg1:T10 Arg2:T6	
+R7	SubPart Arg1:T11 Arg2:T6	
+R8	SubPart Arg1:T12 Arg2:T6	
+R9	SubPart Arg1:T13 Arg2:T6	
+R10	SubPart Arg1:T14 Arg2:T6	
+R11	SubPart Arg1:T15 Arg2:T6	

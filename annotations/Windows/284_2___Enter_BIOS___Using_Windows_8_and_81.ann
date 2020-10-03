@@ -1,0 +1,18 @@
+T1	Software-OS-Related 94 104	Charms bar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 232 236	BIOS
+A2	isOpened T2 f->t
+T3	Software-OS-Related 365 373	Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 537 554	Update & Recovery
+A4	isOpened T4 f->t
+T5	Software-OS-Related 732 740	Recovery
+A5	isOpened T5 f->t
+T6	Software-OS-Related 966 978	Troubleshoot
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1140 1153	UEFI Firmware
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1062 1070	Advanced
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1376 1383	Restart
+A9	isSettingsChanged T9 true

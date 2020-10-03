@@ -1,0 +1,44 @@
+T1	Hardware-Other 82 104	DOS installation disks
+T2	Hardware-Other 130 142	floppy disks
+T3	Hardware-Other 373 390	installation disk
+T4	Hardware-Other 398 415	floppy disk drive
+T5	Software-OS-Related 420 427	restart
+T6	Hardware-Other 433 441	computer
+T7	Hardware-Other 706 709	key
+T8	Software-OS-Related 713 717	boot
+T9	Hardware-Other 727 739	floppy drive
+T10	Hardware-Devices 940 948	keyboard
+T11	Software-OS-Related 1074 1113	Configure first hard disk (recommended)
+T12	Software-OS-Related 879 903	Microsoft DOS setup menu
+A1	isOpened T12 f->t
+T13	Software-OS-Related 1401 1404	DOS
+T14	Software-OS-Related 1745 1755	hard drive
+T15	Software-OS-Related 1784 1801	FAT16 file system
+T16	Software-OS-Related 1873 1876	DOS
+T17	Hardware-Devices 1829 1837	keyboard
+T18	Software-OS-Related 1764 1773	formatted
+T19	Software-OS-Related 1952 1959	restart
+T20	Hardware-Other 1965 1973	computer
+T21	Software-OS-Related 1995 2004	date_time
+T22	Software-OS-Related 2006 2013	country
+T23	Software-OS-Related 2018 2033	keyboard layout
+T24	Software-OS-Related 2144 2155	cursor keys
+T25	Software-OS-Related 2230 2254	The settings are correct
+T26	Software-OS-Related 2288 2291	DOS
+T27	Hardware-Other 2546 2554	computer
+T28	Hardware-Other 2585 2602	installation disk
+T29	Software-OS-Related 2674 2684	status bar
+A2	isOpened T29 f->t
+T30	Hardware-Other 2742 2748	disk 1
+T31	Hardware-Other 2754 2760	disk 2
+T32	Software-OS-Related 2888 2898	status bar
+A3	isOpened T32 f->t
+T33	Hardware-Other 2930 2936	disk 2
+T34	Hardware-Other 2948 2954	disk 3
+T35	Hardware-Other 3146 3163	installation disk
+T36	Hardware-Other 3217 3227	final disk
+T37	Hardware-Other 3238 3250	floppy drive
+T38	Software-OS-Related 3294 3334	Remove disks from all floppy disk drives
+T39	Software-OS-Related 3545 3552	restart
+T40	Hardware-Other 3558 3566	computer
+T41	Software-OS-Related 3602 3623	MS-DOS Setup Complete

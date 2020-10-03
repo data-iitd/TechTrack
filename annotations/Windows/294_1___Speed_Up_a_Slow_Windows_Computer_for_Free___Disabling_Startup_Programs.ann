@@ -1,0 +1,12 @@
+T1	Software-OS-Related 458 470	Task Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 695 702	Startup
+A2	isOpened T2 f->t
+T3	Software-OS-Related 662 674	More details
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1115 1122	Disable
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 2060 2072	Hidden Icons
+A5	isOpened T5 f->t
+T6	Software-OS-Related 2262 2274	Hidden Icons
+A6	isOpened T6 f->t

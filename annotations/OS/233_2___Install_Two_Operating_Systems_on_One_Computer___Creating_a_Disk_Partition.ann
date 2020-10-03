@@ -1,0 +1,16 @@
+T1	Software-OS-Related 164 170	backup
+T2	Software-OS-Related 203 213	data files
+T3	Hardware-Other 243 253	disk drive
+T4	Software-OS-Related 525 543	Windows Start menu
+A1	isOpened T4 f->t
+T5	Software-OS-Related 672 679	taskbar
+T6	Software-OS-Related 694 709	Disk Management
+A2	isOpened T6 f->t
+T7	Software-OS-Related 1024 1026	C:
+A3	isOpened T7 f->t
+T8	Software-OS-Related 1048 1061	Shrink Volume
+T9	Software-OS-Related 1167 1182	Disk Management
+T10	Software-OS-Related 1469 1510	Enter the amount of space to shrink in MB
+T11	Software-OS-Related 1708 1714	Shrink
+A4	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T8	

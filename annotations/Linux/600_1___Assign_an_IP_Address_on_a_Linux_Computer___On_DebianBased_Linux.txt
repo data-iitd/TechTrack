@@ -1,0 +1,43 @@
+Assign an IP Address on a Linux Computer
+https://www.wikihow.com/Assign-an-IP-Address-on-a-Linux-Computer
+
+0 - On Debian-Based Linux
+
+1 - Verify your Linux version.
+Verify your Linux version. Popular Debian-based Linux distributions include Ubuntu, Mint, and Raspbian versions.
+- ;
+
+2 - Open Terminal.
+Open Terminal. This is the command line app that's the basis of all Linux distributions. Depending on your Linux version, you may have several ways of opening Terminal:
+- Press Ctrl+Alt+T or Ctrl+Alt+F1 (if you're on a Mac, substitute the ⌘ Command key for Ctrl.
+- Click the text box at the top or bottom of the screen if possible.
+- Open the Menu window and find the "Terminal" application, then click on it.
+
+3 - Switch to root.
+Switch to root. If you aren't already logged into the "root" user directory, type in su and press ↵ Enter, then type in your root user password when prompted and press ↵ Enter.
+- A "root" account is the Linux equivalent of an Administrator account on a Windows or Mac computer.
+
+4 - Bring up a list of your current Internet items.
+Bring up a list of your current Internet items. Type in ifconfig and press ↵ Enter to do so. You should see a list of item names appear on the left side of the window with their details listed on the right.
+- The top item should be your current router or Ethernet connection. This item's name is "eth0" (Ethernet) or "wifi0" (Wi-Fi) in Linux.
+
+5 - Find the item to which you want to assign an IP address.
+Find the item to which you want to assign an IP address. Note the name of the item that you want to change. You'll find the name on the left side of the window.
+- In most cases, this is the "eth0" or "wifi0" item.
+
+6 - Change the item's IP address.
+Change the item's IP address. Type in sudo ifconfig name ipaddress netmask 255.255.255.0 up—making sure to replace name with your item's name and ipaddress with your preferred IP address—and press ↵ Enter.
+- To assign an IP of "192.168.2.100" to your ethernet connection ("eth0"), for example, you'd enter sudo ifconfig eth0 192.168.0.100 netmask 255.255.255.0 here.
+
+7 - Assign a default gateway.
+Assign a default gateway. Type in route add default gw 192.168.1.1 and press ↵ Enter.[1]
+- X
+- Research source
+
+8 - Add a DNS server.
+Add a DNS server. Type in echo "nameserver 8.8.8.8" > /etc/resolv.conf and press ↵ Enter.
+- If you have a different DNS server address that you would rather use, enter that in the place of 8.8.8.8.
+
+9 - Check your item's new IP address.
+Check your item's new IP address. Enter the ifconfig command again, find your item, and look at the address to the right of the item's name. You should see the IP address that you just assigned.
+

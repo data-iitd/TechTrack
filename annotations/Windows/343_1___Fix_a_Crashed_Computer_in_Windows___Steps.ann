@@ -1,0 +1,7 @@
+T1	Software-OS-Related 473 482	Safe Mode
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1229 1258	last known good configuration
+A2	isOpened T2 f->t
+T3	Software-OS-Related 3429 3449	Repair your computer
+T4	Software-OS-Related 1713 1727	System Restore
+A3	isOpened T4 start-T

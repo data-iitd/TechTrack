@@ -1,0 +1,23 @@
+Close All Open Windows of an App in Mac OS
+https://www.wikihow.com/Close-All-Open-Windows-of-an-App-in-Mac-OS
+
+0 - Using the Menu Bar
+
+1 - Open multiple windows in an app.
+Open multiple windows in an app. You can open and close multiple windows in most apps, including all internet browsers, text editors, productivity apps, media players, image viewers, and file managers.
+- You can also use this method to close all folders if you have multiple windows open in Finder.
+- ;
+
+2 - Click the app icon on the Dock.
+Click the app icon on the Dock. You will see this app's icon on the Dock at the bottom of your screen. Click on it make sure you're not closing any other apps. You will see the app name on the menu bar in the upper-left corner of your screen.
+
+3 - Click the File button on the menu bar.
+Click the File button on the menu bar. This button is located next to the app name in the upper-left corner of your screen. A drop-down menu will appear.
+
+4 - Press and hold the ⌥ Option button on your keyboard.
+Press and hold the ⌥ Option button on your keyboard. Without closing the File menu, press the Option button to see more menu options. Some of the options in the drop-down menu will change.
+- On some keyboards, you will have Alt instead of Option. In this case, look for the ⌥ sign on your keyboard.
+
+5 - Click Close All on the drop-down menu.
+Click Close All on the drop-down menu. It will close all open windows in this app without quitting the app. The app will keep running in the background.
+

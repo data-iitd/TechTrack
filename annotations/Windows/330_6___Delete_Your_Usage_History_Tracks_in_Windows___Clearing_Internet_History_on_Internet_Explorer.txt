@@ -1,0 +1,23 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing Internet History on Internet Explorer
+
+1 - Open Internet Explorer.
+Open Internet Explorer. Click the Internet Explorer app icon, which resembles a light-blue "e" icon.
+
+2 - Click "Settings" .
+Click "Settings" . This option is in the top-right corner of the Internet Explorer window. Doing so prompts a drop-down menu.
+
+3 - Select Safety.
+Select Safety. You'll see this icon near the top of the drop-down menu. Clicking it will prompt a pop-out menu to appear.
+
+4 - Click Delete browsing history….
+Click Delete browsing history…. It's at the top of the pop-out menu.
+
+5 - Make sure "History" and "Download history" are checked.
+Make sure "History" and "Download history" are checked. These two options will ensure that you clear all aspects of Internet Explorer's history.
+
+6 - Click Delete.
+Click Delete. It's at the bottom of the window. This will clear your Internet Explorer browsing history.
+

@@ -1,0 +1,21 @@
+T1	Software-OS-Related 226 236	Try Ubuntu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 355 363	terminal
+A2	isOpened T2 f->t
+T3	Software-OS-Related 632 682	sudo add-apt-repository ppa:yannubuntu/boot-repair
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 723 799	udo apt-get update; sudo apt-get install -y os-uninstaller && os-uninstaller
+A4	isSettingsChanged T4 true
+A5	isOpened T4 f->t
+T5	Software-OS-Related 884 893	dash home
+A6	isOpened T5 f->t
+T6	Software-OS-Related 917 931	OS-Uninstaller
+A7	isSettingsChanged T6 true
+T7	Software-OS-Related 990 992	OS
+A9	isSettingsChanged T7 true
+T8	Software-OS-Related 1082 1084	OK
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	
+A8	isSettingsChanged T8 true
+R3	SubPart Arg1:T7 Arg2:T6	
+R4	SubPart Arg1:T8 Arg2:T6	

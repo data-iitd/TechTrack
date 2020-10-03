@@ -1,0 +1,17 @@
+T3	Software-Other 317 337	third-party software
+T4	Software-Other 347 362	Adobe Photoshop
+T6	Software-OS-Related 139 146	program
+A4	isOpened T6 f->t
+T9	Hardware-Other 609 617	keyboard
+T12	Hardware-Devices 858 865	printer
+A8	isPowered T12 f->t
+T20	Software-OS-Related 1807 1814	printer
+A1	isOpened T3 f->t
+A2	isInstalled T3 start-T
+T1	Software-Other 1198 1217	Auto-Adjust setting
+A3	isSettingsChanged T1 true
+R1	SubPart Arg1:T1 Arg2:T3	
+T2	Software-OS-Related 1665 1675	print menu
+A5	isOpened T2 f->t
+A6	isSettingsChanged T20 true
+R2	SubPart Arg1:T20 Arg2:T2	

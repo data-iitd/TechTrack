@@ -1,0 +1,19 @@
+T1	Software-Other 97 113	internet browser
+A1	isOpened T1 f->t
+T2	Software-Other 490 505	sharpkeys36.zip
+T3	Software-Other 619 634	sharpkeys36.zip
+A2	isOpened T3 f->t
+T4	Hardware-Devices 650 658	computer
+A3	isUsed T4 true
+T5	Software-Other 820 833	SharpKeys.exe
+A4	isOpened T5 f->t
+T6	Software-Other 1048 1051	Add
+A5	isOpened T6 f->t
+T7	Hardware-Other 1179 1187	keyboard
+T8	Software-Other 1801 1803	OK
+A6	isOpened T8 f->t
+T9	Software-Other 1894 1911	Write to Registry
+A7	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T5	
+T10	Hardware-Devices 2115 2123	computer
+A8	isUsed T10 true

@@ -1,0 +1,25 @@
+Speed Up a Mac
+https://www.wikihow.com/Speed-Up-a-Mac
+
+0 - Managing your Startup Programs
+
+1 - Click on the  apple in the top left corner of the screen.
+Click on the  apple in the top left corner of the screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+- You can also find  System Preferences in your dock.
+
+3 - Click on Users & Groups.
+Click on Users & Groups. The icon has a silhouette of two people.
+
+4 - Select your name from the Current User list.
+Select your name from the Current User list.
+
+5 - Click on the Login Items tab.
+Click on the Login Items tab. You will get a list of programs that open automatically when you log in.
+
+6 - Uncheck any programs that you don't need when your Mac starts up.
+Uncheck any programs that you don't need when your Mac starts up. Fewer programs at startup will help your Mac launch faster and will not hog up your computer's resources in the background.
+

@@ -1,0 +1,26 @@
+T1	Software-OS-Related 119 125	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 222 238	Mac's hard drive
+A2	isOpened T2 f->t
+T3	Software-OS-Related 381 400	Macintosh HD folder
+A3	isOpened T3 f->t
+T4	Software-OS-Related 553 565	Users folder
+A4	isOpened T4 f->t
+T5	Software-OS-Related 638 665	folder with your name on it
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1073 1087	Library folder
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1197 1213	Calendars folder
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1386 1391	Cache
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1498 1511	Move to Trash
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1618 1628	Trash icon
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1737 1748	Empty Trash
+A11	isSettingsChanged T11 true
+A12	isOpened T11 f->t
+T12	Software-OS-Related 1834 1845	Empty Trash
+A13	isSettingsChanged T12 true
+R1	SubPart Arg1:T9 Arg2:T4	

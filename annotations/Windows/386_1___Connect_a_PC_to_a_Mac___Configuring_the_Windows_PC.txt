@@ -1,0 +1,23 @@
+Connect a PC to a Mac
+https://www.wikihow.com/Connect-a-PC-to-a-Mac
+
+0 - Configuring the Windows PC
+
+1 - Open a window on your PC.
+Open a window on your PC.
+
+2 - Go to Homegroup.
+Go to Homegroup. On the directory panel at the left side of the window, click on “Homegroup.”
+
+3 - Click on “Create a Homegroup” button.
+Click on “Create a Homegroup” button.
+
+4 - Check all the type of files you want to share (documents, images, etc.
+Check all the type of files you want to share (documents, images, etc.) and click on “Next.”
+
+5 - Remember the password.
+Remember the password. On the following page, you’ll be given a password. Take note of the password. You’ll be using that later once you try to connect your Mac to your PC.
+
+6 - Click on “Finish” once you’re done.
+Click on “Finish” once you’re done.
+

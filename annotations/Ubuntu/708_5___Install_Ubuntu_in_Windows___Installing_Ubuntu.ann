@@ -1,0 +1,20 @@
+T1	Software-OS-Related 129 146	Select a language
+A1	isOpened T1 f->t
+T2	Software-OS-Related 245 259	Install Ubuntu
+A2	isOpened T2 f->t
+T3	Software-OS-Related 348 356	Continue
+A3	isOpened T3 f->t
+T4	Software-OS-Related 446 457	Install Now
+A4	isOpened T4 f->t
+T5	Software-OS-Related 550 558	Continue
+A5	isOpened T5 f->t
+T6	Software-OS-Related 766 775	time zone
+A6	isOpened T6 f->t
+T7	Software-OS-Related 870 895	Create your user account.
+T8	Software-OS-Related 1063 1071	Continue
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1199 1222	Allow Ubuntu to install
+A9	isOpened T9 f->t
+T10	Software-Other 1354 1365	Restart Now
+A10	isOpened T10 f->t
+A7	isOpened T7 f->t

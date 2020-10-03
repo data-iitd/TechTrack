@@ -1,0 +1,81 @@
+Set Up a VPN on a Mac
+https://www.wikihow.com/Set-Up-a-VPN-on-a-Mac
+
+0 - Using Shimo on macOS Sierra
+
+1 - Open a web browser.
+Open a web browser. If you must connect to a PPTP VPN on macOS Sierra, you’ll need a VPN app that still supports the protocol. Shimo is one app that is highly recommended across the internet.[5]
+- X
+- Research source
+- 
+- 
+- Shimo is not free, but it does have a fully-functional 30 day free trial.
+- Apple recommends no one use PPTP due to security vulnerabilities.[6]
+- X
+- Research source
+
+2 - Navigate to https:__www.shimovpn.com_download.
+Navigate to https://www.shimovpn.com/download. A pop-up will appear.[7]
+- X
+- Research source
+
+3 - Follow the prompts to download Shimo.
+Follow the prompts to download Shimo. The app will download.
+
+4 - Open the Downloads folder.
+Open the Downloads folder.
+
+5 - Double-click the downloaded file.
+Double-click the downloaded file. It will be called something like Shimo_4.1.2_8433.zip.
+
+6 - Double-click Shimo.
+Double-click Shimo.
+
+7 - Click Open.
+Click Open. You may see this button on a pop-up window that asks you to confirm you want to run the program. If you don’t see it, just skip to the next step.
+
+8 - Click Move to Applications Folder.
+Click Move to Applications Folder. You should see a new icon appear in your menu bar. It’s the outline of a square with rounded edges at its top. This is the Shimo icon.[8]
+- X
+- Research source
+
+9 - Click the Shimo icon.
+Click the Shimo icon. A menu will appear.
+
+10 - Select “Preferences.
+Select “Preferences.”
+
+11 - Click the “Accounts” icon.
+Click the “Accounts” icon. It’s the blue icon at the top left corner of the Preferences panel.[9]
+- X
+- Research source
+
+12 - Click + below the left panel.
+Click + below the left panel.
+
+13 - Select your VPN account type.
+Select your VPN account type.
+- If you’re using this method, it’s likely because you’re required to use PPTP on macOS Sierra. If this is the case, select “PPTP/L2TP.”
+- If you’re not sure, check the documentation for your VPN provider.
+
+14 - Click Create.
+Click Create.
+
+15 - Enter your VPN connection information.
+Enter your VPN connection information. This information is also supplied by your VPN provider.[10]
+- X
+- Research source
+- 
+- 
+- The hostname or IP address of the VPN server goes into the “Remote Host” box.
+- The username and password you enter are the ones you use for the VPN server, not the one you use to log into macOS.
+
+16 - Click Create.
+Click Create. The connection is now saved.
+
+17 - Click the Shimo icon.
+Click the Shimo icon. Remember, it’s in the menu bar.
+
+18 - Select your VPN.
+Select your VPN. Shimo will now connect your computer to the VPN.
+

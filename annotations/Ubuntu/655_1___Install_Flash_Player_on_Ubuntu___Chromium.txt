@@ -1,0 +1,44 @@
+Install Flash Player on Ubuntu
+https://www.wikihow.com/Install-Flash-Player-on-Ubuntu
+
+0 - Chromium
+
+1 - Open the Ubuntu Software Center.
+Open the Ubuntu Software Center. You can start it from the Ubuntu task bar.
+- ;
+
+2 - Click the Edit menu and select Software Sources.
+Click the Edit menu and select Software Sources.
+
+3 - Click the "Ubuntu Software" tab.
+Click the "Ubuntu Software" tab.
+
+4 - Check the "Software restricted by copyright or legal issues (multiverse)" box.
+Check the "Software restricted by copyright or legal issues (multiverse)" box. Click "Close".
+
+5 - Wait for the Software Center to update sources.
+Wait for the Software Center to update sources. This may take a few minutes.
+
+6 - Search for "Pepper Flash Player".
+Search for "Pepper Flash Player". Download the browser plugin.
+- The package name will be "pepperflashplugin-nonfree", but it is a free plugin.
+
+7 - Open the Terminal.
+Open the Terminal. You can start it from the task bar, or press Ctrl+Alt+T
+
+8 - Type .
+Type .sudo update-pepperflashplugin-nonfree and press ↵ Enter.
+
+9 - Wait for the installation to complete.
+Wait for the installation to complete. This may take a few moments. Once the installation is complete, your computer's name will appear again. Type exit and press ↵ Enter to close the terminal.
+
+10 - Restart your browser.
+Restart your browser. Flash is now installed for Chromium.
+
+11 - Check for updates periodically.
+Check for updates periodically. When Flash is installed this way, it will not update automatically. You will need to manually check for updates on a semi-regular basis.
+- Open the Terminal.
+- Type sudo update-pepperflashplugin-nonfree –status and press ↵ Enter to check for updates. If the available update is a higher number than your installed update, there is an update available.
+- Type sudo update-pepperflashplugin-nonfree –install and press ↵ Enter to install the update.
+- Restart your browser to complete the update.
+

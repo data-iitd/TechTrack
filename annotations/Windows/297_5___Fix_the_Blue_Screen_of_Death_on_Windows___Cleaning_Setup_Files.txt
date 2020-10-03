@@ -1,0 +1,24 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Cleaning Setup Files
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Type disk cleanup into Start.
+Type disk cleanup into Start. Doing so searches your computer for the Disk Cleanup utility.
+
+3 - Click Disk Cleanup.
+Click Disk Cleanup. It's a flash drive-shaped icon at the top of the Start window.
+
+4 - Click Clean up system files.
+Click Clean up system files. You'll find this in the lower-left side of the window.
+
+5 - Check every box in the window.
+Check every box in the window. This will help get rid of all temporary files stored by your computer's system, which may solve the BSOD.
+
+6 - Click OK.
+Click OK. It's at the bottom of the window. Doing so will prompt Disk Cleanup to delete the files.
+- The deletion process may take a few minutes, especially if you've never deleted your computer's temporary files.
+

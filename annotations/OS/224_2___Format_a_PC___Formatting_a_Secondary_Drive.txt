@@ -1,0 +1,32 @@
+Format a PC
+https://www.wikihow.com/Format-a-PC
+
+0 - Formatting a Secondary Drive
+
+1 - Open the Disk Management utility.
+Open the Disk Management utility. When you connect a new external drive or install a new internal hard drive, you'll need to format it before it appears in Windows Explorer. You can do this using the Disk Management utility.
+- Press ⊞ Win+R and type diskmgmt.msc to launch Disk Management. In Windows 8 and 10, you can right-click on the Start button and select "Disk Management".
+- It may take a few moments for all of your installed hard drives to appear.
+- If you're trying to securely erase the data on a drive before disposing of it, see the Securely Formatting a Drive section of this article instead.
+
+2 - Partition the new drive (if prompted).
+Partition the new drive (if prompted). If you're opening Disk Management for the first time after installing a new drive, you'll likely be prompted to initialize the disk. Don't worry if this window doesn't appear.
+- Select "GPT" if the new disk is 2TB or larger. Select "MBR" if the new disk is smaller than 2TB.
+
+3 - Select the drive you want to format.
+Select the drive you want to format. All of your drives and partitions will be listed in Disk Management. If you've just installed a new drive, it will likely be on its own row with the "Unallocated" label. Expand the "Status" column to see more details about each partition.
+- You cannot format the "Boot" partition in Windows, as this is the partition that Windows is installed on.
+- Formatting will delete all of the data on the disk, so make absolutely sure you select the correct one.
+
+4 - Create a partition (if necessary).
+Create a partition (if necessary). If the drive is Unallocated, you will need to right-click on it and select "New Simple Volume". Follow the prompts to create a partition out of the Unallocated space.
+
+5 - Right-click on the drive or partition and select "Format".
+Right-click on the drive or partition and select "Format". This will open the Format window.
+
+6 - Set your formatting options.
+Set your formatting options. You can give the drive a new name (Volume label), as well as choose its file system. For Windows, select "NTFS" as the file system for maximum compatibility. You can choose whether or not you want to perform a quick format. Only uncheck this option if you are worried that your drive is damaged.
+
+7 - Wait for the format to complete.
+Wait for the format to complete. Click the Format button once you are satisfied with your settings. The formatting process may take a few minutes. Once the formatting is complete, you can use the drive to store files and install programs to it.
+

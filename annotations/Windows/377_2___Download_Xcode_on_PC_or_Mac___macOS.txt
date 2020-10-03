@@ -1,0 +1,35 @@
+Download Xcode on PC or Mac
+https://www.wikihow.com/Download-Xcode-on-PC-or-Mac
+
+0 - macOS
+
+1 - Open the App Store .
+Open the App Store . You’ll find its icon on the Dock, which is usually at the bottom of the screen.
+
+2 - Type xcode into the search bar and press ⏎ Return.
+Type xcode into the search bar and press ⏎ Return. A list of matching results will appear.
+
+3 - Click Xcode.
+Click Xcode. It should be the first result. Look for the blue app store icon with a hammer.
+
+4 - Click Get.
+Click Get.
+
+5 - Click Install.
+Click Install. Xcode will now download and install on your Mac. When the app is finished installing, the “Install” button will change to “Open.”
+
+6 - Click Open.
+Click Open. Xcode will launch.
+
+7 - Click Agree.
+Click Agree. It’s at the bottom-right corner of the license agreement pop-up.
+
+8 - Enter your administrator password.
+Enter your administrator password. Xcode will now install additional components on your Mac.
+
+9 - Start a new project.
+Start a new project.
+- If you’re new to Xcode, select Get started with a playground to code in a preset environment.
+- To start a project from scratch, click Create a new Xcode project.
+- If asked to enable developer mode on your Mac, click OK.
+

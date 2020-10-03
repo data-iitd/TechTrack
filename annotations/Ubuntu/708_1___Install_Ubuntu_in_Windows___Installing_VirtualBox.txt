@@ -1,0 +1,35 @@
+Install Ubuntu in Windows
+https://www.wikihow.com/Install-Ubuntu-in-Windows
+
+0 - Installing VirtualBox
+
+1 - Download the VirtualBox installation file.
+Download the VirtualBox installation file. Go to https://www.virtualbox.org/ in your computer's web browser, then do the following:
+- Click Downloads on the left side of the page.
+- Click the Windows hosts link under the "VirtualBox 5.2.16 platform packages" heading.
+- ;
+
+2 - Double-click the VirtualBox setup file.
+Double-click the VirtualBox setup file. Doing so will launch the VirtualBox installation window.
+
+3 - Click Next three times.
+Click Next three times. The Next button is at the bottom of the window. After clicking it three times, you should arrive at a warning about networking.
+
+4 - Click Yes.
+Click Yes. It's at the bottom of the window.
+
+5 - Click Install.
+Click Install. This option is at the bottom of the window.
+
+6 - Click Yes when prompted.
+Click Yes when prompted. Doing so confirms your settings and allows VirtualBox to begin installing.
+
+7 - Allow VirtualBox to install.
+Allow VirtualBox to install. It can take up to ten minutes to finish installing VirtualBox, so just allow the installer to run.
+
+8 - Uncheck the "Launch VirtualBox" box.
+Uncheck the "Launch VirtualBox" box. Once VirtualBox finishes installing, this will appear in the middle of the window.
+
+9 - Click Finish when prompted.
+Click Finish when prompted. This option is at the bottom of the window. Clicking it completes the installation process.
+

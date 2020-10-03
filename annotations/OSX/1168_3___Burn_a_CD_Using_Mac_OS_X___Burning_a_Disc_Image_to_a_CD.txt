@@ -1,0 +1,22 @@
+Burn a CD Using Mac OS X
+https://www.wikihow.com/Burn-a-CD-Using-Mac-OS-X
+
+0 - Burning a Disc Image to a CD
+
+1 - Open the Disk Utility.
+Open the Disk Utility. This can be found in the Utilities folder in your Applications. A disc image is a direct copy of a CD or DVD that is burned onto a blank CD or DVD. The burned disc will then act exactly like the original disc.
+
+2 - Insert a blank disc.
+Insert a blank disc. Depending on the size of the image, insert either a CD or DVD. CD images are typically around 700 MB, DVD images can be as large as 4.7 GB.
+
+3 - Add the disc image file.
+Add the disc image file. Find your disc image file on your computer. The file should be in ISO format. Drag the ISO file into the sidebar of the Disk Utility window.
+
+4 - Burn the disk.
+Burn the disk. After you drag the file into Disk Utility, click on the image in the sidebar, and then click the Burn button at the top of the window.
+
+5 - Set your burn options.
+Set your burn options. Once you click Burn, click the arrow button in the corner of the Burn window to open the burn options. Make sure that “Verify burned data” box is checked. Click Burn to start the burning process.[1]
+- X
+- Research source
+

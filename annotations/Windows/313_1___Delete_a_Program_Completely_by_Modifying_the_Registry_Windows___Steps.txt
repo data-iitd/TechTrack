@@ -1,0 +1,52 @@
+Delete a Program Completely by Modifying the Registry (Windows)
+https://www.wikihow.com/Delete-a-Program-Completely-by-Modifying-the-Registry-(Windows)
+
+0 - Steps
+
+1 - Completely uninstall the program you want to get rid of.
+Completely uninstall the program you want to get rid of.
+- ;
+
+2 - Get rid of the registry items pointing to that program next.
+Get rid of the registry items pointing to that program next.
+
+3 - Go to Regedit.exe.
+Go to Regedit.exe.
+- You can use the run program in the start menu.
+
+4 - Go to File.
+Go to File.
+
+5 - Click Export.
+Click Export. (In Win98 and WinME this will be Export registry file)
+
+6 - Save the file in c:
+Save the file in c:\
+
+7 - Name the file regbackup.
+Name the file regbackup. Click save.
+
+8 - Go to Edit.
+Go to Edit.
+
+9 - Go to Find.
+Go to Find.
+
+10 - Type the program name.
+Type the program name.
+
+11 - Press F3 to search.
+Press F3 to search.
+
+12 - Read to make sure it is a link to that program.
+Read to make sure it is a link to that program. Check this once the item is found.
+
+13 - Press delete to remove it.
+Press delete to remove it.
+
+14 - Continue pressing F3.
+Continue pressing F3. Delete all the items pertaining to the program, until all the links are gone.
+
+15 - Reboot the Computer to Complete the Process.
+Reboot the Computer to Complete the Process.
+

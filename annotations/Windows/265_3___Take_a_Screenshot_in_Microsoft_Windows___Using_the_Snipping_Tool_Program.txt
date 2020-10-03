@@ -1,0 +1,44 @@
+Take a Screenshot in Microsoft Windows
+https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows
+
+0 - Using the Snipping Tool Program
+
+1 - Open the Snipping Tool.
+Open the Snipping Tool. The Snipping Tool is available in all versions of Windows Vista, 7, 8 and 10 except the Starter and Basic editions. It is not available in Windows XP.[2]
+- X
+- Research source
+- 
+- ;
+- In Windows Vista and 7, click the Start button, select All Programs, select Accessories, and select the Snipping Tool from the list.
+- In Windows 8, simply start typing snipping tool while on the Start screen and select it from the Search results.
+- In Windows 10, click Start , type in snipping tool, and select Snipping Tool from the Search results.
+
+2 - Choose the shape of the Snip.
+Choose the shape of the Snip. "Rectangular Snip" is chosen by default. Click the Arrow button next to the Mode button to change the Snip shape:.;
+- 
+- Free-form Snip lets you draw any shape with your mouse. The area inside the shape will be snipped.
+- Rectangular Snip lets you select a rectangular area, which will be snipped.
+- Window Snip lets you choose a window to snip.
+- Full-screen Snip snips the whole screen, with all windows (except the Snipping Tool window) included.
+
+3 - Adjust the Snip border.
+Adjust the Snip border. By default, any snip you make will have a red border around it. You can disable or change this by clicking the Tools tab in the top-left side of the Snipping Tool toolbar, selecting Options from the drop-down menu, and unchecking the box next to “Show selection ink after snips are captured”. This will remove the border from any future snips.;
+
+4 - Create a new Snip.
+Create a new Snip. Click the New button to start the selection. The screen will fade, and you can draw your Snip area, or select the window if you chose Window Snip. Release the mouse when selecting to create the Snip.;
+- If you had Full-screen Snip selected, your Snip will automatically be created once you click New.
+
+5 - Annotate the Snip.
+Annotate the Snip. Once you create the Snip, it will open in a new window. You can use the Pen tool to draw on it and make notes, and use the Highlight tool to draw attention to text.;
+- The Erase tool will only erase annotations, not the screenshot itself.
+
+6 - Save the Snip.
+Save the Snip. Click the floppy disk icon to open the save dialog. Type in a name for the screenshot and change the "Save as type:" field if desired. You can now send the screenshot by email or put it on a website.;
+- PNG is the default format in Windows 7 and 8. It's a lossless compressed format, which means that it will take high-quality screenshots at a small file size. It is the recommended format for taking screenshots.
+- JPG or JPEG is the default format in Windows Vista. It is a lossy format, meaning that the screenshot will look slightly blocky and some colors may be a bit off. It's mainly designed for photographs, and not recommended for screenshots.
+- GIF is unsuitable for reproducing color photographs, but well-suited for images such as graphics or logos with solid areas of color, resulting in crystal sharp edges between color areas.
+
+7 - Copy the Snip.
+Copy the Snip. By default, the Snip is copied to the clipboard when you create it. This means you can paste it into Paint or Word, much like you would with a full-screen screenshot. In Paint, you can make more edits than you can in the Snip annotation editor.;
+- To paste the Snip, open a window that supports pasting and press Ctrl+V.
+

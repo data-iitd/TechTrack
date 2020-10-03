@@ -1,0 +1,38 @@
+T2	Hardware-Other 127 135	computer
+T3	Hardware-Other 228 237	USB cable
+T4	Hardware-Other 491 499	document
+T5	Hardware-Devices 507 514	scanner
+T6	Software-OS-Related 622 627	Start
+T9	Software-OS-Related 738 743	Start
+T11	Hardware-Other 798 806	computer
+T12	Software-OS-Related 850 862	Fax and Scan
+T15	Hardware-Other 968 971	PC'
+T16	Software-OS-Related 1008 1016	New Scan
+A11	isOpened T16 f->t
+T19	Hardware-Devices 1155 1162	scanner
+T21	Software-OS-Related 1452 1461	Change...
+T23	Software-OS-Related 1564 1571	Profile
+T26	Software-OS-Related 1726 1732	Source
+A19	isOpened T26 f->t
+T28	Hardware-Other 1833 1842	documents
+T30	Hardware-Other 1878 1883	chute
+T31	Hardware-Other 1988 1991	lid
+T34	Hardware-Other 2126 2134	document
+T35	Hardware-Other 2163 2171	computer
+T37	Hardware-Other 2280 2288	document
+T44	Software-OS-Related 2591 2603	Print window
+T45	Software-OS-Related 2619 2641	Microsoft Print to PDF
+T47	Hardware-Other 2792 2800	computer
+T1	Hardware-Devices 111 118	scanner
+A1	isPowered T1 start-T
+A41	isConnected T1 f->t
+A2	isOpened T12 f->t
+A3	isSettingsChanged T21 true
+T8	Software-OS-Related 815 827	Fax and Scan
+T13	Software-OS-Related 1080 1092	Fax and Scan
+R1	SubPart Arg1:T21 Arg2:T13	
+R2	SubPart Arg1:T23 Arg2:T13	
+A4	isSettingsChanged T23 true
+A5	isSettingsChanged T26 true
+R3	SubPart Arg1:T26 Arg2:T13	
+A6	isOpened T45 f->t

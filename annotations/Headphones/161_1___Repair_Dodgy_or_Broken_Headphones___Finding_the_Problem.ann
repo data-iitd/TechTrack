@@ -1,0 +1,33 @@
+T1	Hardware-Other 138 143	tools
+T2	Hardware-Other 317 331	Soldering iron
+T3	Hardware-Other 336 342	solder
+T4	Hardware-Other 346 351	Knife
+T5	Hardware-Other 355 363	scissors
+T6	Hardware-Other 374 380	tubing
+T7	Hardware-Other 384 397	Wire stripper
+T8	Hardware-Other 402 412	Multimeter
+T11	Hardware-Other 944 949	cable
+T13	Hardware-Other 1174 1178	plug
+T15	Hardware-Other 1385 1393	earpiece
+T17	Hardware-Other 1489 1494	cable
+T18	Hardware-Other 1785 1798	documentation
+T19	Hardware-Other 1851 1861	multimeter
+T20	Hardware-Other 2108 2112	lead
+T21	Hardware-Other 2134 2137	COM
+T22	Hardware-Other 2221 2226	wires
+T23	Hardware-Other 2236 2246	multimeter
+T24	Hardware-Other 2426 2430	plug
+T25	Hardware-Other 2457 2465	earpiece
+T26	Hardware-Other 2479 2490	copper wire
+T27	Hardware-Other 2522 2526	coat
+T28	Hardware-Other 2566 2571	knife
+T29	Hardware-Other 2409 2413	slit
+T30	Hardware-Other 2709 2713	lead
+T31	Hardware-Devices 1460 1470	headphones
+T9	Hardware-Devices 469 480	headphones.
+T12	Hardware-Devices 993 1003	headphones
+T14	Hardware-Devices 1278 1288	headphones
+T16	Hardware-Other 2840 2844	slit
+T10	Hardware-Other 635 649	headphone jack
+T32	Hardware-Devices 570 580	headphones
+A2	isConnected T32 f->t

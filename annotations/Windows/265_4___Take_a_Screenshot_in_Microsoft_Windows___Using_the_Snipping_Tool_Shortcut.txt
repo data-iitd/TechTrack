@@ -1,0 +1,23 @@
+Take a Screenshot in Microsoft Windows
+https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows
+
+0 - Using the Snipping Tool Shortcut
+
+1 - Go to the page that you want to screenshot.
+Go to the page that you want to screenshot. Open the program or screen that you want to take a picture of, making sure that any windows or items that you don't want on-screen are out of the way.
+
+2 - Press ⊞ Win+⇧ Shift+S.
+Press ⊞ Win+⇧ Shift+S. Doing so will cause your screen to turn light-grey, and your mouse will turn into a crosshairs icon.;
+
+3 - Select an area to screenshot.
+Select an area to screenshot. Click and drag your mouse from the top-left corner of the area that you want to screenshot to the bottom-right corner.;
+- For example, if you want to screenshot the entire screen, you'd click and drag your mouse from the top-left corner of the screen to the bottom-right corner of the screen.
+
+4 - Release the mouse button.
+Release the mouse button. This will both take a screenshot of your selected area and save it to your clipboard, from which point it can be pasted into any program that accepts pasted photos.;
+
+5 - Paste your screenshot.
+Paste your screenshot. Open any program which supports pasting in photos (e.g., Paint, Word, etc.) and press Ctrl+V. You should see the section of the screen that you selected appear in your program.;
+- You can save your screenshot's document by pressing Ctrl+S, entering a name, selecting a save location, and clicking Save.
+- Photos can also be pasted into some online services, such as emails.
+

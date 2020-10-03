@@ -1,0 +1,29 @@
+Downgrade from Windows 10
+https://www.wikihow.com/Downgrade-from-Windows-10
+
+0 - Doing a Factory Reset
+
+1 - Open the Start  menu.
+Open the Start  menu. You'll usually find it at the bottom-left corner of the screen.
+- If you upgraded to Windows 10 more than 10 days ago, the only way to return to the original operating system (Windows 8, 8.1, or 7) is to reset your PC to its original factory settings.
+
+2 - Click Settings .
+Click Settings . It's near the bottom of the menu.
+
+3 - Click Update and Security.
+Click Update and Security. It's the curved arrow icon. You may have to scroll down in settings to see this option.
+
+4 - Click Recovery.
+Click Recovery. It's in the left panel.
+
+5 - Click Get Started under "Reset this PC.
+Click Get Started under "Reset this PC." It's the first button on the right panel.
+
+6 - Click Restore Factory Settings.
+Click Restore Factory Settings. It's the third option, which only appears after you've done an upgrade.[2]
+- X
+- Research source
+
+7 - Follow the on-screen instructions to reset your PC.
+Follow the on-screen instructions to reset your PC. Once your PC is restored, you'll be prompted to set up the original version of Windows that came with your PC.
+

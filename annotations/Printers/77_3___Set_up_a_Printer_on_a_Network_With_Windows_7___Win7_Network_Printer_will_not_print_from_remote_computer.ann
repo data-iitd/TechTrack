@@ -1,0 +1,15 @@
+T1	Hardware-Other 198 206	computer
+T2	Hardware-Devices 218 225	printer
+A1	isPowered T2 f->t
+A2	isUsed T2 true
+T3	Software-OS-Related 392 405	Control Panel
+A3	isOpened T3 f->t
+T4	Software-OS-Related 408 426	Devices & Printers
+A4	isOpened T4 f->t
+T5	Software-OS-Related 484 497	Remove Device
+A5	isOpened T5 f->t
+T6	Software-OS-Related 593 604	Add Printer
+A6	isOpened T6 f->t
+T7	Software-OS-Related 656 677	Add a network printer
+T8	Software-OS-Related 819 855	The printer that I want isn't listed
+T9	Software-OS-Related 1370 1385	Print test page

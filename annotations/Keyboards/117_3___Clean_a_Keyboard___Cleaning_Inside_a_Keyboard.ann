@@ -1,0 +1,47 @@
+T1	Hardware-Other 115 123	computer
+T2	Hardware-Devices 143 151	keyboard
+A1	isPowered T2 t->f
+A2	isConnected T2 t->f
+T3	Hardware-Other 404 413	batteries
+T4	Hardware-Other 471 475	cord
+T5	Hardware-Other 499 505	laptop
+T6	Hardware-Other 692 703	screwdriver
+T7	Hardware-Devices 812 821	keyboards
+T8	Hardware-Devices 1189 1194	phone
+A5	isPowered T8 start-T
+T9	Hardware-Other 1218 1222	keys
+T10	Hardware-Other 1328 1346	wire keycap puller
+T11	Hardware-Devices 1567 1575	keyboard
+T12	Hardware-Other 1696 1702	screws
+T13	Hardware-Other 1986 1995	faceplate
+T14	Hardware-Other 2104 2108	keys
+T15	Hardware-Other 2219 2224	towel
+T16	Hardware-Other 2114 2122	colander
+T17	Hardware-Other 2636 2640	soap
+T18	Hardware-Other 2745 2752	tablets
+T19	Hardware-Other 2833 2842	faceplate
+T20	Hardware-Other 2848 2852	soap
+T21	Hardware-Other 2947 2955	colander
+T22	Hardware-Other 2959 2963	bowl
+T23	Hardware-Other 3061 3066	cloth
+T24	Hardware-Devices 3161 3169	keyboard
+T25	Hardware-Devices 3330 3338	keyboard
+T26	Hardware-Other 3346 3351	cloth
+T27	Hardware-Other 3356 3374	isopropyl alcohol.
+T28	Hardware-Other 3618 3622	keys
+T29	Hardware-Other 3797 3802	brush
+T30	Hardware-Other 3870 3873	key
+T31	Hardware-Other 3892 3897	swabs
+T32	Hardware-Other 3908 3925	isopropyl alcohol
+T33	Hardware-Devices 4019 4027	keyboard
+T34	Hardware-Other 4188 4197	faceplate
+T35	Hardware-Devices 4549 4557	keyboard
+T36	Hardware-Other 4661 4669	computer
+T37	Hardware-Other 4690 4696	towels
+T38	Hardware-Devices 4973 4981	keyboard
+A18	isPowered T38 f->t
+A19	isConnected T38 f->t
+T39	Hardware-Other 5169 5179	faceplates
+T40	Hardware-Other 5226 5230	keys
+T41	Hardware-Other 5498 5504	cables
+T42	Hardware-Other 5549 5556	laptops

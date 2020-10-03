@@ -1,0 +1,42 @@
+T1	Software-Device-Drivers 124 140	ZTE Warp drivers
+A1	isInstalled T1 f->t
+T2	Hardware-Other 149 157	computer
+T3	Software-Other 242 307	http://hexamob.com/drivers/GENERICOS/UniversalAdbDriverSetup6.msi
+T4	Software-OS-Related 328 332	Menu
+T5	Software-OS-Related 346 354	Settings
+A2	isOpened T5 f->t
+T6	Hardware-Devices 364 379	ZTE Warp device
+A3	isPowered T6 start-T
+T7	Software-OS-Related 458 475	Developer options
+A4	isOpened T7 f->t
+T8	Software-OS-Related 512 525	USB debugging
+A5	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	
+T9	Software-Other 538 555	MediaFire website
+T10	Hardware-Other 564 572	computer
+T11	Software-Other 576 617	http://www.mediafire.com/?iemp8viqmyg8g3q
+T12	Software-OS-Related 857 864	Windows
+T13	Software-OS-Related 868 871	Mac
+T14	Software-Other 823 831	download
+T15	Software-Other 836 848	root package
+T16	Software-Other 979 1006	root package archive folder
+T17	Software-OS-Related 1015 1034	computer's desktop.
+T18	Software-Other 1128 1142	archive folder
+A6	isOpened T18 f->t
+T19	Hardware-Devices 1270 1278	ZTE Warp
+A7	isConnected T19 f->t
+T20	Hardware-Other 1287 1295	computer
+T21	Hardware-Other 1304 1313	USB cable
+T22	Software-Other 1413 1422	runme.bat
+A8	isOpened T22 f->t
+T23	Software-OS-Related 1432 1439	desktop
+T24	Software-OS-Related 1555 1572	on-screen prompts
+T25	Software-OS-Related 1576 1580	root
+T26	Hardware-Devices 1586 1594	ZTE Warp
+T27	Hardware-Devices 1673 1678	phone
+A9	isConnected T27 t->f
+*	Equiv T27 T26
+T28	Hardware-Other 1689 1697	computer
+T29	Software-Other 1851 1860	Superuser
+T30	Hardware-Devices 1960 1968	ZTE Warp
+A10	isUsed T30 true

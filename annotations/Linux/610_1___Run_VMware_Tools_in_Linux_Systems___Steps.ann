@@ -1,0 +1,43 @@
+T1	Software-Other 118 124	VMware
+A1	isOpened T1 f->t
+T2	Software-Other 306 308	VM
+A2	isOpened T2 f->t
+T3	Software-Other 371 391	Install VMware tools
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 438 450	VMware Tools
+T5	Software-OS-Related 798 810	Applications
+A5	isOpened T5 f->t
+T6	Software-OS-Related 813 825	System Tools
+A4	isOpened T6 f->t
+T7	Software-OS-Related 828 836	Terminal
+A6	isOpened T7 f->t
+T8	Software-Other 877 889	VMware Tools
+T9	Software-OS-Related 1002 1012	cd Desktop
+A7	isOpened T9 f->t
+T10	Software-OS-Related 1174 1187	tar -zxvf VM*
+T11	Software-Other 1341 1359	VMware Tools files
+A8	isSettingsChanged T10 true
+T12	Software-OS-Related 1388 1394	Log in
+T13	Software-OS-Related 1398 1407	Root User
+T14	Software-OS-Related 1478 1485	su root
+T15	Software-OS-Related 1601 1614	root password
+T16	Software-OS-Related 1858 1870	Installation
+T17	Software-Other 1905 1914	./vm*/vm*
+T18	Software-Other 1963 1975	VMware Tools
+T19	Software-OS-Related 2526 2540	rm -rf VM* vm*
+T20	Software-OS-Related 2488 2492	exit
+A9	isSettingsChanged T19 true
+A10	isSettingsChanged T17 true
+T21	Software-Other 2712 2737	VMware application window
+A11	isOpened T21 f->t
+T22	Software-Other 2748 2752	View
+A12	isOpened T22 f->t
+T23	Software-Other 2755 2769	Autofit Window
+A13	isOpened T23 f->t
+T24	Software-Other 2772 2785	Autofit Guest
+A14	isOpened T24 f->t
+T25	Software-OS-Related 2881 2888	Restart
+T26	Software-OS-Related 2889 2894	Linux
+T27	Software-Other 3466 3478	VMware Tools
+A15	isInstalled T27 f->t

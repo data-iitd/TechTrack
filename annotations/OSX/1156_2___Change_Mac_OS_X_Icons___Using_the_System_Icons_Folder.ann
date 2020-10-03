@@ -1,0 +1,8 @@
+T1	Software-OS-Related 461 467	Log in
+T2	Software-OS-Related 474 495	administrator account
+T3	Software-OS-Related 604 616	Go to Folder
+A1	isOpened T3 f->t
+T4	Software-OS-Related 793 800	address
+T5	Software-OS-Related 809 828	system icons folder
+T6	Software-OS-Related 1027 1032	icons
+T7	Software-OS-Related 1083 1088	.icns

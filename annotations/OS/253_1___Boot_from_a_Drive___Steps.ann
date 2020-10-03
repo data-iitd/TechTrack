@@ -1,0 +1,28 @@
+T1	Software-Other 88 104	Boot Up Software
+T2	Software-OS-Related 150 154	boot
+T3	Software-OS-Related 162 167	drive
+T4	Hardware-Other 202 208	CD_DVD
+T5	Hardware-Other 210 221	flash drive
+T6	Hardware-Other 553 571	bootable USB drive
+T7	Software-OS-Related 750 754	BIOS
+A1	isOpened T7 f->t
+T8	Hardware-Other 827 838	motherboard
+T9	Software-OS-Related 884 888	BIOS
+T10	Software-OS-Related 1551 1561	Boot Order
+T11	Software-OS-Related 1565 1569	BIOS
+T12	Software-OS-Related 1617 1627	boot order
+T13	Hardware-Other 1726 1734	computer
+T14	Hardware-Other 1745 1747	CD
+T15	Hardware-Other 1751 1762	flash drive
+T16	Software-OS-Related 2266 2283	First Boot Device
+A2	isSettingsChanged T16 true
+T17	Hardware-Other 2699 2719	Physical Boot Device
+T18	Software-OS-Related 2782 2792	boot order
+T19	Hardware-Other 3017 3023	CD/DVD
+T20	Hardware-Other 3041 3046	drive
+T21	Hardware-Other 3071 3080	USB drive
+T22	Hardware-Other 3117 3125	computer
+T23	Software-OS-Related 3134 3141	Restart
+T24	Hardware-Other 3147 3155	Computer
+T25	Software-OS-Related 3224 3234	boot order
+T26	Hardware-Other 3274 3282	computer

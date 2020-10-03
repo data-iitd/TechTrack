@@ -1,0 +1,39 @@
+Hide the Windows Taskbar
+https://www.wikihow.com/Hide-the-Windows-Taskbar
+
+0 - Troubleshooting
+
+1 - Check for programs keeping the taskbar open.
+Check for programs keeping the taskbar open. If a program is flashing in the taskbar, it won't close. Clicking the flashing program will switch to the program and stop it from trying to notify you.
+
+2 - Check the icons in your system tray.
+Check the icons in your system tray. The system tray can be found in the lower-right corner of the screen, next to the clock. Like the programs in your taskbar, icons in your system tray may be keeping the taskbar open when trying to notify you. Click the icon with the notification to see what the program needs.[1]
+- X
+- Research source
+- 
+- The program icon may be hidden. Click the arrow to the left of the row of icons to see any hidden icons.
+
+3 - Disable notifications for specific programs.
+Disable notifications for specific programs. If you're constantly having to dismiss notifications, or if a notification won't go away and the taskbar is stuck on, you can try disabling all notifications.[2]
+- X
+- Research source
+- 
+- 
+- Windows 10 - Click the Start menu and select "Settings." Select "System" and then "Notifications & actions." Toggle the notifications off for specific apps, or toggle them all off at the top of the list.
+- Windows 8, 7, and Vista - Click the Expand arrow next to your system tray icons, then click "Customize." Find the app you want to disable notifications for and select "Hide icon and notifications."
+
+4 - Try reapplying the settings.
+Try reapplying the settings. Sometimes toggling the auto-hide feature off and the on again will fix a taskbar that won't go away. Open the Settings (Windows 10) or Properties window again and turn the auto-hide feature off. Click "Apply" in Windows 8 and earlier versions. Once you've turned it off, toggle it back on again and apply the settings.
+
+5 - Reset Windows Explorer.
+Reset Windows Explorer. This is the user interface for Windows, and resetting it may fix your taskbar issues.[3]
+- X
+- Research source
+- 
+- 
+- Hold Ctrl+⇧ Shift and right-click the taskbar.
+- Select "Exit Explorer" from the menu. Your taskbar and all of your icons and folders will disappear.
+- Press Ctrl+⇧ Shift+Esc to open the Task Manager.
+- Click "File" → "Run new task."
+- Type "explorer" and press ↵ Enter. This will reload explorer.
+

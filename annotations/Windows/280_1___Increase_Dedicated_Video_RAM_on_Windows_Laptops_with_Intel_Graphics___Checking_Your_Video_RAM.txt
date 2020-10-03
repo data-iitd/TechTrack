@@ -1,0 +1,24 @@
+Increase Dedicated Video RAM on Windows Laptops with Intel Graphics
+https://www.wikihow.com/Increase-Dedicated-Video-RAM-on-Windows-Laptops-with-Intel-Graphics
+
+0 - Checking Your Video RAM
+
+1 - Click the Windows Start  button.
+Click the Windows Start  button. The Windows Start menu has the Windows logo.  By default, it's the button in the lower-right corner in the taskbar.
+- ;
+
+2 - Click Settings .
+Click Settings .  The settings button is an icon that resembles a gear.  It's in the sidebar to the left in the Windows Start menu.
+
+3 - Click System.
+Click System.  It's the first option in Settings.  It's next to an icon that resembles a computer.  This displays the System Settings menu
+
+4 - Click Display.
+Click Display.  It's the first option in the sidebar to the left of the System Settings menu.  It's next to an icon that resembles a computer screen.
+
+5 - Scroll down and click Advanced display settings.
+Scroll down and click Advanced display settings.  It's towards the bottom of the Display menu.
+
+6 - Click Display adapter properties for Display 1.
+Click Display adapter properties for Display 1.  It's below the Display Information.   This displays a pop-up window with information on your graphics adapter and video RAM.  The total amount of dedicated video RAM is displayed next to "Dedicated Video Memory".
+

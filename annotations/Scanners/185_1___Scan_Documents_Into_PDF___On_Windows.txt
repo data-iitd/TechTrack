@@ -1,0 +1,69 @@
+Scan Documents Into PDF
+https://www.wikihow.com/Scan-Documents-Into-PDF
+
+0 - On Windows
+
+1 - Connect your scanner to your computer.
+Connect your scanner to your computer. Depending on your scanner, you can do this via the USB cable, or you can connect wirelessly over your network if your scanner has that feature.
+- Every scanner is different, so consult the manufacturer's user guide for instructions on how to properly connect your scanner to your computer.
+- ;
+
+2 - Place your document in the scanner.
+Place your document in the scanner. This should be the document you want to turn into a PDF.
+
+3 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+4 - Type fax and scan into Start.
+Type fax and scan into Start. This will search your computer for the Fax and Scan program.
+
+5 - Click Fax and Scan.
+Click Fax and Scan. It's a printer-shaped icon at the top of the Start window. Doing so will open your PC's Fax and Scan program.
+
+6 - Click New Scan.
+Click New Scan. This button is in the upper-left side of the Fax and Scan window. Clicking it opens a new window.
+
+7 - Make sure your scanner is selected.
+Make sure your scanner is selected. If there are multiple scanners on your network, check the "Scanner" section at the top of the window to ensure that the one listed there is the one you want to use.
+- If the scanner currently selected isn't the one you want to use, click Change... and then select the scanner.
+
+8 - Select a type of document.
+Select a type of document. Click the "Profile" drop-down box, then click one of the following options:
+- Photo
+- Documents
+
+9 - Select the type of scanner.
+Select the type of scanner. Click the "Source" drop-down box, then click one of the following options:
+- 
+- Feeder - Select this option if your documents are fed into the scanner through a chute. Used for scanning multiple documents into one PDF.
+- Flatbed - Pick this option if your scanner has a lid that you lift up to place the documents.
+
+10 - Click Scan.
+Click Scan. It's at the bottom of the window. Doing so will prompt your document to begin scanning into your computer.
+- You can also change color options here before clicking Scan.
+
+11 - Click File.
+Click File. Once your document finishes scanning, you'll click this tab in the upper-left corner of the window. A drop-down menu will appear.
+
+12 - Click Print….
+Click Print…. It's in the drop-down menu.
+
+13 - Click the "Printer" drop-down box.
+Click the "Printer" drop-down box. You'll find this in the upper-left side of the Print window.
+
+14 - Click Microsoft Print to PDF.
+Click Microsoft Print to PDF. It's in the Printer drop-down menu.
+- If this isn't an option, use the default settings to scan your image into your computer as an image, then convert the image to a PDF.
+
+15 - Click Print.
+Click Print. This option is in the lower-right side of the window.
+
+16 - Select a save location.
+Select a save location. Click a folder on the left side of the window.
+
+17 - Enter a name for your PDF.
+Enter a name for your PDF. Do this in the field to the right of the "File name" heading.
+
+18 - Click Save.
+Click Save. It's at the bottom of the window. Doing so will save your scanned file as a PDF in your selected save location.
+

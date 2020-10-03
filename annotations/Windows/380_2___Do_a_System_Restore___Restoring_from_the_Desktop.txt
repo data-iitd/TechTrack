@@ -1,0 +1,29 @@
+Do a System Restore
+https://www.wikihow.com/Do-a-System-Restore
+
+0 - Restoring from the Desktop
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Type recovery into Start.
+Type recovery into Start. Doing so will search your computer for the "Recovery" program.
+
+3 - Click Recovery.
+Click Recovery. It's a blue computer monitor-shaped icon at the top of the Start window. This will open the Recovery window.
+
+4 - Click Open System Restore.
+Click Open System Restore. This link is near the top of the Recovery window. Doing so opens the System Restore window.
+
+5 - Click Next.
+Click Next. It's at the bottom of the window.
+
+6 - Select a restore point.
+Select a restore point. Click your restore point's name in the middle of the page. Make sure that the date to the left of this point is correct before continuing.
+
+7 - Click Next.
+Click Next. This is at the bottom of the page.
+
+8 - Click Finish.
+Click Finish. It's at the bottom of the System Restore window. Doing so will prompt your computer to begin restoring. This process may take several minutes to over an hour, and your computer will restart at least once during the process.
+

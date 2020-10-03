@@ -1,0 +1,24 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Updating Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the bottom-left corner of the Start window.
+
+3 - Click  Update & security.
+Click  Update & security. You'll find this in the lower-left side of the Settings window.
+
+4 - Click the Windows Update tab.
+Click the Windows Update tab. It's in the top-left corner of the window.
+
+5 - Click Check for updates.
+Click Check for updates. This button is at the top of the page.
+
+6 - Wait for the updates to install.
+Wait for the updates to install. Once the updates finish installing, Windows will most likely restart.
+- Windows may restart several times, and you may have to activate Safe Mode again before proceeding.
+

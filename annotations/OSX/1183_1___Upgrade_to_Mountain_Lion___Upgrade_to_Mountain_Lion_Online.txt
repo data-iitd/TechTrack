@@ -1,0 +1,27 @@
+Upgrade to Mountain Lion
+https://www.wikihow.com/Upgrade-to-Mountain-Lion
+
+0 - Upgrade to Mountain Lion Online
+
+1 - Start the download.
+Start the download. Open the Mac App Store. Click on the Mountain Lion button, or search for "Mountain Lion". Click the price button in the upper left corner of the page. The cost of Mountain Lion is $19.99. After clicking the button, it will change to a green color and read "Buy App." Click on this "Buy" button.
+- You will be prompted to sign in to the App Store, and then to authorize your purchase.
+
+2 - Wait.
+Wait. Monitor the downloading progress from the "Purchases" tab of the app store. It has to be fully downloaded in order to install, and this can take quite some time depending on your internet speed. After downloading fully, Mountain Lion installer will open in a new window.
+- You can minimize the app store while you wait and it will will continue downloading in the background.
+
+3 - Finish the download.
+Finish the download. When the installer is done downloading, an installer window will open. When the Mountain Lion installer window opens, click "continue". Read the new license agreement and click "Agree". After which another dialog box will open, click "Agree" again. This will take you to another screen, where you will click "Install".
+- By default, Mountain Lion installer will install on your current startup drive. If you want to install elsewhere, click the "Show All Disks" button, and select the target drive before clicking "Install".
+
+4 - Give credentials.
+Give credentials. You will then be prompted to enter your computer login information, including its password. Do so.
+
+5 - Wait.
+Wait. The installation process can take 20 minutes, so be patient. When installation is complete your computer will automatically restart.
+- While you are waiting, take the time to make sure all applications are closed because your computer will need to restart when done installing.
+
+6 - Done.
+Done. When you computer resumes, you will be running Mountain Lion (OS X 10.8).
+

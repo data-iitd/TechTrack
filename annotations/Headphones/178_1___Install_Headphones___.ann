@@ -1,0 +1,37 @@
+T2	Hardware-Other 274 282	computer
+T6	Software-Other 765 772	SABnzbd
+A5	isInstalled T6 f->t
+T21	Software-Other 1816 1823	browser
+T22	Software-Other 1892 1899	SABnzbd
+T24	Software-Other 2426 2433	SABnzbd
+T25	Hardware-Other 2454 2463	computers
+T29	Software-Other 146 158	sabnzbd.org/
+A15	isInstalled T29 start-F
+T34	Software-Other 3292 3299	SABnzbd
+T35	Software-Other 3530 3537	Folders
+A6	isOpened T35 f->t
+T36	Software-Other 3707 3720	Configuration
+A7	isOpened T36 f->t
+T37	Software-Other 3740 3747	API Key
+T38	Software-Other 3940 3950	Headphones
+T39	Software-Other 4009 4016	SABnzbd
+T40	Software-OS-Related 4705 4731	firewall's exceptions list
+T41	Software-Other 4535 4542	SABnzbd
+T44	Software-Other 4937 4946	antivirus
+A12	isSettingsChanged T44 true
+T45	Software-Other 5079 5086	SABnzbd
+T46	Software-OS-Related 5434 5449	process manager
+A16	isOpened T46 f->t
+T47	Software-OS-Related 5473 5477	par2
+A17	isSettingsChanged T47 true
+T1	Software-Other 87 94	SABnzbd
+A18	isOpened T29 f->t
+T3	Software-Other 502 512	Headphones
+A1	isOpened T21 f->t
+A3	isInstalled T21 start-T
+A9	isOpened T22 f->t
+A2	isSettingsChanged T37 true
+T4	Software-Other 4835 4860	Microsoft optional update
+A4	isInstalled T4 f->t
+A8	isSettingsChanged T40 true
+R1	SubPart Arg1:T37 Arg2:T39	

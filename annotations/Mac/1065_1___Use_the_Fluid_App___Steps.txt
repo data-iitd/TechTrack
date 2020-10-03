@@ -1,0 +1,32 @@
+Use the Fluid App
+https://www.wikihow.com/Use-the-Fluid-App
+
+0 - Steps
+
+1 - Go to the Fluid app website
+Go to the Fluid app website and click the “Free Download” button to download and install the latest version of the Fluid app. Learn how to install software on a Mac.
+- ;
+
+2 - Click the Fluid app icon from your ‘Applications’ folder to launch the app.
+Click the Fluid app icon from your ‘Applications’ folder to launch the app.
+
+3 - Enter the URL of the website or web app you want to create a desktop app for.
+Enter the URL of the website or web app you want to create a desktop app for.
+
+4 - Enter a name that will be used to identify the app.
+Enter a name that will be used to identify the app.
+
+5 - Select the location you want to save your app to using the drop down menu.
+Select the location you want to save your app to using the drop down menu. By default, your ‘Applications’ folder is selected.
+- Click the “Other…” link from the drop down menu to select an alternative location to save the app.
+
+6 - Select an icon to use for your newly created site specific app.
+Select an icon to use for your newly created site specific app. By default, the website’s favicon will be used.
+- Click the “Other…” link from the drop down menu to select custom icon save on your computer.
+
+7 - Click the “Create” button to create your app.
+Click the “Create” button to create your app. You will be prompted once the application has been created successfully.
+
+8 - Click the “Launch Now” button to automatically launch your newly created app.
+Click the “Launch Now” button to automatically launch your newly created app. You can alternatively click the “Reveal in Finder” button to go directly to the saved app in your Finder and launch it manually.
+

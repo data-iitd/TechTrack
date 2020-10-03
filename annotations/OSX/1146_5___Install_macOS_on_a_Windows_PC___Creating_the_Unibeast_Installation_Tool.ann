@@ -1,0 +1,26 @@
+T1	Software-Other 148 163	Unibeast folder
+A1	isOpened T1 f->t
+T2	Software-Other 259 267	Unibeast
+A2	isOpened T2 f->t
+T3	Software-Other 345 349	Open
+A3	isOpened T3 f->t
+T6	Software-Other 825 834	USB drive
+T7	Software-Other 847 855	Continue
+A4	isOpened T7 f->t
+T8	Software-Other 957 968	High Sierra
+T9	Software-Other 981 989	Continue
+A5	isOpened T9 f->t
+T10	Software-Other 1275 1289	UEFI Boot Mode
+A6	isSettingsChanged T10 true
+T11	Software-Other 1328 1344	Legacy Boot Mode
+A7	isSettingsChanged T11 true
+R1	SubPart Arg1:T10 Arg2:T8	
+R2	SubPart Arg1:T11 Arg2:T8	
+T12	Hardware-Devices 1919 1922	Mac
+A8	isPowered T12 start-T
+T13	Software-Other 1970 1978	Unibeast
+A9	isInstalled T13 f->t
+T14	Hardware-Other 2006 2015	USB drive
+T15	Software-Other 2100 2117	macOS High Sierra
+T16	Hardware-Devices 2126 2128	PC
+*	Equiv T12 T16

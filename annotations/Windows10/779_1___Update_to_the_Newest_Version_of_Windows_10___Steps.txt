@@ -1,0 +1,27 @@
+Update to the Newest Version of Windows 10
+https://www.wikihow.com/Update-to-the-Newest-Version-of-Windows-10
+
+0 - Steps
+
+1 - Check Microsoft's website for an update.
+Check Microsoft's website for an update.  Microsoft announces software updates for Windows at windows.microsoft.com.  They will announce upcoming features, but some will not arrive until a later version.
+- ;
+
+2 - Join the Windows Insider Program's fast or slow ring.
+Join the Windows Insider Program's fast or slow ring.  The program is so you can test out the new version of Windows on your PC, and nothing else.  To do so, go to Windows Insider's website, click "Become an Insider", accept the terms, then register your device for the WIP in Settings.
+- The fast ring gives an opportunity to find bugs in the OS, and gives you early releases of upcoming versions.
+- The slow ring gives an opportunity to try a more stable version of an upcoming release.
+
+3 - Wait
+Wait.  The next version will come soon to your device, and you will get a chance to install it.  Once the update is released, then you can proceed to installing it, but understand that compatibility issues are being worked on after release to make sure that your device can run the latest version smoothly.
+
+4 - Go to Microsoft's Windows download site, and run the update assistant (Direct Link).
+Go to Microsoft's Windows download site, and run the update assistant (Direct Link).  This is where you can check your device's compatibility and install the update if it is compatible.
+- Alternatively, go to Settings > Update and Security > Windows Update and click on Check for Updates.  The version will not come right away, but when the update is ready, you will get a notification to set a few privacy settings and then proceed to install the update later or install it right away.
+
+5 - Restart your computer.
+Restart your computer.  When the update is finished downloading, click on Restart now on the Windows Update Assistant to finish installing the update.  This will immediately restart your computer, and it will take at the minimum 20 minutes to finish updating, and much longer on newer versions.
+
+6 - Complete initial setup, if necessary.
+Complete initial setup, if necessary.  Once the update is finished installing, if any new settings are introduced, you will be prompted to set them up.  Initial setup can take a while once the configuration is set, as Windows is making last minute changes to your account to make it more robust and usable.
+

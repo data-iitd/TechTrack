@@ -1,0 +1,59 @@
+T1	Software-Other 206 253	http://www62.zippyshare.com/v/9216851/file.html
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 326 341	extracted files
+A3	isOpened T2 f->t
+T3	Software-Other 464 474	usr folder
+A4	isOpened T3 f->t
+T4	Software-Other 685 695	lib folder
+A5	isOpened T4 f->t
+T5	Software-Other 709 712	usr
+A6	isOpened T5 f->t
+T6	Software-Other 717 732	/ice-master/usr
+A7	isOpened T6 f->t
+T7	Software-Other 1079 1082	bin
+A8	isOpened T7 f->t
+T8	Software-Other 1267 1273	/share
+A9	isOpened T8 f->t
+T9	Software-Other 1404 1423	applications folder
+A10	isOpened T9 f->t
+T10	Software-Other 1484 1507	/usr/share/applications
+A12	isOpened T10 f->t
+T11	Software-Other 1460 1474	ice executable
+A11	isSettingsChanged T11 true
+T12	Software-Other 1432 1442	ice-master
+A13	isOpened T12 f->t
+T13	Software-Other 1594 1606	share folder
+A14	isOpened T13 f->t
+T14	Software-Other 1615 1625	ice-master
+A15	isOpened T14 f->t
+T15	Software-Other 1644 1658	pixmaps folder
+T16	Software-Other 1672 1679	ice.png
+T17	Software-Other 1689 1707	/usr/share/pixmaps
+A18	isOpened T17 f->t
+T18	Software-Other 1148 1154	ice.sh
+A19	isSettingsChanged T18 true
+T19	Software-OS-Related 1795 1803	Internet
+A20	isOpened T19 f->t
+T20	Software-Other 1814 1817	ICE
+A21	isOpened T20 f->t
+T21	Software-Other 1941 1944	URL
+A22	isSettingsChanged T21 true
+T22	Software-Other 1949 1953	name
+A23	isSettingsChanged T22 true
+T23	Software-Other 1967 1999	what menu you want to categorize
+A24	isSettingsChanged T23 true
+T24	Software-Other 2091 2095	icon
+A25	isSettingsChanged T24 true
+R1	SubPart Arg1:T21 Arg2:T20	
+R2	SubPart Arg1:T22 Arg2:T20	
+R3	SubPart Arg1:T23 Arg2:T20	
+R4	SubPart Arg1:T24 Arg2:T20	
+T25	Software-Other 167 181	ice-master.zip
+A26	isOpened T25 f->t
+T26	Software-Other 515 530	new file window
+A27	isOpened T26 f->t
+R5	SubPart Arg1:T18 Arg2:T7	
+R6	SubPart Arg1:T11 Arg2:T10	
+A17	isOpened T16 f->t
+A16	isOpened T15 f->t

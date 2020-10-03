@@ -1,0 +1,24 @@
+Set a 24‐Hour Clock on a Mac
+https://www.wikihow.com/Set-a-24%E2%80%90Hour-Clock-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo at the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Language & Region" icon.
+Click the "Language & Region" icon. It looks like a flag.
+
+4 - Navigate to the "Time Format" section.
+Navigate to the "Time Format" section.
+
+5 - Click the check box next to "24-Hour Time.
+Click the check box next to "24-Hour Time." You should see the time switch from 12-Hour to 24-Hour format in the top right corner of your Mac screen.
+
+6 - Click the red "x" button to exit.
+Click the red "x" button to exit.
+

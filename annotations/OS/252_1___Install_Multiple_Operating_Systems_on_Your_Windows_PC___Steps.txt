@@ -1,0 +1,39 @@
+Install Multiple Operating Systems on Your Windows PC
+https://www.wikihow.com/Install-Multiple-Operating-Systems-on-Your-Windows-PC
+
+0 - Steps
+
+1 - Install VMware Workstation.
+Install VMware Workstation.  This program will allow us to set up multiple virtual machines and use them concurrently with our local machine.
+- ;
+
+2 - Download Ubuntu.
+Download Ubuntu.  You will be mounting this OS in your VMware workstation so make sure it's an ISO file.
+
+3 - Open Workstation.
+Open Workstation.  Select file > New > Virtual Machine
+
+4 - Choose the option, Typical, then click next.
+Choose the option, Typical, then click next.
+
+5 - Choose Installer disk file(iso)
+
+Choose Installer disk file(iso)
+
+6 - Enter your product key, no password is required here
+
+Enter your product key, no password is required here
+
+7 - Download your second OS (Mac).
+Download your second OS (Mac).  Again make sure this is an ISO file.
+
+8 - Open Workstation.
+Open Workstation. Select file > New > Virtual Machine
+
+9 - Choose installer disk file(iso)
+
+Choose installer disk file(iso)
+
+10 - Both your Ubuntu and Mac operating systems are now displayed on your side panel.
+Both your Ubuntu and Mac operating systems are now displayed on your side panel.  Click to run.
+

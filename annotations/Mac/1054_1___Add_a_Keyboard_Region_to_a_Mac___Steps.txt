@@ -1,0 +1,28 @@
+Add a Keyboard Region to a Mac
+https://www.wikihow.com/Add-a-Keyboard-Region-to-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Keyboard.
+Click on Keyboard. It's in the center of the preferences window.
+
+4 - Click on Input Sources.
+Click on Input Sources.
+
+5 - Click on +.
+Click on +. It's beneath the left pane of the dialog box.
+
+6 - Click on the language_region you'd like to add.
+Click on the language/region you'd like to add.
+- You can type the region in the search box under the left pane of the dialog box to avoid scrolling through all available regions and languages.
+
+7 - Click on Add.
+Click on Add. You have now added a new keyboard region to your Mac.
+

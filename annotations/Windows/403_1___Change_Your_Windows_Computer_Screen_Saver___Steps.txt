@@ -1,0 +1,55 @@
+Change Your Windows Computer Screen Saver
+https://www.wikihow.com/Change-Your-Windows-Computer-Screen-Saver
+
+0 - Steps
+
+1 - Click the Start  menu.
+Click the Start  menu. It's the icon with the Windows logo in the bottom-left corner of the screen in the task bar. This displays the Start menu.
+- ;
+
+2 - Click the Settings  icon.
+Click the Settings  icon.   It's the icon that resembles a gear.  It's on the left side of the Windows Start menu.  This displays the Settings menu.
+
+3 - Click Personalization.
+Click Personalization.  It's next to an icon that resembles a computer screen with a paintbrush in the Settings menu.  This displays the Windows personalization options.
+
+4 - Click Lock Screen.
+Click Lock Screen.  It's in the sidebar menu to the left of the Settings menu.  It's next to an icon that resembles a rectangle with a lock.
+
+5 - Scroll down and click Screen saver settings.
+Scroll down and click Screen saver settings.  It's the last option at the bottom of the "Lock Screen" settings menu.  This opens the Screen Saver Settings in a new window.
+
+6 - Click the drop-down menu below "Screen saver".
+Click the drop-down menu below "Screen saver".  This displays a drop-down menu with screen savers you can choose from.
+
+7 - Click a screen saver.
+Click a screen saver. By default, there are seven screen saver options to choose from. Highlight the screen saver you want to select it.  A preview of the screen saver displays in the display at the top of the Screen Saver Settings menu.
+- Selecting the () option disables the screen saver on your computer.
+
+8 - Click Settings (3D Text and Photos only).
+Click Settings (3D Text and Photos only).  Both the "3D Text" and "Photos" screen savers have customizable options you can change by clicking Settings next to the drop-down menu.
+- 
+- Photos:  The following options are available for the Photos screen saver.  Click Save in the lower-right corner to save the Settings.
+- Click Browse to select a folder of photos to use in the screen saver.
+- Click the drop-down menu next to "Slide Show Speed" and select how fast the images change.
+- Click the checkbox next to Shuffle to randomize the pictures.
+- 
+- 3D Text: The following options are available for the 3D Text screen saver.  Click Ok in the upper-right corner to apply the settings.
+- Select Time in the upper-right corner to display the time.
+- Select Custom Text and then type couple words in text box to display a personal message.
+- Click Choose Font to select a font for the 3D text.
+- Use the drop-down menu next to "Rotation type" to select the animation style for the 3D text.  Use the slider bar below Rotation Speed to change the animation speed.
+- Use the slider bar below Resolution to change the detail of the 3D text.
+- Use the slider bar below Size to change the size of the 3D text.
+- Select Color, Texture, or Reflection under "Surface style".  If you want you can click the checkbox that says "Custom Color/Texture/Reflection" and then click the button next to it to pick a color, or bitmap image to use as a texture or reflection.
+
+9 - Type a number in the box next to "Wait".
+Type a number in the box next to "Wait". This number refers to the number of minutes of inactivity that must pass before your screen saver starts.
+- Moving your mouse cursor or pressing a key will reset the time before the screen saver activates.
+
+10 - Click Apply.
+Click Apply.  It's in the bottom-right corner of the window. This applies your Screen Saver Settings.
+
+11 - Click Ok.
+Click Ok.  This exits out of the Screen Saver Settings menu.
+

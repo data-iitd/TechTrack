@@ -1,0 +1,16 @@
+T1	Software-OS-Related 161 175	Device Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 370 386	Network Adapters
+A2	isOpened T2 f->t
+T3	Software-OS-Related 792 799	adapter
+A3	isOpened T3 f->t
+T4	Software-OS-Related 838 848	Properties
+A4	isOpened T4 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T3 Arg2:T2	
+R3	SubPart Arg1:T2 Arg2:T1	
+T5	Software-OS-Related 929 937	Advanced
+A5	isOpened T5 f->t
+T6	Software-OS-Related 982 997	Network Address
+A6	isOpened T6 start-T
+T7	Software-OS-Related 1563 1569	Reboot

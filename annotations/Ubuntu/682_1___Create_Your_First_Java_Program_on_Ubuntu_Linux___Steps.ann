@@ -1,0 +1,20 @@
+T1	Software-OS-Related 391 399	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 481 504	mkdir Java_Applications
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 680 700	cd Java_Applications
+A4	isOpened T3 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T7	Software-Other 883 888	gedit
+T8	Software-Other 1266 1290	Enter the following code
+A5	isSettingsChanged T8 true
+T9	Software-Other 1841 1854	Save the file
+A6	isSettingsChanged T9 true
+A3	isOpened T7 f->t
+T4	Software-Other 1978 2005	Compile the HelloWorld.java
+A7	isSettingsChanged T4 true
+T5	Software-Other 2387 2402	Java class file
+A8	isOpened T5 f->t
+R2	SubPart Arg1:T8 Arg2:T7	
+R3	SubPart Arg1:T9 Arg2:T7	
+R4	SubPart Arg1:T4 Arg2:T7	

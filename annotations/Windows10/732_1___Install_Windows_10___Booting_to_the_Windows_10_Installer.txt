@@ -1,0 +1,43 @@
+Install Windows 10
+https://www.wikihow.com/Install-Windows-10
+
+0 - Booting to the Windows 10 Installer
+
+1 - Make sure your Windows 10 installation media is connected.
+Make sure your Windows 10 installation media is connected. In order for you to install Windows 10, your Windows 10 installation file must be loaded onto a disc or flash drive, and the disc or flash drive must be inserted into your computer.
+- If you haven't yet downloaded the Windows 10 installation tool, follow the instructions from this Microsoft support page: https://www.microsoft.com/en-us/software-download/windows10
+- ;
+
+2 - Open the Start menu.
+Open the Start menu. Either click the Windows icon in the bottom-left corner of the screen, or press the ⊞ Win key.
+
+3 - Click the power icon.
+Click the power icon. This is the circle with a line through its top that's in the bottom-left corner of the Start window.
+
+4 - Click Restart.
+Click Restart. It's in the pop-up menu above the power icon. Doing so will restart your computer.
+
+5 - Press and hold Del or F2 to enter setup.
+Press and hold Del or F2 to enter setup. This key may also be a different key—most computers will display a message on startup that says "Press [key] to enter setup" or something similar, so look for this message when your computer restarts to confirm the key you should press to access the BIOS.
+- Consult your computer's manual or online support page to confirm your computer's BIOS key.
+
+6 - Navigate to the Boot tab.
+Navigate to the Boot tab. You'll use the arrow keys to select it.
+- The Boot tab may instead say Boot Options, depending on your computer's manufacturer.
+
+7 - Select a device from which to boot.
+Select a device from which to boot. You have a couple of options here:
+- For a USB flash drive, select the Removable Devices option.
+- For a disc installation, select the CD-ROM Drive option.
+
+8 - Press the + key until your boot option is first.
+Press the + key until your boot option is first. Once either Removable Devices or CD-ROM Drive is at the top of the list, your computer will select your choice as its default boot option.
+- On some computers, you'll instead press one of the function keys (e.g., F5) to navigate an option up to the top of the menu. The key will be listed on the right side of the screen.
+
+9 - Save your settings.
+Save your settings. You should see a key prompt (e.g., F10) at the bottom of the screen that correlates to "Save and Exit"; pressing it should save your settings and restart your computer.
+- You may have to press ↵ Enter to confirm the changes.
+
+10 - Wait for your computer to restart.
+Wait for your computer to restart. Once your computer finishes restarting, you'll see a window here with your geographical data. You're now ready to begin setting up your Windows 10 installation.
+

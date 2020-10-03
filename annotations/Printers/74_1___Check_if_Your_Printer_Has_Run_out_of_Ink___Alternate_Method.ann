@@ -1,0 +1,5 @@
+T1	Software-Other 146 160	Microsoft Word
+A1	isOpened T1 f->t
+T2	Software-OS-Related 739 751	My Documents
+T3	Hardware-Devices 790 797	printer
+A2	isUsed T3 true

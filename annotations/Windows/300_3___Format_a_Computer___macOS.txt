@@ -1,0 +1,51 @@
+Format a Computer
+https://www.wikihow.com/Format-a-Computer
+
+0 - macOS
+
+1 - Back up your data.
+Back up your data. Formatting and resetting your computer will delete all of your personal files, applications, and settings. See How to Back Up a Mac to learn how to save your files to Time Machine or iCloud.
+
+2 - Turn on your Mac and press ⌘ Command+R.
+Turn on your Mac and press ⌘ Command+R. If your Mac is already turned on, reboot it and press this key combination as soon as it turns back on. This boots your Mac into Recovery Mode.[4]
+- X
+- Research source
+- 
+- You can release your fingers from the keys once you see the Apple logo or a startup screen.
+
+3 - Select Disk Utility.
+Select Disk Utility. It's the last option on the "macOS Utilities" window.
+
+4 - Click Continue.
+Click Continue. It's at the bottom-right corner.
+
+5 - Click the View menu.
+Click the View menu. It's in the menu bar at the top of the screen.
+
+6 - Click Show All Devices.
+Click Show All Devices. This displays all disks connected to your Mac in the left panel.
+
+7 - Select the disk you want to format.
+Select the disk you want to format. For example, if you want to format your primary drive on which macOS is installed, you'll select the first disk at the top of the list (under "Internal").
+
+8 - Click the Erase button.
+Click the Erase button. It's near the top-center part of the window.
+
+9 - Select your formatting details.
+Select your formatting details.
+- Name: Enter a name to identify the hard drive.
+- Format: Unless you have a specific reason not to do so, leave the default format of your internal hard drive as APFS.[5]
+- X
+- Research source
+- 
+- 
+- Scheme: Select Choose GUID Partition Map.
+
+10 - Click Erase to format the disk.
+Click Erase to format the disk. You may be asked to verify your Apple ID or password. Once the disk is erased and formatted, you'll return to the Disk Utility list.
+- If you have additional hard drives, you can format them now using Disk Utility.
+
+11 - Close Disk Utility.
+Close Disk Utility. You can do this by clicking the red circle at the top-left corner of the window.
+- If you want to reinstall macOS on this drive, just boot back into Recovery Mode by pressing Control + R at startup, and then select Reinstall macOS (to start from scratch) or Restore From Time Machine Backup (if you backed up the OS to Time Machine).
+

@@ -1,0 +1,22 @@
+T1	Software-OS-Related 116 121	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 226 234	App Data
+A2	isOpened T2 f->t
+T3	Software-OS-Related 176 201	open your personal folder
+A3	isOpened T3 f->t
+T4	Software-OS-Related 273 280	Roaming
+A4	isOpened T4 f->t
+T5	Software-OS-Related 315 324	Microsoft
+A5	isOpened T5 f->t
+T6	Software-OS-Related 361 368	Windows
+A6	isOpened T6 f->t
+T7	Software-OS-Related 403 413	Start Menu
+A7	isOpened T7 f->t
+T8	Software-OS-Related 451 459	Programs
+A8	isOpened T8 f->t
+T9	Software-OS-Related 495 502	Startup
+A9	isOpened T9 f->t
+T10	Software-OS-Related 530 547	Create a shortcut
+A10	isOpened T10 f->t
+T11	Hardware-Devices 648 656	computer
+A11	isUsed T11 true

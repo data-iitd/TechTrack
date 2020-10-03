@@ -1,0 +1,19 @@
+T1	Software-OS-Related 175 183	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 377 407	Enter the Java install command
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 577 596	Enter your password
+A3	isSettingsChanged T3 true
+T4	Software-Other 760 790	Allow the JRE files to install
+A4	isSettingsChanged T4 true
+A5	isInstalled T4 f->t
+T5	Software-Other 928 931	Yes
+A6	isSettingsChanged T5 true
+T6	Software-Other 1226 1238	Java version
+A7	isSettingsChanged T6 true
+T7	Software-Other 1477 1502	Remove unnecessary files.
+A8	isOpened T7 t->f
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T6 Arg2:T4	
+R3	SubPart Arg1:T2 Arg2:T1	
+R4	SubPart Arg1:T3 Arg2:T1	

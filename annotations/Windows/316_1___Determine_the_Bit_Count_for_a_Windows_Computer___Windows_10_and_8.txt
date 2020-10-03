@@ -1,0 +1,22 @@
+Determine the Bit Count for a Windows Computer
+https://www.wikihow.com/Determine-the-Bit-Count-for-a-Windows-Computer
+
+0 - Windows 10 and 8
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start window will pop up.
+- You can also just right-click Start (or press ⊞ Win+X) and click System in the resulting pop-up menu. If you do this, skip the next two steps.
+- ;
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the bottom-left corner of the Start window. This will open the Settings window.
+
+3 - Click System.
+Click System. It's a computer monitor-shaped icon in the Settings window.
+
+4 - Click About.
+Click About. This tab is at the bottom of the left-hand column of options. Doing so brings up a list of your computer's attributes.
+
+5 - Look for the "System type" heading.
+Look for the "System type" heading. It's near the bottom of the "Device specifications" section toward the bottom of the window. You'll see either "64-bit" or "32-bit" to the right of "System type"; this is your computer's bit count.
+

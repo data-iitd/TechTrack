@@ -1,0 +1,17 @@
+T1	Software-OS-Related 139 148	Dashboard
+A1	isOpened T1 f->t
+T2	Software-OS-Related 465 466	+
+A2	isOpened T2 f->t
+T3	Software-OS-Related 641 653	More Widgets
+A4	isOpened T3 f->t
+T4	Software-OS-Related 732 749	Select a category
+A3	isSettingsChanged T4 true
+T5	Software-OS-Related 754 767	pick a widget
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 780 788	Download
+A6	isOpened T6 f->t
+T7	Software-OS-Related 945 952	Install
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1070 1094	the icon for your widget
+A8	isOpened T8 f->t
+R1	SubPart Arg1:T6 Arg2:T1	

@@ -1,0 +1,17 @@
+T1	Software-OS-Related 95 100	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 198 211	File Explorer
+A2	isOpened T2 f->t
+T3	Software-OS-Related 322 329	This PC
+A3	isOpened T3 f->t
+T4	Software-OS-Related 443 451	Computer
+A4	isOpened T4 f->t
+T5	Software-OS-Related 596 613	Map network drive
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1271 1277	Browse
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1758 1760	OK
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1992 2012	Reconnect at sign-up
+T9	Software-OS-Related 2471 2477	Finish
+A8	isSettingsChanged T9 true

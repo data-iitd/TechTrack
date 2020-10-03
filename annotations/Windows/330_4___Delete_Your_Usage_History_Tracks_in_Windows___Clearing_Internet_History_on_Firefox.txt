@@ -1,0 +1,34 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing Internet History on Firefox
+
+1 - Open Firefox.
+Open Firefox. Click or double-click the Firefox app, which resembles a blue globe with an orange fox wrapped around it.
+
+2 - Click ☰.
+Click ☰. It's in the top-right corner of the page. A drop-down menu will appear.
+
+3 - Click Library.
+Click Library. This option is in the middle of the drop-down menu.
+
+4 - Click History.
+Click History. It's near the top of the menu.
+
+5 - Click Clear Recent History….
+Click Clear Recent History…. This is near the top of the menu. Clicking it opens a pop-up window.
+
+6 - Select a time range to clear.
+Select a time range to clear. Click the "Time range to clear" drop-down box, then click a time span (e.g., Last Hour).
+- Selecting Everything in the drop-down menu will ensure that all of your history is cleared.
+
+7 - Click the "Details" drop-down icon.
+Click the "Details" drop-down icon. It's a downward-facing arrow to the left of the "Details" heading. A menu will appear.
+
+8 - Check the "Browsing & Download History" box.
+Check the "Browsing & Download History" box. You'll find this at the top of the menu.
+- You can uncheck every other box in this menu if you please.
+
+9 - Click Clear Now.
+Click Clear Now. This option is at the bottom of the menu. Doing so clears your Firefox history for the selected time range.
+

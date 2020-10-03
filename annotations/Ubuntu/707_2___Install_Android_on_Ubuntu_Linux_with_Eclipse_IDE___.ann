@@ -1,0 +1,48 @@
+T1	Software-Other 221 247	install the ADT plugin too
+A1	isInstalled T1 f->t
+T2	Software-Other 566 573	Eclipse
+A2	isOpened T2 f->t
+T3	Software-Other 587 591	Help
+A3	isOpened T3 f->t
+T4	Software-Other 594 614	Install New Software
+A4	isOpened T4 f->t
+T5	Software-Other 622 625	Add
+A5	isOpened T5 f->t
+T6	Software-Other 702 712	ADT Plugin
+A6	isSettingsChanged T6 true
+T7	Software-Other 808 850	https://dl-ssl.google.com/android/eclipse/
+A7	isSettingsChanged T7 true
+T8	Software-Other 860 862	OK
+A8	isSettingsChanged T8 true
+T9	Software-Other 1160 1192	checkbox next to Developer Tools
+A9	isSettingsChanged T9 true
+T10	Software-Other 1203 1207	Next
+A10	isOpened T10 f->t
+T12	Software-Other 1287 1291	Next
+A12	isOpened T12 f->t
+T13	Software-Other 1344 1350	Finish
+A13	isSettingsChanged T13 true
+T15	Software-Other 1789 1795	Window
+A15	isOpened T15 f->t
+T16	Software-Other 1798 1810	Preferences.
+A16	isOpened T16 f->t
+T17	Software-Other 1853 1860	Android
+A17	isSettingsChanged T17 true
+T18	Software-Other 1997 2004	Proceed
+A18	isOpened T18 f->t
+T19	Software-Other 2179 2185	Browse
+A19	isOpened T19 f->t
+T20	Software-Other 2279 2284	Apply
+A20	isSettingsChanged T20 true
+T21	Software-Other 2291 2293	OK
+A21	isSettingsChanged T21 true
+T14	Software-Other 1571 1586	restart Eclipse
+A14	isOpened T14 f->t
+R1	SubPart Arg1:T17 Arg2:T14	
+R3	SubPart Arg1:T20 Arg2:T19	
+R4	SubPart Arg1:T9 Arg2:T2	
+R5	SubPart Arg1:T13 Arg2:T2	
+R6	SubPart Arg1:T6 Arg2:T2	
+R7	SubPart Arg1:T7 Arg2:T2	
+R8	SubPart Arg1:T8 Arg2:T2	
+R2	SubPart Arg1:T21 Arg2:T19	

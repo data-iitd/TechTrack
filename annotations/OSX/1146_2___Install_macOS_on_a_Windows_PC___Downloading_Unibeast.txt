@@ -1,0 +1,61 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Downloading Unibeast
+
+1 - Go to the Unibeast download site on a Mac.
+Go to the Unibeast download site on a Mac. Go to https://www.tonymacx86.com/. Make sure you do this on a Mac, since the folder will download the wrong app if you do this on a Windows computer and try to transfer it over to a Mac.
+
+2 - Click Log in or Register.
+Click Log in or Register. It's in the upper-right side of the page. A menu will appear at the top of the page.
+
+3 - Enter your email address.
+Enter your email address. Do so in the "Email address" field. Make sure this is an email address that you can easily access—you'll need to log in and verify the email address later.
+
+4 - Check the "No, create an account now" box.
+Check the "No, create an account now" box. It's near the bottom of the menu.
+
+5 - Click Sign up.
+Click Sign up. Doing so takes you to the Create an Account page.
+
+6 - Enter the required information.
+Enter the required information. Fill out the following fields:
+- 
+- Name — Enter the name you want to use for your account.
+- Password — Enter a password you'd like to use for the login.
+- Confirm Password — Repeat the password you entered above.
+- Date of Birth — Select the month, day, and year of your birth.
+- Location — Type in your country's name.
+
+7 - Check the "I agree to the terms and rules" box.
+Check the "I agree to the terms and rules" box. It's near the bottom of the page.
+
+8 - Click Sign up.
+Click Sign up. This button is at the bottom of the page. Doing so creates your account and sends a confirmation email to your provided email address.
+
+9 - Go to your email inbox.
+Go to your email inbox. Go to the email address that you selected for your account. You may have to log in with your email address and the email account's password to open the inbox.
+
+10 - Open the confirmation email.
+Open the confirmation email. Click the email from "tonymacx86.com" to open it.
+
+11 - Click the confirmation link.
+Click the confirmation link. Click the link below the "Confirm Account" text in the middle of the email. This will take you back to the Unibeast download site.
+
+12 - Double-click the Downloads tab.
+Double-click the Downloads tab. It's on the right side of the row of tabs that's near the top of the page. The Downloads page should open.
+- If you just see a drop-down menu appear, click the Downloads tab once more.
+
+13 - Scroll down and click Unibeast.
+Scroll down and click Unibeast. Make sure you click the version of Unibeast that has the highest number next to it.
+- For example, the current release of Unibeast as of May 2018 is 8.3.2.
+
+14 - Click Download Now.
+Click Download Now. It's in the top-right corner of the page. Doing so will download Unibeast onto your Mac.
+
+15 - Download Multibeast.
+Download Multibeast. This program, which is hosted on the same site as Unibeast, will allow you to install drivers so that you can use things like your PC's speakers, the Internet, and so on:
+- Double-click the Downloads tab again.
+- Click Multibeast - High Sierra 10.2.0
+- Click Download Now in the upper-right corner of the page.
+

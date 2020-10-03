@@ -1,0 +1,44 @@
+Screenshot in Windows 10
+https://www.wikihow.com/Screenshot-in-Windows-10
+
+0 - 
+
+1 - Arrange your screen how you'd like it to appear in the screenshot.
+Arrange your screen how you'd like it to appear in the screenshot. Even if you just want to capture a portion of the screen, you'll be able to do so easily using Snip & Sketch.
+- Snip & Sketch is an updated version of the original Snipping Tool for Windows 10. As long as you've updated your computer to at least version 1809 (February 2019), you'll have the tool on your computer.[1]
+- X
+- Research source
+- 
+- 
+- See How to Update Windows to learn how to get the latest Windows updates.
+- ;
+
+2 - Open Snip & Sketch.
+Open Snip & Sketch. You can open it by typing snip into the Windows search bar and clicking Snip & Sketch in the search results.
+- You can also open the tool by press ⊞ Win+⇧ Shift+S.
+
+3 - Click New.
+Click New. It's the blue button near the top-left corner of Snip & Sketch. Four icons will appear at top of the screen.
+- If you used the keyboard shortcut you can skip this step.
+
+4 - Select a type of screenshot to take.
+Select a type of screenshot to take. Hover the mouse cursor over each icon to see what type of screenshot it represents, then click your selection to take a screenshot.
+- 
+- Rectangular snip: This option lets you capture a section of the screen by drawing a rectangle around it. After you draw your shape, a preview of the screenshot will appear in the tool.
+- Freeform snip: This lets you capture any part of the screen in any shape by tracing freehand. After you draw your shape, a preview of the screenshot will appear in the tool.
+- Window snip: Use this tool if you want to capture a single window. After clicking the button, click the window you want to capture to take the photo and view the preview.
+- Fullscreen snip: Captures the entire screen and displays a preview in the tool.
+
+5 - Edit the screenshot (optional).
+Edit the screenshot (optional). Snip & Sketch comes with several editing tools you can use to modify or mark the image before saving.
+- Click the finger with a piece of string tied around it to freehand draw on the image. You can then select a drawing/writing tool and color at the top of the screen and draw text or shapes as needed.
+- Click the eraser icon to erase part any mistakes you make while drawing.
+- Click the ruler icon to display a ruler along the top of the screen.
+- Click the crop icon (a square with a line through it) to preserve part of the image while trimming the rest.
+
+6 - Click the disk icon to save your screenshot.
+Click the disk icon to save your screenshot. It's near the top-right corner of Snip & Sketch.
+
+7 - Select a save location and click Save.
+Select a save location and click Save. If you'd like to select a specific folder and specify a file name, you can do that before clicking Save. Your screenshot will be saved to the folder you select.
+

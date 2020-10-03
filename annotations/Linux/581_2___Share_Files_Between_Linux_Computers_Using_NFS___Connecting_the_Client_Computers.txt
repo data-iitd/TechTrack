@@ -1,0 +1,32 @@
+Share Files Between Linux Computers Using NFS
+https://www.wikihow.com/Share-Files-Between-Linux-Computers-Using-NFS
+
+0 - Connecting the Client Computers
+
+1 - Open the terminal on the client computer.
+Open the terminal on the client computer.
+
+2 - Type .
+Type .sudo apt-get install portmap nfs-common and press ↵ Enter to install the NFS client files.
+
+3 - Create the directory that the shared files will be mounted in.
+Create the directory that the shared files will be mounted in. You can name this whatever you'd like. For example, you can type mkdir /sharedFiles to create a folder called "sharedFiles".
+
+4 - Type .
+Type .pico /etc/fstab to open the /etc/fstab file.
+
+5 - Add .
+Add .serverIP:sharedDirectory nfs rsize=8192,wsize=8192,timeo=14,intr to the end of the file. Replace serverIP with the IP address of the NFS server computer. Replace sharedDirectory with the dummy directory you created on the NFS server and the local directory you just created. Leave the rest of the values as they are for now.
+- Using the above examples, the line might look like: 192.168.1.5:/export/Shared /sharedFiles nfs rsize=8192,wsize=8192,timeo=14,intr.
+
+6 - Type .
+Type .sudo /etc/init.d/portmap restart to restart portmap and use the new settings. The drive will automatically mount each time the computer reboots.
+
+7 - Test the drive by manually mounting it before restarting.
+Test the drive by manually mounting it before restarting. Type mount -a and then ls /sharedFiles to see if the shared files are displayed.
+
+8 - Repeat this process for each connecting computer.
+Repeat this process for each connecting computer. You should be able to enter the same settings and successfully connect.[3]
+- X
+- Research source
+

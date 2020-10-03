@@ -1,0 +1,54 @@
+Install VMware Tools on Ubuntu or Debian
+https://www.wikihow.com/Install-VMware-Tools-on-Ubuntu-or-Debian
+
+0 - Steps
+
+1 - Log in to your Linux console.
+Log in to your Linux console.
+- (The first step is to install the headers.)From the command prompt type uname -r.
+- ;
+
+2 - Using the version information given, type apt-get install build-essential linux-headers-(then the version information).
+Using the version information given, type apt-get install build-essential linux-headers-(then the version information). In this example 2.6.26-2-686.
+
+3 - Once completed, go to the console menu at the top and click 'VM' 'Guest' 'Install Upgrade VMware Tools.
+Once completed, go to the console menu at the top and click 'VM' 'Guest' 'Install Upgrade VMware Tools.'
+
+4 - Click 'OK' when prompted.
+Click 'OK' when prompted.
+- (You will now copy the tools to a temp directory.)
+
+5 - At the command prompt, type mount _dev_cdrom _media_cdrom
+
+At the command prompt, type mount /dev/cdrom /media/cdrom
+
+6 - At the command prompt, type ls
+
+At the command prompt, type ls
+
+7 - Change the directory by entering cd _media_cdrom
+
+Change the directory by entering cd /media/cdrom
+
+8 - Using the correct VMware tools version shown on the console screen at the command prompt type the following:
+Using the correct VMware tools version shown on the console screen at the command prompt type the following: cp vmwaretools-(version number).tar.gz /tmp
+- (We will now change to the temp directory.)
+
+9 - Type cd _tmp
+
+Type cd /tmp
+
+10 - At the command prompt, type tar zxvf vmwaretools-(version number).tar.gz
+
+At the command prompt, type tar zxvf vmwaretools-(version number).tar.gz
+
+11 - When the command prompt returns, type cd vmware-tools-distrib_
+
+When the command prompt returns, type cd vmware-tools-distrib/
+
+12 - Next, type .
+Next, type ./vmware-install.pl
+
+13 - Accept defaults by hitting 'Enter.
+Accept defaults by hitting 'Enter.'
+

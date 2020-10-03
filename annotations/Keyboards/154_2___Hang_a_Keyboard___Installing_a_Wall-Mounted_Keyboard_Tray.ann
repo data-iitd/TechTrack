@@ -1,0 +1,27 @@
+T1	Hardware-Other 132 136	tray
+T2	Hardware-Other 265 280	stationary tray
+*	Equiv T1 T2
+T3	Hardware-Other 284 289	shelf
+T4	Hardware-Devices 431 439	keyboard
+T5	Hardware-Devices 486 491	mouse
+T6	Hardware-Other 934 938	tray
+T7	Hardware-Other 898 902	stud
+T8	Hardware-Other 1441 1444	tap
+T9	Hardware-Other 1586 1590	stud
+T10	Hardware-Other 1759 1763	tray
+T11	Hardware-Other 1948 1952	stud
+T12	Hardware-Other 1988 1994	pencil
+T13	Hardware-Devices 2257 2265	keyboard
+T14	Hardware-Other 2595 2599	tray
+T15	Hardware-Other 2782 2787	drill
+T16	Hardware-Other 2892 2899	trigger
+T17	Hardware-Other 2907 2912	drill
+T18	Hardware-Other 3073 3084	metal studs
+T19	Hardware-Other 3110 3115	drill
+T20	Hardware-Other 3222 3227	Screw
+T21	Hardware-Other 3232 3237	mount
+T22	Hardware-Other 3260 3271	screwdriver
+T23	Hardware-Other 3334 3339	mount
+T24	Hardware-Devices 3764 3772	keyboard
+T25	Hardware-Other 3810 3816	screws
+T26	Hardware-Other 4060 4069	backplate

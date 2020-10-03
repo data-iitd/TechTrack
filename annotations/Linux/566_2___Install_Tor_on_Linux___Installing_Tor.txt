@@ -1,0 +1,30 @@
+Install Tor on Linux
+https://www.wikihow.com/Install-Tor-on-Linux
+
+0 - Installing Tor
+
+1 - Open  Terminal.
+Open  Terminal. Click the Terminal app icon, which resembles a black box with white text in it, to do so. You'll usually find the Terminal icon in the Dock or on the Desktop.
+- Some versions of Linux require you to open the Menu and then select Terminal from the list of apps.
+- You can also just press Alt+Ctrl+T to open the Terminal window.
+
+2 - Switch to the Downloads directory.
+Switch to the Downloads directory. Type in cd Downloads and press ↵ Enter. This will shift the Terminal's focus into the Downloads folder, which is where your downloaded Tor setup file should be.
+- If you downloaded the Tor setup file into a different folder, you'll have to change to that folder's directory instead.
+
+3 - Extract the Tor setup file's contents.
+Extract the Tor setup file's contents. Type in tar -xvJf tor-browser-linux64-7.5.2_language-region.tar.xz and make sure to substitute the file name's language (e.g., en-US) for the language-region section, then press ↵ Enter.[1]
+- X
+- Research source
+- 
+- For example, in order to extract the U.S. English version of Tor, you'd type in tar -xvJf tor-browser-linux64-7.5.2_en-US.tar.xz and press ↵ Enter.
+
+4 - Open the Tor browser's directory.
+Open the Tor browser's directory. Type in cd tor-browser_language where language is the language tag for your selected version of Tor, then press ↵ Enter.
+
+5 - Run the Tor setup.
+Run the Tor setup. Type in ./start-tor-browser.desktop and press ↵ Enter, then wait for Tor's setup window to open.
+
+6 - Click Connect.
+Click Connect. It's in the lower-left side of the window. Doing so will connect you to the Tor network and, once the connection is successful, open the Tor browser. You should now be able to browse using Tor.
+

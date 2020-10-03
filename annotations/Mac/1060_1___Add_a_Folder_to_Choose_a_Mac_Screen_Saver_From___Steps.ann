@@ -1,0 +1,19 @@
+T1	Software-OS-Related 178 188	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 309 327	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 379 401	Desktop & Screen Saver
+A3	isOpened T3 f->t
+T4	Software-OS-Related 493 505	Screen Saver
+A4	isOpened T4 f->t
+T5	Software-OS-Related 594 612	screen saver style
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 779 785	Source
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 895 908	Choose Folder
+A7	isOpened T7 f->t
+T8	Software-OS-Related 995 1043	folder you'd like to use for background pictures
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1079 1086	Choose.
+A9	isSettingsChanged T9 true
+R1	SubPart Arg1:T8 Arg2:T4	

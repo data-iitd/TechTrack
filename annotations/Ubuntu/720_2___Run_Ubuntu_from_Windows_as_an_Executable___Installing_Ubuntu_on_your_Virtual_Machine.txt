@@ -1,0 +1,35 @@
+Run Ubuntu from Windows as an Executable
+https://www.wikihow.com/Run-Ubuntu-from-Windows-as-an-Executable
+
+0 - Installing Ubuntu on your Virtual Machine
+
+1 - Mount the Ubuntu ISO to your virtual machine.
+Mount the Ubuntu ISO to your virtual machine. Start your Ubuntu virtual machine by double clicking on it from the list on your virtual machine manager. It will prompt for an ISO to install the operating system. Browse your computer to locate where the ISO was downloaded to. Start your virtual machine to proceed to the startup sequence.
+
+2 - Choose your language and install Ubuntu.
+Choose your language and install Ubuntu. After the startup sequence, you will see a language selection option and two buttons. With your mouse, choose your preferred language and then click on the “Install Ubuntu” button.
+- The prompts will indicate what will happen to the current virtual machine and will not affect your main Windows computer.
+
+3 - Follow the installation prompts.
+Follow the installation prompts. Ubuntu will check your virtual machine’s resources.[3]
+- X
+- Research source
+- 
+-  You can opt to install updates and install third party software then click on “Continue.”
+- If your virtual machine setup does not meet the installation requirements, you can shut down Ubuntu and turn off your virtual machine to change the hardware specifications of your virtual machine through the virtual machine manager software.
+- If you choose to install additional software or updates it will require a network connection on your virtual machine and you may be prompted for additional configuration if you are using a wireless connection.
+
+4 - Choose your time zone.
+Choose your time zone.  You will receive a prompt for what time zone you currently reside in. Choose your time zone then click on “Continue.”
+
+5 - Create a profile for your computer and username.
+Create a profile for your computer and username. Ubuntu will ask you to provide a name for your computer as well as a username and password for your login. Click on “Continue” to let the installation process complete.
+- Be sure to note down your password. You can set your login to happen automatically when Ubuntu boots up, but when your virtual machine goes to sleep or if you are looking to install software that requires superuser privileges, you will need to use your password.
+
+6 - Create a shortcut of your virtual machine to your desktop.
+Create a shortcut of your virtual machine to your desktop.
+- In Oracle VirtualBox, you can create a desktop shortcut by right clicking on the desktop from the list of virtual machines or by using file menu commands.
+- VMWare Workstation Player does not provide a native way to make a desktop shortcut. Instead, right click on your desktop, choose “New” and click on “Shortcut.” In the new window you will see a location field. Type in “The path to the vmware program” “-X” “The path to your virtual machine’s *.vmx file” The -X command tells the shortcut to open the program and to start the identified virtual machine. Be sure to use quotation marks as well. Click on “Next”. Provide a name for the shortcut then click on “Finish.”[4]
+- X
+- Research source
+

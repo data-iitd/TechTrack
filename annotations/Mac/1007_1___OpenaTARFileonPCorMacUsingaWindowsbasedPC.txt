@@ -1,0 +1,48 @@
+Open a TAR File on PC or Mac
+https://www.wikihow.com/Open-a-TAR-File-on-PC-or-Mac
+
+0 - Using a Windows-based PC
+
+1 - Open a web browser.
+Open a web browser. Popular ones include Firefox and Chrome.
+
+2 - Navigate to https:__www.7-zip.org_.
+Navigate to https://www.7-zip.org/.
+
+3 - Click Download either the 32-bit X84 or 64-bit x64 file.
+Click Download either the 32-bit X84 or 64-bit x64 file.
+
+4 - Choose a download location in the pop-up window.
+Choose a download location in the pop-up window. A pop-up box will appear asking you to choose a download location once you click Download.
+
+5 - Click Save.
+Click Save. The .exe file will save in the location you picked in the previous step, which is most likely the Downloads folder.
+
+6 - Click the downloaded .exe file.
+Click the downloaded .exe file. Your browser will alert you when the download is finished.
+- Click Allow changes  if prompted.
+
+7 - Click Install.
+Click Install. You will see a progress bar as the installation progresses.
+
+8 - Click Close.
+Click Close.
+
+9 - Open 7-Zip File Manager.
+Open 7-Zip File Manager.
+
+10 - Navigate to the TAR file.
+Navigate to the TAR file. This program works just like the native file manager on your computer.
+
+11 - Click your TAR file.
+Click your TAR file. It will highlight in blue.
+
+12 - Click the extract button.
+Click the extract button. This is at the top of the window and looks like a blue minus button.
+
+13 - Choose an extraction location.
+Choose an extraction location. A window will pop up with options such as extraction location.
+
+14 - Click Ok.
+Click Ok. The files inside the TAR file will extract into the location you specified in the previous step, and you'll be able to open it from there.
+

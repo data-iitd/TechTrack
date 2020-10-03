@@ -1,0 +1,25 @@
+Webcam With Another Person
+https://www.wikihow.com/Webcam-With-Another-Person
+
+0 - Using a Webcam with Skype
+
+1 - Download and install Skype.
+Download and install Skype. Skype is a popular video chat and phone program with broad platform support.
+- ;
+
+2 - Connect your webcam.
+Connect your webcam. A USB camera should be recognized and install its driver automatically. Some cameras may come with driver install CDs. These are not always necessary, but should be used if there are any problems with the camera.
+- In Windows, you can check that the camera installed properly by navigating to Control Panel > Device Manager > Imaging Devices and check that your camera is listed without errors.
+
+3 - Launch Skype and create or log into your account.
+Launch Skype and create or log into your account. Keep in mind your real name, username, and email can all be used as credentials for contact searches.
+
+4 - Adjust your camera settings.
+Adjust your camera settings. This will allow you to make sure your camera is functioning and preview what you will look like. This is accessed in Tools > Options > Video Settings on Windows or Skype > Preferences > Audio/Video on Mac.
+
+5 - Initiate a video call.
+Initiate a video call. Select the search bar and enter the name,  username, or email address of your contact, then press “Search Skype”. Once you locate the desired user, double-click their name and open a conversation window and press “Video Call” (video camera icon).
+- Once the call is initiated, the recipient will need to pick up the call by pressing the green “Accept Call” button for the call to commence.
+- Alternately, you can Press “New” to open a chat window. In the popup you can press “copy link” to send to a friend directly, or email them an invitation to the conversation. After they join the conversation, press “Video Call” to initiate the video call.
+- Press Add to Contacts to save the user for easier access in the future. The recipient will need to accept the request on their end for them to appear in your contacts.
+

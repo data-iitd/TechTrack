@@ -1,0 +1,35 @@
+Enable Image Preview to Display Pictures in a Folder (Windows 10)
+https://www.wikihow.com/Enable-Image-Preview-to-Display-Pictures-in-a-Folder-(Windows-10)
+
+0 - Enabling Image Previews
+
+1 - Open File Explorer .
+Open File Explorer . Click the folder-shaped File Explorer icon at the bottom of the screen, or press ⊞ Win+E.
+- If File Explorer isn't at the bottom of the screen, you can also click Start , type in file explorer, and click File Explorer at the top of the menu.
+- ;
+
+2 - Open your folder.
+Open your folder. Using the File Explorer's left-hand column of folders, navigate to the folder in which you want to enable image previews.
+
+3 - Click the View tab.
+Click the View tab. It's in the upper-left side of the File Explorer window. A toolbar will drop down from the top of the window.
+
+4 - Click the Options icon.
+Click the Options icon. This icon is in the upper-right corner of the window and resembles a white box with checkmarks on it. Clicking it prompts a pop-up window to appear.
+
+5 - Click the View tab.
+Click the View tab. It's at the top of the pop-up window.
+
+6 - Uncheck the "Always show icons, never thumbnails" box.
+Uncheck the "Always show icons, never thumbnails" box. You'll find this in the "Files and Folders" section near the bottom of the window.
+- If you don't see this box, first double-click the "Files and Folders" heading to cause it to appear.
+- If this box is already unchecked, you may have to fix a corrupted thumbnail cache first.
+
+7 - Click Apply, then click OK.
+Click Apply, then click OK. Both options are at the bottom of the window. Doing so will apply your settings and close the window.
+
+8 - Make sure your folder is displaying the proper viewing option.
+Make sure your folder is displaying the proper viewing option. In order to see thumbnail previews, your folder must display files and folders using a supported viewing option (e.g., Extra large icons). To change the current view setting, do the following:
+- Click the View tab.
+- Click one of the following "Layout" options: Extra large icons, Large icons, Medium icons, Tiles, or Content.
+

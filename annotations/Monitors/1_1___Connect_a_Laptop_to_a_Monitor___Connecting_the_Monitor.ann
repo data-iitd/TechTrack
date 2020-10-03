@@ -1,0 +1,62 @@
+T1	Hardware-Other 137 145	laptop's
+T2	Software-OS-Related 396 403	Windows
+A2	isOpened T2 start-F
+T3	Hardware-Other 412 416	HDMI
+T4	Hardware-Other 509 520	DisplayPort
+T5	Hardware-Other 622 625	VGA
+T6	Hardware-Other 629 632	DVI
+T7	Hardware-Other 788 797	computers
+T8	Software-OS-Related 806 809	Mac
+A3	isOpened T8 start-F
+T9	Hardware-Other 818 831	Thunderbolt 3
+T10	Hardware-Other 845 850	USB-C
+*	Equiv T9 T10
+T11	Hardware-Devices 901 909	MacBooks
+T12	Hardware-Other 914 918	HDMI
+T14	Hardware-Other 974 990	Mini DisplayPort
+T15	Hardware-Devices 1096 1105	monitor's
+T16	Hardware-Devices 1239 1250	TV monitors
+T17	Hardware-Other 1296 1300	HDMI
+T18	Hardware-Other 1304 1315	DisplayPort
+T19	Hardware-Other 1388 1391	VGA
+T20	Hardware-Other 1395 1398	DVI
+T21	Hardware-Other 1436 1441	cable
+T22	Hardware-Other 1470 1476	laptop
+T23	Hardware-Other 1543 1552	connector
+T24	Hardware-Other 1687 1692	cable
+T25	Hardware-Devices 1701 1708	monitor
+T26	Hardware-Devices 1848 1850	TV
+T27	Hardware-Other 1940 1946	laptop
+T28	Hardware-Other 1963 1976	adapter cable
+T29	Hardware-Other 2082 2101	VGA-to-HDMI adapter
+T30	Hardware-Other 2232 2251	HDMI-to-DisplayPort
+T31	Hardware-Other 2256 2297	DisplayPort (or Mini DisplayPort)-to-HDMI
+T32	Hardware-Other 2302 2333	Mini DisplayPort-to-DisplayPort
+T33	Hardware-Other 2338 2351	USB-C-to-HDMI
+T34	Hardware-Other 2356 2367	DisplayPort
+*	Equiv T33 T34
+T35	Hardware-Other 2389 2400	DVI-to-HDMI
+T36	Hardware-Devices 2433 2440	monitor
+A12	isPowered T36 f->t
+T37	Hardware-Other 2501 2513	power source
+T38	Hardware-Other 2524 2541	electrical outlet
+T39	Hardware-Other 2559 2582	monitor's Power  button
+T40	Hardware-Other 2608 2615	adapter
+T41	Hardware-Other 2624 2637	adapter cable
+T42	Software-OS-Related 2731 2743	video source
+A13	isOpened T42 f->t
+T44	Hardware-Devices 2832 2834	TV
+T45	Hardware-Other 2913 2919	laptop
+T49	Hardware-Other 3071 3077	remote
+T50	Hardware-Other 3100 3107	laptop'
+T51	Hardware-Devices 3133 3140	monitor
+A23	isConnected T51 f->t
+T52	Hardware-Other 3394 3397	VGA
+T56	Software-OS-Related 3341 3366	laptop's display settings
+A27	isOpened T56 f->t
+T57	Hardware-Other 3554 3562	keyboard
+T13	Hardware-Other 489 504	Windows laptops
+A1	isPowered T16 start-F
+T43	Hardware-Devices 2751 2758	monitor
+T46	Hardware-Devices 3296 3302	screen
+A4	isSettingsChanged T56 true

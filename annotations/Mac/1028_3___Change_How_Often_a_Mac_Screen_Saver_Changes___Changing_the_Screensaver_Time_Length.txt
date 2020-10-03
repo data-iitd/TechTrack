@@ -1,0 +1,29 @@
+Change How Often a Mac Screen Saver Changes
+https://www.wikihow.com/Change-How-Often-a-Mac-Screen-Saver-Changes
+
+0 - Changing the Screensaver Time Length
+
+1 - Open Terminal.
+Open Terminal. You can type "Terminal" into Spotlight search to access the program.
+
+2 - Copy and paste the following code into the window:
+Copy and paste the following code into the window:
+- 
+- sudo /usr/libexec/PlistBuddy -c "set ':JustASlide:mainDuration' 10" /System/Library/PrivateFrameworks/Slideshows.framework/Versions/A/Resources/Content/EffectDescriptions.plist
+- 
+- You can replace the "10" in the code with any number of seconds you wish.
+
+3 - Press ↵ Enter.
+Press ↵ Enter.
+- If prompted for your password, type it in and press ↵ Enter. The keystrokes will not appear as you type it in.
+
+4 - Type in the first code to confirm your changes.
+Type in the first code to confirm your changes.
+- Type in:
+- 
+- sudo /usr/libexec/PlistBuddy -c "print ':JustASlide:mainDuration'" /System/Library/PrivateFrameworks/Slideshows.framework/Versions/A/Resources/Content/EffectDescriptions.plist
+
+5 - Press ↵ Enter.
+Press ↵ Enter.
+- The number displayed should be the one you entered earlier.
+

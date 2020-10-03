@@ -1,0 +1,46 @@
+Fix Microsoft Store Downloading Problems
+https://www.wikihow.com/Fix-Microsoft-Store-Downloading-Problems
+
+0 - 
+
+1 - Open your computer's search bar.
+Open your computer's search bar. For Windows 10, simply click the Start menu search bar.[1]
+- X
+- Research source
+- 
+- For Windows 8, hold down ⊞ Win and tap W.
+- ;
+
+2 - Type "Date and Time" into the search bar.
+Type "Date and Time" into the search bar.
+
+3 - Click the "Date and Time" option.
+Click the "Date and Time" option. This should be at the top of the search menu.
+- For Windows 8, click "Change the Date and Time" below the search field.
+
+4 - Click "Change the Date and Time".
+Click "Change the Date and Time". You can find this option in the "Date and Time" menu.
+- You must be an administrator to change these settings.
+
+5 - Adjust your date and time settings.
+Adjust your date and time settings. These should reflect the current date and time as they pertain to your time zone.
+- You can also click "Change time zone..." to alter your time zone settings.
+
+6 - Click "OK".
+Click "OK". Your date and time should now be up to date!
+
+7 - Open your computer's search bar again.
+Open your computer's search bar again.
+
+8 - Type "Store" into the search bar.
+Type "Store" into the search bar.
+
+9 - Click the "Store" icon when it appears.
+Click the "Store" icon when it appears.
+
+10 - Click the downward-facing arrow to the left of the search bar.
+Click the downward-facing arrow to the left of the search bar.
+
+11 - Review your downloads.
+Review your downloads. If the date/time settings were the problem, your downloads should now be active!
+

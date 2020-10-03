@@ -1,0 +1,38 @@
+Install Drivers for the HP Laserjet 1020 on Mac OS X
+https://www.wikihow.com/Install-Drivers-for-the-HP-Laserjet-1020-on-Mac-OS-X
+
+0 - Older Macs
+
+1 - Turn off and unplug the printer.
+Turn off and unplug the printer.
+
+2 - Download and install the latest HP Drivers.
+Download and install the latest HP Drivers. See external links below.
+
+3 - Go to the Printer Setup Utility and choose HP Laserjet 1022 1.3.0.261.
+Go to the Printer Setup Utility and choose HP Laserjet 1022 1.3.0.261.
+
+4 - Download .
+Download .
+
+5 - Go to _Library_Receipts and delete any files for the HP 1020.
+Go to /Library/Receipts and delete any files for the HP 1020. Examples include "hp LaserJet 1020 Series.pkg."
+
+6 - Go to the Printer Setup Utility and delete any files for the HP 1020.
+Go to the Printer Setup Utility and delete any files for the HP 1020.
+
+7 - Run the DMG file.
+Run the DMG file. It is labeled as "hp Laserjet 1022 Series.pkg," but run it anyway.
+
+8 - Turn on and connect the printer.
+Turn on and connect the printer.
+
+9 - Go to System Preferences > Print and Fax.
+Go to System Preferences > Print and Fax.
+
+10 - Select HP LaserJet 1020.
+Select HP LaserJet 1020. If the printer does not show up on the Printer Setup Utility, you may need to select Browser on the same dialog box and click on the HP1020 name there.
+
+11 - Click add.
+Click add.
+

@@ -1,0 +1,47 @@
+Fix a Stuck Pixel on an LCD Monitor
+https://www.wikihow.com/Fix-a-Stuck-Pixel-on-an-LCD-Monitor
+
+0 - Using Pressure and Heat
+
+1 - Understand the risks associated with this method.
+Understand the risks associated with this method. While some people have reported successfully changing their stuck pixels' statuses by putting pressure on them or using heat, doing so is more likely to harm your screen than it is to fix it.
+- The other issue with this method is that it will often void your warranty.
+
+2 - Turn on the computer and LCD screen.
+Turn on the computer and LCD screen. Your screen must be on for this method to work.
+
+3 - Display a black image.
+Display a black image. It is imperative that you are showing a black image and not just a blank signal, as you need the back-lighting of the LCD to be illuminating the back of the panel.
+
+4 - Find a narrow object with a blunt, narrow end.
+Find a narrow object with a blunt, narrow end. A Sharpie marker with the cap on, an incredibly dull pencil, a plastic stylus, or the end of a makeup brush would all work for this.
+- Before you proceed further read the warnings at the end of this article. Physically rubbing your monitor might make things worse.
+
+5 - Wrap the end of the object in a cloth.
+Wrap the end of the object in a cloth. This will prevent the hard surface of the object from scratching up your monitor.
+- If the object is capable of poking through the cloth, it's too sharp. Find a different object.
+
+6 - Use the rounded end of the object to gently press the stuck pixel.
+Use the rounded end of the object to gently press the stuck pixel. You should see a light white rippling effect appear around the point of contact.
+- Try to apply pressure only to the stuck pixel and not the surrounding area.
+
+7 - Remove the object after a few seconds.
+Remove the object after a few seconds. If the pixel is still stuck, you can repeat the pressure, or proceed with using heat; if it isn't stuck, however, shut down your monitor immediately and leave it off for at least one hour.
+
+8 - Dampen a washcloth with hot water.
+Dampen a washcloth with hot water.  If you can, heat water on the stove until it's just beginning to show air bubbles at the bottom of the container (around 190 degrees Fahrenheit), then put the washcloth in and dump the hot water over the washcloth.
+
+9 - Cover your hands.
+Cover your hands. You don't want to burn your fingers in the next steps, so use oven mitts or a heavy-duty washcloth.
+
+10 - Seal the hot washcloth in a plastic sandwich bag.
+Seal the hot washcloth in a plastic sandwich bag. This will protect the monitor from moisture. Make sure the seal is completely closed.
+
+11 - Hold the bag against the stuck pixel.
+Hold the bag against the stuck pixel. Applying light pressure in this manner should loosen the pixel's internals, potentially unsticking it in the process.
+- Make sure not to hold the bag against the pixel for more than a few seconds at a time.
+
+12 - Review your pixel.
+Review your pixel. If it's been fixed, you're done. If not, there isn't much else you can do without help from a professional repair service, so either take your monitor into a repair department or allow the pixel to unstick itself with time.
+- You can also try using software again.
+

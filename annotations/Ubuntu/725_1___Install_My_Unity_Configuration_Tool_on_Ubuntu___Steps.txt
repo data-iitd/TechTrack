@@ -1,0 +1,33 @@
+Install My Unity Configuration Tool on Ubuntu
+https://www.wikihow.com/Install-My-Unity-Configuration-Tool-on-Ubuntu
+
+0 - Steps
+
+1 - First press Ctrl+Alt+T on your keyboard to open Terminal, then to add My Unity repository, type or use copy_paste method to add following command:
+First press Ctrl+Alt+T on your keyboard to open Terminal, then to add My Unity repository, type or use copy/paste method to add following command: sudo add-apt-repository ppa:myunity/ppa and hit Enter.
+- ;
+
+2 - When it asks you for password, don't be confused.
+When it asks you for password, don't be confused. The password is that one, which you're using in the Login Screen. Password does not show up in the terminal when you type it. Just type your password and hit Enter. If your password was entered correctly, the action will continue..
+
+3 - Then press Enter to continue or Ctrl+C to cancel adding it.
+Then press Enter to continue or Ctrl+C to cancel adding it.
+
+4 - Now, type or copy_paste following command to the Terminal, to update your system:
+Now, type or copy/paste following command to the Terminal, to update your system: sudo apt-get update and hit Enter.
+
+5 - To install My Unity, type or use copy_paste method to add following command:
+To install My Unity, type or use copy/paste method to add following command: sudo apt-get install myunity and hit Enter.
+
+6 - When it asks you do you want to continue process, type 'Y' to the Terminal and hit Enter.
+When it asks you do you want to continue process, type 'Y' to the Terminal and hit Enter.
+
+7 - After, when My Unity are installed you can close the Terminal window.
+After, when My Unity are installed you can close the Terminal window.
+
+8 - To run MyUnity, press Super key (key beside Alt key) to open Dash and type 'my' to the search function, then click with your mouse on icon.
+To run MyUnity, press Super key (key beside Alt key) to open Dash and type 'my' to the search function, then click with your mouse on icon.
+
+9 - Now, you're ready to use My Unity application.
+Now, you're ready to use My Unity application.
+

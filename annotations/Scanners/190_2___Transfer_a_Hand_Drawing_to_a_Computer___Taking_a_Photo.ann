@@ -1,0 +1,15 @@
+T1	Hardware-Devices 288 294	camera
+A1	isPowered T1 start-T
+T2	Hardware-Other 324 331	drawing
+T4	Hardware-Devices 418 424	camera
+T6	Hardware-Devices 573 578	phone
+T8	Hardware-Other 779 787	computer
+T18	Software-Other 1167 1180	Google search
+T19	Software-Other 1182 1194	Vector magic
+T20	Software-Other 1443 1465	photo-editing software
+A2	isPowered T6 start-T
+A3	isInstalled T18 start-T
+A4	isOpened T18 f->t
+A5	isInstalled T19 f->t
+A6	isOpened T20 start-T
+A7	isInstalled T20 start-T

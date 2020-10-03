@@ -1,0 +1,21 @@
+T1	Software-Other 130 152	https:__www.reddit.com
+A1	isOpened T1 f->t
+T2	Software-Other 158 169	web browser
+A2	isInstalled T2 start-T
+A3	isInstalled T1 start-F
+T3	Software-Other 374 383	subreddit
+A4	isOpened T3 f->t
+T4	Software-Other 280 286	Reddit
+A5	isOpened T4 f->t
+R1	SubPart Arg1:T4 Arg2:T1	
+T5	Software-Other 402 408	thread
+T6	Software-Other 498 511	MY SUBREDDITS
+A6	isOpened T6 f->t
+T7	Software-Other 608 618	Search bar
+T8	Software-Other 684 688	post
+T9	Software-Other 698 705	comment
+A7	isOpened T8 f->t
+T10	Software-Other 915 922	comment
+T11	Software-Other 1000 1004	save
+A8	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T10	

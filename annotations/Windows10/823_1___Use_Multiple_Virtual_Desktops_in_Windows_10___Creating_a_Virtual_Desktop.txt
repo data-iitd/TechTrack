@@ -1,0 +1,31 @@
+Use Multiple Virtual Desktops in Windows 10
+https://www.wikihow.com/Use-Multiple-Virtual-Desktops-in-Windows-10
+
+0 - Creating a Virtual Desktop
+
+1 - Click (tap) the Task View  icon on the Taskbar.
+Click (tap) the Task View  icon on the Taskbar. In the taskbar of Windows 10, you’ll see an icon to the right of the search bar that looks like a rectangle with two smaller ones slightly behind it (actually, it looks like a box with rectangular ears). This is the Task View icon. Clicking it will shift you to the Task View mode. In Task View mode, all running programs will be lined up as large thumbnails.
+- ;
+
+2 - Click the Plus sign (+) labelled “New desktop.
+Click the Plus sign (+) labelled “New desktop.” You will find this at the bottom right corner. Clicking on this will create a new desktop. At the bottom will appear thumbnails of two virtual desktops: Desktop 1, which is the original desktop, and Desktop 2, which is the one you created. The second desktop will look the same as the original, but with no apps running on it.
+
+3 - Open apps on the second desktop.
+Open apps on the second desktop. While still in Task View mode, click (tap) Desktop 2 to transfer you to the second desktop. You can now open the applications you want to work on in the second desktop.
+
+4 - Transfer apps between desktops.
+Transfer apps between desktops. Enable Task View mode from the first desktop. You will see all the running applications on Desktop 1 as thumbnails. At the bottom will be the thumbnails of the Desktop 1 and 2. Click and drag (tap and drag) the Desktop 1 application you want to transfer down to the thumbnail of Desktop 2. That application will be transferred to Desktop 2.
+- While in Task View mode, if you drag an application from the desktop to the Plus sign, then another desktop will be created and the application will be transferred to the new desktop.
+
+5 - Snap the application to either the left or right side of the screen.
+Snap the application to either the left or right side of the screen. Open the Task View window that will display the view of desktops. Click either "Snap Left" to send it to become a window on the left side of the screen open in the current desktop or "Snap Right" to place it as a window on the right side of the current desktop.
+
+6 - Show an app or window on other desktops at the same time.
+Show an app or window on other desktops at the same time. Work in tandem with windows on desktops other than your current one. Right click the window from the book of previews of open windows and click either "Show this window on all desktops" or "Show windows from this app on all desktops" (clicking the latter will also auto-check the former).
+
+7 - Navigate between desktops.
+Navigate between desktops. You can create several desktops. To move from one desktop to another, click/tap the Task View icon and when the desktop icons appear at the bottom, click/tap the desktop you want to work with.
+
+8 - Close a desktop.
+Close a desktop. Save your work and close all applications. Click/tap the Task View icon and when the desktop icons appear, hover your mouse cursor over the desktop you want to close. You will see the close button (✕) on the upper right side of the icon. Click/tap the close button (✕) to close it.
+

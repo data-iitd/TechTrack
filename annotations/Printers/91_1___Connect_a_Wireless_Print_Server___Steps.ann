@@ -1,0 +1,21 @@
+T2	Hardware-Other 3856 3866	power cord
+T3	Hardware-Other 3871 3884	network cable
+T4	Hardware-Other 4003 4017	printer server
+T5	Hardware-Other 794 802	computer
+T6	Software-Device-Drivers 817 831	printer driver
+A1	isInstalled T6 f->t
+T1	Hardware-Other 1012 1033	wireless print server
+T7	Hardware-Devices 1260 1267	printer
+A2	isConnected T7 f->t
+T8	Hardware-Other 1402 1404	CD
+T9	Hardware-Other 1492 1502	computer’s
+T10	Hardware-Other 1503 1515	CD-ROM drive
+T11	Software-Other 2056 2073	IP address option
+T12	Software-Other 1926 1942	network settings
+T13	Software-Other 3049 3053	Next
+A3	isOpened T13 f->t
+T14	Software-Other 3797 3809	setup wizard
+A4	isOpened T14 t->f
+T15	Software-Other 3667 3671	Next
+A5	isOpened T15 f->t
+T16	Hardware-Other 3319 3340	wireless print server

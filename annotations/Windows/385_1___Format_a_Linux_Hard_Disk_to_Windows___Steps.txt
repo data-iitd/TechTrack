@@ -1,0 +1,29 @@
+Format a Linux Hard Disk to Windows
+https://www.wikihow.com/Format-a-Linux-Hard-Disk-to-Windows
+
+0 - Steps
+
+1 - Insert the Windows installation disc into the CD-ROM and reboot the PC.
+Insert the Windows installation disc into the CD-ROM and reboot the PC.
+
+2 - Give it sometime as Windows goes through the boot-up sequence.
+Give it sometime as Windows goes through the boot-up sequence. Press “Enter” to boot the system from the CD-ROM
+
+3 - Press “F8” to accept the terms and conditions for using Windows.
+Press “F8” to accept the terms and conditions for using Windows.
+
+4 - If the installation identifies the presence of another copy of Windows, press the “Esc” key to exit the installation process.
+If the installation identifies the presence of another copy of Windows, press the “Esc” key to exit the installation process.
+
+5 - Using the arrow keys, scroll through the existing partitions and select the one that you want to delete.
+Using the arrow keys, scroll through the existing partitions and select the one that you want to delete. Press ‘D’ to delete and ‘L’ thereafter to confirm the process. Thereafter, the installation will display the current partition and “Unknown”. Repeat the entire procedure until all partitions have been erased.
+
+6 - To create a new partition to install Windows in, select the partition labeled “Unpartitioned space” and press “Enter” to create a new partition you will use to install Windows in.
+To create a new partition to install Windows in, select the partition labeled “Unpartitioned space” and press “Enter” to create a new partition you will use to install Windows in.
+
+7 - When prompted for file system to use, choose NTFS if you want only Windows operating system.
+When prompted for file system to use, choose NTFS if you want only Windows operating system. To install both Windows and Linux, select FAT32 file system.
+
+8 - Proceed to install Windows on the new partition.
+Proceed to install Windows on the new partition.
+

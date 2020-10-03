@@ -1,0 +1,43 @@
+Use Windows 10
+https://www.wikihow.com/Use-Windows-10
+
+0 - Using the Start Menu
+
+1 - Click  to open the Start menu.
+Click  to open the Start menu. It’s usually at the bottom-left corner of the screen. The Start menu is where you’ll find most of what you need in Windows 10, including your apps, settings, and files.
+- ;
+
+2 - Locate your apps.
+Locate your apps. Windows 10 features many ways to find the app you’re looking for:
+- On the rightmost panel, you’ll see colorful tiles. Some tiles are just links to open apps, while others show live updates.
+- Right-click a tile to open its editing menu. Here you can change the tile’s size, opt to pin it to the taskbar (at the bottom of the screen), or remove (unpin) it from the menu.
+- You can arrange these tiles any way you wish. Just click and drag a tile to the desired location.
+- 
+- Click All Apps to see a list of all installed apps. It’s near the bottom-left corner of the menu. This displays a list of your apps in alphabetical order.
+- You may not have to click All Apps to view your app list on all computers. If you don’t have this option, this means your app list is already set to display by default in the Start menu.
+- To create a tile from an app from All Apps, just drag it to the right panel and drop it where you wish.
+- Right-click any app to see if it has other options you can control from the Start menu.
+- 
+- Type an app’s name into the search bar at the bottom-left corner of the menu to search for an app. You can search for anything this way, including apps to download and items on the internet.
+
+3 - Adjust the size of the menu.
+Adjust the size of the menu. You can make the Start menu as large or small as you wish. To adjust the size, place the mouse cursor at the top-right corner of the menu until it becomes two arrows, and then click and drag outward (to make it larger) or inward (to make it smaller).
+
+4 - Click the ≡ at the top-left corner of the Start menu.
+Click the ≡ at the top-left corner of the Start menu. Now you’ll see several options running down the left side of the menu.
+
+5 - Click .
+Click . It’s at the bottom-left corner. This is where you’ll find your computer’s settings, including network settings, personalization, devices, and system information. For now, we’re going to edit the Start menu settings.
+
+6 - Click Personalization.
+Click Personalization. This is where you can go to change the colors, fonts, and other visual elements of Windows.
+
+7 - Click Start to personalize the start menu.
+Click Start to personalize the start menu. It’s in the left column. Here’s a brief overview of what you can do:
+- If you don’t want to click All Apps to see your app list in the Start menu, slide ″Show app list in Start menu″ to the On  position.
+- Check out the other options on this page. Slide anything that interests you to the On  position, and anything that doesn’t to the Off  position.
+- Scroll down and click Choose which folders appear on Start at the bottom of the right panel.
+- Use these switches to determine which of folders appear in the Start menu. To get you started, turn on File Explorer, Documents, Downloads, Pictures, and Videos.
+- Close the window by clicking the X at the top-right corner.
+- Return to the Start menu, and click ≡ at the top-left corner. Now you’ll see all of the folders you added.
+

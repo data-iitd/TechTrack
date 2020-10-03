@@ -1,0 +1,42 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Formatting Your USB Drive
+
+1 - Plug your USB drive into your Mac.
+Plug your USB drive into your Mac. This is the 16-gigabyte minimum flash drive that you'll use to install macOS High Sierra on your computer.
+- If your Mac doesn't have traditional USB ports on it, attach your USB-C to USB-3.0 adapter first.
+
+2 - Open Spotlight .
+Open Spotlight . Click the magnifying glass icon in the top-right corner of the screen. A search bar will open.
+
+3 - Type disk utility into Spotlight.
+Type disk utility into Spotlight. This will search your Mac for the Disk Utility app.
+
+4 - Click Disk Utility.
+Click Disk Utility. It's below the Spotlight search bar. Doing so will open Disk Utility.
+
+5 - Select your USB drive.
+Select your USB drive. Click the USB drive's name in the upper-left side of the window.
+
+6 - Click the Erase tab.
+Click the Erase tab. It's near the top of the window. A pop-up box will appear.
+
+7 - Click the "Format" drop-down box.
+Click the "Format" drop-down box. You'll find this in the middle of the pop-up box. Clicking it prompts a drop-down menu.
+
+8 - Click OS X Extended (Journaled).
+Click OS X Extended (Journaled). This will set your USB drive's file system to that of your Mac.
+
+9 - Click the "Scheme" drop-down box.
+Click the "Scheme" drop-down box. It's below the "Format" drop-down box.
+
+10 - Click GUID Partition Map.
+Click GUID Partition Map. This option is in the "Format" drop-down menu.
+
+11 - Click Erase.
+Click Erase. Doing so will reformat your USB drive to your Mac's file system.
+
+12 - Click Done when prompted.
+Click Done when prompted. You can now proceed with creating your installation drive.
+

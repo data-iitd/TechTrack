@@ -1,0 +1,20 @@
+Show Hidden Files and Folders on a Mac
+https://www.wikihow.com/Show-Hidden-Files-and-Folders-on-a-Mac
+
+0 - Making Hidden Files Visible
+
+1 - Open Terminal.
+Open Terminal. Click Spotlight , type in terminal, and click Terminal  when it appears.
+
+2 - Type chflags nohidden into Terminal.
+Type chflags nohidden into Terminal. Make sure you leave a space after nohidden.
+
+3 - Click and drag a hidden file or folder into Terminal.
+Click and drag a hidden file or folder into Terminal. Dropping the item onto the Terminal window will place the item's pathway--which is essentially its address--directly after the "chflags nohidden" command.
+
+4 - Press ⏎ Return.
+Press ⏎ Return. This will run the command, which removes the "hidden" status of your selected item.
+
+5 - Double-click the item.
+Double-click the item. It should now open like a regular file or folder.
+

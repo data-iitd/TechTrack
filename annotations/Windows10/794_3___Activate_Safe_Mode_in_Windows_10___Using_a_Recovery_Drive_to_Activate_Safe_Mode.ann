@@ -1,0 +1,12 @@
+T1	Hardware-Other 477 480	USB
+T2	Software-OS-Related 2743 2750	Restart
+T3	Software-OS-Related 2367 2383	Startup Settings
+A1	isOpened T3 f->t
+T4	Software-OS-Related 2452 2464	Troubleshoot
+A2	isOpened T4 f->t
+T6	Hardware-Other 1721 1735	Recovery Drive
+T7	Hardware-Other 1941 1956	USB flash drive
+T8	Hardware-Devices 2986 2994	computer
+T5	Software-OS-Related 1026 1051	Recovery Drive dialog box
+A3	isOpened T5 f->t
+A4	isSettingsChanged T5 true

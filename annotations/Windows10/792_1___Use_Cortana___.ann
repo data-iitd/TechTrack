@@ -1,0 +1,11 @@
+T1	Software-OS-Related 69 74	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 167 175	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 279 286	Cortana
+A3	isOpened T3 f->t
+T4	Software-OS-Related 378 393	Talk to Cortana
+A4	isOpened T4 f->t
+T5	Software-OS-Related 506 541	Let Cortana respond to 'Hey Cortana
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

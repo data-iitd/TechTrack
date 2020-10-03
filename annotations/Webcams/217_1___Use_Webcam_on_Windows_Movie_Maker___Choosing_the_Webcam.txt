@@ -1,0 +1,24 @@
+Use Webcam on Windows Movie Maker
+https://www.wikihow.com/Use-Webcam-on-Windows-Movie-Maker
+
+0 - Choosing the Webcam
+
+1 - Adjust the webcam.
+Adjust the webcam. The most common error is that the incorrect webcam is attached to the program. If you tried to record video, but your screen was dark, there's a good chance that you just don't have the right camera linked to the program. Read on to learn how to change this.
+
+2 - Open the Movie Maker menu and select "Options.
+Open the Movie Maker menu and select "Options." From the Home screen, open the Movie Maker drop-down menu in the very top left of the program tab. This is where you'll find functions like New Project, Open Project, Save Project, and Import from Device. Click "Options," near the bottom of the list.[3]
+- X
+- Research source
+
+3 - Navigate to the Webcam Options page.
+Navigate to the Webcam Options page. You should be looking at a pop-box titled "Windows Movie Maker Options." There are four categories: General, Webcam, Captions, and Trust Center. Click "Webcam."
+
+4 - View your available webcams.
+View your available webcams. The webcam options page should be headed "Select an audio device and webcam." Click the drop-down menu labeled "Available webcams." If you know the name of your preferred, functional webcam device, click that name to set it as the default. If you don't know the name, but you have several options, choose the webcam that was not already selected.
+
+5 - Try to Record Video again.
+Try to Record Video again. Return to the Home screen and repeat the process. If you chose the right webcam, you should see yourself on the screen. If the video input screen is still dark, then there might be a more serious problem with your webcam.[4]
+- X
+- Research source
+

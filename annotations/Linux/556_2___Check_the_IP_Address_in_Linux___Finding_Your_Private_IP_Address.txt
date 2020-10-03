@@ -1,0 +1,31 @@
+Check the IP Address in Linux
+https://www.wikihow.com/Check-the-IP-Address-in-Linux
+
+0 - Finding Your Private IP Address
+
+1 - Understand when to use this method.
+Understand when to use this method. If you're trying to find the IP address of your computer within your Wi-Fi network (e.g., if you want to forward your router for your computer), you'll need to know the IP address.
+
+2 - Open Terminal.
+Open Terminal. Click or double-click the Terminal app icon, or press Ctrl+Alt+T to bring up the Terminal window.
+
+3 - Enter the "Show IP" command.
+Enter the "Show IP" command. Type ifconfig into the Terminal window. Other commands you can try include the following:
+- ip addr
+- ip a
+
+4 - Press ↵ Enter.
+Press ↵ Enter. Doing so runs your command and displays the IP address information of any network items, including your computer.
+
+5 - Find your computer's heading.
+Find your computer's heading. You'll usually find your computer's information under the "wlo1" (or "wlan0") heading, just right of the "inet" tag.[2]
+- X
+- Research source
+
+6 - Review the private IP address.
+Review the private IP address. The IPv4 address is to the right of the "inet" tag. This is the IP address of your computer on your current network.
+- You can usually see the IPv6 address next to the "inet6" tag. The IPv6 address is less commonly used than the IPv4 address.
+
+7 - Try the "hostname" command.
+Try the "hostname" command. On some Linux versions, such as Ubuntu, you can bring up your computer's IP address by typing in hostname -I (that's a capital "i", not a lower-case "L") and pressing ↵ Enter.
+

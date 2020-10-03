@@ -1,0 +1,27 @@
+Navigate the Windows Directory
+https://www.wikihow.com/Navigate-the-Windows-Directory
+
+0 - Navigating the Directories
+
+1 - Double-click a drive or folder to open it.
+Double-click a drive or folder to open it. You'll see all of the folder's contents in the window.
+
+2 - Click the Back and Forward arrows at the top of the Window.
+Click the Back and Forward arrows at the top of the Window. This will take you back to your previous location, or forward if you have already gone back.
+
+3 - Click the Up arrow to go up one directory level (Windows 10).
+Click the Up arrow to go up one directory level (Windows 10). You'll find this button next to the Back and Forward arrows. This will take you to the parent directory for your current location. For example, if you're in C:\Program Files\Adobe, pressing Up will take you to C:\Program Files.
+
+4 - Click the address bar to view the current location.
+Click the address bar to view the current location. If you need to exact path to the current folder, click an empty spot in the address bar and the full path will be highlighted for you to copy.
+
+5 - Right-click a folder for more options.
+Right-click a folder for more options. The right-click menu has a lot of different options, and installing programs may add more.
+- Select "Open in a new window" to open the selected folder in a separate window. This can be useful for moving items between two folders.
+- Select "Pin to taskbar" to add an often-used folder to your Windows taskbar. This can make it easy to access the folder at any time.
+
+6 - Enable hidden files.
+Enable hidden files. If you need to see hidden files, you'll need to unhide them:
+- Windows 10 and 8 - Click the View tab in any folder window. Check the "Hidden items" box.
+- Windows 7 - Click the Organize button and select "Folder and search options." Click the "View" tab in the window that appears and enable "Show hidden files, folders, and drives."
+

@@ -1,0 +1,40 @@
+Do a System Restore
+https://www.wikihow.com/Do-a-System-Restore
+
+0 - Restoring from the Advanced Settings Menu
+
+1 - Open the Advanced Settings menu.
+Open the Advanced Settings menu. This is helpful if your computer is trapped in a restart cycle. Simply wait for the "Press [key] for advanced options" (or a similar phrase) prompt to appear when your computer is starting up, then press the key listed in the "[key]" section.
+- If you're here because of a blue screen of death, just wait for the "Choose an option" screen to appear after a few minutes.
+- To access the Advanced Settings menu from the desktop, open Start, click the Power icon in the lower-left side, hold down ⇧ Shift while clicking Restart, and release ⇧ Shift when the Advanced Options screen appears.
+
+2 - Click Troubleshoot.
+Click Troubleshoot. It's a symbol of a screwdriver and a wrench on this page.
+
+3 - Click Advanced options.
+Click Advanced options. You'll find this on the "Troubleshoot" page.
+
+4 - Click System Restore.
+Click System Restore. It's the top option on the "Advanced options" page. Doing so will take you to the System Restore sign-in page.
+
+5 - Select your account.
+Select your account. Click you account's name. If you only have one account on your computer, there should only be one name here.
+
+6 - Enter your account password.
+Enter your account password. This password may be different than the password that you use to log into your Microsoft account depending on your settings.
+
+7 - Click Continue.
+Click Continue. Doing so will submit your password and log you into your account.
+
+8 - Click Next.
+Click Next. It's at the bottom of the System Restore window.
+
+9 - Select a restore point.
+Select a restore point. Click the point that you want to restore. Make sure that the date to the left of the restore point's name is accurate.
+
+10 - Click Next.
+Click Next. It's at the bottom of the window.
+
+11 - Click Finish.
+Click Finish. This option is at the bottom of the window. Doing so will prompt your computer to begin restoring. This process may take several minutes to over an hour, and your computer will restart at least once during the process.
+

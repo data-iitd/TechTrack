@@ -1,0 +1,23 @@
+Use Radio Tray on Linux
+https://www.wikihow.com/Use-Radio-Tray-on-Linux
+
+0 - Installing Radio Tray using Software Manager
+
+1 - Open up your Software Manager.
+Open up your Software Manager.
+- ;
+
+2 - Type in your password then click OK.
+Type in your password then click OK.
+
+3 - In the search bar, type "RadioTray" (not case sensitive but don't put in a space) and press ↵ Enter.
+In the search bar, type "RadioTray" (not case sensitive but don't put in a space) and press ↵ Enter.
+
+4 - Double click the "RadioTray" icon.
+Double click the "RadioTray" icon.
+
+5 - Click Install
+
+Click Install
+- You will see a message saying "Installed" if the process is successful
+

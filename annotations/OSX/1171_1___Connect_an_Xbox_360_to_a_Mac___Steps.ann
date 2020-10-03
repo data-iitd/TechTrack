@@ -1,0 +1,85 @@
+T1	Hardware-Devices 210 226	Xbox 360 console
+A1	isConnected T1 f->t
+T2	Hardware-Devices 395 407	Mac computer
+A2	isConnected T2 f->t
+T3	Software-OS-Related 508 518	Apple icon
+A3	isOpened T3 f->t
+T4	Software-OS-Related 553 571	System Preferences
+A4	isOpened T4 f->t
+T5	Software-OS-Related 660 667	Sharing
+A5	isOpened T5 f->t
+T6	Software-OS-Related 816 823	AirPort
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 967 989	Ethernet Adaptor (en2)
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1142 1146	back
+A8	isOpened T8 t->f
+T9	Software-OS-Related 1264 1272	Network.
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1332 1336	WiFi
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1356 1359	DNS
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 1537 1539	OK
+A12	isOpened T12 f->t
+T13	Software-OS-Related 1555 1563	Ethernet
+A13	isOpened T13 f->t
+T14	Software-OS-Related 1648 1656	TCP / IP
+T15	Software-OS-Related 1671 1674	Off
+A15	isSettingsChanged T15 true
+A14	isOpened T14 f->t
+T16	Software-OS-Related 1738 1743	Apply
+A16	isSettingsChanged T16 true
+T17	Software-Other 1886 1891	Guide
+A17	isOpened T17 f->t
+T18	Software-Other 2114 2129	System Settings
+A18	isSettingsChanged T18 true
+A19	isOpened T18 f->t
+T19	Software-Other 2243 2259	Network Settings
+A20	isOpened T19 f->t
+T20	Software-Other 2428 2446	Configure Network,
+A21	isOpened T20 f->t
+T21	Software-Other 2460 2472	IP Settings”
+A22	isOpened T21 f->t
+T22	Software-Other 2561 2568	Manual,
+A23	isSettingsChanged T22 true
+T23	Software-Other 2583 2593	IP Address
+A24	isOpened T23 f->t
+T24	Software-Other 2676 2686	IP address
+A25	isSettingsChanged T24 true
+T25	Software-Other 2701 2705	Done
+A26	isSettingsChanged T25 true
+T26	Software-Other 2784 2795	Subnet Mask
+A27	isSettingsChanged T26 true
+T27	Software-Other 2807 2820	255.255.255.0
+A28	isSettingsChanged T27 true
+T28	Software-Other 2876 2881	Done,
+A29	isSettingsChanged T28 true
+T29	Software-Other 2896 2903	Gateway
+A30	isSettingsChanged T29 true
+T30	Software-Other 2986 2996	IP address
+A31	isSettingsChanged T30 true
+T31	Software-Other 3011 3015	Done
+A32	isSettingsChanged T31 true
+T32	Software-Other 3140 3155	Basic Settings”
+A33	isInstalled T32 f->t
+T33	Software-Other 3168 3180	DNS Settings
+A34	isOpened T33 f->t
+T34	Software-Other 3250 3257	Manual,
+A35	isSettingsChanged T34 true
+T35	Software-Other 3535 3539	Done
+A36	isSettingsChanged T35 true
+T36	Software-Other 3555 3559	Done
+A37	isSettingsChanged T36 true
+T37	Software-Other 3643 3644	B
+A38	isSettingsChanged T37 true
+T38	Software-Other 3817 3842	Test Xbox Live Connection
+A39	isSettingsChanged T38 true
+R1	SubPart Arg1:T7 Arg2:T5	
+R2	SubPart Arg1:T16 Arg2:T9	
+T39	Hardware-Devices 1908 1927	Xbox 360 controller
+A40	isConnected T39 start-T
+R3	SubPart Arg1:T24 Arg2:T19	
+R4	SubPart Arg1:T26 Arg2:T19	
+R5	SubPart Arg1:T29 Arg2:T19	
+R6	SubPart Arg1:T33 Arg2:T19	

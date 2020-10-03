@@ -1,0 +1,5 @@
+T1	Software-OS-Related 129 139	Powershell
+A1	isOpened T1 f->t
+T2	Software-OS-Related 277 295	Windows PowerShell
+A2	isOpened T2 f->t
+T3	Hardware-Other 719 726	↵ Enter

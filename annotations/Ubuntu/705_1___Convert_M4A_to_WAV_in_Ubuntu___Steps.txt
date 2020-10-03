@@ -1,0 +1,36 @@
+Convert M4A to WAV in Ubuntu
+https://www.wikihow.com/Convert-M4A-to-WAV-in-Ubuntu
+
+0 - Steps
+
+1 - Go to Applications > Ubuntu Software Center which is located in Main menu.
+Go to Applications > Ubuntu Software Center which is located in Main menu.
+- ;
+
+2 - When you open Ubuntu Software Center you will need to type 'xcfa' in search function which are located on the right upper corner of the window and hit Enter.
+When you open Ubuntu Software Center you will need to type 'xcfa' in search function which are located on the right upper corner of the window and hit Enter.
+
+3 - Click on the 'Install' button, after that when it asks you for password, type the password and click on 'Authenticate' button or just hit Enter.
+Click on the 'Install' button, after that when it asks you for password, type the password and click on 'Authenticate' button or just hit Enter.
+
+4 - Now when XCFA is installed, you are ready to start to using this application.
+Now when XCFA is installed, you are ready to start to using this application. Go to Applications > Sound & Video > XCFA,, where this application is located and click on icon to run XCFA.
+
+5 - Now you need to choose 'Files' option, it's under 'Tools' option.
+Now you need to choose 'Files' option, it's under 'Tools' option.
+
+6 - After that you need choose where your file be imported and that you'll do it in 'Files destination' option.
+After that you need choose where your file be imported and that you'll do it in 'Files destination' option.
+
+7 - In my example, if you want, choose 'New destination' option.
+In my example, if you want, choose 'New destination' option. In opened window choose 'Desktop' option and then click on 'Open' button. So now your file will be imported to your Desktop.
+
+8 - Now locate where is desired file that you want to convert and just drag your M4a file to XCFA window.
+Now locate where is desired file that you want to convert and just drag your M4a file to XCFA window.
+
+9 - Click on the green little box under where it's Wav named.
+Click on the green little box under where it's Wav named. For example, Play,Trash,Type,Wav.
+
+10 - After that click on 'Apply the changes' button.
+After that click on 'Apply the changes' button. Now when he done, go to your Desktop. There you will find your Wav file.
+

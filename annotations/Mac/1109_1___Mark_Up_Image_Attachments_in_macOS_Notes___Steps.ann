@@ -1,0 +1,24 @@
+T1	Software-OS-Related 169 178	Notes app
+A1	isOpened T1 f->t
+T2	Software-OS-Related 342 360	note with an image
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 804 825	downward-facing arrow
+A3	isOpened T3 f->t
+T4	Software-OS-Related 974 980	Markup
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1162 1173	Markup tool
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1949 1971	three horizontal lines
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 2196 2213	empty square icon
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 2445 2463	filled square icon
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2604 2605	A
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 2791 2795	Done
+A10	isSettingsChanged T10 true
+R2	SubPart Arg1:T6 Arg2:T4	
+R3	SubPart Arg1:T7 Arg2:T4	
+R4	SubPart Arg1:T8 Arg2:T4	
+R5	SubPart Arg1:T9 Arg2:T4	

@@ -1,0 +1,25 @@
+T1	Software-OS-Related 201 209	✕ button
+A1	isSettingsChanged T1 true
+A2	isOpened T1 t->f
+T3	Software-OS-Related 429 438	title bar
+A3	isOpened T3 f->t
+T4	Software-OS-Related 824 841	taskbar task view
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1081 1086	Close
+A5	isOpened T5 t->f
+A6	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T2	Software-OS-Related 1271 1290	Cortana/search icon
+A7	isOpened T2 f->t
+T6	Software-OS-Related 1471 1479	End task
+A8	isSettingsChanged T6 true
+A9	isOpened T6 t->f
+T7	Software-OS-Related 1647 1656	title bar
+T8	Software-OS-Related 1679 1686	× Close
+A10	isOpened T8 t->f
+T9	Software-OS-Related 1828 1835	taskbar
+A11	isOpened T9 f->t
+T10	Software-OS-Related 2004 2011	✕ Close
+A12	isOpened T10 t->f
+A13	isSettingsChanged T8 true
+A14	isSettingsChanged T10 true

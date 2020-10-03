@@ -1,0 +1,42 @@
+Send Mail in Linux
+https://www.wikihow.com/Send-Mail-in-Linux
+
+0 - Using the Thunderbird Mail Client
+
+1 - Install Thunderbird.
+Install Thunderbird. Most desktop versions of Linux, including Debian and Ubuntu, come with Thunderbird as the default mail client. It's still a good idea to make sure you have the latest package. Follow these steps to get the latest version:[1]
+- X
+- Research source
+- 
+- 
+- Press Ctrl+Alt+T to open a terminal window.
+- Type sudo apt-get update and press ↵ Enter.
+- Enter your root password when prompted.
+- Type sudo apt-get install thunderbird and press ↵ Enter.
+- Follow any on-screen instructions.
+- ;
+
+2 - Type thunderbird at the prompt and press ↵ Enter.
+Type thunderbird at the prompt and press ↵ Enter. This opens Thunderbird to a welcome screen.
+- If you see an envelope icon on your desktop, you can usually click that to open Thunderbird as well.
+
+3 - Enter your email information and click Continue.
+Enter your email information and click Continue. You'll have to provide your name, email address, and email password. Thunderbird will then check its database to see if it can automatically locate the correct server settings for your email provider.
+
+4 - Review the suggested email settings and enter your own if necessary.
+Review the suggested email settings and enter your own if necessary. If you're using a popular email service like Gmail, Thunderbird will usually display the correct settings. If not, click the Manual config button and enter the settings manually.
+
+5 - Click Done.
+Click Done. It's at the bottom-right corner of the window. This saves your mail settings.
+
+6 - Follow the on-screen instructions to complete the setup.
+Follow the on-screen instructions to complete the setup. Depending on your mail provider, you may be asked to sign in.[2]
+- X
+- Research source
+
+7 - Click the Write button to compose a new message.
+Click the Write button to compose a new message. This opens a blank email message.
+
+8 - Write your message and click Send.
+Write your message and click Send. Your message will be sent to the recipient.
+

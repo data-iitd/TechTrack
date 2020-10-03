@@ -1,0 +1,35 @@
+T1	Software-OS-Related 98 103	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 265 275	partitions
+T3	Software-OS-Related 413 450	Create and format hard disk paritions
+A2	isOpened T3 f->t
+T4	Software-OS-Related 281 286	Start
+T5	Software-OS-Related 649 659	hard drive
+T6	Software-OS-Related 773 779	Action
+A3	isOpened T6 f->t
+T7	Software-OS-Related 890 899	All Tasks
+T8	Software-OS-Related 1047 1061	Shrink Volume…
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1448 1489	Enter the amount of space to shrink in MB
+T10	Software-OS-Related 1845 1851	Shrink
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T8	
+T11	Software-OS-Related 1990 2000	hard drive
+T12	Software-OS-Related 2204 2210	Action
+A6	isOpened T12 f->t
+T13	Software-OS-Related 2224 2233	All Tasks
+A7	isOpened T13 f->t
+T14	Software-OS-Related 2319 2337	New Simple Volume…
+A8	isOpened T14 f->t
+T15	Software-OS-Related 2443 2447	Next
+T16	Software-OS-Related 2521 2525	Next
+T17	Software-OS-Related 2631 2643	drive letter
+T18	Software-OS-Related 2656 2660	Next
+T19	Software-OS-Related 2907 2913	Format
+T20	Software-OS-Related 2919 2924	drive
+T21	Software-OS-Related 2957 3003	Format this volume with the following settings
+T22	Software-OS-Related 3026 3037	File system
+T23	Software-OS-Related 3349 3353	Next
+T24	Software-OS-Related 3427 3433	Finish
+A11	isSettingsChanged T24 true
+T25	Software-OS-Related 3520 3525	drive

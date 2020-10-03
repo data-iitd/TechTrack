@@ -1,0 +1,48 @@
+Install DOS
+https://www.wikihow.com/Install-DOS
+
+0 - Steps
+
+1 - Purchase the DOS installation disks (they come in a set of 3 floppy disks).
+Purchase the DOS installation disks (they come in a set of 3 floppy disks). Usually you can purchase the set of floppy disks and an external floppy disk drive if needed for a very affordable price.
+- ;
+
+2 - Insert the first installation disk in the floppy disk drive and restart your computer.
+Insert the first installation disk in the floppy disk drive and restart your computer. The first disk is a bootable disk so you should see an option to hit a key to boot from the disk (the exact key can vary depending on which computer you have).
+
+3 - Hit the key to boot from the floppy drive.
+Hit the key to boot from the floppy drive. Your computer will abandon the usual boot process and instead you will see a blue screen with Microsoft DOS setup menu.
+
+4 - Press the Enter key on your keyboard to continue with the setup process.
+Press the Enter key on your keyboard to continue with the setup process.
+
+5 - Select "Configure first hard disk (recommended)" by hitting the Enter key again.
+Select "Configure first hard disk (recommended)" by hitting the Enter key again.
+
+6 - Read the information on the Caution window.
+Read the information on the Caution window. You may want to consider the following options before continuing to install DOS.Press F3 if you want to back up your files. You will be exited from the DOS installation process.Hit the Escape key if you want to return to the previous window to review your choices.
+
+7 - Wait while your system configurations are checked.
+Wait while your system configurations are checked. After configuration check has completed your hard drive will be formatted using the FAT16 file system. Press the "Y" key on your keyboard if you want to continue installing DOS. The setup program will now continue to configure your hard drive and then restart your computer.
+
+8 - Confirm your date_time, country and keyboard layout in the next window.
+Confirm your date/time, country and keyboard layout in the next window. You can use your cursor keys to change the selections. If all settings are correct, you can highlight "The settings are correct" and press Enter.
+
+9 - Install DOS in the default directory by leaving the directory location unchanged in the next window and just hitting Enter.
+Install DOS in the default directory by leaving the directory location unchanged in the next window and just hitting Enter.
+
+10 - Let your computer copy the files from the first installation disk.
+Let your computer copy the files from the first installation disk. A status bar will appear so you can see the progress.
+
+11 - Replace disk 1 with disk 2 when prompted and hit Enter to continue.
+Replace disk 1 with disk 2 when prompted and hit Enter to continue. You will see the status bar appear again.
+
+12 - Take out disk 2 and insert disk 3 when the next prompt window appears and press Enter.
+Take out disk 2 and insert disk 3 when the next prompt window appears and press Enter. This will allow files to be copied from the third installation disk until all files have been copied.
+
+13 - Remove the final disk from your floppy drive when you see the message appear that says "Remove disks from all floppy disk drives.
+Remove the final disk from your floppy drive when you see the message appear that says "Remove disks from all floppy disk drives." Press Enter after your floppy drive has been emptied.
+
+14 - Press Enter to restart your computer when you get to the window titled "MS-DOS Setup Complete.
+Press Enter to restart your computer when you get to the window titled "MS-DOS Setup Complete."
+

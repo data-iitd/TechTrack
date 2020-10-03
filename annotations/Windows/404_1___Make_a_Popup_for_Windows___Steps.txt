@@ -1,0 +1,26 @@
+Make a Popup (for Windows)
+https://www.wikihow.com/Make-a-Popup-(for-Windows)
+
+0 - Steps
+
+1 - Open Notepad (Start>Programs>Accessories>Notepad).
+Open Notepad (Start>Programs>Accessories>Notepad).;
+
+2 - Copy and paste the following text into the program:
+Copy and paste the following text into the program: lol=msgbox("",16,"Error")
+
+3 - In between the two adjacent quotation marks, type the error message you wish to appear in the popup (eg.
+In between the two adjacent quotation marks, type the error message you wish to appear in the popup (eg. lol=msgbox("Example",16,"Error")).
+
+4 - Click File>Save As.
+Click File>Save As.
+
+5 - In the 'Save type as' dropdown, change the setting from 'Text Documents' to 'All files'.
+In the 'Save type as' dropdown, change the setting from 'Text Documents' to 'All files'. Then, as your file name, type your file name (when you open the file, it will trigger the popup), followed by '.vbs' (eg. Example.vbs). Then, in the 'save in' dropdown, select a place where you can access your file. When you have selected your desired place to save the file, click 'save' to save your file.
+
+6 - Open 'My Computer' (Start>My Computer) and find your newly-created file.
+Open 'My Computer' (Start>My Computer) and find your newly-created file.
+
+7 - Open the file, and your error message should pop up on the screen!
+Open the file, and your error message should pop up on the screen!
+

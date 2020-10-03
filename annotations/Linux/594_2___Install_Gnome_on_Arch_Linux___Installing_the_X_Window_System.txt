@@ -1,0 +1,23 @@
+Install Gnome on Arch Linux
+https://www.wikihow.com/Install-Gnome-on-Arch-Linux
+
+0 - Installing the X Window System
+
+1 - Enter the X Window download command.
+Enter the X Window download command. Before you can install a "desktop environment" (a GUI) on your computer, you'll need to install the base for it. Type sudo pacman -S xorg-server xorg-xinit xorg-server-utils into the command line and press ↵ Enter.
+
+2 - Confirm the download.
+Confirm the download. When prompted, type in y and press ↵ Enter.
+
+3 - Enter the command to install desktop features.
+Enter the command to install desktop features. Type in sudo pacman -S xorg-twm xorg-xclock xterm and press ↵ Enter.
+
+4 - Enter your password, then confirm the download.
+Enter your password, then confirm the download. When prompted, type in your root password and press ↵ Enter, then type in y and press ↵ Enter.
+
+5 - Wait for the installation to complete.
+Wait for the installation to complete. This may take a few minutes since the packages are being downloaded onto your computer.
+
+6 - Start the X Window System.
+Start the X Window System. Type in startx and press ↵ Enter. Doing so will open the X Window System command line, from which point you can install the GNOME GUI.
+

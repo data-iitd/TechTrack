@@ -1,0 +1,34 @@
+Install Two Operating Systems on One Computer
+https://www.wikihow.com/Install-Two-Operating-Systems-on-One-Computer
+
+0 - Installing a Second Operating System
+
+1 - Insert the install disk.
+Insert the install disk.  If you used Rufus to create a USB install disk, insert the USB flash drive into an open USB port on your computer.  If you are using a CD or DVD install disk, insert it into your CD/DVD-Rom drive.
+
+2 - Restart your computer.
+Restart your computer.  If your computer is powered on, go ahead and restart it.  Otherwise, press the power button on your computer so that it boots from the install disk.
+
+3 - Wait for the setup program to load.
+Wait for the setup program to load.  If your computer properly boots from the Install disk, you should see the setup program for the operating system.
+
+4 - Select your language and keyboard layout.
+Select your language and keyboard layout.  The setup program for each operating system is a little different.  Generally, you will start by selecting your language and keyboard layout.
+
+5 - Enter the CD Key or serial number (if needed).
+Enter the CD Key or serial number (if needed).  Some operating systems, such as Ubuntu are free to install.  Other operating systems, such as Windows, require you to purchase a CD key or serial number.  If asked to enter a serial number or CD key, enter the numbers in the space provided.
+
+6 - Select the "Custom" or "Other" installation option.
+Select the "Custom" or "Other" installation option.  When selecting the installation type, select "Custom", "Other", "Something Else" or similar.  Selecting a standard installation may overwrite your current operating system.
+
+7 - Format the drive you want to install the operating system on.
+Format the drive you want to install the operating system on.  When installing a new operating system, you will be asked to select which drive you want to install it on and format the drive.  Select the unallocated space you partitioned earlier.
+- If you are installing Linux you will need to format the drive as Ext4
+- If you are installing Ubuntu, you will also need to format a section of the unallocated space as a swap area.  This area should be equivalent to the amount of RAM you have installed on your computer.
+
+8 - Follow the instructions to complete the installation.
+Follow the instructions to complete the installation.  You will most likely be asked to create a username and password for your new operating system as well as set your time & date settings.  Follow the instructions to complete the installation.
+
+9 - Reboot to switch between operating systems.
+Reboot to switch between operating systems.  Once you install two or more operating systems on your computer, you will see a menu asking which operating system you want to load when you boot up your PC.  Restart your computer to switch between operating systems.
+

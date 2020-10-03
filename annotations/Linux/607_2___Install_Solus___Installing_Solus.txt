@@ -1,0 +1,31 @@
+Install Solus
+https://www.wikihow.com/Install-Solus
+
+0 - Installing Solus
+
+1 - Power down your computer and boot into your USB drive.
+Power down your computer and boot into your USB drive. Once your computer is completely shut off, turn it back on. While the manufacturer's splash screen is being displayed, press the key used to enter the Boot Menu. This key is typically F9, F12, Esc or Del. Here, you can select your USB drive from the list of bootable devices.
+- If you can't get to the boot menu, then you may need to change the boot order in the BIOS menu.
+
+2 - Configure all of the geographical information required.
+Configure all of the geographical information required. In the first few steps, you will be asked about your location, language, keyboard layout, and time zone. Make these changes based on your information.
+
+3 - Choose the install location.
+Choose the install location. In the next step, you're required to select where you want Solus to be installed. Choose your hard drive from the drop-down list and select the fashion in which you want to install it.
+
+4 - Give your system a host name.
+Give your system a host name. A host name is a unique title used to identify a machine on the network. Your host name can use letters "A" to  "Z", 0 to 9 and a hyphen, although it can't start or end with one.
+
+5 - Create a user.
+Create a user. Once you have set a hostname for your computer, you will be asked to create one or more accounts who will use your computer. Choose a username, real name, and password for the new user.
+- Optionally, you can also give the new user administrative privileges. Do this by checking the box below the "Confirm password" field.
+
+6 - Review your configurations.
+Review your configurations. Finally, you will be presented with a page listing everything you have set up in the installer. Review this list to avoid doing anything unintentional. Once you have done this, press the button labeled "Install" at the bottom of the window.
+
+7 - Wait for the installation to complete.
+Wait for the installation to complete. The installation will now begin. Depending on how fast your computer is, this may be a quick process or it might take slightly longer. The installation progress will be displayed at the bottom of the screen.
+
+8 - Reboot your PC.
+Reboot your PC. As the very last step, you will be required to restart your computer before you can use your new Solus installation. Power off your computer and remove the installation medium before turning it back on. Once your computer boots up, you will find yourself in the Budgie desktop environment.
+

@@ -1,0 +1,31 @@
+Boost Microphone Volume on PC or Mac
+https://www.wikihow.com/Boost-Microphone-Volume-on-PC-or-Mac
+
+0 - Using Windows
+
+1 - Find and right-click the speaker icon on your taskbar.
+Find and right-click the speaker icon on your taskbar. This button is located next to the date and time information in the lower-right corner of your desktop. A menu will pop up.
+- ;
+
+2 - Click Recording devices on the menu.
+Click Recording devices on the menu. This will open a new window, and show a list of all the audio input hardware connected to your computer.
+
+3 - Select your microphone on the Recording list.
+Select your microphone on the Recording list. Find the microphone you're using on the list here, and click on it.
+
+4 - Click the Properties button.
+Click the Properties button. This button is in the lower-right corner of the Sound window. It will open your microphone's settings in a new window.
+
+5 - Click the Levels tab.
+Click the Levels tab. This button is between Listen and Advanced at the top of the window.
+
+6 - Drag the Microphone Boost slider to the right.
+Drag the Microphone Boost slider to the right. This will boost your microphone's input volume to a higher decibel level.
+- You can see the amount of boost you're adding in decibels (dB) to the right of the slider here.
+
+7 - Click the OK button.
+Click the OK button. This will save your new microphone settings, and close the microphone window.
+
+8 - Click the OK button in the Sound window.
+Click the OK button in the Sound window. This will save your new audio settings, and close the Sound window.
+

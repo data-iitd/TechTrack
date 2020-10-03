@@ -1,0 +1,23 @@
+T1	Software-Other 259 266	picture
+T2	Software-Other 1058 1062	GIMP
+T3	Software-Other 1068 1087	gimp.org/downloads/
+T4	Software-Other 1432 1437	Layer
+A1	isOpened T4 f->t
+T5	Software-Other 1442 1462	New Adjustment Layer
+A2	isOpened T5 f->t
+T6	Software-Other 1467 1480	Channel Mixer
+A3	isOpened T6 f->t
+T7	Software-Other 1576 1582	Colors
+T8	Software-Other 1587 1597	Components
+A4	isOpened T8 f->t
+A5	isOpened T7 f->t
+T9	Software-Other 1602 1615	Channel Mixer
+A6	isOpened T9 f->t
+T10	Software-Other 1882 1889	Presets
+A7	isOpened T10 f->t
+T11	Software-Other 1929 1942	Black & White
+A8	isSettingsChanged T11 true
+T12	Software-Other 2773 2777	save
+A9	isSettingsChanged T12 true
+R1	SubPart Arg1:T11 Arg2:T9	
+R2	SubPart Arg1:T12 Arg2:T9	

@@ -1,0 +1,9 @@
+T1	Hardware-Other 141 146	drive
+T2	Software-OS-Related 427 432	drive
+A1	isOpened T2 f->t
+T3	Software-OS-Related 445 453	Get Info
+A2	isOpened T3 t->f
+T4	Hardware-Devices 1128 1136	computer
+T5	Software-OS-Related 470 485	NTFS formatting
+T6	Hardware-Devices 1552 1560	computer
+T7	Hardware-Other 1578 1588	hard drive

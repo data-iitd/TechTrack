@@ -1,0 +1,24 @@
+T1	Hardware-Devices 112 116	unit
+A1	isPowered T1 t->f
+T2	Hardware-Other 126 138	power source
+T3	Hardware-Other 208 213	cloth
+T4	Hardware-Other 414 419	layer
+T5	Hardware-Other 261 274	scanning area
+T6	Hardware-Other 427 440	scanning area
+T7	Hardware-Other 539 543	part
+T8	Hardware-Other 687 692	cloth
+T9	Hardware-Other 808 820	light blower
+T10	Hardware-Other 926 931	cloth
+T11	Hardware-Other 937 944	acetone
+T12	Hardware-Other 964 975	cotton swab
+T13	Hardware-Other 1113 1118	cloth
+T14	Hardware-Other 1128 1134	sensor
+T15	Hardware-Other 1414 1420	sensor
+T16	Hardware-Other 1517 1525	solution
+T17	Hardware-Other 1540 1546	sensor
+T18	Hardware-Other 1626 1639	scanning area
+T19	Hardware-Other 1692 1699	ammonia
+T20	Hardware-Other 1739 1744	cloth
+T21	Hardware-Other 1995 2006	scotch tape
+T23	Hardware-Other 2359 2376	Industry solvents
+T25	Hardware-Devices 2422 2428	device

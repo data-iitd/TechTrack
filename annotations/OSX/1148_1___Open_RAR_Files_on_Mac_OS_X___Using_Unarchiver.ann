@@ -1,0 +1,20 @@
+T1	Software-OS-Related 304 320	Mac's  App Store
+A1	isOpened T1 f->t
+T2	Software-Other 532 541	Unarchive
+A2	isInstalled T2 f->t
+T3	Software-OS-Related 629 638	Launchpad
+A3	isOpened T3 f->t
+T4	Software-Other 798 808	Unarchiver
+A4	isOpened T4 f->t
+T5	Software-Other 1064 1079	Archive Formats
+A5	isOpened T5 f->t
+T6	Software-Other 1166 1177	RAR Archive
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T4	
+T7	Software-Other 1591 1595	File
+A7	isOpened T7 f->t
+T8	Software-Other 1868 1877	Open With
+A8	isOpened T8 f->t
+T9	Software-Other 1981 1990	Unarchive
+A9	isSettingsChanged T9 true
+A10	isOpened T9 f->t

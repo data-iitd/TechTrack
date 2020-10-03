@@ -1,0 +1,10 @@
+T1	Software-OS-Related 435 445	Properties
+A1	isOpened T1 f->t
+T2	Software-OS-Related 513 521	Advanced
+A2	isOpened T2 f->t
+T4	Software-OS-Related 345 359	file or folder
+A4	isOpened T4 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 975 977	OK
+A3	isSettingsChanged T3 true
+R2	SubPart Arg1:T3 Arg2:T2	

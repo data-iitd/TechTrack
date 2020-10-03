@@ -1,0 +1,9 @@
+T1	Software-OS-Related 153 165	Terminal app
+A1	isOpened T1 f->t
+T2	Software-OS-Related 388 407	cp /etc/hosts hosts
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 535 572	open /Applications/TextEdit.app hosts
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 756 783	1.2.3.4 www.mynewdomain.com
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1040 1064	sudo cp hosts /etc/hosts

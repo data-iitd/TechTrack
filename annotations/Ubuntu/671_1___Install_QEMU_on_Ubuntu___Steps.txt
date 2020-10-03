@@ -1,0 +1,38 @@
+Install QEMU on Ubuntu
+https://www.wikihow.com/Install-QEMU-on-Ubuntu
+
+0 - Steps
+
+1 - Check if the CPU has the support of hardware for virtualization.
+Check if the CPU has the support of hardware for virtualization. On Intel, the processor is Intel VT and for AMD processors, it's AMD-V. Run the following command to check your machine's virtualization features:
+- egrep '(vmx
+- ;
+
+2 - Install bridge-utils using these commands line:
+Install bridge-utils using these commands line:
+- sudo apt-get install -y bridge-utils resolvconf
+- sudo ifup br1
+- sudo service networking restart
+
+3 - Install KVM:
+Install KVM:
+- apt-get update
+- sudo apt-get install -y qemu-kvm qemu virt-manager virt-viewer libvirt-bin
+
+4 - Creating a virtual machine.
+Creating a virtual machine. You can create virtual machines in the command line or in graphical mode.
+- For the command line, the command is:
+- sudo virt-install --name=itzgeekguest --ram=1024 --vcpus=1 --cdrom=/var/lib/libvirt/images/CentOS-6.9-x86_64-minimal.iso --os-type=linux --os-variant=rhel7 --network bridge=br1 --graphics=spice --disk path=/var/lib/libvirt/images/itzgeekguest.dsk,size=4
+- For graphical mode, you need to be root. Sometimes starting the Virtual Machine Manager from Dashboard does not give all the features to create a virtual machine.
+- sudo virt-manager
+
+5 - Open the Virtual Machine Manager.
+Open the Virtual Machine Manager.
+- Choose "File" and "New Virtual Machine".
+- Browse for the desired operating system.
+- Choose the type and version for your operating system.
+- Choose your memory and CPU settings.
+- Tick "Enable storage for this virtual machine" and "Create a disk on the computer's hard drive," or pick "Select managed or other existing storage" and select your desired storage.
+- Choose "Advanced options" to select bridge networking; this allows the communication to outside networks.
+- Give a name to the VM and tick "Set a fixed MAC address".
+

@@ -1,0 +1,37 @@
+Write to an External Hard Drive on Mac OS X
+https://www.wikihow.com/Write-to-an-External-Hard-Drive-on-Mac-OS-X
+
+0 - 
+
+1 - Connect your drive.
+Connect your drive. Using your cable of choice (usually USB), connect your external hard drive to your Mac.
+
+2 - Check the format of the drive.
+Check the format of the drive. Make sure your external hard drive is NTFS formatted. To do this, right click on your external drive, then click Get Info.
+
+3 - Confirm NTFS formatting.
+Confirm NTFS formatting. In the Info window, select the General tab. Under this tab should be a Format info field. This should read "Format: NTFS". If the drive is formatted in a way that is write-compatible with OS X, your inability to write may be due to corruption or a faulty cable.
+
+4 - Open Disk Utility.
+Open Disk Utility. Navigate to your Applications folder, then to Utilities. Locate the application "Disk Utility", and open it.
+
+5 - Select "Erase".
+Select "Erase". From the tabbed menus, select Erase. Before proceeding, make sure that all personal data you wish to keep is backed up elsewhere. The reformatting procedure completely erases your data from the drive.
+
+6 - Choose your preferred format.
+Choose your preferred format. There a few ways that Disk Utility can format your external hard drive. From the dropdown menu labeled "Format", select the format of your choice. You should choose depending on your intentions for your external hard drive. These are the most common formats:
+- FAT: Works natively with both Mac OS X and Windows computers, but is limited to a 4GB maximum file size.
+- exFAT: Works natively with newer versions of Mac OS X (10.6.5+) and Windows (Vista+). Can work with large file sizes. This is the best option for cross-platform compatibility.[2]
+- X
+- Research source
+- 
+- 
+- Mac OS Extended: Works only with Mac OS. Completely incompatible with Windows computers. This is the best option if you intend to use your external hard drive exclusively with computers running Mac OS.
+- NTFS (Windows NT Filesystem): Works natively with Windows, Mac OS write-capability can be added using the steps in the previous Method. This is the best option if you intent to use your external hard drive exclusively with computers running Windows.
+
+7 - Click "Erase".
+Click "Erase". This will prompt Disk Utility to commence reformatting your drive. The reformatting process should complete within a few minutes.
+
+8 - Write to your drive.
+Write to your drive. After reformatting, try copying some files to your external hard drive. Your drive will now be able to accept files written from Mac OS X.
+

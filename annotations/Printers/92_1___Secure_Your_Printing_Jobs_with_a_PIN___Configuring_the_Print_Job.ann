@@ -1,0 +1,15 @@
+T1	Software-Other 149 160	Job Storage
+A1	isOpened T1 f->t
+T2	Software-Other 455 471	Job Storage Mode
+T3	Software-Other 539 549	Stored Job
+T4	Software-Other 682 694	PIN to print
+T5	Hardware-Devices 912 919	printer
+T6	Software-Other 1058 1086	Display JOB ID when printing
+A2	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T2	
+T7	Software-Other 1197 1206	User Name
+T8	Software-Other 1637 1643	Custom
+T9	Software-Other 1697 1706	Automatic
+T10	Software-Other 1820 1822	OK
+A3	isSettingsChanged T10 true
+R2	SubPart Arg1:T10 Arg2:T2	

@@ -1,0 +1,20 @@
+Open Notepad
+https://www.wikihow.com/Open-Notepad
+
+0 - Creating a New Text Document
+
+1 - Right-click your desktop.
+Right-click your desktop.
+
+2 - Hover over "New".
+Hover over "New".
+
+3 - Click Text Document.
+Click Text Document.
+
+4 - Type in a name for your file.
+Type in a name for your file.
+
+5 - Double-click your document.
+Double-click your document. This will open your text file in Notepad!
+

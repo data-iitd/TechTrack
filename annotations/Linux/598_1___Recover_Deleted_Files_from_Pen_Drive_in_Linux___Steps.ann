@@ -1,0 +1,12 @@
+T1	Software-Other 170 199	sudo apt-get install testdisk
+A1	isInstalled T1 f->t
+T2	Hardware-Other 287 296	pen drive
+T3	Hardware-Other 297 307	disk drive
+T4	Software-OS-Related 424 432	terminal
+T5	Software-Other 507 511	disk
+T6	Software-Other 706 712	search
+T7	Software-Other 440 453	sudo photorec
+A2	isOpened T7 f->t
+T9	Software-Other 771 781	Filesystem
+T10	Software-Other 1250 1268	Destination folder
+T8	Software-Other 1408 1412	Quit

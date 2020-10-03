@@ -1,0 +1,42 @@
+Shut Down a Computer Using Notepad
+https://www.wikihow.com/Shut-Down-a-Computer-Using-Notepad
+
+0 - Steps
+
+1 - Open Notepad.
+Open Notepad. This is the free text editing program that comes with every version of Windows. You can use it to create a command that, when run, will shut down Windows for you.
+- You can find Notepad by clicking the Start menu and selecting "Programs" → "Accessories" → "Notepad". You can also click the Start menu, type notepad, and press ↵ Enter.
+- ;
+
+2 - Type .
+Type .shutdown.exe -s on the first line. This is the command to shut down the computer.
+
+3 - Add a timer by using the .
+Add a timer by using the .-t flag. By default, the shutdown process will be delayed by 30 seconds. You can change this by using the -t gflag with the number of seconds you want to delay.
+- For example, to create a shutdown command that waits 45 seconds, type shutdown.exe -s -t 45.
+- To create a shutdown command that shuts the computer down immediately, type shutdown.exe -s -t 00.
+
+4 - Add a message to be displayed.
+Add a message to be displayed. If you want, you can add a personalized message to the shut down notice by using the -c flag. Using the above example, type shutdown.exe -s -t 45 -c "comment". The comment must be in quotes.[1]
+- X
+- Research source
+- 
+- For example, you can let the user know how long until the shutdown begins by typing shutdown.exe -s -t 45 -c "Computer will shut down in 45 seconds".
+
+5 - Click "File" and select "Save As".
+Click "File" and select "Save As". You will need to save the file as a batch file, which Windows can execute to run the shutdown command.
+
+6 - Click the "Save as type" drop-down menu and select "All Files (*.*)".
+Click the "Save as type" drop-down menu and select "All Files (*.*)". This will allow you to change the file type.
+
+7 - Delete the .
+Delete the ..txt from the end of the file name. Replace it with .bat.
+- If you don't see the three letter file extensions, click here.
+
+8 - Save the file.
+Save the file. A new copy will be created with the .bat extension, and it will have a different icon than a standard text file.
+
+9 - Run the newly-created file to run your shutdown process.
+Run the newly-created file to run your shutdown process. The shutdown will occur according to the rules you created.
+- Make sure you've saved anything you need to before running the shut down program.
+

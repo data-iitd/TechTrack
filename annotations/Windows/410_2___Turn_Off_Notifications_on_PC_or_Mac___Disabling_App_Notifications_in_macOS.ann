@@ -1,0 +1,8 @@
+T1	Software-OS-Related 159 163	menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 239 257	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 299 312	Notifications
+A3	isOpened T3 f->t
+T4	Software-OS-Related 635 644	App Alert
+T5	Software-OS-Related 663 674	Alert style

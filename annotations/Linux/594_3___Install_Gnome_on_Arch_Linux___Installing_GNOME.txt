@@ -1,0 +1,41 @@
+Install Gnome on Arch Linux
+https://www.wikihow.com/Install-Gnome-on-Arch-Linux
+
+0 - Installing GNOME
+
+1 - Enter the DejaVu font download command.
+Enter the DejaVu font download command. This font is crucial for the X Window System to work properly. Type in sudo pacman -S ttf-dejavu and press ↵ Enter.[1]
+- X
+- Research source
+
+2 - Enter your root password.
+Enter your root password. When prompted, type in your root password and press ↵ Enter.
+
+3 - Confirm the download.
+Confirm the download. Type in y and press ↵ Enter.
+
+4 - Wait for the font to finish installing.
+Wait for the font to finish installing. This should only take a few minutes.
+
+5 - Enter the GNOME download command.
+Enter the GNOME download command. Type in sudo pacman -S gnome and press ↵ Enter.
+
+6 - Confirm the download.
+Confirm the download. When prompted, type in y and press ↵ Enter. GNOME will begin downloading.
+- This process can take anywhere from a couple of minutes to a couple of hours depending on your Internet speed.
+
+7 - Install an updated command line.
+Install an updated command line. The GNOME command line doesn't work in several versions of Arch Linux, but you can install a different one to compensate. To do so:
+- Type in sudo pacman -S lxterminal and press ↵ Enter.
+- Enter your root password when prompted.
+- Type in y and press ↵ Enter.
+
+8 - Enable the display manager.
+Enable the display manager. Type in sudo systemctl enable gdm.service and press ↵ Enter.
+
+9 - Enter your password when prompted.
+Enter your password when prompted. You'll have to enter your root password at least twice during the display manager authentication. Once you see the phrase "AUTHENTICATION COMPLETE" at the bottom of the page, you can proceed.
+
+10 - Reboot your computer.
+Reboot your computer. Type in reboot and press ↵ Enter. Your computer will restart itself; once it finishes rebooting, you should be greeted with a login page where you can select your name using the mouse, enter your password, and proceed into your newly interfaced computer desktop.
+

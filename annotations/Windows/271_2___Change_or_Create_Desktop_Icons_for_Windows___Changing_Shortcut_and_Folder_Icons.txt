@@ -1,0 +1,43 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Changing Shortcut and Folder Icons
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen, or press ⊞ Win.
+
+2 - Click the File Explorer .
+Click the File Explorer . You'll find this icon on the far-left side of the Start window.
+
+3 - Click Desktop.
+Click Desktop. It's a folder in the left-hand column of options in the File Explorer window.
+
+4 - Click a shortcut or folder icon.
+Click a shortcut or folder icon. Shortcut icons have a white box with an arrow in their lower-left corners.
+- You cannot change the icons of specific files (e.g., Notepad files or .exe files) using this method.
+
+5 - Click the Home tab.
+Click the Home tab. It's in the upper-left corner of the File Explorer window. Doing so will open a toolbar at the top of the window.
+
+6 - Click Properties.
+Click Properties. This is a white box with a red checkmark in the "Open" section of the toolbar.
+- You can also right-click on the icon on your desktop and then click Properties to get to this menu.
+
+7 - Open the icon's "Change Icon" window.
+Open the icon's "Change Icon" window. This process will vary depending on the type of icon you're editing:
+- 
+- Shortcut - Click the Shortcut tab at the top of the Properties window, then click Change Icon near the bottom of the window.
+- Folder - Click the Customize tab at the top of the Properties window, then click Change Icon near the bottom of the window.
+
+8 - Select an icon.
+Select an icon. You can select two different types of icons:
+- 
+- System icon - Click an icon in the window.
+- Custom icon - Click Browse, then click the folder that your custom icons are in on the left side of the window. Select the icon you want to use, then click Open.
+
+9 - Click OK.
+Click OK. This will assign your selected icon.
+
+10 - Click Apply, then click OK.
+Click Apply, then click OK. Doing so confirms your decision and changes the original icon to your selected icon.
+

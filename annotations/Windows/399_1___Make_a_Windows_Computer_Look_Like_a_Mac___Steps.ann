@@ -1,0 +1,7 @@
+T1	Software-Other 139 157	Yosemite Skin Pack
+T2	Software-Other 639 648	antivirus
+T3	Software-Other 985 994	installer
+A1	isOpened T3 f->t
+T4	Software-Other 1108 1128	terms and conditions
+T5	Software-OS-Related 1527 1544	visual components
+T6	Software-OS-Related 1646 1659	Restore Point

@@ -1,0 +1,25 @@
+T3	Software-Other 531 537	Docker
+A4	isInstalled T3 f->t
+T4	Software-Other 785 800	Docker services
+A5	isOpened T4 f->t
+T8	Software-Other 1821 1842	Initialize the master
+A9	isSettingsChanged T8 true
+T9	Software-Other 2125 2149	Set the right permission
+A10	isSettingsChanged T9 true
+T10	Software-Other 2467 2487	Deploy a Pod network
+A11	isSettingsChanged T10 true
+T13	Software-Other 3078 3089	Join a node
+A14	isSettingsChanged T13 true
+T14	Software-Other 3324 3355	Create a new service and deploy
+A15	isSettingsChanged T14 true
+T16	Software-OS-Related 143 156	dependencies.
+A17	isOpened T16 f->t
+T1	Software-Other 1107 1117	Kubernetes
+A1	isInstalled T1 f->t
+T2	Software-Other 1406 1426	Create a repository.
+A2	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T8 Arg2:T1	
+R3	SubPart Arg1:T9 Arg2:T1	
+R4	SubPart Arg1:T13 Arg2:T1	
+R5	SubPart Arg1:T14 Arg2:T1	

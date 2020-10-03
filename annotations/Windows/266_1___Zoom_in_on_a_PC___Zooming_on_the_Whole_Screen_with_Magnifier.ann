@@ -1,0 +1,31 @@
+T5	Software-OS-Related 457 469	Start button
+A5	isOpened T5 f->t
+T6	Hardware-Other 603 608	mouse
+T7	Hardware-Devices 811 817	screen
+A6	isPowered T7 start-T
+T9	Hardware-Other 846 852	button
+T11	Hardware-Other 996 1004	keyboard
+T13	Software-OS-Related 1383 1388	Views
+A10	isOpened T13 start-T
+T15	Software-OS-Related 1506 1510	Lens
+T16	Software-OS-Related 1576 1587	Full-screen
+T17	Software-OS-Related 1634 1640	Docked
+A14	isOpened T17 start-T
+T18	Software-OS-Related 1815 1824	gear icon
+A15	isOpened T18 f->t
+T19	Software-OS-Related 1956 1964	settings
+A16	isOpened T19 f->t
+T21	Software-OS-Related 2033 2042	Magnifier
+T23	Software-OS-Related 2320 2329	Magnifier
+A19	isOpened T23 t->f
+T20	Hardware-Devices 2087 2095	computer
+A20	isPowered T20 f->t
+T1	Software-OS-Related 258 267	Magnifier
+A1	isSettingsChanged T1 true
+A3	isSettingsChanged T16 true
+T2	Software-OS-Related 751 758	zoom in
+A7	isSettingsChanged T2 true
+T4	Software-OS-Related 1107 1115	zoom out
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T4 Arg2:T1	

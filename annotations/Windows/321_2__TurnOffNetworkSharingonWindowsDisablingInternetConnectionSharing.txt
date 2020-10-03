@@ -1,0 +1,38 @@
+Turn Off Network Sharing on Windows
+https://www.wikihow.com/Turn-Off-Network-Sharing-on-Windows
+
+0 - Disabling Internet Connection Sharing
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the Windows search bar.
+- This method will prevent other people on your Windows network from sharing your computer's internet connection.
+
+2 - Type control panel.
+Type control panel. A list of results will appear.
+
+3 - Click Control Panel.
+Click Control Panel.
+
+4 - Click Network and Sharing Center.
+Click Network and Sharing Center. You'll see your current connection under the “View your active networks” header at the top of the main panel. Remember the name of the connection, as you'll need it in a moment.
+
+5 - Click Change adapter settings.
+Click Change adapter settings. It's the second link from the top of the left column. This opens a list of your saved network connections.
+
+6 - Right-click your current connection.
+Right-click your current connection. Look for the name that matches the one you noted a moment ago. A pop-up menu will appear.
+
+7 - Click Properties.
+Click Properties. The connection properties dialog window will appear.
+
+8 - Click the Sharing tab.
+Click the Sharing tab. It's near the top of the dialog window.
+- If the Sharing tab is not present, it means you only have one network adapter enabled. You need to enable at least one more temporarily.
+
+9 - Remove the check mark from “Allow other network users to connect through this computer's internet connection.
+Remove the check mark from “Allow other network users to connect through this computer's internet connection.” Clicking the box once should remove the check mark.
+- If the box was already empty, you don't need to make any changes.
+
+10 - Click OK.
+Click OK. It's at the bottom of the dialog window. Now that you've turned off connection sharing, nobody else on your network can connect to the internet through this computer's connection.
+

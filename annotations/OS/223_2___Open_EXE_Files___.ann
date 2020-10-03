@@ -1,0 +1,49 @@
+T1	Software-Other 119 128	EXE files
+T2	Software-Other 253 257	wine
+T3	Software-Other 565 570	Xcode
+A1	isInstalled T3 f->t
+T4	Software-OS-Related 580 593	Mac App Store
+T5	Software-Other 1047 1055	MacPorts
+A2	isInstalled T5 f->t
+A3	isOpened T3 f->t
+T6	Software-OS-Related 915 926	Preferences
+A4	isOpened T6 f->t
+T7	Software-OS-Related 948 957	Downloads
+A5	isOpened T7 f->t
+T8	Software-OS-Related 974 981	Install
+T9	Software-OS-Related 998 1016	Command Line Tools
+T10	Software-Other 1235 1259	macports.org/install.php
+T11	Software-OS-Related 1429 1437	Terminal
+A6	isOpened T11 f->t
+T12	Software-Other 1509 1527	MacPorts' settings
+T13	Software-OS-Related 1694 1709	Terminal window
+T14	Software-OS-Related 1732 1857	echo export PATH=/opt/local/bin:/opt/local/sbin:\$PATH$'\n'export MANPATH=/opt/local/man:\$MANPATH | sudo tee -a /etc/profile
+T15	Software-OS-Related 1876 1890	admin password
+T16	Software-OS-Related 2294 2302	MacPorts
+T17	Software-OS-Related 2394 2536	if [ `sysctl -n hw.cpu64bit_capable` -eq 1 ] ; then echo "+universal" | sudo tee -a /opt/local/etc/macports/variants.conf; else echo "n/a"; fi
+T18	Software-OS-Related 2578 2591	Xcode license
+T19	Software-OS-Related 2818 2842	sudo xcodebuild -license
+T20	Software-Other 2879 2883	wine
+T21	Software-OS-Related 2946 2954	Terminal
+A7	isOpened T21 f->t
+T22	Software-OS-Related 3028 3036	password
+T23	Software-OS-Related 3179 3201	sudo port install wine
+T24	Software-Other 3242 3250	EXE file
+T25	Software-OS-Related 3303 3305	cd
+T26	Software-OS-Related 3419 3427	Terminal
+T27	Software-Other 3441 3445	wine
+T28	Software-Other 3457 3465	EXE file
+A8	isInstalled T20 f->t
+T30	Software-Other 3741 3749	EXE file
+T31	Software-Other 3979 3983	wine
+T32	Software-Other 4153 4161	EXE file
+T33	Software-Other 4203 4207	wine
+T34	Software-OS-Related 4252 4286	cd ~/.wine/drive_c/Program\ Files/
+T35	Software-OS-Related 4299 4322	Program Files directory
+A9	isOpened T35 f->t
+T36	Software-OS-Related 5074 5102	sudo port install winetricks
+T37	Software-Other 5176 5180	Mono
+A10	isInstalled T37 f->t
+T38	Software-OS-Related 5129 5147	winetricks mono210
+T29	Software-OS-Related 4701 4713	fileName.exe
+T39	Software-Other 4793 4797	.NET

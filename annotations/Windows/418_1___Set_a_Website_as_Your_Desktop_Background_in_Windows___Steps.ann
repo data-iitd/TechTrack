@@ -1,0 +1,6 @@
+T1	Software-OS-Related 261 271	Properties
+A1	isOpened T1 f->t
+T2	Software-OS-Related 315 322	desktop
+A2	isOpened T2 f->t
+T3	Software-OS-Related 531 534	Web
+A3	isOpened T3 f->t

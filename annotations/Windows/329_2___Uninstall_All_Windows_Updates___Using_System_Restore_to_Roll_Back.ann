@@ -1,0 +1,8 @@
+T1	Software-OS-Related 133 156	Open the System Restore
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1089 1115	Scan for affected programs
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1499 1505	Finish
+A3	isSettingsChanged T3 true
+T4	Hardware-Devices 1759 1767	computer
+A4	isPowered T4 start-T

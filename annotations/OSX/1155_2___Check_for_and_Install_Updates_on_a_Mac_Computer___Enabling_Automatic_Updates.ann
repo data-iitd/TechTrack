@@ -1,0 +1,23 @@
+T1	Software-OS-Related 171 181	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 194 212	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 558 567	App Store
+A3	isOpened T3 f->t
+T4	Software-OS-Related 665 696	Automatically check for updates
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	
+T5	Software-OS-Related 985 993	download
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 999 1018	install app updates
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1020 1034	system updates
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1040 1056	security updates
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 848 879	Automatically check for updates
+R2	SubPart Arg1:T5 Arg2:T3	
+R3	SubPart Arg1:T6 Arg2:T3	
+R4	SubPart Arg1:T7 Arg2:T3	
+R5	SubPart Arg1:T8 Arg2:T3	
+T10	Software-OS-Related 1083 1092	Check Now

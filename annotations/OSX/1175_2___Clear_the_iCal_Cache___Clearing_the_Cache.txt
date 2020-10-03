@@ -1,0 +1,44 @@
+Clear the iCal Cache
+https://www.wikihow.com/Clear-the-iCal-Cache
+
+0 - Clearing the Cache
+
+1 - Open Finder.
+Open Finder. Click the blue, face-shaped app in the Dock.
+
+2 - Select your Mac's hard drive.
+Select your Mac's hard drive. It's on the left side of the Finder window, just below the "Devices" heading.
+
+3 - Double-click the Macintosh HD folder.
+Double-click the Macintosh HD folder. You should see this option near the top of the Finder window.
+
+4 - Double-click the Users folder.
+Double-click the Users folder. This will open the Users folder.
+
+5 - Double-click the folder with your name on it.
+Double-click the folder with your name on it. This is the personal user folder.
+
+6 - Press ⌘ Command+⇧ Shift+.. Doing so prompts the hidden folders that are in your personal user folder to display. One such folder is the Library folder.
+
+Press ⌘ Command+⇧ Shift+.. Doing so prompts the hidden folders that are in your personal user folder to display. One such folder is the Library folder.
+
+7 - Double-click the Library folder.
+Double-click the Library folder. It's in the middle of the personal user folder.
+
+8 - Double-click the Calendars folder.
+Double-click the Calendars folder. This folder is in the middle of the Library folder.
+
+9 - Delete any cache files in this folder.
+Delete any cache files in this folder. There may be several files with "Cache" in their title; select each cache file by holding ⌘ Command and clicking them, then click File and click Move to Trash.
+- These cache files are often named things like com.apple.cal.
+
+10 - Click the Trash icon.
+Click the Trash icon. It's a waste basket-shaped icon in the Dock. A pop-up menu will appear.
+
+11 - Click Empty Trash….
+Click Empty Trash…. This option is in the pop-up menu.
+
+12 - Click Empty Trash when prompted.
+Click Empty Trash when prompted. Doing so will most likely trigger an error message that says "The operation can't be completed because the item '[cache file name]' is in use", meaning you'll need to force-quit the Calendar background process and then empty Trash again.
+- If you don't see any error messages pop up, your Calendar app's cache has successfully been cleared.
+

@@ -1,0 +1,32 @@
+Change How Often a Mac Screen Saver Changes
+https://www.wikihow.com/Change-How-Often-a-Mac-Screen-Saver-Changes
+
+0 - 
+
+1 - Click the Apple logo at the top left of your screen.
+Click the Apple logo at the top left of your screen.
+
+2 - Click Restart.
+Click Restart.
+
+3 - Press and hold ⌘ Command + R immediately after restarting.
+Press and hold ⌘ Command + R immediately after restarting. Doing so will cause your Mac to boot in recovery.
+
+4 - Click Utilities.
+Click Utilities. Once on the recovery screen, you can open Terminal and disable SIP.
+
+5 - Click Terminal.
+Click Terminal.
+
+6 - Type in csrutil enable.
+Type in csrutil enable.
+
+7 - Press ↵ Enter.
+Press ↵ Enter.
+
+8 - Click on the Apple logo.
+Click on the Apple logo. It's at the top left of the menu bar.
+
+9 - Click Restart.
+Click Restart. SIP will be re-enabled, and your screen saver adjustments will be made!
+

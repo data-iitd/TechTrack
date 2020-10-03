@@ -1,0 +1,36 @@
+Turn Off BitLocker
+https://www.wikihow.com/Turn-Off-BitLocker
+
+0 - Unlocking BitLocker
+
+1 - Find your recovery key.
+Find your recovery key. When you set up BitLocker on your computer, you were given a 48-digit recovery key to use when you forget your BitLocker password. You'll need to find this key before you can unlock BitLocker:[3]
+- X
+- Research source
+- 
+- 
+- If you printed out your recovery key, look for it in any location in which you keep important documents.
+- If you saved your recovery key as a text file on a USB drive, plug the USB drive into a different Windows computer to open the text file and view the key.
+- If your system administrator or IT professional set up BitLocker for you, contact them for specific instructions on getting back your key.
+
+2 - Start your computer if necessary.
+Start your computer if necessary. If your computer isn't already turned on to the BitLocker screen, turn on your computer.
+- If your computer is turned on to the BitLocker screen, skip this step and the next one.
+
+3 - Wait for the BitLocker screen to load.
+Wait for the BitLocker screen to load. It can take several minutes for the BitLocker login screen to open.
+
+4 - Press Esc.
+Press Esc. Doing so indicates that you want to enter the recovery key instead of your BitLocker password.[4]
+- X
+- Research source
+
+5 - Enter your BitLocker recovery key.
+Enter your BitLocker recovery key. Type the 48-digit recovery key into the provided text box at the top of the screen.
+
+6 - Press ↵ Enter.
+Press ↵ Enter. This will submit your key.
+
+7 - Follow the on-screen prompts.
+Follow the on-screen prompts. Depending on your computer, you may have additional options after submitting your key. Once you've navigated through any extra prompts, you're free to turn off BitLocker from within Settings.
+

@@ -1,0 +1,28 @@
+Check for and Install Updates on a Mac Computer
+https://www.wikihow.com/Check-for-and-Install-Updates-on-a-Mac-Computer
+
+0 - Installing Updates in Legacy OS X Versions
+
+1 - Open the Apple menu and select "Software Update."
+Open the Apple menu and select "Software Update." This will open a new window that will check for any available system updates.
+
+2 - Manage your software update preferences.
+Manage your software update preferences. You can choose a schedule for the frequency at which you want software updates to occur, or you can choose to have updates checked and installed automatically when they become available.
+- Select "Check for updates," then select how often you want to check for them. You can check on a daily, weekly, or on a monthly basis.
+- Select "Download updates automatically" if you want your computer to automatically check and install updates when they become available. You may be required to restart your computer when the updates are completed.
+
+3 - Click the "Check Now" button.
+Click the "Check Now" button. This will check for any available updates for your system software and Apple programs.
+
+4 - Check the box for each update you want to install.
+Check the box for each update you want to install. After checking for updates, you'll be presented with a list of updates that you can install. Each one will have a checkbox next to it. Check the box for each update you want to download and install.
+
+5 - Click the "Install # Items" button.
+Click the "Install # Items" button. You'll be prompted for the administrator password. Once you enter the password, the updates will begin downloading and installing.
+
+6 - Open the App Store to check for app updates.
+Open the App Store to check for app updates. The Software Update window will not check for updates to your App Store app. You'll need to check for these in the App Store.
+- Open the App Store from your dock.
+- Click the "Updates" tab.
+- Click the "Update" button next to apps with available updates, or "Update All" to download them all at once.
+

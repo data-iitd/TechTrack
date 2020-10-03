@@ -1,0 +1,33 @@
+T1	Software-Other 187 205	Install UNetbootin
+A2	isInstalled T1 f->t
+T2	Software-Other 748 807	https://www.microsoft.com/en-us/software-download/windows10
+A3	isOpened T2 f->t
+A4	isInstalled T2 start-F
+T3	Software-Other 1395 1422	Select the product language
+A5	isSettingsChanged T3 true
+T4	Software-Other 1481 1496	32-bit Download
+A6	isSettingsChanged T4 true
+T5	Software-Other 1631 1641	UNetbootin
+A7	isOpened T5 f->t
+T6	Hardware-Devices 1658 1667	USB drive
+T7	Software-Other 1826 1835	DiskImage
+A1	isSettingsChanged T7 true
+T8	Software-Other 1954 1957	ISO
+A8	isSettingsChanged T8 true
+T9	Software-Other 2072 2090	three-dot … button
+A9	isOpened T9 f->t
+T10	Software-Other 2344 2348	Type
+A10	isSettingsChanged T10 true
+T11	Software-Other 2488 2493	Drive
+A11	isSettingsChanged T11 true
+T12	Software-Other 2786 2788	OK
+A12	isSettingsChanged T12 true
+T13	Software-Other 2974 2978	Exit
+A13	isOpened T13 t->f
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	
+R3	SubPart Arg1:T7 Arg2:T5	
+R4	SubPart Arg1:T8 Arg2:T7	
+R5	SubPart Arg1:T10 Arg2:T5	
+R6	SubPart Arg1:T11 Arg2:T5	
+A14	isConnected T6 f->t

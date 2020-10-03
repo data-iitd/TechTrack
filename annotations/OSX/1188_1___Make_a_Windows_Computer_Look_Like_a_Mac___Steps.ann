@@ -1,0 +1,14 @@
+T1	Software-Other 175 193	Yosemite Skin Pack
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 947 954	Disable
+A3	isSettingsChanged T2 true
+T3	Software-Other 1005 1014	installer
+T4	Software-Other 1148 1181	agree to the terms and conditions
+A5	isSettingsChanged T4 true
+A4	isInstalled T3 f->t
+T5	Software-Other 1497 1504	Install
+A6	isOpened T5 f->t
+A7	isInstalled T5 f->t
+T6	Software-Other 1977 1983	Finish
+A8	isOpened T6 f->t

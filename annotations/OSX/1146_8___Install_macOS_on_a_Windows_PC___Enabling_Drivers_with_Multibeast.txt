@@ -1,0 +1,66 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Enabling Drivers with Multibeast
+
+1 - Open your flash drive.
+Open your flash drive. Open  Finder, then click the name of the flash drive from which you installed macOS High Sierra. This will open the flash drive's window in Finder.
+
+2 - Double-click the Multibeast file.
+Double-click the Multibeast file. Doing so will open the Multibeast window.
+
+3 - Click the Bootloaders tab.
+Click the Bootloaders tab. It's at the top of the window.
+
+4 - Select the proper bootloader.
+Select the proper bootloader. Check the "Clover UEFI Boot Mode" box if you selected the UEFI boot mode for your motherboard during the Unibeast tool creation, or check the "Clover Legacy Boot Mode" box if you used legacy boot mode.
+
+5 - Click the Drivers tab.
+Click the Drivers tab. You'll find this option at the top of the window.
+
+6 - Click Audio.
+Click Audio. It's on the left side of the window.
+
+7 - Select audio drivers.
+Select audio drivers. Click the current audio item's heading in the middle of the window to expand it, then check the box next to your computer's audio provider's name.
+
+8 - Click Misc.
+Click Misc. This option is on the left side of the window.
+
+9 - Check the "FakeSMC" box.
+Check the "FakeSMC" box. You'll find it near the top of the window.
+
+10 - Click Network.
+Click Network. It's on the left side of the window.
+
+11 - Select an Internet driver.
+Select an Internet driver. Click the name of your Internet card, then check the box next to the driver's name.
+
+12 - Click the Customize tab.
+Click the Customize tab. It's at the top of the window.
+
+13 - Select the proper graphics options.
+Select the proper graphics options. Check the box next to your computer's graphics card name, then check the "Fixup" box for your graphics card's manufacturer.
+- For example, to install drivers for a NVIDIA card, you would check both the "NVIDIA Web Drivers Boot Flag" box and the "NVIDIA Graphics Fixup" box.
+- Leave the "Inject" options blank.
+
+14 - Click System Definitions.
+Click System Definitions. It's on the left side of the window.
+
+15 - Select a Mac which most closely resembles your computer.
+Select a Mac which most closely resembles your computer. Click the heading of the type of Mac (e.g., iMac) which resembles your computer, then check the box next to the type of Mac which uses your computer's graphics card settings.
+- You can view a full list of the types of graphics cards which correspond to Mac models here: https://drive.google.com/file/d/1FPpFR3j9ibwb3zbnPoBbI3Mncsqp-BUU/view
+
+16 - Click the Build tab.
+Click the Build tab. It's at the top of the window.
+
+17 - Select a drive.
+Select a drive. Click the "Select Install Drive" box on the right side of the window, then click your macOS drive's name in the resulting drop-down menu.
+
+18 - Install the drivers.
+Install the drivers. Once you complete this process, you should be able to use your macOS PC with minimal trouble:
+- Click Install in the bottom-right corner.
+- Click Agree when prompted.
+- Enter your Mac's password when prompted.
+- Click Install Helper
+

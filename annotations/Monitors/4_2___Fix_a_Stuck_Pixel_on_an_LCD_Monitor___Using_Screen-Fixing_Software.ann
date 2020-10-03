@@ -1,0 +1,22 @@
+T1	Hardware-Devices 209 215	Screen
+A1	isPowered T1 start-T
+T3	Software-Other 971 989	JScreenFix website
+T4	Software-Other 1062 1069	browser
+A2	isOpened T4 start-T
+T5	Software-Other 1160 1177	Launch JScreenFix
+T9	Hardware-Other 1531 1534	F11
+T10	Hardware-Other 1590 1592	Fn
+T11	Software-Other 1682 1693	pixel-fixer
+A8	isOpened T11 start-T
+T12	Software-Other 1851 1862	pixel-fixer
+T14	Hardware-Devices 2013 2020	monitor
+T16	Hardware-Devices 2381 2388	monitor
+A13	isPowered T16 t->f
+A14	isOpened T3 f->t
+A3	isInstalled T3 start-F
+A4	isPowered T14 t->f
+A5	isInstalled T4 start-T
+T2	Software-Other 1027 1052	http://www.jscreenfix.com
+*	Equiv T2 T3
+T6	Software-Other 1315 1322	browser
+T7	Software-Other 1388 1395	browser

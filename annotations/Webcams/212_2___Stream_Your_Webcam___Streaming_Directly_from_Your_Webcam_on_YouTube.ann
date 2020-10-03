@@ -1,0 +1,41 @@
+T1	Hardware-Devices 137 143	webcam
+T2	Hardware-Other 187 195	computer
+T3	Software-Other 511 524	Google Chrome
+A5	isOpened T3 start-T
+A6	isInstalled T3 start-T
+T4	Software-Other 601 608	YouTube
+T7	Software-Other 887 894	YouTube
+A10	isOpened T7 f->t
+A11	isInstalled T7 start-F
+T8	Software-Other 917 941	https://www.youtube.com/
+*	Equiv T7 T8
+T14	Software-Other 1366 1373	Go live
+T15	Software-Other 1474 1481	YouTube
+T17	Software-Other 1592 1599	YouTube
+T18	Software-Other 1784 1791	YouTube
+T19	Software-Other 1806 1818	Click Camera
+T20	Software-Other 1978 1985	YouTube
+T21	Software-Other 1998 2004	Upload
+T22	Software-Other 2033 2040	browser
+T23	Software-Other 2086 2092	Camera
+A28	isOpened T23 f->t
+T24	Hardware-Devices 2202 2208	webcam
+T25	Software-Other 2372 2378	window
+T26	Software-Other 2396 2402	Chrome
+T27	Hardware-Devices 2415 2421	webcam
+T28	Hardware-Other 2426 2436	microphone
+T29	Software-Other 2570 2575	Title
+T30	Software-Other 2582 2593	Description
+T31	Software-Other 2684 2691	GO LIVE
+T32	Software-Other 2750 2757	YouTube
+T33	Hardware-Devices 2787 2793	webcam
+A1	isSetup T1 true
+T5	Hardware-Devices 628 645	computer's webcam
+T6	Software-Other 950 972	computer's web browser
+T9	Software-Other 1325 1339	drop-down menu
+A3	isOpened T9 f->t
+A2	isPowered T1 f->t
+R1	SubPart Arg1:T14 Arg2:T15	
+R2	SubPart Arg1:T31 Arg2:T32	
+A4	isSettingsChanged T26 true
+A7	isUsed T33 true

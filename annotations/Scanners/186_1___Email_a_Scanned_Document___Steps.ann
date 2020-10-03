@@ -1,0 +1,18 @@
+T1	Hardware-Other 104 112	document
+T2	Hardware-Devices 221 228	scanner
+A1	isPowered T2 start-T
+A3	isConnected T2 start-T
+T3	Hardware-Other 237 245	computer
+T4	Hardware-Devices 249 262	mobile device
+T5	Software-Other 441 458	email application
+A4	isOpened T5 f->t
+T6	Software-Other 462 475	email website
+A5	isOpened T6 f->t
+T7	Hardware-Other 532 540	computer
+T8	Software-Other 606 617	web browser
+A6	isOpened T8 f->t
+A7	isInstalled T8 start-T
+T9	Software-Other 661 668	Compose
+A8	isOpened T9 f->t
+T15	Software-Other 1049 1061	attach files
+A2	isOpened T15 f->t

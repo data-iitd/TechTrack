@@ -1,0 +1,16 @@
+T1	Software-OS-Related 120 128	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 260 279	Update your sources
+A2	isOpened T2 f->t
+T3	Software-OS-Related 552 565	java -version
+A3	isSettingsChanged T3 true
+T4	Software-Other 736 766	Java Runtime Environment (JRE)
+A5	isInstalled T4 f->t
+T5	Software-Other 1238 1245	IcedTea
+A6	isInstalled T5 f->t
+T6	Software-Other 1702 1717	version of Java
+A7	isOpened T6 f->t
+T7	Software-Other 2121 2134	Oracle Java 8
+A8	isSettingsChanged T7 true
+A4	isInstalled T7 f->t
+R1	SubPart Arg1:T3 Arg2:T1	

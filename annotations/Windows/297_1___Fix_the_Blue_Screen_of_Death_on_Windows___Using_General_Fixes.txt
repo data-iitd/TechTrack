@@ -1,0 +1,35 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Using General Fixes
+
+1 - Consider your recent actions on the computer.
+Consider your recent actions on the computer. Did you install a piece of software, plug in a new piece of hardware, download custom drivers, or change the settings? If so, the recent change you made is probably the reason for the Blue Screen of Death, so repairing it will depend on that change.
+- ;
+
+2 - See if your computer is unusually hot.
+See if your computer is unusually hot. If you've been running your computer on high-performance settings for several hours—especially if the computer doesn't have adequate circulation or if you live in a particularly warm environment—the Blue Screen of Death can appear. If so, turn off your computer the first chance that you get and leave it off for a few hours.
+
+3 - Run the Blue Screen troubleshooter.
+Run the Blue Screen troubleshooter. If this is the first time you've encountered a Blue Screen of Death on your computer, you can run your PC's Blue Screen troubleshooter to try to diagnose the issue:
+- Open Start .
+- Click Settings .
+- Click Update & Security.
+- Click the Troubleshoot tab.
+- Click Blue Screen.
+- Click Run the troubleshooter.
+- Review the resulting solutions and follow any on-screen instructions.
+
+4 - Remove any unnecessary hardware.
+Remove any unnecessary hardware. Things like USB flash drives, Ethernet or HDMI cables, controllers, printer cables, SD cards, and so on can be removed from your computer without impacting the computer's performance. Furthermore, flaws in hardware items such as these can trigger a Blue Screen of Death and continue to trigger it until they are removed.
+- You can typically keep your mouse and keyboard plugged into your computer, especially if they came with the computer itself when it was brand-new.
+
+5 - Wait for your computer to restart.
+Wait for your computer to restart. Once the Blue Screen of Death appears, Windows will diagnose the problem, attempt to fix whatever the issue is, and then restart. If your computer restarts like usual and doesn't run into a Blue Screen error again, you can make some changes right from your desktop.
+- If the BSOD appears again while your computer is attempting to restart, check its error code. If the error code is 0x000000EF, you should immediately skip ahead to the next part. If not, try rebooting in Safe Mode.
+
+6 - Run a virus scan
+Run a virus scan. While rare, sometimes viruses can trick your computer into thinking that it's malfunctioning, which can in turn cause the BSOD crash.
+- If the virus scan comes up with any malicious software, remove it immediately.
+- If the virus scan sends software settings suggestions (e.g., battery life) to you during the scan, try implementing them. A flawed setting may cause the BSOD to appear.
+

@@ -1,0 +1,79 @@
+Use Cygwin
+https://www.wikihow.com/Use-Cygwin
+
+0 - Using Cygwin: The Basics
+
+1 - Find a file.
+Find a file. Some of the most basic commands you can use in Cygwin are the search and comparison tools. To find a file you can input the following command: $ find . -name EXAMPLE. This will show you all of your files with that name, however, it is case sensitive.[2]
+- X
+- Research source
+
+2 - Find a keyword within a file.
+Find a keyword within a file. If you would like to find certain text within a file, you need to incorporate the "grep" command. Thus, to find all instances of "EXAMPLE" you would need to input $ grep 'EXAMPLE' EXAMPLE.txt. This will provide you with all of the instances of the text "EXAMPLE" within the EXAMPLE.txt file. However, this particular command is case sensitive. To find all instances of "EXAMPLE" regardless of case, continue to the next step.
+
+3 - Find text regardless of case.
+Find text regardless of case. To find text regardless of text, simply add -i after the grep command. It should look something like this: $ grep -i 'EXAMPLE' EXAMPLE.txt.
+
+4 - Compare two files.
+Compare two files. If you would like to compare two files, you can easily do so by entering the diff command. Simply input the command followed by the names of the two files you wish to compare: diff EXAMPLE.txt PRACTICE.txt. This will then present you with the two files, one after another.[3]
+- X
+- Research source
+
+5 - Explore the basic commands.
+Explore the basic commands. Some of the basic commands are listed in the table below alongside their corresponding command in Windows.
+- Action
+- Windows
+- Cygwin
+- 
+- list directory
+- dir
+- ls
+- 
+- clear console
+- cls
+- clear
+- 
+- copy file(s)
+- copy
+- cp
+- 
+- move file(s)
+- move
+- mv
+- 
+- delete file(s)
+- del
+- rm
+- 
+- create directory
+- md
+- mkdir
+- 
+- remove directory
+- rd
+- rm -rf
+- 
+- change current directory
+- cd
+- cd
+- 
+- current directory
+- cd, chdir
+- pwd
+- 
+- search
+- find
+- grep
+- 
+- concatenate
+- cat
+- cat
+- 
+- permissions
+- chmod
+- chmod
+- 
+- display/output text
+- echo
+- echo
+

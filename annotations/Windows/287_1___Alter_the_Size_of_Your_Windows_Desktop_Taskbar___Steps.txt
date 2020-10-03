@@ -1,0 +1,46 @@
+Alter the Size of Your Windows Desktop Taskbar
+https://www.wikihow.com/Alter-the-Size-of-Your-Windows-Desktop-Taskbar
+
+0 - Steps
+
+1 - Unlock the taskbar.
+Unlock the taskbar. To alter the size of your Windows desktop taskbar, make sure that the taskbar is not locked. To see whether or not it is locked, right-click any empty space on the taskbar, and check there is no checkmark next to 'Lock the taskbar'. If there is, click 'Lock the taskbar' once to unlock it.
+- ;
+
+2 - Place the mouse cursor on the line at the top of the taskbar.
+Place the mouse cursor on the line at the top of the taskbar. The pointer will turn into a two-headed arrow.
+
+3 - Click and drag the taskbar's edge up.
+Click and drag the taskbar's edge up. This will increase the size of the taskbar. Alternatively, drag the taskbar's edge down to make is smaller.
+
+4 - Reposition the taskbar.
+Reposition the taskbar. You can reposition the taskbar to the right, left, or top of the screen. Simply click and drag the taskbar to the top, left, or right side of the screen.
+- This can be useful when the taskbar is blocking something at the bottom of the screen. You can temporarily move the taskbar out of the way.
+
+5 - Turn off Auto-hide.
+Turn off Auto-hide. Your computer may sometimes automatically hide the taskbar from view. If this is an annoyance to you, use the following steps to turn off auto-hide:
+- Right-click any empty space in the taskbar.
+- Click Taskbar settings (Properties on Windows 7 & 8) at the bottom of the pop-up menu.[1]
+- X
+- Research source
+- 
+- 
+- Click the toggle switch next to "Automatically hide the taskbar in desktop mode."
+- Click the toggle switch next to "Automatically hide the taskbar in tablet mode."
+
+6 - Make the taskbar icons small.
+Make the taskbar icons small. If you want to make the icons in the taskbar small, use the following steps:
+- Right-click any empty space in the taskbar.
+- Click Taskbar settings (Properties on Windows 7 & 8) at the bottom of the pop-up menu.[2]
+- X
+- Research source
+- 
+- 
+- Click the toggle switch next to "Use small taskbar buttons."
+
+7 - Click  in the lower-right corner (Windows 8 & 10 only).
+Click  in the lower-right corner (Windows 8 & 10 only). It's the icon that resembles a bracket pointing up. This displays all the hidden mini-icons in a pop-up box. You can adjust which icons you want to be in the taskbar or in the hidden icons box by clicking and dragging icons from the taskbar to the hidden icons box, and vice-versa. This allows you to move some icons off of the taskbar, creating more space in the taskbar.
+
+8 - Lock the taskbar again.
+Lock the taskbar again. At this stage, you may lock the taskbar again if you wish. To do so, right-click any empty space on the taskbar and click Lock the taskbar.
+

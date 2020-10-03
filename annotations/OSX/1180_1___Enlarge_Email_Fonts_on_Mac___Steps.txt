@@ -1,0 +1,26 @@
+Enlarge Email Fonts on Mac
+https://www.wikihow.com/Enlarge-Email-Fonts-on-Mac
+
+0 - Steps
+
+1 - Open the Mail app on your Mac.
+Open the Mail app on your Mac. Launch it by click it’s icon from the Dock located at the bottom part of the screen or from the Application list in Finder.
+- ;
+
+2 - Access the options for the Mail app.
+Access the options for the Mail app. Click the “Mail” button on the upper-left corner of the Application menu, and a drop-down list of available menu options for the Mail app will appear.
+
+3 - Open the Preferences menu.
+Open the Preferences menu. Select “Preferences” from the drop-down list to open the Preference window of the Mail app.
+
+4 - Head to the "Fonts and Colors" tab.
+Head to the "Fonts and Colors" tab. Click on “Fonts and Colors” on the upper part of the Preference window to go to the Fonts and Colors tab.
+
+5 - Set the font size.
+Set the font size.
+- Increase the text size of emails in Mail. Click Select next to “Message font,” then select a font size in the Fonts window.
+- Increase the email inbox list font size. Click the “Select” button next to "Message list font" and select the size.
+
+6 - Save the changes you’ve made.
+Save the changes you’ve made. When done, close all windows to save your preferences, and go back to the main window of the Mail app. You’ll notice that the prints of the email messages have now changed to the ones you’ve set in the Preference window.
+

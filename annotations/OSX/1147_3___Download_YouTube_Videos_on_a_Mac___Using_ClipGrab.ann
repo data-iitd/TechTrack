@@ -1,0 +1,15 @@
+T1	Software-Other 179 199	https://clipgrab.org
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 517 535	ClipGrab installer
+A3	isInstalled T2 f->t
+T3	Software-Other 853 861	ClipGrab
+A4	isOpened T3 f->t
+T4	Software-Other 1001 1010	Downloads
+A5	isOpened T4 f->t
+T5	Software-Other 1599 1604	MPEG4
+A6	isSettingsChanged T5 true
+T6	Software-Other 1748 1752	Grab
+A7	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T4	
+R1	SubPart Arg1:T5 Arg2:T4	

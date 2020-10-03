@@ -1,0 +1,94 @@
+T1	Hardware-Other 147 151	keys
+T2	Hardware-Other 160 161	↵
+T3	Software-OS-Related 269 276	desktop
+A1	isOpened T3 start-T
+T4	Hardware-Devices 388 396	keyboard
+A2	isPowered T4 start-T
+T5	Hardware-Other 512 513	R
+T6	Software-OS-Related 542 553	Recycle Bin
+T7	Hardware-Other 564 570	Alt+F4
+T8	Software-OS-Related 588 594	window
+T9	Hardware-Other 604 613	computers
+T10	Hardware-Other 641 647	Alt+Fn
+T11	Hardware-Other 656 658	F4
+T12	Hardware-Other 700 708	computer
+T13	Hardware-Other 715 725	number pad
+T14	Hardware-Devices 853 861	keyboard
+T15	Hardware-Other 947 952	mouse
+T17	Software-OS-Related 1089 1096	Windows
+T18	Hardware-Other 1101 1104	Tab
+T16	Hardware-Other 1045 1052	Alt+Tab
+T19	Software-OS-Related 1162 1167	menus
+T20	Hardware-Other 1172 1173	↵
+T21	Hardware-Other 1243 1254	⇧ Shift+F10
+T22	Hardware-Other 1258 1259	☰
+T23	Hardware-Other 1234 1238	keys
+T24	Hardware-Other 1320 1328	Ctrl+Esc
+T25	Hardware-Other 1332 1333	⊞
+T26	Software-OS-Related 1348 1353	Start
+T27	Hardware-Other 1443 1450	⊞ Win+E
+T28	Software-OS-Related 1465 1478	File Explorer
+T29	Hardware-Other 1483 1490	⊞ Win+X
+T30	Software-OS-Related 1505 1521	advanced options
+T31	Software-OS-Related 1558 1566	Settings
+T32	Software-OS-Related 1606 1611	Start
+A13	isOpened T32 f->t
+T33	Hardware-Other 1638 1643	⊞ Win
+T34	Hardware-Other 1644 1647	key
+T35	Hardware-Other 1679 1689	computer's
+T36	Hardware-Devices 1690 1698	keyboard
+T37	Hardware-Devices 1713 1717	Ctrl
+T38	Hardware-Other 1722 1725	Esc
+T39	Hardware-Other 1760 1765	mouse
+T40	Software-OS-Related 1793 1800	Windows
+T41	Hardware-Devices 1839 1845	screen
+T42	Software-OS-Related 1862 1876	ease of access
+T43	Hardware-Other 1996 2003	↵ Enter
+T44	Software-OS-Related 1969 1974	Start
+T45	Software-OS-Related 2044 2065	Ease of Access Center
+T46	Software-OS-Related 2088 2119	Make the keyboard easier to use
+T47	Hardware-Other 2130 2137	↵ Enter
+T48	Hardware-Other 2206 2207	↓
+T49	Hardware-Other 2230 2233	key
+T50	Software-OS-Related 2322 2339	Set up Mouse Keys
+T51	Hardware-Other 2350 2357	↵ Enter
+T53	Software-OS-Related 2589 2612	Turn on Mouse Keys with
+T54	Hardware-Other 2633 2637	keys
+T56	Hardware-Other 2851 2859	computer
+T57	Hardware-Other 2737 2740	Alt
+T58	Hardware-Other 2755 2762	⇧ Shift
+T59	Hardware-Other 2776 2781	Num ⇩
+T61	Software-OS-Related 3048 3057	Top speed
+T62	Hardware-Other 3092 3099	→ right
+T63	Hardware-Other 3142 3147	Tab ↹
+T64	Software-OS-Related 3169 3181	Acceleration
+T65	Hardware-Other 3204 3211	→ right
+T66	Software-OS-Related 3267 3269	OK
+T67	Software-OS-Related 3280 3287	↵ Enter
+T68	Hardware-Other 3479 3483	keys
+T69	Hardware-Other 3516 3533	Alt+⇧ Shift+Num ⇩
+T70	Hardware-Other 3563 3573	number pad
+T71	Hardware-Other 3675 3680	mouse
+T72	Hardware-Other 3740 3745	Num ⇩
+T73	Hardware-Other 3778 3783	mouse
+T76	Hardware-Other 3858 3859	4
+T77	Hardware-Other 3880 3881	8
+T78	Hardware-Other 3900 3901	6
+T79	Hardware-Other 3927 3928	2
+T80	Hardware-Other 3965 3966	7
+T81	Hardware-Other 3968 3969	9
+T82	Hardware-Other 3971 3972	1
+T83	Hardware-Other 3977 3978	3
+T84	Hardware-Other 4025 4026	5
+T85	Hardware-Other 4034 4044	number pad
+T86	Hardware-Other 4109 4116	↵ Enter
+A3	isOpened T45 f->t
+T74	Hardware-Other 3793 3808	number pad keys
+A4	isOpened T46 f->t
+A5	isSettingsChanged T61 true
+R1	SubPart Arg1:T61 Arg2:T50	
+A8	isSettingsChanged T64 true
+R2	SubPart Arg1:T64 Arg2:T50	
+T52	Software-OS-Related 3437 3447	Mouse Keys
+A6	isSettingsChanged T52 true
+A7	isSettingsChanged T50 true

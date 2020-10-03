@@ -1,0 +1,23 @@
+T1	Software-Other 295 302	gparted
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 1100 1108	terminal
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1181 1188	sudo -s
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1239 1252	root password
+A4	isSettingsChanged T4 true
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1502 1520	mkdir /mnt/windows
+A6	isSettingsChanged T5 true
+T6	Software-OS-Related 1824 1875	mount -t ntfs /dev/sda2 /mnt/windows -o "umask=022"
+A7	isSettingsChanged T6 true
+T7	Software-Other 733 792	write down the name – it will look something like /dev/hda2
+A8	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T2	
+R3	SubPart Arg1:T4 Arg2:T2	
+R4	SubPart Arg1:T5 Arg2:T2	
+T8	Software-OS-Related 1547 1563	Replace the name
+A9	isSettingsChanged T8 true
+R5	SubPart Arg1:T6 Arg2:T2	
+R6	SubPart Arg1:T8 Arg2:T2	

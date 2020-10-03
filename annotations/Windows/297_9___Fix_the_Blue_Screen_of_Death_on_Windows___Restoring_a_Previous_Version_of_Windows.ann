@@ -1,0 +1,10 @@
+T1	Software-OS-Related 478 490	Troubleshoot
+A1	isOpened T1 f->t
+T2	Software-OS-Related 571 587	Advanced options
+A2	isOpened T2 f->t
+T3	Software-OS-Related 672 686	System Restore
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 1484 1490	Finish
+A4	isSettingsChanged T4 true

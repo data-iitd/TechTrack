@@ -1,0 +1,8 @@
+T1	Software-OS-Related 261 267	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 577 586	Open with
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 641 648	Preview
+A3	isOpened T3 f->t
+T4	Hardware-Other 1051 1059	trackpad
+R1	SubPart Arg1:T3 Arg2:T2	

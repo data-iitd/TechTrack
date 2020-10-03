@@ -1,0 +1,16 @@
+T1	Software-Other 94 102	brochure
+A1	isOpened T1 f->t
+T2	Software-Other 177 180	PDF
+T3	Software-Other 462 466	File
+A2	isOpened T3 f->t
+T4	Software-Other 567 572	Print
+A3	isOpened T4 f->t
+T5	Software-Other 734 741	Printer
+A4	isOpened T5 f->t
+T6	Software-Other 846 856	Horizontal
+A5	isOpened T6 f->t
+T7	Software-Other 1173 1178	Print
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T3	
+T8	Software-Other 106 113	Preview
+A7	isOpened T8 f->t

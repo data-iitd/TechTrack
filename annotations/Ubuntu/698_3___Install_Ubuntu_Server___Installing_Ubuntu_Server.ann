@@ -1,0 +1,32 @@
+T1	Software-OS-Related 143 157	setup language
+A1	isOpened T1 f->t
+T2	Software-OS-Related 308 323	keyboard layout
+A2	isOpened T2 f->t
+T3	Software-OS-Related 637 641	Done
+A3	isOpened T3 f->t
+T4	Software-OS-Related 745 759	Install Ubuntu
+A4	isOpened T4 f->t
+T5	Software-OS-Related 914 918	Done
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1247 1251	Done
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1361 1365	Done
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1526 1540	An Entire Disk
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1572 1581	your disk
+T10	Software-OS-Related 1801 1805	Done
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1876 1884	Continue
+A11	isOpened T11 f->t
+T12	Software-OS-Related 2444 2449	Done,
+A12	isOpened T12 f->t
+T13	Software-OS-Related 2736 2740	Done
+A13	isOpened T13 f->t
+T14	Software-OS-Related 2858 2865	Restart
+A14	isOpened T14 f->t
+A9	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T8	
+T15	Software-OS-Related 1995 2024	Enter your server information
+A15	isSettingsChanged T15 true
+R2	SubPart Arg1:T15 Arg2:T11	

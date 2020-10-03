@@ -1,0 +1,46 @@
+Root a ZTE Warp
+https://www.wikihow.com/Root-a-ZTE-Warp
+
+0 - Steps
+
+1 - Click on the following link to install updated ZTE Warp drivers on your computer:
+Click on the following link to install updated ZTE Warp drivers on your computer: http://hexamob.com/drivers/GENERICOS/UniversalAdbDriverSetup6.msi
+- ;
+
+2 - Tap on “Menu” and select “Settings” on your ZTE Warp device.
+Tap on “Menu” and select “Settings” on your ZTE Warp device.
+
+3 - Tap on “Developer options,” and remove the checkmark next to “USB debugging.
+Go to the MediaFire website on your computer at http://www.mediafire.com/?iemp8viqmyg8g3q.
+
+3 - Tap on “Developer options,” and remove the checkmark next to “USB debugging.
+Go to the MediaFire website on your computer at http://www.mediafire.com/?iemp8viqmyg8g3q.
+
+5 - Select the option to download the root package to your Windows or Mac computer.
+Select the option to download the root package to your Windows or Mac computer.
+
+6 - Save the root package archive folder to your computer's desktop.
+Save the root package archive folder to your computer's desktop.
+
+7 - Double-click on the archive folder to extract all files.
+Double-click on the archive folder to extract all files.[1]
+- X
+- Research source
+
+8 - Connect your ZTE Warp to your computer using a USB cable.
+Connect your ZTE Warp to your computer using a USB cable.
+
+9 - Double-click on the file named “runme.bat” on your desktop.
+Double-click on the file named “runme.bat” on your desktop. The rooting software will launch.
+
+10 - Follow the on-screen prompts to root your ZTE Warp.
+Follow the on-screen prompts to root your ZTE Warp.
+
+11 - Disconnect your phone from your computer when the rooting process is complete.
+Disconnect your phone from your computer when the rooting process is complete.
+
+12 - Verify that an app called “Superuser” displays in your app menu.
+Verify that an app called “Superuser” displays in your app menu. Your ZTE Warp is now rooted and ready for use.[2]
+- X
+- Research source
+

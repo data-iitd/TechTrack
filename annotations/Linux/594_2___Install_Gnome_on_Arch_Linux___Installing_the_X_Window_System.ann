@@ -1,0 +1,14 @@
+T1	Software-Other 136 144	X Window
+T2	Software-Other 227 246	desktop environment
+T3	Hardware-Other 264 272	computer
+T4	Software-OS-Related 319 374	sudo pacman -S xorg-server xorg-xinit xorg-server-utils
+T5	Software-OS-Related 384 396	command line
+T6	Software-OS-Related 435 443	download
+T7	Software-OS-Related 491 492	y
+T8	Software-OS-Related 622 663	sudo pacman -S xorg-twm xorg-xclock xterm
+T9	Software-OS-Related 701 709	password
+T10	Software-OS-Related 728 736	download
+T11	Software-OS-Related 902 914	installation
+T12	Software-Other 1073 1088	X Window System
+A1	isOpened T12 f->t
+A2	isInstalled T12 f->t

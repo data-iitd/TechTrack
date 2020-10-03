@@ -1,0 +1,29 @@
+Restart Windows Explorer Without Rebooting Computer
+https://www.wikihow.com/Restart-Windows-Explorer-Without-Rebooting-Computer
+
+0 - 
+
+1 - Open the Task Manager
+Open the Task Manager. Since the taskbar is likely to be frozen along with Windows Explorer, pressing Ctrl+⇧ Shift+Esc will also open the Task Manager.
+
+2 - Click the Processes tab.
+Click the Processes tab.
+
+3 - Click the "Image Name" column heading.
+Click the "Image Name" column heading. so will order the processes from A-Z and allow you to find the Windows Explorer process easier.
+
+4 - Click the "explorer.exe" process listing.
+Click the "explorer.exe" process listing.
+
+5 - End the Windows Explorer process.
+End the Windows Explorer process. Click the End Process button at the bottom-right corner of the Task Manager window. The Windows Shell and any open Windows Explorer windows will disappear.
+
+6 - Click the "File" menu in the top bar.
+Click the "File" menu in the top bar.
+
+7 - Click New Task (Run…).
+Click New Task (Run…). Doing so will open a Run window.
+
+8 - Run Windows Explorer.
+Run Windows Explorer. Type explorer and click OK or hit the ↵ Enter key. The Windows Shell GUI will return, although any previously-closed Windows Explorer windows will not be re-opened.
+

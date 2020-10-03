@@ -1,0 +1,3 @@
+T1	Software-OS-Related 193 200	Taskbar
+T2	Software-OS-Related 170 179	Task View
+A1	isOpened T2 f->t

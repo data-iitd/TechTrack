@@ -1,0 +1,36 @@
+Find System Specs
+https://www.wikihow.com/Find-System-Specs
+
+0 - Linux
+
+1 - Open the terminal.
+Open the terminal. You can use a lightweight hardware listing program that is included in many Linux distributions. If you don't have it, it can be easily installed. You can quickly open the terminal in most distributions by pressing Ctrl+Alt+T.
+
+2 - Install lshw (if necessary).
+Install lshw (if necessary). Many Linux distributions, including Ubuntu and Mint, include lshw. Use one of the following commands to install lshw. If you already have it, you'll be informed that it's already installed.[3]
+- X
+- Research source
+- 
+- 
+- Debian - sudo apt-get install lshw
+- Red Hat/Fedora - sudo yum install lshw
+
+3 - Run lshw to see a readout of your installed hardware.
+Run lshw to see a readout of your installed hardware. Use the following command to cut out most of the clutter and display the items that most people are looking for:
+- sudo lshw -short.[4]
+- X
+- Research source
+
+4 - Find the items your looking for.
+Find the items your looking for. Use the "Class" column to find the item you want. You can find the processor, the memory (RAM), the graphics card ("display"), and disk volumes.
+
+5 - Create a text file of your hardware specs.
+Create a text file of your hardware specs. This can be useful if someone is helping you troubleshoot, or you want to sell the computer.
+- Type sudo lshw -short > specs.txt. You can rename the file to whatever you'd like. You'll find the text file in your /home folder.
+- You can also type sudo lshw -html > specs.html. This will create an HTML file that may be easier to read when opened in a web browser.
+
+6 - Install the GUI (graphical user interface).
+Install the GUI (graphical user interface). This will allow you to view your hardware in a graphical window that you can navigate through. This can be more comfortable for users coming from Windows or OS X.
+- Type sudo apt-get install lshw-gtk (Debian) or sudo yum install lshw-gui (RH/Fedora).
+- Type sudo lshw -X to launch the GUI for lshw. The GUI uses the "3-frame" layout. When you expand something in the left frame, the sub sections will appear in the frame to the right. Expand the different categories to find your specs.
+

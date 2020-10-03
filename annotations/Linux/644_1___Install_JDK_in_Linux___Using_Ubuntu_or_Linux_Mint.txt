@@ -1,0 +1,24 @@
+Install JDK in Linux
+https://www.wikihow.com/Install-JDK-in-Linux
+
+0 - Using Ubuntu or Linux Mint
+
+1 - Press Ctrl+Alt+T to open a new terminal window.
+Press Ctrl+Alt+T to open a new terminal window. If you're already at the command prompt, just skip to the next step.
+- ;
+
+2 - Type sudo add-apt-repository ppa:linuxuprising_java and press ↵ Enter.
+Type sudo add-apt-repository ppa:linuxuprising/java and press ↵ Enter. This adds the Linux Uprising repository.[1]
+- X
+- Research source
+
+3 - Type sudo apt update and press ↵ Enter.
+Type sudo apt update and press ↵ Enter. Now that the repository is ready, you can use it to install JDK.
+
+4 - Type sudo apt install oracle-java12-installer and press ↵ Enter.
+Type sudo apt install oracle-java12-installer and press ↵ Enter. JDK is now installed.
+
+5 - Type sudo apt install oracle-java12-set-default and press ↵ Enter.
+Type sudo apt install oracle-java12-set-default and press ↵ Enter. This sets Java 12 as the default Java version.
+- To double-check the default version, type java --version at the command prompt and press ↵ Enter.
+

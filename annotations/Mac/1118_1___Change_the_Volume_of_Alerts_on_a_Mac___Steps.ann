@@ -1,0 +1,11 @@
+T1	Software-OS-Related 153 162	pple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 209 227	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 425 437	Sound option
+A3	isOpened T3 f->t
+T4	Software-OS-Related 486 503	Sound Effects tab
+A4	isOpened T4 f->t
+T5	Software-OS-Related 572 591	Alert volume slider
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

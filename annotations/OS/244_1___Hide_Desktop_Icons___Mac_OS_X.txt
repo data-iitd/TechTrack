@@ -1,0 +1,49 @@
+Hide Desktop Icons
+https://www.wikihow.com/Hide-Desktop-Icons
+
+0 - Mac OS X
+
+1 - Hide system icons.
+Hide system icons. While hiding your icons on a Mac isn't as straightforward as on Windows, it can still be done. The easiest thing you can do is turn off all of your system icons, such as your hard drives, inserted discs, and servers. This will prevent them from appearing on the desktop.
+- Click Finder and select Preferences. You may need to open a Finder window for the Finder menu to appear.
+- Click the General tab.
+- Uncheck the boxes for the icons you want to hide.
+
+2 - Hide the rest of your icons using the Terminal.
+Hide the rest of your icons using the Terminal. You can hide all of the icons on your desktop by using Terminal commands. Click Go and select Utilities. Double-click "Terminal".
+
+3 - Turn off the desktop.
+Turn off the desktop. Enter the following command to hide all of the icons on the desktop:
+-  defaults write com.apple.finder CreateDesktop false; killall Finder
+
+4 - Turn the icons back on.
+Turn the icons back on. If you want to show the icons again, enter the following command:
+-  defaults write com.apple.finder CreateDesktop true; killall Finder
+
+5 - Make an Automator script.
+Make an Automator script. If you find yourself hiding your icons often, you can create an Automator script that will allow you to hide the icons in a few clicks. Open Automator from the Applications folder and choose the "Service" template. Set the right drop-down menu to "Finder" and the left drop-down menu to "no input". Search for and drag the "Run AppleScript" action to the main workflow. Paste the code below into the "Run AppleScript" field, replacing anything there already:
+- try
+- set toggle to do shell script "defaults read com.apple.finder CreateDesktop"
+- if toggle = "true" then
+- do shell script "defaults write com.apple.finder CreateDesktop false"
+- else if toggle = "false" then
+-  do shell script "defaults write com.apple.finder CreateDesktop true"
+- end if
+- end try
+- do shell script "killall Finder"
+- delay 0.5
+- activate application "Finder"
+- 
+- [1]
+- X
+- Research source
+- 
+- Save the new service as an easy-to-remember name, such as "Hide/Show Desktop"
+- You can access your new script by clicking Finder → Services
+- You will need to have run the Terminal commands from the previous steps at least once for the script to work.
+
+6 - Download an icon-hiding program.
+Download an icon-hiding program. If you'd rather not fuss with scripts, you can download a program that will let you toggle your desktop on and off. Some programs will only do this, while other provide a range of desktop customization options as well. Some of the most popular programs include:
+- Camouflage
+- Hide Desktop
+

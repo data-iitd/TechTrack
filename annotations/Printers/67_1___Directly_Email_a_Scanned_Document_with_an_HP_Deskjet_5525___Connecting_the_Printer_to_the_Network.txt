@@ -1,0 +1,23 @@
+Directly Email a Scanned Document with an HP Deskjet 5525
+https://www.wikihow.com/Directly-Email-a-Scanned-Document-with-an-HP-Deskjet-5525
+
+0 - Connecting the Printer to the Network
+
+1 - Tap "Settings.
+Tap "Settings." This is the second icon on the menu of the control panel - the one with the satellite icon.
+
+2 - Tap "Wireless Setup Wizard.
+Tap "Wireless Setup Wizard." You may have to scroll down to find this.
+
+3 - Select Network SSID.
+Select Network SSID. From the list of available networks, select your home network.
+
+4 - Enter your wireless passcode.
+Enter your wireless passcode. Input your home network’s security key or passcode.
+
+5 - Confirm settings.
+Confirm settings. You will be asked to confirm your settings. Tap "Okay." The printer will try to establish a connection to your network.
+
+6 - View confirmation.
+View confirmation. A “Confirmation Successful” message will appear if the printer was able to connect successfully.
+

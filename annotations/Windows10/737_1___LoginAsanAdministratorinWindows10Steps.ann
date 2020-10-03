@@ -1,0 +1,10 @@
+T1	Software-OS-Related 170 180	Start Menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 413 433	Run as Administrator
+A2	isOpened T2 f->t
+T3	Software-OS-Related 509 512	Yes
+A3	isSettingsChanged T3 true
+A4	isOpened T3 f->t
+T4	Software-OS-Related 1090 1103	Administrator
+T5	Software-OS-Related 1418 1425	Sign in
+A5	isOpened T5 f->t

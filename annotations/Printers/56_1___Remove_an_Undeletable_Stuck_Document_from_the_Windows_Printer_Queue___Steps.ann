@@ -1,0 +1,28 @@
+T1	Hardware-Devices 195 202	printer
+A1	isPowered T1 t->f
+T2	Hardware-Other 245 256	power cords
+T3	Hardware-Other 317 325	USB port
+T4	Hardware-Other 334 342	computer
+T5	Software-OS-Related 773 784	My Computer
+T6	Software-OS-Related 841 847	Manage
+A2	isOpened T6 f->t
+A3	isOpened T5 f->t
+T7	Software-OS-Related 1079 1114	Computer Management Snapin Launcher
+A4	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T6	
+T8	Software-OS-Related 1481 1489	Services
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1636 1649	Print Spooler
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1944 1954	Properties
+A7	isOpened T10 f->t
+T11	Software-OS-Related 1978 1982	Stop
+A8	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T9	
+T12	Software-OS-Related 2117 2131	Service status
+T13	Software-OS-Related 2159 2166	Started
+T14	Software-OS-Related 2351 2364	Print Spooler
+T15	Software-OS-Related 2925 2946	Print Spooler service
+A9	isOpened T15 f->t
+T16	Software-OS-Related 3220 3239	Computer Management
+A10	isOpened T16 t->f

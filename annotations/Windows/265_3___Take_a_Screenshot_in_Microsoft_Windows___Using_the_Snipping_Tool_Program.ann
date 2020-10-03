@@ -1,0 +1,26 @@
+T3	Software-OS-Related 422 434	Start button
+A3	isOpened T3 f->t
+T4	Software-OS-Related 447 455	Programs
+A4	isOpened T4 f->t
+T5	Software-OS-Related 465 475	ccessories
+A5	isOpened T5 f->t
+T8	Hardware-Other 982 987	mouse
+T11	Software-OS-Related 1567 1612	“Show selection ink after snips are captured”
+T13	Software-OS-Related 1722 1732	New button
+A12	isOpened T13 f->t
+T16	Hardware-Other 1871 1876	mouse
+T19	Software-OS-Related 2132 2140	Pen tool
+A17	isOpened T19 f->t
+T20	Software-OS-Related 2233 2243	Erase tool
+T22	Software-OS-Related 2348 2359	floppy disk
+A20	isOpened T22 f->t
+T23	Software-OS-Related 2440 2452	Save as type
+T1	Software-OS-Related 492 505	Snipping Tool
+A1	isOpened T1 f->t
+T6	Software-OS-Related 158 171	Snipping Tool
+T2	Software-OS-Related 861 873	Arrow button
+A2	isOpened T2 f->t
+A6	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T1	
+A7	isSettingsChanged T23 true
+R2	SubPart Arg1:T23 Arg2:T1	

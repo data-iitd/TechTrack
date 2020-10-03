@@ -1,0 +1,66 @@
+Set Up an Ubuntu Based HTPC with XBMC
+https://www.wikihow.com/Set-Up-an-Ubuntu-Based-HTPC-with-XBMC
+
+0 - Steps
+
+1 - Download the latest stable versions of Ubuntu and XBMC.
+Download the latest stable versions of Ubuntu and XBMC. In this article we will be using Ubuntu 14.04.1 and XBMC "Gotham" 13.2. You can download them from;
+- http://www.ubuntu.com/download/desktop
+- http://kodi.tv/download/
+- ;
+
+2 - You can either choose to rip the ISO file downloaded to the DVD itself, or you can create a Bootable USB drive.
+You can either choose to rip the ISO file downloaded to the DVD itself, or you can create a Bootable USB drive. It is however recommended that the XBMC set up for Linux is placed on the USB drive. Once you do that;
+- Insert the Ubuntu ISO's DVD or plug in the bootable Ubuntu USB drive
+- Boot up the computer
+- At the Welcome Screen, choose "Install Ubuntu"
+
+3 - If the two requirements are met, you may continue installations by clicking on "Continue"
+
+If the two requirements are met, you may continue installations by clicking on "Continue"
+
+4 - Choose the option to "Erase disk and install Ubuntu", Then click "Install Now"
+
+Choose the option to "Erase disk and install Ubuntu", Then click "Install Now"
+
+5 - Choose your location_ time zone, then your Keyboard Layout
+
+Choose your location/ time zone, then your Keyboard Layout
+
+6 - Fill in your details
+
+Fill in your details
+- Its recommended that you choose "Log in automatically" if this is a Home PC that does not have sensitive files and is primarily meant for Media Consumption purposes.
+- If you do however choose to make online transactions, use it to access email/social media or keep sensitive data on this computer, click the option "Require my password to log in" and continue.
+
+7 - Wait for Ubuntu to complete the set up
+
+Wait for Ubuntu to complete the set up
+
+8 - When the installation is complete, Click "Restart Now" to restart the computer.
+When the installation is complete, Click "Restart Now" to restart the computer.
+
+9 - Log in to the account, open start menu and search for "Terminal"
+
+Log in to the account, open start menu and search for "Terminal"
+
+10 - In terminal, execute the following lines of code one at a time, by typing them out and hitting the "Enter" key.
+In terminal, execute the following lines of code one at a time, by typing them out and hitting the "Enter" key. After each line of code you may be asked a confirmation message, Enter "Y" or "y" and press the enter key again.
+- sudo apt-get install python-software-properties pkg-config
+- sudo apt-get install software-properties-common
+- sudo add-apt-repository ppa:team-xbmc/ppa
+- sudo apt-get update
+- sudo apt-get install xbmc
+
+11 - Log out from Ubuntu.
+Log out from Ubuntu.
+
+12 - At the Log in screen, on the right hand side of the user name, click on the icon.
+At the Log in screen, on the right hand side of the user name, click on the icon. Then, change the Desktop Environment to XBMC. Now, Log in.
+
+13 - Your XBMC HTPC is now set up.
+Your XBMC HTPC is now set up.
+
+14 - XBMC is very flexible.
+XBMC is very flexible. You can download and configure mobile applications to use them as a remote controller for your HTPC, you can change and install more interfaces, install plug ins for streaming services like Netflix, install widgets like Weather Forecasts or RSS feeds.The possibilities are practically limitless.
+

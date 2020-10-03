@@ -1,0 +1,42 @@
+Change the Default Web Browser on a Mac
+https://www.wikihow.com/Change-the-Default-Web-Browser-on-a-Mac
+
+0 - Steps
+
+1 - Download your preferred web browser.
+Download your preferred web browser. If you don't already have the web browser that you want to use installed on your Mac, you'll need to download it before proceeding:
+- 
+- Google Chrome - Go to Chrome's download page and click the blue DOWNLOAD CHROME button.
+- Firefox - Go to Firefox's download page and click the green Download Now button.
+- Opera - Go to Opera's download page and click the green Download now button.
+- ;
+
+2 - Install your browser.
+Install your browser. To do so:
+- Double-click the downloaded DMG file.
+- Follow any on-screen prompts if available.
+- Click and drag the browser's icon onto the Applications folder shortcut.
+- Hold down Control while clicking the DMG window.
+- Click Eject in the drop-down menu.
+
+3 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+4 - Click System Preferences….
+Click System Preferences…. It's near the top of the drop-down menu. Doing so opens the System Preferences window.
+
+5 - Click General.
+Click General. This option is near the top-left corner of the System Preferences window. You can change your web browser from here.[1]
+- X
+- Research source
+
+6 - Click the "Default web browser" drop-down box.
+Click the "Default web browser" drop-down box. It's in the middle of the page. Doing so prompts a drop-down menu.
+
+7 - Select a browser.
+Select a browser. In the drop-down menu, click a browser that you want to use. As long as the browser is installed on your computer and is up to date, it should show up as an option here.
+- If you don't see the browser that you want to use, restart your Mac and then re-open the System Preferences window to try again.
+
+8 - Exit the System Preferences window.
+Exit the System Preferences window. Your settings will be saved; any links or app extensions should now open in your new default browser.
+

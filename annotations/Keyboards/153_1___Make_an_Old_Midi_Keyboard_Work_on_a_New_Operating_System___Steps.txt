@@ -1,0 +1,61 @@
+Make an Old Midi Keyboard Work on a New Operating System
+https://www.wikihow.com/Make-an-Old-Midi-Keyboard-Work-on-a-New-Operating-System
+
+0 - Steps
+
+1 - If you have Windows 7, download the driver for the PC-50.
+If you have Windows 7, download the driver for the PC-50.
+- ;
+
+2 - Unzip the file, and place it somewhere obvious such as your desktop.
+Unzip the file, and place it somewhere obvious such as your desktop.
+
+3 - Open the unzipped file, then open the folder 'Files', and look for a file called 'RDIF1053.inf'
+
+Open the unzipped file, then open the folder 'Files', and look for a file called 'RDIF1053.inf'
+
+4 - Open the file with notepad, and scroll down to where it says '[Roland.NTamd64.6.1];; Windows7%RDID0053DeviceDesc%=RDID0053Install, USB\VID_0582&PID_008B ; PC-50'
+
+Open the file with notepad, and scroll down to where it says '[Roland.NTamd64.6.1];; Windows7%RDID0053DeviceDesc%=RDID0053Install, USB\VID_0582&PID_008B ; PC-50'
+
+5 - Keep notepad open, and open 'Control Panel', and click on 'Hardware and Sound', then under 'Devices and Printers', click on 'Device Manager', which should have a blue and yellow shield next to it.
+Keep notepad open, and open 'Control Panel', and click on 'Hardware and Sound', then under 'Devices and Printers', click on 'Device Manager', which should have a blue and yellow shield next to it.
+
+6 - Enter administrator login information if needed.
+Enter administrator login information if needed.
+
+7 - Look for 'Unknown Device', right click on it, select 'Properties' and click on the 'Details' tab, it should give you a list of 'Hardware IDs'.
+Look for 'Unknown Device', right click on it, select 'Properties' and click on the 'Details' tab, it should give you a list of 'Hardware IDs'.
+
+8 - Right click the top entry, and select 'Copy'.
+Right click the top entry, and select 'Copy'.
+
+9 - Go back into notepad, and replace 'USB\VID_0582&PID_008B' with the ID that you just copied.
+Go back into notepad, and replace 'USB\VID_0582&PID_008B' with the ID that you just copied.
+
+10 - Save the file and exit it.
+Save the file and exit it.
+
+11 - Go back to 'Device Manager'
+
+Go back to 'Device Manager'
+
+12 - Look for 'Unknown Device' again, right click on it, and select 'Update Driver Software.
+Look for 'Unknown Device' again, right click on it, and select 'Update Driver Software...'
+
+13 - Select 'Browse my computer for driver software'.
+Select 'Browse my computer for driver software'.
+
+14 - Then select 'Let me pick from a list of device drivers on my computer'.
+Then select 'Let me pick from a list of device drivers on my computer'.
+
+15 - Select 'Have Disk.
+Select 'Have Disk...'
+
+16 - Click 'Browse.
+Click 'Browse...'
+
+17 - Browse to the place where you saved 'RDIF1053.inf' and select it.
+Browse to the place where you saved 'RDIF1053.inf' and select it.
+- Your new driver should be ready to use with any MIDI-supported programs.
+

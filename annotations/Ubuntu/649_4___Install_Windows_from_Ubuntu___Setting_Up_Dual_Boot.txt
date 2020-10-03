@@ -1,0 +1,49 @@
+Install Windows from Ubuntu
+https://www.wikihow.com/Install-Windows-from-Ubuntu
+
+0 - Setting Up Dual Boot
+
+1 - Open the Microsoft Edge web browser.
+Open the Microsoft Edge web browser. You'll find it in Start menu, which is at the bottom-left corner of the screen. The final part of the process is setting up your computer to let you boot from either Windows 10 or Ubuntu at start up.
+
+2 - Navigate to https:__neosmart.net_EasyBCD.
+Navigate to https://neosmart.net/EasyBCD. EasyBCD is a free tool that lets you set up dual-boot from within Windows.
+
+3 - Scroll down and click Register under "Non-commercial.
+Scroll down and click Register under "Non-commercial." This brings you to a sign-up page.
+
+4 - Enter your name and email address and click Download.
+Enter your name and email address and click Download. This should start the download immediately, but you might have to click Save or Download to confirm.
+
+5 - Click the file you just downloaded.
+Click the file you just downloaded. It's the file that starts with EasyBCD. You should see it near the bottom of the browser. If you don't, press Ctrl+J to open the Downloads list and click it there.
+
+6 - Click Yes to allow the app to run.
+Click Yes to allow the app to run.
+
+7 - Follow the on-screen instructions to install EasyBCD.
+Follow the on-screen instructions to install EasyBCD. Once the app is installed, it will be added to the Start menu.
+
+8 - Open EasyBCD.
+Open EasyBCD. It's on the Start menu, which you can get to by clicking the Windows button at the bottom-left corner of the screen.
+
+9 - Click the Linux_BSD tab.
+Click the Linux/BSD tab. It's near the top of the app.
+
+10 - Select Grub 2 from the "Type" menu.
+Select Grub 2 from the "Type" menu. It's near the top of the tab.
+
+11 - Type Ubuntu into the "Name" field.
+Type Ubuntu into the "Name" field. It's right below the "Type" menu. This is how Ubuntu will appear in the boot menu.
+
+12 - Select Automatically locate and load from the "Drive" menu.
+Select Automatically locate and load from the "Drive" menu.
+
+13 - Click the Add Entry button.
+Click the Add Entry button. It's right below the "Drive" menu. This adds an option for Ubuntu to the standard Windows boot menu.[5]
+- X
+- Research source
+
+14 - Remove the USB drive and restart the PC.
+Remove the USB drive and restart the PC. You can restart the PC by clicking the Start menu, selecting the Power button (it looks like a knob), and choosing Restart. When the PC comes back up, it will boot to a screen that allows you to select either Windows 10 or Ubuntu. Selecting one or the other will boot into that operating system.
+

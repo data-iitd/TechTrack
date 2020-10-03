@@ -1,0 +1,27 @@
+Resolve No Sound on Windows Computer
+https://www.wikihow.com/Resolve-No-Sound-on-Windows-Computer
+
+0 - Checking the Volume
+
+1 - Make sure the volume  isn't low or muted.
+Make sure the volume  isn't low or muted. Locate the speaker icon (typically to the left of the clock) in the Windows taskbar. If you see an X beside it, your PC's volume is muted. Press the Volume-Up button several times, or click the speaker icon and drag the slider to the right. Look for an on-screen indicator that the volume is rising.
+- If the volume icon doesn't appear in the taskbar, right-click the taskbar, click Taskbar settings, click Select which icons appear in the taskbar, and slide the "Volume" switch to the "On" position.
+- Many keyboards have mute and volume buttons. Sometimes these keys are actually shared keyboard keys. For example, the arrow keys ←+→+↑+↓ may also display sound icons. You'll usually have to press the Fn key at the same time as you press the volume-up or mute key.
+- ;
+
+2 - Right-click the volume  icon and select Open Volume Mixer.
+Right-click the volume  icon and select Open Volume Mixer.  It's at the bottom-right corner of the screen.
+
+3 - Use the sliders to adjust the volume levels.
+Use the sliders to adjust the volume levels. Each currently-open application will have a pentagonal slider below its icon; if this slider is at the bottom of the Mixer window, the application's master volume is muted.
+- If you want to increase your overall system's volume, click and drag the "Speakers" volume slider up.
+- If this resolves your issue, click the X at the top-right corner to close the volume mixer.
+
+4 - Check your speaker and_or headphones connection.
+Check your speaker and/or headphones connection. If you can't hear audio from your speakers or headphones, make sure you've plugged them into the correct port (not the microphone port!) and that the connections are securely in place.
+- If your computer is connected to speakers that have their own volume controls, make sure they are plugged in, powered on, and that their volume is up.
+- You may also need to change the audio output to the correct device.
+
+5 - Restart your computer.
+Restart your computer. Before proceeding to another method, try to reset your audio by restarting your computer. If your computer loads up with the sound is fixed, you needn't continue.
+

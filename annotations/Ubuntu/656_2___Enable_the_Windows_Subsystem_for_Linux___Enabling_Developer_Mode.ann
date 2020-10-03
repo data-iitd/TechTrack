@@ -1,0 +1,11 @@
+T1	Software-OS-Related 213 224	Home button
+A1	isOpened T1 f->t
+T2	Software-OS-Related 307 324	Update & security
+A2	isOpened T2 f->t
+T3	Software-OS-Related 385 399	For Developers
+A3	isOpened T3 f->t
+T4	Software-OS-Related 533 545	radio button
+A5	isOpened T4 f->t
+T5	Software-OS-Related 809 812	Yes
+A6	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

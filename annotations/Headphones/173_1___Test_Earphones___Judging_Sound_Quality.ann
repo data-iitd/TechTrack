@@ -1,0 +1,8 @@
+T13	Hardware-Devices 3444 3453	earphones
+T11	Hardware-Devices 3813 3824	microphones
+T14	Hardware-Devices 242 251	earphones
+A3	isPowered T14 start-T
+A6	isConnected T14 f->t
+T1	Hardware-Devices 1947 1956	earphones
+A1	isUsed T1 true
+A2	isUsed T11 true

@@ -1,0 +1,26 @@
+T1	Software-OS-Related 148 156	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 397 425	sudo apt-get install gparted
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 507 514	GParted
+A3	isOpened T3 f->t
+T4	Software-OS-Related 747 752	drive
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1203 1210	Unmount
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1495 1501	Delete
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1636 1639	New
+A7	isSettingsChanged T7 true
+A8	isOpened T7 f->t
+T8	Software-OS-Related 1972 1983	File system
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 2376 2379	Add
+A10	isSettingsChanged T9 true
+T10	Software-OS-Related 2920 2931	Resize/Move
+A11	isSettingsChanged T10 true
+T11	Software-OS-Related 1536 1558	Create a new partition
+R1	SubPart Arg1:T8 Arg2:T11	
+R2	SubPart Arg1:T9 Arg2:T11	
+R3	SubPart Arg1:T4 Arg2:T3	
+R4	SubPart Arg1:T5 Arg2:T4	

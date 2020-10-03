@@ -1,0 +1,37 @@
+Connect a Razer Controller to a PC
+https://www.wikihow.com/Connect-a-Razer-Controller-to-a-PC
+
+0 - Connecting Wirelessly
+
+1 - Flip the switch located on the back of the controller to PC Bluetooth mode (if available).
+Flip the switch located on the back of the controller to PC Bluetooth mode (if available). The switch has a blue background (on the Razer Raiju Ultimate) and is located in the center of the back of the controller.
+- Depending on the model of the Razer controller you have, the switch might be located somewhere else. You'll need to refer to the Razer's instruction manual for more details. Your Razer controller might not have a Bluetooth function and may only be able to connect with a USB cable.
+- If this is your first time using the Razer controller or its charge is low, you'll most likely want to make a wired connection. If the lights on your controller are red, the charge is low.
+- ;
+
+2 - Tap the PS button to turn the controller on.
+Tap the PS button to turn the controller on. The controller should light up to show you that it's turned on.
+
+3 - Press and hold the PS and Options buttons for at least 5 seconds.
+Press and hold the PS and Options buttons for at least 5 seconds. When the status light changes from slow to rapid blinking, your controller is in pairing mode and you can release the buttons you're holding down.
+
+4 - Go to Settings on your computer.
+Go to Settings on your computer. You'll find the gear icon for Settings in the Start Menu (you can either click the Start Menu icon in your taskbar or you can press ⊞ Win).
+
+5 - Click Devices.
+Click Devices. You'll see this as the first option in the second column.
+
+6 - Click Add Bluetooth or other devices.
+Click Add Bluetooth or other devices. You'll see this on the right side of the window; it's the first clickable option. You'll see discoverable devices appear in the list as your computer scans.
+
+7 - Click the Razer controller to pair it.
+Click the Razer controller to pair it. If you don't see it in the list, you might need to turn off the Razer controller and put it into pairing mode again.
+
+8 - Click Done.
+Click Done. A confirmation window will display that you've successfully connected to the Razer controller.[1]
+- X
+- Research source
+
+9 - Install the appropriate drivers.
+Install the appropriate drivers. You should be automatically prompted to install drivers to use the Razer controller. If you aren't prompted, you can manually get the drivers from the Razer support site.
+

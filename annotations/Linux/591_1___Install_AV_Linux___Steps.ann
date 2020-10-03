@@ -1,0 +1,63 @@
+T1	Software-Other 92 104	AV Linux ISO
+T2	Software-Other 414 422	ISO file
+T5	Hardware-Other 513 517	disk
+T6	Hardware-Other 638 641	DVD
+T7	Software-Other 656 678	image burning software
+T8	Software-Other 698 702	burn
+T9	Software-Other 708 711	ISO
+T10	Hardware-Other 728 731	USB
+T3	Hardware-Other 764 787	live bootable USB drive
+T4	Software-OS-Related 791 796	Linux
+T11	Software-OS-Related 854 877	AV Linux Live Installer
+A1	isOpened T11 f->t
+T12	Software-OS-Related 1113 1121	AV Linux
+T13	Software-OS-Related 1266 1269	Yes
+T14	Software-OS-Related 1319 1327	AV Linux
+T15	Software-OS-Related 1503 1505	No
+T16	Software-OS-Related 1513 1519	window
+A2	isOpened T16 f->t
+T17	Software-OS-Related 1573 1587	root partition
+T18	Software-OS-Related 1596 1616	linux-swap partition
+T19	Software-OS-Related 1746 1748	OK
+T20	Hardware-Other 1671 1693	removable media device
+T21	Software-OS-Related 1782 1791	hard disk
+T22	Software-OS-Related 1812 1825	AV Linux into
+T23	Software-OS-Related 2156 2158	OK
+T24	Software-OS-Related 2194 2208	root partition
+T25	Software-OS-Related 2321 2328	unmount
+T26	Software-OS-Related 2333 2339	delete
+T27	Software-OS-Related 2344 2353	hard disk
+T28	Software-OS-Related 2411 2424	new partition
+T29	Software-OS-Related 2690 2694	+Add
+A3	isSettingsChanged T29 true
+R1	SubPart Arg1:T29 Arg2:T28	
+T30	Software-OS-Related 2782 2787	Apply
+A4	isSettingsChanged T30 true
+R2	SubPart Arg1:T30 Arg2:T11	
+T31	Software-OS-Related 3166 3171	Close
+T32	Software-OS-Related 3190 3210	linux-swap partition
+T33	Software-OS-Related 3362 3372	linux-swap
+T34	Software-OS-Related 3385 3389	+Add
+T35	Software-OS-Related 3504 3527	GParted software window
+A5	isOpened T35 t->f
+A6	isSettingsChanged T34 true
+R3	SubPart Arg1:T34 Arg2:T33	
+T36	Software-OS-Related 3565 3576	root system
+T37	Software-OS-Related 3673 3682	partition
+T38	Software-OS-Related 3874 3884	linux-swap
+T39	Software-OS-Related 4036 4046	filesystem
+T40	Software-OS-Related 4060 4074	root partition
+T41	Software-OS-Related 4311 4320	partition
+T42	Software-OS-Related 4324 4337	install _home
+T43	Software-OS-Related 4572 4585	root password
+T44	Software-Other 4632 4640	AV Linux
+T45	Software-OS-Related 4716 4724	username
+T46	Software-OS-Related 4830 4832	OK
+T47	Software-Other 4866 4870	GRUB
+T48	Software-OS-Related 5143 5145	No
+T49	Software-OS-Related 5167 5176	time zone
+T50	Software-Other 5594 5602	AV Linux
+A7	isInstalled T50 f->t
+T51	Software-Other 5834 5842	AV Linux
+T52	Software-OS-Related 5844 5850	Reboot
+T53	Hardware-Other 5856 5864	computer

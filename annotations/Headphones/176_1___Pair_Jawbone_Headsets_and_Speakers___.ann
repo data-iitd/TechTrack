@@ -1,0 +1,30 @@
+T10	Software-OS-Related 656 672	Wi-Fi connection
+A8	isOpened T10 f->t
+T11	Software-OS-Related 684 703	radio button to “On
+T12	Software-OS-Related 834 849	Connections tab
+A10	isOpened T12 f->t
+T14	Software-OS-Related 912 925	Prime headset
+T15	Software-OS-Related 1030 1037	pairing
+A13	isOpened T15 f->t
+T21	Software-OS-Related 1577 1588	Scan button
+A19	isOpened T21 f->t
+T22	Software-OS-Related 1801 1812	Talk button
+A20	isOpened T22 f->t
+T4	Hardware-Other 593 605	Apple iPhone
+T9	Hardware-Other 761 775	Samsung Galaxy
+T19	Hardware-Other 1367 1372	phone
+T1	Hardware-Devices 123 128	phone
+A1	isPowered T1 f->t
+T2	Hardware-Devices 342 349	headset
+T3	Software-OS-Related 517 525	settings
+A2	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T3	
+T5	Hardware-Devices 1929 1934	Prime
+A3	isUsed T5 true
+A4	isSettingsChanged T14 true
+R2	SubPart Arg1:T14 Arg2:T12	
+T6	Hardware-Devices 1110 1117	headset
+A5	isPowered T6 t->f
+T7	Hardware-Devices 1200 1207	headset
+A6	isPowered T7 f->t
+T8	Hardware-Devices 1532 1539	headset

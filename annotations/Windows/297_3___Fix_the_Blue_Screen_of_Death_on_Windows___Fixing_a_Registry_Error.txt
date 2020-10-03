@@ -1,0 +1,22 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Fixing a Registry Error
+
+1 - Understand what this error means.
+Understand what this error means.  This means that there was a problem reading or writing files in the computer registry, and some applications may stop working properly.[1]
+- X
+- Research source
+
+2 - Wait for automatic repair to fix your computer.
+Wait for automatic repair to fix your computer.  If the registry error occurred while updating, your computer may fail to boot normally.  Let automatic repair fix the broken registry keys and try again.
+
+3 - Reinstall any programs that fail to start.
+Reinstall any programs that fail to start.  This error is severe enough to make your computer unresponsive when programs with missing registry keys are run.  To do so, go to the app list in Settings, and click on "Repair" after clicking on "Modify".
+
+4 - Repair Windows.
+Repair Windows.  In severe cases, Windows will not start.  Use installation media to repair Windows.  Plug in the Windows installation media, select your language, then click on "Repair your computer".  For more information on creating installation media, see Reinstall Windows.
+
+5 - Reinstall Windows.
+Reinstall Windows.  This should be done if all else fails.  Use a Windows installer or a network connection to restore factory settings.  This will remove all of your data, including files, product keys, apps, and browsing history.
+

@@ -1,0 +1,22 @@
+T1	Software-Device-Drivers 97 112	printer drivers
+T2	Hardware-Other 201 209	computer
+T3	Hardware-Other 263 266	USB
+T4	Software-OS-Related 445 450	Start
+A1	isOpened T4 f->t
+T5	Software-OS-Related 470 483	Control Panel
+A2	isOpened T5 f->t
+T6	Software-OS-Related 657 683	Network and Sharing Center
+A3	isOpened T6 f->t
+T7	Software-OS-Related 695 715	Network and Internet
+A4	isOpened T7 f->t
+T8	Software-OS-Related 870 885	Printer Sharing
+A5	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T6	
+T9	Software-OS-Related 1289 1302	Control Panel
+T10	Software-OS-Related 1316 1343	Devices and Printers option
+A6	isOpened T10 f->t
+T11	Software-OS-Related 1401 1419	Printer properties
+A7	isOpened T11 f->t
+T12	Software-OS-Related 1465 1483	Share this printer
+A8	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T10	

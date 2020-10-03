@@ -1,0 +1,13 @@
+T1	Software-OS-Related 242 254	login screen
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 609 613	dock
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 2505 2516	screenshots
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1615 1621	Folder
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 2233 2239	folder
+T6	Software-OS-Related 3159 3163	dock
+A5	isSettingsChanged T6 true
+T7	Software-OS-Related 3793 3802	Dashboard
+A6	isSettingsChanged T7 true

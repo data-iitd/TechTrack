@@ -1,0 +1,45 @@
+T1	Software-Other 198 220	https://www.google.com
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 233 246	Ubuntu Themes
+A3	isSettingsChanged T2 true
+T3	Software-Other 396 409	download link
+A4	isOpened T3 f->t
+T4	Software-Other 550 559	Save File
+A5	isSettingsChanged T4 true
+T5	Software-Other 571 573	Ok
+A6	isSettingsChanged T5 true
+T6	Software-OS-Related 793 813	Archive Manager tool
+A7	isOpened T6 f->t
+T7	Software-OS-Related 968 984	Downloads folder
+A8	isOpened T7 f->t
+T8	Software-OS-Related 1067 1082	downloaded file
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 1094 1106	Extract Here
+A10	isSettingsChanged T9 true
+T10	Software-OS-Related 1250 1266	extracted folder
+A11	isOpened T10 f->t
+T11	Software-OS-Related 1436 1444	Pictures
+A12	isOpened T11 f->t
+T12	Software-OS-Related 1515 1524	Downloads
+A13	isOpened T12 f->t
+T13	Software-OS-Related 1686 1690	Copy
+A14	isSettingsChanged T13 true
+T14	Software-OS-Related 1719 1723	Home
+A15	isOpened T14 f->t
+T15	Software-OS-Related 1844 1845	☰
+A16	isOpened T15 f->t
+T16	Software-OS-Related 2004 2021	Show Hidden Files
+A17	isSettingsChanged T16 true
+T17	Software-OS-Related 2120 2127	.themes
+A18	isOpened T17 f->t
+T18	Software-OS-Related 2442 2447	Paste
+A19	isSettingsChanged T18 true
+R1	SubPart Arg1:T8 Arg2:T6	
+R3	SubPart Arg1:T16 Arg2:T15	
+R4	SubPart Arg1:T18 Arg2:T15	
+R5	SubPart Arg1:T13 Arg2:T12	
+R6	SubPart Arg1:T2 Arg2:T1	
+R7	SubPart Arg1:T4 Arg2:T3	
+R8	SubPart Arg1:T5 Arg2:T3	
+R9	SubPart Arg1:T9 Arg2:T6	

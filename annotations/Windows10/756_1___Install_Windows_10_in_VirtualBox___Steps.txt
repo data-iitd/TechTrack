@@ -1,0 +1,42 @@
+Install Windows 10 in VirtualBox
+https://www.wikihow.com/Install-Windows-10-in-VirtualBox
+
+0 - Steps
+
+1 - Acquire the software.
+Acquire the software. For instructions on how to download and install VirtualBox follow this link. Windows 10 it is available on Microsoft’s web page here You'll either have to sign in or register for the Windows insider program to gain access to the download. Make sure you download the iso.
+- ;
+
+2 - Open VirtualBox and select "new machine".
+Open VirtualBox and select "new machine". You should be able to do this once you've installed VirtualBox and Windows 10.
+
+3 - Type in "Windows 10" into the text box.
+Type in "Windows 10" into the text box. You can type this in, or you can choose a different name for this Operating System, if you prefer. Once this is done, select "Windows" on the first scroll menu, and then select "Windows 10" from the version box (second scroll box).
+
+4 - Select how much RAM you'd like to give the machine.
+Select how much RAM you'd like to give the machine. When the setup wizard asks you how much RAM to give the machine, giving the machine the default amount of RAM should be fine, but if you have a surplus or limited RAM, then adjusting the slider is fine.
+
+5 - When the wizard asks about a new virtual hard disk, do not select anything.
+When the wizard asks about a new virtual hard disk, do not select anything. Simply select "Next".
+
+6 - When the wizard asks what type of virtual hard drive you want, select "VDI(Virtual Box Disk Image)".
+When the wizard asks what type of virtual hard drive you want, select "VDI(Virtual Box Disk Image)". The VDI should be selected by default. When you're done, select "Next."
+
+7 - Set the disk space for your hard drive.
+Set the disk space for your hard drive. The wizard will ask you to set the disk space for your hard drive; you can select a dynamically allocated or a fixed size. You may choose either; however, it is often better to choose a fixed size, as it is usually faster and more stable.
+
+8 - Select your disk size.
+Select your disk size. 20 gigabytes should be selected as a minimum, but the more space, the merrier.
+
+9 - Select "Create.
+Select "Create." Once the summary page comes up, you can choose this option. Prepare to wait, as this can take a while.
+
+10 - Launch your virtual machine by opening "VirtualBox" and clicking on the machine.
+Launch your virtual machine by opening "VirtualBox" and clicking on the machine.
+
+11 - When a dialog box appears, select your Windows 10 iso.
+When a dialog box appears, select your Windows 10 iso.
+
+12 - Follow the on screen instructions and enjoy your cutting edge new OS.
+Follow the on screen instructions and enjoy your cutting edge new OS. You're all done!
+

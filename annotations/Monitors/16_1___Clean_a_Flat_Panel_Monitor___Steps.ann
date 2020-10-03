@@ -1,0 +1,30 @@
+T1	Hardware-Other 131 136	cloth
+T2	Hardware-Other 394 398	soft
+T3	Hardware-Other 400 411	worn cotton
+T4	Hardware-Other 415 422	flannel
+T5	Hardware-Other 523 528	cloth
+T6	Hardware-Other 430 436	towels
+T7	Hardware-Devices 641 660	flat screen monitor
+A1	isPowered T7 start-F
+T8	Hardware-Devices 809 816	monitor
+T9	Hardware-Other 939 944	cloth
+T10	Hardware-Other 961 966	cloth
+T11	Hardware-Devices 1129 1136	monitor
+T12	Hardware-Devices 1268 1274	screen
+*	Equiv T11 T12
+T13	Hardware-Other 1363 1368	cloth
+T14	Hardware-Other 1374 1379	water
+T15	Hardware-Devices 1594 1600	screen
+T16	Hardware-Other 1616 1645	plastic casing of the monitor
+T17	Hardware-Other 1670 1678	solution
+T18	Hardware-Devices 1692 1710	flat screen monito
+T19	Hardware-Other 1866 1871	cloth
+T20	Hardware-Other 1892 1909	isopropyl alcohol
+T21	Hardware-Other 1920 1925	water
+T22	Hardware-Other 2030 2048	commercial cleaner
+T23	Hardware-Devices 2113 2120	monitor
+T24	Hardware-Other 2182 2186	pens
+T25	Hardware-Other 2188 2195	pencils
+T26	Hardware-Other 2205 2218	sharp objects
+T27	Hardware-Devices 2273 2280	monitor
+T28	Hardware-Devices 2357 2375	flat panel monitor

@@ -1,0 +1,32 @@
+Print in Black and White on a Mac
+https://www.wikihow.com/Print-in-Black-and-White-on-a-Mac
+
+0 - Steps
+
+1 - Open the file you want to print.
+Open the file you want to print. You can print anything in black-and-white, including color photos, even if you don’t see the option to do so in your app.
+- ;
+
+2 - Click the File menu.
+Click the File menu. It’s in the menu bar at the top-left corner.
+
+3 - Click Print.
+Click Print. A list of print settings will appear.
+
+4 - Click Show Details.
+Click Show Details. Additional settings will appear.
+
+5 - Check the box next to ″Black & White″ or print in grayscale.
+Check the box next to ″Black & White″ or print in grayscale. If you don’t see the ″Black & White″ option, here’s how you can get the same effect:[1]
+- X
+- Research source
+- 
+- 
+- Select Paper Type / Quality from the drop-down menu below ″Orientation.″
+- Expand the Color Options menu by clicking it once.
+- Select Grayscale from the ″Color″ drop-down menu.
+- Select Black Ink Only under the ″Grayscale Mode″ header.
+
+6 - Click Print.
+Click Print. It’s at the bottom-right corner of the window. The image or document will be sent to your printer in black-and-white or grayscale format.
+

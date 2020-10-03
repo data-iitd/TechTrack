@@ -1,0 +1,9 @@
+T1	Software-Other 206 211	iChat
+A1	isOpened T1 f->t
+T2	Software-Other 339 356	Select your buddy
+A2	isSettingsChanged T2 true
+T3	Software-Other 679 714	either Share My Screen With <buddy>
+A3	isSettingsChanged T3 true
+T4	Software-Other 718 747	Ask to Share <buddy>'s Screen
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T3 Arg2:T1	

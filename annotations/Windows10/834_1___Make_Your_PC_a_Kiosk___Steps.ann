@@ -1,0 +1,23 @@
+T1	Software-OS-Related 222 227	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 246 254	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 278 286	Accounts
+A3	isOpened T3 f->t
+T4	Software-OS-Related 290 310	Family & Other Users
+A4	isOpened T4 f->t
+T5	Software-OS-Related 445 460	Assigned Access
+A5	isOpened T5 f->t
+T6	Software-OS-Related 561 572	Get started
+A6	isOpened T6 f->t
+T7	Software-OS-Related 819 823	Next
+A7	isOpened T7 f->t
+T8	Software-OS-Related 910 914	Next
+A8	isOpened T8 f->t
+T9	Hardware-Devices 1634 1642	computer
+A9	isPowered T9 f->t
+T10	Software-OS-Related 1361 1372	End session
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 1034 1055	Microsoft Edge to run
+T12	Software-OS-Related 1249 1257	home URL
+R1	SubPart Arg1:T10 Arg2:T4	

@@ -1,0 +1,29 @@
+Uninstall Directx
+https://www.wikihow.com/Uninstall-Directx
+
+0 - Repairing Your Current DirectX Files
+
+1 - Run the DirectX Diagnostic Tool.
+Run the DirectX Diagnostic Tool. Open the Run dialog by pressing Windows key + R and enter “dxdiag”. This will open the DirectX Diagnostic Tool. It will display an overview of your system. You can click each tab to see information on your display, sound, and inputs. A text box at the bottom of each tab will tell you if there are issues detected with that particular system.
+
+2 - Download the DirectX installer from Microsoft (but not the file shown in the video above, that is a powerpoint presentation).
+Download the DirectX installer from Microsoft (but not the file shown in the video above, that is a powerpoint presentation). If you’re having difficulties running programs and are receiving DirectX errors, you may have corrupt or missing DirectX files. The best way to try to fix this is by reinstalling the latest version of DirectX. The installer is available for free from Microsoft.
+- If you are having issues, upgrading to the latest version may help much more than uninstalling.
+
+3 - Run the installer.
+Run the installer. The installer will scan your system and then install the necessary files to update your copy of DirectX to the latest version. Restart your computer after it’s finished and check to see if you receive the same errors.
+
+4 - Update your video card’s driver.
+Update your video card’s driver. Many times, updating your video card drivers will help fix DirectX errors for games and other video-centric programs. To update your driver, you’ll need to determine which video card you have, and then download the appropriate file from the manufacturer.
+- To find your video card information, open the Run dialog (Windows key + R) and enter “dxdiag”. Click the Display tab, and note the Chip Type and Manufacturer from the Device section.
+- Visit that manufacturer’s website. This will typically be NVidia or AMD. Search for your Chip Type on the website and download the latest driver files.
+- Run the driver installer. Your old video card files will be overwritten with the latest version. You may notice your screen flickering during the installation process.
+
+5 - Reinstall Windows.
+Reinstall Windows. If nothing you do seems to be fixing your problem, it may be time to reinstall Windows. This will replace all of your DirectX files with the built-in files with your Windows installation. Reinstalling Windows will take an hour or so, not counting the time it takes to backup and restore your files and reinstall your programs. Follow one of the following guides for your version of Windows:
+- 
+- Install Windows 7.
+- Install Windows 8.
+- Install Windows XP.
+- Install Windows Vista.
+

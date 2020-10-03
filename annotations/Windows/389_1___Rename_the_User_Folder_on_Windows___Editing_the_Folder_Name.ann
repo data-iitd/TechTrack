@@ -1,0 +1,14 @@
+T1	Software-OS-Related 443 448	Start
+A1	isOpened T1 f->t
+T3	Software-OS-Related 152 165	administrator
+A3	isOpened T3 f->t
+T4	Software-OS-Related 589 594	Start
+A4	isOpened T4 f->t
+T2	Software-OS-Related 574 581	This PC
+A2	isOpened T2 f->t
+T5	Software-OS-Related 919 936	system hard drive
+T6	Software-OS-Related 1281 1286	Users
+A5	isOpened T6 f->t
+T8	Software-OS-Related 1478 1484	Rename
+A7	isOpened T8 f->t
+T7	Hardware-Other 1769 1777	keyboard

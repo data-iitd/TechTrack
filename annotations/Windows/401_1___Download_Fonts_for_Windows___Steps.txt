@@ -1,0 +1,34 @@
+Download Fonts for Windows
+https://www.wikihow.com/Download-Fonts-for-Windows
+
+0 - Steps
+
+1 - Search for fonts on the Internet.
+Search for fonts on the Internet. There are many online font libraries, as well as individual sites that may have a small collection of fonts. Some will charge a flat rate, some will charge a monthly fee, and others charge by the individual font. Although they do exist, very few online font libraries will offer free fonts. Some will even offer free, individual font downloads, while charging a flat fee for downloading their entire collection in one compressed file.
+- ;
+
+2 - Download the fonts or collection of fonts you want to the Desktop or other folder you'll remember.
+Download the fonts or collection of fonts you want to the Desktop or other folder you'll remember. If you know someone with a good collection of public domain fonts, ask them to copy their fonts for you.
+
+3 - Extract the compressed file(s) if your download file has a ".zip", ".rar", or other compressed file extension.
+Extract the compressed file(s) if your download file has a ".zip", ".rar", or other compressed file extension. Have them extracted into your 'Fonts' folder (typically: "C:\WINDOWS\Fonts").
+
+4 - Browse to the "Fonts" folder by opening "Windows Explorer" (Windows' default file browser), or navigate to it by opening "My Computer".
+Browse to the "Fonts" folder by opening "Windows Explorer" (Windows' default file browser), or navigate to it by opening "My Computer".
+
+5 - Sort the file listing by clicking on the "Date Modified" column header.
+Sort the file listing by clicking on the "Date Modified" column header.
+
+6 - Locate the font(s) installed by the current date and time.
+Locate the font(s) installed by the current date and time.
+
+7 - Double-click on each font to view a sample of it.
+Double-click on each font to view a sample of it.
+
+8 - Delete any fonts you don't want by right-clicking on them and selecting "Delete".
+Delete any fonts you don't want by right-clicking on them and selecting "Delete". Alternatively, highlight the fonts you don't want by clicking once on them, the pressing the Delete key. Hold down ⇧ Shift or Ctrl while clicking to highlight multiple fonts at one time. Now you'll be able to use these new fonts within applications.
+
+9 - You may need to refresh your fonts by rebooting your computer so that your new downloads will work.
+You may need to refresh your fonts by rebooting your computer so that your new downloads will work. Go to start>shutdown>restart.
+- Note that in the menu "file" of fonts folder, you have an option for installing quickly the fonts without rebooting your system.
+

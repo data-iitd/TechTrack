@@ -1,0 +1,25 @@
+Install Flash Player on Ubuntu
+https://www.wikihow.com/Install-Flash-Player-on-Ubuntu
+
+0 - Firefox
+
+1 - Change browsers to Chrome or Chromium.
+Change browsers to Chrome or Chromium. Adobe is no longer supporting Linux development outside of the Pepper Flash plugin for Chrome. That means that the Flash plugin for Firefox is very outdated and is not receiving any improvements and only minor security patches.
+- If you want to install the outdated version for Firefox, read on.
+
+2 - Click CTRL + ALT + T at the same time- OR press "Super" key (windows key) and type in "Terminal.
+Click CTRL + ALT + T at the same time- OR press "Super" key (windows key) and type in "Terminal." Launch it "Terminal". You should see a terminal.
+
+3 - Type "sudo apt-get install flashplugin-installer"
+
+Type "sudo apt-get install flashplugin-installer"
+
+4 - Type in your administrative password for sudo.
+Type in your administrative password for sudo. You cannot view asterisks on the screen, but you're still typing it.
+
+5 - Install the plugin by pressing "Y" (yes) on Terminal.
+Install the plugin by pressing "Y" (yes) on Terminal.
+
+6 - Restart Firefox for the new plugin to take effect.
+Restart Firefox for the new plugin to take effect.
+

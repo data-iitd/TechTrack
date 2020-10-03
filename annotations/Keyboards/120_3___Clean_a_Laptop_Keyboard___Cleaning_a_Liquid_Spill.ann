@@ -1,0 +1,25 @@
+T1	Hardware-Other 138 144	laptop
+T2	Hardware-Other 160 167	battery
+T3	Hardware-Other 267 277	power cord
+T4	Hardware-Other 313 319	button
+T5	Hardware-Other 407 415	computer
+T6	Hardware-Devices 904 912	keyboard
+A1	isPowered T6 t->f
+T7	Hardware-Other 944 950	laptop
+T8	Hardware-Other 970 975	towel
+T9	Hardware-Other 1224 1235	motherboard
+T10	Hardware-Other 1429 1439	microfiber
+T11	Hardware-Other 1453 1458	cloth
+T12	Hardware-Other 1488 1494	laptop
+T13	Hardware-Other 1634 1639	towel
+T14	Hardware-Other 1670 1677	T-shirt
+T15	Hardware-Other 1787 1793	laptop
+T16	Hardware-Devices 2016 2024	keyboard
+T17	Hardware-Other 2135 2141	laptop
+T18	Hardware-Other 2304 2312	keyboard
+T19	Hardware-Other 2832 2839	battery
+T20	Hardware-Other 2856 2862	laptop
+T21	Hardware-Devices 3112 3120	keyboard
+T22	Software-OS-Related 3078 3094	operating system
+T23	Hardware-Devices 3173 3185	USB keyboard
+T24	Software-OS-Related 111 119	Turn off

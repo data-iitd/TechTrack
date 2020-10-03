@@ -1,0 +1,32 @@
+T1	Hardware-Other 165 182	installation disk
+T2	Hardware-Other 186 197	flash drive
+T3	Hardware-Other 628 636	computer
+T4	Hardware-Other 346 349	DVD
+T5	Hardware-Other 353 364	flash drive
+T6	Hardware-Other 421 429	computer
+T7	Software-OS-Related 851 865	startup screen
+A1	isOpened T7 f->t
+T8	Software-OS-Related 1172 1181	BIOS page
+A2	isOpened T8 f->t
+T9	Hardware-Other 1149 1152	Del
+T10	Hardware-Other 1156 1158	F2
+T11	Software-OS-Related 1735 1745	Boot Order
+T12	Software-OS-Related 1839 1843	BIOS
+T13	Software-OS-Related 1912 1916	Boot
+T14	Software-OS-Related 1922 1930	Advanced
+T15	Hardware-Other 2228 2236	computer
+T16	Hardware-Other 2366 2376	disk drive
+T17	Hardware-Other 2388 2402	external drive
+T18	Hardware-Other 2414 2425	flash drive
+T19	Hardware-Other 2471 2483	CD-ROM Drive
+T21	Software-OS-Related 2766 2776	Boot Order
+T22	Software-OS-Related 2962 2966	BIOS
+A3	isOpened T22 t->f
+T23	Software-OS-Related 3026 3039	Save and Exit
+A5	isSettingsChanged T23 true
+R1	SubPart Arg1:T23 Arg2:T22	
+T24	Hardware-Other 3245 3253	computer
+T25	Hardware-Other 3344 3348	disk
+T26	Hardware-Other 3352 3363	flash drive
+T20	Software-OS-Related 3469 3486	on-screen prompts
+T27	Software-OS-Related 3524 3540	operating system

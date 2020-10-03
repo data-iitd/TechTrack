@@ -1,0 +1,16 @@
+T1	Software-Other 116 144	Java for Linux download page
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 239 248	Linux RPM
+T3	Software-OS-Related 764 776	command line
+T4	Software-OS-Related 915 923	Terminal
+A3	isOpened T4 f->t
+*	Equiv T4 T3
+T5	Software-OS-Related 1049 1056	sudo su
+T7	Software-OS-Related 1186 1202	account password
+T6	Software-OS-Related 1526 1548	installation directory
+T8	Software-OS-Related 1995 2028	rpm -ivh jre-8u151-linux-i586.rpm
+T10	Software-Other 1876 1880	Java
+A4	isInstalled T10 f->t
+T9	Software-OS-Related 2108 2140	rpm -Uvh jre-8u73-linux-i586.rpm
+T11	Software-OS-Related 2055 2062	Upgrade

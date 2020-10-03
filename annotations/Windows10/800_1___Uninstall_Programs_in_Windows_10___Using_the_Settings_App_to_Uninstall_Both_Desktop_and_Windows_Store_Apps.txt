@@ -1,0 +1,29 @@
+Uninstall Programs in Windows 10
+https://www.wikihow.com/Uninstall-Programs-in-Windows-10
+
+0 - Using the Settings App to Uninstall Both Desktop and Windows Store Apps
+
+1 - Click_tap the Start button.
+Click/tap the Start button. The Start button is the Windows icon at the bottom left side of your desktop.
+- ;
+
+2 - Choose “Settings.
+Choose “Settings.” At the lower portion of the left pane of the Start menu, click/tap “Settings.” The Settings menu will appear in a different window.
+
+3 - Click_tap “System” in the Settings window.
+Click/tap “System” in the Settings window. This takes you to the next window, the “System” screen. On the left pane are system choices.
+
+4 - Select “Apps and features” on the left pane of the “System” window.
+Select “Apps and features” on the left pane of the “System” window. Wait a moment while your device populates the right pane with a list of installed programs and apps. At the top of the list of apps, you will find three boxes that will help you locate the app you want to uninstall.
+
+5 - Find the app you want to uninstall.
+Find the app you want to uninstall. The top box is a search box. Type the whole name or part of the name of the app or program you want to uninstall. All other apps/programs listed will disappear except for the app whose name you typed. The middle box gives you choices on how to sort apps listed:
+- “Sort by size” lists apps by size. It is useful if you are looking for an app you no longer want which takes up too much space. This is the default listing of the apps.
+- “Sort by name” lists the apps in alphabetical order.
+- “Sort by install date” lists the apps by the date it was installed. This is useful if you are looking for old apps that you want to uninstall.
+- The third box, labelled “Show apps on all drives” will list all apps located on other drives (if you have two or more drives or connected media) other than your main one. You can sort this by size, name and install date.
+
+6 - Uninstall the program or app.
+Uninstall the program or app. After you have located the app or program that you want to uninstall, click/tap on it. This will cause the “Uninstall” button for the app/program to appear. Another and separate dialog box will appear and remind you that the app and its related info will be uninstalled. Click/tap the “Uninstall” button at the bottom right of the dialog box. The app or program will be uninstalled.
+- You cannot uninstall apps that came installed with Windows, such as the Calendar, Store, or Weather apps.
+

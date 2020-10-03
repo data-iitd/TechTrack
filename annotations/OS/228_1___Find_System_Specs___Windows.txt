@@ -1,0 +1,46 @@
+Find System Specs
+https://www.wikihow.com/Find-System-Specs
+
+0 - Windows
+
+1 - Open the Run dialog.
+Open the Run dialog. You can find this in the Start menu or by pressing ⊞ Win+R.
+- ;
+
+2 - Type .
+Type .msinfo32 and press ↵ Enter. This will open the System Information window.[1]
+- X
+- Research source
+- 
+- 
+- It may take a few moments for the window to open.
+- There are several ways to check your system specs in Windows, but the System Information provides the most comprehensive report in one place.
+
+3 - Review the System Summary to find your basic information.
+Review the System Summary to find your basic information. There are several notable entries in the System Summary screen, which is the default view when you launch the System Information window.
+- 
+- OS Name - This is the version of Windows that you are using.
+- System Manufacturer/Model - This is the manufacturer of your computer and the model.
+- System Type - This indicates whether you are running a 32-bit (x86) or 64-bit (x64) version of Windows.
+- Processor - This is the model and speed of your processor. The speed listed is the advertised speed of the processor. If your processor has multiple cores, they will be displayed here. Note that if you have overclocked your CPU, the new results likely will not appear here. Click here for more information on measuring processor speed.
+- Installed Physical Memory (RAM) - This is the amount of RAM that you have installed in your computer.
+- Baseboard Manufacturer/Model - This is the manufacturer and model of your motherboard. The model may not always be properly reported.
+
+4 - Expand the "Components" section.
+Expand the "Components" section. The Components section will let you see details about your graphics card and hard drives.
+
+5 - Select "Display".
+Select "Display". This will show the graphics card that you have installed. If your motherboard has integrated graphics and you have a graphics card installed, you'll see two different sets of specifications.
+- When looking up the specs of your graphics card, the most common things you'll need to know are the Name and Adapter RAM.  The Adapter RAM is displayed in bytes, but is usually listed in system requirements lists as gigabytes (GB). There are about 1 billion bytes in a gigabyte (Windows will report different numbers than the manufacturer).
+
+6 - Expand the "Storage" section and select "Drives".
+Expand the "Storage" section and select "Drives". This will display the amount of free space and total storage space on all of your installed drives and partitions.
+- Select the "Disks" option to see your physical disks and the different partitions each one contains.
+
+7 - Explore the other sections.
+Explore the other sections. The above information should allow you to determine your specs when referring to the system requirements for software or hardware. These are just the basics though, and you can find a lot of detailed information in each of the entries.
+- The "Software Environment" section will show all of your drivers, running processes, and startup programs.
+
+8 - Export the file for troubleshooting.
+Export the file for troubleshooting. If you're working with a technician to troubleshoot your computer, they may want to see a document of your computer specs. You can export your system specs by clicking the "File" menu and selecting "Export". Give the file a name and it will be saved as a text file.
+

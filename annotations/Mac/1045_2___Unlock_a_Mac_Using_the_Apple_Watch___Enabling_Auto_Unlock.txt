@@ -1,0 +1,33 @@
+Unlock a Mac Using the Apple Watch
+https://www.wikihow.com/Unlock-a-Mac-Using-the-Apple-Watch
+
+0 - Enabling Auto Unlock
+
+1 - Enable a passcode on your Apple Watch.
+Enable a passcode on your Apple Watch. You'll need to have a passcode enabled for your Apple Watch in order to turn on Auto Unlock. You won't be prompted for this passcode every time you use your watch to unlock your computer.
+- See the "Setting Up the Watch section of Use Your Apple Watch for details on enabling a passcode for your watch.
+
+2 - Click the Apple menu and select "System Preferences."
+Click the Apple menu and select "System Preferences." You'll find the Apple menu in the upper-left corner.
+
+3 - Select "Security & Privacy."
+Select "Security & Privacy." This option is in the top row of menu.
+
+4 - Check the "Allow your Apple Watch to unlock your Mac" box.
+Check the "Allow your Apple Watch to unlock your Mac" box. If this box isn't available, you may not be running Sierra on a compatible Mac computer
+
+5 - Enter your Mac user password.
+Enter your Mac user password. This may be different than your Apple ID password. This is the password you use to log in as a user on your Mac computer.
+
+6 - Wait while Auto Unlock enables.
+Wait while Auto Unlock enables. This may take a few moments. You'll see a spinning wheel to the right of the checkbox while it's processing.
+
+7 - Lock your computer and test it out.
+Lock your computer and test it out. Once Auto Unlock is enabled, you can try it out. Lock your computer by closing the lid and then opening it again, then move your watch close. You'll be logged in automatically after just a moment.[3]
+- X
+- Research source
+- 
+- 
+- A notification will appear on your watch letting you know that you've unlocked your computer.
+- You must be wearing the Apple Watch in order for the Auto Unlock process to work.
+

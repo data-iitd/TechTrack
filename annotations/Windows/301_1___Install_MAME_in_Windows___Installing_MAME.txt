@@ -1,0 +1,46 @@
+Install MAME in Windows
+https://www.wikihow.com/Install-MAME-in-Windows
+
+0 - Installing MAME
+
+1 - Navigate to the release page on MAME’s official website at http:__www.mamedev.org_release.html.
+Navigate to the release page on MAME’s official website at http://www.mamedev.org/release.html. This page features the latest releases and updates for MAME.
+- ;
+
+2 - Click on the latest .exe link for your Windows system, then select the option to save the .exe file to your desktop.
+Click on the latest .exe link for your Windows system, then select the option to save the .exe file to your desktop.
+
+3 - Navigate to your desktop and double-click on the .exe file to extract the MAME software.
+Navigate to your desktop and double-click on the .exe file to extract the MAME software. The file is self-extracting, and prompts you to choose or create a folder in which to store MAME.
+
+4 - Select the option to create a new folder called “MAME.
+Select the option to create a new folder called “MAME.” This folder will contain all MAME components, including any ROMs you download.
+
+5 - Search for and download the ROMs you want to play using MAME.
+Search for and download the ROMs you want to play using MAME. There are countless websites that offer ROMs, including MAME’s site at http://www.mamedev.org/roms/. The free ROMs offered on MAME’s website have been approved for free distribution on that particular site only.
+- Download ROMs from other sources and third-party sites at your own risk, since the act of downloading ROMs is considered illegal in most jurisdictions.
+
+6 - Select the option to extract the ROM to the “roms” folder that was automatically created when you initially extracted MAME.
+Select the option to extract the ROM to the “roms” folder that was automatically created when you initially extracted MAME.[1]
+- X
+- Research source
+
+7 - Press and hold the “Shift” key, then right-click on the MAME folder.
+Press and hold the “Shift” key, then right-click on the MAME folder.
+
+8 - Select “Open Command Window Here.
+Select “Open Command Window Here.” MAME is a command-line application that requires you to use Command Prompt to launch games.
+
+9 - Type “mame,” followed by the name of the folder into which you extracted the ROM.
+Type “mame,” followed by the name of the folder into which you extracted the ROM. For example, if you downloaded the Circus ROM from MAME’s website, type “mame circus.”[2]
+- X
+- Research source
+
+10 - Press “Enter” to execute your command.
+Press “Enter” to execute your command. The game will launch and display on-screen.
+
+11 - Press the “Tab” key to open the configuration menu.
+Press the “Tab” key to open the configuration menu. This allows you to choose which keys control the game. By default, most MAME games are controlled with your arrow keys, along with the Control, Alt, and Space keys. After configuring your game, you can enjoy playing your ROM using MAME.[3]
+- X
+- Research source
+

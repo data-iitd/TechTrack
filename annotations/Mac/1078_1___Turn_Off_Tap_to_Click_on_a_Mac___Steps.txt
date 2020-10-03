@@ -1,0 +1,27 @@
+Turn Off Tap to Click on a Mac
+https://www.wikihow.com/Turn-Off-Tap-to-Click-on-a-Mac
+
+0 - Steps
+
+1 - Click the Apple menu.
+Click the Apple menu. This is in the upper-left corner of the screen, regardless of which program is open.
+- ;
+
+2 - Click the "System Preferences" option.
+Click the "System Preferences" option. The System Preferences menu will appear.
+- If the System Preferences menu doesn't open to the main screen, click the "Show All" button. This has an icon of 12 dots arranged in a grid.
+
+3 - Click "Trackpad."
+Click "Trackpad." This can be found in the second group of options.
+
+4 - Click the "Tap to click" box.
+Click the "Tap to click" box. When this is checked, tapping the trackpad will act like clicking a mouse button. Unchecking it will disable tap to click.
+
+5 - Click the "Secondary click" box.
+Click the "Secondary click" box. When this is checked, tapping two fingers will open the secondary click menu on an item.
+
+6 - Click the "Look up" box.
+Click the "Look up" box. When this is checked, tapping three fingers on an item will look up more details. For example, three-finger tapping a word will look up its definition.[1]
+- X
+- Research source
+

@@ -1,0 +1,21 @@
+Take a Screenshot on a Mac
+https://www.wikihow.com/Take-a-Screenshot-on-a-Mac
+
+0 - Screenshot a Portion of Your Screen
+
+1 - Press Command + Shift + 4.
+Press Command + Shift + 4.  Your cursor will turn into a small cross-hair reticle.
+
+2 - Click and drag your cursor to highlight the area you'd like to take a picture of.
+Click and drag your cursor to highlight the area you'd like to take a picture of.  A grayed rectangle should appear where you drag your cursor. If you need to adjust your windows at all, press Escape to return to a regular cursor without taking a picture.
+
+3 - Let go of the mouse.
+Let go of the mouse. You should hear a brief camera shutter noise if your computer's sound is turned on. That signals that your screenshot has been taken.
+
+4 - Find your screenshot on your desktop.
+Find your screenshot on your desktop. It will be saved as a .png file named "screenshot" labeled with the date and time.
+- Earlier versions of OS X will save it as "Picture #"—for example, if it's the 5th screenshot on your desktop it will be labeled as "Picture 5".
+
+5 - Use the screenshot.
+Use the screenshot. Once you have taken your screenshots, they are now ready to be used as needed. You can attach them to an email, upload them to the Web, or even drag them straight into an application such as a word processor.
+

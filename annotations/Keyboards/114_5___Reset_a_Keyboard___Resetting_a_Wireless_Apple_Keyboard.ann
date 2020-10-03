@@ -1,0 +1,29 @@
+T1	Hardware-Devices 123 131	keyboard
+A1	isPowered T1 t->f
+T2	Hardware-Other 183 189	button
+T5	Hardware-Devices 351 357	screen
+A3	isPowered T5 start-T
+T6	Software-OS-Related 402 420	System Preferences
+A5	isOpened T6 f->t
+T7	Software-OS-Related 503 512	Bluetooth
+T8	Software-OS-Related 567 585	System Preferences
+T9	Hardware-Other 721 744	keyboard's Power button
+T11	Software-OS-Related 972 981	Bluetooth
+T12	Hardware-Other 1007 1019	Power button
+T15	Hardware-Devices 1324 1332	keyboard
+T16	Hardware-Other 1351 1354	Mac
+T13	Hardware-Other 1108 1111	Mac
+T3	Software-OS-Related 251 267	Mac's Apple menu
+A2	isOpened T3 f->t
+T4	Software-OS-Related 626 643	Turn Bluetooth On
+A4	isSettingsChanged T4 true
+T17	Software-OS-Related 864 872	keyboard
+T18	Software-OS-Related 1134 1146	pairing code
+T19	Software-OS-Related 1199 1211	pairing code
+R1	SubPart Arg1:T4 Arg2:T7	
+A6	isUsed T15 true
+A7	isOpened T7 f->t
+T20	Hardware-Other 925 937	power button
+A9	isSettingsChanged T19 true
+T10	Hardware-Devices 826 834	keyboard
+A8	isPowered T10 f->t

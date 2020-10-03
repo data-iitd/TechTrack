@@ -1,0 +1,19 @@
+T1	Hardware-Other 173 184	flash drive
+T2	Hardware-Devices 205 213	computer
+A1	isPowered T2 start-T
+T3	Software-OS-Related 579 591	Start button
+A2	isOpened T3 f->t
+T4	Software-OS-Related 807 821	Device Manager
+A3	isOpened T4 f->t
+T5	Software-OS-Related 931 942	Disk Drives
+T6	Software-OS-Related 1232 1250	flash drive's name
+T7	Software-OS-Related 1382 1392	Properties
+A4	isOpened T6 f->t
+A5	isOpened T7 f->t
+T8	Software-OS-Related 1490 1498	Policies
+T9	Software-OS-Related 1584 1604	Quick removal option
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1686 1688	OK
+A7	isSettingsChanged T10 true
+T11	Hardware-Other 1750 1761	flash drive
+R1	SubPart Arg1:T10 Arg2:T4	

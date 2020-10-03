@@ -1,0 +1,18 @@
+T1	Software-OS-Related 343 354	Windows key
+A1	isOpened T1 f->t
+T2	Software-OS-Related 724 736	Task Manager
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1126 1138	battery icon
+A3	isOpened T3 f->t
+T4	Software-OS-Related 2092 2097	Start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 2784 2794	Charms Bar
+A5	isOpened T5 f->t
+T6	Software-OS-Related 2806 2821	Optimize Drives
+A6	isOpened T6 f->t
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-OS-Related 3056 3064	Settings
+A7	isOpened T7 f->t
+T8	Software-OS-Related 3081 3098	Run on a Schedule
+A8	isOpened T8 f->t
+R2	SubPart Arg1:T8 Arg2:T7	

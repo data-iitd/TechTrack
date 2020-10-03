@@ -1,0 +1,21 @@
+Take a Screenshot in Linux
+https://www.wikihow.com/Take-a-Screenshot-in-Linux
+
+0 - Using ImageMagick
+
+1 - Open the Terminal.
+Open the Terminal. ImageMagick is a command-line utility that can capture screenshots for you. Many distributions come with ImageMagick already installed, but you can install it for free from your distribution's package manager if you don't have it.
+- To open the Terminal quickly in Ubuntu and many other distributions, press Ctrl+Alt+T.
+
+2 - Install ImageMagick.
+Install ImageMagick. On Debian-based distributions such as Ubuntu, type sudo apt-get install imagemagick and press ↵ Enter. You will be prompted for your administrator password. If ImageMagick hasn't been installed, it will begin downloading and installing. If it is already installed, you will be informed.
+
+3 - Take a screenshot of the entire screen.
+Take a screenshot of the entire screen. Type import -window root Pictures/fileName.png and press ↵ Enter. Replace fileName with the name you want to give the screenshot.
+
+4 - Take a screenshot of a specific window.
+Take a screenshot of a specific window. Type import Pictures/fileName.png and press ↵ Enter. Replace fileName with the name you want to give the screenshot. The cursor will turn into a crosshair, and you can click the window that you want to capture.
+
+5 - Add a delay to the screenshot.
+Add a delay to the screenshot. Type import -window root -pause # Pictures/fileName.png and press ↵ Enter. Replace # with the amount of seconds that you want to wait before the screenshot is taken. After waiting the set amount of time, the screenshot will be taken and you will be returned to the terminal prompt.
+

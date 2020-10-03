@@ -1,0 +1,36 @@
+T1	Software-Other 128 132	SPSS
+A1	isOpened T1 f->t
+T2	Software-Other 279 295	SPSS Data Editor
+T3	Software-Other 377 386	Data View
+T4	Software-Other 391 404	Variable View
+T5	Software-Other 607 615	Variable
+A2	isSettingsChanged T5 true
+T6	Software-Other 575 588	Variable View
+R1	SubPart Arg1:T5 Arg2:T6	
+T7	Software-Other 718 722	View
+A3	isOpened T7 f->t
+T8	Software-Other 851 859	variable
+T9	Software-Other 1123 1131	variable
+T10	Software-Other 1170 1174	SPSS
+T11	Software-Other 1180 1194	Variable Label
+T12	Software-Other 1447 1455	variable
+T13	Software-Other 1301 1305	cell
+T14	Software-Other 1313 1325	Label column
+T15	Software-Other 1503 1515	value labels
+T16	Software-Other 1527 1531	cell
+T17	Software-Other 1652 1677	Value Labels dialogue box
+A4	isOpened T17 f->t
+T18	Software-Other 1707 1719	value labels
+T19	Software-Other 1881 1884	Add
+T20	Software-Other 1902 1906	data
+T21	Software-Other 1934 1938	File
+A5	isOpened T21 f->t
+T22	Software-Other 1959 1966	Save As
+A6	isOpened T22 f->t
+T23	Software-Other 2065 2069	data
+T24	Software-Other 2074 2083	variables
+T25	Software-Other 2146 2154	menu bar
+T26	Software-Other 2325 2329	menu
+T27	Software-Other 2587 2599	dialogue box
+A7	isOpened T27 f->t
+A8	isOpened T26 f->t

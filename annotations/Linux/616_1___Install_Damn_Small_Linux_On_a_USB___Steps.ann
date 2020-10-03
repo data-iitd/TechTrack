@@ -1,0 +1,49 @@
+T1	Software-OS-Related 122 140	DOS Command Prompt
+T2	Software-OS-Related 307 314	cmd.exe
+A2	isOpened T2 f->t
+T3	Hardware-Other 339 347	keyboard
+T4	Software-OS-Related 192 197	Start
+A3	isOpened T4 f->t
+T5	Software-OS-Related 244 247	Run
+A1	isOpened T5 f->t
+R1	SubPart Arg1:T1 Arg2:T2	
+T6	Software-OS-Related 432 437	files
+T7	Software-OS-Related 462 471	USB drive
+T8	Software-OS-Related 423 427	Save
+T9	Software-OS-Related 488 495	windows
+T10	Software-OS-Related 503 515	command-line
+T11	Software-OS-Related 744 750	Format
+T12	Software-OS-Related 756 764	USB Card
+T13	Software-OS-Related 768 773	FAT32
+A4	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T12	
+A5	isSettingsChanged T13 true
+R3	SubPart Arg1:T13 Arg2:T11	
+T14	Software-Other 898 906	syslinux
+T15	Software-Other 912 922	kernel.org
+T16	Software-OS-Related 991 996	Unzip
+T17	Software-OS-Related 1014 1023	directory
+T18	Software-OS-Related 1001 1008	archive
+T19	Software-Other 876 890	zipped archive
+T20	Software-Other 1071 1079	Syslinux
+A6	isOpened T20 f->t
+T21	Software-Other 1291 1298	archive
+T22	Software-Other 1325 1353	Damn Small Linux mirror site
+T23	Software-OS-Related 1447 1452	Unzip
+T24	Software-OS-Related 1470 1479	directory
+T25	Software-OS-Related 1457 1464	archive
+A7	isSettingsChanged T18 true
+A8	isSettingsChanged T25 true
+T26	Software-OS-Related 1523 1527	Copy
+T27	Software-OS-Related 1551 1564	DSL directory
+R4	SubPart Arg1:T16 Arg2:T18	
+R5	SubPart Arg1:T23 Arg2:T25	
+T28	Software-OS-Related 1536 1541	files
+T29	Software-OS-Related 1585 1594	USB drive
+T30	Software-OS-Related 1678 1685	Restore
+T31	Software-OS-Related 1721 1749	stepxcopy _s \tempbackup\* X
+A9	isSettingsChanged T31 true
+R6	SubPart Arg1:T31 Arg2:T30	
+T32	Software-OS-Related 1853 1860	Restart
+T33	Software-OS-Related 1865 1869	boot
+T34	Software-OS-Related 1880 1889	USB drive

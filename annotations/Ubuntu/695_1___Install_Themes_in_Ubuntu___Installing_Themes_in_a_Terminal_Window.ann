@@ -1,0 +1,15 @@
+T1	Software-Other 205 227	https://www.google.com
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 240 253	Ubuntu Themes
+A3	isSettingsChanged T2 true
+T3	Software-OS-Related 406 417	Ubuntu icon
+A4	isOpened T3 f->t
+T4	Software-OS-Related 671 679	terminal
+A5	isOpened T4 f->t
+T5	Software-OS-Related 836 871	sudo apt-get install [package name]
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1265 1266	Y
+A7	isSettingsChanged T6 true
+T7	Software-Other 1481 1501	sudo apt-get install
+A8	isInstalled T7 f->t

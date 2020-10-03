@@ -1,0 +1,38 @@
+Install Ubuntu on VirtualBox
+https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
+
+0 - Setting up Ubuntu
+
+1 - Select a time zone.
+Select a time zone. Click a section that correlates with your position on the map.
+
+2 - Click Continue.
+Click Continue. It's in the bottom-right corner of the page.
+
+3 - Enable the on-screen keyboard.
+Enable the on-screen keyboard. Click the person-shaped icon in the upper-right side of the window, then click the "Screen Keyboard" switch to place a keyboard on the screen. Since Ubuntu will need to install drivers to work with your keyboard, you won't be able to use your keyboard until it's fully installed.
+
+4 - Enter your name.
+Enter your name. Do so in the "Your name" text box at the top of the window.
+- Entering a name will also create a computer name for your virtual machine, but you can create your own computer name as well by typing it into the "Your computer's name" box.
+
+5 - Enter a username.
+Enter a username. In the "Pick a username" text box, type in the username that you want to use.
+
+6 - Create a password.
+Create a password. Type your preferred password into the "Choose a password" text box, then re-type it into the "Confirm your password" text box.
+
+7 - Click Continue.
+Click Continue. It's at the bottom of the page.
+- You can first select login options below the "Confirm your password" text field if need be.
+
+8 - Wait for Ubuntu to finish installing.
+Wait for Ubuntu to finish installing. This process may take anywhere from a couple of minutes to half an hour depending on the speed of your computer.
+- You won't need to do anything during the installation process.
+
+9 - Restart the virtual machine.
+Restart the virtual machine. Once you see the Restart Now button, do the following: click the Exit button in the upper-right corner of the window (Windows) or the upper-left corner of the window (Mac), check the "Power off the machine" box, click OK, and then double-click the virtual machine's name.
+
+10 - Log into your computer.
+Log into your computer. Once your Ubuntu virtual machine is back on, select your name, then enter your password and click Sign In. Ubuntu will load your desktop as though you were using a separate computer.
+

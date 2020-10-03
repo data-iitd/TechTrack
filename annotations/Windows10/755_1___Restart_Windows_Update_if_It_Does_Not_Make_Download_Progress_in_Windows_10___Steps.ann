@@ -1,0 +1,36 @@
+T1	Software-OS-Related 206 216	Windows 10
+T2	Software-OS-Related 381 397	Windows Services
+A1	isOpened T2 f->t
+T3	Software-OS-Related 432 437	Start
+A2	isOpened T3 f->t
+T4	Software-OS-Related 451 463	services.msc
+A3	isOpened T4 f->t
+T5	Software-OS-Related 529 568	Background Intelligent Transfer Service
+A4	isOpened T5 f->t
+T6	Software-OS-Related 710 714	Stop
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-OS-Related 795 809	Windows Update
+A6	isOpened T7 f->t
+T8	Software-OS-Related 838 842	Stop
+A7	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 860 863	Run
+T10	Software-OS-Related 961 963	OK
+A8	isOpened T10 f->t
+T11	Software-OS-Related 1176 1179	Yes
+A9	isSettingsChanged T11 true
+T12	Software-OS-Related 1511 1525	Windows Update
+A10	isOpened T12 f->t
+T13	Software-OS-Related 1302 1314	Services.msc
+A11	isOpened T13 f->t
+T14	Software-OS-Related 1336 1374	ackground Intelligent Transfer Service
+A12	isOpened T14 f->t
+T15	Software-OS-Related 1385 1390	Start
+A13	isSettingsChanged T15 true
+T16	Software-OS-Related 1409 1423	Windows Update
+A14	isOpened T16 f->t
+T17	Software-OS-Related 1434 1439	Start
+A15	isSettingsChanged T17 true
+R3	SubPart Arg1:T17 Arg2:T16	
+R4	SubPart Arg1:T15 Arg2:T14	

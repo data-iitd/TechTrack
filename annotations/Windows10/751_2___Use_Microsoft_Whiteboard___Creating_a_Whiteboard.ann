@@ -1,0 +1,13 @@
+T1	Software-Other 116 136	Microsoft Whiteboard
+A1	isOpened T1 f->t
+T2	Software-Other 247 248	+
+A2	isOpened T2 f->t
+T3	Software-Other 384 392	Add icon
+A3	isOpened T3 f->t
+T4	Software-Other 566 586	Web sharing link off
+T5	Software-Other 598 600	On
+A4	isSettingsChanged T5 true
+T6	Software-Other 912 921	Copy Link
+T7	Software-Other 1335 1336	☰
+A5	isOpened T7 f->t
+R1	SubPart Arg1:T5 Arg2:T1	

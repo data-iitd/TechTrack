@@ -1,0 +1,33 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Updating Drivers
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Type device manager into Start.
+Type device manager into Start. This searches for the Device Manager program.
+
+3 - Click  Device Manager.
+Click  Device Manager. It's at the top of the Start window.
+
+4 - Double-click a category of hardware.
+Double-click a category of hardware. This will expand the hardware's category and display any currently used items (e.g., flash drives, printers, etc.) that use that hardware function.
+
+5 - Select an item.
+Select an item. Click on a piece of hardware that you recently installed in the menu below the hardware category.
+- For example, if you recently installed a wireless keyboard for a laptop, you would select the wireless keyboard's name after double-clicking the Keyboards hardware category.
+
+6 - Click the "Update" button.
+Click the "Update" button. It resembles a black box with a green upward-facing arrow at the top of the window.
+
+7 - Click Search automatically for updated driver software.
+Click Search automatically for updated driver software. It's the top option in the pop-up window. Doing so will search for drivers and install them if necessary.
+
+8 - Click Close when prompted.
+Click Close when prompted. It's at the bottom of the window.
+
+9 - Remove the item.
+Remove the item. If there is no update available for the item, try deleting it from Device Manager to see if that resolves the BSOD. To delete an item, click the item to select it, then click the red X icon at the top of the window.
+

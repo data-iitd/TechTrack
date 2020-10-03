@@ -1,0 +1,76 @@
+Use Keyboard Shortcuts
+https://www.wikihow.com/Use-Keyboard-Shortcuts
+
+0 - Windows
+
+1 - Understand how key shortcuts work.
+Understand how key shortcuts work. To use a key shortcut, you will hold down one or more modifier keys and press a letter (or another modifier key). Modifier keys include the following:[1]
+- X
+- Research source
+- 
+- 
+- Ctrl - Usually found on the left and right sides of the keyboard. The right Ctrl key will be just left of the arrow keys.
+- Alt - Found on the left and right sides of the keyboard, farther in toward the center of the keyboard than Ctrl.
+- ⇧ Shift - Symbolized by an upward-facing arrow, this key is on the left and right sides of the keyboard.
+- Fn - The "function" key allows you to use secondary functions of other keys. Commands that use the function keys (e.g., F8) may require use of the Fn key.
+- ⊞ Win - This key displays the Windows logo, and is normally in the bottom-left side of your keyboard.
+- Arrow keys - While not technically modifier keys, the arrow keys can be used to select items.
+- ↵ Enter - This key allows you to open a selected item. It's essentially a mouse left-click.
+- ;
+
+2 - Use general key shortcuts to access Windows features.
+Use general key shortcuts to access Windows features. These combinations help you perform basic Windows tasks:
+- 
+- F1 - Open the Help page. You must have Internet access for this. If your computer has an Fn key, you may need to hold it while pressing F1.
+- ⇧ Shift+F10 - Bring up the context menu for a selected item. This is usually accomplished by right-clicking.
+- Ctrl+⇧ Shift+Esc - Open the Task Manager.
+- Ctrl+Alt+Del - Open the Windows Security menu. (works from XP to 10)
+- Alt+Space - Bring up the current window's System menu, from which you can resize, minimize, maximize, or move the current window.
+- Ctrl+Tab ↹ - Move through current window's tabs (e.g., in a browser).
+- Ctrl+Esc - Open the Start menu.
+- Alt+Tab ↹ - Switch between currently open windows, excluding the desktop.
+- Alt+F4 - Close an open window or program.
+- ⇧ Shift+Delete - Permanently delete a selected item. This will bypass the Recycle Bin, though you'll need to click OK to confirm.
+- ⊞ Win - Open Start.
+- ⊞ Win+L - Lock the computer. If your computer doesn't use a password, this will still take you to the user selection screen.
+- ⊞ Win+R - Open the Run box.
+- ⊞ Win+M - Minimize all open windows and display the desktop.
+- ⇧ Shift+⊞ Win+M - Restore all minimized windows.
+- ⊞ Win+E - Open File Explorer.
+- ⊞ Win+Ctrl+F - Find another computer on your network (networked computers only).
+- ⊞ Win+Tab ↹ - View all currently open Windows.
+- ⊞ Win+⎊ Break - Open the System Properties window.
+- ⊞ Win+⎙ PrtScr - Take a screenshot.
+- Ctrl+F - Open a search bar to look for specific words or phrases on the page.
+
+3 - Use keyboard shortcuts to help with typing, copying, and pasting.
+Use keyboard shortcuts to help with typing, copying, and pasting. There are several text-editing shortcuts in Windows that extend to most instances of typing, as well as file copying and pasting:
+- 
+- Ctrl+C - Copy selected text. You can also use this to copy selected files or folders.
+- Ctrl+X - Copy and remove selected text (known as "cutting").
+- Ctrl+V - Paste copied text at the cursor. This also works with files and folders.
+- Ctrl+Z - Undo the last action. Depending on the program, this command can be used multiple times to undo multiple mistakes.
+- Ctrl+Y - Reverse the last undo. Depending on the program, this command can be used multiple times to revert multiple undo commands.
+- Ctrl+P - Print your document.
+- Ctrl+S - Save your document.
+- Ctrl+B - Bold the selected text. This will work in Microsoft Office products and most email providers.
+- Ctrl+U - Underline the selected text. This will work in Microsoft Office products and most email providers.
+- Ctrl+I - Italicize the selected text. This will work in Microsoft Office products and most email providers.
+
+4 - Use keyboard shortcuts in File Explorer.
+Use keyboard shortcuts in File Explorer. There are a few keyboard shortcuts you can use to navigate in the File Explorer:
+- 
+- F2 - Rename a selected item.
+- F4 - Places the mouse cursor in the address bar.
+- F5 - Refreshes the folder.
+- F6 - Selects a different pane in the File Explorer window.
+- Ctrl+A - Selects every item in the current window.
+- Alt+↵ Enter - Open a selected item's Properties menu.
+
+5 - Use key shortcuts with the mouse.
+Use key shortcuts with the mouse. Most programs have an advanced menu that can be accessed using the mouse while pressing a key:
+- 
+- ⇧ Shift + Right-Click - Shows a drop-down menu with extra options based on the item you're right-clicking.
+- ⇧ Shift + Double-Click - Runs the alternate double-click command, which is the second option in the right-click drop-down menu.
+- Alt + Double-Click - Open an item's Properties window.
+

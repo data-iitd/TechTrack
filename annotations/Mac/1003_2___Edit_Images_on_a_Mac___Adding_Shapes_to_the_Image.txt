@@ -1,0 +1,32 @@
+Edit Images on a Mac
+https://www.wikihow.com/Edit-Images-on-a-Mac
+
+0 - Adding Shapes to the Image
+
+1 - Click the shapes button.
+Click the shapes button.  It's the button that has a square and a circle.  This will display a drop-down menu with various shapes.  The shapes include a line, a rectangle, a rectangle with rounded images, an ellipse, a speech bubble, a star, and a hexagon.
+
+2 - Select a shape.
+Select a shape.  This will generate the shape in the center of the image.
+
+3 - Click and drag the shape.
+Click and drag the shape.  You can drag the shape to any location on the image.
+
+4 - Adjust the size of the shape.
+Adjust the size of the shape.  Click and drag the blue dots (handles) in the corners of the shape to adjust the size of the shape
+
+5 - Change shape color.
+Change shape color.  Click the solid colored rectangle in the toolbar and select a color.
+- The white box with a red line through it indicates no color.
+
+6 - Change outline color.
+Change outline color.  The outline is the line around the shape.  Click the button that has a thick line in the shape of a rectangle.  It's next to the solid colored rectangle button.  Select a color for the outline of the shape.
+- The white box with a red line through it indicates no outline.
+
+7 - Change thickness of outline.
+Change thickness of outline.  Click the button with three lines of different thicknesses and styles.
+
+8 - Select a thickness.
+Select a thickness.  There are seven line thicknesses to choose from.
+- You can also select different line styles, such as dotted lines, arrows, and textured lines.
+

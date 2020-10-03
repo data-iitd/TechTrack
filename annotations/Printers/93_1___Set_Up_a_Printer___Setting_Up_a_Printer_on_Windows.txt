@@ -1,0 +1,37 @@
+Set Up a Printer
+https://www.wikihow.com/Set-Up-a-Printer
+
+0 - Setting Up a Printer on Windows
+
+1 - Connect your printer to a power source and turn it on.
+Connect your printer to a power source and turn it on. Before doing anything else, it's important to make sure your printer is plugged in and ready.
+- ;
+
+2 - Connect your printer to your PC.
+Connect your printer to your PC. Most printers have the option of connecting to a computer via USB or wirelessly (Bluetooth, installation CD, or a wireless detection setting), so be sure your printer is set to connect before proceeding with the rest of the steps.
+
+3 - Open the Start menu.
+Open the Start menu. Click the Start button in the taskbar at the bottom of your desktop screen to pull up system options.
+
+4 - Click Settings .
+Click Settings . It's the gear-shaped icon near the bottom-left corner of the menu.
+
+5 - Click Devices.
+Click Devices. This appears in the Settings menu and pulls up the options for connecting devices to your PC.
+
+6 - Select Printers & scanners.
+Select Printers & scanners. From this menu, you'll be able to pull up the different options for searching for the printer you want to set up.
+
+7 - Click Add a printer or scanner.
+Click Add a printer or scanner. This will bring up a dialog box that will alert you to Windows scanning for any nearby printers. Your printer should pop up after a few minutes of scanning.
+- If you don't see your printer, click The printer that I want isn't listed and follow the on-screen instructions for manually connecting your printer.
+
+8 - Click Add device.
+Click Add device. This will complete the process of setting up the connection between your PC and the printer.
+
+9 - Print a test page.
+Print a test page. To ensure the devices are connected properly and that your printer is operational, you should print a test page to see if there any adjustments that need to be made to printing settings.
+- To do this, go into Settings > Devices > Printers & scanners, then right-click on your printer.
+- Click on Printer Properties or Manage and select Print a test page to pull up the dialog box for printing settings.
+- Adjust the settings for printing to your preferred options to ensure your prints don't use too much ink or print more clearly.
+

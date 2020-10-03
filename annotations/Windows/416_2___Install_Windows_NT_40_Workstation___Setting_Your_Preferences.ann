@@ -1,0 +1,9 @@
+T1	Software-OS-Related 205 209	Next
+A1	isOpened T1 f->t
+T2	Software-OS-Related 404 411	Typical
+T3	Software-OS-Related 512 516	Next
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1803 1809	Finish
+T5	Software-OS-Related 1302 1336	Install the most common components
+A3	isOpened T4 f->t
+T6	Software-OS-Related 1635 1690	Do not connect this computer to a network at this time.

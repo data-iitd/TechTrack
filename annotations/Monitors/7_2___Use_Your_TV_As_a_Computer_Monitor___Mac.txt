@@ -1,0 +1,61 @@
+Use Your TV As a Computer Monitor
+https://www.wikihow.com/Use-Your-TV-As-a-Computer-Monitor
+
+0 - Mac
+
+1 - Find out what kind of video port your Mac has.
+Find out what kind of video port your Mac has. There are four main types of connectors that your Mac or Macbook may have. Knowing which connection type you have will help you figure out what equipment you need.[2]
+- X
+- Research source
+- 
+- 
+- HDMI - The HDMI port looks like a longer, slimmer USB port, with small indents on each side. The port will have "HDMI" printed above it. This is the current standard for connecting HD devices, and most Macs and MacBooks made after 2012 have this port. HDMI does not require any special adapters.
+- Thunderbolt - This is a port slightly smaller than a USB port. It will have a small lightning bolt icon printed above it. You will need a Thunderbolt-to-HDMI adapter to connect to most HDTVs.
+- Mini DisplayPort - This port looks identical to the Thunderbolt port. The logo is a small box with a line on each side.
+- Micro-DVI - This is one of the older ports that you may encounter. The icon is the same as the Mini DisplayPort, but the port looks like a smaller USB port.
+
+2 - Find the input ports on your TV.
+Find the input ports on your TV. They may be located on the back or along the side. The most common TV input ports are HDMI, DVI, and VGA. If you can connect HDMI-to-HDMI, you'll only need one cable for both video and audio. For all other connections, you'll need a separate audio cable.
+- Make note of the input label so that you can easily switch the TV to it later.
+
+3 - Get the proper adapter (if necessary).
+Get the proper adapter (if necessary). Once you know the port that your Mac has and the connection that your TV supports, you can get the adapter that you need.[3]
+- X
+- Research source
+- 
+- 
+- If your Mac has an HDMI port and your TV has an HDMI port, all you need is a standard HDMI cable.
+- If your TV supports HDMI but your Mac has a Thunderbolt or Mini DisplayPort, you'll need a Thunderbolt/Mini DisplayPort-to-HDMI adapter.
+
+4 - Get the proper cable.
+Get the proper cable. Once you have your adapter, you can get the right cable. If your adapter goes to HDMI, get any HDMI cable. Cheap HDMI cables will work just as well as expensive ones. If you are connecting via DVI or VGA, you'll need an audio cable as well as the video cable.
+
+5 - Plug your adapter into your Mac.
+Plug your adapter into your Mac. Connect the video adapter to the display port on your Mac.
+
+6 - Use your video cable to connect your adapter to your TV.
+Use your video cable to connect your adapter to your TV. If both the computer and the TV have HDMI ports, just use a standard HDMI cable to connect the two.
+- If you aren't using HDMI to connect to the TV, you'll need an audio cable to get the sound from your Mac to your TV or home theater system. Use a 3.5mm audio cable to connect the Headphone jack on your Mac to the Audio In port on your TV or receiver.
+
+7 - Switch your TV to the correct input.
+Switch your TV to the correct input. Select the input that your computer is connected to. Some TVs may have multiple inputs of the same type to choose from, so make sure you select the right one.
+- In most cases, your desktop will be automatically extended to your TV's display.
+
+8 - Click the Apple menu on your Mac and select "System Preferences".
+Click the Apple menu on your Mac and select "System Preferences".
+
+9 - Select the "Displays" option in the System Preferences menu.
+Select the "Displays" option in the System Preferences menu.
+
+10 - Select the "Best for external display" option in the "Display" tab.
+Select the "Best for external display" option in the "Display" tab. This will optimize your screen resolution for your connected TV.
+
+11 - Click the "Arrangement" tab.
+Click the "Arrangement" tab. This will show how your two displays are oriented in relation to each other. This affects how your mouse moves between displays.
+
+12 - Drag the white menu bar from the computer's display to the TV.
+Drag the white menu bar from the computer's display to the TV. This will switch your primary display to your TV.
+
+13 - Return to the System Preferences window and select "Sound".
+Return to the System Preferences window and select "Sound". In the "Output" tab, select "HDMI" if you connected via HDMI cable. If you connected via another cable, select the audio cable as the source.
+

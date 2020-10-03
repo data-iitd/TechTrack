@@ -1,0 +1,21 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Deleting a Painting from Fresh Paint
+
+1 - Find the painting that you want to delete.
+Find the painting that you want to delete. Scroll through the Fresh Paint homepage until you find the painting which you want to remove.
+- If you saved the painting as a file, deleting it from Fresh Paint will not delete it from your computer.
+
+2 - Right-click the painting.
+Right-click the painting. Doing so will select it.
+
+3 - Click ☰.
+Click ☰. It's in the top-left corner of the window. A menu will appear.
+
+4 - Click Delete.
+Click Delete. This option is near the bottom of the menu.
+
+5 - Click Delete when prompted.
+Click Delete when prompted. Doing so removes the selected painting from Fresh Paint.
+

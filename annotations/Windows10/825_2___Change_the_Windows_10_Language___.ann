@@ -1,0 +1,15 @@
+T1	Software-OS-Related 714 721	Restart
+A1	isOpened T1 f->t
+T2	Hardware-Devices 727 735	computer
+A2	isUsed T2 true
+T3	Software-OS-Related 633 663	Make this the primary language
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 534 541	Install
+A4	isOpened T4 f->t
+T5	Software-OS-Related 108 121	Control Panel
+A5	isOpened T5 f->t
+T6	Software-OS-Related 124 151	Clock, Language, and Region
+A6	isOpened T6 f->t
+T7	Software-OS-Related 243 257	Add a language
+A7	isOpened T7 f->t
+R1	SubPart Arg1:T3 Arg2:T6	

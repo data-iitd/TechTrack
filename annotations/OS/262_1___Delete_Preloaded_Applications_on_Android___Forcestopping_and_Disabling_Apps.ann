@@ -1,0 +1,25 @@
+T1	Software-OS-Related 166 174	Settings
+A1	isOpened T1 f->t
+T2	Hardware-Devices 283 297	Android device
+A2	isPowered T2 start-T
+T3	Software-OS-Related 450 474	Apps_Application Manager
+A3	isOpened T3 f->t
+T4	Hardware-Devices 610 616	device
+T6	Software-OS-Related 977 987	Force Stop
+T7	Software-OS-Related 991 1018	Uninstall updates/Uninstall
+T5	Software-OS-Related 810 813	app
+A4	isOpened T5 f->t
+T8	Software-OS-Related 587 591	apps
+T9	Software-OS-Related 1026 1033	Disable
+T10	Software-OS-Related 1055 1072	Uninstall updates
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T5	
+T11	Software-OS-Related 1244 1253	Uninstall
+A6	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T5	
+T12	Software-OS-Related 1401 1411	Force Stop
+A7	isSettingsChanged T12 true
+R3	SubPart Arg1:T12 Arg2:T5	
+T13	Software-OS-Related 1419 1426	Disable
+A8	isSettingsChanged T13 true
+R4	SubPart Arg1:T13 Arg2:T5	

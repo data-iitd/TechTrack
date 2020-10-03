@@ -1,0 +1,45 @@
+T1	Hardware-Devices 148 154	Jambox
+A1	isPowered T1 start-F
+T2	Hardware-Other 295 300	phone
+T3	Hardware-Other 304 312	computer
+T4	Hardware-Other 331 339	speakers
+T5	Hardware-Other 424 430	iPhone
+T6	Software-OS-Related 448 457	Bluetooth
+A2	isSettingsChanged T6 true
+T7	Software-OS-Related 465 478	Settings menu
+A3	isOpened T7 f->t
+T8	Software-OS-Related 486 491	Wi-Fi
+T10	Software-OS-Related 598 611	Settings menu
+T11	Software-OS-Related 632 643	Connections
+T12	Software-OS-Related 656 662	button
+T13	Hardware-Other 708 716	computer
+T14	Software-OS-Related 727 745	System Preferences
+A5	isOpened T14 f->t
+T15	Hardware-Other 898 906	computer
+T16	Software-OS-Related 917 927	Start menu
+A6	isOpened T16 f->t
+T17	Software-OS-Related 965 983	Devices and Sounds
+A7	isOpened T17 f->t
+T18	Software-OS-Related 1035 1047	Add a device
+A8	isSettingsChanged T18 true
+T19	Hardware-Devices 1086 1094	speakers
+A9	isPowered T19 start-T
+T20	Hardware-Other 1288 1293	light
+T21	Hardware-Devices 1339 1345	device
+T22	Hardware-Devices 1389 1403	Jawbone Jambox
+T23	Hardware-Other 1556 1561	phone
+T24	Hardware-Other 1696 1699	Mac
+T25	Hardware-Other 1703 1719	Windows computer
+T26	Software-OS-Related 1748 1760	Add a Device
+A10	isOpened T26 f->t
+T28	Software-OS-Related 2097 2116	Control and Connect
+A11	isOpened T28 f->t
+A12	isOpened T8 f->t
+R1	SubPart Arg1:T6 Arg2:T7	
+A4	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T10	
+A13	isOpened T10 f->t
+A14	isOpened T11 f->t
+A15	isSettingsChanged T26 true
+T9	Software-OS-Related 2049 2064	Devices section
+A17	isOpened T9 f->t

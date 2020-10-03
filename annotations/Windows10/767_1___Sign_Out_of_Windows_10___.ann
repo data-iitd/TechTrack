@@ -1,0 +1,7 @@
+T1	Software-OS-Related 249 250	✕
+A1	isOpened T1 start-F
+T2	Software-OS-Related 805 807	OK
+T3	Software-OS-Related 675 683	Sign out
+A2	isSettingsChanged T2 true
+T4	Software-OS-Related 341 358	Shut Down Windows
+A3	isOpened T4 f->t

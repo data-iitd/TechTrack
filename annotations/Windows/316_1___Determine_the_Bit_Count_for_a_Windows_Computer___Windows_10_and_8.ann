@@ -1,0 +1,8 @@
+T1	Software-OS-Related 155 160	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 434 442	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 585 591	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 681 686	About
+A4	isOpened T4 f->t

@@ -1,0 +1,39 @@
+Sync Your Mac Documents to Other Devices
+https://www.wikihow.com/Sync-Your-Mac-Documents-to-Other-Devices
+
+0 - Using Dropbox
+
+1 - Go to https:__www.dropbox.com_ on your Mac.
+Go to https://www.dropbox.com/ on your Mac.
+
+2 - Sign up for an account.
+Sign up for an account.
+- You will need to provide a name, email and password to do so.
+
+3 - Click the Download.
+Click the Download.
+
+4 - Run the installer.
+Run the installer.
+
+5 - Sign into the app.
+Sign into the app.
+
+6 - Click the Dropbox menu.
+Click the Dropbox menu. This will appear in the upper right corner of the top menu
+
+7 - Click Open Dropbox Folder.
+Click Open Dropbox Folder.
+
+8 - Drag and drop your documents into your Dropbox folder.
+Drag and drop your documents into your Dropbox folder.
+- A file in the process of uploading will display a blue loading icon. This will change to a green checkmark when the upload or sync is complete.
+
+9 - Go to https:__www.dropbox.com_ on your other device.
+Go to https://www.dropbox.com/ on your other device.
+- If you are using an iOS or Android device you can install the Dropbox app.
+
+10 - Sign in to your Dropbox account.
+Sign in to your Dropbox account. Your synced documents will appear in your Dropbox.
+- You can click/tap a document to view it or open the menu for a document and click/tap Download to save it to your device.
+

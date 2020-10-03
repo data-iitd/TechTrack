@@ -1,0 +1,16 @@
+T2	Software-OS-Related 181 187	System
+T3	Software-OS-Related 264 272	settings
+T4	Software-OS-Related 287 292	Sound
+A2	isOpened T4 start-T
+T5	Software-OS-Related 375 393	Sound Contol Panel
+A3	isOpened T5 f->t
+T6	Software-OS-Related 505 513	speakers
+A4	isOpened T6 start-T
+T7	Software-OS-Related 525 535	Properties
+T8	Software-OS-Related 605 617	Enhancements
+A5	isOpened T8 start-T
+T9	Software-OS-Related 770 782	enhancements
+A1	isOpened T2 f->t
+T1	Software-OS-Related 158 169	Start  menu
+A6	isOpened T1 f->t
+R1	SubPart Arg1:T2 Arg2:T1	

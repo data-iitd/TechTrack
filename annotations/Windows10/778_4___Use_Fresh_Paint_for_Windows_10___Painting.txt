@@ -1,0 +1,24 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Painting
+
+1 - Paint by clicking and dragging across the canvas.
+Paint by clicking and dragging across the canvas. Your selected brush will be used, so feel free to select different brushes and drawing implements to experiment with different strokes.
+
+2 - Undo your last stroke if needed.
+Undo your last stroke if needed. Click the backward-facing arrow in the lower-left side of the Fresh Paint window to do so.
+- You can also press Ctrl+Z to undo your last stroke.
+
+3 - Erase specific lines.
+Erase specific lines. Click the "Eraser" icon, which resembles an eraser in the upper-left side of the palette, and then click and drag it across whatever you want to erase.
+
+4 - Smudge colors to blend them together.
+Smudge colors to blend them together. Click the "Smudger" icon, which resembles a downward-facing pen in the upper-left corner of the palette, and then click and drag it across a section of the canvas. This will blend together different colors regardless of the tool that you used to create the colors.
+
+5 - Use the color matcher to replicate a color.
+Use the color matcher to replicate a color. Click the crosshairs-shaped icon in the bottom-right corner of the palette, drag it to select the color that you want to replicate, and then click its icon at the bottom of the palette to remove it. The selected color will be applied to your current brush.
+
+6 - Clear your brush of color.
+Clear your brush of color. You can clear your brush's paint by clicking the white sponge icon in the upper-right side of the palette. This is especially useful when using oil paint, as it will allow you to blend together oil on the canvas.
+

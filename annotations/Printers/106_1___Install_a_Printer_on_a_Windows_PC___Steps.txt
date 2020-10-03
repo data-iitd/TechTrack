@@ -1,0 +1,33 @@
+Install a Printer on a Windows PC
+https://www.wikihow.com/Install-a-Printer-on-a-Windows-PC
+
+0 - Steps
+
+1 - If you're not sure what flavor of Windows your PC is running,
+
+If you're not sure what flavor of Windows your PC is running,
+- click on the Start button, and right-click on the "Computer" menu.  An information window is displayed that should look a little like the picture above.  If you're running Windows 7, it will say so right in this box.  (Even if it isn't, try the steps below.)
+- Windows 7 --and all recent versions of Windows-- make it very easy to add a printer.  Again, click on the Start button usually at the bottom left of your screen.  (You can press the Windows button on your keyboard.)
+- ;
+
+2 - On the pop-up menu (the Start Menu), click on Devices and Printers.
+On the pop-up menu (the Start Menu), click on Devices and Printers.  This brings up a dialog box, shown in the next step.  If you have a newer operating system than Windows 7, this procedure might still work, even if the menus look a little different.  (The illustrations shown here might not look exactly the same in your computer, because mine is personalized to look like older versions of Windows!
+
+3 - You're going to get a dialog that looks like the picture at right.
+You're going to get a dialog that looks like the picture at right.  (I've blurred out some of the stuff that I have; it's not important.)  Click on Add a Printer.
+
+4 - A menu pops up, asking whether you want to add a Local Printer, or to add a Network Printer.
+A menu pops up, asking whether you want to add a Local Printer, or to add a Network Printer.  I'm assuming you want to add a printer directly to your computer.  (If you want to add a network printer, you should look up the instructions for that in another article.)  So select "Add a Local Printer."
+
+5 - Next, a box opens to ask whether you want to use an existing port, or create a new one.
+Next, a box opens to ask whether you want to use an existing port, or create a new one.  Most printers manufactured in the last few years use either a USB port, or use a wireless connection.  This article will focus on using a USB port, which is an excellent all-purpose connection method for most sorts of peripherals (printers, cameras, MP3 players, Tablet PCs, E-readers, etc.) 
+- Let's assume you have a free USB connection slot available.  Most PCs have two or more.  If you've already used up all the USB slots, it is easy to buy a USB hub, which is like an adapter that lets you plug in a couple of gadgets into the same USB slot.
+- Select Use an Existing Port, and select USB001 (Virtual printer for USB), or something similar from the drop-down list.  Click Next.
+
+6 - On the next screen, you select how you're going to install the printer software, called the Printer Driver.
+On the next screen, you select how you're going to install the printer software, called the Printer Driver.  This is where the instructions branch.  There are four possibilities.
+- If you have a well-known type of printer that has been built into the Windows 7 system, you can first select the manufacturer (such as Toshiba, or Hewlet-Packard, or Pumpkin Printers).  Once you do this, you get a list of all the models from that company that Window 7 has heard about.  This will unfortunately be just about half the available printers.  If you happen to want to install one of them, just select it, and the rest is automatic.  If not, read on...
+- If you have a driver disk that came with the printer, this is where you tell the computer that you have a disk.  Every printer disk installation is a little different, but Windows basically talks you through the process.
+- If you do not have a disk, all is not lost.  You have to set the printer aside for the moment, and search the web (via Google, for instance, or Yahoo) for the exact printer driver you need.  Suppose it is a little-known printer from Panasonic, called a Panasonic Bluebird 6E (this is an entirely imaginary printer; I would be surprised if there really was one called by this name), you would look on the Panasonic website for drivers for the Bluebird 6E.  You have to download the driver onto your desktop, unzip it if you have to, and once the setup file appears, simply double-click on it.  The installation (setup) file will talk you through the whole operation.  At the end of it, your printer should be fully functional.
+- If you do not have the disk, and the drivers are not available on the Web, you need advanced help, and only the store that sold you the printer can help you at this point.  There is a slight chance that a friend could set you up with a driver for a well-known printer that is very similar to the one you want to install; many drivers for one printer will drive a related printer fairly well.  The problem will be with graphics, which will not work properly.
+

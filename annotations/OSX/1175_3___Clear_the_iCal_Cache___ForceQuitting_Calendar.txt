@@ -1,0 +1,30 @@
+Clear the iCal Cache
+https://www.wikihow.com/Clear-the-iCal-Cache
+
+0 - Force-Quitting Calendar
+
+1 - Click Continue on the error window.
+Click Continue on the error window. You may have to do this for several errors depending on how many files you tried to delete.
+
+2 - Open Spotlight .
+Open Spotlight . Click the magnifying glass-shaped icon in the top-right corner of the screen.
+
+3 - Type activity monitor into Spotlight.
+Type activity monitor into Spotlight. Doing so searches your Mac for the Activity Monitor app, which is a program that allows you to monitor and halt background processes.
+
+4 - Click Activity Monitor.
+Click Activity Monitor. It's a black box with green lines on it. You should see it near the top of the Spotlight drop-down menu.
+
+5 - Double-click the "CalendarAgent" entry.
+Double-click the "CalendarAgent" entry. This is the Calendar background process. It will open.
+
+6 - Click Quit.
+Click Quit. It's in the bottom-right side of the Calendar window.
+
+7 - Click Force Quit when prompted.
+Click Force Quit when prompted. Doing so will prevent the Calendar background process from running, meaning that you can delete the cache files without interference.
+- You may not see the "CalendarAgent" entry disappear from the Activity Manager when you click Force Quit.
+
+8 - Empty the Trash.
+Empty the Trash. Click the Trash Can icon, click Empty Trash..., and click Empty Trash when prompted. You shouldn't experience any errors this time, meaning that your calendar's cached files will be deleted. You have successfully cleared your Mac's Calendar app's cache.
+

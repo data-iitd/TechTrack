@@ -1,0 +1,54 @@
+Change a Windows Serial Number
+https://www.wikihow.com/Change-a-Windows-Serial-Number
+
+0 - Steps
+
+1 - Create a new restore point using System Restore before proceeding with any other steps.
+Create a new restore point using System Restore before proceeding with any other steps.  This will give you a position to fall back to, should any complications arise during the process.
+- ;
+
+2 - Navigate your mouse cursor to your start menu, click it, then locate and select Run.
+Navigate your mouse cursor to your start menu, click it, then locate and select Run.
+
+3 - Enter "Regedit" in the Open field, and then hit OK.
+Enter "Regedit" in the Open field, and then hit OK.
+
+4 - Locate the registry "HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsNT\Current Version\WPAEvents" in the left pane and then select it.
+Locate the registry "HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsNT\Current Version\WPAEvents" in the left pane and then select it.
+
+5 - Right click on the OOBETimer in the right pane, and then select Modify.
+Right click on the OOBETimer in the right pane, and then select Modify.
+
+6 - Modify any digit to deactivate Windows.
+Modify any digit to deactivate Windows.
+
+7 - Navigate to the start menu again and select Run.
+Navigate to the start menu again and select Run.
+
+8 - Enter "%systemroot%\system32\oobe\msoobe.exe _a" into the Open field and then hit OK.
+Enter "%systemroot%\system32\oobe\msoobe.exe /a" into the Open field and then hit OK.
+
+9 - Select "Yes, I want to telephone a customer service representative to activate Windows.
+Select "Yes, I want to telephone a customer service representative to activate Windows."  Hit the Next button.
+
+10 - Choose "Change Product Key.
+Choose "Change Product Key."
+
+11 - Enter the desired product key in the new key boxes, and then select Update.
+Enter the desired product key in the new key boxes, and then select Update.  Click "Remind me later" if you are taken to the previous screen.
+
+12 - Restart your computer.
+Restart your computer.
+
+13 - Navigate to the start menu yet again, and select Run.
+Navigate to the start menu yet again, and select Run.
+
+14 - Enter "%systemroot%\system32\oobe\msoobe.exe _a" in the Open field again and then hit OK.
+Enter "%systemroot%\system32\oobe\msoobe.exe /a" in the Open field again and then hit OK.  You should receive the following message:  Windows is already activated. Click OK to exit.
+
+15 - Select OK.
+Select OK.
+
+16 - Install Windows XP Service Pack 1.
+Install Windows XP Service Pack 1.  If you are unable to restart your computer after installing Service Pack 1, you should manually restart the computer and hit the F8 key when the computer boots up.  Initiate the "Last Known Good Configuration" command.  Then repeat all steps listed in this article.
+

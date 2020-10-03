@@ -1,0 +1,24 @@
+Open Windows Task Manager
+https://www.wikihow.com/Open-Windows-Task-Manager
+
+0 - Using File Explorer
+
+1 - Open File Explorer
+Open File Explorer.
+
+2 - Click the address bar.
+Click the address bar.
+
+3 - Type %SystemDrive%\Windows\System32.
+Type %SystemDrive%\Windows\System32.
+
+4 - Hit ↵ Enter or click → to the far right of the address bar.
+Hit ↵ Enter or click → to the far right of the address bar.
+
+5 - Find "Taskmgr" and open it.
+Find "Taskmgr" and open it. It might have ".exe" at the end of the name depending on your file viewing settings.
+- You'll need to scroll down past the folders, which are always placed at the top.
+
+6 - Finished.
+Finished.
+

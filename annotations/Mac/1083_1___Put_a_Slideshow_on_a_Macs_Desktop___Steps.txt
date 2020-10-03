@@ -1,0 +1,32 @@
+Put a Slideshow on a Mac's Desktop
+https://www.wikihow.com/Put-a-Slideshow-on-a-Mac%27s-Desktop
+
+0 - Steps
+
+1 - Click the Apple logo.
+Click the Apple logo. It's at the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Desktop & Screen Saver" icon.
+Click the "Desktop & Screen Saver" icon. It should be the second icon on the first row of the window.
+
+4 - Click Desktop.
+Click Desktop.
+
+5 - Click on a folder.
+Click on a folder. Your Mac will display desktop photos from the photos found in the folder you choose here.
+
+6 - Click the "Change picture" box.
+Click the "Change picture" box.
+- Click the drop-down menu on the right, and choose an option to designate how long you want each photo to display.
+- The default length of time is 30 minutes.
+
+7 - Click the "Random order" box.
+Click the "Random order" box.
+
+8 - Click the red "x" button.
+Click the red "x" button. Your desktop order will be set to random.
+

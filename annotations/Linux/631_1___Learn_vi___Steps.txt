@@ -1,0 +1,40 @@
+Learn vi
+https://www.wikihow.com/Learn-vi
+
+0 - Steps
+
+1 - To start, type from console vi <name_of_file_to_edit>.
+To start, type from console vi <name_of_file_to_edit>.
+- ;
+
+2 - You can move the cursor around with the cursor keys or the original h, j, k, l
+
+You can move the cursor around with the cursor keys or the original h, j, k, l
+
+3 - To insert characters anywhere, move the cursor to the place you need to insert and then type i.
+To insert characters anywhere, move the cursor to the place you need to insert and then type i. The editor will switch to the Insert mode.
+
+4 - Type the text you need to insert.
+Type the text you need to insert. You can use arrow and delete keys to correct the text you type.
+
+5 - When done, press <ESC> to switch into standard mode.
+When done, press <ESC> to switch into standard mode.
+
+6 - To delete a single character, type x at desired location in the standard mode.
+To delete a single character, type x at desired location in the standard mode.
+
+7 - To delete the whole row, type dd in that row.
+To delete the whole row, type dd in that row.
+
+8 - To search, type _<text to search><ENTER>.
+To search, type /<text to search><ENTER>. Hit n to search for the next occurrence or N to search for the previous occurrence.
+
+9 - To save changes and exit, type :x in the standard mode.
+To save changes and exit, type :x in the standard mode.
+
+10 - To save changes without exiting, type :w in the standard mode.
+To save changes without exiting, type :w in the standard mode.
+
+11 - To exit without changing files, type :q!
+To exit without changing files, type :q! in the standard mode.
+

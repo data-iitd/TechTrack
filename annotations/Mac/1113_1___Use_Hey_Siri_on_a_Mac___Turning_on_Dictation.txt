@@ -1,0 +1,27 @@
+Use Hey Siri on a Mac
+https://www.wikihow.com/Use-Hey-Siri-on-a-Mac
+
+0 - Turning on Dictation
+
+1 - .
+Download macOS. Siri is only available on computers running macOS. If your Mac is running on an earlier operating system, you need to update it to use Siri.
+- ;
+
+2 - Click on the Apple menu.
+Click on the Apple menu. The Apple icon is in the upper-left corner of your screen, and will open a drop-down menu.
+
+3 - Click "System Preferences.
+Click "System Preferences..." This will open all of the front-end options that you can edit on your Mac.
+
+4 - Click the "Keyboard" icon.
+Click the "Keyboard" icon. This is where you'll program your Mac to use your voice to perform the Hey Siri command.
+
+5 - Click the "Dictation" button.
+Click the "Dictation" button. Dictation converts spoken words into text and can be used to activate a range of commands other than Hey Siri.
+
+6 - Click the "On" radio button next to "Dictation.
+Click the "On" radio button next to "Dictation." Also click on the checkbox next to "Use Enhanced Dictation."
+
+7 - Select your microphone.
+Select your microphone. If you have multiple audio input sources for your Mac (such as an external microphone or headphones in addition to your regular built-in microphone), click on the menu underneath the microphone option and click "Internal Microphone."
+

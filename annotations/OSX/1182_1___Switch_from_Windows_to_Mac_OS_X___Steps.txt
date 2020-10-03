@@ -1,0 +1,32 @@
+Switch from Windows to Mac OS X
+https://www.wikihow.com/Switch-from-Windows-to-Mac-OS-X
+
+0 - Steps
+
+1 - Find the dock.
+Find the dock. This is an essential part of OS X, similar to Windows' Start Menu and Taskbar. The Dock is how you launch new applications, or switch to ones that are already open. It is also where a window goes when minimized. It is usually at the bottom of the screen, though it can be moved to either side. The Trash Can is also here, which functions exactly as the Windows Recycle Bin.
+- ;
+
+2 - Learn some of the basic differences between Windows and OS X.
+Learn some of the basic differences between Windows and OS X.
+- For example, the window control buttons in OS X are on the left side of the window instead of the right, and the green button makes the window enter full screen mode.
+- To right-click on a Mac without a right-click button, you can either click and hold an item you'd like a menu for, you can hold the Control button while you click (which works more often), or you can enable right-click in System Preferences > Mouse. The Magic Mouse will sense the position of your finger and allow you to right-click.
+
+3 - If you use keyboard shortcuts, learn the new ones on a Mac.
+If you use keyboard shortcuts, learn the new ones on a Mac. For the most part, they're nearly identical to Windows shortcuts, except that where Windows uses the Control Key, Macs use the Command Key, which is next to the spacebar, and is marked with a ⌘. The function keys (F1-F16 add extra quick features.
+
+4 - Learn to use Finder.
+Learn to use Finder. This operates a lot like File Explorer, and for daily tasks, you should be able to adjust to it easily. Remember the different names for folders on a Mac, "My Documents" is "Home", "Program Files" is "Applications", etc.
+
+5 - Familiarize yourself with the Apple Menu.
+Familiarize yourself with the Apple Menu. It is toggled by the apple icon in the top left-hand corner of the screen, and is the button you will need to click to shut down the computer, put it to sleep, access the System Preferences, and Force Quit applications, as well as several other tasks.
+
+6 - Be aware of which application you're working in when you use the menu bar.
+Be aware of which application you're working in when you use the menu bar. In Windows, the menu bar for each application appears in the window itself. In OS X, the menu bar for the selected window always appears at the top of the screen. The application's name appears in bold, and by clicking on it, you can control the app's preferences and other general tasks.
+
+7 - Learn to kill crashed programs.
+Learn to kill crashed programs. Like any operating system, sometimes programs crash unexpectedly. When that happens, press ⌘ Command+S to attempt to save your work. Then click and hold the crashed program's icon on the dock. From the pop-out menu, click Force Quit. If this doesn't work, you can press ⌘ Command+⌥ Option+Esc. This is the equivalent of Windows' Control+Shift+Escape.
+
+8 - Take advantage of System Preferences.
+Take advantage of System Preferences. You can open it by clicking on the Apple Menu and selecting System Preferences. Similar to the Windows Settings app, System Preferences allows you to oversee every aspect of your Mac, from security, to hardware, to design. There are even some features that can make OS X more comfortable to Windows users. Make your Mac your own!
+

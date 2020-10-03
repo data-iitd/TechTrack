@@ -1,0 +1,30 @@
+Enable Night Light in Windows 10
+https://www.wikihow.com/Enable-Night-Light-in-Windows-10
+
+0 - Steps
+
+1 - Open Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');.
+Open Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');.  To do so, click on the start  button and choose the settings gear.
+
+2 - Click on System.
+Click on System.  It is the first option in the list.
+
+3 - Click on Display.
+Click on Display.  It is the first item in the panel.
+
+4 - Click on Night light settings.
+Click on Night light settings.  This link is under the Night light toggle.
+
+5 - Choose the intensity of Night light.
+Choose the intensity of Night light.  This will make the screen more or less orange when Night light is enabled.
+
+6 - Choose to schedule Night light.
+Choose to schedule Night light.  This will automatically turn on Night light at sundown and disable it at sunrise.  You can also set it to turn on and off at different hours of the day by choosing the "Set hours" radio button.
+
+7 - Choose the toggle to turn Night light on_off and override schedule settings.
+Choose the toggle to turn Night light on/off and override schedule settings.  This will turn it on (indefinitely if you have not set a schedule), and keep it on until sunrise.
+
+8 - Consider adding Night light to the action center.
+Consider adding Night light to the action center.  To do so, open the Action center, right-click on any toggle, and choose "Edit quick actions".  Click on ➕Add then choose "Night light".
+- If this toggle is highlighted, then Night light is enabled.
+

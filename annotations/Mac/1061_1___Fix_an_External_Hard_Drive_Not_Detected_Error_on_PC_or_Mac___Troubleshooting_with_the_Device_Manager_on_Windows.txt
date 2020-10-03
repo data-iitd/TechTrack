@@ -1,0 +1,58 @@
+Fix an "External Hard Drive Not Detected" Error on PC or Mac
+https://www.wikihow.com/Fix-an-%22External-Hard-Drive-Not-Detected%22-Error-on-PC-or-Mac
+
+0 - Troubleshooting with the Device Manager on Windows
+
+1 - Right-click on the Windows Start  button.
+Right-click on the Windows Start  button.  It's in the lower-left corner of the task bar.  Right-clicking the start menu displays a list of different managers you can use to troubleshoot problems on your computer.
+
+2 - Click Device Manager.
+Click Device Manager.  This opens the Device Manager program on your computer.
+
+3 - Click Other Devices.
+Click Other Devices.  This displays a list of assorted devices on your computer, including unrecognized devices.
+
+4 - Right-click Unknown device.
+Right-click Unknown device.  If there are devices on your PC that don't have the proper drivers installed, they appear as "Unknown devices" in the Device Manager.[1]
+- X
+- Research source
+
+5 - Click Disable.
+Click Disable.  This displays a prompt asking if you want to disable the device.  Click Yes to disable the device.
+
+6 - Right-click Unknown device again.
+Right-click Unknown device again.  This displays the pop-up menu.
+
+7 - Click Scan for hardware changes.
+Click Scan for hardware changes.  It's near the bottom of the pop-up menu.  This scans for new devices on your PC.
+
+8 - Right-click Unknown device again.
+Right-click Unknown device again.  This displays the pop-up menu.
+
+9 - Click Enable.
+Click Enable.  It's the second option at the bottom of the pop-up menu.  This re-enables the device.
+
+10 - Right-click Unknown device again.
+Right-click Unknown device again.  This displays the pop-up menu.
+
+11 - Click Update Software Driver.
+Click Update Software Driver.  It's first option in the pop-up menu.
+
+12 - Click Search automatically for updated driver software.
+Click Search automatically for updated driver software.  This searches for the latest driver for the device online.
+
+13 - Click Universal Serial Bus controller.
+Click Universal Serial Bus controller.  This displays the all the USB ports on your PC.
+
+14 - Right-click the USB port(s).
+Right-click the USB port(s).  This displays a pop-up menu for the USB port.
+
+15 - Click Properties.
+Click Properties.  It's at the bottom of the pop-up menu for the USB port.
+
+16 - Click the Power Management tab.
+Click the Power Management tab.  It's the last tab at the top of the Properties menu.
+
+17 - Uncheck  "Allow this computer to turn off this device to save power".
+Uncheck  "Allow this computer to turn off this device to save power".  Repeat for all USB ports on your computer.
+

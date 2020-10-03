@@ -1,0 +1,24 @@
+Restart Windows 10
+https://www.wikihow.com/Restart-Windows-10
+
+0 - 
+
+1 - Navigate to the desktop.
+Navigate to the desktop. Press ⊞ Win+D simultaneously. There are other different ways of doing this:
+- 
+- Close all open apps. Use the ✕ button.
+- Clicking the very bottom-right of the screen, on the taskbar.
+
+2 - Open the "Shut Down Windows" dialog box.
+Open the "Shut Down Windows" dialog box. Press Alt+F4 together.
+- Pressing the keys together while an app is displayed will cause the window to close.
+
+3 - Click the dropdown menu.
+Click the dropdown menu. It's right below the "What do you want the computer do do?" line of text.
+
+4 - Choose the Restart option.
+Choose the Restart option.
+
+5 - Confirm the restart.
+Confirm the restart. Press OK or hit ↵ Enter.
+

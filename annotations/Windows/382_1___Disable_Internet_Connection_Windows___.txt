@@ -1,0 +1,24 @@
+Disable Internet Connection (Windows)
+https://www.wikihow.com/Disable-Internet-Connection-(Windows)
+
+0 - 
+
+1 - Open the Control Panel.
+Open the Control Panel. Use this method if you want to turn off (either temporarily or permanently) your PC's ability to connect to a wired or wireless network. The steps to open Control Panel vary by Windows version:
+- 
+- Windows 10 or 8: Press ⊞ Win+S to open the search bar, type control panel, and then click Control Panel in the search results.
+- Windows 7, Vista, and XP: Click the Start menu and select Control Panel.
+
+2 - Click Network and Sharing Center or View network status and tasks.
+Click Network and Sharing Center or View network status and tasks. The option you see varies by PC.
+
+3 - Click Change adapter settings.
+Click Change adapter settings. It's in the left panel. A list of your network adapters will appear.
+
+4 - Right-click the adapter you want to disable.
+Right-click the adapter you want to disable. A menu will expand.
+
+5 - Click Disable.
+Click Disable. This adapter is now inactive and will remain so until you re-enable it.
+- To re-enable the connection, right-click the connection and click Enable.
+

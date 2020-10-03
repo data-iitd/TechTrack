@@ -1,0 +1,15 @@
+T1	Software-OS-Related 380 387	Preheat
+A1	isOpened T1 f->t
+T2	Hardware-Devices 342 352	3D printer
+A2	isPowered T2 f->t
+A3	isUsed T2 true
+T3	Software-OS-Related 541 549	STL file
+A4	isOpened T3 f->t
+T4	Hardware-Other 1365 1368	USB
+T5	Software-OS-Related 880 895	Uniform Scaling
+T6	Hardware-Other 1373 1379	SDCARD
+T7	Hardware-Other 1463 1472	USB cable
+T8	Hardware-Other 1476 1487	Card reader
+T9	Hardware-Devices 1778 1785	printer
+A5	isUsed T9 true
+T10	Software-OS-Related 1121 1125	Make

@@ -1,0 +1,5 @@
+T1	Software-OS-Related 129 136	Safari.
+A1	isOpened T1 f->t
+T2	Hardware-Devices 358 374	Apple Pay device
+T3	Software-Other 1083 1092	Apple Pay
+A2	isSettingsChanged T3 true

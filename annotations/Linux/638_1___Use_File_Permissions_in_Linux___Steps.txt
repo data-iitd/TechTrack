@@ -1,0 +1,34 @@
+Use File Permissions in Linux
+https://www.wikihow.com/Use-File-Permissions-in-Linux
+
+0 - Steps
+
+1 - See what permission you want to change.
+See what permission you want to change. To see the permissions you already have on files use the Ls command with the  -l option (picture 1)
+- ;
+
+2 - Decide what permission you want to change:
+Decide what permission you want to change:  either the USER access, the GROUP access, or OTHER access. This will determine how you will write the chmod command, and where you put each number.
+
+3 - Notice letters on the permission line in picture 1.
+Notice letters on the permission line in picture 1. These are the permission details (r for read),(w for write)(x for execute) this will allow the user, group or other person to read( open) the file, write (make changes) to the file or execute ( run) the file. The Number used for R is 4 the number used for W is 2 and the number used for X is 1 which equals 7 there is some math required to do this. (refer to both charts in the notes section)
+- For example, if you wanted to add the Read permission and the write permission to only users you would write the command [ chmod 600 (filename)] you would add 4 for read and 2 for write so the permissions on your file would look like what you see in picture 2 for the file user.(refer to the chart in the notes section for the chart of numerical values of permissions).
+
+4 - Notice that there are 3 numbers in the octal_number code.
+Notice that there are 3 numbers in the octal/number code. These represent Users|Groups|Other  from left to right.  Putting a number from 1-7 in any of the three parts will change permission for each one depending on what numbers you use.
+
+5 - Change the permission on folders by using the same command  for files.
+Change the permission on folders by using the same command  for files. Just be sure to use the absolute path of the folder so you don’t make a mistake (i.e. My test folder located in /home/permissiondemo/test). If you are not sure just look at the picture 3
+
+6 - After you type in the chmod command with the proper numbers, check to see if you have successfully completed the command by using the ls –l command.
+After you type in the chmod command with the proper numbers, check to see if you have successfully completed the command by using the ls –l command. If it worked, good job. If not try again.( If you forget what the command looks like refer back to picture 1  the first command used)
+
+7 - If you are unsure of how to fix your mistakes, log into your root account and change the permissions on the file or directory to  777 when using the chmod command, which will return read write and execute permissions to everyone.
+If you are unsure of how to fix your mistakes, log into your root account and change the permissions on the file or directory to  777 when using the chmod command, which will return read write and execute permissions to everyone.
+
+8 - Now that you know the basics of how to change file permissions in Linux, play around with the permission to see what changes when you try to open a file or folder or try to move the file and see what results you obtain.
+Now that you know the basics of how to change file permissions in Linux, play around with the permission to see what changes when you try to open a file or folder or try to move the file and see what results you obtain. The results should vary.
+
+9 - Have fun (Linux if always fun).
+Have fun (Linux if always fun).
+

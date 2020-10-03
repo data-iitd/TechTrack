@@ -1,0 +1,25 @@
+Edit .htaccess Files on Mac OS X
+https://www.wikihow.com/Edit-.htaccess-Files-on-Mac-OS-X
+
+0 - Steps
+
+1 - Open your FTP client and log in to your server.
+Open your FTP client and log in to your server. FileZilla is an example of a widely used and free FTP client.
+- ;
+
+2 - Go to the root folder of your directory and look the for the .htaccess file.
+Go to the root folder of your directory and look the for the .htaccess file. It is a hidden file, so you might need to set your FTP client to show hidden files. This is typically in the "View" menu.
+
+3 - Copy this file to your desktop or any other folder where you store your website files.
+Copy this file to your desktop or any other folder where you store your website files.
+- The file will immediately disappear. Don't worry, it's still there, it's just invisible.
+
+4 - Open Terminal and enter the following command:
+Open Terminal and enter the following command: 
+- defaults write com.apple.finder AppleShowAllFiles YES
+
+5 - Relaunch your finder app.
+Relaunch your finder app. Hold down ⌥ Option AND right-click the Finder icon in the dock menu and select Relaunch.
+- All hidden files, such as your .htaccess file, should now be visible.
+- To reverse this, go to terminal app and type in the same command, but with "NO" instead of "YES".
+

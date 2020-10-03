@@ -1,0 +1,12 @@
+T1	Software-OS-Related 131 138	taskbar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 421 431	Properties
+A2	isOpened T2 f->t
+T3	Software-OS-Related 519 529	Start Menu
+A3	isOpened T3 f->t
+T4	Software-OS-Related 670 700	Store recently opened programs
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 912 917	Apply
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T5 Arg2:T3	

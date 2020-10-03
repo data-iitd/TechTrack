@@ -1,0 +1,12 @@
+T1	Software-Other 154 163	Skype app
+A1	isOpened T1 f->t
+T2	Software-Other 300 306	Search
+T8	Hardware-Devices 938 948	microphone
+A5	isSetup T8 true
+T10	Software-Other 1003 1007	Echo
+A6	isInstalled T1 start-T
+A7	isOpened T2 f->t
+T3	Software-Other 435 441	search
+T4	Software-Other 739 743	Echo
+A2	isOpened T4 f->t
+A3	isInstalled T4 start-T

@@ -1,0 +1,25 @@
+Use Windows 10
+https://www.wikihow.com/Use-Windows-10
+
+0 - Using Built-in Apps
+
+1 - Browse the web with Microsoft Edge.
+Browse the web with Microsoft Edge. Edge is Microsoft’s replacement for Internet Explorer. To get started with Edge, click the Start menu, click All Apps, and then select Microsoft Edge. You can also type "Edge" into the search bar and select the app.
+- If you’re new to Edge, check out Reading View, a feature that displays text-heavy websites without all of the ads and special formatting.
+- To access your Edge settings, click ⋯ at the top-right corner of the browser, and then click Settings.
+
+2 - Use the Photos app to manage and edit your photos.
+Use the Photos app to manage and edit your photos. Any photos you save to the Pictures directory on your computer will be added to the Photos app. This makes it easy to find and edit your photos without having to worry about where they are stored. To open the app, click the Start menu, click All Apps, and then select Photos or type "Photos" into the search bar and select the app.
+- Double-clicking photos on your computer should open them in Photos automatically.
+- To add additional folders to the Photos app (for example, if you keep your photos stored somewhere other than the Pictures folder), click Folders at the top of the app, click Add a Folder, and then select the folder.
+- To edit a photo, simply click it in the Photos app, click Edit & Create at the top, and then choose your desired editing tools.
+
+3 - Use the Xbox app.
+Use the Xbox app. If you’re an Xbox user, you’ll be able to find all of your game history, achievements, friends, activity and messages in the Xbox app, which you’ll find in the All Apps folder.
+
+4 - Use the Maps app.
+Use the Maps app. With the new Maps app you can explore in 3D, view street level, download maps, print directions, view the traffic and find new places.
+
+5 - Use OneNote to organize your notes.
+Use OneNote to organize your notes. OneNote is now pre-installed on all computers running Windows 10. You can use OneNote to create virtual notebooks that help keep you organized. Like the other apps, you’ll find it in the All Apps area of the Start menu.
+

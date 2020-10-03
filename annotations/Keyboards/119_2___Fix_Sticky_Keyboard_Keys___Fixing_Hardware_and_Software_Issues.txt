@@ -1,0 +1,38 @@
+Fix Sticky Keyboard Keys
+https://www.wikihow.com/Fix-Sticky-Keyboard-Keys
+
+0 - Fixing Hardware and Software Issues
+
+1 - Make sure that the keyboard is plugged in properly.
+Make sure that the keyboard is plugged in properly. To avoid software issues, your keyboard should be plugged directly into your computer rather than into a USB hub.[4]
+- X
+- Research source
+- 
+- If your keyboard uses batteries, make sure it's charged (or replace the batteries with fresh ones).
+
+2 - Update your keyboard's drivers
+Update your keyboard's drivers. Most of the time, keyboard issues can be tied to out-of-date drivers or software. You can fix the keyboard by updating the driver or software. The easiest way to ensure your drivers are up to date is by using your computer's update utility:
+- 
+- Windows — Open Start, click the Settings gear, click Update & Security, click Windows Update, click Check for updates, and install any available updates.
+- Mac — Open the Apple menu, click App Store..., click the Updates tab, and click UPDATE ALL if it's available.
+- If you have a mechanical keyboard, another way you can update your keyboard's drivers is by going to the keyboard manufacturer's website, finding your model of keyboard, and looking for a driver download. You can then download the keyboard's driver file and double-click it to run it.
+
+3 - Reinstall the keyboard.
+Reinstall the keyboard. The easiest way to do this is by shutting down your computer, unplugging and then reattaching the keyboard, and turning back on the computer.[5]
+- X
+- Research source
+- 
+- 
+- If you have a laptop, skip this step.
+- You can reinstall Bluetooth keyboards by deleting them from the Bluetooth menu and then re-pairing them with your computer.
+
+4 - Determine which programs aren't working with your keyboard.
+Determine which programs aren't working with your keyboard. If you notice that specific programs aren't working with your keyboard (e.g., your web browser or Microsoft Word), make a note of those programs.
+- If your keyboard's key or group of keys aren't working with any programs on your computer, skip this step and the next step.
+
+5 - Update the program in which you're having trouble.
+Update the program in which you're having trouble. This won't always fix the keyboard issues, but if the program isn't completely up to date, updating it won't hurt.
+
+6 - Repair internal laptop connections.
+Repair internal laptop connections. If some of your laptop keys don't register when pressed, there could be a loose internal connection. Unless you have a guide for your model and are comfortable disassembling your laptop yourself, you should seek professional repairs.
+

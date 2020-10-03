@@ -1,0 +1,34 @@
+Fix a Stuck Pixel on an LCD Monitor
+https://www.wikihow.com/Fix-a-Stuck-Pixel-on-an-LCD-Monitor
+
+0 - Using Screen-Fixing Software
+
+1 - Understand how this method works.
+Understand how this method works. Screen-fixing software plays a random combination of red, green, and blue hues at a rate of up to 60 flashes per second in an attempt to jar the stuck pixel back into its usual cycle.
+- Screen-fixing software isn't guaranteed to work, but its success rate is usually above 50 percent.
+- There are paid versions of screen-fixing software, but free versions are just as effective at fixing stuck pixels that are still fixable.
+
+2 - Avoid using screen-fixing software if you have epilepsy.
+Avoid using screen-fixing software if you have epilepsy. Since screen-fixing programs display rapidly flashing lights in an erratic pattern, you'll want to avoid performing this process yourself if you (or anyone in your family) have epileptic seizures.
+
+3 - Open the JScreenFix website.
+Open the JScreenFix website. Go to http://www.jscreenfix.com/ in your browser. JScreenFix is a free, online app that can fix stuck pixels.
+
+4 - Scroll down and click Launch JScreenFix.
+Scroll down and click Launch JScreenFix. It's a blue button near the bottom of the page. This will open the JScreenFix program in your browser.
+
+5 - Find the stuck pixel.
+Find the stuck pixel. Most of the browser window will be black, so finding the stuck pixel should be easy.
+- If the stuck pixel isn't in the black section of the window, press F11 to make your browser full-screen. You may have to hold Fn while pressing F11 if the browser doesn't full-screen when pressing F11.
+
+6 - Move the pixel-fixer onto the stuck pixel.
+Move the pixel-fixer onto the stuck pixel. Click and drag the box of static over onto the pixel, then drop it there.
+
+7 - Leave the pixel-fixer for at least 10 minutes.
+Leave the pixel-fixer for at least 10 minutes. Make sure not to minimize the window, move the pixel-fixer, or turn off your monitor in the process.
+- If possible, leave the pixel-fixer in place for an hour.
+
+8 - Review the pixel's status.
+Review the pixel's status. Once you've left the pixel-fixer over the pixel for the allotted amount of time, close the window to view the pixel. If the pixel has been fixed, you're done.
+- If the pixel hasn't been fixed, consider shutting down your monitor for a day and then retrying this method. You can also proceed to using pressure and heat to try to fix your monitor, but doing so is not recommended.
+

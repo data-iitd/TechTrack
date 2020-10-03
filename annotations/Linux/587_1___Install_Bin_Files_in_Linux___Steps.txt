@@ -1,0 +1,39 @@
+Install Bin Files in Linux
+https://www.wikihow.com/Install-Bin-Files-in-Linux
+
+0 - Steps
+
+1 - If the bin file is an installer_self-extracting archive, first download the thing and keep it somewhere safe just to avoid having to download it again.
+If the bin file is an installer/self-extracting archive, first download the thing and keep it somewhere safe just to avoid having to download it again.
+- ;
+
+2 - Enter the terminal.
+Enter the terminal.
+
+3 - Enter Root mode, like so :
+Enter Root mode, like so : su - (the hyphen is required) and provide the root password.
+
+4 - If needed copy the bin file to its final output folder - packages like the Java Runtime Environment require this.
+If needed copy the bin file to its final output folder - packages like the Java Runtime Environment require this. Read the online instructions first...
+
+5 - Change directories (folders) to the one containing the bin file, like so :
+Change directories (folders) to the one containing the bin file, like so : cd /topmost/folder, for example cd /usr/share
+
+6 - Give the bin file execute permissions:
+Give the bin file execute permissions: chmod +x thefile.bin
+
+7 - Execute it:
+Execute it: ./thefile.bin - the dot-slash has to be there
+
+8 - If the bin file is the program itself, chances are the file is compressed, untar_unzip in the destination folder, Firefox comes like that.
+If the bin file is the program itself, chances are the file is compressed, untar/unzip in the destination folder, Firefox comes like that.
+
+9 - Copy the archive and unpack it in the output folder, that should produce a folder.
+Copy the archive and unpack it in the output folder, that should produce a folder.
+
+10 - Enter the folder, locate the program - it is a bin file, give it execute permissions if need be (see step 6).
+Enter the folder, locate the program - it is a bin file, give it execute permissions if need be (see step 6).
+
+11 - Make a starter for convenience, right-click on the desktop, select the option you need and follow the lead - an icon should appear.
+Make a starter for convenience, right-click on the desktop, select the option you need and follow the lead - an icon should appear.
+

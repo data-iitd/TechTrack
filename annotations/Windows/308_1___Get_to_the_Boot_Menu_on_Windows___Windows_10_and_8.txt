@@ -1,0 +1,24 @@
+Get to the Boot Menu on Windows
+https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows
+
+0 - Windows 10 and 8
+
+1 - Click the  button.
+Click the  button. It’s usually at the bottom-left corner of the screen.
+- ;
+
+2 - Click .
+Click .
+
+3 - Press ⇧ Shift as you click Restart.
+Press ⇧ Shift as you click Restart. The computer will power off and back on. Instead of booting to the desktop, you’ll see a blue menu titled “Choose an option.”
+
+4 - Click Troubleshoot.
+Click Troubleshoot.
+
+5 - Click Advanced Options.
+Click Advanced Options.
+
+6 - Click Startup Settings.
+Click Startup Settings. You are now at the Windows boot (Startup Settings) menu.
+

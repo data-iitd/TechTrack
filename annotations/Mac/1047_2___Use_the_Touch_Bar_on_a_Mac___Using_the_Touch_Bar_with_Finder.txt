@@ -1,0 +1,25 @@
+Use the Touch Bar on a Mac
+https://www.wikihow.com/Use-the-Touch-Bar-on-a-Mac
+
+0 - Using the Touch Bar with Finder
+
+1 - Tap the < and > buttons to move back and forth.
+Tap the < and > buttons to move back and forth. This will take you to the previous location or the location you just came from.
+
+2 - Tap the Sort button to change the sorting.
+Tap the Sort button to change the sorting. This will display a new set of options in the Touch Bar. You can tap how you want icons displayed, as well as the sorting order.
+
+3 - Tap the Eye button to open Quick Look.
+Tap the Eye button to open Quick Look. This will display the items in your Quick Look folder.
+
+4 - Tap  (share button) to share your selected files.
+Tap  (share button) to share your selected files. This button looks like a square with an arrow coming out of the top. You'll see all of the different sharing options appear, including Mail, Messages, AirDrop, Notes, and any other app that supports file sharing. Swipe left and right to see more options.
+- Tapping a sharing option will open that app with the selected files added for sharing.
+- The Share button is not available unless files are selected.
+
+5 - Tap the Tag button to add tags to files and folders.
+Tap the Tag button to add tags to files and folders. This allows you to color code your files and folders for easy identification.
+
+6 - Tap the X to close.
+Tap the X to close. This will close any open submenu in the Touch Bar and return to the Finder navigation menu.
+

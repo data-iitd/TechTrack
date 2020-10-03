@@ -1,0 +1,12 @@
+T1	Software-OS-Related 2335 2344	Uninstall
+A1	isSettingsChanged T1 true
+A2	isOpened T1 f->t
+T2	Software-OS-Related 191 196	Start
+A3	isOpened T2 f->t
+T3	Software-OS-Related 332 340	Settings
+A4	isOpened T3 f->t
+T4	Software-OS-Related 512 518	System
+A5	isOpened T4 f->t
+T5	Software-OS-Related 696 713	Apps and features
+A6	isOpened T5 f->t
+R1	SubPart Arg1:T1 Arg2:T5	

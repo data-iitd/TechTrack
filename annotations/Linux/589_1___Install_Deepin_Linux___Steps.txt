@@ -1,0 +1,67 @@
+Install Deepin Linux
+https://www.wikihow.com/Install-Deepin-Linux
+
+0 - Steps
+
+1 - Create a bootable USB to install Deepin.
+Create a bootable USB to install Deepin. Download the ISO file at https://www.deepin.org/en/ You can use any USB boot-making software to make a bootable USB. Also, make sure that the USB can hold at least 8 GB. Wait for the ISO file to download before proceeding.
+- ;
+
+2 - Reboot into the BIOS, go to the boot order, and set the USB to boot first.
+Reboot into the BIOS, go to the boot order, and set the USB to boot first.
+- Common keys for BIOS are usually Esc, Del, F2, or F12.
+
+3 - Save the changes and reboot.
+Save the changes and reboot.
+- If you are using a UEFI-based system, then while using Windows, hold ⇧ Shift, click Restart, and choose UEFI Firmware Settings. Then change the boot order from there. Make sure Secure boot is disabled.
+
+4 - At the boot menu, select Install Deepin and wait until it has booted.
+At the boot menu, select Install Deepin and wait until it has booted.
+- You don't need to select "Deepin Failsafe" unless needed.
+- At the menu, if you're installing on a laptop, connect the laptop to a power source.
+
+5 - When booted, select your system language and click Next.
+When booted, select your system language and click Next.
+- The default language is usually Chinese or UK English.
+- If running in a virtual machine, you will get a notification recommending you to install it on a real machine to improve the performance and operation of the software.
+
+6 - Create your user account with the name and password of your choice.
+Create your user account with the name and password of your choice.
+- The computer name that you choose is your choice. If you don't input anything, it will generate one based on your name.
+- The first letter of your name has to be lowercase.
+
+7 - Select your disk or partition that you want to install Deepin on.
+Select your disk or partition that you want to install Deepin on.
+- If you want a dual-boot configuration, select a partition besides your Windows partition or your installed operating system.
+- Be careful not to install on your EFI partition.
+- You can create partitions using Linux live media, your installed operating system partition editor, or the Advanced section for editing partitions.
+- To do a single boot configuration, select your installed operating system partition.
+- Your computer needs at least 16 GB of storage space for installation.
+- You will need to have enough storage space for a swap partition.
+
+8 - Click Continue at the warning.
+Click Continue at the warning.
+- Be sure to read what drive or partition you're installing on.
+
+9 - Let it install.
+Let it install. This usually takes about 15-25 minutes depending on your system speed.
+- While it's installing, it will present a slideshow displaying the features of Deepin.
+
+10 - When it's done, you can now reboot.
+When it's done, you can now reboot.
+- If it fails, you can try reinstalling it again.
+- If reinstalling does not solve the problem, your system may not be compatible with Deepin. Deepin requires a computer with at least 2 GB of RAM, a 64-bit system, and a model of 2010 or newer.
+
+11 - Boot into the BIOS and change the boot order to boot from the hard drive first.
+Boot into the BIOS and change the boot order to boot from the hard drive first.
+
+12 - Save the changes and reboot.
+Save the changes and reboot.
+
+13 - Log in to Deepin.
+Log in to Deepin.
+
+14 - You can now experience Deepin's desktop and features!
+You can now experience Deepin's desktop and features!
+- Deepin is quite processor-heavy, so it could lag your computer.
+

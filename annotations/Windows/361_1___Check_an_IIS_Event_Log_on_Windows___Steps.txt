@@ -1,0 +1,29 @@
+Check an IIS Event Log on Windows
+https://www.wikihow.com/Check-an-IIS-Event-Log-on-Windows
+
+0 - Steps
+
+1 - Click the search button on your computer's taskbar.
+Click the search button on your computer's taskbar. This button looks like a white magnifier icon next to the Start menu in the lower-left corner of your screen.
+- If you're using Cortana, this button will look like a white circle.
+- ;
+
+2 - Enter Event Viewer into the search.
+Enter Event Viewer into the search. This will list all the matching results as you type.
+
+3 - Click Event Viewer in the search results.
+Click Event Viewer in the search results. Your Windows system's stock Event Viewer app should show up at the top of the results. Clicking will open it in a new window.
+
+4 - Click the  icon next to the Windows Logs folder.
+Click the  icon next to the Windows Logs folder. You can find this folder on the Event Viewer's left sidebar. It will expand log categories below the folder name.
+
+5 - Click Application below Windows Logs on the sidebar.
+Click Application below Windows Logs on the sidebar. This will list all the application logs on the right-hand side of the Event Viewer window.
+
+6 - Click the Source heading at the top of the list.
+Click the Source heading at the top of the list. The Event Viewer is organized by columns like Level, Date and Time, Source, and Event ID at the top. Click Source here to put the list in alphabetical order according to log source.
+- You will see "IIS" in the Source column for all IIS events.
+
+7 - Double-click an IIS event log on the list.
+Double-click an IIS event log on the list. When you find the event you want to check, double-click on it to see the recorded log.
+

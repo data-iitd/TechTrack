@@ -1,0 +1,22 @@
+Update DirectX Settings
+https://www.wikihow.com/Update-DirectX-Settings
+
+0 - Checking Your Version of DirectX
+
+1 - Click the Windows Start menu .
+Click the Windows Start menu .  It's the button that has a Windows icon in the taskbar.  By default, it's in the lower-left corner of your desktop.
+- ;
+
+2 - Type dxdiag.
+Type dxdiag.  This displays a list of matching applications in the Windows Start menu.
+
+3 - Click dxdiag.
+Click dxdiag.  It's next to a purple icon with a yellow "X".  It's at the top of the Windows Start menu.  This displays the DirectX Diagnostic Tool.
+
+4 - Click the System tab.
+Click the System tab.  It's the first tab at the top of the DirectX Diagnostic Tool window.  This displays the "System Information" list.
+
+5 - Check your version of DirectX.
+Check your version of DirectX.  It's next to "DirectX Version" at the bottom of the "System Information" list.  The latest version of DirectX is DirectX 12.
+- Click the other tabs at the top of the DirectX Diagnostic Tool, and then look at the box at the bottom of the window to see if there are any detected problems with DirectX.
+

@@ -1,0 +1,7 @@
+T1	Software-OS-Related 153 159	Camera
+A1	isOpened T1 f->t
+T2	Software-OS-Related 537 556	white camera button
+T3	Software-OS-Related 842 861	white camera button
+T4	Software-OS-Related 1506 1512	✓ Done
+A2	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	

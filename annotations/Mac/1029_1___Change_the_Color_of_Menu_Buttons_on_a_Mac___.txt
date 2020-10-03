@@ -1,0 +1,22 @@
+Change the Color of Menu Buttons on a Mac
+https://www.wikihow.com/Change-the-Color-of-Menu-Buttons-on-a-Mac
+
+0 - 
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the apple logo at the top left of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click General.
+Click General. It's the first button listed on the System Preferences window.
+
+4 - Click the "Appearance" drop-down menu.
+Click the "Appearance" drop-down menu.
+
+5 - Click on a color.
+Click on a color. You can choose from either Blue or Graphite.
+- This change will affect the color of buttons, menus, and windows.
+

@@ -1,0 +1,46 @@
+T1	Software-OS-Related 176 198	Ubuntu Software Center
+A1	isOpened T1 f->t
+T2	Software-OS-Related 359 371	Gnome Tweaks
+A2	isSettingsChanged T2 true
+T3	Software-Other 507 519	GNOME Tweaks
+T4	Software-Other 647 654	Install
+A4	isInstalled T4 f->t
+T5	Software-Other 751 759	password
+A5	isSettingsChanged T5 true
+T6	Software-Other 770 782	Authenticate
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1090 1101	Ubuntu icon
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1355 1363	terminal
+A8	isOpened T8 f->t
+T9	Software-Other 1523 1566	sudo apt-get install gnome-shell-extensions
+A9	isInstalled T9 f->t
+T10	Software-OS-Related 1971 1978	Log Out
+A10	isSettingsChanged T10 true
+T11	Software-Other 2079 2091	GNOME Tweaks
+A11	isOpened T11 f->t
+T12	Software-Other 2476 2486	Extensions
+A12	isOpened T12 f->t
+T13	Software-Other 2605 2641	toggle switch next to "User Themes".
+A13	isSettingsChanged T13 true
+T14	Software-Other 2726 2736	Appearance
+A14	isOpened T14 f->t
+T15	Software-Other 2853 2886	drop-down menus to select themes.
+A15	isSettingsChanged T15 true
+T16	Software-Other 3077 3121	file icon next to "Image" below "Background.
+A16	isOpened T16 f->t
+T17	Software-Other 3286 3292	Select
+A17	isSettingsChanged T17 true
+T18	Software-Other 3437 3478	icon next to "Image" below "Lock Screen."
+A18	isOpened T18 f->t
+T19	Software-Other 3616 3622	Select
+A19	isSettingsChanged T19 true
+R1	SubPart Arg1:T13 Arg2:T12	
+R2	SubPart Arg1:T17 Arg2:T14	
+R3	SubPart Arg1:T19 Arg2:T14	
+A20	isOpened T3 f->t
+R4	SubPart Arg1:T2 Arg2:T1	
+R5	SubPart Arg1:T5 Arg2:T4	
+R6	SubPart Arg1:T6 Arg2:T4	
+R7	SubPart Arg1:T15 Arg2:T14	
+R8	SubPart Arg1:T10 Arg2:T8	

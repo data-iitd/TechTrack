@@ -1,0 +1,22 @@
+T1	Software-OS-Related 161 170	Automator
+A1	isOpened T1 f->t
+T2	Software-OS-Related 296 304	Workflow
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 319 325	Choose
+A3	isOpened T3 f->t
+T4	Software-OS-Related 412 427	Files & Folders
+A4	isOpened T4 f->t
+T5	Software-OS-Related 458 465	Library
+A5	isOpened T5 start-T
+T6	Software-OS-Related 866 885	Rename Finder Items
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1049 1052	Add
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1072 1083	"Don't Add.
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1417 1425	Add text
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1698 1710	Replace text
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 2086 2089	Run
+A11	isSettingsChanged T11 true

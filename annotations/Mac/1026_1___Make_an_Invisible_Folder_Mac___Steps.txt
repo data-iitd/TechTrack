@@ -1,0 +1,45 @@
+Make an Invisible Folder (Mac)
+https://www.wikihow.com/Make-an-Invisible-Folder-(Mac)
+
+0 - Steps
+
+1 - Make a new folder.
+Make a new folder. If you already have one prepared, skip this step.
+- ;
+
+2 - Take a screenshot of any part of your desktop using [Command+Shift+4] and then dragging to form an area.
+Take a screenshot of any part of your desktop using [Command+Shift+4] and then dragging to form an area.
+
+3 - Open this picture up in preview.
+Open this picture up in preview. Now here's where it gets complicated.
+
+4 - Open up the toolbar in Preview and select the 'Instant Alpha' function.
+Open up the toolbar in Preview and select the 'Instant Alpha' function.
+
+5 - Click and drag with Instant Alpha on until the entire picture is red, then release.
+Click and drag with Instant Alpha on until the entire picture is red, then release. It will select the entire picture.
+
+6 - Press delete and then once you can no longer see the picture, type [Command+A].
+Press delete and then once you can no longer see the picture, type [Command+A]. This will select the blank space where the picture used to be.
+
+7 - Type [Command+C] to copy that area.
+Type [Command+C] to copy that area. You can now exit out of Preview.
+
+8 - Right click on the folder you just made _ had and select Get Info.
+Right click on the folder you just made / had and select Get Info.
+
+9 - In the top left hand corner there will be a Folder Icon.
+In the top left hand corner there will be a Folder Icon. Click on this. It should be highlighted in blue.
+
+10 - Now (with the icon selected) type [Command+V] to paste the blank picture in.
+Now (with the icon selected) type [Command+V] to paste the blank picture in. There will no longer be an icon visible, and the folder will disappear from your desktop.
+
+11 - Now all you have to do is rename the folder (highlight the folder and press Enter) to several spaces (press the spacebar a couple times) and there will be no trace of it on your desktop.
+Now all you have to do is rename the folder (highlight the folder and press Enter) to several spaces (press the spacebar a couple times) and there will be no trace of it on your desktop.
+
+12 - The only thing you have left to do is to left click and drag your mouse over the vicinity that the folder was in, drag the folder over to a corner of your desktop where you hardly put files, and then deselect it.
+The only thing you have left to do is to left click and drag your mouse over the vicinity that the folder was in, drag the folder over to a corner of your desktop where you hardly put files, and then deselect it.
+
+13 - When you want to open it again, just select the vicinity again and double click the area where the name of the folder would be.
+When you want to open it again, just select the vicinity again and double click the area where the name of the folder would be.
+

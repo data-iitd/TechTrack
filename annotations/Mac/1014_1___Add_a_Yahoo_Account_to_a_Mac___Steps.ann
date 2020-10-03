@@ -1,0 +1,17 @@
+T1	Software-OS-Related 144 154	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 275 293	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 340 357	Internet Accounts
+A3	isOpened T3 f->t
+T4	Software-Other 459 465	Yahoo!
+A4	isOpened T4 f->t
+T5	Software-Other 828 832	Next
+A5	isSettingsChanged T5 true
+R3	SubPart Arg1:T5 Arg2:T4	
+T6	Software-Other 672 676	Next
+A6	isSettingsChanged T6 true
+R4	SubPart Arg1:T6 Arg2:T4	
+T7	Software-Other 893 903	checkboxes
+A7	isSettingsChanged T7 true
+R5	SubPart Arg1:T7 Arg2:T4	

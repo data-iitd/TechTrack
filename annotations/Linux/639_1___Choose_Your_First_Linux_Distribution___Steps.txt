@@ -1,0 +1,34 @@
+Choose Your First Linux Distribution
+https://www.wikihow.com/Choose-Your-First-Linux-Distribution
+
+0 - Steps
+
+1 - Consider your hardware, especially your Internet connection.
+Consider your hardware, especially your Internet connection. Try to find something that supports the specs of your computer and everything you have.
+- ;
+
+2 - If this is your first time using Linux consider trying Ubuntu or OpenSuSE.
+If this is your first time using Linux consider trying Ubuntu or OpenSuSE.
+
+3 - A distribution is basically a customized Linux kernel with a unique collection of software, almost always containing GNU tools (hence the name, GNU_Linux).
+A distribution is basically a customized Linux kernel with a unique collection of software, almost always containing GNU tools (hence the name, GNU/Linux). A good distribution will have a compiler and linker (like GCC), a desktop environment, support for most hardware, and a packaging system (RPM, TGZ, DEB, etc.). Consider the other software you would like. Websites like http://www.distrowatch.com offer a comprehensive and up to date list of virtually all Linux distributions available.
+
+4 - One of the best ways to find a flavor of Linux that's just right for you and your hardware is a LiveDistro which allows you to boot and run on your hardware before you decide to install it!
+One of the best ways to find a flavor of Linux that's just right for you and your hardware is a LiveDistro which allows you to boot and run on your hardware before you decide to install it! Some (like Puppy Linux) even allow you to save to disc or USB if you have no hard drive installed.
+
+5 - If you're on dial-up, don't attempt to download distributions.
+If you're on dial-up, don't attempt to download distributions. Instead, either buy them online or buy or borrow a Linux book with a distribution included.
+
+6 - It's also a very good idea to check the distribution's homepage and forum.
+It's also a very good idea to check the distribution's homepage and forum. An active forum ensures a good source of help if problems should arise!
+
+7 - If you download a distribution use the md5sum command to verify that your program is "correct.
+If you download a distribution use the md5sum command to verify that your program is "correct." Some linux websites like Ubuntu even provide guides on how to run the md5sum command on the iso file.
+
+8 - Burn the image file (.iso) "as an image" (not as a data disc) with disc authoring software (InfraRecorder or Nero)
+
+Burn the image file (.iso) "as an image" (not as a data disc) with disc authoring software (InfraRecorder or Nero)
+
+9 - If everything went well, you now have a bootable LiveDistro.
+If everything went well, you now have a bootable LiveDistro. The only thing you need to do now is reinsert the disc you just made and reboot the machine!
+

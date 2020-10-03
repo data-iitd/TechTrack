@@ -1,0 +1,30 @@
+T1	Software-OS-Related 170 173	⋮⋮⋮
+A1	isOpened T1 f->t
+T2	Software-OS-Related 203 211	Terminal
+A2	isOpened T2 f->t
+T3	Software-Other 306 341	Remove any current versions of Java
+A3	isInstalled T3 t->f
+T4	Software-Other 624 659	Enter the Java installation command
+A4	isInstalled T4 f->t
+T5	Software-Other 808 843	Remove any old versions of software
+A5	isInstalled T5 t->f
+T6	Software-Other 1117 1132	Update packages
+A6	isSettingsChanged T6 true
+T7	Software-Other 1274 1307	Access the Oracle Java repository
+A7	isSettingsChanged T7 true
+T8	Software-Other 1661 1665	Java
+A8	isOpened T8 f->t
+T9	Software-Other 1940 1970	Agree to the Java terms of use
+A9	isSettingsChanged T9 true
+T10	Software-Other 2318 2339	Java 9 as the default
+A10	isSettingsChanged T10 true
+T11	Software-Other 2486 2509	Check your Java version
+A11	isSettingsChanged T11 true
+T12	Software-Other 2655 2682	Update all of your packages
+A12	isSettingsChanged T12 true
+R1	SubPart Arg1:T6 Arg2:T4	
+R2	SubPart Arg1:T7 Arg2:T4	
+R3	SubPart Arg1:T9 Arg2:T8	
+R4	SubPart Arg1:T10 Arg2:T8	
+R5	SubPart Arg1:T11 Arg2:T8	
+R6	SubPart Arg1:T12 Arg2:T8	

@@ -1,0 +1,33 @@
+Use Radio Tray on Linux
+https://www.wikihow.com/Use-Radio-Tray-on-Linux
+
+0 - Adding New Radio Stations
+
+1 - Click Preferences
+
+Click Preferences
+
+2 - Click Configure Radios 
+
+Click Configure Radios
+
+3 - Click Add
+
+Click Add
+
+4 - Type in the name of the Radio Station and the Direct address of the radio station (not the URL at the top of the page) and the group then click Save.
+Type in the name of the Radio Station and the Direct address of the radio station (not the URL at the top of the page) and the group then click Save.
+- The direct address should be listed somewhere on the radio station's website. If not, you will need a URL sniffer.
+- If your new radio station doesn't fit any of the preselected genres, choose the root genre for now.
+
+5 - To add a new group, click Add Group.
+To add a new group, click Add Group.
+
+6 - Type in the name of your new group and select a parent group and press Save.
+Type in the name of your new group and select a parent group and press Save.
+- If you select the parent group as root, you'll find the new group here.
+- 
+- 
+- If you select the parent group as something else (for example "Classic Rock"), you'll find the new group underneath that group. 
+- WH.shared.addScrollLoadItem('59c28eda5d9053e12df6e31cf8a30ed4')
+

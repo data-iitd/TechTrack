@@ -1,0 +1,33 @@
+Connect a Laptop to a Monitor
+https://www.wikihow.com/Connect-a-Laptop-to-a-Monitor
+
+0 - Adjusting Display Settings on Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences….
+Click System Preferences…. It's near the top of the drop-down menu. Doing so opens the System Preferences window.[3]
+- X
+- Expert Source
+- Luigi Oppido. Computer Repair Technician
+- Expert Interview.  20 August 2019.
+
+3 - Click Displays.
+Click Displays. This computer monitor-shaped icon is in the middle of the System Preferences window.
+
+4 - Click the Displays tab.
+Click the Displays tab. It's in the upper-left corner of the window.
+
+5 - Change the monitor's resolution.
+Change the monitor's resolution. Check the "Scaled" box, then click a resolution.
+- You can't use a resolution that's higher than your monitor's built-in resolution (e.g., 4K).
+
+6 - Change the screen scaling.
+Change the screen scaling. Click and drag the "Underscan" slider that's at the bottom of the page left to show more of your Mac's screen on the monitor or right to zoom in the screen.
+- This will help you fit your Mac's screen to the monitor if the image on the monitor is too large or too small.
+
+7 - Extend your Mac's screen if needed.
+Extend your Mac's screen if needed. If you want to use the monitor as an extension of your Mac's screen (e.g., as space to the right of your Mac's screen), click the Arrangement tab at the top of the window and then uncheck the "Mirror Displays" box below the screen arrangement window.
+- You can also adjust the position of the menu bar here by clicking and dragging the white rectangle at the top of the screen arrangement window left or right.
+

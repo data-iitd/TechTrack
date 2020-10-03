@@ -1,0 +1,9 @@
+T4	Software-OS-Related 367 384	Compatibility tab
+A4	isOpened T4 f->t
+T5	Software-OS-Related 430 447	Run in 256 Colors
+T1	Software-OS-Related 171 181	Start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 293 303	Properties
+A2	isOpened T2 f->t
+A3	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T2	

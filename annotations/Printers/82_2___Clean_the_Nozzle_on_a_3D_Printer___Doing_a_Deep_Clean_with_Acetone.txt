@@ -1,0 +1,53 @@
+Clean the Nozzle on a 3D Printer
+https://www.wikihow.com/Clean-the-Nozzle-on-a-3D-Printer
+
+0 - Doing a Deep Clean with Acetone
+
+1 - Scrub any stuck-on material on the outside with a wire brush.
+Scrub any stuck-on material on the outside with a wire brush. Leave your nozzle on your printer so it’s held securely. Work in back-and-forth motions and apply firm pressure with your brush to scrape any filament residue off. Change the angle and direction of your brush as you work.[6]
+- X
+- Research source
+- 
+- 
+- Wire brushes can be purchased from your local hardware store.
+- Check the nozzle’s packaging to see if it’s safe to use a metal brush on it.
+
+2 - Heat the nozzle to 150 °C (302 °F).
+Heat the nozzle to 150 °C (302 °F). Heating the nozzle helps loosen the threads and make it easier to remove. Set the temperature to at least 150 °C (302 °F) so the metal can expand.[7]
+- X
+- Research source
+- 
+- Removing a nozzle cold could damage the threads and make it more difficult to screw back on.
+
+3 - Remove the nozzle with a wrench.
+Remove the nozzle with a wrench. Once the nozzle is heated, secure a wrench to the nozzle and rotate it counterclockwise to remove it. Set the nozzle on a surface that won’t get damaged by the heat.[8]
+- X
+- Research source
+- 
+- Don’t touch the nozzle with your bare hands or else you will get burned.
+
+4 - Submerge the nozzle in acetone for 15 minutes before drying it.
+Submerge the nozzle in acetone for 15 minutes before drying it. Fill a container with enough acetone so your nozzle is completely submerged. Leave the nozzle alone for 15 minutes so the acetone has time to break down. Then, take the nozzle out of the acetone and dry it with a lint-free cloth or paper towel.[9]
+- X
+- Research source
+- 
+- 
+- Acetone is commonly used as nail polish remover and can be purchased at your local drugstore.
+- The acetone helps loosen the dirt and grime on the outside of your nozzle as well as breaks apart the filament inside.
+
+5 - Heat the nozzle with a heat gun for 1 minute.
+Heat the nozzle with a heat gun for 1 minute. Set a heat gun so it’s pointing straight up and turn it on. Grab the nozzle with a pair of pliers and hold it directly above the heating unit. Let the nozzle heat up completely, rotating it around so it’s evenly distributed. At this time, any filament residue should loosen up more. After 1 minute, turn the heat gun off and set it aside.[10]
+- X
+- Research source
+- 
+- 
+- Heat guns can be bought from hardware stores.
+- Don’t point the heat gun directly at anyone since it could cause burns over time.
+
+6 - Push any clog through the nozzle with a thin wire or needle.
+Push any clog through the nozzle with a thin wire or needle. Keep a firm grip on the nozzle with your pliers while you poke a wire or needle into the nozzle. Scrape the sides on the inside of the nozzle to remove any residue. Continue cleaning the nozzle until the clog is removed and you can see through it.[11]
+- X
+- Research source
+- 
+- Wipe the wire or needles clean whenever there’s residue stuck on them.
+

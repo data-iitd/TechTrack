@@ -1,0 +1,38 @@
+Install Java on Linux
+https://www.wikihow.com/Install-Java-on-Linux
+
+0 - Installing on RPM Linux
+
+1 - Open the Java for Linux download page.
+Open the Java for Linux download page. You'll see several options listed here.
+
+2 - Click Linux RPM.
+Click Linux RPM. It's in the middle of the page. Doing so will prompt the Java for RPM installation file to download.
+- You can also click the Linux RPM X64 version if you want to install 64-bit Java.
+
+3 - Note the file's name.
+Note the file's name. The latest version of Java is version 8, but you also need the update version number, which is written in the file name after the "8u" section.
+- For example, your file might be named "jre-8u151", signifying that it is version 8, update 151.
+
+4 - Open the command line.
+Open the command line. This step will vary depending on your version of Linux, but you can usually find the command line by opening the Terminal app or by clicking a bar at the top or bottom of the screen.
+
+5 - Enter the root command.
+Enter the root command. Type in sudo su and press ↵ Enter. This will prompt the command line to request your user password.[1]
+- X
+- Research source
+
+6 - Enter your account password.
+Enter your account password. Type in the password for your account and press ↵ Enter. As long as you have root access on your account, doing so will allow you to install Java.
+- If you don't have root access on your account, you'll need to enter the password for an account that does have root access.
+
+7 - Change the installation directory.
+Change the installation directory. Type cd into console, press the spacebar once, and then type in the path (e.g., /usr/java/ and press ↵ Enter.
+
+8 - Enter the installation command.
+Enter the installation command. Type in rpm -ivh, press the spacebar once, type in the full file name, and press ↵ Enter. This will install Java on your computer.
+- The file name will depend on when you downloaded the file. As of October 2017, you'd type in rpm -ivh jre-8u151-linux-i586.rpm and press ↵ Enter.
+
+9 - Upgrade the download.
+Upgrade the download. Type in rpm -Uvh jre-8u73-linux-i586.rpm and press ↵ Enter. This will check for updates for the Java package and, if possible, apply them.
+

@@ -1,0 +1,11 @@
+T1	Hardware-Devices 160 167	printer
+A1	isPowered T1 f->t
+T2	Software-Other 654 663	Canon app
+T3	Software-Other 673 690	Google Play Store
+T4	Software-Other 694 703	App Store
+T5	Hardware-Other 1132 1144	mobile phone
+T6	Hardware-Other 1367 1373	tablet
+T7	Hardware-Other 1358 1363	phone
+T8	Software-Other 1340 1349	Canon app
+A2	isOpened T8 f->t
+T9	Hardware-Other 1937 1949	Wi-Fi router

@@ -1,0 +1,17 @@
+T1	Hardware-Other 182 188	screen
+T2	Hardware-Other 272 283	LCD display
+T3	Hardware-Other 319 331	screen cover
+T4	Hardware-Devices 509 526	TV/phone/computer
+T5	Hardware-Devices 545 562	TV/computer/phone
+T6	Hardware-Devices 798 804	screen
+T7	Software-OS-Related 900 913	search engine
+T8	Software-OS-Related 1281 1287	search
+T9	Software-Other 1295 1301	Amazon
+T10	Software-Other 1305 1309	eBay
+T11	Hardware-Devices 1555 1561	screen
+T12	Hardware-Devices 1601 1603	TV
+T13	Hardware-Devices 1711 1717	screen
+T14	Hardware-Devices 1783 1789	screen
+T15	Hardware-Devices 2169 2175	screen
+T16	Hardware-Other 2201 2217	screen protector
+T17	Hardware-Other 720 726	laptop

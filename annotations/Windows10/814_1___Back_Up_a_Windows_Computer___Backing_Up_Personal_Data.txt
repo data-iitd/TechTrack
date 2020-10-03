@@ -1,0 +1,44 @@
+Back Up a Windows Computer
+https://www.wikihow.com/Back-Up-a-Windows-Computer
+
+0 - Backing Up Personal Data
+
+1 - Connect another hard drive or flash drive to the computer.
+Connect another hard drive or flash drive to the computer. This method will help you back up your personal files and folders to another location. This is a faster option that doesn't include a Windows image. If you’re backing up to an external or flash drive, make sure it’s connected to the computer before you begin.
+- ;
+
+2 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the search bar.
+
+3 - Type control panel.
+Type control panel.
+
+4 - Click Control Panel.
+Click Control Panel.
+
+5 - Type backup into the search field.
+Type backup into the search field. It’s at the top-right corner of the Control Panel.
+
+6 - Click Backup and Restore (Windows 7).
+Click Backup and Restore (Windows 7). Don’t worry about the “Windows 7” part, that’s just the name of the tool.
+
+7 - Click Set up backup.
+Click Set up backup.
+
+8 - Select a backup location.
+Select a backup location. If you’re backing up to a drive, select that drive now. Otherwise, click Save on a network… and then select the network location.
+
+9 - Click Next.
+Click Next.
+
+10 - Choose which files to back up.
+Choose which files to back up. This depends on your needs:
+- Select Let Windows choose (recommended) to automatically select everything in your libraries (such as documents, music, photos, and default folders).
+- Select Let me choose to select files and folders manually.
+
+11 - Click Next.
+Click Next. A summary of your backup will appear for your review.
+
+12 - Click Save settings and exit.
+Click Save settings and exit. Windows will now back up the selected files and folders to the other location. The amount of time this will take varies by file size and amount.
+

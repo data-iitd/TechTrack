@@ -1,0 +1,31 @@
+Burn a CD Using Mac OS X
+https://www.wikihow.com/Burn-a-CD-Using-Mac-OS-X
+
+0 - Burning an Audio CD
+
+1 - Open iTunes.
+Open iTunes. Create a new playlist by clicking File, then hovering the mouse over New. Select Playlist from the menu that appears.
+- You can rename the playlist by clicking on the playlist name in the right frame after creating it. The playlist name will be the name of the CD, and will display when you insert the CD in a compatible reader.
+- ;
+
+2 - Add songs to your playlist.
+Add songs to your playlist. Click and drag desired songs onto the playlist. You can also add an entire album at once by clicking and dragging on its cover image.
+- A standard audio CD can accommodate a max of 80 minutes of playback, meaning that your playlist should run at around 1.2 or 1.3 hours maximum. (This can be found at the bottom of the window.) Since this is an imprecise way of measuring, some 1.3-hr playlists will be shorter than 80 minutes and some will be longer. (You will find out for sure when you try to burn.)
+
+3 - Rearrange the playlist order
+Rearrange the playlist order if desired. There is a dropdown menu above the entries in your playlist, below the title. Select the method that you would like to sort the playlist. To put the songs in the order you want, click Manual Order and then click and drag the songs around inside the playlist.
+
+4 - Insert a blank CD.
+Insert a blank CD. Click File, then select Burn Playlist to Disc. If the playlist is too long, you will be given the option to spread it across multiple discs. You can do this if desired or cancel the burn and modify the playlist.
+- If you’re not sure how to open the CD slot, go to Controls in the iTunes toolbar and click Eject Disc. This should open it regardless of whether or not there’s anything in there.
+- You usually need to use a CD for audio discs. There are DVD audio players, but they are quite rare.
+
+5 - Choose your burn settings.
+Choose your burn settings. In iTunes 10 or earlier, the burn will begin automatically. In iTunes 11, you are given the option to adjust your burning preferences before the burn process begins.
+- You can adjust the burn speed. Higher is faster, but very high speeds may cause disc errors on older systems or cheap CDs.
+- You can choose whether or not to place a gap between songs.
+- You can select your format. Audio CD is the most common and will work in virtually any CD player. MP3 CDs require special players to run. Only do this if you’re sure your player is compatible and all the songs on your playlist are MP3s (and not AACs, for example).
+
+6 - Click Burn when ready.
+Click Burn when ready. The iTunes display will show the progress of the CD burn. iTunes will play an alert sound when the burn process is complete.
+

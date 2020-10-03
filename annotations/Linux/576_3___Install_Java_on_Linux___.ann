@@ -1,0 +1,8 @@
+T1	Software-OS-Related 93 105	command line
+A1	isOpened T1 f->t
+T2	Software-OS-Related 317 363	sudo apt-get update && sudo apt-get upgrade -y
+T3	Software-OS-Related 479 487	password
+T4	Software-Other 635 639	Java
+T5	Software-OS-Related 1065 1097	sudo apt-get install default-jre
+T6	Software-Other 1159 1163	Java
+A2	isInstalled T6 f->t

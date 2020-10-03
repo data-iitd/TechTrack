@@ -1,0 +1,16 @@
+T1	Software-Other 129 140	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 223 245	https:__www.7-zip.org_
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-Other 932 939	Install
+A4	isInstalled T3 f->t
+T4	Software-Other 1063 1081	7-Zip File Manager
+A5	isOpened T4 f->t
+T5	Software-Other 1260 1268	TAR file
+A6	isOpened T5 f->t
+T6	Software-Other 1597 1599	Ok
+A7	isSettingsChanged T6 true
+T7	Software-Other 1337 1351	extract button
+A8	isOpened T7 f->t
+R1	SubPart Arg1:T6 Arg2:T7	

@@ -1,0 +1,28 @@
+Enable Active Directory in Windows 10
+https://www.wikihow.com/Enable-Active-Directory-in-Windows-10
+
+0 - Installing Remote Server Administration Tools
+
+1 - Go to https:__www.microsoft.com_en-us_download_details.aspx?id=45520 in a web browser.
+Go to https://www.microsoft.com/en-us/download/details.aspx?id=45520 in a web browser. Active Directory does not come with Windows 10 by default so you’ll have to download it from Microsoft.
+- If you’re not using Windows 10 Professional or Enterprise, the installation will not work.
+- ;
+
+2 - Click Download.
+Click Download. It’s the red button. You may have to scroll down a little to find it.
+
+3 - Click the empty box next to “File Name.
+Click the empty box next to “File Name.” This selects all of the files in the list.
+
+4 - Click Next.
+Click Next.
+
+5 - Download all 4 files to your computer.
+Download all 4 files to your computer. There are multiple files you’ll need to download, so click Save for all of them as indicated.
+
+6 - Open your Downloads folder.
+Open your Downloads folder. You’ll find it in This PC or on the desktop.
+
+7 - Install all 4 files.
+Install all 4 files. Double-click the first of the files, then follow the on-screen instructions to complete the installation. Do the same with the other files you just downloaded.
+

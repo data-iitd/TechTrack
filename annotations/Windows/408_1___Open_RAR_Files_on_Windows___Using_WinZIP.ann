@@ -1,0 +1,11 @@
+T1	Software-Other 277 283	WinZIP
+A1	isInstalled T1 f->t
+T2	Software-Other 114 129	WinZIP download
+A2	isInstalled T2 f->t
+T3	Software-Other 591 597	WinZIP
+A3	isOpened T3 f->t
+T4	Software-Other 1037 1041	File
+A4	isOpened T4 f->t
+T5	Software-Other 1053 1057	Open
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1562 1569	Extract

@@ -1,0 +1,41 @@
+Install Windows 95
+https://www.wikihow.com/Install-Windows-95
+
+0 - 
+
+1 - Firstly, got to http:__www.msfn.org_board_topic_141402-windows-95-21ghz-cpu-limit-broken_
+
+Firstly, got to http://www.msfn.org/board/topic/141402-windows-95-21ghz-cpu-limit-broken/
+
+2 - Scroll down until you see FIX95CPU_V3_FINAL.ZIP and click this hyperlink to begin the download.
+Scroll down until you see FIX95CPU_V3_FINAL.ZIP and click this hyperlink to begin the download.
+
+3 - Click the little arrow next to FIX95CPU_V3_FINAL.ZIP as shown in the picture and click Show in folder.
+Click the little arrow next to FIX95CPU_V3_FINAL.ZIP as shown in the picture and click Show in folder.
+
+4 - Right click the folder, and extract using the default Windows service by click Extract All... to a destination of your choosing.
+Right click the folder, and extract using the default Windows service by click Extract All... to a destination of your choosing.
+- You can also use a 3rd party program such as 7-Zip.
+
+5 - Read the readme.
+Read the readme.
+- This is so you can decide which file you need to use:
+- FIX95CPU.ISO and FIX95CPU.IMA is for use in a virtual machine
+- FIX95CPU.ISO can be used to burn to a CD
+- FIX95CPU.EXE is for writing to a floppy disk
+
+6 - Make sure the file you want to use is in the appropriate format (e.g.
+Make sure the file you want to use is in the appropriate format (e.g. a CD), insert it into your computer and boot the computer and press any key to continue when confronted with the message shown in the picture.
+
+7 - Decide whether you want to read the readme by press Y for Yes or N for No.
+Decide whether you want to read the readme by press Y for Yes or N for No.
+- No was selected here as the readme is exactly the same as the one in the zip folder.
+
+8 - When confronted with this message, press any key to continue.
+When confronted with this message, press any key to continue.
+- This will begin to fix the processor issues.
+
+9 - Press any key to restart the computer and remove the 'CD' from the computer.
+Press any key to restart the computer and remove the 'CD' from the computer.
+- If you don't remove the 'CD', it will begin an endless loop into this setup screen.
+

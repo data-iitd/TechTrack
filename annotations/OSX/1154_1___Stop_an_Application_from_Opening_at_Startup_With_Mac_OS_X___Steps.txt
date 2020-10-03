@@ -1,0 +1,24 @@
+Stop an Application from Opening at Startup With Mac OS X
+https://www.wikihow.com/Stop-an-Application-from-Opening-at-Startup-With-Mac-OS-X
+
+0 - Steps
+
+1 - Open the Apple Menu .
+Open the Apple Menu . Click the black Apple icon in the upper-left corner of the screen.
+- ;
+
+2 - Click on System Preferences….
+Click on System Preferences….
+
+3 - Click on Users & Groups.
+Click on Users & Groups. It's near the bottom of the dialog box.
+
+4 - Click on the Login Items tab.
+Click on the Login Items tab.
+
+5 - Click on the application you want to stop from opening at startup.
+Click on the application you want to stop from opening at startup. The applications are listed in the right pane of the dialog box.
+
+6 - Click on ➖ beneath the applications list.
+Click on ➖ beneath the applications list. The application will be removed and will not run the next time you launch your Mac.
+

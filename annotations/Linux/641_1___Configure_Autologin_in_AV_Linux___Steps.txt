@@ -1,0 +1,33 @@
+Configure Autologin in AV Linux
+https://www.wikihow.com/Configure-Autologin-in-AV-Linux
+
+0 - Steps
+
+1 - Navigate to your File System folder.
+Navigate to your File System folder. This can be done by clicking on the AV Menu and clicking on File Manager. Then select the File System tab.
+- ;
+
+2 - Scroll through the _etc folder.
+Scroll through the /etc folder. Locate the slim.conf file. The files should be arranged in alphabetic order.
+
+3 - Right click the file slim.conf, and under the Scripts menu, click Browse as root.
+Right click the file slim.conf, and under the Scripts menu, click Browse as root. You may be required to fill in an administrative password.
+
+4 - Wait for a new window of the _etc folder to appear.
+Wait for a new window of the /etc folder to appear. Scroll down again, and this time, double click on the slim.conf file. A gedit window will appear; it should look like the picture above.
+
+5 - Scroll down the file until you see the line starting like this:
+Scroll down the file until you see the line starting like this: # default_user.
+
+6 - Delete the #, then type in your user name directly following the line.
+Delete the #, then type in your user name directly following the line. This final line should look like this: default_user YOUR USERNAME. This will automatically fill in your user name during login, but you will still be required to enter a password.
+
+7 - Scroll further down the file until you see the line starting like this:
+Scroll further down the file until you see the line starting like this: # auto_login no.
+
+8 - Delete the # and change the no to yes.
+Delete the # and change the no to yes. The final line should look like this: auto_login yes.
+
+9 - Save your slim.conf file.
+Save your slim.conf file. Just close the window and save the changes you made to it. The next time you reboot, the auto-login should be activated.
+

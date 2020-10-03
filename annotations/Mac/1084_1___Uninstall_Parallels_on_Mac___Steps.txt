@@ -1,0 +1,23 @@
+Uninstall Parallels on Mac
+https://www.wikihow.com/Uninstall-Parallels-on-Mac
+
+0 - Steps
+
+1 - Open the Applications folder on your Mac.
+Open the Applications folder on your Mac. You can find the Applications folder on the Dock or the left sidebar in any Finder window.
+- If you don't see the sidebar, click the View tab on the menu bar at the top, and select Show Sidebar.
+- ;
+
+2 - Click and drag the Parallels Desktop icon to the Trash bin.
+Click and drag the Parallels Desktop icon to the Trash bin. Your Trash bin is located on the right-hand side of your Dock. This will move the Parallels app to Trash.
+- If you're prompted, enter your Mac's admin user password to confirm your action, and move the app to Trash.
+
+3 - Right-click the Trash bin on the Dock.
+Right-click the Trash bin on the Dock. This will show your options on a pop-up menu.
+
+4 - Click Empty Trash on the right-click menu.
+Click Empty Trash on the right-click menu. You will have to confirm your action in a new pop-up window.
+
+5 - Click Empty Trash in the confirmation pop-up.
+Click Empty Trash in the confirmation pop-up. This will empty your Trash bin, and permanently delete the Parallels app from your computer.
+

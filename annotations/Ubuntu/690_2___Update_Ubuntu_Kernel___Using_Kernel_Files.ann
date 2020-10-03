@@ -1,0 +1,29 @@
+T1	Software-Other 165 211	http://kernel.ubuntu.com/~kernel-ppa/mainline/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 286 300	kernel version
+A3	isSettingsChanged T2 true
+T3	Software-Other 1043 1068	Download the kernel files
+A4	isSettingsChanged T3 true
+T4	Software-OS-Related 1665 1673	Terminal
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1932 1944	cd Downloads
+A6	isOpened T5 f->t
+T6	Software-OS-Related 2379 2397	sudo dpkg -i *.deb
+A7	isOpened T6 f->t
+T7	Software-OS-Related 2468 2476	password
+A8	isOpened T7 f->t
+T8	Software-OS-Related 2942 2946	Menu
+A9	isOpened T8 f->t
+T9	Software-OS-Related 3009 3014	Power
+A10	isOpened T9 f->t
+T10	Software-OS-Related 3032 3039	Restart
+A11	isOpened T10 f->t
+T11	Software-OS-Related 3224 3232	Terminal
+A12	isOpened T11 f->t
+T12	Software-OS-Related 3246 3255	uname -sr
+A13	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	
+R2	SubPart Arg1:T10 Arg2:T8	
+R3	SubPart Arg1:T3 Arg2:T1	
+R4	SubPart Arg1:T2 Arg2:T1	

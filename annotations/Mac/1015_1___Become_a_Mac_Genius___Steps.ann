@@ -1,0 +1,36 @@
+T1	Software-Other 243 256	Apple website
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 279 292	Jobs at Apple
+A3	isOpened T2 f->t
+T3	Software-Other 399 406	Contact
+A4	isOpened T3 f->t
+T4	Software-Other 1119 1146	current Mac Genius openings
+A5	isOpened T4 f->t
+T5	Software-Other 1848 1861	Apple website
+A6	isOpened T5 start-T
+T6	Software-Other 1823 1840	Create an account
+A7	isOpened T6 f->t
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-Other 2419 2432	Jobs at Apple
+A8	isOpened T7 f->t
+T8	Software-Other 2467 2474	Sign in
+A9	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T7	
+T9	Software-Other 2617 2627	My Profile
+A10	isOpened T9 f->t
+T10	Software-Other 2746 2761	Contact Profile
+A11	isSettingsChanged T10 true
+T11	Software-Other 2768 2788	Professional Profile
+A12	isSettingsChanged T11 true
+T12	Software-Other 3084 3090	Upload
+A13	isSettingsChanged T12 true
+T13	Software-Other 3226 3233	Confirm
+A14	isSettingsChanged T13 true
+R3	SubPart Arg1:T13 Arg2:T9	
+R4	SubPart Arg1:T12 Arg2:T9	
+R5	SubPart Arg1:T10 Arg2:T9	
+R6	SubPart Arg1:T11 Arg2:T9	
+R7	SubPart Arg1:T7 Arg2:T5	
+R8	SubPart Arg1:T3 Arg2:T2	
+R9	SubPart Arg1:T2 Arg2:T1	

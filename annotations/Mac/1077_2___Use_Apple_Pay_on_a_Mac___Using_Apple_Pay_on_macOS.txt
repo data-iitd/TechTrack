@@ -1,0 +1,25 @@
+Use Apple Pay on a Mac
+https://www.wikihow.com/Use-Apple-Pay-on-a-Mac
+
+0 - Using Apple Pay on macOS
+
+1 - Open Safari.
+Open Safari. Apple Pay in macOS is only supported for purchases made on supported sites in the Safari browser. You cannot use Apple Pay in Chrome, Firefox, or other web browsers.
+
+2 - Keep your Apple Pay device close by.
+Keep your Apple Pay device close by. Your Mac will be able to tell when an Apple Pay-enabled device is nearby. If your Apple Pay device is not close at hand, the Apple Pay button may not appear in Safari.[2]
+- X
+- Research source
+
+3 - Load a website that supports Apple Pay.
+Load a website that supports Apple Pay. Apple Pay support is up to the website owner. Not all stores will support Apple Pay, but expect more and more to adopt it as time goes on.
+
+4 - Order an item and go through the checkout process.
+Order an item and go through the checkout process. You'll find the Apple Pay option during the payment part of the checkout process.
+
+5 - Click the Apple Pay button when asked to choose a payment method.
+Click the Apple Pay button when asked to choose a payment method. You'll see this button if the website supports Apple Pay and your Apple Pay-enabled device is close by. If you don't see the button and you know it's supposed to be there, make sure your iPhone or Apple Watch are with you.
+
+6 - Use Touch ID on your iPhone or double-tap your Apple Watch's button to confirm the payment.
+Use Touch ID on your iPhone or double-tap your Apple Watch's button to confirm the payment. You'll see the Apple Pay notification appear on your device when you click the Apple Pay button on the website. Use your Touch ID fingerprint scanner or press the Apple Watch's button twice to confirm the payment.
+

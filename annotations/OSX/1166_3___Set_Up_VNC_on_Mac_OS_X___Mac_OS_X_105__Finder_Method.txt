@@ -1,0 +1,40 @@
+Set Up VNC on Mac OS X
+https://www.wikihow.com/Set-Up-VNC-on-Mac-OS-X
+
+0 - Mac OS X 10.5 - Finder Method
+
+1 - Open the Sharing System Preferences pane.
+Open the Sharing System Preferences pane.
+- Open System Preferences from your black apple menu.
+- Click Sharing.
+
+2 - At the top of the Services list is Screen Sharing.
+At the top of the Services list is Screen Sharing. Select it and turn it On.
+
+3 - Where it says Allow access for:
+Where it says Allow access for:, choose All users.. This will make things easier.
+
+4 - If you are not using ScreenSharing or JollysFastVNC you have to:
+If you are not using ScreenSharing or JollysFastVNC you have to:
+- Click the Computer Settings button.
+- From the next window check on Anyone may request permission to control screen.
+- On the same window enable the VNC viewers may control screen with password option and choose a password. This allows computers running VNC software that do not support all security methods, such as Chicken of the VNC.
+
+5 - Click somewhere on the Desktop that is empty to activate the Finder.
+Click somewhere on the Desktop that is empty to activate the Finder.
+
+6 - Select the Go menu at the top of the screen and then Connect to Server.
+Select the Go menu at the top of the screen and then Connect to Server.
+
+7 - On the window that opens type vnc:__ followed by IP address of the computer to which you want to make a connection. (Example: vnc:__10.1.1.22)
+
+On the window that opens type vnc:// followed by IP address of the computer to which you want to make a connection. (Example: vnc://10.1.1.22)
+
+8 - Click the Connect button.
+Click the Connect button.
+
+9 - If it works you will have the option to connect as a registered user or by asking for permission.
+If it works you will have the option to connect as a registered user or by asking for permission.
+- If you select registered user you will need to enter a username and password for an account on the server computer.
+- If you select to ask for permission someone will need to be at the remote computer and click allow.
+

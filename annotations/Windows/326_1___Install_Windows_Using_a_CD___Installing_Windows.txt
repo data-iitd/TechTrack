@@ -1,0 +1,35 @@
+Install Windows Using a CD
+https://www.wikihow.com/Install-Windows-Using-a-CD
+
+0 - Installing Windows
+
+1 - After your computer reboots, a Black screen will appear showing the message 'Press any key to Boot from CD.
+After your computer reboots, a Black screen will appear showing the message 'Press any key to Boot from CD...'. Press any key.
+
+2 - Wait for a few seconds until the a Blue Screen pops up with the Title Windows Setup.
+Wait for a few seconds until the a Blue Screen pops up with the Title Windows Setup.
+
+3 - Follow the instructions on the screen to install Windows.
+Follow the instructions on the screen to install Windows.
+
+4 - Select a drive for Windows to be installed, and choose its File System (FAT32 or NTFS).
+Select a drive for Windows to be installed, and choose its File System (FAT32 or NTFS).
+
+5 - After a number of restarts, the previous screen with 'Press any key to Boot from CD.
+After a number of restarts, the previous screen with 'Press any key to Boot from CD...' will appear. Ignore it this time.
+
+6 - Set the Regional and Language, and Network Settings, and let the Setup install windows.
+Set the Regional and Language, and Network Settings, and let the Setup install windows.
+
+7 - Install basic security software such as a firewall, antivirus program, and an anti-spyware program; the built-in Windows Firewall, microsoft AVG Free, and Safer Networking Spybot S & D should work fine.
+Install basic security software such as a firewall, antivirus program, and an anti-spyware program; the built-in Windows Firewall, microsoft AVG Free, and Safer Networking Spybot S & D should work fine.
+
+8 - Update Windows and the security software.
+Update Windows and the security software.  This should help protect against some viruses and improve stability.
+
+9 - Make sure that all your hardware is working.
+Make sure that all your hardware is working.  Unlike OEM installs, there can be some issues here.  You might want to go to the hardware manufacturers' websites for the latest drivers.
+
+10 - You are done with installing Windows, now take a Quick Tour, as Windows will pop-up a message for it.
+You are done with installing Windows, now take a Quick Tour, as Windows will pop-up a message for it.
+

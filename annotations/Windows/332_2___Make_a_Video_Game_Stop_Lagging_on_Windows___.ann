@@ -1,0 +1,17 @@
+T1	Software-OS-Related 245 259	device manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 390 405	Display Adapter
+A2	isOpened T2 f->t
+T3	Software-Other 470 488	GeForce Experience
+A3	isInstalled T3 f->t
+T4	Software-Other 680 685	games
+A4	isOpened T4 f->t
+T5	Software-Other 900 908	Optimize
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1017 1036	Graphics Properties
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1131 1133	3D
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T6	
+T8	Software-Other 1266 1270	MSAA
+A8	isOpened T8 start-F

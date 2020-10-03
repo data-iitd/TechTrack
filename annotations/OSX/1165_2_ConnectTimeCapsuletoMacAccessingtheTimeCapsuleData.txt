@@ -1,0 +1,23 @@
+Connect Time Capsule to Mac
+https://www.wikihow.com/Connect-Time-Capsule-to-Mac
+
+0 - Accessing the Time Capsule Data
+
+1 - Click the Apple icon .
+Click the Apple icon .  It's in the menu bar in the upper-left corner of the screen.
+
+2 - Click System Preferences….
+Click System Preferences….  This is where you access your system preferences applications.
+
+3 - Open Time Machine.
+Open Time Machine.  Time Machine is the app that has a green icon that resembles a clock.
+
+4 - Check the checkbox for "Back Up Automatically".
+Check the checkbox for "Back Up Automatically".  Click the checkbox next to "Back Up Automatically".  This will ensure that your computer is backed up automatically so that you don't forget to backup your system.
+
+5 - Click Select Backup Disk.
+Click Select Backup Disk.  You will see a popup menu with all the Time Capsules connected to your network.
+
+6 - Select the Time Capsule.
+Select the Time Capsule.  This will select the Time Capsule as your backup disk, and allow access the data portion of your Time Capsule.
+

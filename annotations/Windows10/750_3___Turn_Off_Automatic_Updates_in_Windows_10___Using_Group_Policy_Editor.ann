@@ -1,0 +1,43 @@
+T1	Software-OS-Related 835 840	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 867 874	Windows
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1024 1027	Run
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1207 1226	Group Policy Editor
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1379 1393	Windows Update
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1560 1584	Administrative Templates
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1624 1642	Windows Components
+T8	Software-OS-Related 1682 1696	Windows Update
+T9	Software-OS-Related 1719 1746	Configure Automatic Updates
+A7	isOpened T9 f->t
+T10	Software-OS-Related 2059 2063	Edit
+A9	isOpened T10 f->t
+T12	Software-OS-Related 2142 2149	Enabled
+T13	Software-OS-Related 2244 2272	Configure automatic updating
+T14	Software-OS-Related 2411 2441	Notify for download and notify
+T15	Software-OS-Related 2660 2665	Apply
+T16	Software-OS-Related 2678 2680	OK
+A10	isSettingsChanged T16 true
+T17	Software-OS-Related 2807 2812	Start
+A11	isOpened T17 f->t
+T18	Software-OS-Related 2821 2829	Settings
+A12	isOpened T18 f->t
+T19	Software-OS-Related 2839 2856	Update & Security
+A13	isOpened T19 f->t
+T20	Software-OS-Related 2866 2880	Windows Update
+A14	isOpened T20 f->t
+T21	Software-OS-Related 2890 2907	Check for updates
+T22	Software-OS-Related 3061 3066	Start
+A15	isOpened T22 f->t
+T23	Software-OS-Related 3075 3080	Power
+A16	isOpened T23 f->t
+T24	Software-OS-Related 3093 3100	Restart
+A17	isOpened T24 start-F
+T11	Software-OS-Related 1882 1921	Configure Automatic Updates" properties
+A8	isOpened T11 f->t
+A18	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T9	

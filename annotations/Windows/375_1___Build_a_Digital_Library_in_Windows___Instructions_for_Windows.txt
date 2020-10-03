@@ -1,0 +1,28 @@
+Build a Digital Library in Windows
+https://www.wikihow.com/Build-a-Digital-Library-in-Windows
+
+0 - Instructions for Windows
+
+1 - To begin, have an understanding that you are about to build you very own digital library and as in all libraries, some form of organization needs to be set.
+To begin, have an understanding that you are about to build you very own digital library and as in all libraries, some form of organization needs to be set.
+- ;
+
+2 - Open your file explorer and navigate to the libraries sections.
+Open your file explorer and navigate to the libraries sections.
+
+3 - Select "New Library" and rename your new library "Books".
+Select "New Library" and rename your new library "Books".
+
+4 - Double click your new Library and select the "Include a folder" tab.
+Double click your new Library and select the "Include a folder" tab.
+
+5 - A window will pop up.
+A window will pop up. Select the "New folder" tab and rename this folder "My Books". Select your new "Books" folder and click Select  "Include a folder".
+- You now have a library for pictures, Videos, Documents, Music, and Books.
+
+6 - Now that you have a library for all the categories needed, each time you download a new item, select the matching library for the format you downloaded and assign this new item into a new folder labeled its sub category.
+Now that you have a library for all the categories needed, each time you download a new item, select the matching library for the format you downloaded and assign this new item into a new folder labeled its sub category. For example, if you download a epub: create a new folder in the Books library and name it "epub". If you download a PDF book, create a new folder and name it "pdf's" and create a sub category like "Romance","Instructions", or "Horror" etc. Another example is if you save a word document, create a new folder in the documents library and name it its category like "Homework" or "Legal Document" or "Letters" etc.
+
+7 - Repeat the process for each new download that you acquire making sure that you put it in the correct library and its corresponding folder that you create.
+Repeat the process for each new download that you acquire making sure that you put it in the correct library and its corresponding folder that you create. By assigning different categories within each library, you stand a chance in acquiring any information you need at a later time.
+

@@ -1,0 +1,31 @@
+T1	Hardware-Devices 138 144	webcam
+A1	isSetup T1 true
+A3	isConnected T1 f->t
+T2	Hardware-Other 188 196	computer
+T3	Software-Other 412 418	Amazon
+T4	Software-Other 489 497	Facebook
+A4	isOpened T4 f->t
+A5	isInstalled T4 start-F
+T5	Software-Other 521 546	https://www.facebook.com/
+T6	Software-Other 566 577	web browser
+A8	isInstalled T6 start-T
+T10	Software-Other 803 813	Live Video
+T12	Software-Other 958 978	Create a Live Stream
+A11	isOpened T12 f->t
+T13	Software-Other 1007 1015	Facebook
+T14	Hardware-Devices 1031 1037	webcam
+T15	Hardware-Other 1042 1052	microphone
+T16	Software-Other 1327 1365	Say something about this live video...
+T18	Software-Other 1624 1631	Go Live
+T20	Software-Other 1811 1825	End Live Video
+A2	isOpened T6 start-T
+T21	Software-Other 599 617	Facebook News Feed
+A6	isOpened T21 f->t
+A7	isSettingsChanged T13 true
+T22	Software-Other 1114 1119	Allow
+R1	SubPart Arg1:T22 Arg2:T13	
+A9	isOpened T10 f->t
+A10	isInstalled T10 start-T
+T7	Hardware-Devices 1715 1721	webcam
+A12	isUsed T7 true
+A13	isOpened T20 t->f

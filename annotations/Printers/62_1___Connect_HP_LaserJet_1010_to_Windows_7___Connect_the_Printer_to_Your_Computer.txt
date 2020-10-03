@@ -1,0 +1,28 @@
+Connect HP LaserJet 1010 to Windows 7
+https://www.wikihow.com/Connect-HP-LaserJet-1010-to-Windows-7
+
+0 - Connect the Printer to Your Computer
+
+1 - Connect your HP LaserJet 1010 to your computer.
+Connect your HP LaserJet 1010 to your computer. Do this using the USB data cable. Plug the ends of the cable, respectively, into the compatible ports on each device.
+- ;
+
+2 - Plug the printer to a power supply.
+Plug the printer to a power supply. Then, switch it on.
+
+3 - Click on the Orb button.
+Click on the Orb button. It is located on the lower-left corner of the screen.
+
+4 - Select “Control Panel.
+Select “Control Panel.” Click on “Devices and Printers.”
+
+5 - Click on “Add a Printer.
+Click on “Add a Printer.” This is found on the upper-left corner of the window.
+
+6 - Choose “Add a Local Printer.
+Choose “Add a Local Printer.” Click on “Next” to proceed.
+
+7 - Select “Use an existing port.
+Select “Use an existing port.” A drop-down list will show; select “DOT4_001” from the options.
+- Click on “Next” to go to the next page.
+

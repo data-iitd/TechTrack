@@ -1,0 +1,23 @@
+Change the Default Printer on a Mac
+https://www.wikihow.com/Change-the-Default-Printer-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Printers & Scanners.
+Click on Printers & Scanners.
+
+4 - Click on the drop-down menu next to "Default printer."
+Click on the drop-down menu next to "Default printer." It's at the bottom of the dialog box and probably reads "Last used."
+
+5 - Click on your preferred printer.
+Click on your preferred printer. The printer you selected is now the default printer for your Mac.
+- Select "Last used" if you want to continue using the same printer you last used.
+- Click on +, beneath the left pane, if you'd like to add a new printer.
+

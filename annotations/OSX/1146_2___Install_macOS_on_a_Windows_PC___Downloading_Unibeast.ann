@@ -1,0 +1,14 @@
+T1	Software-Other 2237 2246	Downloads
+A1	isOpened T1 f->t
+T2	Software-Other 2501 2509	Unibeast
+A2	isOpened T2 f->t
+T3	Software-Other 2715 2727	Download Now
+A3	isOpened T3 f->t
+T4	Software-Other 2856 2866	Multibeast
+T5	Software-Other 213 240	https://www.tonymacx86.com/
+A4	isOpened T5 f->t
+A5	isInstalled T5 start-F
+T6	Software-Other 417 425	Register
+A6	isOpened T6 f->t
+T7	Software-Other 557 570	email address
+A7	isInstalled T4 start-F

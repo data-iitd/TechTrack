@@ -1,0 +1,29 @@
+T1	Software-OS-Related 90 98	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 362 366	lshw
+T3	Software-OS-Related 650 675	sudo apt-get install lshw
+T4	Software-OS-Related 696 717	sudo yum install lshw
+T5	Software-OS-Related 641 647	Debian
+T6	Software-OS-Related 679 693	Red Hat/Fedora
+T7	Software-OS-Related 729 733	lshw
+A2	isOpened T7 f->t
+T8	Software-OS-Related 950 965	sudo lshw -shor
+T9	Software-OS-Related 1078 1083	Class
+T10	Hardware-Other 1159 1162	RAM
+T11	Hardware-Other 1169 1182	graphics card
+T12	Hardware-Other 1136 1145	processor
+T13	Software-OS-Related 1230 1239	text file
+T14	Software-OS-Related 1353 1365	troubleshoot
+T15	Hardware-Other 1391 1399	computer
+T16	Software-OS-Related 1409 1437	sudo lshw -short > specs.txt
+T17	Software-OS-Related 1556 1584	sudo lshw -html > specs.html
+T18	Software-Other 1660 1671	web browser
+T19	Software-OS-Related 1692 1695	GUI
+T20	Software-OS-Related 1697 1721	graphical user interface
+*	Equiv T19 T20
+T21	Software-OS-Related 1940 1969	sudo apt-get install lshw-gtk
+T22	Software-OS-Related 1971 1977	Debian
+T23	Software-OS-Related 1982 2007	sudo yum install lshw-gui
+T24	Software-OS-Related 2009 2018	RH/Fedora
+T25	Software-OS-Related 2029 2041	sudo lshw -X
+A3	isOpened T19 f->t

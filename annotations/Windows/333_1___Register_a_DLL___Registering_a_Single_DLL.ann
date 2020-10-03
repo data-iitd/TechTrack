@@ -1,0 +1,14 @@
+T1	Software-OS-Related 1255 1258	DLL
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1646 1649	DLL
+T3	Software-OS-Related 2346 2351	Start
+A2	isOpened T3 f->t
+A3	isOpened T2 f->t
+T4	Software-OS-Related 2450 2464	Command Prompt
+A4	isOpened T4 f->t
+T5	Software-OS-Related 2732 2747	 Command Prompt
+A5	isOpened T5 f->t
+T6	Software-OS-Related 2643 2656	administrator
+A6	isOpened T6 f->t
+T7	Software-OS-Related 2758 2778	Run as administrator
+A7	isOpened T7 f->t

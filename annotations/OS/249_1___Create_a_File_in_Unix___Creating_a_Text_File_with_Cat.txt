@@ -1,0 +1,23 @@
+Create a File in Unix
+https://www.wikihow.com/Create-a-File-in-Unix
+
+0 - Creating a Text File with Cat
+
+1 - Open a terminal window.
+Open a terminal window. If you're using a window manager, you can usually press Ctrl+Alt+T to open a new terminal window. If not, log into the system on which you want to create a file through the console.
+
+2 - Type cat > newfilename and press ↵ Enter.
+Type cat > newfilename and press ↵ Enter. Replace newfilename with whatever you'd like to call your new file. This opens a new blank line.
+
+3 - Type some text.
+Type some text. Anything you type here will be added to the file.
+
+4 - Press ↵ Enter to move to a blank line.
+Press ↵ Enter to move to a blank line. You'll need to be on a blank line to finish the cat command.[2]
+- X
+- Research source
+
+5 - Press Ctrl+D.
+Press Ctrl+D. This saves the file to the current directory with the name you entered.
+- To view the vile, type cat filename and press ↵ Enter.
+

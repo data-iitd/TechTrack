@@ -1,0 +1,122 @@
+Use Keyboard Shortcuts
+https://www.wikihow.com/Use-Keyboard-Shortcuts
+
+0 - Mac
+
+1 - Understand how key shortcuts work.
+Understand how key shortcuts work. To use a key shortcut, you will hold down one or more modifier keys and press a letter (or another modifier key). Modifier keys include the following:[2]
+- X
+- Research source
+- 
+- 
+- ⌘ Command - Located on the left and right sides of the spacebar.
+- ⌥ Option - Located next to the ⌘ Command keys.
+- Control - Located on the left side of the keyboard.
+- Fn - Located in the bottom-left side of the keyboard. This key activates the alternative uses for the "Function" keys (e.g., F8).
+- ⇧ Shift - Located on the left and right sides of the keyboard.
+- Arrow keys - While not technically modifier keys, the arrow keys can be used to select items.
+- ⏎ Return - Located on the right side of the keyboard. Allows you to open a selected item.
+
+2 - Use keyboard shortcuts for common actions.
+Use keyboard shortcuts for common actions. Instead of using the mouse or a program's buttons, you can use your Mac's keyboard to do things like copying files or text, and opening certain programs:
+- 
+- ⌘ Command+X - Copy selected text or file, then delete it from the current location (also called "cutting").
+- ⌘ Command+C - Copy selected text or file without deleting it.
+- ⌘ Command+V - Paste a copied item.
+- ⌘ Command+Z - Undo the last command.
+- ⌘ Command+⇧ Shift+Z - Redo the last command if you used the Undo command.
+- ⌘ Command+A - Select all items in your current folder.
+- ⌘ Command+F - Open the search bar in a specific window, browser, or program.
+- ⌘ Command+G - Find the next instance of an item (e.g., a word) you searched for.
+- ⌘ Command+⇧ Shift+G - Find the previous instance of an item you searched for.
+- ⌘ Command+H - Hide the front (currently open) app or program's window.
+- ⌘ Command+⌥ Option+H - Hide all windows except the front app or program.
+- ⌘ Command+M - Minimize the front window.
+- ⌘ Command+⌥ Option+M - Minimize all front app's windows.
+- ⌘ Command+N - Open a new document, window, or tab depending on the program you're using.
+- ⌘ Command+O - Open a selected item (e.g., a file or folder).
+- ⌘ Command+P - Print the current document.
+- ⌘ Command+S - Save your current document.
+- ⌘ Command+Q - Quit the front app.
+- ⌘ Command+Esc - Open the Force Quit menu.
+- ⌘ Command+⇧ Shift+⌥ Option+Esc - Hold for three seconds to force-quit the front app.
+- ⌘ Command+Space - Bring up the Spotlight search bar.
+- ⌘ Command+Tab ↹ - Switch to the next open app.
+- ⌘ Command+⇧ Shift+~ - Switch to the next window of the front app.
+- ⌘ Command+⇧ Shift+3 - Take a full-screen screenshot.
+- ⌘ Command+, - Open the front app's preferences.
+
+3 - Make your computer sleep, log out, or shut down.
+Make your computer sleep, log out, or shut down. There are several shortcuts you can use to lock down your computer quickly:
+- 
+- Control + Power button - Bring up the Sleep/Restart/Shut down menu.
+- Control+⌘ Command + Power button - Force your Mac to reboot.
+- Control+⇧ Shift + Power button - Shut off your Mac's screen.
+- Control+⌘ Command + Media eject button - Quit all apps, then restart.
+- Control+⌥ Option+⌘ Command + Power button - Quit all apps, then shut down.
+- ⇧ Shift+⌘ Command+Q - Brings up a prompt that, when accepted, logs you out of your account.
+- ⌥ Option+⇧ Shift+⌘ Command+Q - Logs you out of your account without asking to confirm.
+
+4 - Use shortcuts to navigate the Finder.
+Use shortcuts to navigate the Finder. You can use keyboard shortcuts to perform several actions inside of the Finder:
+- 
+- ⌘ Command+D - Duplicate selected items.
+- ⌘ Command+E - Eject a selected drive (e.g., flash drive).
+- ⌘ Command+F - Open Spotlight in the Finder.
+- ⌘ Command+I - Display the Get Info window for a selected item.
+- ⌘ Command+⇧ Shift+C - Open the Computer folder.
+- ⌘ Command+⇧ Shift+D - Open the Desktop folder.
+- ⌘ Command+⇧ Shift+F - Open the All My Files folder.
+- ⌘ Command+⇧ Shift+G - Open a Go to Folder search.
+- ⌘ Command+⇧ Shift+H - Open your Mac's Home folder.
+- ⌘ Command+⇧ Shift+I - Open iCloud Drive.
+- ⌘ Command+⇧ Shift+K - Open the Network window.
+- ⌥ Option+⌘ Command+L - Open the Downloads folder.
+- ⌘ Command+⇧ Shift+O - Open the Documents folder.
+- ⌘ Command+⇧ Shift+R - Open the AirDrop utility.
+- Control+⌘ Command+⇧ Shift+T - Place the selected item on the Dock.
+- ⌘ Command+⇧ Shift+U - Open the Utilities folder.
+- ⌘ Command+⌥ Option+D - Hide the Dock (or show it if it's already hidden).
+- Control+⌘ Command+T - Add the selected item to the Finder sidebar.
+- ⌥ Option+⌘ Command+P - Hide the address bar (or show it if it's hidden).
+- ⌥ Option+⌘ Command+S - Hide the sidebar (or show it if it's hidden).
+- ⌘ Command+J - Show the folder View options.
+- ⌘ Command+N - Open a new window in the Finder.
+- ⌘ Command+⇧ Shift+N - Create a new folder in your current location in the Finder.
+- ⌘ Command+⌥ Option+N - Create a "smart" folder in your current location in Finder.
+- ⌘ Command+⌥ Option+V - Move copied files from their current location to your current location.
+- ⌘ Command + 1, 2, 3, or 4 - Change the way icons are displayed in the current folder.
+- ⌘ Command+[ - See the last folder you were in.
+- ⌘ Command+] - Go to the next folder in the path.
+- ⌘ Command + Brightness down - Enable or disable display mirroring while your Mac is connected to another display (e.g., a TV).
+- ⌘ Command+Del - Send a selected item to the Trash.
+- ⌘ Command+⇧ Shift+Delete - Empty the Trash with a warning message.
+- ⌘ Command+⌥ Option+⇧ Shift+Delete - Empty the trash without warning.
+- ⌥ Option + Brightness up - Open the Display settings.
+- ⌥ Option+Mission Control - Open your Mission Control preferences.
+- ⌥ Option+Volume Up - Open your Mac's Sound preferences.
+- ⌘ Command+Mission Control - Displays the desktop.
+
+5 - Use shortcuts to edit the text in a document.
+Use shortcuts to edit the text in a document. Rather than clicking a text editor's various buttons, you can use shortcuts to edit the text:
+- 
+- ⌘ Command+B - Make selected text bold.
+- ⌘ Command+I - Make selected text italic.
+- ⌘ Command+U - Make selected text underlined.
+- ⌘ Command+T - Hide the "Fonts" window, or displays it if the window is already hidden.
+- ⌘ Command+D - Chooses the Desktop folder as the Open or Save destination.
+- ⌘ Command+Control+D - Display a selected word's definition.
+- ⌘ Command+⇧ Shift+: - See the "Spelling and Grammar" window.
+- ⌘ Command+; - Search for spelling errors in the document.
+- Control+L - Place the cursor in the center of the screen.
+- ⌘ Command+⌥ Option+F - Open the Search field.
+- ⌘ Command+⌥ Option+C - Copy selected text's formatting.
+- ⌘ Command+⌥ Option+V - Apply copied formatting to selected text.
+- ⌘ Command+⌥ Option+⇧ Shift+V - Apply formatting from surrounding content to selected content.
+- ⌘ Command+I - Bring up the Inspector window.
+- ⌘ Command+P - Open document settings.
+- ⌘ Command+⇧ Shift+S - Open the "Save As" window.
+- ⌘ Command+⇧ Shift+- - Decrease a selected item's font size (or picture size).
+- ⌘ Command+⇧ Shift++ - Increase a selected item's font size (or picture size).
+- ⌘ Command+⇧ Shift+? - Open the Help window.
+

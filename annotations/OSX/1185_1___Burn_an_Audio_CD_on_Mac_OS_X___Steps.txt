@@ -1,0 +1,37 @@
+Burn an Audio CD on Mac OS X
+https://www.wikihow.com/Burn-an-Audio-CD-on-Mac-OS-X
+
+0 - Steps
+
+1 - Open up iTunes.
+Open up iTunes.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Create a new playlist by clicking the + button in the bottom left-hand corner of the screen, N, or File>New Playlist.
+Create a new playlist by clicking the + button in the bottom left-hand corner of the screen, N, or File>New Playlist.
+
+3 - Name your playlist.
+Name your playlist.
+
+4 - Click and drag your selected songs from the library into the playlist.
+Click and drag your selected songs from the library into the playlist.
+
+5 - Change the order by dragging the songs around if desired.
+Change the order by dragging the songs around if desired. (The box at the top of the numbers column must be highlighted to do this.)
+
+6 - Insert a blank CD.
+Insert a blank CD.
+
+7 - Click on the "Burn" button in the bottom corner of the screen.
+Click on the "Burn" button in the bottom corner of the screen.
+- Some versions of iTunes don't have this option. For those, pull down the File menu and go to the "Burn playlist to disc" option.
+
+8 - Choose your settings.
+Choose your settings.
+
+9 - Wait patiently.
+Wait patiently. iTunes will burn the music you put in the playlist onto the CD. This may take a while, depending on the speed of your drive. When the CD is done, an audio CD with the tracks you put on it will pop up in iTunes. You can now eject the CD and it will be ready for use.
+

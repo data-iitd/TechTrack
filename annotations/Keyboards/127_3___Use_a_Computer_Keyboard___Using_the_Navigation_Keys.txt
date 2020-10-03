@@ -1,0 +1,21 @@
+Use a Computer Keyboard
+https://www.wikihow.com/Use-a-Computer-Keyboard
+
+0 - Using the Navigation Keys
+
+1 - Move up, down, left, and right.
+Move up, down, left, and right. The arrow keys ↑↓←→ are your main navigation keys on the keyboard. You can use them in a word processor to move around and between lines, use them on webpages to scroll, and use them in games to move around. Use your right hand to press the keys.
+
+2 - Scroll quickly through pages.
+Scroll quickly through pages. You can quickly scroll through documents or webpages with the ⇞ Page Up and ⇟ Page Down keys. If you are using a word processor, these keys will move your cursor one page up or down from the cursor's current location. If you are viewing a webpage, these keys will scroll the page up or down one screen-length.
+
+3 - Jump to the beginning or end of a line.
+Jump to the beginning or end of a line. You can move the cursor directly to the start or end of a line with the ⇱ Home and ⇲ End keys. These keys are most useful in word processors.
+
+4 - Understand the difference between Delete and Backspace.
+Understand the difference between Delete and Backspace. The ← Backspace key will delete a character to the left of the cursor, while pressing Delete will delete a character to the right of the cursor.
+- You can also press ← Backspace to go back on a webpage.
+
+5 - Use Insert to toggle Insert mode.
+Use Insert to toggle Insert mode. The Insert key changes the text input mode for your word processor. When Insert mode is toggled on any character you input will replace the character to the right of the cursor. With Insert mode toggled off, existing characters will not be replaced.
+

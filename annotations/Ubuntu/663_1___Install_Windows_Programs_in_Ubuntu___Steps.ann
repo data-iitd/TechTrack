@@ -1,0 +1,29 @@
+T1	Software-OS-Related 197 209	Applications
+A1	isOpened T1 f->t
+T2	Software-OS-Related 212 234	Ubuntu Software Center
+A2	isOpened T2 f->t
+T3	Software-Other 497 501	wine
+T4	Software-Other 672 714	Wine Microsoft Windows Compatibility Layer
+A4	isSettingsChanged T4 true
+T5	Software-Other 892 899	Install
+A5	isInstalled T5 f->t
+T6	Software-Other 1279 1295	little white box
+A6	isSettingsChanged T6 true
+T7	Software-Other 1309 1317	'Forward
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1521 1533	Applications
+A8	isOpened T8 f->t
+T9	Software-Other 1536 1540	Wine
+A9	isOpened T9 f->t
+T10	Software-Other 1968 1980	Permissions'
+A10	isSettingsChanged T10 true
+T11	Software-Other 2007 2017	little box
+A11	isSettingsChanged T11 true
+T12	Software-Other 2088 2093	Close
+A12	isOpened T12 t->f
+R1	SubPart Arg1:T10 Arg2:T9	
+A13	isOpened T3 f->t
+R2	SubPart Arg1:T4 Arg2:T3	
+R3	SubPart Arg1:T6 Arg2:T5	
+R4	SubPart Arg1:T7 Arg2:T5	
+R5	SubPart Arg1:T11 Arg2:T9	

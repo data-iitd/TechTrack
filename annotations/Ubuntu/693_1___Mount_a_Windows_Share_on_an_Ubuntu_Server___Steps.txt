@@ -1,0 +1,35 @@
+Mount a Windows Share on an Ubuntu Server
+https://www.wikihow.com/Mount-a-Windows-Share-on-an-Ubuntu-Server
+
+0 - Steps
+
+1 - Install samba file system utilities.
+Install samba file system utilities.
+- sudo apt-get install smbfs (In new version install sudo apt-get install cifs-utils)
+- 
+- WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');
+
+2 - Create a directory to use as the mount point.
+Create a directory to use as the mount point.
+- sudo mkdir /mnt/backup
+
+3 - Edit the file system table to include the new mount point.
+Edit the file system table to include the new mount point.
+- sudo vi /etc/fstab
+
+4 - Append the following snippet to the end of the file.
+Append the following snippet to the end of the file.  Scroll to the end and press a to append text.  Note that the text should all be on one line.
+- //YOUR_SERVER/YOUR_SHARE     /mnt/backup     cifs    domain=YOUR_DOMAIN,username=YOUR_USERNAME,password=YOUR_PASSWORD       0       0
+
+5 - Save and exit.
+Save and exit.  To exit vi you leave edit mode by pressing escape.  Then enter command mode by typing colon.  Then enter wq to write and quit.
+- Type <escape>:wq<return>
+
+6 - Reload the fstab file to mount the share.
+Reload the fstab file to mount the share.
+- sudo mount -a
+
+7 - Check the mount was successful by listing the contents of the share.
+Check the mount was successful by listing the contents of the share.
+- ls /mnt/backup
+

@@ -1,0 +1,20 @@
+T1	Software-OS-Related 142 148	Log in
+T2	Software-OS-Related 157 163	server
+T3	Software-OS-Related 297 306	directory
+A1	isOpened T3 f->t
+T4	Software-OS-Related 326 341	APF config file
+T5	Software-OS-Related 525 536	cd /etc/apf
+A2	isOpened T4 f->t
+T6	Software-OS-Related 574 582	conf.apf
+T7	Software-Other 716 719	vim
+T8	Software-Other 732 744	vim conf.apf
+A4	isOpened T7 f->t
+T9	Software-Other 796 809	IG_TCP_CPORTS
+T10	Software-Other 1593 1606	EG_TCP_CPORTS
+T11	Software-Other 1719 1728	TCP ports
+T12	Software-Other 1817 1821	file
+A3	isOpened T12 t->f
+T13	Software-OS-Related 1973 1987	service apf -r
+T14	Software-OS-Related 2065 2077	APF firewall
+T15	Software-OS-Related 2092 2101	new ports
+A5	isOpened T15 f->t

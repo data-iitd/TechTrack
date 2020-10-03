@@ -1,0 +1,8 @@
+T1	Software-OS-Related 179 192	Trash Can app
+A1	isOpened T1 f->t
+T2	Software-OS-Related 638 658	Select deleted files
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 940 944	File
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1063 1071	Put Back
+A4	isSettingsChanged T4 true

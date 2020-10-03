@@ -1,0 +1,10 @@
+T1	Software-OS-Related 115 120	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 256 264	Pictures
+A2	isOpened T2 f->t
+T3	Software-OS-Related 648 653	Print
+A3	isOpened T3 f->t
+T4	Software-OS-Related 810 820	Paper Size
+T5	Software-OS-Related 839 852	Contact Sheet
+T6	Software-OS-Related 973 978	Print
+A4	isSettingsChanged T6 true

@@ -1,0 +1,26 @@
+Update Windows
+https://www.wikihow.com/Update-Windows
+
+0 - Updating Windows 7
+
+1 - Click the Start button.
+Click the Start button. It’s usually at the bottom-left corner of the screen.
+
+2 - Click All programs.
+Click All programs. A list of all apps will appear.
+
+3 - Click Windows Update.
+Click Windows Update. This launches the Windows Update tool.[4]
+- X
+- Research source
+
+4 - Click Check for updates.
+Click Check for updates. Wait as the Windows Update tool scans for updates that you have not installed.
+
+5 - Click Install updates if updates are available.
+Click Install updates if updates are available. If Windows finds updates for you to install, you’ll see the number of updates appear near the top of the window. Clicking the button will begin the installation.
+
+6 - Follow the on-screen instructions to finish updating your computer.
+Follow the on-screen instructions to finish updating your computer. Most updates require that you restart your computer to complete the installation. Once the computer comes back up, the computer will be up to date.
+- Depending on the types of updates available for your computer, you may have to run the update tool a second time to finish the installation. Keep your eye on the system tray (the area where the clock is) when the computer comes back up—if you see a message that says updates must be installed (or an icon of a yellow or red shield with an ″!″ inside), click it, and then follow the on-screen instructions.
+

@@ -1,0 +1,26 @@
+T1	Software-OS-Related 426 434	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 470 479	Root mode
+A2	isOpened T2 f->t
+T3	Software-OS-Related 606 614	bin file
+T4	Software-OS-Related 597 601	copy
+T5	Software-Other 662 686	Java Runtime Environment
+T6	Software-OS-Related 861 879	Change directories
+T7	Software-OS-Related 1012 1030	cd /topmost/folder
+A3	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T6	
+T8	Software-OS-Related 1074 1082	bin file
+T9	Software-OS-Related 1144 1164	chmod +x thefile.bin
+A4	isSettingsChanged T9 true
+R2	SubPart Arg1:T9 Arg2:T8	
+T10	Software-OS-Related 1257 1265	bin file
+T11	Software-OS-Related 106 114	bin file
+T12	Software-Other 1364 1371	Firefox
+T13	Software-OS-Related 1536 1540	Copy
+T14	Software-OS-Related 1545 1552	archive
+T15	Software-OS-Related 1574 1587	output folder
+T16	Software-OS-Related 628 641	output folder
+T17	Software-OS-Related 1721 1727	folder
+A5	isOpened T17 f->t
+T18	Software-OS-Related 1758 1766	bin file
+T19	Software-OS-Related 1740 1747	program

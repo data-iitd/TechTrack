@@ -1,0 +1,30 @@
+Stream Your Webcam
+https://www.wikihow.com/Stream-Your-Webcam
+
+0 - Streaming Directly from Your Webcam on Facebook
+
+1 - Install your webcam
+Install your webcam if necessary. If your computer doesn't already have a built-in webcam, you'll need to attach and set up an external USB webcam before you'll be able to stream.
+- You can buy webcams in virtually any tech store or large online marketplace (e.g., Amazon). They tend to range in price depending on their quality.
+
+2 - Open Facebook.
+Open Facebook. Go to https://www.facebook.com/ in your computer's web browser. This will open your Facebook News Feed if you're logged in.
+- If you aren't logged into Facebook, enter your email address (or phone number) and password in the upper-right side of the page, then click Log In.
+
+3 - Click Live Video.
+Click Live Video. It's near the top of the News Feed page, just above the text box where you would usually post a status. Doing so opens the "Create a Live Stream" pop-out menu.
+
+4 - Allow Facebook to access your webcam and microphone.
+Allow Facebook to access your webcam and microphone. Click Allow (or similar) when prompted to allow Facebook to use your webcam, then do the same if asked to allow access to your microphone.
+
+5 - Add a description to the video.
+Add a description to the video. In the "Say something about this live video..." text box, type in a description for your stream.
+- This is optional, but recommended.
+
+6 - Add a title.
+Add a title. If you want to place a title on your stream, type your title into the "Title" heading near the bottom of the pop-out menu.
+
+7 - Click Go Live.
+Click Go Live. It's in the bottom-right corner of the page. Doing so causes your webcam to begin streaming to Facebook.
+- You can close the live stream at any time by clicking End Live Video and then clicking End when prompted.
+

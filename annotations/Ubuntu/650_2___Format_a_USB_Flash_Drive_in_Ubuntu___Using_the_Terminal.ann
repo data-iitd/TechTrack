@@ -1,0 +1,16 @@
+T1	Software-OS-Related 157 165	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 247 253	.lsblk
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 676 697	sudo umount /dev/sdb1
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 918 964	sudo dd if=/dev/zero of=/dev/sdb bs=4k && sync
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1316 1340	Type sudo fdisk /dev/sdb
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1687 1693	.lsblk
+A6	isOpened T6 f->t
+T7	Software-OS-Related 2066 2090	sudo mkfs.vfat /dev/sdb1
+A7	isSettingsChanged T7 true
+T8	Hardware-Devices 2143 2148	drive
+A8	isConnected T8 t->f

@@ -1,0 +1,21 @@
+T1	Software-OS-Related 164 174	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 295 313	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 351 359	Keyboard
+A3	isOpened T3 f->t
+T4	Software-OS-Related 557 566	Shortcuts
+A4	isOpened T4 f->t
+T5	Software-OS-Related 731 732	+
+A5	isOpened T5 f->t
+T6	Software-OS-Related 646 659	App Shortcuts
+A6	isOpened T6 f->t
+T7	Software-OS-Related 820 839	on All Applications
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1258 1282	box next to "Menu Title.
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1825 1842	keyboard shortcut
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 2108 2111	Add
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T9 Arg2:T3	

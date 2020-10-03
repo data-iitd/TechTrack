@@ -1,0 +1,52 @@
+T1	Hardware-Devices 119 126	scanner
+T2	Software-OS-Related 146 160	Macintosh OS X
+T3	Hardware-Other 233 246	scanner's box
+T5	Software-Other 315 349	http://support.apple.com/kb/ht3669
+T6	Hardware-Devices 417 424	scanner
+T7	Hardware-Other 433 441	computer
+T9	Software-Device-Drivers 514 521	drivers
+A4	isInstalled T9 f->t
+T10	Hardware-Other 634 642	computer
+T11	Hardware-Other 675 678	USB
+T12	Hardware-Other 682 695	FireWire port
+T13	Hardware-Devices 755 762	scanner
+T14	Software-OS-Related 768 782	shared network
+T15	Software-OS-Related 834 852	System Preferences
+T16	Software-OS-Related 869 879	Apple menu
+T17	Software-OS-Related 892 899	Sharing
+T18	Software-OS-Related 932 947	Scanner Sharing
+T19	Hardware-Devices 1096 1103	scanner
+T20	Software-OS-Related 1109 1122	Image Capture
+T22	Software-OS-Related 1285 1292	Devices
+T23	Software-OS-Related 1299 1305	Shared
+T24	Hardware-Other 1344 1352	computer
+T27	Hardware-Other 1694 1706	scanning bed
+T28	Hardware-Devices 1715 1722	scanner
+T30	Software-OS-Related 1803 1815	scanner mode
+T33	Software-OS-Related 2030 2051	Detect Separate Items
+A28	isSettingsChanged T33 true
+T8	Software-Other 491 509	scanner's software
+A1	isInstalled T8 f->t
+A2	isSettingsChanged T18 true
+A3	isSettingsChanged T30 true
+A5	isPowered T1 start-F
+A6	isConnected T1 start-F
+A7	isOpened T5 f->t
+A8	isInstalled T5 start-F
+T4	Software-Other 556 586	scanner manufacturer's website
+A9	isOpened T4 f->t
+A10	isInstalled T4 start-F
+A11	isPowered T6 f->t
+A12	isConnected T6 f->t
+A13	isOpened T16 start-T
+A14	isOpened T15 f->t
+R1	SubPart Arg1:T18 Arg2:T17	
+A15	isOpened T20 f->t
+A16	isSettingsChanged T22 true
+A17	isSettingsChanged T23 true
+R2	SubPart Arg1:T22 Arg2:T20	
+R3	SubPart Arg1:T23 Arg2:T20	
+T21	Software-OS-Related 1773 1785	Image Captur
+A18	isOpened T21 f->t
+R4	SubPart Arg1:T30 Arg2:T21	
+R5	SubPart Arg1:T33 Arg2:T21	

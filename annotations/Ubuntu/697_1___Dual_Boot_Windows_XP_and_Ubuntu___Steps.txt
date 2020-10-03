@@ -1,0 +1,42 @@
+Dual Boot Windows XP and Ubuntu
+https://www.wikihow.com/Dual-Boot-Windows-XP-and-Ubuntu
+
+0 - Steps
+
+1 - Insert the Ubuntu Installation CD into your CD-ROM Drive.
+Insert the Ubuntu Installation CD into your CD-ROM Drive. It is assumed that you already have Windows XP installed on your computer and that you have Ubuntu Desktop Edition downloaded and burned onto a CD already
+- ;
+
+2 - Restart your computer.
+Restart your computer.
+
+3 - Press your BIOS_Setup key (Usually:
+Press your BIOS/Setup key (Usually: F1, F2, ESC, or DEL key) while the computer starts up to get into the BIOS.
+
+4 - Go to the screen where you can adjust the boot priority of your devices and move the CD-ROM Drive up the priority list, by pressing the + key, so that it comes before the Hard Drive entry as seen below.
+Go to the screen where you can adjust the boot priority of your devices and move the CD-ROM Drive up the priority list, by pressing the + key, so that it comes before the Hard Drive entry as seen below.
+
+5 - Save & Exit out of the BIOS with the F10 key, your computer will restart.
+Save & Exit out of the BIOS with the F10 key, your computer will restart.
+
+6 - On the Ubuntu Setup screen, hit Enter to Start or install Ubuntu.
+On the Ubuntu Setup screen, hit Enter to Start or install Ubuntu.
+
+7 - Double-click Install on the Desktop.
+Double-click Install on the Desktop.
+
+8 - Go through the installation wizard (if using Ubuntu 8.04 until you reach step 4).
+Go through the installation wizard (if using Ubuntu 8.04 until you reach step 4). Ubuntu 8.10 installs a dual-boot by default installation.
+
+9 - If using Ubuntu 8.04, then at step 4, select the first option, Guided - resize and you can specify how much disk space you want the new partition to use as shown below.
+If using Ubuntu 8.04, then at step 4, select the first option, Guided - resize and you can specify how much disk space you want the new partition to use as shown below.
+
+10 - Continue through the rest of the steps and click Install on step 7.
+Continue through the rest of the steps and click Install on step 7.
+
+11 - Click Restart Now and remove the CD from CD-ROM drive.
+Click Restart Now and remove the CD from CD-ROM drive.
+
+12 - Done!
+Done!! Every time you start up your computer now you will be prompted to select what operating system you want to start up through the GRUB Bootloader screen as seen below.
+

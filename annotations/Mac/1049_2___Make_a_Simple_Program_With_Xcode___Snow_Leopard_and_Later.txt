@@ -1,0 +1,62 @@
+Make a Simple Program With Xcode
+https://www.wikihow.com/Make-a-Simple-Program-With-Xcode
+
+0 - Snow Leopard and Later
+
+1 - Beginning with Snow Leopard, Apple has deprecated the use of Applescript Studio, but fear not, in spite of a bit of extra typing, things are actually better without it.
+Beginning with Snow Leopard, Apple has deprecated the use of Applescript Studio, but fear not, in spite of a bit of extra typing, things are actually better without it. Go ahead and grab Xcode 3.2.5 or later. You can get 4.0 in the Mac App Store for free.
+- ;
+
+2 - File>New Project
+
+File>New Project
+
+3 - Click Applescript Application
+
+Click Applescript Application
+
+4 - Name your project, this example is named "Talking Example"
+
+Name your project, this example is named "Talking Example"
+
+5 - Your project should appear
+
+Your project should appear
+
+6 - Double click "Talking_ExampleAppDelegate.applescript"
+
+Double click "Talking_ExampleAppDelegate.applescript"
+
+7 - There are already some items filled in for you.
+There are already some items filled in for you.  After the property declaration, insert a new handler:
+- on clickedme_(sender)
+- say "hello"
+- end clickedme_
+
+8 - Type Cmd+B to build
+
+Type Cmd+B to build
+
+9 - Now double-click MainMenu.xib
+
+Now double-click MainMenu.xib
+
+10 - Interface builder should open.
+Interface builder should open. Close any xib windows it brings up from previous projects you may have worked on.
+
+11 - A blank window should appear and you can drag a button onto it from the Library.
+A blank window should appear and you can drag a button onto it from the Library.
+
+12 - Double click the button and make it "Hello"
+
+Double click the button and make it "Hello"
+
+13 - CTRL-drag from the Hello button to the blue cube called "Talking Example AppDelegate" and let go.
+CTRL-drag from the Hello button to the blue cube called "Talking Example AppDelegate" and let go.  You can now pick the clicked-me event handler to link to the "Hello" button you just made.
+
+14 - Now click file > save.
+Now click file > save. You many now quit interface builder.
+
+15 - In Xcode, press build and go at the top.
+In Xcode, press build and go at the top. Your application should run smoothly.
+

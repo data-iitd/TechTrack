@@ -1,0 +1,85 @@
+T1	Hardware-Other 98 100	CD
+T2	Hardware-Other 104 107	DVD
+T3	Software-Other 123 147	CentOS installation file
+T4	Hardware-Other 157 167	disk drive
+T5	Software-OS-Related 176 181	Linux
+T6	Hardware-Other 315 323	computer
+T7	Software-OS-Related 367 371	boot
+T8	Hardware-Other 381 396	installation CD
+T9	Software-OS-Related 413 434	CentOS welcome screen
+A1	isOpened T9 f->t
+T10	Software-OS-Related 454 470	Install CentOS 7
+T11	Software-OS-Related 573 607	Test this media & install CentOS 7
+T12	Software-OS-Related 820 828	language
+T13	Software-OS-Related 842 850	Continue
+A2	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T10	
+T14	Software-OS-Related 943 963	Installation Summary
+T15	Software-OS-Related 1151 1170	Installation Source
+T16	Software-OS-Related 1261 1269	Keyboard
+A3	isOpened T16 f->t
+T17	Software-OS-Related 1293 1310	keyboard language
+T18	Software-OS-Related 1315 1321	layout
+T19	Software-OS-Related 1334 1338	Done
+A6	isSettingsChanged T19 true
+R2	SubPart Arg1:T19 Arg2:T17	
+R3	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 1442 1461	Network & Host Name
+A4	isOpened T20 f->t
+T21	Software-OS-Related 1611 1616	Apply
+T22	Software-OS-Related 1644 1653	Configure
+A5	isSettingsChanged T21 true
+R4	SubPart Arg1:T21 Arg2:T20	
+T23	Software-OS-Related 1734 1747	IPv4 Settings
+A7	isOpened T23 f->t
+T24	Software-OS-Related 2044 2054	IP address
+T25	Software-OS-Related 2056 2063	Netmask
+T26	Software-OS-Related 2065 2072	Gateway
+T27	Software-OS-Related 2078 2100	DNS Server credentials
+T28	Software-OS-Related 2119 2135	Ethernet (ens33)
+T29	Software-OS-Related 2166 2170	Done
+A9	isSettingsChanged T29 true
+R5	SubPart Arg1:T29 Arg2:T20	
+A8	isSettingsChanged T28 true
+R6	SubPart Arg1:T28 Arg2:T20	
+T30	Software-OS-Related 2251 2262	Date & Time
+A10	isOpened T30 f->t
+T31	Software-OS-Related 2311 2315	Done
+A11	isSettingsChanged T31 true
+T32	Software-OS-Related 2289 2297	timezone
+R7	SubPart Arg1:T31 Arg2:T30	
+T33	Software-OS-Related 2411 2435	Installation Destination
+A12	isOpened T33 f->t
+T34	Software-OS-Related 2524 2530	CentOS
+T35	Software-OS-Related 2678 2688	Hard drive
+T36	Software-OS-Related 2722 2731	partition
+T37	Software-OS-Related 2814 2818	Done
+T38	Software-OS-Related 2460 2466	device
+T39	Software-OS-Related 2476 2488	installation
+T40	Software-OS-Related 2493 2505	partitioning
+T41	Software-OS-Related 2891 2905	Accept Changes
+A13	isSettingsChanged T41 true
+T42	Software-OS-Related 2935 2941	format
+T43	Software-OS-Related 2950 2960	partitions
+T44	Software-OS-Related 3154 3172	Software Selection
+A14	isOpened T44 f->t
+T45	Software-OS-Related 3227 3233	CentOS
+T46	Software-OS-Related 3247 3251	Done
+A15	isSettingsChanged T46 true
+R8	SubPart Arg1:T46 Arg2:T44	
+T47	Software-Other 3380 3396	Internet browser
+T48	Software-Other 3398 3412	graphics tools
+T49	Software-OS-Related 3440 3458	Begin installation
+T50	Software-OS-Related 3632 3638	CentOS
+T51	Software-OS-Related 3661 3674	Root Password
+A16	isOpened T51 f->t
+T52	Software-OS-Related 3761 3765	Done
+A17	isSettingsChanged T52 true
+R9	SubPart Arg1:T52 Arg2:T51	
+T53	Software-OS-Related 4013 4026	User Creation
+T54	Hardware-Other 4069 4071	CD
+T55	Hardware-Other 4075 4078	DVD
+T56	Hardware-Other 4089 4099	disk drive
+T57	Software-OS-Related 4105 4111	CentOS
+T58	Software-OS-Related 4261 4267	Reboot
+T59	Software-OS-Related 4320 4326	CentOS

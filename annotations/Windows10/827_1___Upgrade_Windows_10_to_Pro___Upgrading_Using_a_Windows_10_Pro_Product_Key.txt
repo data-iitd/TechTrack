@@ -1,0 +1,33 @@
+Upgrade Windows 10 to Pro
+https://www.wikihow.com/Upgrade-Windows-10-to-Pro
+
+0 - Upgrading Using a Windows 10 Pro Product Key
+
+1 - Confirm that your software is up-to-date.
+Confirm that your software is up-to-date. To check, enter Updates in the search bar at the bottom of the screen, select Check for Updates. From there, you'll either see confirmation  that your system is up-to-date, or you'll be able to select Restart Now to begin the update.
+- ;
+
+2 - Click on the Start button .
+Click on the Start button . This is the icon with for squares at the bottom left corner of your screen.
+
+3 - Click on Settings .
+Click on Settings .
+
+4 - Click on Update and Security.
+Click on Update and Security. You may have to scroll down a bit on your page to see this option.
+
+5 - Click on Activation.
+Click on Activation. You should find this option on the side panel of the pop up window.
+
+6 - Click on Change product key.
+Click on Change product key.
+
+7 - Enter the 25-character Windows 10 Pro product key.
+Enter the 25-character Windows 10 Pro product key.
+
+8 - Select Next to start the upgrade to Windows 10 Pro.
+Select Next to start the upgrade to Windows 10 Pro.
+
+9 - Follow along with the prompts to finish installation.
+Follow along with the prompts to finish installation. Your system may restart a number of times.
+

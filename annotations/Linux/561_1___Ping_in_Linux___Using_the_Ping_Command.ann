@@ -1,0 +1,10 @@
+T1	Software-OS-Related 95 103	Terminal
+A1	isOpened T1 f->t
+T2	Hardware-Other 112 120	computer
+T3	Software-OS-Related 314 318	ping
+T4	Software-OS-Related 658 668	ping speed
+T5	Software-OS-Related 583 587	ping
+T6	Software-OS-Related 776 778	ms
+T7	Software-OS-Related 1185 1189	ping
+A2	isOpened T7 t->f
+A3	isOpened T5 f->t

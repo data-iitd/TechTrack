@@ -1,0 +1,19 @@
+T1	Hardware-Devices 109 116	AirPods
+A1	isPowered T1 start-T
+T2	Hardware-Other 124 140	microfiber cloth
+T3	Hardware-Other 544 555	cotton swab
+T4	Hardware-Other 782 789	speaker
+T5	Hardware-Other 987 993	pencil
+T6	Hardware-Other 994 1000	eraser
+T7	Hardware-Other 1215 1231	microfiber cloth
+T9	Hardware-Other 1277 1284	speaker
+T8	Hardware-Other 1300 1317	anti-static brush
+T10	Hardware-Other 1428 1436	bristles
+T11	Hardware-Other 1453 1463	toothbrush
+*	Equiv T8 T11
+T12	Hardware-Other 1637 1643	grills
+T13	Hardware-Other 1690 1706	microfiber cloth
+T15	Hardware-Other 1922 1937	distilled water
+T16	Hardware-Other 2116 2130	speaker grills
+T14	Hardware-Devices 749 756	AirPods
+T17	Hardware-Devices 1780 1787	AirPods

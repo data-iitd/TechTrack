@@ -1,0 +1,34 @@
+Make the Show Desktop Icon in Windows Quick Launch Toolbar
+https://www.wikihow.com/Make-the-Show-Desktop-Icon-in-Windows-Quick-Launch-Toolbar
+
+0 - Creating the Shortcut
+
+1 - Go to the desktop.
+Go to the desktop. Minimize any currently open windows in order to do so.
+- You can click the rectangular segment of the taskbar in the bottom-right corner of the screen to minimize all open windows.
+- ;
+
+2 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. Doing so will prompt a drop-down menu.
+- If your mouse doesn't have a right-click button, click the right side of the mouse, or use two fingers to click the mouse.
+- If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad.
+
+3 - Select New.
+Select New. It's near the top of the drop-down menu. This will prompt a pop-out menu to appear.
+
+4 - Click Shortcut.
+Click Shortcut. This option is near the top of the pop-out menu. A new window will open.
+
+5 - Enter the "Show Desktop" command.
+Enter the "Show Desktop" command. Click the "Type the location of the item" text box, then enter the following text:
+- %windir%\explorer.exe shell:::{3080F90D-D7AD-11D9-BD98-0000947B0257}
+
+6 - Click Next.
+Click Next. It's in the bottom-right corner of the window.
+
+7 - Enter a name.
+Enter a name. Type a name for your shortcut into the text box at the top of the window.
+
+8 - Click Finish.
+Click Finish. It's in the bottom-right corner of the window. Doing so creates your shortcut. At this point, you're free to change the shortcut's icon.
+

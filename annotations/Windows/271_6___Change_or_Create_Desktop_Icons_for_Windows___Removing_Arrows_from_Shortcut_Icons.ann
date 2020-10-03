@@ -1,0 +1,19 @@
+T1	Software-OS-Related 166 171	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 428 435	regedit
+A2	isOpened T2 f->t
+T3	Software-OS-Related 925 929	Edit
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1017 1020	New
+T5	Software-OS-Related 1033 1036	Key
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T4 Arg2:T3	
+T6	Software-OS-Related 1402 1410	Edit tab
+A4	isOpened T6 f->t
+T7	Software-OS-Related 1493 1496	New
+A5	isOpened T7 f->t
+T8	Software-OS-Related 1509 1521	String Value
+R3	SubPart Arg1:T8 Arg2:T7	
+R4	SubPart Arg1:T7 Arg2:T6	
+T9	Software-OS-Related 2047 2049	OK
+A6	isSettingsChanged T9 true

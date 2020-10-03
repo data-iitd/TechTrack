@@ -1,0 +1,4 @@
+T1	Software-Other 1429 1438	Grammarly
+A1	isInstalled T1 start-F
+T2	Software-Other 1443 1459	Spell Check Plus
+A2	isInstalled T2 start-F

@@ -1,0 +1,23 @@
+T1	Hardware-Devices 96 104	keyboard
+T2	Hardware-Other 129 135	screws
+T3	Hardware-Other 319 324	metal
+T4	Hardware-Other 330 336	screws
+T5	Hardware-Other 429 434	metal
+T6	Hardware-Other 468 475	plastic
+T7	Hardware-Other 481 495	circuit boards
+T8	Hardware-Other 532 540	soldered
+T9	Hardware-Devices 715 723	keyboard
+T10	Hardware-Other 736 745	duct tape
+T11	Hardware-Other 773 795	plastic circuit boards
+T12	Hardware-Other 805 814	cardboard
+T13	Hardware-Other 1043 1057	soldered board
+T14	Hardware-Other 1072 1075	bag
+T15	Hardware-Other 1099 1108	duct tape
+T16	Hardware-Other 1210 1219	cardboard
+T17	Hardware-Other 1337 1346	duct tape
+T18	Hardware-Other 1382 1385	bag
+T19	Hardware-Other 1434 1456	plastic circuit boards
+T20	Hardware-Other 1472 1494	plastic circuit boards
+T21	Hardware-Devices 1640 1648	keyboard
+T22	Hardware-Other 1740 1759	adhesive book cover
+T23	Hardware-Other 1835 1843	computer

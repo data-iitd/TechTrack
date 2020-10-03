@@ -1,0 +1,78 @@
+Format a Computer
+https://www.wikihow.com/Format-a-Computer
+
+0 - Windows 7
+
+1 - Back up your data.
+Back up your data. Formatting your PC will erase all of your applications, data, and personal files. If you want to save your data, see How to Back Up a Windows Computer to learn how.
+
+2 - Open the Control Panel.
+Open the Control Panel. You'll find it in the Start menu.
+
+3 - Click System and Security.
+Click System and Security. It's usually near the top-left corner of the window.
+
+4 - Click Backup and Restore.
+Click Backup and Restore.  Some backup and recovery options will appear.[6]
+- X
+- Research source
+
+5 - Click Recover system settings or your computer.
+Click Recover system settings or your computer. It's the link at the bottom of the window.
+
+6 - Click Advanced recovery methods.
+Click Advanced recovery methods. It's at the bottom of the window.
+
+7 - Click Return Your Computer to Factory Condition.
+Click Return Your Computer to Factory Condition. If your PC has a recovery partition, you'll see this option.
+- If you don't see this option, you'll need your Windows 7 installation CD/DVD to continue. Click Reinstall Windows (requires Windows installation disc), insert your Windows 7 CD/DVD when prompted, and then follow the on-screen instructions to confirm that you want to reset your computer. When the computer reboots into the Windows Setup, move to Step 10.
+
+8 - Select a backup option.
+Select a backup option. If you haven't created a backup, you'll be prompted to create one now. Click Back up now to do so, or Skip if you've already made one.
+
+9 - Click Restart to reset your PC.
+Click Restart to reset your PC. This erases your data and restarts your PC to the initial Windows setup screen.
+
+10 - Select your regional preferences and click Next.
+Select your regional preferences and click Next. Once the PC reboots into the Windows setup, you will be prompted to confirm your language, time/currency formats, and keyboard type.
+
+11 - Click Install Now.
+Click Install Now. It's near the middle of the window.
+
+12 - Read and accept the terms.
+Read and accept the terms. In order to advance, you must indicate that you have read and agree to Microsoft’s terms of use. Be sure to read through it so that you know your rights and limitations as a user.
+
+13 - Click Custom (advanced).
+Click Custom (advanced). This is the second option on the "Which type of installation do you want?" window. This is the option you'll need to use to format the hard drive(s) on the PC before reinstalling the operating system.
+
+14 - Delete your partitions.
+Delete your partitions. Now you'll need to delete the partitions on your drive(s) so you can format them. 
+- Click Drive options (advanced) at the bottom-right area of the window.
+- Select the partition of your existing operating system and click Delete.
+- If your hard drive has multiple partitions, be sure to delete the correct one(s). Any data on a deleted partition is lost for good.
+- Click OK to confirm.
+- Repeat for any other partitions you want to delete.
+
+15 - Create a new partition.
+Create a new partition. Now you'll want to partition the space marked as "unallocated." To do so:
+- Click New under the partition list.[7]
+- X
+- Research source
+- 
+- 
+- To accept the suggested partition size (the maximum), leave the "Size" menu as-is. If you want to make multiple partitions, enter your desired size.
+- Click Apply.
+- If you see a message that says Windows might create additional partitions, click OK. This will usually create a second partition called "System Reserved," which is for your recovery partition.
+- Create additional partitions if you have any additional unallocated space.
+
+16 - Select your new partition and click Format.
+Select your new partition and click Format. Do not format the "System Reserved" partition—just the one(s) you created manually. A confirmation window will appear.
+
+17 - Click OK to confirm.
+Click OK to confirm. When the partition is finished formatting, you can install Windows on it.
+- If you created other partitions manually, format those as well.
+
+18 - Select your new Windows partition and click Next.
+Select your new Windows partition and click Next. Windows will now install on the selected partition. This can take up to 30 minutes. Once the installation is complete, follow the on-screen instructions to set up Windows.
+- If you're using a laptop, make sure it's plugged into a power source.
+

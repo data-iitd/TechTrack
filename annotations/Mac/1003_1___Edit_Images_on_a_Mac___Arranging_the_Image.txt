@@ -1,0 +1,33 @@
+Edit Images on a Mac
+https://www.wikihow.com/Edit-Images-on-a-Mac
+
+0 - Arranging the Image
+
+1 - Click  to rotate the image.
+Click  to rotate the image.  It's the icon of a square with a curved arrow over its top-right corner at the top of the Preview window. This will rotate the image 90 degrees counter-clockwise.
+- Click the button as many times as you need to position the image to your liking.
+
+2 - Click Tools.
+Click Tools. It's in the menu bar at the top of the screen. This opens a drop-down menu with additional options.
+
+3 - Select Flip Horizontal or Flip Vertical.
+Select Flip Horizontal or Flip Vertical. It's near the bottom of the drop-down menu. Flipping the image horizontally will mirror the image from right to left, while flipping the image vertically will invert the picture from top to bottom, making the image appear upside down.
+- You can flip the image a second time to revert the image back to normal, or you can press ⌘ Command+Z to undo the last change.
+
+4 - Click .
+Click .  It's the Markup Toolbar" button that resembles a marker tip inside a circle, located at the top of the window. This will open the Markup Toolbar displaying the various editing tools.
+
+5 - Click .
+Click . It's the icon that has the dotted outline of a rectangle. This will open a small drop-down menu.
+
+6 - Click Rectangular Selection.
+Click Rectangular Selection. It's the first option in the drop-down menu.
+- You can also click  to select the elliptical selection tool, or the lasso tool, which allows you to draw your own selection.
+
+7 - Click and drag the rectangle tool over the image.
+Click and drag the rectangle tool over the image.  The dotted line of the rectangle indicates how the image will be cropped.  Make sure the part of the image you want to keep are inside the rectangle marquee.
+- You can adjust the rectangle selection by clicking and dragging the blue dots (handles) in the corners of the rectangle.
+
+8 - Click Crop.
+Click Crop.  It's in the upper-right corner of the toolbar.  This will delete everything except for what's inside the rectangle selection.
+

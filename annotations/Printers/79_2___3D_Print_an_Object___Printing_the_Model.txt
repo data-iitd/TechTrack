@@ -1,0 +1,30 @@
+3D Print an Object
+https://www.wikihow.com/3D-Print-an-Object
+
+0 - Printing the Model
+
+1 - Insert the plastic filament spool at the back of the 3D printer, and insert the filament into the heating block.
+Insert the plastic filament spool at the back of the 3D printer, and insert the filament into the heating block.
+
+2 - Turn on the 3D printer, and select the option to "Preheat" the printer as you import your file.
+Turn on the 3D printer, and select the option to "Preheat" the printer as you import your file.
+
+3 - Import the STL file model into the 3D printing software that comes with the 3D printer.
+Import the STL file model into the 3D printing software that comes with the 3D printer.
+- A window will pop up and ask where the model should be placed. Click on absolute center as this would put the model in the middle of the printing tray.
+
+4 - Check the "Uniform Scaling" box on the left hand side under the Scale box.
+Check the "Uniform Scaling" box on the left hand side under the Scale box. The model can be resized, rotated, and adjusted using these four left hand buttons.
+
+5 - Push the "Make" button on the top of the screen, and choose the location of where you want this file to be saved.
+Push the "Make" button on the top of the screen, and choose the location of where you want this file to be saved. (Desktop if connected by USB, or SDCARD if connected to a card reader)
+
+6 - Select the connected setting on the printer (USB cable or Card reader).
+Select the connected setting on the printer (USB cable or Card reader).
+
+7 - Select the file of your model that you would like to print.
+Select the file of your model that you would like to print.
+
+8 - Allow your printed model to cool for about a minute before removing it from the printer.
+Allow your printed model to cool for about a minute before removing it from the printer.
+

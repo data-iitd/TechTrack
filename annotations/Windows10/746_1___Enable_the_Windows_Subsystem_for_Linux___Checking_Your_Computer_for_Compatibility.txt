@@ -1,0 +1,25 @@
+Enable the Windows Subsystem for Linux
+https://www.wikihow.com/Enable-the-Windows-Subsystem-for-Linux
+
+0 - Checking Your Computer for Compatibility
+
+1 - Open the Settings app
+Open the Settings app.  Press the Start  button and then the Settings gear on the lower-left corner of the menu.
+- ;
+
+2 - Click the System category.
+Click the System category.
+
+3 - Select About from the left pane.
+Select About from the left pane. This will list a bunch of information about your computer.
+
+4 - Ensure that your "OS Build" is above 14393.0.
+Ensure that your "OS Build" is above 14393.0.[1]
+- X
+- Research source
+
+5 - Ensure that your "System type" is "64-bit operating system".
+Ensure that your "System type" is "64-bit operating system".[1]
+- X
+- Research source
+

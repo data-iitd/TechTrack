@@ -1,0 +1,28 @@
+Eject the CD Tray for Windows 10
+https://www.wikihow.com/Eject-the-CD-Tray-for-Windows-10
+
+0 - Ejecting from Inside a Desktop PC
+
+1 - Turn off your PC.
+Turn off your PC. If you've tried other methods and still can't eject the tray, you may need to open the CD drive internally. Turning off your computer will stop the disk from spinning and make it safe to open the drive.
+
+2 - Unplug all power cords from the back of the PC.
+Unplug all power cords from the back of the PC.
+
+3 - Press the Power button on the front of the computer.
+Press the Power button on the front of the computer. It should release, moving to the "Off" setting.
+
+4 - Remove the side panel from the computer.
+Remove the side panel from the computer. Check your PC's manual for specific instructions. Generally speaking, if there are thumbscrews, you can unscrew them by hand. Other screws can be loosened with a screwdriver. Once unscrewed, press lightly on the panel and slide it rearward until you can remove it completely.
+
+5 - Locate the CD_DVD-ROM drive.
+Locate the CD/DVD-ROM drive. You should see a power cable connecting it to the inside of the computer. The connector is usually on the back of the drive and made of plastic with 4 attached wires.
+- If the cable was not connected, connect it securely now. This was likely the problem.
+
+6 - Remove the power cable and try another.
+Remove the power cable and try another. Exchange the original power cable with another that is not in use. If your CD drive will not open, it may be an issue with its power source. Try replacing the cable that plugs into the back of the drive.
+- If you cannot find another free power cable, try reattaching the original power cord into the drive after unplugging it.
+
+7 - Replace the side panel of your computer and plug in its power cords.
+Replace the side panel of your computer and plug in its power cords. If the drive's power source prevented it from ejecting, it should now be resolved.
+

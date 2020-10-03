@@ -1,0 +1,46 @@
+Repair Dodgy or Broken Headphones
+https://www.wikihow.com/Repair-Dodgy-or-Broken-Headphones
+
+0 - Finding the Problem
+
+1 - Know which tools you'll need.
+Know which tools you'll need. Depending on the repair you end up needing to perform, you'll need to have (and know how to use) most of the following tools:
+- Soldering iron and solder
+- Knife or scissors
+- Shrink tubing
+- Wire strippers
+- Multimeter
+- ;
+
+2 - Make sure that the problem resides with the headphones.
+Make sure that the problem resides with the headphones. Plug a different set of working headphones into your preferred audio item (e.g., your computer's headphone jack) and listen for feedback; if you notice that you're not receiving any sound via the other set of headphones either, your audio item's headphone input may be the problem.;
+- You can verify this by plugging your headphones into a different input and listening for audio there.
+
+3 - Listen for cable issues.
+Listen for cable issues. Plug the headphones into an audio input, then bend the cable while you listen. If you can hear some audio through your headphones, move on to fixing the cable below.;
+
+4 - Try pushing the plug.
+Try pushing the plug. If you can only hear audio when you push or manipulate the plug end of the headphones, skip down to fixing a broken plug below.;
+
+5 - Consider attempting to repair an over-the-ear earpiece.
+Consider attempting to repair an over-the-ear earpiece. If your headphones have a detachable cable which can connect the earpieces (as with most Bluetooth headphones), try using your detachable cable with a different set of over-the-ear headphones. If you find that the other set works, your main set's earpieces are most likely to blame; you can try to fix them by using your headphones' documentation and recommended repair strategies.;
+
+6 - Set up a multimeter
+Set up a multimeter. If you haven't found the problem yet, use a multimeter. You can find one at a hardware store. Set up the multimeter as follows:;
+- Set the multimeter to test continuity, marked by ))) or a similar symbol.
+- Plug the black lead into the hole marked COM.
+- Plug the red lead into the hole marked with an Ω, mA, or ))).
+
+7 - Test your wires with the multimeter.
+Test your wires with the multimeter. The multimeter will beep if there are no breaks in the wire; to test the wire, follow the below instructions:;
+- Make one slit next to the plug, and one slit next to the earpiece.
+- The bare copper wire usually has a clear protective coat, so gently scrape the coat away with a knife.[1]
+- X
+- Research source
+- 
+- 
+- Touch the wire in one slit with the black multimeter lead, then touch the other slit with the red lead.
+- Wait for a response from the multimeter; if it beeps, the problem is in the plug or earpiece. If it does not beep, make a slit halfway along the cable and test each half of the cable.
+- Make another cut in the half that does not beep. Repeat until you've found two points a few inches (several centimeters) apart that do not cause the multimeter to beep.
+- Continue on to fixing the cable, skipping the test step.
+

@@ -1,0 +1,12 @@
+T1	Software-OS-Related 105 110	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 239 247	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 393 399	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 498 515	Device encryption
+A4	isOpened T4 f->t
+T5	Software-OS-Related 847 855	Turn off
+A5	isOpened T5 start-F
+T6	Software-OS-Related 929 937	Turn off
+A6	isOpened T6 start-F

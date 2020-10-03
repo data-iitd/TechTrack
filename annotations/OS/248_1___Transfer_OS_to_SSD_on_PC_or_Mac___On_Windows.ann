@@ -1,0 +1,75 @@
+T1	Software-OS-Related 114 121	Back up
+T2	Hardware-Other 131 141	hard drive
+T3	Hardware-Other 254 257	SSD
+T4	Hardware-Other 586 589	SSD
+T5	Hardware-Other 695 703	computer
+T6	Software-OS-Related 998 1003	files
+T7	Software-OS-Related 1022 1027	drive
+T8	Hardware-Other 1093 1097	SSDs
+T9	Hardware-Other 1171 1174	HDD
+T10	Hardware-Other 1503 1513	hard drive
+T11	Hardware-Other 1619 1627	computer
+T12	Software-Other 1801 1836	https:__www.macrium.com_reflectfree
+T13	Hardware-Other 1949 1959	hard drive
+T14	Software-Other 2014 2029	Macrium Reflect
+A1	isInstalled T14 f->t
+T15	Software-Other 2133 2141	Home Use
+T16	Software-Other 2149 2156	webpage
+T17	Software-Other 2172 2187	ReflectDLHF.exe
+A2	isOpened T17 f->t
+T18	Software-Other 2244 2252	Download
+T19	Software-Other 2260 2274	install wizard
+T20	Software-Other 2284 2287	Yes
+T21	Software-Other 2346 2350	Next
+T22	Software-Other 2362 2407	I agree to the terms in the License Agreement
+T23	Software-Other 2419 2423	Next
+T24	Software-Other 2433 2437	Home
+T25	Software-Other 2522 2529	Install
+T26	Software-Other 2540 2546	Finish
+T27	Software-Other 2560 2575	Macrium Reflect
+A3	isOpened T27 f->t
+T28	Software-Other 2975 2985	checkbox  
+T29	Software-Other 2997 3007	hard drive
+T30	Software-Other 3117 3132	Macrium Reflect
+T31	Hardware-Other 3189 3197	computer
+T32	Software-Other 3350 3365	Clone this disk
+A4	isOpened T32 f->t
+T33	Software-Other 3533 3558	Select a disk to clone to
+T34	Software-Other 3599 3611	Clone window
+A5	isOpened T33 f->t
+T35	Software-OS-Related 3946 3949	SSD
+T36	Software-Other 3960 3964	Next
+T37	Software-OS-Related 4357 4367	hard drive
+T38	Software-Other 4386 4401	Macrium Reflect
+T39	Software-Other 4502 4514	Add Schedule
+T40	Software-Other 4581 4585	Next
+T41	Software-Other 4624 4630	Finish
+T42	Software-Other 4768 4782	Macrium Reflec
+T43	Software-Other 4810 4812	Ok
+T44	Software-OS-Related 4936 4943	Restart
+T45	Hardware-Other 4949 4957	computer
+T46	Software-OS-Related 5388 5392	Boot
+T47	Software-OS-Related 5402 5406	BIOS
+A6	isOpened T47 f->t
+T48	Software-OS-Related 5813 5817	Boot
+A7	isOpened T48 f->t
+T49	Software-OS-Related 5834 5838	BIOS
+T50	Software-OS-Related 6195 6198	SSD
+T51	Software-OS-Related 6213 6223	hard drive
+A8	isSettingsChanged T50 true
+R1	SubPart Arg1:T50 Arg2:T48	
+T52	Software-OS-Related 6635 6642	reboots
+T53	Hardware-Other 6648 6656	computer
+T54	Software-OS-Related 6922 6927	Start
+A9	isOpened T54 f->t
+T55	Software-OS-Related 7030 7045	Disk Management
+A10	isOpened T55 f->t
+T56	Software-OS-Related 7268 7282	old hard drive
+A11	isOpened T56 f->t
+T57	Software-OS-Related 7384 7390	Format
+A12	isOpened T57 f->t
+T58	Software-OS-Related 7680 7693	Volume label:
+T59	Software-OS-Related 7774 7776	Ok
+T60	Software-OS-Related 7891 7893	Ok
+A13	isSettingsChanged T60 true
+R2	SubPart Arg1:T60 Arg2:T57	

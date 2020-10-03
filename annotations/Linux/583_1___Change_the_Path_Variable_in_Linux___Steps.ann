@@ -1,0 +1,10 @@
+T1	Software-OS-Related 170 175	shell
+T6	Software-OS-Related 644 649	shell
+T2	Software-OS-Related 130 134	path
+A1	isOpened T2 f->t
+T3	Software-OS-Related 683 687	PATH
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 740 744	PATH
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1281 1285	path
+A4	isSettingsChanged T5 true

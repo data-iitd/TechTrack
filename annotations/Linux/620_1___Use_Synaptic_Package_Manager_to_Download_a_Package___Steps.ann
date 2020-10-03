@@ -1,0 +1,12 @@
+T1	Software-Other 156 181	Synaptic Package Manager.
+A1	isOpened T1 f->t
+T2	Software-Other 497 508	application
+T3	Software-Other 521 529	download
+T4	Software-Other 688 695	program
+T5	Software-Other 678 682	Mark
+T6	Software-Other 932 937	Apply
+A2	isSettingsChanged T6 true
+T7	Software-Other 804 825	Mark for Installation
+R1	SubPart Arg1:T6 Arg2:T4	
+T8	Software-Other 1154 1162	Synaptic
+T9	Software-Other 1667 1678	new program

@@ -1,0 +1,40 @@
+Edit Gboard Keyboard Settings
+https://www.wikihow.com/Edit-Gboard-Keyboard-Settings
+
+0 - Using the Gboard App
+
+1 - Download and install Gboard.
+Download and install Gboard. Gboard is a custom keyboard that enables integrated Google Search and Android-style glide typing. Search for Gboard in the App Store and press “Get” to install. Upon launching, follow the explicit instructions displayed to get set up.
+- ;
+
+2 - Access Gboard’s keyboard settings.
+Access Gboard’s keyboard settings. Launch the Gboard app and tap "Keyboard Settings". A list of keyboard settings will appear.
+
+3 - Toggle Glide Typing.
+Toggle Glide Typing. Glide typing is a feature that allows you to type words by sliding your finger from key to key without lifting it away from the keyboard. This feature is unique to google keyboard and will not appear in the iOS settings.
+- The toggle will turn blue when it is on, gray color indicates that it is off.
+
+4 - Toggle Emoji Suggestions.
+Toggle Emoji Suggestions. This feature recommends emojis in along with word suggestions as you type (e.g. typing the word ‘happy’ will suggest a smiley face in place of the word).
+
+5 - Toggle Auto-correction.
+Toggle Auto-correction. This feature automatically changes misspelled words as you type. Keep an eye on names and places when this feature is turned on - they may not be recognized by the auto-correct dictionary and changed to something you don’t want.
+
+6 - Toggle Auto-capitalization.
+Toggle Auto-capitalization. This will automatically capitalize words at the beginning of sentences as well as recognized proper nouns like names.
+
+7 - Toggle Block offensive words.
+Toggle Block offensive words. This feature will omit words deemed profane by the word filter. Having this on will not block manually typed words (though they may be targeted by auto-correct), but they will not appear when glide typing or as suggestions for word replacements.
+
+8 - Toggle Character preview.
+Toggle Character preview. This feature displays a small popup of the key you just pressed while typing.
+
+9 - Toggle Enable caps lock.
+Toggle Enable caps lock. This allows the keyboard to be locked into uppercase letters by tapping and holding the “Up Arrow” (or Shift) key on the keyboard. Caps lock is indicated by a solid line displayed underneath the arrow. If you find yourself accidentally entering caps lock when you don’t mean to then you can disable it entirely here.
+
+10 - Toggle Show lower case letters.
+Toggle Show lower case letters. This option let’s you decide whether you want the keyboard display to switch to lowercase letters when uppercase is not set. Turning this off will not disabled lowercase letters, just make the display always show uppercase like a physical keyboard.
+
+11 - Toggle ".
+Toggle "." shortcut. This option allows you to add a period without tapping the period key by instead double-tapping the space key. This can be useful for fast typists.
+

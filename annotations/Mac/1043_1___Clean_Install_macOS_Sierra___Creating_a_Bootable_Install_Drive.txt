@@ -1,0 +1,53 @@
+Clean Install macOS Sierra
+https://www.wikihow.com/Clean-Install-macOS-Sierra
+
+0 - Creating a Bootable Install Drive
+
+1 - Go to https:__support.apple.com_en-us_HT208202
+
+Go to https://support.apple.com/en-us/HT208202
+
+2 - Click on Download macOS Sierra.
+Click on Download macOS Sierra. A file named InstallOS.dmg will download.
+
+3 - After the .dmg file has downloaded, open it, then click on InstallOS.pkg, and follow the onscreen instructions.
+After the .dmg file has downloaded, open it, then click on InstallOS.pkg, and follow the onscreen instructions.
+
+4 - You will find the installer in the Applications folder.
+You will find the installer in the Applications folder.
+
+5 - Plug the USB drive to the computer.
+Plug the USB drive to the computer. You’ll see a hard drive icon appear on the desktop when the drive mounts.
+
+6 - Rename the USB drive.
+Rename the USB drive. To make the drive easier to work with, name it “bootdrive.”
+- Right-click or Ctrl+click the drive icon.
+- Select “Rename.”
+- Type bootdrive
+- Press ⏎ Return
+
+7 - Launch Applications > Utilities > Terminal.app.
+Launch Applications > Utilities > Terminal.app. A black window with white text prompt will appear.
+
+8 - Copy the following command.
+Copy the following command. Use your mouse to highlight the following (lengthy) command, then press ⌘ Cmd+C to copy.
+- sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/bootdrive --applicationpath /Applications/Install\ macOS\ Sierra.app
+
+9 - Return to Terminal and press ⌘ Cmd+V.
+Return to Terminal and press ⌘ Cmd+V. The long code you copied will appear after the prompt.
+
+10 - Hit ⏎ Return.
+Hit ⏎ Return. Now you should see “Password” on the next line in the terminal.
+
+11 - Type the administrator password and press ⏎ Return.
+Type the administrator password and press ⏎ Return. When the password is accepted, you’ll see a message asking you to confirm that you want to erase the disk.
+
+12 - Press Y and then ⏎ Return.
+Press Y and then ⏎ Return. The bootable version of the Sierra installer will start copying to your USB drive.[3]
+- X
+- Research source
+- 
+- 
+- The process will take several minutes and you’ll know it’s complete when you see “Copy Complete” and “Done” in the terminal.
+- If you see a pop-up message about Time Machine during the installation, click the “Don’t Use” button.
+

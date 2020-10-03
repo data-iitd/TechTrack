@@ -1,0 +1,42 @@
+Partition a Hard Drive Using Disk Utilities
+https://www.wikihow.com/Partition-a-Hard-Drive-Using-Disk-Utilities
+
+0 - Steps
+
+1 - Enter the Boot Menu by holding down the "Option Key" during start-up.
+Enter the Boot Menu by holding down the "Option Key" during start-up.
+- ;
+
+2 - Insert Mac installation disk or a USB with OS X installation files.
+Insert Mac installation disk or a USB with OS X installation files.
+
+3 - Select the Mac OS X USB drive or DVD.
+Select the Mac OS X USB drive or DVD.
+
+4 - When the USB or DVD loads, select Disk Utility.
+When the USB or DVD loads, select Disk Utility.
+
+5 - On the left, select the hard drive you would like to partition.
+On the left, select the hard drive you would like to partition. After selecting the hard drive, select Partition located on the right.
+
+6 - Delete any existing partitions.
+Delete any existing partitions. Highlight the partition(s) and select (-) to delete partition.
+
+7 - Click on Current to choose the number of partitions.
+Click on Current to choose the number of partitions.
+
+8 - A minimum of 2 partitions must be selected.
+A minimum of 2 partitions must be selected.
+
+9 - Select Untitled 1.
+Select Untitled 1. Under Partition Information; Name: (Name of choice),Format: Mac OS Extended (Journaled), Size: (Size of choice)
+
+10 - Select Untitled 2.
+Select Untitled 2. Under Partition Information; Name: (Name of choice), Format: MS-DOS (Fat), Size:(Size of choice)
+
+11 - Select apply.
+Select apply.
+
+12 - Click on the Apple icon at the top and click on restart.
+Click on the Apple icon at the top and click on restart.
+

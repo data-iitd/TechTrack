@@ -1,0 +1,12 @@
+T1	Software-OS-Related 169 181	Task Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 471 483	More details
+A2	isOpened T2 f->t
+T3	Software-OS-Related 604 608	Name
+A3	isOpened T3 f->t
+T4	Software-OS-Related 795 812	Windows processes
+A4	isOpened T4 f->t
+T5	Software-OS-Related 942 958	Windows Explorer
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1080 1087	Restart
+A6	isOpened T6 f->t

@@ -1,0 +1,38 @@
+T1	Software-OS-Related 181 186	Start
+A1	isOpened T1 f->t
+T4	Software-OS-Related 279 293	device manager
+T5	Software-OS-Related 299 304	Start
+T6	Hardware-Other 365 373	computer
+T8	Software-OS-Related 483 488	Start
+T9	Software-OS-Related 533 548	Imaging devices
+A8	isOpened T9 f->t
+T10	Hardware-Devices 684 691	cameras
+T11	Hardware-Devices 708 714	webcam
+T13	Software-OS-Related 818 833	Imaging Devices
+T12	Software-OS-Related 861 867	Update
+T14	Software-OS-Related 980 994	Device Manager
+T15	Software-OS-Related 1016 1064	Search automatically for updated driver software
+T19	Hardware-Devices 1378 1384	webcam
+T20	Software-Device-Drivers 1520 1527	drivers
+A16	isInstalled T20 f->t
+T22	Hardware-Devices 1657 1663	webcam
+T24	Software-OS-Related 1708 1762	The best drivers for your device are already installed
+T25	Software-OS-Related 1808 1814	Update
+A18	isSettingsChanged T25 true
+T26	Software-OS-Related 1839 1857	Browse my computer
+T27	Software-OS-Related 1887 1946	Let me pick from a list of available drivers on my computer
+T28	Software-OS-Related 1956 1972	USB Video Device
+T30	Hardware-Other 2044 2052	computer
+T31	Software-OS-Related 2084 2089	Start
+T32	Software-OS-Related 2098 2103	Power
+T33	Software-OS-Related 2116 2123	Restart
+T34	Hardware-Devices 2176 2182	webcam
+T7	Software-OS-Related 420 434	Device Manager
+A6	isOpened T7 f->t
+A2	isOpened T31 f->t
+A4	isOpened T32 f->t
+A5	isOpened T24 t->f
+A7	isOpened T26 f->t
+A9	isOpened T27 f->t
+A12	isOpened T28 f->t
+A10	isOpened T12 f->t

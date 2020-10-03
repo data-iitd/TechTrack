@@ -1,0 +1,5 @@
+T1	Hardware-Devices 594 601	printer
+A1	isPowered T1 t->f
+T2	Software-OS-Related 2255 2268	control panel
+A2	isOpened T2 f->t
+T3	Hardware-Other 1141 1146	paper

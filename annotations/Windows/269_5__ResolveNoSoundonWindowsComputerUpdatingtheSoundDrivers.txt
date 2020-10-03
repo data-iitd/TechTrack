@@ -1,0 +1,38 @@
+Resolve No Sound on Windows Computer
+https://www.wikihow.com/Resolve-No-Sound-on-Windows-Computer
+
+0 - Updating the Sound Drivers
+
+1 - Press ⊞ Win+S to open Windows Search.
+Press ⊞ Win+S to open Windows Search. You can also open the search bar by clicking the magnifying glass or circle next to the Start menu.
+
+2 - Type device manager into the search bar.
+Type device manager into the search bar. A list of matching results will appear.
+
+3 - Click Device Manager.
+Click Device Manager. This displays a list of devices connected to your PC.
+
+4 - Scroll down and click the arrow next to Sound, video, and game controllers.
+Scroll down and click the arrow next to Sound, video, and game controllers.
+
+5 - Right-click your sound card and select Properties.
+Right-click your sound card and select Properties. Your sound card might be called something like "Realtek High Definition Audio."
+
+6 - Click the Driver tab.
+Click the Driver tab. It's at the top of the dialog.
+
+7 - Click Update driver.
+Click Update driver. It's at the top of the menu.
+
+8 - Click Search automatically for updated driver.
+Click Search automatically for updated driver. It's the top option. This tells Windows to search the internet and the files on your computer for more up-to-date sound drivers.
+
+9 - Install the new drivers if prompted.
+Install the new drivers if prompted. You may have to confirm this decision by clicking Yes or Install, though new drivers will typically download on their own.
+- If Windows doesn't find a new sound driver, check your computer manufacturer's website for the most recent drivers.[2]
+- X
+- Research source
+
+10 - Restart your computer.
+Restart your computer. Once the drivers are finished installing, you'll want to restart your computer to finish implementing the changes. If your drivers were the reason your computer's sound wasn't working, you should now have sound.
+

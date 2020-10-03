@@ -1,0 +1,61 @@
+T1	Software-OS-Related 421 432	Personalize
+A1	isOpened T1 f->t
+T2	Software-OS-Related 446 452	Colors
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 863 875	Task Manager
+A3	isOpened T3 f->t
+T4	Software-OS-Related 887 894	Startup
+A4	isOpened T4 f->t
+R2	SubPart Arg1:T4 Arg2:T3	
+T5	Software-OS-Related 950 957	Disable
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1328 1340	Task Manager
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1353 1361	Services
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1423 1427	Stop
+A8	isSettingsChanged T8 true
+R3	SubPart Arg1:T7 Arg2:T6	
+R4	SubPart Arg1:T5 Arg2:T4	
+R5	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 1633 1639	System
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1692 1700	Advanced
+A10	isOpened T10 f->t
+R6	SubPart Arg1:T10 Arg2:T9	
+T11	Software-OS-Related 1742 1750	Settings
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1770 1797	Adjust for best performance
+A12	isOpened T12 f->t
+R7	SubPart Arg1:T12 Arg2:T11	
+T13	Software-OS-Related 2336 2349	Control Panel
+A13	isOpened T13 f->t
+T14	Software-OS-Related 2363 2382	System and Security
+A14	isOpened T14 f->t
+T15	Software-OS-Related 2395 2408	Power Options
+A15	isOpened T15 f->t
+T16	Software-OS-Related 2421 2453	Choose what the power buttons do
+A16	isOpened T16 f->t
+T17	Software-OS-Related 2466 2486	Turn on fast startup
+A17	isOpened T17 f->t
+T18	Software-OS-Related 2543 2555	Save changes
+A18	isSettingsChanged T18 true
+R8	SubPart Arg1:T18 Arg2:T13	
+R9	SubPart Arg1:T14 Arg2:T13	
+R10	SubPart Arg1:T15 Arg2:T13	
+R11	SubPart Arg1:T16 Arg2:T15	
+R12	SubPart Arg1:T17 Arg2:T16	
+T19	Software-OS-Related 3338 3351	File Explorer
+A19	isOpened T19 f->t
+T20	Software-OS-Related 3395 3405	Properties
+A20	isOpened T20 f->t
+T21	Software-OS-Related 3418 3430	Disk Cleanup
+A21	isOpened T21 f->t
+R13	SubPart Arg1:T21 Arg2:T20	
+T22	Software-OS-Related 3487 3504	Unnecessary files
+A22	isOpened T22 f->t
+R14	SubPart Arg1:T22 Arg2:T21	
+T23	Software-OS-Related 3534 3536	OK
+A23	isSettingsChanged T23 true
+R15	SubPart Arg1:T23 Arg2:T20	

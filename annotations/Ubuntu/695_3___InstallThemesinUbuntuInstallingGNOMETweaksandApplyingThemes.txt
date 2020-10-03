@@ -1,0 +1,70 @@
+Install Themes in Ubuntu
+https://www.wikihow.com/Install-Themes-in-Ubuntu
+
+0 - Installing GNOME Tweaks and Applying Themes
+
+1 - Open the Ubuntu Software Center.
+Open the Ubuntu Software Center.  It has an icon that resembles an orange shopping bag with an "A" on it.  It's in the Dock to the left side.
+
+2 - Type Gnome Tweaks in the search bar.
+Type Gnome Tweaks in the search bar. The search bar is at the top of the Ubuntu Software Center.
+
+3 - Click GNOME Tweaks in the search results.
+Click GNOME Tweaks in the search results.  It has an icon that resembles a control panel with slider bars and knobs.
+
+4 - Click Install.
+Click Install.  It's below the software title.
+
+5 - Enter your password and click Authenticate.
+Enter your password and click Authenticate.  You'll need to enter your Ubuntu user password in order to install new software on your system.[2]
+- X
+- Research source
+- 
+- Alternatively, you can install GNOME Tweaks by running the following command in a terminal window: sudo apt-get install gnome-tweaks.
+
+6 - Click the Ubuntu icon.
+Click the Ubuntu icon.  It's in the dock to the left.  It's the circular icon with three notches.  This opens the Dash.
+
+7 - Type terminal in the search bar.
+Type terminal in the search bar.  The search bar is at the top of the Dash.
+
+8 - Click the terminal.
+Click the terminal.  The Terminal has an icon that resembles a black screen with a white cursor.
+
+9 - Type sudo apt-get install gnome-shell-extensions and press ↵ Enter.
+Type sudo apt-get install gnome-shell-extensions and press ↵ Enter.   This is the command to install the GNOME Shell extensions, which is needed to change the panel color.
+- Enter your user password when prompted to run the command.
+
+10 - Log out and log back in.
+Log out and log back in.  After you finish installing GNOME Tweaks, you need to log out in order for the installation to take.  Click the Power icon in the upper-right corner and click Log Out.  Then click your username and enter your password to log back in.
+
+11 - Open GNOME Tweaks.
+Open GNOME Tweaks.  It has an icon that resembles a control panel with slider bars and knobs.  You can open GNOME Tweaks in the Dash or by clicking "Launch" in the Ubuntu Software Center.  Use the following steps to open the GNOME Tweaks in the Dash.
+- Click the icon that resembles the Ubuntu icon.
+- Type Tweaks in the search bar at the top.
+- Click GNOME Tweaks.
+
+12 - Click Extensions.
+Click Extensions.  It's in the sidebar to the left.
+
+13 - Enable User Themes.
+Enable User Themes.  To enable user themes, click the toggle switch next to "User Themes".  This allows you to change your colors and panels.
+
+14 - Click Appearance.
+Click Appearance.  It's the first option in the sidebar menu to the left.
+
+15 - Use the drop-down menus to select themes.
+Use the drop-down menus to select themes.  You can use the drop-down menus next to "Applications," "Cursor," "Icons," and "Shell" to select installed themes.
+
+16 - Click the file icon next to "Image" below "Background.
+Click the file icon next to "Image" below "Background."  This allows you to select an image to use as your desktop wallpaper.
+
+17 - Click an image to select it and click Select.
+Click an image to select it and click Select.  This selects an image you can use for your desktop wallpaper.
+
+18 - Click the file icon next to "Image" below "Lock Screen.
+Click the file icon next to "Image" below "Lock Screen." This allows you to select an image to use for your lock seen image.
+
+19 - Click and image and click Select.
+Click and image and click Select. This selects an image you can use for your desktop wallpaper.
+

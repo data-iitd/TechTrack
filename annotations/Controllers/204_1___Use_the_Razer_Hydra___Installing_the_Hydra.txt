@@ -1,0 +1,27 @@
+Use the Razer Hydra
+https://www.wikihow.com/Use-the-Razer-Hydra
+
+0 - Installing the Hydra
+
+1 - Open the box.
+Open the box. Check if all the important accessories are inside. The Razer Hydra package typically includes:
+- Two motion-sensing controllers
+- A base station
+- A USB cable
+- A Quick Start Guide
+- ;
+
+2 - Connect the controller to its base station.
+Connect the controller to its base station. Take the cable coming from the controller and plug it in to the dedicated port on the base station. There are two ports on the base station; the controller should be connected to the right-hand port.
+
+3 - Plug the base station to your computer.
+Plug the base station to your computer. Take the USB cable and plug the smaller end into the left-hand port on the base station. Take the other end of the USB cable and connect it to any available USB port on your computer.
+
+4 - Download the Razer Hydra driver installer.
+Download the Razer Hydra driver installer. Open a web browser on your computer and download the Razer Hydra driver installer here:
+- http://www.razersupport.com/gaming-controllers/razer-hydra/.
+
+5 - Install the driver.
+Install the driver. Once the download has finished, double-click on the downloaded file to start installing the driver then wait for it to finish installing.
+- A pop-up message will appear on the bottom-right corner of your computer screen notifying you that the Razer Hydra has been detected by your PC.
+

@@ -1,0 +1,29 @@
+Move Windows to Another Drive
+https://www.wikihow.com/Move-Windows-to-Another-Drive
+
+0 - Backing Up Your Hard Drive
+
+1 - Open AOMEI Backupper.
+Open AOMEI Backupper.  It's the app that has a blue icon with an orange and green circle on the front.  It's a good idea to backup your drive, in case something goes wrong.[1]
+- X
+- Research source
+
+2 - Click Backup.
+Click Backup.  It's in the sidebar to the left of the AOMEI Backupper app.
+
+3 - Click Disk Backup.
+Click Disk Backup.  This will create an image file you can use to recover your system.
+
+4 - Click Step 1.
+Click Step 1.  Step 1 is to select a disk you want to backup.
+
+5 - Click the disk you want to backup and click Add.
+Click the disk you want to backup and click Add.  Click the disk(s) you want to backup.  The selected disks will be highlighted in green.  Click "Add" at the bottom of the app window.
+
+6 - Select a destination for the image file (optional).
+Select a destination for the image file (optional).  By default, the image file will be saved to C:\.  If you wish to select a different destination, click "Step 2" and select a destination for the backup image.
+
+7 - Click Start Backup.
+Click Start Backup.  Once you have selected a disk to backup and a destination for the image file, click the orange button that says "Start Backup" in the lower-right corner of the AOMEI Backupper window. If something goes wrong during the cloning process, you can restore your system from this system image.
+- Read Create and Use A System Image on PC to learn more about how to recover your disk using a system image.
+

@@ -1,0 +1,8 @@
+T1	Hardware-Other 122 125	can
+T2	Hardware-Other 251 259	computer
+T3	Hardware-Devices 323 331	keyboard
+A1	isPowered T3 t->f
+A2	isConnected T3 t->f
+T4	Hardware-Other 406 410	keys
+T5	Hardware-Devices 648 656	keyboard
+T6	Hardware-Other 673 677	keys

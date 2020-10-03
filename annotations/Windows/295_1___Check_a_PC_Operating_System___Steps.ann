@@ -1,0 +1,8 @@
+T1	Software-OS-Related 471 476	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 2594 2605	My Computer
+A2	isOpened T2 f->t
+T3	Software-OS-Related 2766 2776	Properties
+A3	isOpened T3 f->t
+T4	Software-OS-Related 2875 2892	System Properties
+A4	isOpened T4 f->t

@@ -1,0 +1,62 @@
+Turn Off Automatic Updates in Windows 10
+https://www.wikihow.com/Turn-Off-Automatic-Updates-in-Windows-10
+
+0 - Using Group Policy Editor
+
+1 - Make sure that you're using the right version of Windows.
+Make sure that you're using the right version of Windows. You'll need a pre-Anniversary edition of Windows 10 Pro or an equivalent. You can't use this method if you're using Windows 10 Home edition.
+- The Windows 10 Education and Enterprise editions also include the Group Policy Editor.
+- You can check your version of Windows by typing system into Start, clicking System Information near the top of the menu, and looking for "Microsoft Windows 10 Professional" to the right of the "OS Name" heading.
+- The Windows Anniversary update removed the option to turn off automatic updates from the Group Policy Editor.
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+3 - Type in run.
+Type in run. Doing so will search your computer for the Run program.
+
+4 - Click Run.
+Click Run. It's the speeding envelope icon near the top of the Start window. Doing so opens the Run program in the bottom-left side of your computer's screen.
+
+5 - Launch the Group Policy Editor.
+Launch the Group Policy Editor. Type gpedit.msc into the Run window, then click OK. The Group Policy Editor window will open.
+
+6 - Navigate to the "Windows Update" folder.
+Navigate to the "Windows Update" folder. In the sidebar on the left side of the Group Policy Editor window, do the following:
+- Click  to the left of the "Administrative Templates" folder.
+- Click  to the left of the "Windows Components" folder.
+- Scroll down and click the "Windows Update" folder.
+
+7 - Click Configure Automatic Updates.
+Click Configure Automatic Updates. It's an item in the main Group Policy Editor window. Doing so selects this item.
+
+8 - Open the "Configure Automatic Updates" properties window.
+Open the "Configure Automatic Updates" properties window. Right-click the selected Configure Automatic Updates item, then click Edit in the resulting drop-down menu.[2]
+- X
+- Research source
+
+9 - Check the "Enabled" box.
+Check the "Enabled" box. It's in the upper-left side of the window.
+
+10 - Click the "Configure automatic updating" drop-down box.
+Click the "Configure automatic updating" drop-down box. This option is on the left side of the window.
+
+11 - Click 2 - Notify for download and notify for install.
+Click 2 - Notify for download and notify for install. It's in the drop-down menu. This option ensures that you'll be asked before updates are installed, allowing you to decline the updates.
+
+12 - Click Apply, then click OK.
+Click Apply, then click OK. Doing so saves your changes.
+
+13 - Apply your changes.
+Apply your changes. To do so:
+- Open Start
+- Open Settings
+- Click Update & Security
+- Click Windows Update
+- Click Check for updates
+- Wait for Windows to identify available updates (Windows will not install these updates).
+
+14 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu. Once your computer finishes restarting, your update preferences will be saved.
+- You'll still be able to manually allow updates as they become available.
+

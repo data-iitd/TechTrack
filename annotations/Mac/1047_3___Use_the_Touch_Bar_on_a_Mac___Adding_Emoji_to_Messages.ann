@@ -1,0 +1,4 @@
+T1	Software-Other 150 163	Smiley button
+A1	isSettingsChanged T1 true
+T2	Software-Other 292 307	Category button
+A2	isSettingsChanged T2 true

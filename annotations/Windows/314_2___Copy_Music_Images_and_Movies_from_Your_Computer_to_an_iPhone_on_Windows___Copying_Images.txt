@@ -1,0 +1,31 @@
+Copy Music, Images, and Movies from Your Computer to an iPhone on Windows
+https://www.wikihow.com/Copy-Music,-Images,-and-Movies-from-Your-Computer-to-an-iPhone-on-Windows
+
+0 - Copying Images
+
+1 - Click Photos.
+Click Photos. This tab is in the left-hand sidebar below the "Settings" heading.
+
+2 - Check the "Sync Photos" box.
+Check the "Sync Photos" box. It's at the top of the Sync Photos page. Doing so will allow you to add photos from your computer to your iPhone.
+
+3 - Click the "Copy photos from:" drop-down box.
+Click the "Copy photos from:" drop-down box. You'll find this option near the top of the Sync Photos page. A drop-down menu will appear.
+- The default folder is your computer's "Pictures" folder. If this is the folder you want to use, skip the next two steps.
+
+4 - Click Choose folder….
+Click Choose folder…. It's at the top of the drop-down menu.
+
+5 - Select a folder.
+Select a folder. Click the folder from which you want to upload photos, then click Select Folder. This will choose the folder you selected as the only place from which your iPhone takes photos during this sync period.
+
+6 - Select subfolders if need be.
+Select subfolders if need be. If the picture folder you selected has one or more folders in it that you don't want photos from, check the "Selected folders" radio button and then check each folder you want to use to upload photos.
+
+7 - Determine whether or not you want to include videos.
+Determine whether or not you want to include videos. Check the "Include videos" box in the middle of the page to upload videos in your selected folder, or leave the box unchecked to upload only pictures.
+
+8 - Click Apply.
+Click Apply. Your selected photos will begin uploading to your iPhone. Once the photos finish uploading, you can move on to uploading videos.
+- This process may take awhile.
+

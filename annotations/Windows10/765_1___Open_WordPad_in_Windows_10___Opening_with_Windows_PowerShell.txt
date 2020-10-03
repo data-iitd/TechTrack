@@ -1,0 +1,22 @@
+Open WordPad in Windows 10
+https://www.wikihow.com/Open-WordPad-in-Windows-10
+
+0 - Opening with Windows PowerShell
+
+1 - Run Powershell.
+Run Powershell. Type powershell into the taskbar search bar (or launch the Start  menu and type if the bar is missing).
+
+2 - Select "Windows PowerShell".
+Select "Windows PowerShell". Ignore any advanced results that may appear (such as "PowerShell ISE" and "PowerShell (x86)").[5]
+- X
+- Research source
+
+3 - Wait until you see the Microsoft copyright info at the top.
+Wait until you see the Microsoft copyright info at the top. Depending on your computer, there might be a delay of up to 5 seconds until this appears.
+
+4 - Type write.exe.
+Type write.exe.
+
+5 - Hit ↵ Enter.
+Hit ↵ Enter.
+

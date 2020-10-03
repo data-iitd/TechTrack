@@ -1,0 +1,32 @@
+Clear a Printer Spooler
+https://www.wikihow.com/Clear-a-Printer-Spooler
+
+0 - Clearing a Printer Spooler in Windows 8 and 10
+
+1 - Click on the start menu.
+Click on the start menu. The start menu looks like 4 blue boxes. If you can't find the start menu on your screen, press the button on your keyboard that looks like 4 black boxes and the “S” key at the same time to open the menu.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Search for “Services.msc” in the search box.
+Search for “Services.msc” in the search box. The search box should be located in the menu that popped up when you clicked start. After you type “Services.msc” into the search box, press the “Enter” key on your keyboard.[2]
+- X
+- Research source
+
+3 - Select “Print spooler” in the window that pops up.
+Select “Print spooler” in the window that pops up. The window should say “Services” at the top. On the right side of the window, scroll through the list of services until you find the one labeled “Print spooler.” The services should be in alphabetical order. Click on “Print spooler” so the column is highlighted in blue.[3]
+- X
+- Research source
+
+4 - Click on “Restart the service.
+Click on “Restart the service.” Look for this button on the left side of the “Services” window. You'll find it below the “Stop the service” button, and above “Description.”[4]
+- X
+- Research source
+
+5 - Try printing your document again.
+Try printing your document again. Go back into the program you were printing from and pull up the document you were working on. Click the “Print” button in the program. The document should now print.[5]
+- X
+- Research source
+

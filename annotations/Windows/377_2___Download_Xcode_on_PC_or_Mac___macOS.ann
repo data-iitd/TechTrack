@@ -1,0 +1,12 @@
+T1	Software-Other 110 119	App Store
+A1	isOpened T1 f->t
+T2	Software-Other 387 392	Xcode
+A2	isOpened T2 f->t
+T3	Software-Other 500 503	Get
+A3	isOpened T3 f->t
+T4	Software-Other 530 537	Install
+A4	isInstalled T4 f->t
+T5	Software-Other 698 702	Open
+A5	isOpened T5 f->t
+T6	Software-Other 749 754	Agree
+A6	isOpened T6 f->t

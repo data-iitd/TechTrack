@@ -1,0 +1,35 @@
+T1	Hardware-Devices 142 153	colorimeter
+T2	Hardware-Devices 266 272	screen
+T3	Hardware-Devices 354 362	monitor'
+T4	Hardware-Devices 462 473	colorimeter
+T5	Software-OS-Related 899 906	Windows
+T6	Software-OS-Related 908 913	macOS
+T7	Software-OS-Related 919 924	Linux
+T8	Hardware-Devices 1038 1045	monitor
+A1	isPowered T8 start-F
+T9	Software-Device-Drivers 1370 1392	colorimeter's software
+A4	isInstalled T9 f->t
+T10	Hardware-Other 1492 1494	CD
+T11	Hardware-Devices 1780 1791	colorimeter
+T12	Hardware-Other 1843 1852	USB cable
+T13	Hardware-Other 1870 1895	computer's free USB ports
+T14	Hardware-Other 1992 1999	USB hub
+T15	Hardware-Other 2029 2037	keyboard
+A7	isPowered T11 f->t
+T16	Software-OS-Related 2119 2136	on-screen prompts
+A8	isOpened T16 f->t
+T17	Hardware-Devices 2203 2214	colorimeter
+T18	Software-OS-Related 2233 2246	pop-up window
+A10	isOpened T18 f->t
+T19	Hardware-Devices 2322 2333	colorimeter
+T20	Hardware-Devices 2343 2349	screen
+T21	Hardware-Other 2466 2470	lens
+T22	Hardware-Devices 2440 2447	monitor
+T23	Software-Other 2530 2550	colorimeter software
+A15	isOpened T23 start-T
+T26	Software-OS-Related 2780 2793	pop-up window
+A18	isOpened T26 f->t
+T27	Hardware-Devices 2954 2965	colorimeter
+A19	isPowered T27 t->f
+A20	isConnected T27 t->f
+*	Equiv T2 T3

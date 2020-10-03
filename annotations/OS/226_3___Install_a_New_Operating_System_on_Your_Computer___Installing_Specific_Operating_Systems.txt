@@ -1,0 +1,26 @@
+Install a New Operating System on Your Computer
+https://www.wikihow.com/Install-a-New-Operating-System-on-Your-Computer
+
+0 - Installing Specific Operating Systems
+
+1 - Install Windows 7
+Install Windows 7. Windows 7 is currently Microsoft's most popular operating system. Follow this guide for specific instructions.
+
+2 - Install Windows 8
+Install Windows 8. Windows 8 is Microsoft's newest operating system. Click here for a detailed guide on the installation process.
+
+3 - Install Ubuntu
+Install Ubuntu. Ubuntu is one of the most popular distributions of Linux available. Click for step-by-step instructions for installing the Ubuntu distribution.
+
+4 - Install Mac OS X
+Install Mac OS X. If you want to upgrade your copy of Mac OS X, check out this guide.
+
+5 - Install Linux Mint
+Install Linux Mint. Linux Mint is a newer Linux distribution that is quickly increasing in popularity. Follow this guide to learn how to install it.
+
+6 - Install Fedora
+Install Fedora. Fedora is an older Linux distribution that has a long history of stability. This guide will show you how to install it.
+
+7 - Install Mac OS X on an Intel or AMD computer (Hackintosh)
+Install Mac OS X on an Intel or AMD computer (Hackintosh). If you've got some patience and the desire to install Mac OS X on your PC, check out this guide.
+

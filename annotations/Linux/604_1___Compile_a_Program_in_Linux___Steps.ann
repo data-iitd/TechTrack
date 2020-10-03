@@ -1,0 +1,17 @@
+T2	Software-Other 311 318	tarball
+T3	Software-Other 591 598	extract
+A1	isSettingsChanged T3 true
+T1	Software-Other 112 123	source code
+R1	SubPart Arg1:T3 Arg2:T1	
+T4	Software-OS-Related 820 828	terminal
+T5	Software-Other 1000 1009	directory
+A2	isOpened T5 f->t
+T6	Software-Other 1116 1127	./configure
+A3	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T5	
+T7	Software-Other 1338 1342	make
+A4	isSettingsChanged T7 true
+R3	SubPart Arg1:T7 Arg2:T5	
+T8	Software-Other 1692 1704	make install
+T9	Software-Other 1803 1814	source code
+A5	isInstalled T9 f->t

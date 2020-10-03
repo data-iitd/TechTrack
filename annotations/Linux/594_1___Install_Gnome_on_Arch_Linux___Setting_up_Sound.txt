@@ -1,0 +1,34 @@
+Install Gnome on Arch Linux
+https://www.wikihow.com/Install-Gnome-on-Arch-Linux
+
+0 - Setting up Sound
+
+1 - Make sure that you're using Arch Linux.
+Make sure that you're using Arch Linux. If you have a dual-boot system, you may need to switch to Arch Linux by restarting your computer, selecting Arch Linux when prompted, and pressing ↵ Enter.
+- If you restart your computer, you will have to enter your username and password to log into Arch Linux before continuing.
+- ;
+
+2 - Enter the sound package download command.
+Enter the sound package download command. Type in sudo pacman -S alsa-utils and press ↵ Enter.
+
+3 - Enter your root password when prompted.
+Enter your root password when prompted. This password may be different than the one that you use to log into your system. Type in your password, then press ↵ Enter.
+
+4 - Confirm the download.
+Confirm the download. Type in y and press ↵ Enter. The Arch Linux sound package will begin downloading.
+
+5 - Enter the sound configuration command.
+Enter the sound configuration command. Type in alsamixer and press ↵ Enter. You should see a series of vertical bars appear on your screen.
+
+6 - Configure your computer's sound levels.
+Configure your computer's sound levels. Select a sound level (e.g., master) using the right or left arrow keys, then raise or lower the volume of that level by pressing the up or down arrow key. When you're done setting the levels, press F6, select your computer's sound card name, and press ↵ Enter.
+
+7 - Exit the sound configuration page.
+Exit the sound configuration page. Press the Esc key to do so.
+
+8 - Test your speakers.
+Test your speakers. Type in speaker-test -c 2 and press ↵ Enter. This will prompt Linux to test your speakers to make sure that they're working properly.
+
+9 - Complete the process.
+Complete the process. Press Ctrl+C (or ⌘ Command+C on a Mac) to do so.
+

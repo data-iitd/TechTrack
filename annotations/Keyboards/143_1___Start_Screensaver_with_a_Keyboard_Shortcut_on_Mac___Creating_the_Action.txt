@@ -1,0 +1,21 @@
+Start Screensaver with a Keyboard Shortcut on Mac
+https://www.wikihow.com/Start-Screensaver-with-a-Keyboard-Shortcut-on-Mac
+
+0 - Creating the Action
+
+1 - Open Automator.
+Open Automator. If you press F4, it should be in the folder titled Other.;
+
+2 - Choose a type for the document.
+Choose a type for the document. Choose Quick Action.
+
+3 - Search for Start Screen Saver in the top left corner.
+Search for Start Screen Saver in the top left corner. Double click on it.
+
+4 - Make sure it is set to Workflow receives no input in any application on the right hand side.
+Make sure it is set to Workflow receives no input in any application on the right hand side.
+
+5 - Test by clicking on Run in the top right corner.
+Test by clicking on Run in the top right corner. If the screen saver starts, you can press the X button and click on Save, naming it something easy to find (like “Start Screen Saver”).
+- If it doesn't work, read each instruction carefully and try again, or activate screensaver in your System Preferences.
+

@@ -1,0 +1,23 @@
+Change Windows Startup Sound
+https://www.wikihow.com/Change-Windows-Startup-Sound
+
+0 - Windows XP Startup Sound
+
+1 - Click the Start menu and select "Control Panel".
+Click the Start menu and select "Control Panel".
+
+2 - Open "Sounds and Audio Devices".
+Open "Sounds and Audio Devices".
+
+3 - Click the "Sounds" tab.
+Click the "Sounds" tab.
+
+4 - Scroll down and select the "Start Windows" entry.
+Scroll down and select the "Start Windows" entry.
+
+5 - Click the "Browse" button to search your computer for a new sound.
+Click the "Browse" button to search your computer for a new sound. It must be in WAV format.
+
+6 - Click "Apply" to save your changes.
+Click "Apply" to save your changes.
+

@@ -1,0 +1,29 @@
+Change a Computer's Mac Address in Windows
+https://www.wikihow.com/Change-a-Computer%27s-Mac-Address-in-Windows
+
+0 - Using the Device Manager
+
+1 - Open the Device Manager.
+Open the Device Manager. You can access the Device Manager from the Control Panel. It will be located in the System and Security section if you are using Category View.
+- ;
+
+2 - Expand the Network Adapters section.
+Expand the Network Adapters section. In your Device Manager, you will see a list of all of the hardware installed on your computer. These are sorted into categories. Expand the Network Adapters section to see all of your installed network adapters.
+- If you are not sure which adapter you are using, see Step 1 of the second method to find your device's Description.
+
+3 - Right-click on your adapter.
+Right-click on your adapter. Select Properties from the menu to open the network adapter's Properties window.
+
+4 - Click the Advanced tab.
+Click the Advanced tab. Look for the "Network Address" or "Locally Administered Address" entry. Highlight it and you will see a "Value" field on the right. Click the radio button to enable the "Value" field.
+- Not all adapters can be changed this way. If you can't find either of these entries, you will need to use one of the other methods in this article.
+
+5 - Enter your new MAC address.
+Enter your new MAC address. MAC addresses are 12-digit values, and should be entered without any dashes or colons. For example, if you want to make the MAC address "2A:1B:4C:3D:6E:5F", you would enter "2A1B4C3D6E5F".
+
+6 - Reboot your computer to enable the changes.
+Reboot your computer to enable the changes. You can also disable and re-enable your adapter within Windows for the change to become effective without rebooting. Just sliding the Wi-Fi's On/Off switch like the slider found on ThinkPads and VaiOs won't satisfactorily disable/re-enable the card.
+
+7 - Check that the changes took effect.
+Check that the changes took effect. Once you've rebooted the computer, open the Command Prompt and enter ipconfig /all and note the Physical Address of your adapter. It should be your new MAC address.
+

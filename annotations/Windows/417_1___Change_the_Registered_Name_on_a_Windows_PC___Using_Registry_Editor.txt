@@ -1,0 +1,43 @@
+Change the Registered Name on a Windows PC
+https://www.wikihow.com/Change-the-Registered-Name-on-a-Windows-PC
+
+0 - Using Registry Editor
+
+1 - Review your system protocol.
+Review your system protocol. If you're on a work computer or an otherwise non-personal machine, chances are pretty high that you won't have access to the registry editor--and even if you do, you probably shouldn't be making changes to the computer's registration.
+- Even if you don't think there will be an issue, remember that there can be legal ramifications to tampering with a machine's registration. Check with any system administrators first!
+- Changing a personal computer's registration can render the computer unclaimable in the event that it is stolen; it can also reset your saved wifi networks, as workplace and school wifi providers rely on your registration staying consistent.
+- ;
+
+2 - Open the registry editor.
+Open the registry editor. Registry editor allows you to make changes to system software and hidden files, which is what you'll need to do to edit the default username. To open the registry editor, go to Run, type in "regedit", and click "OK". This should bring up the registry editor, in which several folders should be viewable in the left-hand corner of the window.
+- You may encounter a pop-up window asking you if you're sure you want to open registry editor. Click "OK" to continue.
+- If your system sends you an error message that states your ineligibility to access registry editor, you're probably not cleared to make changes to software on that specific machine.
+
+3 - Expand the relevant data tree.
+Expand the relevant data tree. Locate the HKEY_LOCAL_MACHINE file and expand it, then do the same for the ensuing files SOFTWARE, Microsoft, and finally Windows NT. Make sure you're expanding these files, not just clicking on them. [1]
+- X
+- Research source
+- 
+- To expand a file, click the chevron-style arrow next to it. This should result in an extensive list of all the sub-folders appearing.
+
+4 - Change the registered owner.
+Change the registered owner. Click on--but don't expand--a file labeled "CurrentVersion", then scroll down to an item labeled "RegisteredOwner" in the right-hand pane and double click it to bring up the value editor. You can change this value from the current name to whatever you see fit. [2]
+- X
+- Research source
+- 
+- You can also change the registered organization in the same location by double-clicking the item labeled "Registered Organization". Again, make sure you have explicit permission to make this change before doing so if you're on a shared computer.
+
+5 - Finalize your username.
+Finalize your username. Though you've changed the registered user at this point, the default name that will show on the login screen isn't bound to this registry item. To finalize your changes, scroll through the contents of "CurrentVersion" until you find a folder entitled "Winlogon"; click on this file, find the registry item labeled "DefaultUser" (or "DefaultUsername") and double-click it to change its value.
+- Make sure this value perfectly matches the change you made to the registered owner above.
+
+6 - Confirm your changes.
+Confirm your changes. To ensure your changes carried over, open the file explorer by accessing the Start menu and clicking on "File Explorer" (Windows 8 and 10). Find the "File" tab in the upper left-hand corner, click it, and then click on "Help"; click "About Windows" in the resulting menu. A window should pop up with your PC's details, including its registered name. If the name on the window matches the name you entered, you're good to go!
+- A much easier and more consistent way of verifying your name is by opening System Information and scrolling through your system's details until you come to your registered name. To access System Information in any operating system, open Run, type in "msinfo32.exe" without the quotation marks, and click "OK".
+- On Windows XP, you'll open "Explore" from Start, then go to "Help" in the upper left-hand corner and click on "About Windows" in the menu.
+- On Windows Vista and Windows 7, you'll click "Open Windows Explorer" from Start, then click the "Help" tab in the upper left-hand corner and click on "About Windows" in the menu.
+
+7 - Reboot your computer.
+Reboot your computer. When you log back in, your computer should display your newly-entered name above the login information section. This will finalize your process.
+

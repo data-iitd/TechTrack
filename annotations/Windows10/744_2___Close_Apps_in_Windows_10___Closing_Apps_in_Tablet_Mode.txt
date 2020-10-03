@@ -1,0 +1,51 @@
+Close Apps in Windows 10
+https://www.wikihow.com/Close-Apps-in-Windows-10
+
+0 - Closing Apps in Tablet Mode
+
+
+1 - Use the ✕ button window control.
+Use the ✕ button window control.
+- Tap the red ✕ button at the top-right of your screen. Note: The window control for Windows Store apps is hidden until provoked (only by a mouse).
+- Tap it. The app will close and the full screen Start menu will open.
+
+2 - Pull the app's title bar to the bottom of the screen.
+Pull the app's title bar to the bottom of the screen. This was introduced as the way to close Windows 8 Metro apps.[2]
+- X
+- Research source
+- 
+-  It's slightly different in Windows 10—there is no flip animation. Just pull the title bar to the bottom of the screen and release.
+
+3 - Use the Task View window.
+Use the Task View window.
+- Click the taskbar task view  icon. It's to the right of the search bar/icon. Alternatively, press ⊞ Win+Tab ↹ together.
+- Locate the app you wish to close. From here, you can drag it to the bottom or continue reading.
+- Press and hold on the app preview.
+- Choose Close.
+
+4 - Use Task Manager.
+Use Task Manager. Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x.[3]
+- X
+- Research source
+- 
+- 
+- Press the Cortana/search icon on the taskbar.
+- Search for task manager.
+- Choose the matching result.
+- Task Manager: Alternatively, right-click the listing and click End task from the context menu.
+- Tap End task from the bottom-right. The app should close within a few seconds.
+
+5 - Use the title bar context menu.
+Use the title bar context menu.
+- Hold down and release the title bar of the app.
+- Choose × Close. It's at the bottom of the menu.
+
+6 - Use the taskbar app icon context menu.
+Use the taskbar app icon context menu.
+- Press and hold the taskbar.
+- Ensure there is a check mark next to Show app icons. If not, tap it.
+- Locate the icon of the app you wish to close.
+- Hold down and release the app icon.
+- Tap ✕ Close window. It's the option closest to the icon.
+- Note: The option will be listed as ✕ Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in "Settings > Personalization > Taskbar > "Combine taskbar buttons" dropdown".
+

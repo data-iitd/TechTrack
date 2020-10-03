@@ -1,0 +1,20 @@
+T1	Software-Other 136 154	PNG to PDF website
+A1	isOpened T1 f->t
+T2	Software-Other 192 211	http://png2pdf.com/
+*	Equiv T1 T2
+T3	Software-Other 220 242	computer's web browser
+A3	isOpened T3 start-T
+T4	Software-OS-Related 370 374	file
+T5	Hardware-Other 274 282	document
+T6	Hardware-Other 429 437	computer
+T8	Software-Other 459 478	http://jpg2pdf.com/
+A5	isInstalled T3 start-T
+A7	isInstalled T1 start-F
+T11	Software-OS-Related 585 598	File Explorer
+A9	isOpened T11 f->t
+T13	Software-OS-Related 612 618	Finder
+A10	isOpened T13 f->t
+T27	Hardware-Other 1208 1216	computer
+T28	Software-OS-Related 299 302	PDF
+A2	isOpened T8 f->t
+A6	isInstalled T8 start-F

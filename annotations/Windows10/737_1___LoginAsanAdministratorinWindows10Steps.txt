@@ -1,0 +1,28 @@
+Log in As an Administrator in Windows 10
+https://www.wikihow.com/Log-in-As-an-Administrator-in-Windows-10
+
+0 - Steps
+
+1 - Search for “cmd” in the search bar of your Start Menu.
+Search for “cmd” in the search bar of your Start Menu. You can also pull up the search bar by pressing ⊞ Win+S. You’ll need to activate the account in command prompt to use it.
+- ;
+
+2 - Right-click the search result and click “Run as Administrator”.
+Right-click the search result and click “Run as Administrator”.  Click “Yes” in the box that pops up to continue.
+
+3 - Type net user administrator _active:yes and press ↵ Enter.
+Type net user administrator /active:yes and press ↵ Enter. You’ll see text confirming your entry. If you see an error, you may have mistyped the command. The default Windows 10 administrative account is active, but not password protected.
+- Type net user administrator * to change the password.
+
+4 - Log out of your current session.
+Log out of your current session. You can access the option to “Sign out” from your profile picture in the Start Menu.
+
+5 - Click the Administrator user account.
+Click the Administrator user account.
+
+6 - Type the password for the account (optional).
+Type the password for the account (optional). If you changed the password in Command Prompt, you will be prompted to enter that here. If you did not change the password, you can skip this step.
+
+7 - Click Sign in.
+Click Sign in.
+

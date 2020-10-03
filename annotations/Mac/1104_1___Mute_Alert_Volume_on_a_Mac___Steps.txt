@@ -1,0 +1,25 @@
+Mute Alert Volume on a Mac
+https://www.wikihow.com/Mute-Alert-Volume-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo at the far left corner of the top menu bar on your Mac.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click on the "Sound" icon.
+Click on the "Sound" icon. It looks like a speaker.
+- If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+
+4 - Click Sound Effects.
+Click Sound Effects.
+
+5 - Click and drag the "Alert volume" slider all the way to the left.
+Click and drag the "Alert volume" slider all the way to the left. The alert sound will preview at every increment on the scale, but you won't hear any sound when you've reached the far left.
+
+6 - Click the red "x" button.
+Click the red "x" button. You will no longer hear sounds when system messages appear, when you are required to enter information or approve tasks, or when you attempt an action that's not allowed.
+

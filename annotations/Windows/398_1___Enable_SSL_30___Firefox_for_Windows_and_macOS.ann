@@ -1,0 +1,16 @@
+T1	Software-Other 104 111	Firefox
+A1	isOpened T1 f->t
+T2	Hardware-Devices 120 122	PC
+A2	isUsed T2 true
+T3	Hardware-Devices 126 129	Mac
+A3	isUsed T3 true
+T4	Software-OS-Related 215 220	Start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 246 258	Applications
+A5	isOpened T5 f->t
+T6	Software-Other 469 487	I accept the risk!
+A6	isOpened T6 f->t
+T7	Software-Other 781 806	security.tls.version.max.
+A7	isOpened T7 f->t
+T8	Software-Other 928 930	OK
+A8	isSettingsChanged T8 true

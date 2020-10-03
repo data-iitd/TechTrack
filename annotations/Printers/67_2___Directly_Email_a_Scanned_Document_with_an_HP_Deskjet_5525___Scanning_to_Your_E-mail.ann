@@ -1,0 +1,13 @@
+T1	Hardware-Devices 193 200	printer
+A1	isUsed T1 true
+T2	Software-OS-Related 1156 1160	Scan
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 659 673	Scan to E-mail
+A3	isOpened T3 f->t
+T4	Software-OS-Related 811 815	Scan
+A4	isOpened T4 f->t
+T5	Software-OS-Related 828 834	E-mail
+A5	isOpened T5 f->t
+T6	Software-Other 965 973	Document
+T7	Software-Other 956 961	Photo
+R1	SubPart Arg1:T2 Arg2:T3	

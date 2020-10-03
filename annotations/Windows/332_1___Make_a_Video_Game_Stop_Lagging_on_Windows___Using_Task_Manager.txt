@@ -1,0 +1,41 @@
+Make a Video Game Stop Lagging on Windows
+https://www.wikihow.com/Make-a-Video-Game-Stop-Lagging-on-Windows
+
+0 - Using Task Manager
+
+1 - Open the game that is lagging.
+Open the game that is lagging.
+- ;
+
+2 - Open up Task Manager.
+Open up Task Manager. This can be done in the following ways:
+- On Windows XP and below, press Ctrl+Alt+Delete.
+- On Windows Vista and above, press Ctrl+Alt+Delete and select it from the list of safety options.
+- Right-click the task-bar and select it from the menu.
+
+3 - Go to the process list.
+Go to the process list. On the top of the Task Manager, there should be a few tabs labeled "Applications", "Processes", "Services", "Performance", and so forth. Select the tab labeled "Processes".
+
+4 - Select your game, and boost the priority.
+Select your game, and boost the priority. This can be done by right-clicking on the name of your game (with a .exe at the end) and selecting "High/Above Normal" priority.[1]
+- X
+- Research source
+
+5 - Look at all the currently running processes in your already-opened Task Manager window.
+Look at all the currently running processes in your already-opened Task Manager window. Make sure Task Manager is in the expanded view - if it is not, it will have an arrow pointing down at the bottom of the window. Click on the arrow to show all the information available.
+
+6 - Look at the "Memory" and "Disk" columns.
+Look at the "Memory" and "Disk" columns. If you have a lot of processes running, the percentage at the top of the column will likely be high.
+
+7 - Kill any processes which are using up a lot of memory or disk power.
+Kill any processes which are using up a lot of memory or disk power. To do this, simply click on the offending process and then click the Kill button at the bottom of the window.[2]
+- X
+- Research source
+- 
+- 
+- Don't force your computer to kill any processes which the system warns you may cause your system to become unusable. This can permanently damage your computer.
+- If the percentage displayed in the disk column remains high but there are few processes using up a lot of disk power running, you may have a problem with your disk drive. Take your computer to a repair shop to get the disk fixed or replaced.
+
+8 - Play the game.
+Play the game. It should be less laggy than before. If you are still having problems, move on to the next method.
+

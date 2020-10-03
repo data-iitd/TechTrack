@@ -1,0 +1,37 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Resetting Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the bottom-left corner of the Start window.
+
+3 - Click  Update & security.
+Click  Update & security. It's on the Settings page.
+
+4 - Click Recovery.
+Click Recovery. This tab is in the left-hand column of options.
+
+5 - Click Get started.
+Click Get started. It's below the "Reset this PC" heading at the top of the window.
+
+6 - Select a reset option.
+Select a reset option. Click one of the following options:
+- 
+- Keep my files - Keeps your files and folders when resetting your PC.
+- Remove everything - Completely clears your hard drive. Make sure that you have a backup of your documents and files stored elsewhere (e.g., an external hard drive) if you choose this option.
+
+7 - Click Next.
+Click Next. It's on a warning about not being able to go back to Windows 7.
+- If you chose Remove everything in the last window, you'll first click either Just remove my files or Remove files and clean the drive before this step.
+
+8 - Click Reset.
+Click Reset. It's at the bottom of the window. Your computer will reset itself. This can take anywhere from a few minutes to a few hours.
+
+9 - Click Continue when prompted.
+Click Continue when prompted. This will take you to the desktop, which should now be functioning normally.
+- If you're still running into the BSOD at this point, it's time to take your computer into a professional repair service to have it checked.
+

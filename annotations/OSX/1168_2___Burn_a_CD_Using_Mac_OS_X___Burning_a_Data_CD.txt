@@ -1,0 +1,25 @@
+Burn a CD Using Mac OS X
+https://www.wikihow.com/Burn-a-CD-Using-Mac-OS-X
+
+0 - Burning a Data CD
+
+1 - Insert a blank CD-R or CD-RW into the CD drive.
+Insert a blank CD-R or CD-RW into the CD drive. A CD-R can be written to once, and then becomes read-only. A CD-RW can have data added and deleted.
+- These steps work for burning data DVDs as well as CDs, as long as your computer supports burning DVDs.
+
+2 - Choose the Open Finder option.
+Choose the Open Finder option. When you insert a blank disc, you are typically asked how you would like to handle it on the computer. This option will open the Finder so you can easily drag and drop files when you select the CD
+
+3 - Look for the icon of the blank CD that appears on your desktop.
+Look for the icon of the blank CD that appears on your desktop. It will be labeled “Untitled CD”. Double-click it to open the CD Finder window.
+
+4 - Drag and drop the desired folders and files onto the CD.
+Drag and drop the desired folders and files onto the CD. Rename any files or folders that you want before you start the burn process. Once they are burned to the CD, you cannot change the names.
+
+5 - Initiate the burn.
+Initiate the burn. Click File and then select “Burn Untitled CD”. You will be given the opportunity to name the CD. This name will appear whenever the CD is inserted into a computer.
+
+6 - Click Burn after naming the CD.
+Click Burn after naming the CD. The files will then be saved onto the CD. This process can take anywhere from a minute to almost an hour depending on the size of the files you want to burn.
+- To reuse a CD-RW disc, erase all of the data on the disc and then repeat the burn process.
+

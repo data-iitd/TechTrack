@@ -1,0 +1,10 @@
+T1	Software-OS-Related 155 168	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 325 344	Change account type
+A2	isOpened T2 f->t
+T3	Software-OS-Related 437 449	user account
+A3	isOpened T3 f->t
+T4	Software-OS-Related 533 556	Change the account name
+T5	Software-OS-Related 670 681	Change Name
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T2	

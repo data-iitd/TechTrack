@@ -1,0 +1,35 @@
+T3	Software-OS-Related 290 298	Settings
+A3	isOpened T3 f->t
+T5	Software-OS-Related 534 541	Devices
+A5	isOpened T5 f->t
+T6	Hardware-Other 637 644	speaker
+T7	Hardware-Other 649 657	keyboard
+T11	Software-OS-Related 1131 1140	Bluetooth
+T12	Hardware-Devices 1161 1171	headphones
+T13	Software-OS-Related 1179 1188	Bluetooth
+T16	Software-OS-Related 1503 1511	Settings
+A14	isOpened T16 f->t
+T17	Software-OS-Related 1520 1527	Devices
+A15	isOpened T17 f->t
+T18	Software-OS-Related 1816 1829	troubleshoote
+A16	isOpened T18 f->t
+T22	Hardware-Other 517 519	PC
+T23	Hardware-Other 1931 1933	PC
+T24	Hardware-Other 2348 2350	PC
+T4	Hardware-Devices 898 908	headphones
+T19	Software-OS-Related 2147 2157	headphones
+T20	Software-OS-Related 2260 2269	Bluetooth
+T21	Software-OS-Related 306 316	Start menu
+T25	Software-OS-Related 599 612	Settings menu
+T8	Software-OS-Related 705 734	Add Bluetooth or other device
+A1	isOpened T8 f->t
+A4	isPowered T4 f->t
+T10	Hardware-Other 811 813	PC
+T14	Hardware-Other 1410 1412	PC
+T15	Hardware-Devices 1455 1465	headphones
+T27	Hardware-Devices 2302 2320	Jaybird headphones
+A7	isSettingsChanged T19 true
+T28	Software-OS-Related 1546 1555	Bluetooth
+T1	Software-OS-Related 173 186	Start  button
+A2	isOpened T1 f->t
+A8	isSetup T27 true

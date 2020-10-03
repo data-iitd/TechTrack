@@ -1,0 +1,14 @@
+T1	Software-OS-Related 177 195	cat > filename.txt
+T2	Software-OS-Related 201 209	Terminal
+T3	Software-OS-Related 267 275	filename
+T4	Software-OS-Related 320 326	sample
+T5	Software-OS-Related 393 408	cat > kitty.txt
+T6	Software-OS-Related 475 484	text file
+T7	Software-OS-Related 525 534	directory
+T8	Software-OS-Related 541 547	cursor
+T9	Software-OS-Related 579 587	Terminal
+T13	Software-OS-Related 1140 1158	ls -l filename.txt
+T14	Software-OS-Related 1230 1238	filename
+T16	Software-OS-Related 1352 1361	directory
+T17	Software-OS-Related 1734 1743	directory
+T18	Software-OS-Related 1614 1647	time, date, and name of your file

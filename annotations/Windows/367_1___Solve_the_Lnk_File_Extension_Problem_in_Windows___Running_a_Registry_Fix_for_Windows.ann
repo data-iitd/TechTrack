@@ -1,0 +1,10 @@
+T1	Software-Other 183 195	Registry fix
+A1	isInstalled T1 f->t
+T2	Software-Other 926 938	Registry fix
+A2	isOpened T2 f->t
+T3	Hardware-Devices 1694 1696	PC
+A3	isUsed T3 true
+T4	Software-OS-Related 1483 1488	Start
+A4	isOpened T4 f->t
+T5	Software-Other 1216 1220	.lnk
+A5	isInstalled T5 f->t

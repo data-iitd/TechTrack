@@ -1,0 +1,42 @@
+Fix a Webcam That Is Displaying a Black Screen on Windows
+https://www.wikihow.com/Fix-a-Webcam-That-Is-Displaying-a-Black-Screen-on-Windows
+
+0 - Using Device Manager
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Type device manager into Start.
+Type device manager into Start. Doing so will search your computer for the Device Manager program.
+
+3 - Click  Device Manager.
+Click  Device Manager. It's at the top of the Start window.
+
+4 - Scroll down and double-click Imaging devices.
+Scroll down and double-click Imaging devices. Doing so will expand the Imaging Devices section to show any connected visual items or cameras, including your webcam.
+
+5 - Select your webcam's name.
+Select your webcam's name. Click the name of your webcam below the Imaging Devices section.
+
+6 - Click the "Update" button.
+Click the "Update" button. This icon is the black box with a green arrow next to it at the top of the Device Manager window.
+
+7 - Click Search automatically for updated driver software.
+Click Search automatically for updated driver software. It's in the middle of the window. This will prompt Windows to begin searching for a software update.
+
+8 - Wait for Windows to finish searching for drivers.
+Wait for Windows to finish searching for drivers. If Windows discovers updated drivers for your webcam, they will be installed.
+- You may have to confirm the installation or follow some on-screen instructions if prompted.
+
+9 - Install drivers manually if necessary.
+Install drivers manually if necessary. If Windows doesn't find updated drivers, you can still force your webcam to update. To do so:
+- Click Close on the "The best drivers for your device are already installed" window.
+- Select the webcam and click the "Update" button again.
+- Click Browse my computer for driver software
+- Click Let me pick from a list of available drivers on my computer
+- Click USB Video Device and then click Next
+- Click Close when prompted.
+
+10 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart. Once your computer finishes starting back up, your webcam should be back to normal.
+

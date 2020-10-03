@@ -1,0 +1,8 @@
+T1	Software-OS-Related 504 517	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1111 1124	User Accounts
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1565 1589	Change your account name
+A3	isOpened T3 f->t
+T4	Hardware-Devices 2103 2111	computer
+A4	isUsed T4 true

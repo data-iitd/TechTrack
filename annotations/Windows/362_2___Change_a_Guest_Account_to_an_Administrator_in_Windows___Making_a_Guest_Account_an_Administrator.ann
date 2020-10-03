@@ -1,0 +1,20 @@
+T1	Hardware-Devices 202 210	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 219 240	Administrator account
+A2	isOpened T2 f->t
+T3	Software-OS-Related 490 503	Control Panel
+A3	isOpened T3 f->t
+T4	Software-OS-Related 778 797	Change Account Type
+A4	isOpened T4 f->t
+T5	Software-OS-Related 752 757	start
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1063 1076	Guest Account
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1166 1189	Change the Account Type
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1360 1373	Administrator
+T9	Software-OS-Related 1445 1464	Change Account Type
+A8	isSettingsChanged T8 true
+A9	isSettingsChanged T9 true
+R1	SubPart Arg1:T8 Arg2:T6	
+R2	SubPart Arg1:T9 Arg2:T6	

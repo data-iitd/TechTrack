@@ -1,0 +1,33 @@
+Begin Using a Mac
+https://www.wikihow.com/Begin-Using-a-Mac
+
+0 - The Basics
+Start up your computer. After the circle under the Apple Logo rotates for a few seconds, the computer will take you on a quick video, and then will ask for you to enter your area, some personal information, and a user name and password. Enter the info, and proceed to log in.
+
+2 - Right-click menu on a Mac.
+Right-click menu on a Mac. Many PC users are used to right-clicking the mouse in order to bring up a list of helpful options; on a Mac there are ways to get similar results. The easiest way would be to control-click an item. Control-click means holding down Ctrl while clicking the item. This will bring up a shortcut menu. Alternatively, you can configure the mouse or trackpad to use the right side of the mouse or trackpad as the secondary button (aka right-click) in System Preferences (Apple Menu>System Preferences>Mouse or Apple Menu>System Preferences>Trackpad).
+
+3 - Use Finder to find various documents, pictures, and other files.
+Use Finder to find various documents, pictures, and other files. Finder is, for Mac users, essentially what Windows Explorer is for PC users.
+
+4 - Force quit an unresponsive application.
+Force quit an unresponsive application. Press Command-Option-Escape when an application becomes unresponsive. This works in the same way the Ctrl-Alt-Delete works for PC users. Another way to force-quit an application is to Control-click the item on the Dock and selecting Force-quit from the menu.
+
+5 - Closing a Window.
+Closing a Window. Click the red button in the upper left hand corner of the window to close the window of an application. This does not exit the application. The hotkey in many applications is Command-W.
+
+6 - Minimize a Window.
+Minimize a Window. To minimize a window (put it in the Dock to the right of the racetrack) click the yellow button next to it. Alternatively, double-click on the Title Bar.
+
+7 - Maximize a Window.
+Maximize a Window. To maximize a window, click the green button on the right.
+
+8 - Exit an application.
+Exit an application. Click on the application name in the Menu Bar, then click on Quit at the bottom of the menu. The hotkey in almost all applications is Command-Q.
+
+9 - Switch applications.
+Switch applications. In any app, press Cmd-tab to quickly switch between apps.
+
+10 - Press the Command key on the Mac for shortcut keys (hotkeys) instead of Ctrl on Windows.
+Press the Command key on the Mac for shortcut keys (hotkeys) instead of Ctrl on Windows. For example Command + C to copy, and Command + V to paste.
+

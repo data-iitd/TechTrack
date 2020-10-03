@@ -1,0 +1,26 @@
+Change the Windows 10 Language
+https://www.wikihow.com/Change-the-Windows-10-Language
+
+0 - Through Settings
+
+1 - Go to Settings > Time & Language > Region & Language.
+Go to Settings > Time & Language > Region & Language.;
+
+2 - Click on + Add a Language.
+Click on + Add a Language.
+
+3 - Choose the language you want to add.
+Choose the language you want to add.
+
+4 - Click on the language, and click on Options, then click Download under Download Language Pack.
+Click on the language, and click on Options, then click Download under Download Language Pack.
+
+5 - Wait.
+Wait.  The download usually takes a few seconds, but may take longer based off of internet speed.
+
+6 - Click on the language, and click on Set as default.
+Click on the language, and click on Set as default.  This will change the display language.
+
+7 - Restart your computer.
+Restart your computer.  The display language will be noticeable after a restart.
+

@@ -1,0 +1,84 @@
+Transfer OS to SSD on PC or Mac
+https://www.wikihow.com/Transfer-OS-to-SSD-on-PC-or-Mac
+
+0 - On MacOS
+
+1 - Check to see if you can install a new hard drive to your Mac.
+Check to see if you can install a new hard drive to your Mac.  Macs are notoriously difficult to upgrade.  The method for installing a hard drive is different from one Mac model to another.  Some models may not allow you to install a new hard drive.  Many models may require you to take your Mac to an Apple authorized service provider to replace your hard drive.  Click here to see if your Mac allows you to install a new hard drive.
+
+2 - Purchase an SSD enclosure.
+Purchase an SSD enclosure.  In order to transfer your MacOS to a new SSD, you will need to an external enclosure.  This allows you to connect the SSD to your Mac using a USB.  Make sure you purchase the right size enclosure for your SSD.
+
+3 - Back up your old hard drive.
+Back up your old hard drive.  Before doing any repairs or upgrades, it's important to back up all the data on your old hard drive.  This protects your data in case something goes wrong.  If your SSD has smaller storage space than your old drive, it may be necessary to delete some files so that your old hard drive will be able to fit on the new SSD.   Read "How to Back Up A Computer" to learn more about how to back up the files on your computer.
+
+4 - Remove excess files from your old hard drive (if needed).
+Remove excess files from your old hard drive (if needed).  If your new SSD is smaller than your old hard drive, it may be necessary to delete files you don't need so that all the contents of your old hard drive will fit on your new SSD.  As long as your files are backed up, you should be able to access them later.
+
+5 - Connect the SSD to your Mac.
+Connect the SSD to your Mac.  Place the SSD inside the enclosure and connect it to your Mac using an available USB port.
+
+6 - Open the Finder .
+Open the Finder .  It's the app that has a blue and white icon with a smiley face.
+
+7 - Type Disk Utility in the search bar and open the Disk Utility.
+Type Disk Utility in the search bar and open the Disk Utility.  The search bar is in the upper-right corner of the finder.  Typing "Disk Utility" will display the Disk Utility app.  It has an icon that resembles a hard drive with a stethoscope.  Click this app as soon as it appears.
+
+8 - Select the SSD.
+Select the SSD.  The SSD is listed in the sidebar to the left under "External".  Usually, it will be listed under the name of the manufacturer.
+
+9 - Click Erase.
+Click Erase.  It's at the top of the Disk Utility in the middle.
+
+10 - Type a new name for your hard drive (optional).
+Type a new name for your hard drive (optional).  By default, the new SSD will retain the original name the manufacturer gave it.  If you want to give it a new name, type it in the box labeled "Name".
+
+11 - Select "APFS" or "Mac OS Extended (Journaled)".
+Select "APFS" or "Mac OS Extended (Journaled)".  If you are using MacOS High Sierra, select APFS in the drop-down menu labeled "Format".  If you are using an older version of Mac OS, select "Mac OS Extended (Journaled)" from the drop-down menu.
+
+12 - Click Erase.
+Click Erase.  It's in the lower-right corner of the Disk Utility tool.  This erases the SSD and formats it.
+
+13 - Go to https:__www.shirt-pocket.com_SuperDuper_ in a web browser.
+Go to https://www.shirt-pocket.com/SuperDuper/ in a web browser.  SuperDuper is a simple and free program that allows you to clone your hard drive on Mac.
+
+14 - Click Download.
+Click Download.  It's in the column on the right side of the page, below the bold text that says "Download Now".  This download the Super Duper installer.
+
+15 - Install Super Duper.
+Install Super Duper.  Use the following steps to install SuperDuper:
+- Click "SuperDuper!.dmg" in your web browser or "Downloads" folder.
+- Click Agree.
+- Double-click SuperDuper!.app
+- If you are asked if you are sure you want to open SuperDuper!.app, click Open.
+- Click Install in "Applications".
+
+16 - Open Super Duper.
+Open Super Duper.  Super Duper opens automatically once it's installed.  If it is not currently open, you can open it in the "Applications" folder in the Finder.
+
+17 - Select your Mac's current hard drive under "Copy".
+Select your Mac's current hard drive under "Copy".  Use the drop-down menu under "Copy" to select your Mac's current hard drive.
+
+18 - Select the SSD next to "to".
+Select the SSD next to "to".  Use the drop-down menu next to "to" to select the SSD.
+
+19 - Select "Back up - all files".
+Select "Back up - all files".  Use the drop-down menu next to "using" to select "Back up - all files".
+
+20 - Click Copy Now.
+Click Copy Now.  It's the blue button that appears at the bottom of Super Duper when you selected a "Copy" drive, and a "to" drive.
+
+21 - Type your user password.
+Type your user password.  You will need to type your user password in order to copy your hard drive over to a new SSD.
+
+22 - Click Copy.
+Click Copy.  This confirms that you want to copy the contents of your Mac's hard drive to a new SSD.  This process may take a few hours to complete.
+
+23 - Click Ok.
+Click Ok.  This button appears once the cloning process is completed.[3]
+- X
+- Research source
+
+24 - Install the SSD in your Mac.
+Install the SSD in your Mac.  This process is different depending on your Mac model.  If you need assistance, take your Mac to an authorized Apple service provider.
+

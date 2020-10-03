@@ -1,0 +1,26 @@
+Get to the Boot Menu on Windows
+https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows
+
+0 - Windows XP
+
+1 - Press  Ctrl+Alt+Del.
+Press  Ctrl+Alt+Del.[1]
+- X
+- Research source
+
+2 - Click Shut Down….
+Click Shut Down….
+
+3 - Click the drop-down menu.
+Click the drop-down menu.
+
+4 - Click Restart.
+Click Restart.
+
+5 - Click OK.
+Click OK. The computer will now restart.  As soon as the computer restarts, you will need to act quickly—be ready.
+
+6 - Press F8 repeatedly as soon as the computer powers on.
+Press F8 repeatedly as soon as the computer powers on. Continue tapping this key until you see the Advanced Boot Options menu—this is the Windows XP boot menu.
+- If Windows boots to the desktop, repeat this process to try again.
+

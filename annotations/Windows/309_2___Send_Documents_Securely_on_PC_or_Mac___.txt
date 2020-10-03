@@ -1,0 +1,44 @@
+Send Documents Securely on PC or Mac
+https://www.wikihow.com/Send-Documents-Securely-on-PC-or-Mac
+
+0 - 
+
+1 - Open Outlook on your PC or Mac.
+Open Outlook on your PC or Mac. It’s usually in All Apps area of the Start menu in Windows, and in the Applications folder in macOS.
+
+2 - Click New Email.
+Click New Email. It’s the envelope icon at the top-left corner of the window.
+
+3 - Click the File menu.
+Click the File menu. It’s near the top-left corner of the screen.
+- If you’re using Outlook 2010, click the Options menu, then select More Options.
+
+4 - Click Properties.
+Click Properties. If you’re using Outlook 2010, skip to the next step.
+
+5 - Click 	Security settings.
+Click 	Security settings.
+
+6 - Check the box next to “Encrypt message contents and attachments.
+Check the box next to “Encrypt message contents and attachments.”
+
+7 - Click OK.
+Click OK. This message will now be encrypted.
+
+8 - Click Close.
+Click Close. Now that the encryption settings are set, you can create the message.
+
+9 - Enter a recipient, subject, and message.
+Enter a recipient, subject, and message.
+
+10 - Click Attach file.
+Click Attach file. It’s the paperclip icon at the top of the new message. This opens your computer’s file browser.[2]
+- X
+- Research source
+
+11 - Select the attachment and click Open.
+Select the attachment and click Open. This attaches the file to the message.
+
+12 - Click Send.
+Click Send. The message will now be delivered to the recipient.
+

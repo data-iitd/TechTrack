@@ -1,0 +1,28 @@
+Set up Automatic Printing from a Mobile Device
+https://www.wikihow.com/Set-up-Automatic-Printing-from-a-Mobile-Device
+
+0 - Steps
+
+1 - Download the Automatic Print Email software on your computer.
+Download the Automatic Print Email software on your computer. It only works on Windows, and is free for 30 days.
+
+2 - Create a separate free Internet POP-accessible email account, like Gmail or Yahoo!
+Create a separate free Internet POP-accessible email account, like Gmail or Yahoo!. This will be the email address to which you will forward all the emails you want to print.
+
+3 - Set up a filter to auto-delete all email that's not from your primary email.
+Set up a filter to auto-delete all email that's not from your primary email. This will prevent spam from coming in. Your primary email is the one from which you will send print jobs through your device.
+- For Gmail, click on the "Options" icon in the top right-hand corner, and select "Mail Settings." Go to the "Filters" section and click on "Create a new filter."
+- In the "Doesn't Have" field, type in from: followed by your primary email address, without spaces. This applies the filter to all email that is not from your primary address. Click "Test Search" if you'd like Gmail to show you which of your current emails the filter would apply to, and when you're ready to move on, hit "Next Step."
+- Check "Delete it" to delete all email that is not from your primary email address. Because this email account will just be used for your printing purposes, this prevents it  from becoming unnecessarily clogged up.
+
+4 - Set up the automatic print email program to check and print both the email message and attachment automatically, or whichever you prefer.
+Set up the automatic print email program to check and print both the email message and attachment automatically, or whichever you prefer.
+- Click on "Your email account" in the top-left corner and then on the "New Account" link.
+- A wizard will pop up to help you set up your account. Start by entering what you'd like to name the email account, and selecting whether this is a POP3, IMAP4, or other type of account.
+- Type in the server address for incoming mail. Then enter in your username and password for logging into your email account.
+- Decide how often you'd like the program to check for new messages.
+- Choose the printer that you'd like every email and attachment to print from. Click on the blue "Settings" link if you want to modify the print settings, as you won't get to do so for each print job. If you scroll down, you can also opt to have the program delete the email after printing it.
+
+5 - When you get an email on your mobile device, just forward it to this new email account to send it to the printer!
+When you get an email on your mobile device, just forward it to this new email account to send it to the printer!
+

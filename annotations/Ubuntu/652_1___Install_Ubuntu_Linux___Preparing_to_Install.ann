@@ -1,0 +1,14 @@
+T1	Software-Other 892 931	https://www.ubuntu.com/download/desktop
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 957 965	Download
+A3	isSettingsChanged T2 true
+T3	Software-Other 1068 1105	Not now, take me to the download link
+A4	isOpened T3 f->t
+T4	Hardware-Devices 498 506	DVD disc
+A5	isConnected T4 f->t
+T5	Hardware-Devices 1210 1238	Burn the ISO file onto a DVD
+A6	isSetup T5 true
+A7	isConnected T5 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T2	

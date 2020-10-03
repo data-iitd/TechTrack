@@ -1,0 +1,60 @@
+Fix an Offline Printer
+https://www.wikihow.com/Fix-an-Offline-Printer
+
+0 - Troubleshooting on macOS
+
+1 - Make sure your printer is turned on.
+Make sure your printer is turned on. Before starting with any other step in the troubleshooting process, make sure your printer is turned on and connected to a power source.
+- If the printer is in Sleep mode, you may have to press a button on it to wake it up.
+
+2 - Restart your printer.
+Restart your printer. If the printer was already turned on, it may just need a restart to stop appearing offline. Follow these steps to restart the printer:
+- Turn off and unplug your printer for 30 seconds. This will give your printer time to reboot and reconnect to your computer.
+- Plug in and turn on your printer. After a few moments, check to see if the printer is still showing as "offline."
+
+3 - Make sure the printer is connected to the same network as your computer.
+Make sure the printer is connected to the same network as your computer. If your printer is connected to your computer via Wi-Fi or an ethernet connection, a network issue could make it appear offline.
+- The steps to check your printer's network settings vary by printer. You'll usually have to use the buttons directly on the printer to navigate its internal menus.
+- If you're using a USB cable to connect to the printer, make sure it's securely plugged in. You may also want to try a different USB cable to rule out a faulty cable connection.
+
+4 - Make sure there is paper in the printer tray.
+Make sure there is paper in the printer tray. Some printers will appear offline if no paper is available to print on.[3]
+- X
+- Research source
+
+5 - Click the Apple  menu.
+Click the Apple  menu. You can find it in the top-left corner of the screen.
+
+6 - Click System Preferences on the menu.
+Click System Preferences on the menu.
+
+7 - Click Printers & Scanners or Print & Scan.
+Click Printers & Scanners or Print & Scan. This opens the menu listing all printers connected to your Mac in a new window. Select the printer you want to connect in this menu.
+
+8 - Right-click anywhere inside the Printers window.
+Right-click anywhere inside the Printers window. This opens a small pop-up list with more options for the printer listed in the window.
+
+9 - Select Reset printing system in the menu.
+Select Reset printing system in the menu. This opens another window that asks to confirm you resetting the printing system.
+
+10 - Click Reset in the confirmation window.
+Click Reset in the confirmation window. This will open a window asking for the Administrator name and password.
+- This will delete all printers and scanners connected with your Mac, so make sure to re-add any devices you still want to use after restarting your system.
+
+11 - Enter the Administrator name and password and click OK.
+Enter the Administrator name and password and click OK. Once you do this, the system will then complete the reset process for your Mac's printing system.
+
+12 - Navigate back to the Printers & Scanners page.
+Navigate back to the Printers & Scanners page. After you've reset your printing system, you'll need to add the printer to your Mac again.
+
+13 - Click Add a Device.
+Click Add a Device. This opens the dialog that scans for your printer to detect it automatically.
+- Make sure your printer is turned on and ready to connect before proceeding with this step.
+
+14 - Select your printer and click Add.
+Select your printer and click Add. This will re-connect your printer with your Mac's wireless network. At this point, your printer should appear online if there are no mechanical issues.
+- If you haven't already, make sure to connect any other devices this way to re-add them.
+
+15 - Contact your printer manufacturer for assistance.
+Contact your printer manufacturer for assistance. If you're still having trouble with your printer, the issue is likely related to the printer itself. Contact the manufacturer of your printer for further assistance.
+

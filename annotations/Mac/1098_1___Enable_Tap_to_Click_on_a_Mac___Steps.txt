@@ -1,0 +1,28 @@
+Enable Tap to Click on a Mac
+https://www.wikihow.com/Enable-Tap-to-Click-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo at the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Trackpad" icon.
+Click the "Trackpad" icon.
+
+4 - Click the first check box to enable "Look up & data detectors.
+Click the first check box to enable "Look up & data detectors." An animation will display on the right side of the window, showing you an example of the three-finger tap to show lookup & data detectors.
+
+5 - Click the check box next to "Secondary click" to enable it.
+Click the check box next to "Secondary click" to enable it. An animation will display on the right side of the window, showing you an example of the two-finger secondary menu tap.
+- Click the drop-down arrow to select a different option for a secondary click.
+
+6 - Click the check box next to "Tap to click" to enable it.
+Click the check box next to "Tap to click" to enable it. An animation will display on the right side of the window, showing you an example of the one-finger tap to click.
+
+7 - Click the red "X" button.
+Click the red "X" button. Your tap to click setting will be saved!
+

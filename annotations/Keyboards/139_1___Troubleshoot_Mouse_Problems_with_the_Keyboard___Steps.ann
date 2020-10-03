@@ -1,0 +1,32 @@
+T1	Hardware-Devices 155 162	Desktop
+A1	isPowered T1 start-T
+T2	Hardware-Devices 225 233	keyboard
+A3	isPowered T2 start-T
+T3	Software-OS-Related 355 362	WINDOWS
+T4	Hardware-Other 390 392	UP
+T5	Hardware-Other 400 403	key
+T6	Software-OS-Related 436 449	Control Panel
+T7	Hardware-Other 542 547	Enter
+T8	Hardware-Other 564 574	ARROW KEYS
+T9	Software-OS-Related 603 608	MOUSE
+T10	Software-OS-Related 614 627	MOUSE OPTIONS
+T11	Software-OS-Related 715 720	ENTER
+*	Equiv T10 T9
+T12	Hardware-Other 737 744	TAB Key
+T13	Hardware-Devices 752 760	keyboard
+T14	Software-OS-Related 793 800	BUTTONS
+T15	Software-OS-Related 812 817	ENTER
+T16	Hardware-Other 932 941	ARROW KEY
+T17	Software-OS-Related 974 982	HARDWARE
+T18	Hardware-Other 1149 1152	TAB
+T19	Software-OS-Related 1175 1185	PROPERTIES
+T20	Hardware-Other 1206 1211	ENTER
+T21	Hardware-Other 1014 1019	enter
+T22	Software-OS-Related 1425 1437	TROUBLESHOOT
+T23	Software-OS-Related 1505 1509	HELP
+T24	Hardware-Other 1525 1533	computer
+A2	isSettingsChanged T17 true
+A4	isSettingsChanged T14 true
+A5	isSettingsChanged T10 true
+A6	isSettingsChanged T6 true
+A7	isSettingsChanged T19 true

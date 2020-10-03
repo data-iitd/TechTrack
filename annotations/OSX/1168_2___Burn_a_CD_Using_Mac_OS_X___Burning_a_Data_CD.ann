@@ -1,0 +1,14 @@
+T1	Hardware-Other 165 184	blank CD-R or CD-RW
+T2	Hardware-Devices 194 202	CD drive
+A2	isConnected T2 start-T
+T3	Software-OS-Related 460 471	Open Finder
+A1	isSettingsChanged T3 true
+T4	Software-OS-Related 833 844	Untitled CD
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1205 1209	File
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1227 1243	Burn Untitled CD
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1409 1413	Burn
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T4	

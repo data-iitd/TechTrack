@@ -1,0 +1,31 @@
+Recover Accidentally Deleted Files in OS X
+https://www.wikihow.com/Recover-Accidentally-Deleted-Files-in-OS-X
+
+0 - Using Time Machine
+
+1 - Open Spotlight .
+Open Spotlight . Click the magnifying glass icon in the top-right corner of the screen. A search bar will appear.
+
+2 - Type time machine into Spotlight.
+Type time machine into Spotlight. Doing so searches for the Time Machine app on your computer.
+
+3 - Click Time Machine.
+Click Time Machine. It's a teal app with a clock on it. You should see this option near the top of the Spotlight search results. Time Machine will open.
+
+4 - Select the files' location.
+Select the files' location. Click the folder that contained your file(s) on the left side of the Time Machine window. Doing so will show you the folder's contents.
+
+5 - Go to a backup during which your files were still on your Mac.
+Go to a backup during which your files were still on your Mac. Click the upward-facing arrow to the right of the Time Machine window to scroll through backups until you see your deleted files appear.[1]
+- X
+- Research source
+- 
+- If you scroll past the files' creation date and they still aren't showing up, you can't use Time Machine to restore the files.
+
+6 - Select the files that you want to restore.
+Select the files that you want to restore. Click and drag your mouse across a group of files to select them all, or hold ⌘ Command and click individual files to select them independently.
+
+7 - Click Restore.
+Click Restore. It's a grey button near the bottom of the Time Machine window. This will restore your selected files.
+- You may have to repeat this process for different folder locations in Time Machine.
+

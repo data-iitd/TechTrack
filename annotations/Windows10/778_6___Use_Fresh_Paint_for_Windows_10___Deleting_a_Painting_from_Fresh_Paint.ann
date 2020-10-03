@@ -1,0 +1,8 @@
+T1	Software-Other 147 155	painting
+T2	Software-Other 525 526	☰
+T3	Software-Other 614 620	Delete
+A1	isOpened T3 f->t
+A2	isOpened T2 f->t
+T4	Software-Other 694 700	Delete
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	

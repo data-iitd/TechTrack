@@ -1,0 +1,46 @@
+Set up Mobile Broadband in Ubuntu
+https://www.wikihow.com/Set-up-Mobile-Broadband-in-Ubuntu
+
+0 - Steps
+
+1 - Log into your Linux Mint KDE 9 Desktop.
+Log into your Linux Mint KDE 9 Desktop.
+- ;
+
+2 - Once you've logged into your Linux Mint KDE 9 Desktop, plug in your modem.
+Once you've logged into your Linux Mint KDE 9 Desktop, plug in your modem. Once your modem is plugged in, you should see the icon of a cellular phone A.K.A Cell Phone in the Task bar/ task panel. Now go to Network Connections. If you can't find it in the Task bar/ task panel for whatever reason, go to the Start Menu A.K.A Kickoff Application Launcher and type Network Connections in the Search box.
+
+3 - Notice the Cell Phone in the Task panel_Task bar.
+Notice the Cell Phone in the Task panel/Task bar. It indicates whether your modem has been detected.
+
+4 - Now, click the Mobile Broadband Tab within the Network Connections window.
+Now, click the Mobile Broadband Tab within the Network Connections window. You should see a   Connection called New Cellular Connection or something similar to that.
+
+5 - -Highlight that connection and click the Edit menu to the right.
+-Highlight that connection and click the Edit menu to the right.
+
+6 - Now, type *99# in the Number box.
+Now, type *99# in the Number box.
+
+7 - Leave the Username box, the Password box, the PIN box and the PUK box empty unless your Modem doesn't require them.
+Leave the Username box, the Password box, the PIN box and the PUK box empty unless your Modem doesn't require them. In other words if your SIM card in the Modem came with a PIN, then you must type it in the PIN box. Sometimes your Internet Service Provider may give a you a Username and a Password which you would therefore have to type in. Not all Internet Service Providers have the same requirements.
+
+8 - Type your Internet Service Providers  name in the APN box.
+Type your Internet Service Providers  name in the APN box. Mine was orange.ug. If you can't find your  ISP's name you could either call your Customer Service line or ask around if you have no Internet access. If you happen to have access to the Internet, search for your ISP using Google, or even better, visit your ISP's website.
+
+9 - In the Connection Name box, type in a name for your Modem.
+In the Connection Name box, type in a name for your Modem. Mine was Orange Connection 1. Giving your Modem a random name won't affect the way it works.
+
+10 - Next, go to the PPP tab and ensure that all the Authentication  Methods are checked.
+Next, go to the PPP tab and ensure that all the Authentication  Methods are checked.
+
+11 - Leave the rest as it is and click OK.
+Leave the rest as it is and click OK. You can check the Connect automatically check box  if you want the Modem to be connected automatically as soon as you plug it.
+
+12 - Now to connect to the Internet, just click the Cell Phone Icon in the Task bar_ Task Panel and the click the connection you have just created.
+Now to connect to the Internet, just click the Cell Phone Icon in the Task bar/ Task Panel and the click the connection you have just created.
+
+13 - Congratulations you've just connected your Modem onto Linux Mint KDE 9
+
+Congratulations you've just connected your Modem onto Linux Mint KDE 9
+

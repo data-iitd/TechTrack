@@ -1,0 +1,17 @@
+T1	Hardware-Other 178 183	mouse
+T2	Hardware-Devices 307 315	keyboard
+T3	Hardware-Other 373 379	napkin
+T4	Hardware-Other 441 449	computer
+A1	isPowered T2 start-T
+T5	Hardware-Devices 470 478	keyboard
+A4	isPowered T5 t->f
+T6	Hardware-Other 502 506	keys
+T7	Hardware-Other 756 761	swabs
+T8	Hardware-Other 776 783	napkins
+T9	Hardware-Other 802 806	keys
+T10	Hardware-Other 1006 1015	hairdryer
+T11	Hardware-Devices 1074 1082	keyboard
+T12	Hardware-Devices 1132 1140	keyboard
+T13	Hardware-Other 1243 1247	keys
+T14	Hardware-Other 1435 1441	napkin
+T15	Hardware-Devices 1602 1610	keyboard

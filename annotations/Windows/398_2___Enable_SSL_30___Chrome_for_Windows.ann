@@ -1,0 +1,14 @@
+T1	Software-Other 93 99	Chrome
+A1	isOpened T1 f->t
+T2	Hardware-Devices 108 110	PC
+A2	isUsed T2 true
+T3	Software-Other 318 326	Settings
+A3	isOpened T3 f->t
+T4	Software-Other 408 427	Open proxy settings
+A4	isOpened T4 f->t
+T5	Software-Other 561 569	Advanced
+A5	isOpened T5 f->t
+T6	Software-Other 646 657	Use SSL 3.0
+T7	Software-Other 762 764	OK
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T4	

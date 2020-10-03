@@ -1,0 +1,21 @@
+Move Windows to Another Drive
+https://www.wikihow.com/Move-Windows-to-Another-Drive
+
+0 - Installing AOMEI Backupper
+
+1 - Go to https:__www.backup-utility.com_download.html in a web browser.
+Go to https://www.backup-utility.com/download.html in a web browser.  This is the download page for AOMEI Backupper.  It's an app you can use to backup and clone your system to another drive.
+- ;
+
+2 - Click Local Download.
+Click Local Download.  It's the second blue button on the right-hand side of the page.
+
+3 - Click Local Download 1 or Local Download 2.
+Click Local Download 1 or Local Download 2.  Both options are below the "Local Download" option when you click on it.  The AOMEI install file will start downloading immediately.
+
+4 - Run the install file.
+Run the install file.  By default, downloaded files can be found in your "Downloads" folder.  Most web browsers also allow you to run downloaded files from within the web browser.  Double-click "BackupperFull.exe" to install AOMEI Backupper.
+
+5 - Click Install Now.
+Click Install Now.  It's the large blue button that appears when you launch the AOMEI Backupper Install File.  This will install AOMEI Backupper.
+

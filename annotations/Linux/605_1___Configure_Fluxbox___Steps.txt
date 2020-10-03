@@ -1,0 +1,37 @@
+Configure Fluxbox
+https://www.wikihow.com/Configure-Fluxbox
+
+0 - Steps
+
+1 - Install Fluxbox.
+Install Fluxbox. In the terminal either type apt-get install fluxbox (Ubuntu or other Debian based systems) or yum install fluxbox (Red Hat) or urpmi fluxbox (Mandriva).
+- ;
+
+2 - Load Fluxbox from the options or sessions on the login screen.
+Load Fluxbox from the options or sessions on the login screen.
+- Or go to your home folder and edit .xinitrc adding "exec startfluxbox" then logout and login again.
+
+3 - Right click anywhere on the desktop to bring up the menu.
+Right click anywhere on the desktop to bring up the menu.
+
+4 - Fluxbox uses a taskbar to store opened applications.
+Fluxbox uses a taskbar to store opened applications. It is sometimes referred to as the "Slit", but this is wrong.
+
+5 - Fluxbox is a tabbed window manager so you can store multiple windows in one window with tabs.
+Fluxbox is a tabbed window manager so you can store multiple windows in one window with tabs. Use the middle mouse button to drag Window title bars onto one another (and off on another to separate them again.
+
+6 - Go to your home folder and into the .fluxbox folder.
+Go to your home folder and into the .fluxbox folder.
+
+7 - To add items to the menu add lines to menu such as exec firefox.
+To add items to the menu add lines to menu such as exec firefox.
+
+8 - Change your wallpaper in the fluxbox startup settings (and refresh your screen to see it immediately without restarting X).
+Change your wallpaper in the fluxbox startup settings (and refresh your screen to see it immediately without restarting X).
+
+9 - More settings can be changed in the Fluxbox configuration menu and styles can be set in the Styles menu.
+More settings can be changed in the Fluxbox configuration menu and styles can be set in the Styles menu.
+
+10 - If you want icons on your desktop Fluxbox does not support them so install FBDesk (settings in home directory and .fluxbox_fbdesk), iDesk or ROX.
+If you want icons on your desktop Fluxbox does not support them so install FBDesk (settings in home directory and .fluxbox/fbdesk), iDesk or ROX.
+

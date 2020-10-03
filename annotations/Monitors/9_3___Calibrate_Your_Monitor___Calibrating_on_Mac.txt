@@ -1,0 +1,32 @@
+Calibrate Your Monitor
+https://www.wikihow.com/Calibrate-Your-Monitor
+
+0 - Calibrating on Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences….
+Click System Preferences…. It's in the drop-down menu. Doing so opens the System Preferences window.
+
+3 - Click Displays.
+Click Displays. This option is in the System Preferences window. A pop-up window will open.
+
+4 - Click Color.
+Click Color. You'll find this tab at the top of the Displays window.
+
+5 - Click Calibrate….
+Click Calibrate…. It's on the right side of the page.
+
+6 - Click Continue.
+Click Continue. This option is in the bottom-right corner of the page.
+
+7 - Follow the on-screen prompts.
+Follow the on-screen prompts. Depending on your monitor, the options you see in the window may vary; however, in most cases, you'll just click Continue in the bottom-right corner of the page until you reach the password entry prompt.
+
+8 - Enter your password when prompted.
+Enter your password when prompted. Type the password that you use to log in into the "Password" text box, then click OK.
+
+9 - Click Done when prompted.
+Click Done when prompted. Doing so saves your monitor's calibration.
+

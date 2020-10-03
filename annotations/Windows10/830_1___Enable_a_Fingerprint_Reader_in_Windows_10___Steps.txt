@@ -1,0 +1,33 @@
+Enable a Fingerprint Reader in Windows 10
+https://www.wikihow.com/Enable-a-Fingerprint-Reader-in-Windows-10
+
+0 - Steps
+
+1 - Connect your external fingerprint reader to your computer (if not built-in).
+Connect your external fingerprint reader to your computer (if not built-in). If your fingerprint reader is not built into your computer or keyboard, connect it to your PC's USB port now. Refer to the manual that came with the fingerprint reader if you're having trouble connecting it to your computer.
+- To make sure your reader is compatible with Windows 10, check its packaging or the manufacturer's website. One or both will usually state that the reader is compatible with Microsoft Hello or Windows 10.
+- ;
+
+2 - Open your Windows Settings .
+Open your Windows Settings . To do this, click the Start icon at the bottom-left corner of the screen, and then click Settings or the gear icon.
+
+3 - Click Accounts.
+Click Accounts. This looks like a silhouette of a person that you'll most likely find at the bottom of the Settings screen.
+
+4 - Click Sign-in options.
+Click Sign-in options. You'll see this on the left side of the window near the center.
+
+5 - Click Windows Hello Fingerprint.
+Click Windows Hello Fingerprint. The option will expand.
+
+6 - Click Set up.
+Click Set up. If this is greyed out, it is not an available feature. Refer to the manual that came with the external fingerprint reader if you have one.
+- If the option is grayed-out, you'll either need a new fingerprint reader, troubleshoot the one you have, or set up a different type of sign-in.
+
+7 - Follow the on-screen instructions to set up your fingerprint log-in.
+Follow the on-screen instructions to set up your fingerprint log-in. You'll be prompted to lift and rest your finger on the fingerprint reader repeatedly until your entire fingerprint is captured.
+- Make sure you tilt your finger to capture different angles of your fingerprint.
+- When you're done, you have the option to add more fingerprints. You should add a few more in case you forget which finger you used to originally set up the fingerprint or if one finger is having problems signing in.[1]
+- X
+- Research source
+

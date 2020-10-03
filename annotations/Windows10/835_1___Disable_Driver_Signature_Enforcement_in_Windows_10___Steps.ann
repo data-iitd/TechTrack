@@ -1,0 +1,20 @@
+T1	Software-OS-Related 240 245	start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 316 321	start
+A2	isOpened T2 f->t
+T3	Software-OS-Related 340 345	power
+A3	isOpened T3 f->t
+T4	Software-OS-Related 367 377	Windows 10
+T5	Software-OS-Related 500 507	Restart
+A4	isSettingsChanged T5 true
+T6	Software-OS-Related 532 544	Troubleshoot
+A5	isOpened T6 f->t
+T7	Software-OS-Related 650 666	Advanced Options
+A6	isOpened T7 f->t
+T8	Software-OS-Related 762 769	Startup
+A7	isOpened T8 f->t
+T9	Software-OS-Related 878 885	Restart
+A8	isSettingsChanged T9 true
+T10	Hardware-Devices 1035 1043	keyboard
+T11	Hardware-Devices 1291 1293	PC
+T12	Software-OS-Related 1162 1172	windows 10

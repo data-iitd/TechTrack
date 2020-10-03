@@ -1,0 +1,30 @@
+Install Windows 10 on a Mac
+https://www.wikihow.com/Install-Windows-10-on-a-Mac
+
+0 - Downloading the Installation File
+
+1 - Ensure that your Mac meets the software and hardware requirements.
+Ensure that your Mac meets the software and hardware requirements. To do so, click the Apple menu , then click About This Mac. Your Mac must meet the following requirements:
+- OS X 10.10 (Yosemite) and later
+- One of the following Mac models:
+- MacBook Pro (2012 and up)
+- MacBook Air (2012 and up)
+- MacBook (2015 and up)
+- iMac (2012 and up)
+- Mac mini (2012 and up)
+- 
+- ;
+
+2 - Go to the Microsoft installer page.
+Go to the Microsoft installer page. Enter https://www.microsoft.com/en-us/software-download/windows10 in your preferred browser. Make sure you perform this process on your Mac so that you receive the correct files when downloading. It will look like:
+
+3 - Select an edition of Windows 10.
+Select an edition of Windows 10. Scroll down, click the Select edition drop-down box, click a Windows 10 version, and then click Confirm.
+- If you don't know which version to select, just click Windows 10.
+
+4 - Select a language.
+Select a language. Click the Choose one drop-down box, click your preferred language, and click Confirm.
+
+5 - Click 64-bit Download.
+Click 64-bit Download. It's in the middle of the page. Doing so will prompt the Windows 10 ISO file to download to your Mac; once it finishes, you can proceed with installing Windows 10.
+

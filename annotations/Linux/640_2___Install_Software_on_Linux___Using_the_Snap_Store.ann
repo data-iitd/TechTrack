@@ -1,0 +1,30 @@
+T1	Software-Other 229 255	https://snapcraft.io/store
+A1	isOpened T1 f->t
+T2	Software-Other 145 161	internet browser
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-T
+T3	Software-Other 352 357	Store
+A4	isOpened T3 f->t
+T4	Software-Other 475 483	software
+T5	Software-OS-Related 496 503	install
+T6	Software-Other 574 596	selected app's details
+A5	isOpened T6 f->t
+T7	Software-OS-Related 647 665	Linux distribution
+T8	Software-Other 851 859	new page
+A6	isOpened T8 f->t
+T9	Software-Other 1025 1032	Install
+T10	Software-OS-Related 1103 1111	Terminal
+A7	isOpened T10 f->t
+T11	Hardware-Other 1127 1135	computer
+T12	Software-Other 1278 1290	Enable snapd
+T13	Software-Other 1482 1487	snapd
+T14	Software-OS-Related 1458 1466	Terminal
+T15	Software-OS-Related 1830 1838	Terminal
+A8	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T13	
+A9	isInstalled T13 f->t
+T16	Software-Other 1917 1921	Snap
+T17	Hardware-Other 1930 1938	computer
+T18	Software-OS-Related 2125 2148	sudo snap install opera
+T19	Software-Other 2157 2174	Opera web browser
+A10	isInstalled T19 f->t

@@ -1,0 +1,31 @@
+T1	Software-Other 280 287	website
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 510 527	Übersicht website
+A3	isOpened T2 f->t
+A4	isInstalled T2 start-T
+T3	Software-Other 656 662	widget
+A5	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 799 810	Get Widgets
+A6	isSettingsChanged T4 true
+R2	SubPart Arg1:T4 Arg2:T2	
+A7	isOpened T4 f->t
+T5	Software-Other 1284 1292	Download
+A8	isSettingsChanged T5 true
+R3	SubPart Arg1:T5 Arg2:T4	
+T6	Software-Other 1643 1662	Open Widgets Folder
+A9	isSettingsChanged T6 true
+T7	Software-Other 1673 1687	Übersicht menu
+A10	isOpened T7 start-T
+R4	SubPart Arg1:T6 Arg2:T7	
+T8	Software-Other 1992 2009	toggled on or off
+A11	isSettingsChanged T8 true
+T9	Software-Other 2019 2033	Übersicht menu
+A12	isOpened T9 start-T
+R5	SubPart Arg1:T8 Arg2:T9	
+T10	Software-OS-Related 2454 2465	text editor
+A13	isOpened T10 f->t
+T11	Software-Other 196 205	Übersicht
+A14	isOpened T11 f->t
+A15	isInstalled T11 f->t

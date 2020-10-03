@@ -1,0 +1,20 @@
+Navigate the Windows Directory
+https://www.wikihow.com/Navigate-the-Windows-Directory
+
+0 - Searching for Files
+
+1 - Click the Start button.
+Click the Start button. You can start a search directly from the Start menu.
+
+2 - Type the name of the file or folder you're searching for.
+Type the name of the file or folder you're searching for. You can also type an extension to search for all files of that, such as "docx" for Word documents.
+
+3 - Click a result to open it.
+Click a result to open it. If the result is a file, it will open in its default program. If it's a folder, the folder will open in a new window. If it's a program, the program will launch.
+
+4 - Click a results section header to view all matching results.
+Click a results section header to view all matching results. For example, if you have lots of documents that share the search term, clicking the Documents header will display all of the results that match.
+
+5 - Right-click a result and select Open file location.
+Right-click a result and select Open file location. This will open the folder that contains the file in a new window.
+

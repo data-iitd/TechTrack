@@ -1,0 +1,24 @@
+Reset NVRAM on a Mac
+https://www.wikihow.com/Reset-NVRAM-on-a-Mac
+
+0 - Steps
+
+1 - Click .
+Click . Click the Apple menu in the upper-left corner of the menu bar.
+- ;
+
+2 - Click Shut Down….
+Click Shut Down…. It's near the bottom of the Apple Menu. This will open a pop-up window.
+
+3 - Click Shut Down to confirm.
+Click Shut Down to confirm. It's in the bottom-right corner of the pop-up window.
+
+4 - Press the power button on your Mac.
+Press the power button on your Mac.  The power button is located behind the monitor on the left side or iMacs, and on the keyboard of MacBooks.
+
+5 - Immediately press and hold ⌘ Command+⌥ Option+P+R.
+Immediately press and hold ⌘ Command+⌥ Option+P+R.  Press these four buttons immediately after powering up and hold them while the computer boots up.
+
+6 - Release ⌘ Command+⌥ Option+P+R after you hear the startup chime a second time.
+Release ⌘ Command+⌥ Option+P+R after you hear the startup chime a second time.  Allow your Mac to boot up. You will have the option to check the startup disk, date and time, display resolution, and change the sounds.
+

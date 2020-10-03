@@ -1,0 +1,40 @@
+T1	Software-Other 203 205	CD
+T2	Software-Other 209 218	USB drive
+T3	Hardware-Other 479 481	CD
+T4	Hardware-Devices 492 500	computer
+A1	isPowered T4 start-T
+T5	Software-OS-Related 578 593	Write to Disc..
+A2	isSettingsChanged T5 true
+T6	Software-OS-Related 624 636	Create Image
+A3	isSettingsChanged T6 true
+T7	Software-OS-Related 912 916	gear
+A4	isOpened T7 f->t
+T8	Software-OS-Related 962 971	Shut Down
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1036 1048	Restart icon
+A6	isSettingsChanged T9 true
+T10	Software-OS-Related 1438 1455	time and language
+A7	isSettingsChanged T10 true
+T11	Software-OS-Related 1468 1472	Next
+A8	isOpened T11 f->t
+T12	Software-OS-Related 1629 1636	Install
+A9	isSettingsChanged T12 true
+A10	isOpened T12 f->t
+T13	Software-OS-Related 1742 1769	your Windows 10 product key
+A11	isSettingsChanged T13 true
+T14	Software-OS-Related 1782 1786	Next
+A12	isOpened T14 f->t
+T15	Software-OS-Related 2110 2118	I accept
+A13	isSettingsChanged T15 true
+T16	Software-OS-Related 2136 2140	Next
+A14	isOpened T16 f->t
+T17	Software-OS-Related 2262 2275	Custom option
+A15	isSettingsChanged T17 true
+T18	Software-OS-Related 2354 2366	Ubuntu drive
+A16	isSettingsChanged T18 true
+T19	Software-OS-Related 2490 2496	Delete
+A17	isSettingsChanged T19 true
+T20	Software-OS-Related 2509 2511	OK
+A18	isSettingsChanged T20 true
+T21	Software-OS-Related 2737 2741	Next
+A19	isOpened T21 f->t

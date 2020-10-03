@@ -1,0 +1,9 @@
+T1	Hardware-Devices 232 240	computer
+A1	isPowered T1 f->t
+T2	Software-OS-Related 425 438	Windows Setup
+T3	Software-OS-Related 716 727	File System
+A2	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 1064 1085	Regional and Language
+A3	isSettingsChanged T4 true
+R2	SubPart Arg1:T4 Arg2:T2	

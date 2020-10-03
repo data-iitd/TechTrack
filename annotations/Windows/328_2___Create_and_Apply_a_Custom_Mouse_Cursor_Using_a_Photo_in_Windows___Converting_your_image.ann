@@ -1,0 +1,13 @@
+T1	Software-Other 200 207	browser
+A1	isOpened T1 f->t
+T2	Software-Other 343 358	Developer Tools
+A2	isOpened T2 f->t
+T3	Software-Other 441 455	Image to Panel
+A3	isOpened T3 f->t
+T4	Software-Other 479 495	Microsoft Cursor
+T5	Software-Other 759 782	Upload Image to Convert
+A4	isOpened T5 f->t
+T6	Software-Other 992 1000	Download
+A5	isSettingsChanged T6 true
+T7	Software-Other 243 268	https:__digitalcoding.com
+R1	SubPart Arg1:T6 Arg2:T7	

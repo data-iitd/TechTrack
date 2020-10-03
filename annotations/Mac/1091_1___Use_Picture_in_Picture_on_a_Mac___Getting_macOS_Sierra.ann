@@ -1,0 +1,40 @@
+T1	Software-Other 176 213	http://beta.apple.com/sp/betaprogram/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 392 399	Sign Up
+A3	isSettingsChanged T2 true
+T3	Software-Other 584 613	Accept the terms of agreement
+A4	isSettingsChanged T3 true
+T4	Software-Other 1135 1172	Download the macOS Sierra Public Beta
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1212 1221	App Store
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1493 1501	Featured
+A7	isOpened T6 f->t
+T7	Software-OS-Related 1592 1598	Redeem
+A8	isOpened T7 f->t
+T8	Software-OS-Related 1662 1684	Enter your Redeem code
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 1976 1985	Launchpad
+A10	isOpened T9 f->t
+T10	Software-OS-Related 2232 2239	Install
+A11	isInstalled T10 f->t
+A12	isOpened T10 f->t
+T11	Software-OS-Related 2298 2306	Continue
+A13	isOpened T11 f->t
+T12	Software-OS-Related 2444 2452	Continue
+A14	isOpened T12 f->t
+T13	Software-OS-Related 2637 2643	Accept
+A15	isOpened T13 f->t
+T14	Software-OS-Related 2703 2708	Agree
+A16	isOpened T14 f->t
+T15	Software-OS-Related 2771 2778	Install
+A17	isOpened T15 f->t
+T16	Software-OS-Related 2908 2930	administrator password
+A18	isSettingsChanged T16 true
+T17	Software-OS-Related 2941 2943	OK
+A19	isOpened T17 f->t
+T18	Software-OS-Related 2977 2984	Restart
+A20	isOpened T18 f->t
+R1	SubPart Arg1:T15 Arg2:T9	
+R2	SubPart Arg1:T7 Arg2:T5	

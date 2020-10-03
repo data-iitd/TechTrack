@@ -1,0 +1,59 @@
+Install Arch Linux
+https://www.wikihow.com/Install-Arch-Linux
+
+0 - Creating Partitions
+
+1 - Check your existing drives.
+Check your existing drives. You'll have at least two drives available: your computer's hard drive, and the Arch Linux installation media. To check your current drives:
+- Type in fdisk -l and press ↵ Enter.
+- Find the name of the largest hard drive on the results screen. The name will be something like "/dev/sda" and can be found to the right of the "Disk" heading.
+
+2 - Bring up the partition page.
+Bring up the partition page. Type in cfdisk [drive name], making sure to replace [drive name] with your hard drive's name, and press ↵ Enter, then select DOS and press ↵ Enter again.
+- For example: if the drive is named "/dev/sda", you would type cfdisk /dev/sda into the terminal.
+
+3 - Delete the hard drive's contents.
+Delete the hard drive's contents. Select a partition in the middle of the screen, select Delete at the bottom of the screen, press ↵ Enter, and repeat for any other partitions in the middle of the screen. You should ultimately be left with a line entitled Pri/Log    Free Space.
+
+4 - Create a "swap" partition.
+Create a "swap" partition. This partition will function as your system's backup memory if and when you are consuming all of your RAM.   To do so:
+- Select New and press ↵ Enter.
+- Select Primary and press ↵ Enter.
+- Type in a number of megabytes (e.g., 1024 for one gigabyte) and press ↵ Enter. As a rule of thumb, you should make the swap partition 2 or 3 times your RAM (e.g., if you have 4 gigabytes of RAM, you should make the swap partition 8192 or 12288 megabytes).
+- Select End and press ↵ Enter.
+
+5 - Create your main hard drive partition.
+Create your main hard drive partition. This is the partition on which your Arch Linux operating system, files, and other information will be stored. To do this:
+- Make sure that the Pri/Log    Free Space partition is selected.
+- Select New and press ↵ Enter.
+- Select Primary and press ↵ Enter.
+- Make sure that the number next to the "Size (in MB)" heading is correct.
+- Press ↵ Enter.
+- Select the primary partition again.
+- Select Bootable and press ↵ Enter.
+
+6 - Label the "swap" partition.
+Label the "swap" partition. This will set it as your system's RAM:
+- Select the "swap" partition.
+- Select Type and press ↵ Enter.
+- Type in 82 and press ↵ Enter.
+- With the "swap" partition still selected, select Write and press ↵ Enter.
+- Type in yes and press ↵ Enter.
+
+7 - Note the names of your partitions.
+Note the names of your partitions. In the "Name" column on the far-left side of the screen, you should see a name (e.g., "sda1") next to your "swap" partition, and a similar name (e.g., "sda2") next to the primary partition. You'll need both of these names in order to format your partitions.
+
+8 - Exit the "cfdisk" utility.
+Exit the "cfdisk" utility. Select Quit and press ↵ Enter to do so.
+
+9 - Format your primary partition.
+Format your primary partition. This will make it usable with your operating system. To do this, type in mkfs.ext4 /dev/[primary partition name] and press ↵ Enter.
+- For a partition named "sda2", you'd enter mkfs.ext4 /dev/sda2 here.
+
+10 - Mount the formatted partition.
+Mount the formatted partition. Type in mount /dev/[partition name] /mnt and press ↵ Enter. This will make the partition into a usable drive.
+
+11 - Add a swap file to the "swap" partition.
+Add a swap file to the "swap" partition. Type in mkswap /dev/[partition name] and press ↵ Enter, then type in swapon /dev/sda1 and press ↵ Enter again. After completing this step, you can proceed with installing Arch Linux.
+- For a "swap" partition named "sda1", for example, you'd enter mkswap /dev/sda1 and then swapon /dev/sda1 here.
+

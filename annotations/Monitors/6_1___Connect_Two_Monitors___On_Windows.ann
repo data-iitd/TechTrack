@@ -1,0 +1,66 @@
+T1	Hardware-Other 107 115	computer
+T2	Hardware-Other 235 251	laptop computers
+T3	Hardware-Other 262 278	desktop computer
+T4	Hardware-Other 386 403	video output port
+T5	Hardware-Other 507 518	video ports
+T6	Hardware-Devices 548 563	primary monitor
+T7	Hardware-Devices 587 601	second monitor
+T8	Hardware-Other 678 691	graphics card
+T9	Hardware-Other 832 841	computer'
+T10	Hardware-Other 843 860	video output port
+T11	Hardware-Other 956 962	laptop
+T12	Hardware-Devices 1061 1076	primary monitor
+T13	Hardware-Other 1139 1143	HDMI
+T14	Hardware-Other 1183 1194	DisplayPort
+T15	Hardware-Other 1250 1255	USB-C
+T16	Hardware-Other 1298 1301	VGA
+T17	Hardware-Devices 1518 1525	monitor
+T18	Hardware-Other 1528 1544	video input port
+T19	Hardware-Other 1620 1631	DisplayPort
+T20	Hardware-Other 1635 1639	HDMI
+T21	Hardware-Other 1697 1706	VGA ports
+T22	Hardware-Other 1768 1771	DVI
+T23	Hardware-Other 1929 1934	cable
+T24	Hardware-Devices 1951 1958	monitor
+T25	Hardware-Other 1967 1975	computer
+T26	Hardware-Other 2142 2152	HDMI cable
+T27	Hardware-Other 2457 2460	VGA
+T28	Hardware-Other 2533 2540	adapter
+T29	Hardware-Other 2593 2604	DisplayPort
+T30	Hardware-Other 2700 2705	cable
+T31	Hardware-Other 2716 2724	computer
+T32	Hardware-Other 2816 2833	video output port
+T33	Hardware-Other 2942 2955	graphics card
+T34	Hardware-Devices 2966 2981	primary monitor
+T35	Hardware-Other 3021 3026	cable
+T36	Hardware-Devices 3037 3044	monitor
+T37	Hardware-Other 3154 3158	port
+T38	Hardware-Other 3209 3216	adapter
+T39	Hardware-Devices 3361 3368	monitor
+A1	isPowered T39 f->t
+A2	isPowered T7 start-F
+A3	isPowered T6 start-F
+T40	Hardware-Other 3430 3442	power source
+T41	Hardware-Other 3471 3482	power cable
+T42	Hardware-Other 3507 3519	Power button
+T43	Hardware-Other 3571 3579	computer
+T44	Software-OS-Related 3598 3605	desktop
+A9	isOpened T44 f->t
+T45	Hardware-Devices 3623 3637	second monitor
+A10	isPowered T45 f->t
+A11	isConnected T45 f->t
+T46	Software-OS-Related 3668 3673	Start
+A12	isOpened T46 f->t
+T48	Hardware-Devices 3746 3752	screen
+T49	Software-OS-Related 3766 3774	Settings
+A15	isOpened T49 f->t
+T52	Software-OS-Related 3915 3921	System
+A18	isOpened T52 f->t
+T55	Software-OS-Related 4016 4023	Display
+A21	isOpened T55 f->t
+T58	Hardware-Devices 4434 4448	second monitor
+T60	Hardware-Other 4559 4567	computer
+T63	Software-OS-Related 4665 4672	desktop
+T47	Software-OS-Related 4360 4374	display option
+A4	isSettingsChanged T47 true
+R1	SubPart Arg1:T47 Arg2:T55	

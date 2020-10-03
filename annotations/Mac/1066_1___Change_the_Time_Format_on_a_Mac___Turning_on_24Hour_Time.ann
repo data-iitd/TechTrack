@@ -1,0 +1,10 @@
+T1	Software-OS-Related 160 170	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 220 238	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 395 412	Language & Region
+A3	isOpened T3 f->t
+T4	Software-OS-Related 529 540	Time format
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 670 676	Region
+A5	isSettingsChanged T5 true

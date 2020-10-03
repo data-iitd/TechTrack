@@ -1,0 +1,13 @@
+T1	Software-OS-Related 137 150	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 268 286	Hardware and Sound
+A2	isOpened T2 f->t
+T3	Software-OS-Related 350 382	Change what the power buttons do
+A3	isOpened T3 f->t
+T4	Software-OS-Related 516 562	Change settings that are currently unavailable
+A4	isOpened T4 f->t
+T5	Software-OS-Related 633 653	Turn on fast startup
+A5	isOpened T5 f->t
+T6	Software-OS-Related 781 785	Save
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T2	

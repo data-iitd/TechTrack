@@ -1,0 +1,24 @@
+T1	Software-Other 156 164	software
+T2	Software-OS-Related 396 404	compress
+T3	Software-OS-Related 361 371	INSTALL.sh
+T4	Software-OS-Related 577 584	Desktop
+T5	Software-OS-Related 679 691	Extract Here
+A2	isSettingsChanged T5 true
+T6	Software-OS-Related 1332 1340	terminal
+A3	isOpened T6 f->t
+T7	Software-OS-Related 1112 1128	extracted folder
+A4	isOpened T7 f->t
+T8	Software-OS-Related 1187 1197	install.sh
+T9	Software-OS-Related 1473 1506	cd ~_path_to_the_extracted_folder
+T10	Software-OS-Related 1594 1622	path/to/the/extracted/folder
+T11	Software-OS-Related 1675 1690	install.sh file
+T12	Software-OS-Related 2120 2139	chmod +x install.sh
+T13	Software-OS-Related 2481 2501	sudo bash install.sh
+R4	SubPart Arg1:T13 Arg2:T11	
+T14	Software-OS-Related 2712 2725	root password
+T15	Software-OS-Related 2857 2879	on-screen instructions
+T16	Software-Other 2826 2837	application
+A7	isInstalled T16 f->t
+A1	isSettingsChanged T12 true
+A5	isSettingsChanged T13 true
+R1	SubPart Arg1:T12 Arg2:T11	

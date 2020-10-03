@@ -1,0 +1,20 @@
+T1	Software-Other 131 135	Wine
+A1	isInstalled T1 f->t
+T2	Software-Other 346 364	Wine configuration
+A2	isOpened T2 f->t
+T3	Software-Other 485 494	Libraries
+A3	isOpened T3 f->t
+T4	Software-Other 599 623	New override for library
+T5	Software-Other 654 662	riched20
+T6	Software-Other 733 751	Existing overrides
+T7	Software-Other 769 776	Edit...
+A4	isOpened T7 f->t
+T8	Software-Other 852 867	Native (Windows
+T9	Software-Other 903 905	OK
+T10	Software-Other 978 983	Apply
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T4	
+T11	Software-Other 1149 1158	setup.exe
+A6	isOpened T11 f->t
+T12	Software-Other 1471 1492	Microsoft Office 2007
+A7	isInstalled T12 f->t

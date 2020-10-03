@@ -1,0 +1,32 @@
+Copy Music, Images, and Movies from Your Computer to an iPhone on Windows
+https://www.wikihow.com/Copy-Music,-Images,-and-Movies-from-Your-Computer-to-an-iPhone-on-Windows
+
+0 - Copying Videos
+
+1 - Click File.
+Click File. It's in the top-left corner of the iTunes window. A drop-down menu will appear.
+
+2 - Click Add Folder to Library.
+Click Add Folder to Library. You'll find this option near the middle of the drop-down menu. Clicking it brings up a pop-up window.
+
+3 - Select your videos folder.
+Select your videos folder. Click the folder in which your computer's videos are stored. You'll find this in the left-hand sidebar of the window.
+- If your videos folder is stored inside of a subfolder, you may have to select the main folder and then double-click the subfolder in the main window to get to your videos folder.
+
+4 - Click Select Folder.
+Click Select Folder. It's in the bottom-right corner of the window. This will import your selected videos into iTunes.
+- This process will likely take several minutes.
+
+5 - Click the Movies tab.
+Click the Movies tab. You'll find this below the Music tab on the left side of the iTunes window.
+
+6 - Check the "Sync Movies" box.
+Check the "Sync Movies" box. It's at the top of the page.
+
+7 - Check the "Automatically include" box.
+Check the "Automatically include" box. Doing so will select every video that you imported into iTunes for uploading onto your iPhone.
+- If you'd rather only upload a few videos from your selected folder, click the checkbox next to each video you want to upload instead.
+
+8 - Click Apply.
+Click Apply. Your selected videos will begin uploading to your iPhone.
+

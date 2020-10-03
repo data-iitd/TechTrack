@@ -1,0 +1,27 @@
+Enable Task Manager in Windows
+https://www.wikihow.com/Enable-Task-Manager-in-Windows
+
+0 - Enabling Task Manager in Group Policy Editor
+
+1 - Press ⊞ Win+R on your computer.
+Press ⊞ Win+R on your computer. If you see an error that says "Task Manager has been disabled by your administrator" when trying to open the Task Manager and were unable to fix it by editing the registry, the tool was likely disabled in the Group Policy Editor.
+
+2 - Type Gpedit.msc and press ↵ Enter.
+Type Gpedit.msc and press ↵ Enter. If prompted to enter your admin password or give permission for the app to run, follow the on-screen instructions to do so. This will launch the Group Policy Editor.
+- The Group Policy Editor is not usually found on Home editions of Windows.
+
+3 - Go to User Configuration\Administrative Templates\System\Ctrl+Alt+Del Options.
+Go to User Configuration\Administrative Templates\System\Ctrl+Alt+Del Options. You'll do this using the navigation tree in the left column of the window. Begin by double-clicking User Configuration to expand its contents, where you'll double-click Administrative Templates, followed by System, and finally Ctrl + Alt + Del Options.
+
+4 - Double-click Remove Task Manager in the right panel.
+Double-click Remove Task Manager in the right panel. A window titled "Remove Task Manager" will open.
+
+5 - Select Not Configured or Disabled.
+Select Not Configured or Disabled. Both options will do the same thing—restore the Task Manager to the Ctrl+Alt+Del command.
+
+6 - Click OK to save your changes.
+Click OK to save your changes.
+
+7 - Restart your computer.
+Restart your computer. Once you log back in, you should have no trouble launching the Task Manager.
+

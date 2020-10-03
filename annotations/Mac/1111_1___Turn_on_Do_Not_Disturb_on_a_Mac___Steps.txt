@@ -1,0 +1,33 @@
+Turn on Do Not Disturb on a Mac
+https://www.wikihow.com/Turn-on-Do-Not-Disturb-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Notifications.
+Click on Notifications. It's near the top right of the Preferences window.
+
+4 - Click on Do Not Disturb.
+Click on Do Not Disturb. It appears at the top of the left pane of the dialog box.
+
+5 - Click on checkboxes next to select your Do Not Disturb preferences.
+Click on checkboxes next to select your Do Not Disturb preferences.
+- You can schedule times when Do Not Disturb is automatic, such as during night hours. In addition, you can activate Do Not Disturb when the display is sleeping or mirroring on a TV or projector. This prevents others from publicly seeing notifications on your Mac.
+- When Do Not Disturb is activated during a scheduled time, a "Do Not Disturb" slider will appear at the top of the Notification Center. When activated, you can use this slider to toggle Do Not Disturb on and off.
+- When Do Not Disturb is activated, you can also choose to allow calls from everyone and allow repeated calls, if you prefer.
+
+6 - Click on the Notification Center icon.
+Click on the Notification Center icon. This is the icon in the menu bar at the top-right corner of your Mac's screen.
+
+7 - Scroll up.
+Scroll up. Doing so will reveal the Do Not Disturb Slider.
+
+8 - Click on the slider.
+Click on the slider. This will turn Do Not Disturb on as specified by the preferences you set in System Preferences.
+

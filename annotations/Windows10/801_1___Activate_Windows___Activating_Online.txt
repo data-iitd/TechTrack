@@ -1,0 +1,27 @@
+Activate Windows
+https://www.wikihow.com/Activate-Windows
+
+0 - Activating Online
+
+1 - Open the Settings app on your computer.
+Open the Settings app on your computer. You can find it on your Start menu, or use the search or Cortana button on your taskbar to quickly open it.
+- ;
+
+2 - Select Updates & Security.
+Select Updates & Security. This option looks like two rotating arrows on the Settings menu.
+
+3 - Click Activation on the left menu.
+Click Activation on the left menu. This will open your product activation options on the right-hand side.
+
+4 - Click Change product key.
+Click Change product key. This will allow you to enter your 25-digit product key to activate Windows 10 on your computer.
+- If you haven't purchased the full version of Windows 10 yet, you can click Go to Store here, and purchase the full version from the online Windows Store.
+
+5 - Enter your product key to activate.
+Enter your product key to activate. Type in your 25-digit product key, and click Activate to fully activate all of Windows 10's features on your computer.
+- You can find your product key in an email from whoever sold or distributed Windows to you.
+- If you installed your system from an official Windows USB, you can find your product key on the box the USB came in.
+
+6 - Remain connected to the Internet.
+Remain connected to the Internet.  To ensure that your product key has not been used on another device, you must remain connected to the Internet to finish activation.  If you do not have an Internet connection, you can activate over the phone.
+

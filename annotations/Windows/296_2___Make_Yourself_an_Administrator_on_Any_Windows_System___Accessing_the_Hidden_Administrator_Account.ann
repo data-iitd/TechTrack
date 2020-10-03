@@ -1,0 +1,14 @@
+T1	Software-OS-Related 219 235	Advanced Options
+A1	isOpened T1 f->t
+T2	Software-OS-Related 473 485	Troubleshoot
+A2	isOpened T2 f->t
+T3	Software-OS-Related 581 597	Advanced options
+A3	isOpened T3 f->t
+T4	Software-OS-Related 691 707	Startup Settings
+A4	isOpened T4 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T3 Arg2:T2	
+T5	Software-OS-Related 1076 1093	Administrator tab
+A5	isOpened T5 f->t
+T6	Software-OS-Related 837 844	Restart
+A6	isSettingsChanged T6 true

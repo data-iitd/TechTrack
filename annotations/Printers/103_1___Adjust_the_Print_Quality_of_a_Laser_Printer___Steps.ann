@@ -1,0 +1,9 @@
+T1	Software-OS-Related 189 205	default settings
+T2	Software-OS-Related 1033 1038	Print
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1125 1132	Options
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1138 1155	Advanced Settings
+A3	isOpened T4 f->t
+T5	Software-OS-Related 2390 2415	advanced printer settings
+A4	isOpened T5 f->t

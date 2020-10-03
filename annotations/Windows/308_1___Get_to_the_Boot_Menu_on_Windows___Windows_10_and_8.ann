@@ -1,0 +1,11 @@
+T1	Software-OS-Related 461 473	Troubleshoot
+A1	isOpened T1 f->t
+T2	Software-OS-Related 509 525	Advanced Options
+A2	isOpened T2 f->t
+T3	Software-OS-Related 565 581	Startup Settings
+A3	isOpened T3 f->t
+R2	SubPart Arg1:T2 Arg2:T1	
+T4	Software-OS-Related 276 283	Restart
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 131 137	button
+A5	isSettingsChanged T5 true

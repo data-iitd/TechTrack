@@ -1,0 +1,45 @@
+Back Up Your Files in Windows 10
+https://www.wikihow.com/Back-Up-Your-Files-in-Windows-10
+
+0 - Steps
+
+1 - Attach your external drive to your computer.
+Attach your external drive to your computer. Plug the USB end of the external hard drive's cable into one of your computer's USB slots.
+- If you're using a flash drive, plug it directly into the USB slot.
+- ;
+
+2 - Open the Settings app
+Open the Settings app. Click the Start  button at the bottom-left and select the settings gear .
+- You can also press the ⊞ Win+I keys at the same time.
+
+3 - Click  Update & security.
+Click  Update & security. It's a symbol of two circling arrows. You'll likely find this near the bottom of the Settings window.
+
+4 - Click Backup.
+Click Backup. This tab is on the left side of the settings app.
+
+5 - Click Add a drive.
+Click Add a drive. It's a grey button at the top of the Backup page. Doing so will scan your computer for a removable drive—in this case, your external hard drive or flash drive.
+
+6 - Select your drive.
+Select your drive. Click your external drive's name in the Add a Drive drop-down menu. This will set it as your backup drive.
+
+7 - Click the "More options" link.
+Click the "More options" link. It's right below the "Add a drive" section. Doing so will open a page with your backup options.
+
+8 - Click Back up now.
+Click Back up now. It's a grey button at the top of the page. This will prompt Windows 10 to begin backing up your files to your attached drive.
+- You can see how much space a backup will take next to the "Size of backup" heading near the top of the page. If your drive's free space is less than this number, delete some files from your drive before continuing.
+
+9 - Change your backup frequency.
+Change your backup frequency. Click the drop-down box below the "Back up my files" heading, then select an option in the drop-down menu.
+- For the least amount of disturbance, select Daily in the drop-down menu.
+
+10 - Change how long the backup stays on your drive.
+Change how long the backup stays on your drive. Click the "Keep my backups" drop-down box, then select a timeframe in the drop-down menu.
+- You can select Until space is needed to automatically override old backups with new ones.
+
+11 - Click .
+Click . It's in the top-left corner of the Backup window. Your files will continue to back up to your drive.
+- If you ever need to restore a backup, you can begin by opening the "More options" link from the Backup page, scrolling all the way down, and clicking "Restore files from a current backup".
+

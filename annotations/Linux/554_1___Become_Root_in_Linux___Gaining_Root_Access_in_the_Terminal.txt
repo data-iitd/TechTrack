@@ -1,0 +1,36 @@
+Become Root in Linux
+https://www.wikihow.com/Become-Root-in-Linux
+
+0 - Gaining Root Access in the Terminal
+
+1 - Open the terminal.
+Open the terminal. If the terminal is not already open, open it. Many distributions allow you to open it by pressing Ctrl+Alt+T.
+- ;
+
+2 - Type .
+Type .su - and press ↵ Enter. This will attempt to log you in as "super user." You can actually use this command to log in as any user on the machine, but when left blank it will attempt to log in as root.[1]
+- X
+- Research source
+
+3 - Enter the root password when prompted.
+Enter the root password when prompted. After typing su - and pressing ↵ Enter, you'll be prompted for the root password.
+- If you get an "authentication error" message, your root account is likely locked. See the next section for instructions on unlocking it.
+
+4 - Check the command prompt.
+Check the command prompt. When you are logged in as root, the command prompt should end with # instead of $.[2]
+- X
+- Research source
+
+5 - Enter the commands that require root access.
+Enter the commands that require root access. Once you've used su - to log in as root, you can run any commands that require root access. The su command is preserved until the end of the session, so you don't need to keep re-entering the root password every time you need to run a command.
+
+6 - Consider using .
+Consider using .sudo instead of su -. sudo ("super user do") is a command that lets you run other commands as root temporarily. This is the best way for most users to run root commands, as the root environment is not maintained, and the user doesn't need to know the root password. Instead, the user will enter their own user password for temporary root access.[3]
+- X
+- Research source
+- 
+- 
+- Type sudo command and press ↵ Enter (e.g. sudo ifconfig). When prompted for the password, enter your user password, not the root password.
+- sudo is the preferred method for distributions like Ubuntu, where it will work even when the root account is locked.
+- This command is limited to users with administrator privileges. Users can be added or removed from /etc/sudoers.
+

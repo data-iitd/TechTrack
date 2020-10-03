@@ -1,0 +1,12 @@
+T1	Software-OS-Related 350 353	run
+T2	Software-OS-Related 472 480	Services
+A1	isOpened T2 f->t
+T3	Software-OS-Related 632 649	SSH Server Broker
+T4	Software-OS-Related 656 672	SSH Server Proxy
+T5	Software-OS-Related 838 855	SSH Server Broker
+A2	isOpened T5 f->t
+T6	Software-OS-Related 891 895	Stop
+A3	isOpened T6 f->t
+T7	Software-OS-Related 1129 1132	Yes
+A4	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T2	

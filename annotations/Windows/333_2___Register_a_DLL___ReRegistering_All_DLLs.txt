@@ -1,0 +1,76 @@
+Register a DLL
+https://www.wikihow.com/Register-a-DLL
+
+0 - Re-Registering All DLLs
+
+1 - Understand how this method works.
+Understand how this method works. By creating a list of your computer's DLL files and running the list as a BAT file, you can automatically register all of your computer's DLL files. This is optimal if you don't have a specific DLL that you want to register.
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+3 - Search for Command Prompt.
+Search for Command Prompt. Type command prompt into the Start search bar. You should see the Command Prompt icon appear at the top of the window.
+
+4 - Open Command Prompt in administrator mode.
+Open Command Prompt in administrator mode. To do so:
+- Right-click  Command Prompt.
+- Click Run as administrator
+- Click Yes when prompted.
+
+5 - Switch to the Windows directory.
+Switch to the Windows directory. Type in cd c:\Windows and press ↵ Enter. This will tell Command Prompt to execute the next command inside of the "Windows" folder.
+
+6 - Create a DLL list file.
+Create a DLL list file. Type dir *.dll /s /b > C:\regdll.bat into Command Prompt, then press ↵ Enter. Doing so allows Command Prompt to create a file listing the location and name of every DLL in the Windows directory.
+
+7 - Close Command Prompt.
+Close Command Prompt. Once you see the "c:\Windows>" line of text appear below the command you entered, you're free to exit Command Prompt and proceed.
+
+8 - Go to the list file's location.
+Go to the list file's location. You can find it from within File Explorer:
+- Open File Explorer  (or press ⊞ Win+E).
+- Click This PC on the left side of the window.
+- Double-click your computer's OS (C:) hard drive.
+- Scroll down (if necessary) until you see a file named "regdll".
+
+9 - Copy the file onto your desktop.
+Copy the file onto your desktop. In order to save your changes, you'll need to place a copy of the "regdll" file on your desktop:
+- Click the file once to select it.
+- Press Ctrl+C.
+- Click the desktop.
+- Press Ctrl+V.
+
+10 - Open the list file in Notepad.
+Open the list file in Notepad. Click the file on your desktop once to select it, then do the following:
+- Right-click the "regdll" file.
+- Click Edit in the drop-down menu.
+
+11 - Remove unnecessary DLL locations.
+Remove unnecessary DLL locations. While optional, completing this step will cut down significantly on the amount of time it takes to register the DLL files. You can delete any lines of text which have the following locations:[2]
+- X
+- Research source
+- 
+- 
+- C:\Windows\WinSXS — The bottom quarter or so of the text document will contain these lines of text.
+- C:\Windows\Temp — You'll find these near the section where the "WinSXS" lines were.
+- C:\Windows\$patchcache$ — These are harder to find. You can run a search by pressing Ctrl+F, typing in $patchcache$, and clicking Find next.
+
+12 - Add the "regsvr" command to each line of text.
+Add the "regsvr" command to each line of text. You can do this by using Notepad's "Find and Replace" feature:
+- Click Edit.
+- Click Replace... in the drop-down menu.
+- Type c:\ into the "Find what" text box.
+- Type Regsvr32.exe /s c:\ into the "Replace with" text box.
+- Click Replace All
+- Exit the window.
+
+13 - Save your changes and exit Notepad.
+Save your changes and exit Notepad. Press Ctrl+S to save your changes, then click the X in the top-right corner of the Notepad window to close it. At this point, you're ready to run the "regdll.bat" file.
+
+14 - Run the file.
+Run the file. Right-click the "regdll.bat" file, click Run as administrator, and click Yes when prompted to run it in Command Prompt. Doing so will allow Command Prompt to begin registering every available DLL; this process can take a long time to complete, so just make sure your computer is on and plugged in for the duration.
+
+15 - Exit Command Prompt.
+Exit Command Prompt. Once the process finishes running, you can close Command Prompt. Your computer's DLL files should now be registered.
+

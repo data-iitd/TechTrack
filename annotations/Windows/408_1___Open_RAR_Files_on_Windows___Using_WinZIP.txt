@@ -1,0 +1,25 @@
+Open RAR Files on Windows
+https://www.wikihow.com/Open-RAR-Files-on-Windows
+
+0 - Using WinZIP
+
+1 - Visit the WinZIP download page.
+Visit the WinZIP download page. Open any Internet browser on your PC, and navigate to the WinZIP download page.
+
+2 - Download and install WinZIP.
+Download and install WinZIP. There should be two numbers inside large bubbles. To the right of the number 2 bubble, click the green “Download WinZIP Now” button. The download should begin automatically, and once finished, simply follow the on-screen instructions for installing the program.
+
+3 - Launch WinZIP.
+Launch WinZIP.  After the installation has finished, open WinZIP. You'll find it either on the desktop or in the Start menu under the Programs heading.
+- Once the program starts there may be a window that opens in front of it asking you to chose either to buy the program or “Use Evaluation Version.” Chose the evaluation version.
+
+4 - Select the RAR file to open.
+Select the RAR file to open. In the upper left-hand corner, select “File” and then “Open (from PC/Cloud).” A new window will open.
+- In the lower right-hand corner of the new window is a drop-down menu that is set to “Zip files” by default. Click the drop-down menu and select “All files(*.*)” from the list. By default, the program will display only .zip files. Changing this setting allows the RAR files to be seen, and selected, in the search window.
+- Navigate to the folder containing the RAR file you wish to open. Double-click the file to open it and view the contents inside.
+
+5 - Extract the files contained in the RAR file.
+Extract the files contained in the RAR file. To select individual files, just hold the CTRL key as you click on each file or folder that you want to extract. To select all, click anywhere in the RAR file window, and press CTRL + A together.
+- Left-click to open the context menu. Select “1-click unzip” from the options, and then select “Unzip to PC or Cloud” under the Unzip/Share tab.
+- In the window that appears, choose the destination folder where you want to save the unzipped files, and click “Unzip” to extract the selected files or folders to the chosen location.
+

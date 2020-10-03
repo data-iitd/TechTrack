@@ -1,0 +1,38 @@
+Install Windows NT 4.0 Workstation
+https://www.wikihow.com/Install-Windows-NT-4.0-Workstation
+
+0 - Setting Your Preferences
+
+1 - Wait for this screen to pop up.
+Wait for this screen to pop up. Click Next.
+
+2 - Choose the type of setup you want and click Next.
+Choose the type of setup you want and click Next.
+- It's a matter of personal preference but for this tutorial, we will be using the 'Typical' setup which is a Microsoft default setup.
+
+3 - Type your name and_or your organisation and click Next.
+Type your name and/or your organisation and click Next.
+
+4 - Type in a name for your computer (can be anything) and click Next.
+Type in a name for your computer (can be anything) and click Next.
+
+5 - Add a password if desired.
+Add a password if desired. It's a good idea (but not essential) to come up with a password to your computer to prevent unauthorized access.
+
+6 - Consider adding an emergency repair disk which can be used to repair Windows NT 4.0 should something bad occur.
+Consider adding an emergency repair disk which can be used to repair Windows NT 4.0 should something bad occur. For this tutorial, we won't be making one.
+
+7 - Choose your components preference.
+Choose your components preference. Again personal preference but for this tutorial we will 'Install the most common components'.
+
+8 - Click Next.
+Click Next.
+
+9 - Pick your network preferences.
+Pick your network preferences. Personal preference yet again.
+- If you want to be able to connect to the internet (and you have the required equipment) choose 'This computer will participate on a network.' Otherwise choose 'Do not connect this computer to a network at this time.'
+- You can connect to a network at anytime so for this tutorial, we will pick the latter option.
+
+10 - Click Finish.
+Click Finish.
+

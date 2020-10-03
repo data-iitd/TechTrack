@@ -1,0 +1,24 @@
+Activate Safe Mode in Windows 10
+https://www.wikihow.com/Activate-Safe-Mode-in-Windows-10
+
+0 - 
+
+1 - Turn on your computer.
+Turn on your computer.  In Windows 7, it is possible to interrupt the boot process by pressing F8 or Shift + F8 before Windows is loaded. This is still possible in Windows 10 but rather difficult because Windows 10 loads very fast. Warning: This method does not work with new PCs with a UEFI BIOS and a fast SSD drive.
+
+2 - Press F8 or Shift + F8 before Windows loads.
+Press F8 or Shift + F8 before Windows loads. You have to be able to press F8 or Shift + F8 before the Windows logo appears. This is the tricky part since Windows 10 loads very fast. You may have to try this a couple of times, and this is not possible with newer computers. If you are successful, pressing F8 or Shift+F8 will load the Recovery screen.
+
+3 - Choose Advanced Repair Options.
+Choose Advanced Repair Options. In the Recovery screen, click the button labeled “See advanced repair options.” This will take you to the next screen which is labeled “Choose an option”.
+
+4 - Go to “Windows Startup Settings.
+Go to “Windows Startup Settings.” From the Choose an Option screen, select the following buttons in this sequence: Troubleshoot >> Advanced options >> Windows Startup Settings.
+
+5 - Restart to Advanced Boot options.
+Restart to Advanced Boot options. At the Windows Startup Settings, click the “Restart” button at the bottom right side of the window. Your computer will reboot and open the Advanced Boot Options screen.
+
+6 - Choose the Safe Boot option that you want.
+Choose the Safe Boot option that you want. At the Advanced Boot Options screen, you will see several boot options, three of which are safe boot options—Safe Mode, Safe Mode with Networking, and Safe Mode with Command Prompt.
+- Note that the interface of the Advanced Boot Option is not a graphical interface. You navigate to the various options using the Up or Down arrow key. Your choice will be highlighted as you move the arrow key up or down. Highlight your choice and press “Enter.” This will boot your computer in safe mode.
+

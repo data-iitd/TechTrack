@@ -1,0 +1,23 @@
+Use Wine on Linux
+https://www.wikihow.com/Use-Wine-on-Linux
+
+0 - Setting up Wine
+
+1 - Create a Windows home directory.
+Create a Windows home directory. Type in winecfg and press ↵ Enter, then look for a confirmation message that says something like "created the configuration directory 'home/name/.wine'".
+- If prompted to install any missing packages here, click Install in the prompt window and wait for the packages to install.
+
+2 - Select a Windows version.
+Select a Windows version. Click the "Windows Version" drop-down box at the bottom of the "Wine configuration" window, then click the version of Windows (e.g., Windows 7) that you want to use.
+- If you don't see this option, first click the Applications tab at the top of the window.
+
+3 - Click Apply.
+Click Apply. It's at the bottom of the window. Doing so will save your settings.
+
+4 - Click OK.
+Click OK. This button is at the bottom of the window. Clicking it closes the Window.
+
+5 - Download a Windows program in EXE format.
+Download a Windows program in EXE format. Find an EXE version of the program that you want to use on Linux (e.g., 7-zip) and download it. Once you've done this, you can move on to installing it.
+- You can see a comprehensive list of Wine-compatible programs on Wine's website.
+

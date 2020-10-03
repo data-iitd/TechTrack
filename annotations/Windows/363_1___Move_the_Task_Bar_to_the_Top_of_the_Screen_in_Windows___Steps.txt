@@ -1,0 +1,21 @@
+Move the Task Bar to the Top of the Screen in Windows
+https://www.wikihow.com/Move-the-Task-Bar-to-the-Top-of-the-Screen-in-Windows
+
+0 - Steps
+
+1 - Modify the task bar by right-clicking on the small "Start" icon at the bottom left-hand corner of the screen.
+Modify the task bar by right-clicking on the small "Start" icon at the bottom left-hand corner of the screen.
+- ;
+
+2 - Click "Properties".
+Click "Properties". A new box will open called "Taskbar and Start Menu Properties". Click the tab at the top that says "Taskbar".
+
+3 - Uncheck "Lock the Taskbar".
+Uncheck "Lock the Taskbar". This will allow the task bar to be modified.
+
+4 - Click OK.
+Click OK. Close all of the windows.
+
+5 - Finally, as your mouse is over the Task bar icon, hold down the right mouse button (for XP hold both left and right) and drag it to the side.
+Finally, as your mouse is over the Task bar icon, hold down the right mouse button (for XP hold both left and right) and drag it to the side.  After dragging it to the side you can drag it up to the top.
+

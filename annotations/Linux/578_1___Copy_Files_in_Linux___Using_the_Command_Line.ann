@@ -1,0 +1,21 @@
+T1	Software-OS-Related 107 115	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 347 356	directory
+A2	isOpened T2 f->t
+T3	Software-OS-Related 880 884	copy
+T4	Software-OS-Related 1059 1063	copy
+T5	Software-OS-Related 1144 1148	file
+T6	Software-OS-Related 1179 1187	cp hello
+A3	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-OS-Related 1193 1201	Terminal
+T8	Software-OS-Related 1379 1397	destination folder
+T9	Software-OS-Related 1485 1489	copy
+T10	Software-OS-Related 1551 1557	folder
+T11	Software-OS-Related 1623 1655	cp hello /home/name/Documents/Hi
+A4	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T10	
+T12	Software-OS-Related 1699 1707	Terminal
+T13	Software-OS-Related 1784 1788	file
+T14	Software-OS-Related 1797 1803	pasted
+T15	Software-OS-Related 1813 1819	folder

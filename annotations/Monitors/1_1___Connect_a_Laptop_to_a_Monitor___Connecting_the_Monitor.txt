@@ -1,0 +1,55 @@
+Connect a Laptop to a Monitor
+https://www.wikihow.com/Connect-a-Laptop-to-a-Monitor
+
+0 - Connecting the Monitor
+
+1 - Determine your laptop's video output options.
+Determine your laptop's video output options. Most laptops have a single display connection along the back, though some may be located along the side. There are a few main types of connections that your laptop may have:
+- 
+- Windows:
+- 
+- HDMI - This port resembles a 3/4 inch, six-sided, tapered port found on most Windows laptops.
+- DisplayPort - Similar to HDMI, but one corner of the port is crimped while the other forms a 90-degree angle.
+- VGA or DVI - VGA ports are colored with 15 holes, while DVI ports are usually black or white with 24 holes and a gap on one side. These ports are only found on older computers.
+- 
+- Mac:
+- 
+- Thunderbolt 3 (also called USB-C) - An oval port found on the sides of most modern MacBooks.
+- HDMI - A six-sided, tapered port found on some MacBooks.
+- Mini DisplayPort - A six-sided port found on Macs manufactured between 2008 and 2016.
+- 
+- ;
+
+2 - Determine what your monitor's video input is.
+Determine what your monitor's video input is. Simple computer monitors usually only have one available input, while TV monitors have multiple inputs. You can expect to find HDMI or DisplayPort inputs on the backs of most monitors. Older computer monitors may use a VGA or DVI cable connection.
+
+3 - Connect the cable to the video output on your laptop.
+Connect the cable to the video output on your laptop. Match the connector on the video cable end to the shape of the video output port on your laptop and insert the cable.
+
+4 - Connect the other end of the cable to your monitor.
+Connect the other end of the cable to your monitor.  Match the shape of the other end of the video connection cable with the port on the TV and insert it.
+- If the monitor requires a different type of connection than is on your laptop, you'll need an adapter cable to connect to your monitor. Some adapters only serve as a bridge between two cable types.  For example a VGA-to-HDMI adapter will allow you to connect a VGA cable on one end, and an HDMI cable on the other. Common adapter cables include the following:
+- HDMI-to-DisplayPort.
+- DisplayPort (or Mini DisplayPort)-to-HDMI.
+- Mini DisplayPort-to-DisplayPort.
+- USB-C-to-HDMI (or DisplayPort).
+- VGA-to-HDMI.
+- DVI-to-HDMI.
+
+5 - Plug in and turn on the monitor.
+Plug in and turn on the monitor. Attach your monitor to a power source (e.g., an electrical outlet), then press the monitor's Power  button.
+- If you had to buy an adapter (not an adapter cable), you may also have to plug the adapter's power cable into a power source.
+
+6 - Select the video source on the monitor.
+Select the video source on the monitor.  If you are using a monitor or TV that has multiple inputs, you will need to select the port you connected your laptop to on the monitor.  To select the video source, press the button that says "Input", "Source". or "Video Select" or something similar on the monitor or remote.
+
+7 - Wait for your laptop's screen to appear on the monitor.
+Wait for your laptop's screen to appear on the monitor. Once you see your laptop's desktop and icons (or some variation thereof) appear on the monitor's screen, you can proceed with setting up your laptop's display settings.
+- If you're hooking up a VGA connection, which is a blue connection and has 3 rows of holes, you will likely need to switch displays. You can do this by pressing a function key on your keyboard.[1]
+- X
+- Expert Source
+- Luigi Oppido. Computer Repair Technician
+- Expert Interview.  31 July 2019.
+- 
+- If your desktop does not appear on the monitor, see Method 2 to detect a display using Windows, and Method 3 to detect a display using Mac.
+

@@ -1,0 +1,60 @@
+Extend Wireless Range of a Wireless Keyboard and Mouse
+https://www.wikihow.com/Extend-Wireless-Range-of-a-Wireless-Keyboard-and-Mouse
+
+0 - Steps
+
+1 - Try to diagnose your mouse and keyboard range issues.
+Try to diagnose your mouse and keyboard range issues. If you're experiencing problems when trying to get your mouse or keyboard to work from more than a few feet away, consider the following common issues before continuing:
+- 
+- Cheap keyboard or mouse - Cheap wireless items tend to have reduced range when compared to higher quality products.
+- Old hardware - If your mouse, keyboard, and/or computer are more than a couple of years old, you will likely experience decreased performance. You may be able to offset this by updating your computer and downloading the latest drivers for your mouse and/or keyboard from the manufacturer's website.
+- Low batteries or charge - In addition to losing range, your mouse and/or keyboard will track erratically or stop working altogether if the charge or battery life is low.
+- ;
+
+2 - Replace the current batteries with fresh, long-lasting ones.
+Replace the current batteries with fresh, long-lasting ones. You'll want to use high-quality batteries for your mouse and keyboard; if the manufacturer recommends a specific brand, try using it. Fresh batteries will almost always improve the range at which your mouse and keyboard are functional.
+- If your mouse or keyboard uses a charger instead of replaceable batteries, charge it up all the way before continuing.
+- For keyboards with wired chargers, it may be best to leave the keyboard consistently plugged into the charger.
+
+3 - Make sure that there isn't anything between you and the wireless receiver.
+Make sure that there isn't anything between you and the wireless receiver. The wireless receiver—that is, the USB chip that plugs into your computer—isn't powerful enough to broadcast adequately through walls or furniture. You should have a clear line of sight from both the mouse and the keyboard to the respective wireless receiver on your computer.
+
+4 - Unplug other USB items from your computer.
+Unplug other USB items from your computer. The fewer USB ports you use, the more power the ones you're using will have. If you have a printer, flash drive, external drive, or any other similarly wired USB item attached to your computer, unplug it when you're using your mouse and keyboard.
+- This is also where having an up-to-date computer helps, since older operating systems may not use USB ports as efficiently as newer ones.
+
+5 - Keep interfering appliances away from the wireless mouse, keyboard, and receiver.
+Keep interfering appliances away from the wireless mouse, keyboard, and receiver. In addition to keeping things out of the line of sight between you and the wireless receiver, you'll have to keep other electrical items well away from the path of communication. Common appliances to watch out for include the following:[1]
+- X
+- Research source
+- 
+- 
+- Any wireless object (e.g., tablets, smartphones, baby monitors)
+- Microwaves
+- Televisions
+- Refrigerators
+- Routers and modems
+- Other computers
+
+6 - Plug your computer in to charge on a free power outlet.
+Plug your computer in to charge on a free power outlet. Using a free power outlet rather than one that other appliances or electronics are using will keep your computer as far away from interference as possible, and keeping your computer plugged in will ensure that the USB ports on it have a constant power supply rather than having to rely on battery power.
+- Many computers' default settings reduce power to the USB ports when on battery.
+
+7 - Face the USB receiver's front toward your keyboard or mouse.
+Face the USB receiver's front toward your keyboard or mouse. The top of the USB item is typically the front of the receiver itself, meaning that the top of the USB item should face your mouse or keyboard. Some USB receivers can be rotated, while others require a separate USB cable to allow for rotation.
+- If you do get a cable for your USB receiver, make sure the cable is around a foot long or shorter. You'll have to secure the USB receiver after positioning it to face the mouse or keyboard.
+
+8 - Use a USB dongle extender for your receiver.
+Use a USB dongle extender for your receiver. If you don't want to use a USB cable to help angle the receiver toward your mouse or keyboard, you can buy a small, stiff extender into which your USB receiver plugs. This moves the USB receiver away from the computer, which cuts down on resistance from the computer itself and makes the receiver easier to connect to from across the room.
+
+9 - Look for range extenders for your specific model of keyboard or mouse.
+Look for range extenders for your specific model of keyboard or mouse. Some keyboard/mouse manufacturers have range extenders available on their websites or in-store. These range extenders are larger, more powerful versions of the USB receiver that comes with your wireless item.[2]
+- X
+- Research source
+- 
+- Not all manufacturers make range extenders, and those that do may not make them for your model of keyboard or mouse.
+
+10 - Upgrade your wireless mouse and keyboard.
+Upgrade your wireless mouse and keyboard. If you just aren't able to get your mouse and keyboard to connect at more than a few feet, it's time to upgrade. You can buy a more recent version of your current wireless setup, or you can start using a Bluetooth mouse/keyboard combination instead.
+- Switching from wireless to Bluetooth will noticeably extend your mouse's/keyboard's range since it's likely that fewer items around your house use the Bluetooth network.
+

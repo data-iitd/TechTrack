@@ -1,0 +1,11 @@
+T1	Software-OS-Related 138 148	Apple icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 311 329	System Preferences
+A2	isOpened T2 f->t
+T4	Software-OS-Related 467 475	Displays
+A4	isOpened T4 f->t
+T9	Software-OS-Related 743 758	Detect Displays
+A9	isSettingsChanged T9 true
+T3	Software-OS-Related 681 696	Detect Displays
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T9 Arg2:T4	

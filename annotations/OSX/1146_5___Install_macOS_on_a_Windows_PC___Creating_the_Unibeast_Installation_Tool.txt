@@ -1,0 +1,46 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Creating the Unibeast Installation Tool
+
+1 - Open the Unibeast folder.
+Open the Unibeast folder. Double-click the Unibeast folder to unzip and open it.
+
+2 - Open Unibeast.
+Open Unibeast. Double-click the Unibeast PKG file to open it.
+
+3 - Click Open when prompted.
+Click Open when prompted. Doing so will open the Unibeast setup window.
+- If your Mac is currently running macOS Sierra or higher, you'll have to verify the Unibeast installation before continuing.
+
+4 - Click Continue four times.
+Click Continue four times. It's in the bottom-right corner of the first four pages of the Unibeast setup window.
+
+5 - Click Agree when prompted.
+Click Agree when prompted. It's at the top of the window.
+
+6 - Select your USB drive, then click Continue.
+Select your USB drive, then click Continue. Click the USB drive's name to select it.
+
+7 - Select High Sierra, then click Continue.
+Select High Sierra, then click Continue. You should see High Sierra in the middle of the page.
+
+8 - Select a motherboard type.
+Select a motherboard type. Depending on whether your Windows computer has a UEFI- or a BIOS-type motherboard, your choice will vary:
+- 
+- UEFI — Click UEFI Boot Mode, then click Continue.
+- BIOS — Click Legacy Boot Mode, then click Continue.
+
+9 - Select a graphics card option if necessary, then click Continue.
+Select a graphics card option if necessary, then click Continue. Check the box next to Inject [card name] for your preferred graphics card settings.
+- If your graphics card supports macOS High Sierra by default, skip this step.
+
+10 - Click Continue.
+Click Continue. It's in the bottom-right corner of the page. Doing so will prompt you to enter your Mac's password.
+
+11 - Enter your Mac's password.
+Enter your Mac's password. Type in the password you use to log into your Mac.
+
+12 - Click OK.
+Click OK. This will prompt Unibeast to begin installing to the USB drive. Once the installation process is complete, your USB drive will be ready to install macOS High Sierra on your PC. While the Unibeast installation finishes up, you should change your Windows computer's boot order.
+

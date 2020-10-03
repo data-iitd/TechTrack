@@ -1,0 +1,4 @@
+T1	Software-OS-Related 97 111	Command Prompt
+A1	isOpened T1 f->t
+T2	Software-OS-Related 427 434	taskmgr
+A2	isOpened T2 f->t

@@ -1,0 +1,22 @@
+T1	Software-OS-Related 892 900	registry
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1665 1683	HKEY_LOCAL_MACHINE
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1743 1751	SOFTWARE
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1776 1786	Windows NT
+A4	isOpened T4 f->t
+T5	Hardware-Devices 4306 4314	computer
+A5	isUsed T5 true
+T6	Software-OS-Related 2042 2058	registered owner
+A6	isOpened T6 f->t
+T7	Software-OS-Related 2492 2515	Registered Organization
+A7	isOpened T7 f->t
+T8	Software-OS-Related 3330 3343	File Explorer
+A8	isOpened T8 f->t
+T9	Software-OS-Related 3375 3379	File
+A9	isOpened T9 f->t
+T10	Software-OS-Related 3445 3449	Help
+A10	isOpened T10 f->t
+T11	Software-OS-Related 3459 3472	About Windows
+A11	isOpened T11 f->t

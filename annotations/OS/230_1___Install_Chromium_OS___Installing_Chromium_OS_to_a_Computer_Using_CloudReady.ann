@@ -1,0 +1,45 @@
+T1	Software-Other 154 164	CloudReady
+A1	isInstalled T1 f->t
+T2	Software-Other 170 209	https:__www.neverware.com_freedownload_
+T3	Software-Other 334 345	Chromium OS
+T4	Hardware-Other 354 362	computer
+T5	Software-Other 992 998	Etcher
+T6	Software-Other 1004 1033	https:__www.balena.io_etcher_
+T8	Software-Other 1459 1469	CloudReady
+T9	Software-OS-Related 1473 1482	USB drive
+T7	Software-Other 1529 1535	Etcher
+A2	isOpened T7 f->t
+T10	Software-Other 1589 1601	Select Image
+T11	Software-Other 1617 1643	CloudReady downloaded file
+A3	isInstalled T5 f->t
+T12	Software-Other 1655 1667	Select Drive
+T13	Software-OS-Related 1693 1702	USB drive
+T14	Hardware-Other 1922 1930	computer
+T15	Software-OS-Related 1935 1939	boot
+T16	Software-OS-Related 1949 1958	USB drive
+T17	Software-OS-Related 2268 2274	Log in
+T18	Software-OS-Related 2553 2569	Terminal/command
+A4	isOpened T18 f->t
+T19	Software-OS-Related 2606 2652	sudo _usr_sbin_chromeos-install --dst _dev_sda
+T20	Software-Other 2735 2744	Chrome OS
+A5	isInstalled T20 f->t
+T21	Software-OS-Related 2860 2870	hard drive
+T22	Software-Other 2883 2894	Chromium OS
+A6	isInstalled T22 f->t
+T23	Software-Other 3044 3051	Netflix
+T24	Software-Other 3107 3117	CloudReady
+T25	Software-Other 3184 3192	Wildvine
+T26	Software-OS-Related 3217 3225	Settings
+A7	isOpened T26 f->t
+T27	Software-OS-Related 3242 3249	Plugins
+A8	isOpened T27 f->t
+T28	Software-OS-Related 3257 3264	Install
+T29	Software-Other 3273 3307	Wildvine Content Decryption Module
+A9	isInstalled T29 f->t
+T30	Software-Other 3309 3320	Adobe Flash
+A10	isInstalled T30 f->t
+T31	Software-Other 3326 3354	Proprietary Media Components
+A11	isInstalled T31 f->t
+T32	Software-Other 3446 3477	CloudReady troubleshooting page
+T33	Software-Other 1714 1720	Flash!
+A12	isSettingsChanged T33 true

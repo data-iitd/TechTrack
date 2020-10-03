@@ -1,0 +1,10 @@
+T1	Software-OS-Related 294 315	FIX95CPU_V3_FINAL.ZIP
+A1	isOpened T1 f->t
+T2	Software-OS-Related 499 520	FIX95CPU_V3_FINAL.ZIP
+A2	isOpened T2 f->t
+T3	Software-OS-Related 761 768	Extract
+A3	isOpened T3 f->t
+T4	Hardware-Other 1240 1251	floppy disk
+T5	Hardware-Other 2030 2032	CD
+T6	Hardware-Devices 2043 2051	computer
+A4	isUsed T6 true

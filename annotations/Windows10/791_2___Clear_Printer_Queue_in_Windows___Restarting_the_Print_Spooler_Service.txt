@@ -1,0 +1,38 @@
+Clear Printer Queue in Windows
+https://www.wikihow.com/Clear-Printer-Queue-in-Windows
+
+0 - Restarting the Print Spooler Service
+
+1 - Open the Windows Search bar.
+Open the Windows Search bar. It’s either a magnifying glass or a circle to the right of the Start  button.
+
+2 - Type services.msc and press ↵ Enter.
+Type services.msc and press ↵ Enter. This opens the “Services” window.
+
+3 - Scroll down and right-click Print Spooler.
+Scroll down and right-click Print Spooler. It’s in the right panel. A context menu will appear.
+
+4 - Click Stop.
+Click Stop. Now that the queue is stopped, you can clear the documents.
+
+5 - Go back to the Windows Search bar.
+Go back to the Windows Search bar. Don’t close the Services window, as you’ll need it again in a few moments. Just click the search icon (or the search bar, if it’s permanently in your taskbar).
+
+6 - Type %systemroot%\System32\spool\printers\ and press ↵ Enter.
+Type %systemroot%\System32\spool\printers\ and press ↵ Enter. A folder will appear.
+
+7 - Select all files in the folder.
+Select all files in the folder. To do this, click a blank area inside the folder, then press Ctrl+A.
+
+8 - Press the Del key on the keyboard.
+Press the Del key on the keyboard. This clears the print queue, and you can close this folder window.
+
+9 - Return to the “Services” window.
+Return to the “Services” window. You can do this by clicking Services in the taskbar, or by pressing Alt+Tab ↹ until you get back to it.
+
+10 - Scroll down and right-click Print Spooler again.
+Scroll down and right-click Print Spooler again.
+
+11 - Click Start.
+Click Start. The print queue should now be completely clear.
+

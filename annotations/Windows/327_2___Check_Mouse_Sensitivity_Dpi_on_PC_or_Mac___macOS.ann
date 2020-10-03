@@ -1,0 +1,7 @@
+T1	Software-OS-Related 141 146	 menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 222 240	System Preferences
+A2	isOpened T2 f->t
+T3	Hardware-Other 282 287	Mouse
+T4	Software-OS-Related 401 414	Point & Click
+A3	isOpened T4 f->t

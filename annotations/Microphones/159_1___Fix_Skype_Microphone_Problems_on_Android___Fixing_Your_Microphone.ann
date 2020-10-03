@@ -1,0 +1,32 @@
+T3	Hardware-Devices 317 327	microphone
+T6	Hardware-Other 453 468	microphone hole
+T7	Hardware-Other 477 482	phone
+T8	Hardware-Other 486 492	tablet
+T9	Hardware-Other 609 613	dust
+T10	Hardware-Other 617 626	particles
+T11	Hardware-Other 804 815	cotton swab
+T12	Hardware-Other 819 828	toothpick
+T13	Hardware-Other 850 859	particles
+T14	Hardware-Devices 555 565	microphone
+T15	Software-OS-Related 1034 1042	Settings
+A5	isOpened T15 f->t
+T16	Hardware-Devices 1223 1229	screen
+T17	Software-OS-Related 1294 1298	Apps
+A6	isOpened T17 f->t
+T18	Software-OS-Related 1443 1454	App manager
+T19	Software-OS-Related 1456 1468	Applications
+T20	Software-Other 1515 1520	Skype
+A7	isOpened T20 f->t
+T21	Software-Other 1630 1642	Permisssions
+A8	isOpened T21 f->t
+T24	Software-Other 1826 1843	Microphone switch
+T25	Hardware-Devices 1971 1981	microphone
+A11	isUsed T25 true
+T1	Hardware-Other 157 170	Android phone
+T2	Hardware-Other 174 180	tablet
+A1	isInstalled T20 start-T
+*	Equiv T18 T17 T19
+T4	Software-Other 1778 1783	Skype
+A2	isSettingsChanged T24 true
+T5	Software-Other 1946 1951	Skype
+R1	SubPart Arg1:T24 Arg2:T20	

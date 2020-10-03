@@ -1,0 +1,25 @@
+Install CentOS
+https://www.wikihow.com/Install-CentOS
+
+0 - Downloading and Burning the CentOS ISO File
+
+1 - Navigate to the CentOS downloads page at https:__www.centos.org_download_.
+Navigate to the CentOS downloads page at https://www.centos.org/download/.
+- ;
+
+2 - Click on “DVD ISO.
+Click on “DVD ISO.” The Web page will refresh and display a number of ISO files for the latest version of CentOS hosted by users in the CentOS community.
+
+3 - Click on any ISO link, then select the option to save the file to your desktop.
+Click on any ISO link, then select the option to save the file to your desktop. You must burn the ISO file to CD or DVD before you can install CentOS on your system.
+
+4 - Insert a recordable CD or DVD into the disc drive on your computer.
+Insert a recordable CD or DVD into the disc drive on your computer.
+
+5 - Navigate to your desktop and double-click on the ISO file.
+Navigate to your desktop and double-click on the ISO file. Your computer will recognize that the ISO file must be burned to disk, and automatically launch your default disk burner software.
+- Launch Disk Utility if using Mac OS X, then click on “File,” select “Open Disk Image,” and open the ISO file you want burned to CD or DVD.
+
+6 - Click on “Burn.
+Click on “Burn.” Your disk burner software will then burn the CentOS ISO file to your disc.
+

@@ -1,0 +1,48 @@
+Perform an Offline Scan with Windows 10 Defender
+https://www.wikihow.com/Perform-an-Offline-Scan-with-Windows-10-Defender
+
+0 - Steps
+
+1 - Open Windows Defender Security Center.
+Open Windows Defender Security Center. Click the ^ button in the taskbar notification area, right-click on the white shield icon, and then click Open. You may not need to click the ^ button if it is already shown.
+- Alternatively, you can click the Start  button, type windows defender security center and click the matching result.
+- You can also click the start  button, click on settings. Click Update and Security. Select Windows Security > Open Windows security.
+- ;
+
+2 - Click "Virus & threat protection" from the main screen.
+Click "Virus & threat protection" from the main screen.
+- It resembles a colored shield icon.
+
+3 - Click "Protection updates".
+Click "Protection updates".
+- In the new Feature update to Windows 10, version 1803, the option Protection updates is turned to Virus and threat protection updates.
+
+4 - Click Check for Updates.
+Click Check for Updates. Wait until the checking (and updating if needed) process has finished. This ensures Windows Defender's malware definition files (used to detect malware) are up to date so that you get the most out of your scan.
+
+5 - Click the ← button at the top-left.
+Click the ← button at the top-left. Doing so will return you to the previous page and allow you to continue the process of beginning the scan.
+
+6 - Click the "Advanced scan" link.
+Click the "Advanced scan" link. It's underneath the Quick scan button.
+- In the new Feature update to Windows 10, version 1803, the option "Advanced scan" is turned to "Run a new advanced scan".
+
+7 - Click the radio button next to "Windows Defender Offline scan".
+Click the radio button next to "Windows Defender Offline scan".
+
+8 - Initiate the scan.
+Initiate the scan. Click the Scan now button.
+
+9 - Confirm the scan.
+Confirm the scan. Click Scan to begin the scan. Ensure you save any of your work in other apps before continuing.
+
+10 - Confirm the User Account Control window, if prompted.
+Confirm the User Account Control window, if prompted. Select Yes from the popup window.
+- You might need to enter the password to an admin account.
+
+11 - Allow your computer to restart and scan.
+Allow your computer to restart and scan. Your PC will restart and the offline scan will begin. When the scan begins, you will see a window with progress bar. Wait until the scan is finished and for your computer to automatically start.
+
+12 - Finished.
+Finished. If any malware files are found and removed, you will be informed via a notification the next time you sign in.
+

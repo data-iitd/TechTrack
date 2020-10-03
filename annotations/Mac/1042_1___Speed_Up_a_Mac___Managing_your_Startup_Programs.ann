@@ -1,0 +1,10 @@
+T1	Software-OS-Related 173 178	apple
+A1	isOpened T1 f->t
+T2	Software-OS-Related 268 286	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 385 399	Users & Groups
+A3	isOpened T3 f->t
+T4	Software-OS-Related 495 511	Select your name
+A4	isSettingsChanged T4 true
+T5	Software-Other 591 602	Login Items
+A5	isOpened T5 f->t

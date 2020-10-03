@@ -1,0 +1,30 @@
+Become Root in Ubuntu
+https://www.wikihow.com/Become-Root-in-Ubuntu
+
+0 - Enabling the Root User
+
+1 - Press Ctrl+Alt+T to open a terminal window.
+Press Ctrl+Alt+T to open a terminal window. For security purposes (and to avoid damage), the root user account is locked by default.  To safely run commands as root, you should use sudo or gksudo instead. If you absolutely must have a separate root user (if it’s required by a program used by your business, or this workstation will only be used by a single user), you can enable the root user with some simple commands.
+- Enabling the root user can put your system at risk and is not recommended by Ubuntu.[5]
+- X
+- Research source
+
+2 - Type sudo passwd root and press ↵ Enter.
+Type sudo passwd root and press ↵ Enter. You will be prompted to set a new password for the root user.[6]
+- X
+- Research source
+- 
+-  Don’t lose this password.
+
+3 - Enter a password, then press ↵ Enter.
+Enter a password, then press ↵ Enter.
+
+4 - Retype the password when prompted, then press ↵ Enter.
+Retype the password when prompted, then press ↵ Enter. The root user should now have a password.
+
+5 - Type su - and press ↵ Enter.
+Type su - and press ↵ Enter. Enter the root password when prompted to arrive at the root prompt.
+- To disable the root account, type sudo passwd -dl root.[7]
+- X
+- Research source
+

@@ -1,0 +1,5 @@
+T1	Software-Other 146 154	filament
+A1	isInstalled T1 f->t
+T2	Software-Other 244 250	Unload
+T3	Software-OS-Related 1641 1649	filament
+A2	isOpened T3 f->t

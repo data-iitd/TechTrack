@@ -1,0 +1,26 @@
+T1	Hardware-Other 129 133	pads
+T2	Hardware-Devices 142 151	earphones
+T3	Hardware-Other 206 218	elastic band
+T4	Hardware-Other 509 518	equipment
+T5	Hardware-Other 565 576	lint roller
+T6	Hardware-Other 675 679	pads
+T7	Hardware-Devices 775 784	earphones
+T8	Hardware-Other 819 825	sheets
+T9	Hardware-Other 946 951	cloth
+T10	Hardware-Other 1011 1015	bowl
+T11	Hardware-Other 1116 1121	paper
+T12	Hardware-Other 1122 1136	towel or cloth
+T14	Hardware-Other 1272 1282	damp cloth
+T15	Hardware-Other 1461 1474	earphone pads
+T13	Hardware-Other 1258 1262	pads
+*	Equiv T13 T15
+T16	Hardware-Other 1725 1735	toothbrush
+T17	Hardware-Other 1902 1915	earphone pads
+T18	Hardware-Other 2091 2095	pads
+T19	Hardware-Other 2105 2110	towel
+T20	Hardware-Other 2197 2202	paper
+T21	Hardware-Other 2405 2409	pads
+T23	Hardware-Other 2494 2506	elastic band
+T24	Hardware-Other 2594 2606	elastic fits
+T25	Hardware-Other 2039 2044	cloth
+T22	Hardware-Devices 2425 2434	earphones

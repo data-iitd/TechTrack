@@ -1,0 +1,61 @@
+Install Ubuntu Server
+https://www.wikihow.com/Install-Ubuntu-Server
+
+0 - Installing Ubuntu Server
+
+1 - Select a setup language.
+Select a setup language. Use the arrow keys to scroll up or down to the language you want to use, then press ↵ Enter.
+
+2 - Select a keyboard layout if necessary.
+Select a keyboard layout if necessary. If you use a different keyboard layout than the one that is selected in the middle of the screen, scroll down to the current layout and press ↵ Enter, then scroll down to the layout you want to use and press ↵ Enter.
+
+3 - Proceed to the next page.
+Proceed to the next page. Scroll down to select Done at the bottom of the page, then press ↵ Enter.
+
+4 - Select Install Ubuntu and press ↵ Enter.
+Select Install Ubuntu and press ↵ Enter. It's at the top of the screen.
+
+5 - Skip the network configuration page.
+Skip the network configuration page. Scroll down to select Done, then press ↵ Enter.
+
+6 - Enter any proxy details if necessary.
+Enter any proxy details if necessary. If you use a proxy for your network, select the text field and press ↵ Enter, then enter your proxy details.
+- Skip this step if you don't use a proxy.
+
+7 - Open the next page.
+Open the next page. Scroll down to select Done, then press ↵ Enter.
+
+8 - Confirm the mirror settings.
+Confirm the mirror settings. Scroll down to select Done, then press ↵ Enter.
+
+9 - Select the disk on which you want to install Ubuntu Server.
+Select the disk on which you want to install Ubuntu Server. Select Use An Entire Disk and press ↵ Enter, then select your disk and press ↵ Enter.
+- Keep in mind that this will overwrite your entire disk with Ubuntu Server, so your hard drive will be erased.
+
+10 - Confirm your disk settings.
+Confirm your disk settings. Scroll down to select Done and press ↵ Enter.
+
+11 - Select Continue and press ↵ Enter.
+Select Continue and press ↵ Enter. Doing so will take you to the server setup screen.
+
+12 - Enter your server information.
+Enter your server information. Fill out the following fields:
+- 
+- Your name — Enter your name here.
+- Your server's name — Add a nickname for your server.
+- Pick a username — Enter the username you'd like to use.
+- Choose a password — Create a strong password for your server.
+- Confirm your password — Repeat your password.
+
+13 - Confirm your server settings.
+Confirm your server settings. Scroll down to the bottom of the page to select Done, then press ↵ Enter.
+
+14 - Add snaps if necessary.
+Add snaps if necessary. If you want to add snaps, which are additional in-server services, to your installation, select the snap you want to add and press space.
+
+15 - Confirm your snaps.
+Confirm your snaps. Scroll down to select Done and press ↵ Enter. At this point, Ubuntu Server will begin installing.
+
+16 - Restart your computer when prompted.
+Restart your computer when prompted. Select Reboot Now at the bottom of the screen and press ↵ Enter.
+

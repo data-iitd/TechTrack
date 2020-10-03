@@ -1,0 +1,29 @@
+T1	Hardware-Other 109 112	box
+T2	Hardware-Other 156 167	accessories
+T3	Hardware-Devices 184 195	Razer Hydra
+A1	isPowered T3 start-F
+T4	Hardware-Devices 246 257	controllers
+T5	Hardware-Other 263 275	base station
+T6	Hardware-Other 281 290	USB cable
+T7	Hardware-Other 302 313	Start Guide
+T8	Hardware-Devices 338 348	controller
+A2	isConnected T8 f->t
+T9	Hardware-Devices 356 368	base station
+A3	isConnected T9 start-F
+T10	Hardware-Other 424 429	cable
+T11	Hardware-Other 489 493	port
+T12	Hardware-Devices 631 643	base station
+A4	isConnected T12 f->t
+T13	Hardware-Other 652 660	computer
+T14	Hardware-Other 712 721	USB cable
+T15	Hardware-Other 766 770	port
+T16	Software-Device-Drivers 907 925	Razer Hydra driver
+T17	Software-Device-Drivers 1152 1158	driver
+A5	isInstalled T17 f->t
+T18	Software-Other 988 999	web browser
+A6	isOpened T18 f->t
+T19	Hardware-Other 1008 1016	computer
+T21	Hardware-Devices 1425 1436	Razer Hydra
+A8	isSetup T21 true
+A9	isInstalled T16 start-F
+A10	isInstalled T18 start-T

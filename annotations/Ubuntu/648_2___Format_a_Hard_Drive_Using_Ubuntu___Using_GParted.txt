@@ -1,0 +1,56 @@
+Format a Hard Drive Using Ubuntu
+https://www.wikihow.com/Format-a-Hard-Drive-Using-Ubuntu
+
+0 - Using GParted
+
+1 - Open the Terminal.
+Open the Terminal. You can open the Terminal from the Dash, or by pressing Ctrl+Alt+T.
+
+2 - Install GParted.
+Install GParted. Enter the following command to install GParted. You'll be prompted for your user password, which won't appear as you type it:
+- sudo apt-get install gparted
+- Press Y when prompted to continue.
+
+3 - Start GParted from the Dash.
+Start GParted from the Dash. Open the Dash and type "gparted" to find the GParted Partition Editor." You'll see a bar representing the current drive's partitions and the free space on them.
+
+4 - Select the drive you want to format.
+Select the drive you want to format. Click the drop-down menu in the upper-right corner to select the drive you want to format. If you aren't sure which is which, use the size of the drive to help you determine.
+
+5 - Unmount the partition you want to change or remove.
+Unmount the partition you want to change or remove. Before you can make changes in GParted, you'll need to unmount the partition. Right-click the partition from the list or the graph and select "Unmount."
+
+6 - Delete the existing partition.
+Delete the existing partition. This will delete the partition and turn it into unallocated space. You can then create a new partition from that space and format it with a file system.
+- Right-click the partition you want to remove and click "Delete."
+
+7 - Create a new partition.
+Create a new partition. After deleting the partition, right-click the unallocated space and select "New." This will start the process to create a new partition.
+
+8 - Select the size of the partition.
+Select the size of the partition. When creating a new partition, you can use the slider to choose how much of the space you want to use for it.
+
+9 - Select the partition's file system.
+Select the partition's file system. Use the "File system" menu to choose the format for the partition. If you intend to use the drive for multiple operating systems and devices, select "fat32." If you're just using the drive in Linux, select "ext4."
+
+10 - Give the partition a label.
+Give the partition a label. This will allow you to easily identify it on your system.
+
+11 - Click "Add" when you're finished configuring the partition.
+Click "Add" when you're finished configuring the partition. The partition will be added to your operations queue at the bottom of the screen.
+
+12 - Resize a partition (optional).
+Resize a partition (optional). One of Gparted's features is the ability to resize partitions. You can resize a partition so that a new partition can be created from the resulting free space. This allows you to essentially split a single drive into multiple pieces. This will not affect any data on the drive.
+- Right-click the partition you want to resize and select "Resize/Move."
+- Drag the edges of the partition to create free space before or after it.
+- Click "Resize/Move" to accept your changes. You'll need to create new partitions from the resulting unallocated space following the instructions above.
+
+13 - Click the green checkmark button to begin applying your changes.
+Click the green checkmark button to begin applying your changes.  of your changes will be applied to the drive until you click this button. Once you click it, any partitions that you set to delete will be removed and you will lose all of the data on them. Be absolutely sure you have the correct settings before proceeding.
+- It may take a while to complete all of the operations, especially if you're performing several or the drive is large.
+
+14 - Find your newly-formatted drive.
+Find your newly-formatted drive. Once the format process is complete, you can close GParted and find your drive. It will appear in the list of drives in your Files program.[2]
+- X
+- Research source
+

@@ -1,0 +1,42 @@
+T1	Software-OS-Related 117 123	drives
+T4	Software-OS-Related 900 909	partition
+T5	Software-OS-Related 946 952	Delete
+A2	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T2	Software-OS-Related 515 529	partition page
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1153 1157	swap
+T6	Software-OS-Related 1964 1967	New
+T7	Software-OS-Related 1997 2004	Primary
+T9	Software-OS-Related 1327 1330	New
+T10	Software-OS-Related 1360 1367	Primary
+T11	Software-OS-Related 1656 1659	End
+A5	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T3	
+T12	Software-OS-Related 1703 1723	hard drive partition
+T13	Software-OS-Related 2132 2149	primary partition
+T14	Software-OS-Related 2167 2175	Bootable
+A3	isSettingsChanged T14 true
+R3	SubPart Arg1:T14 Arg2:T12	
+T15	Software-OS-Related 2213 2217	swap
+T8	Software-OS-Related 2340 2344	Type
+T16	Software-OS-Related 2449 2454	Write
+T17	Software-OS-Related 2485 2488	yes
+A4	isSettingsChanged T17 true
+R4	SubPart Arg1:T17 Arg2:T15	
+T18	Software-OS-Related 2538 2548	partitions
+T19	Software-OS-Related 2861 2867	cfdisk
+A6	isOpened T19 t->f
+T20	Software-OS-Related 780 795	cfdisk /dev/sda
+*	Equiv T20 T2
+T21	Software-OS-Related 2953 2959	Format
+T22	Software-OS-Related 2965 2982	primary partition
+T23	Software-OS-Related 3227 3232	Mount
+T24	Software-OS-Related 3237 3256	formatted partition
+T25	Software-OS-Related 3432 3436	swap
+T26	Software-OS-Related 3298 3330	mount /dev/[partition name] /mnt
+A7	isSettingsChanged T26 true
+T27	Software-OS-Related 3193 3212	mkfs.ext4 /dev/sda2
+A8	isSettingsChanged T27 true
+T28	Software-OS-Related 3560 3576	swapon /dev/sda1
+A9	isSettingsChanged T28 true

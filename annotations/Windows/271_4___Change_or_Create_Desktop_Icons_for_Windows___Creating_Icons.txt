@@ -1,0 +1,49 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Creating Icons
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen, or press ⊞ Win.
+
+2 - Type paint into Start, then press ↵ Enter.
+Type paint into Start, then press ↵ Enter. Make sure you don't press ↵ Enter until the Paint icon, which resembles a paint palette, appears at the top of the Start window.
+
+3 - Click File.
+Click File. It's a blue button in the upper-left corner of the Paint window.
+
+4 - Click Open.
+Click Open. This option is in the File menu. Doing so opens a window where you can open a file location.
+- If you'd rather create your own icon by drawing in Paint, skip this step and instead create your drawing.
+
+5 - Select a picture.
+Select a picture. You may have to click a location on the left side of the Open window (e.g., Pictures) to find the picture you want to open.
+- Skip this step if you're drawing your own icon.
+
+6 - Click Open.
+Click Open. This will open your image in the Paint window.
+- Skip this step if you're drawing your own icon.
+
+7 - Click File again.
+Click File again. It's in the top-left corner of Paint.
+
+8 - Select Save as.
+Select Save as. This option is near the top of the File menu.
+
+9 - Click BMP picture.
+Click BMP picture. It's an option to the right of the Save as button. Doing so opens a Save As window where you can name your file.
+
+10 - Type in your file's name followed by .ico.
+Type in your file's name followed by .ico. This will ensure that your file is saved as an icon file.
+- For example, you might name your file "shortcut.ico".
+
+11 - Click a folder to save your file in.
+Click a folder to save your file in. Do so in the left-hand pane of the Save As window.
+- The Pictures folder is a safe place to save your shortcut file.
+
+12 - Click Save.
+Click Save. It's at the bottom of the window. Doing so will save your icon in your selected folder.
+
+13 - Change a program's icon
+Change a program's icon using your created icon. You'll use the Browse method and select your custom icon from the folder where you saved it.
+

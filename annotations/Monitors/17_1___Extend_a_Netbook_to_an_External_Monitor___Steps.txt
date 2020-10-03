@@ -1,0 +1,36 @@
+Extend a Netbook to an External Monitor
+https://www.wikihow.com/Extend-a-Netbook-to-an-External-Monitor
+
+0 - Steps
+
+1 - Look at the back or side of your netbook to find an available VGA or DVI port.Note:
+Look at the back or side of your netbook to find an available VGA or DVI port.Note: DVI ports are usually white, and most VGA ports are blue (refer to your netbook owner's manual if necessary). DVI ports are used to connect some flat panel LCD displays, while VGA ports can connect either LCD or older style CRT monitors. This instruction uses VGA as an example.
+- ;
+
+2 - Plug a LCD monitor into the external VGA port of your netbook.
+Plug a LCD monitor into the external VGA port of your netbook.
+
+3 - Turn on the LCD then start up your netbook.
+Turn on the LCD then start up your netbook.
+
+4 - After Windows XP started up, right-click the desktop, and then click Properties.
+After Windows XP started up, right-click the desktop, and then click Properties.
+
+5 - In the Display Properties dialog box, click the Settings tab.
+In the Display Properties dialog box, click the Settings tab.
+
+6 - Click the Display List and select your external monitor.
+Click the Display List and select your external monitor.
+
+7 - Select 2 Plug and Play Monitor on Mobile Intel® 945 Express Chipset Family.
+Select 2 Plug and Play Monitor on Mobile Intel® 945 Express Chipset Family.
+
+8 - Select the Extend my Windows desktop onto this monitor check box.
+Select the Extend my Windows desktop onto this monitor check box.
+
+9 - Adjust the proper screen resolution  for LCD monitor, i.e.
+Adjust the proper screen resolution  for LCD monitor, i.e. 1028 by 1024.
+
+10 - Click OK.
+Click OK.
+

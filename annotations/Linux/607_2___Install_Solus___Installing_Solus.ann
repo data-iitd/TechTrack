@@ -1,0 +1,21 @@
+T1	Hardware-Other 100 108	computer
+T2	Software-OS-Related 113 117	boot
+T3	Software-OS-Related 128 137	USB drive
+T4	Software-OS-Related 743 751	location
+T5	Software-OS-Related 753 761	language
+T6	Software-OS-Related 763 778	keyboard layout
+T7	Software-OS-Related 784 793	time zone
+T8	Software-OS-Related 346 355	Boot Menu
+A1	isOpened T8 f->t
+T9	Software-OS-Related 859 875	install location
+T10	Software-OS-Related 966 971	Solus
+T11	Software-OS-Related 1118 1127	host name
+T12	Software-OS-Related 1511 1519	username
+T13	Software-OS-Related 1521 1530	real name
+T14	Software-OS-Related 1536 1544	password
+T15	Software-OS-Related 1675 1691	Confirm password
+T16	Software-OS-Related 1967 1974	Install
+T17	Software-OS-Related 2306 2312	Reboot
+T18	Hardware-Other 2318 2320	PC
+T19	Software-OS-Related 2436 2441	Solus
+A2	isOpened T19 f->t

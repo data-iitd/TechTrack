@@ -1,0 +1,9 @@
+T1	Hardware-Devices 210 218	computer
+T2	Hardware-Other 232 254	Intel Core 2 Duo P8600
+T3	Hardware-Other 256 258	i5
+T4	Hardware-Other 263 275	i7 processor
+T5	Hardware-Other 352 355	RAM
+T6	Software-OS-Related 387 392	Start
+A1	isOpened T6 f->t
+T7	Software-OS-Related 435 453	System Information
+A2	isOpened T7 f->t

@@ -1,0 +1,40 @@
+Print Pictures from Your Phone
+https://www.wikihow.com/Print-Pictures-from-Your-Phone
+
+0 - Printing with AirPrint on iPhone
+
+1 - Connect your AirPrint printer to your network.
+Connect your AirPrint printer to your network. The process for this will vary depending on your printer. Generally, you'll use the printer's built-in menu to select your wireless network and enter the password to join.
+- You can see if your printer is AirPrint-compatible by checking Apple's support page.
+
+2 - Make sure there is photo paper in your printer.
+Make sure there is photo paper in your printer. Most modern desktop printers will have a special tray for photo paper that your iPhone will automatically print pictures from. This tray may be adjustable, and the location will vary depending on the printer. Refer to your printer's documentation for instructions on putting photo paper in the tray.
+
+3 - Ensure you're connected to the same network as the printer.
+Ensure you're connected to the same network as the printer. You'll need to be on the same network as the AirPrint printer to print. You cannot print to your AirPrint printer remotely from a different Wi-Fi network.
+- You can do this by opening Settings on your iPhone, tapping on Wi-Fi, and looking at which network your phone is connected to. If you're not connected to the same network, tap on the network your printer is connected to, and enter a password (if there is one).
+
+4 - Open Photos on your iPhone.
+Open Photos on your iPhone. This app icon looks like a multicolored flower. You can find this app on your home screen or by searching.
+
+5 - Tap a photo you want to print.
+Tap a photo you want to print. If you want to print more than one photo, tap and hold a picture and it will get a blue checkmark in the upper left corner to indicate that it is selected. You can continue tapping to add pictures to your selection. Make sure you don't select a video, though, as that will prevent you from getting the option to print.[2]
+- X
+- Research source
+
+6 - Tap the Share icon .
+Tap the Share icon . You'll find this in the lower-left corner of the screen.
+
+7 - Tap Print.
+Tap Print. You'll find this in the second row of sharing options. You may have to swipe the row from right to left to see it.
+
+8 - Tap "Select Printer."
+Tap "Select Printer." A list of available printers will appear.
+
+9 - Tap your printer.
+Tap your printer. If your printer is not on the list, verify that it is connected to the same network as you and that it is AirPrint compatible. Restarting the printer and your router will usually fix connection errors.
+- If you need more printing options, you may want to try the printing app from your printer's manufacturer, like the HP app, HP Smart.
+
+10 - Tap Print to print the selected photos.
+Tap Print to print the selected photos. Your printer will automatically attempt to print from the photo paper tray on your printer.
+

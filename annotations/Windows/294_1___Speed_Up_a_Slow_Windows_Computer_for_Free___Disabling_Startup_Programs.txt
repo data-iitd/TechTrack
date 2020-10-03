@@ -1,0 +1,46 @@
+Speed Up a Slow Windows Computer for Free
+https://www.wikihow.com/Speed-Up-a-Slow-Windows-Computer-for-Free
+
+0 - Disabling Startup Programs
+
+1 - Hold down Ctrl+Alt+Del.
+Hold down Ctrl+Alt+Del. This will bring up your PC's task menu. If you have a myriad of programs starting up when you log into your computer, you'll likely have to deal with several minutes of general slow-down. Disabling startup programs will fix this issue.
+- ;
+
+2 - Click the "Task Manager" option.
+Click the "Task Manager" option. This will open your computer's Task Manager, from which you can alter or end PC processes.[1]
+- X
+- Research source
+- 
+-  After that, click on "More details".
+
+3 - Click the "Startup" tab.
+Click the "Startup" tab. This is near the top of your Task Manager window; doing so will bring up a list of the programs that boot up when you start your PC.
+
+4 - Click on a process you wish to disable.
+Click on a process you wish to disable. Note that "disabling" a process will not disable it from running at all; rather, it will prevent the program from starting up automatically.
+
+5 - Click the "Disable" button.
+Click the "Disable" button. This is in the bottom right corner of your Task Manager window.
+- You can also right-click a process and then click "Disable" in the context menu.
+
+6 - Repeat this disabling process for all relevant programs.
+Repeat this disabling process for all relevant programs. Some common high memory-usage culprits include Skype and Steam
+- If you're unsure of which programs to disable, look at the "Startup impact" column on the right side of the Task Manager window; generally speaking, you should disable any "High"- or "Medium"-rated programs.
+- It is recommended that you leave your antivirus enabled; otherwise your antivirus might not run at startup and thus you would be unprotected from viruses.
+
+7 - Close the Task Manager when you're done.
+Close the Task Manager when you're done. To get the most out of this process, you'll also need to clear out the Hidden Icons menu.
+
+8 - Open the "Hidden Icons" menu.
+Open the "Hidden Icons" menu. This is the upward-facing arrow on the right side of your taskbar and to the left of your clock. Click or tap it to open your menu.
+
+9 - Review your Hidden Icons menu.
+Review your Hidden Icons menu. Often, you'll find background processes running here (e.g., Dropbox or Google Drive). Killing these processes will free up random access memory (RAM) which will in turn increase your computer's processing speed. You can end these processes from within this menu.
+
+10 - Right-click a process you wish to end.
+Right-click a process you wish to end. For example, if you aren't using your computer's cloud storage app, you should consider ending this process.
+
+11 - Click "Exit" at the bottom of the context menu.
+Click "Exit" at the bottom of the context menu. This will usually prompt you to confirm your decision by clicking "Exit (App Name)". You'll need to repeat this process for every single process you want to end.
+

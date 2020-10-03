@@ -1,0 +1,7 @@
+T1	Software-OS-Related 160 174	Browse for one
+A1	isOpened T1 f->t
+T2	Software-Other 609 623	Choose picture
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 343 350	picture
+A3	isOpened T3 f->t
+T4	Software-Other 481 488	picture

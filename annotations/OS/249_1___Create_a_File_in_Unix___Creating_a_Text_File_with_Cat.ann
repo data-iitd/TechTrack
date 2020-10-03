@@ -1,0 +1,8 @@
+T1	Software-OS-Related 120 135	terminal window
+A1	isOpened T1 f->t
+T2	Software-OS-Related 356 373	cat > newfilename
+T3	Software-OS-Related 498 502	file
+T4	Software-OS-Related 757 768	cat command
+T5	Software-OS-Related 848 852	file
+T6	Software-OS-Related 860 877	current directory
+T7	Software-OS-Related 931 943	cat filename

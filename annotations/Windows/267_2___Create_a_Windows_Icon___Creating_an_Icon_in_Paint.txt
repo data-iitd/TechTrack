@@ -1,0 +1,67 @@
+Create a Windows Icon
+https://www.wikihow.com/Create-a-Windows-Icon
+
+0 - Creating an Icon in Paint
+
+1 - Understand the drawbacks of this method.
+Understand the drawbacks of this method. While Paint can be used to create a basic icon, its transparency will be affected; this means that some colors won't show up in your icon. For best results, use black and white colors to create your Windows icon in Paint.
+- If you want a more complex icon, you can draw the icon in Paint and save it as a JPG file and then use ICO Convert to create an icon.
+
+2 - Open Paint.
+Open Paint. Paint is a program included on all Windows computers; you can use Paint to create a simple Windows icon. To open Paint, do the following:
+- Open Start 
+- Type in paint
+- Click Paint at the top of the Start menu.
+
+3 - Enable gridlines.
+Enable gridlines. Click the View tab at the top of the Paint window, then check the "Gridlines" box at the top of the window. After you've done this, make sure you click the Home tab to return to the main Paint interface.
+
+4 - Resize your canvas to an icon size.
+Resize your canvas to an icon size. On the Home tab, do the following:
+- Click Resize
+- Check the "Pixels" box.
+- Uncheck the "Maintain aspect ratio" box.
+- Type 32 into both the "Horizontal" and "Vertical" text boxes to create a 32x32 canvas.
+- 96x96 is another commonly used icon size.
+- Click OK
+
+5 - Zoom in.
+Zoom in. Since your canvas is relatively tiny, click the + icon in the bottom-right corner of the window until your canvas is large enough for you to work freely.
+- For a 32x32 canvas, you'll probably need to zoom all the way in (800 percent) to work.
+
+6 - Draw your icon.
+Draw your icon. Once your canvas is the proper size and scale, you're free to begin drawing your icon as you please.
+- Design experts recommend making icons simple, vibrant, and easy to read. Remember that your icon will be much smaller when it's on your desktop, so try not to add too many tiny words or details.[1]
+- X
+- Research source
+- 
+- 
+- You will most likely have to resize the brush you're using. You can do this by clicking the list of horizontal lines at the top of the Home tab and then selecting a thinner line in the resulting drop-down menu.
+- Drawing an icon with a mouse can be a frustrating and inefficient process. If possible, use a drawing pad to create your icon.
+
+7 - Click File.
+Click File. It's in the top-left corner of the window. A drop-down menu will appear.
+
+8 - Select Save as.
+Select Save as. You'll find this option in the middle of the drop-down menu. Selecting it prompts a pop-out menu.
+
+9 - Click Other formats.
+Click Other formats. It's at the bottom of the pop-out menu. Doing so opens a new window.
+
+10 - Enter a name and the ".ico" tag.
+Enter a name and the ".ico" tag. In the "File name" text box near the bottom of the window, you'll type in whatever you want to name your icon file, followed by .ico to indicate that the file should be saved as an icon.
+- For example, to name your icon file "Minecraft", you would type in Minecraft.ico here.
+
+11 - Click the "Save as type" drop-down box.
+Click the "Save as type" drop-down box. You'll find this box at the bottom of the window. Clicking it prompts a drop-down menu.
+
+12 - Click 256 Color Bitmap.
+Click 256 Color Bitmap. It's in the drop-down menu.
+
+13 - Select a save location.
+Select a save location. On the left side of the window, click a folder in which you want to save the icon file (e.g., Pictures).
+- It's best to save your icon file in a location where you know it won't move or accidentally be deleted, as moving or deleting the icon file will cause any shortcut using the file to lose its icon.
+
+14 - Save your icon.
+Save your icon. Click Save in the lower-right corner of the window, then click OK in the pop-up window which appears. Your icon will be saved in your selected location. At this point, you're free to apply your icon.
+

@@ -1,0 +1,36 @@
+Downgrade from Windows 10
+https://www.wikihow.com/Downgrade-from-Windows-10
+
+0 - Rolling Back an Upgrade
+
+1 - Click the Start  menu.
+Click the Start  menu. It's usually at the bottom-left corner of the screen.[1]
+- X
+- Research source
+- 
+- 
+- These steps will only work if you've upgraded your computer to Windows 10 in the past 10 days. If it's been longer than that, the only way to downgrade is to reset your PC to its original factory settings. See this method to learn how.
+- If your computer came with Windows 10 pre-installed, there's no way to downgrade.
+- Any apps you've installed since upgrading will be removed, but your personal files will remain intact.
+- ;
+
+2 - Click Settings .
+Click Settings . It should be near the bottom of the menu.
+
+3 - Click Update & Security.
+Click Update & Security. It's the option with two curved arrows. You may have to scroll down in settings to see this option.
+
+4 - Click Recovery.
+Click Recovery. It's in the left panel.
+
+5 - Click Get started under "Go back to the previous version of Windows.
+Click Get started under "Go back to the previous version of Windows."
+- If it's been more than 10 days since you've upgraded, the button will be grayed out. You'll also see a message that says "This option is no longer available because your PC was upgraded more than 10 days ago."
+
+6 - Select a downgrading reason and click Next.
+Select a downgrading reason and click Next.
+
+7 - Follow the on-screen instructions to downgrade Windows.
+Follow the on-screen instructions to downgrade Windows. Once the downgrade is complete, your computer will restart to the login screen of the previous version of Windows.
+- If you were not signed into the previous version of Windows with the same Microsoft account you use to sign into Windows 10, you'll be prompted to log in with your old password after downgrading.
+

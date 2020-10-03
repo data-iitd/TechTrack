@@ -1,0 +1,30 @@
+Erase Ubuntu
+https://www.wikihow.com/Erase-Ubuntu
+
+0 - Removing Ubuntu when Dual-Booting with Windows
+
+1 - Insert your Windows installation disc into your computer.
+Insert your Windows installation disc into your computer. This could also be labeled as a Recovery disc. If you don’t have an installation or recovery disc, you can create a recovery disc in Windows.
+- ;
+
+2 - Boot from the CD.
+Boot from the CD. In order to boot from your recovery disc, you’ll need to set your BIOS to boot from your CD/DVD drive. When the computer first starts up, press the BIOS setup key. This is typically F2, F10, F12, or Del. Navigate to the Boot menu and select your CD/DVD drive. Once you’ve selected it, save and reboot your computer.
+
+3 - Open the command prompt.
+Open the command prompt. From the Recovery Disc’s main menu, select the Command Prompt option. If you are using an Installation Disc, select “Repair your computer”, which should open the Command Prompt.
+
+4 - Fix your Master Boot Record.
+Fix your Master Boot Record. Performing this command will remove the dual-boot option when you start your computer, and boot straight into Windows. Enter the following command at the Command Prompt:bootrec /fixmbr
+
+5 - Reboot your computer.
+Reboot your computer. When you reboot, you should not see the option to select Ubuntu. Instead, you will be taken directly into Windows.
+
+6 - Open Disk Management.
+Open Disk Management. Once in Windows, it’s time to get rid of the old Ubuntu installation and reclaim the hard disk space. Press Start, and the right-click on Computer/My Computer. Select Manage and then click Disk Management in the left frame of the Computer Management window.
+- In Windows 8, press the Windows key + X and select Disk Management from the menu.
+
+7 - Delete your Ubuntu partitions.
+Delete your Ubuntu partitions. Right-click on your Ubuntu partitions and select Delete. Make sure that you are deleting the correct partition. Once the partition is deleted, it will become unallocated space. Right-click on your Windows partition and select Extend partition. Select the free space just created to add it to your Windows installation.[1]
+- X
+- Research source
+

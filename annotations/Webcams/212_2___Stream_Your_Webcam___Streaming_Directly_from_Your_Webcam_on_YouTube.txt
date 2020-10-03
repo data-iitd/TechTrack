@@ -1,0 +1,49 @@
+Stream Your Webcam
+https://www.wikihow.com/Stream-Your-Webcam
+
+0 - Streaming Directly from Your Webcam on YouTube
+
+1 - Install your webcam
+Install your webcam if necessary. If your computer doesn't already have a built-in webcam, you'll need to attach and set up an external USB webcam before you'll be able to stream.
+- You can buy webcams in virtually any tech store or large online marketplace (e.g., Amazon). They tend to range in price depending on their quality.
+
+2 - Make sure that you're using Google Chrome.
+Make sure that you're using Google Chrome. As of April 2018, streaming to YouTube directly from your computer's webcam is only available on Google Chrome.
+- Streaming directly from your webcam is only available on Chrome versions 60 and up. If you're still using an older version of Chrome, update it before proceeding.[1]
+- X
+- Research source
+
+3 - Open YouTube.
+Open YouTube. Go to https://www.youtube.com/ in your computer's web browser. This will open your YouTube home page if you're logged into your Google Account.
+- If you aren't logged in, click SIGN IN in the upper-right side of the page, then enter your email address and password when prompted.
+
+4 - Click the "Upload"  icon.
+Click the "Upload"  icon. It's the video camera-shaped icon in the upper-right side of the page. A drop-down menu will appear.
+
+5 - Click Go live.
+Click Go live. This option is in the drop-down menu. Doing so opens the live-streaming section of YouTube.
+
+6 - Click Get started.
+Click Get started. It's a blue button in the middle of the page. This will prompt YouTube to begin validating your account, which will unlock the ability to live-stream in 24 hours.[2]
+- X
+- Research source
+- 
+- If you've already activated your account for streaming on YouTube, skip to the "Click Camera" step.
+
+7 - Re-open the live-streaming page after 24 hours.
+Re-open the live-streaming page after 24 hours. Once your account is able to stream, go back to YouTube, click the "Upload" button appropriate to your browser, and select the Go live option.
+
+8 - Click Camera.
+Click Camera. It's a tab on the left side of the page. This option allows you to stream directly from your webcam without having to download an encoder.
+
+9 - Click Allow when prompted.
+Click Allow when prompted. This notification will appear in the upper-left corner of the window. Doing so allows Chrome to use your webcam and microphone.
+
+10 - Enter your stream's information.
+Enter your stream's information. Type the title and description for your stream into the "Title" and "Description" text boxes, then select a thumbnail if desired.[3]
+- X
+- Research source
+
+11 - Click GO LIVE.
+Click GO LIVE. It's a blue button. Doing so will prompt YouTube to begin streaming from your webcam.
+

@@ -1,0 +1,44 @@
+Batch Rename Files in Mac OS X Using Automator
+https://www.wikihow.com/Batch-Rename-Files-in-Mac-OS-X-Using-Automator
+
+0 - Steps
+
+1 - Open Automator.
+Open Automator. You can click on it in Launchpad, or double click on it in the Applications folder.
+- ;
+
+2 - Select "Workflow".
+Select "Workflow". Then click "Choose".
+
+3 - Click on "Files & Folders" in the first column, inside "Library".
+Click on "Files & Folders" in the first column, inside "Library".
+
+4 - Drag the files you want to rename into the upper right of the Automator window
+
+Drag the files you want to rename into the upper right of the Automator window
+- It's recommended to make copies of a couple files and do a test run on these files first, in case things don't turn out how you want them to.
+
+5 - Double click on "Rename Finder Items" in the second column.
+Double click on "Rename Finder Items" in the second column.
+
+6 - Decide if you want Automator to make copies of your files.
+Decide if you want Automator to make copies of your files. If so, click "Add," or if not, click "Don't Add."
+- The rest of the steps in this tutorial are based on clicking "Don't Add" in this step.
+
+7 - Decide if you want to add or replace any text in the file names.
+Decide if you want to add or replace any text in the file names. Select "Add Text" or "Replace Text" from the drop-down menu, accordingly.
+
+8 - Add text, if desired.
+Add text, if desired. Just type it into the text box.
+- If you are adding text, select "after name" or "before name" or "as extension". Selecting "after name" will add the text at the end of the file name and in front of the file type extension.
+
+9 - Replace text, if desired.
+Replace text, if desired. Type in the text you are searching for, and then type in the text you want to replace it with.
+- If you are replacing text, select "full name" or "basename only" or extension only". And if you want uppercase and lowercase letters to be matched uncheck "Ignore Case".
+
+10 - Click the "Run" button in the upper right corner of the Automator window.
+Click the "Run" button in the upper right corner of the Automator window. If you are making just one change to your file names, that's the last step. The names of your files should now be changed.
+
+11 - Continue if you have multiple changes to make.
+Continue if you have multiple changes to make. If you are making more than one change to the file names, such as adding text to the beginning of the file names and adding text to the end of the file names, click these 2 Xs to close these 2 windows inside Automator. Then re-drag your files into Automator.
+

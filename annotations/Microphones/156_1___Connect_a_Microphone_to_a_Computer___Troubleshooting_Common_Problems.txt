@@ -1,0 +1,31 @@
+Connect a Microphone to a Computer
+https://www.wikihow.com/Connect-a-Microphone-to-a-Computer
+
+0 - Troubleshooting Common Problems
+
+1 - Check your sound input settings.
+Check your sound input settings. If you're not getting a signal, navigate to your computer's sound settings and make sure that the correct device is selected, and the levels are appropriate.
+- 
+- On a mac there are no drivers to get in the way, so the only other thing you need to do is to go into System Settings and click on "Sound," then select "Input." Make sure that the microphone is checked, rather than the built-in microphone.
+- On a PC, go into the Control Panel and clicking on "Hardware and Sound," then click on "Sound" and it should pop up another windows. At the top, click on recording, and you should see your microphone there. If it doesn't have a green check mark next to it, it isn't selected. Click on it and click properties. You can then change the settings at the bottom to "Use this Device" and it will automatically use it next time it is plugged into your computer.
+
+2 - Set the input level.
+Set the input level. On most computers, you'll be able to control the level of the input volume. With lower quality mics, it'll usually need to be set somewhat high to get a half-way decent signal, but you don't want to blow out the levels, either. It's usually best to set it somewhere in the default range, about 50%.
+- On a Mac, you can do this in the System Settings, under "Sound."
+- On a PC, you can do this in "Hardware and Sound," under "Sound."
+
+3 - Check your speaker and computer volume.
+Check your speaker and computer volume. If you have external speakers, or have headphones plugged in, you need to double-check and make sure that the volume levels are adjusted properly, as well as the settings on your desktop, or you may not be hearing anything.
+
+4 - Check the settings on the microphone.
+Check the settings on the microphone. Obviously, you need to make sure the microphone is switched on, the cable is plugged in flush, and that you've got any other settings adjusted correctly, depending on the microphone.
+- Some condenser mics, and speaking microphones will have a variety of toggle settings, some of which might be louder, or feature a wider range of sound than others. Switch between them to get a sense for what sounds best for your purposes.
+
+5 - Check the setting in the specific program that you're using.
+Check the setting in the specific program that you're using. Different audio processing programs will have a variety of input settings as well, that you need to check. Some recording software may still be set to pick up internal mics, or audio from other sources, even if you changed it in your system settings.
+- For example if you are using Skype, go to: Tools>Options>Audio settings, and select your microphone. If your microphone isn't listed or still doesn't work then check whether it requires software or drivers to run.
+
+6 - Try restarting your computer.
+Try restarting your computer. Sometimes, you'll need to close the program you're trying to use at least, or even restart to get some computers to recognize a new piece of hardware you've plugged in.
+- If the microphone still doesn't work then try using another microphone or try using the microphone on another computer. This should help you figure out whether it is the computer or the microphone which is at fault.
+

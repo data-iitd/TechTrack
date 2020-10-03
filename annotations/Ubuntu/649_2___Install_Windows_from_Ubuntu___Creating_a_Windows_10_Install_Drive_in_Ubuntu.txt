@@ -1,0 +1,57 @@
+Install Windows from Ubuntu
+https://www.wikihow.com/Install-Windows-from-Ubuntu
+
+0 - Creating a Windows 10 Install Drive in Ubuntu
+
+1 - Install UNetbootin from the Software Center.
+Install UNetbootin from the Software Center. This is a free application that lets you create a bootable USB drive in Ubuntu. To learn more about UNetbootin, see https://unetbootin.github.io.
+- You'll need either a blank USB drive with at least 8 GB of space to create install media. Any data on the USB drive will be erased during this process.[3]
+- X
+- Research source
+- 
+- 
+- For help installing software on Ubuntu, see How to Install Software in Ubuntu.
+
+2 - Go to https:__www.microsoft.com_en-us_software-download_windows10 in a web browser.
+Go to https://www.microsoft.com/en-us/software-download/windows10 in a web browser. If you don't already have a bootable Windows DVD or USB drive, you can create a one from a downloadable ISO.
+- You must have a license to install Windows 10. This means you should have already purchased Windows 10 and have a valid product key.
+
+3 - Select the latest version of Windows 10 and click Confirm.
+Select the latest version of Windows 10 and click Confirm. Additional options will expand at the bottom of the page.
+
+4 - Select a language and click Confirm.
+Select a language and click Confirm. You'll choose the language from the drop-down menu below "Select the product language."
+
+5 - Click 32-bit Download or 64-bit Download.
+Click 32-bit Download or 64-bit Download. This downloads the ISO to your default download location.
+
+6 - Open UNetbootin and insert your USB drive.
+Open UNetbootin and insert your USB drive. Opening UNetbootin displays the welcome screen where you can choose your bootable drive parameters.
+
+7 - Select the "DiskImage" radio button.
+Select the "DiskImage" radio button. It's toward the bottom-left corner of the window.
+
+8 - Select ISO from the "DiskImage" menu.
+Select ISO from the "DiskImage" menu. It's to the right of the radio button.
+
+9 - Click the three-dot … button.
+Click the three-dot … button. This opens your file browser.
+
+10 - Select the file you just downloaded from Microsoft.
+Select the file you just downloaded from Microsoft. It's the one that ends with .iso.
+
+11 - Select USB Drive from the "Type" menu.
+Select USB Drive from the "Type" menu. It's at the bottom-left corner of the window.
+
+12 - Select your USB drive from the "Drive" menu.
+Select your USB drive from the "Drive" menu. This is the device label for your USB drive.
+- If you can't select your USB drive, it likely needs to be formatted to the FAT32 file system.  You can do this in the file manager by right-clicking the USB drive and selecting Format.[4]
+- X
+- Research source
+
+13 - Click OK.
+Click OK. This creates a bootable Windows 10 USB drive from the downloaded ISO image. Once the drive is ready, you'll see "Installation Complete."
+
+14 - Click Exit to close UNetbootin.
+Click Exit to close UNetbootin.
+

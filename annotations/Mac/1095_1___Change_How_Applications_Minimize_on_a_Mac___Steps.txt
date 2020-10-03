@@ -1,0 +1,27 @@
+Change How Applications Minimize on a Mac
+https://www.wikihow.com/Change-How-Applications-Minimize-on-a-Mac
+
+0 - Steps
+
+1 - Click the Apple icon.
+Click the Apple icon. It's at the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Dock" icon.
+Click the "Dock" icon.
+
+4 - Click the drop-down next to "Minimize windows using.
+Click the drop-down next to "Minimize windows using."
+
+5 - Click on a minimize effect.
+Click on a minimize effect. You can choose between the Genie effect, or the scale effect.
+- Select each one and try minimizing a window to test the effect.
+- The Genie effect minimizes windows onto the dock as if they were being sucked into a magic lamp, while the Scale effect minimizes windows by shrinking them onto the dock.
+- If you notice your dock getting cluttered with minimized windows, click the box next to "Minimize windows into application icon" in the lower half of the window. Doing so will minimize windows into their dock icon. To bring up a minimized window with this setting enabled, right click on the app's icon and click on the minimized window you want to bring up.
+
+6 - Click the red "x" button.
+Click the red "x" button. Your system preferences changes will be made.
+

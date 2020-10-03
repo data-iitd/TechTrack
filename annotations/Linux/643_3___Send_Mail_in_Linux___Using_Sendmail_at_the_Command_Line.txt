@@ -1,0 +1,27 @@
+Send Mail in Linux
+https://www.wikihow.com/Send-Mail-in-Linux
+
+0 - Using Sendmail at the Command Line
+
+1 - Create a new blank text file in your favorite text editor.
+Create a new blank text file in your favorite text editor. For example, if you like to use vi, type vi mail.txt at the command prompt and press ↵ Enter. You can also use any graphical text editor you wish.
+
+2 - Type the email header.
+Type the email header. The header contains the recipient's email address, the message subject, and the sender's email address in a particular format. Enter the following information into the text file, each on its own line, but replace the italicized text with your own:
+- To: recipient@recipient.com
+- Subject: This is the subject
+- From: youremailaddress@yourdomain.com
+
+3 - Type the content of the message on a new line.
+Type the content of the message on a new line. Once you're finished typing, move to the next step.
+
+4 - Save the text file.
+Save the text file. The steps to do this vary by text editor. If you're using vi, press Esc and then type :wq!.
+- If you haven't yet given the file a name, call it mail.txt.
+
+5 - Press Ctrl+Alt+T to open a terminal window.
+Press Ctrl+Alt+T to open a terminal window. If you're logged in to the Linux system remotely you can skip this step.
+
+6 - Type sendmail -vt < mail.txt and press ↵ Enter.
+Type sendmail -vt < mail.txt and press ↵ Enter. This sends the contents of your message to the recipient.
+

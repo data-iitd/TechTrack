@@ -1,0 +1,27 @@
+Delete a User Account Picture in Windows 10
+https://www.wikihow.com/Delete-a-User-Account-Picture-in-Windows-10
+
+0 - Removing a Profile Photo from a Microsoft Account
+
+1 - Open your Windows Settings .
+Open your Windows Settings . You'll find this app near the bottom of the Start menu.
+- If your Windows 10 login is connected to your Microsoft account and you don't want your old profile photo to appear anywhere, use this method to remove it from your Microsoft account.
+
+2 - Click Accounts.
+Click Accounts. It's the icon that looks like the outline of a person.
+
+3 - Click Manage my Microsoft Account.
+Click Manage my Microsoft Account. It's below your current user photo.
+
+4 - Log in to your Microsoft account.
+Log in to your Microsoft account. If you're not already signed in to your account, you'll be prompted to do so now. Use the same login and password you use to sign into Windows.
+
+5 - Click your profile photo.
+Click your profile photo. It's at the top-left corner of the page. A larger version of your photo will appear.
+
+6 - Click Remove.
+Click Remove. It's near the bottom-right corner of the page. A confirmation message will appear at the bottom.
+
+7 - Click Yes to confirm.
+Click Yes to confirm. The photo is no longer associated with your account.
+

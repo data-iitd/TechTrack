@@ -1,0 +1,32 @@
+Scan Multiple Pages Into One PDF File
+https://www.wikihow.com/Scan-Multiple-Pages-Into-One-PDF-File
+
+0 - Using a Mobile App
+
+1 - Download "FineScanner:
+Download "FineScanner: PDF Document Scan" from the Google Play Store  or App Store . FineScanner: PDF Document Scan is a highly rated, downloaded, and suggested mobile app that offers both free and paid subscriptions to use the service.[5]
+- X
+- Research source
+- 
+- It is developed and offered by ABBYY.[6]
+- X
+- Research source
+
+2 - Open FineScanner:
+Open FineScanner: PDF Document Scan. This app icon looks like a red scanner that you can find on one of your Home screens, in the app drawer, or by searching.
+- When you open the app for the first time, you need to give the app permissions to use your camera and access your storage.
+
+3 - Scan your first page.
+Scan your first page. Line up your camera to the first page of what you want to scan, then tap the red icon at the bottom of your screen.
+- The image you captured goes into your media and you can either continue adding pages.
+
+4 - Tap the thumbnail image to the right of the red button when you're done.
+Tap the thumbnail image to the right of the red button when you're done. This will take you to the next step in creating a PDF.
+
+5 - Swipe through all your images and select a filter.
+Swipe through all your images and select a filter. The image will display in the top half of the screen while the editing bar is below.
+
+6 - Tap Save.
+Tap Save. You'll see this in the upper right corner. All the pages/camera captures will save into one PDF document.
+- You'll find this document in "Documents" within the app; you can share the PDF by tapping ⋮ > Share.
+

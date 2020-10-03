@@ -1,0 +1,10 @@
+T1	Software-OS-Related 135 140	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 149 156	regedit
+A2	isOpened T2 f->t
+T3	Software-OS-Related 385 388	New
+A3	isOpened T3 f->t
+T4	Software-OS-Related 391 397	Binary
+R1	SubPart Arg1:T4 Arg2:T3	
+T5	Software-OS-Related 680 686	Reboot
+A4	isSettingsChanged T5 true

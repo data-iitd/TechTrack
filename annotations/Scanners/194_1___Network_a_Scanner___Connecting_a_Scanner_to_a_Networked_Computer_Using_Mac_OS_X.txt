@@ -1,0 +1,20 @@
+Network a Scanner
+https://www.wikihow.com/Network-a-Scanner
+
+0 - Connecting a Scanner to a Networked Computer Using Mac OS X
+
+1 - Open Image Capture or Printer/Scanner Queue.
+Open Image Capture or Printer/Scanner Queue.
+
+2 - Choose the scanner you're using from the "SHARED" group in the left pane.
+Choose the scanner you're using from the "SHARED" group in the left pane.
+
+3 - Open Preview from the Applications Folder (or your dock if an icon is placed there).
+Open Preview from the Applications Folder (or your dock if an icon is placed there).
+
+4 - Select "File," then "Import from Scanner," and then "Include Network Devices.
+Select "File," then "Import from Scanner," and then "Include Network Devices."
+
+5 - Select "File," "Import from Scanner," and then select the scanner your using.
+Select "File," "Import from Scanner," and then select the scanner your using.
+

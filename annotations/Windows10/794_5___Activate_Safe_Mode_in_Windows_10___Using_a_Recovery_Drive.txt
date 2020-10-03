@@ -1,0 +1,26 @@
+Activate Safe Mode in Windows 10
+https://www.wikihow.com/Activate-Safe-Mode-in-Windows-10
+
+0 - Using a Recovery Drive
+
+1 - Create a Windows 10 ISO file onto your computer.
+Create a Windows 10 ISO file onto your computer.  This can be used to reinstall Windows, among other things.
+
+2 - Insert your recovery drive into your computer.
+Insert your recovery drive into your computer.  You will need this to recover your computer.
+
+3 - Boot off of the recovery drive.
+Boot off of the recovery drive.  On Surface, hold the volume up key on the tablet (not the keyboard) to boot off of the recovery drive.  On other computers, you may need to change the boot order.
+
+4 - Select a language then click Next.
+Select a language then click Next.
+
+5 - Click on "Repair your Computer" in the corner instead of the Install button.
+Click on "Repair your Computer" in the corner instead of the Install button.  Install will wipe your computer and reinstall a new copy of Windows, Repair your Computer will bring up the recovery options.
+
+6 - Choose "Troubleshoot", then "Advanced options", then "Change Windows Startup Behavior".
+Choose "Troubleshoot", then "Advanced options", then "Change Windows Startup Behavior".
+
+7 - Choose the option for Safe Mode when your computer restarts.
+Choose the option for Safe Mode when your computer restarts.  Your computer will boot up in safe mode.
+

@@ -1,0 +1,42 @@
+Become Root in Ubuntu
+https://www.wikihow.com/Become-Root-in-Ubuntu
+
+0 - Running Root Commands with Sudo
+
+1 - Press Ctrl+Alt+T to open a terminal window.
+Press Ctrl+Alt+T to open a terminal window. Because Ubuntu locks the root account by default, you cannot use su to become root as you would in other Linux distributions.[1]
+- X
+- Research source
+- 
+-  Instead, start your commands with sudo.
+- ;
+
+2 - Type sudo before the rest of your command.
+Type sudo before the rest of your command. “Sudo” stands for “substitute user do.” When you add sudo to the beginning of a command, the command will run as root.
+- For example: sudo /etc/init.d/networking stop stops the network service, and sudo adduser adds a new user to the system. Both of these tasks require root access.
+- You will be prompted to enter your password before sudo runs the command. Linux stores your password for 15 minutes so you won’t have to keep typing it.
+
+3 - Type gksudo before running a command that opens a program with a Graphical User Interface (GUI).
+Type gksudo before running a command that opens a program with a Graphical User Interface (GUI). For security reasons, Ubuntu does not recommend using “sudo” to open programs with GUIs.[2]
+- X
+- Research source
+- 
+-  Instead, type gksudo before the command that launches the program.
+- For example: type gksudo gedit /etc/fstab to open the "fstab" file in GEdit, an editing program with a GUI.
+- If you’re using the KDE Window Manager, use kdesudo instead of gksudo.
+
+4 - Simulate a root environment.
+Simulate a root environment. If you are an advanced user who needs access to an actual root shell to run specific scripts, simulate a root shell with sudo –i. This command will give you superuser access with root’s environment variables.[3]
+- X
+- Research source
+- 
+- 
+- Enter the command sudo passwd root. This will create a password for root, essentially “enabling” the account. Don't forget this password.
+- Type sudo -i. Enter the root password when prompted.
+- The prompt will change from $ to #, indicating you have root access.
+
+5 - Give sudo access to another user.
+Give sudo access to another user. If you are setting up an account for someone who does not currently have root access, you will need to add their username to the sudo group. To do this, type usermod -aG sudo username (but replace “username” with the correct username).[4]
+- X
+- Research source
+

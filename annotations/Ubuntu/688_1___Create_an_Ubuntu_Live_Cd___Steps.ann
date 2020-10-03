@@ -1,0 +1,22 @@
+T1	Software-Other 157 198	this link to download the Ubuntu Live ISO
+A1	isOpened T1 f->t
+T2	Software-Other 261 275	latest version
+A2	isSettingsChanged T2 true
+T3	Software-Other 374 390	32-bit or 64-bit
+A3	isSettingsChanged T3 true
+T4	Software-Other 549 563	Start Download
+A4	isOpened T4 f->t
+T5	Software-Other 772 790	Active@ ISO Burner
+A5	isInstalled T5 f->t
+T6	Software-Other 1003 1021	Active@ ISO Burner
+A6	isOpened T6 f->t
+T7	Software-Other 1037 1045	ISO file
+A7	isSettingsChanged T7 true
+T8	Hardware-Other 1292 1300	Blank CD
+T9	Software-Other 1390 1412	Start burning the file
+A8	isSettingsChanged T9 true
+R1	SubPart Arg1:T3 Arg2:T1	
+R2	SubPart Arg1:T4 Arg2:T1	
+R3	SubPart Arg1:T7 Arg2:T6	
+R4	SubPart Arg1:T2 Arg2:T1	
+R5	SubPart Arg1:T9 Arg2:T6	

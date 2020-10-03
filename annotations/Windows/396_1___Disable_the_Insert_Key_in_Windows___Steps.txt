@@ -1,0 +1,36 @@
+Disable the Insert Key in Windows
+https://www.wikihow.com/Disable-the-Insert-Key-in-Windows
+
+0 - Steps
+
+1 - Go to Start → Run → regedit
+
+Go to Start → Run → regedit
+- ;
+
+2 - Go to HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard Layout
+
+Go to HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard Layout
+
+3 - Right-click on the right half of the screen and choose New → Binary Value
+
+Right-click on the right half of the screen and choose New → Binary Value
+
+4 - Name the new Value Scancode Map
+
+Name the new Value Scancode Map
+
+5 - Enter 00 00 00 00  00 00 00 00  02 00 00 00  00 00 52 E0  00 00 00 00
+
+Enter 00 00 00 00  00 00 00 00  02 00 00 00  00 00 52 E0  00 00 00 00
+
+6 - Close regedit
+
+Close regedit
+
+7 - Reboot.
+Reboot.
+
+8 - Optional:
+Optional: you can take the Insert key off of your keyboard when done.
+

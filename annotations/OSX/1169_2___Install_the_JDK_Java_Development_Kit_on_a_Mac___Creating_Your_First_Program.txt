@@ -1,0 +1,38 @@
+Install the JDK (Java Development Kit) on a Mac
+https://www.wikihow.com/Install-the-JDK-(Java-Development-Kit)-on-a-Mac
+
+0 - Creating Your First Program
+
+1 - Open NetBeans from the Applications folder.
+Open NetBeans from the Applications folder. This is the development environment for Java, and will allow you to easily write and compile code.
+
+2 - Click File and select "New Project."
+Click File and select "New Project." This will start a new project in NetBeans.
+
+3 - Select the "Java" category and the "Java Application" project.
+Select the "Java" category and the "Java Application" project. This will set NetBeans to create Java files for this project.
+
+4 - Give the project a name and click "Finish."
+Give the project a name and click "Finish." For this example, call it "HelloWorld." This will open the code editor after the project is created.
+
+5 - Find the "__ TODO code application goes here" line.
+Find the "// TODO code application goes here" line. Your program code will go underneath this line.
+
+6 - Enter your program code on a new line.
+Enter your program code on a new line. Press ⏎ Return after the "// TODO code application goes here" line to create a new line with the same indentation. Type the following code:
+- System.out.println("Hello World!");
+
+7 - Click the "Run Project" button.
+Click the "Run Project" button. This looks like a green Play button, and can be found in the toolbar.
+
+8 - Check the Output tab to see your project in action.
+Check the Output tab to see your project in action. This frame will appear at the bottom of your screen after running the project.
+
+9 - Fix any errors.
+Fix any errors. If the project doesn't have any errors, you'll see "Hello World!" and "BUILD SUCCESSFUL" in the Output tab. If there are errors, you'll see which lines they occur on so that you can go back and fix them.[2]
+- X
+- Research source
+
+10 - Continue learning Java.
+Continue learning Java. Now that you have the JDK installed and working, you can continue learning to program in Java. See Write Your First Program in Java for more beginner guides.
+

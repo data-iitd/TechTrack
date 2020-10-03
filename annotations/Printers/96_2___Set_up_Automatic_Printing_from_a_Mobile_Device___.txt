@@ -1,0 +1,33 @@
+Set up Automatic Printing from a Mobile Device
+https://www.wikihow.com/Set-up-Automatic-Printing-from-a-Mobile-Device
+
+0 - 
+
+1 - Select Rules & Alerts from the Tools menu.
+Select Rules & Alerts from the Tools menu.
+- ;
+
+2 - Copy the "Clear categories on mail.
+Copy the "Clear categories on mail." When Outlook asks what Folder you want to copy this rule to, choose Inbox or select your specific email account. Click OK.
+
+3 - Double click "Copy of Clear Categories on mail" to edit it.
+Double click "Copy of Clear Categories on mail" to edit it.
+
+4 - Check "With specific words in the subject" and uncheck "From people or distribution list" in the Rules Wizard.
+Check "With specific words in the subject" and uncheck "From people or distribution list" in the Rules Wizard.
+
+5 - Click on the blue "Specific Words" and add "Print Me" or "To Printer" or any other phrase to the rules subject line search list.
+Click on the blue "Specific Words" and add "Print Me" or "To Printer" or any other phrase to the rules subject line search list.
+
+6 - In the next window check "Print it".
+In the next window check "Print it". Click next.
+
+7 - Specify a name for this rule.
+Specify a name for this rule.
+
+8 - Check "Turn on this rule" and click finish.
+Check "Turn on this rule" and click finish.
+
+9 - Send yourself or forward an email from your mobile device or PDA with the phrase you chose in the subject, and it'll print automatically when Outlook checks for mail.
+Send yourself or forward an email from your mobile device or PDA with the phrase you chose in the subject, and it'll print automatically when Outlook checks for mail. If it doesn't check often enough, go to "Options", tab "Mail Setup", button "Send/Receive" and change the default check period.
+

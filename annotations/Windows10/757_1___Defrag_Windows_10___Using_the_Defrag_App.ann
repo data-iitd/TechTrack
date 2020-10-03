@@ -1,0 +1,13 @@
+T1	Software-OS-Related 125 131	search
+T2	Software-OS-Related 265 270	Start
+A1	isOpened T2 f->t
+T3	Software-OS-Related 549 579	Defragment and Optimize Drives
+A2	isOpened T3 f->t
+T4	Software-OS-Related 842 862	Run as administrator
+T5	Software-OS-Related 1604 1611	Analyze
+A3	isOpened T5 f->t
+T6	Software-OS-Related 2273 2281	Optimize
+A4	isOpened T6 f->t
+T7	Software-OS-Related 3353 3358	Close
+A5	isSettingsChanged T7 true
+A6	isOpened T7 start-F

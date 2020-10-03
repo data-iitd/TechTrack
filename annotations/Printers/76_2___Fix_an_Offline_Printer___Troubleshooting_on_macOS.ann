@@ -1,0 +1,21 @@
+T1	Hardware-Devices 125 132	printer
+A1	isPowered T1 f->t
+A2	isUsed T1 true
+T2	Hardware-Other 714 722	computer
+T3	Software-OS-Related 1686 1691	Apple
+A3	isOpened T3 f->t
+T4	Hardware-Other 1311 1320	USB cable
+T5	Hardware-Other 1496 1501	paper
+T6	Software-OS-Related 1790 1808	System Preferences
+A4	isOpened T6 f->t
+T7	Software-OS-Related 1874 1893	Printers & Scanners
+A5	isOpened T7 f->t
+T8	Software-OS-Related 2295 2316	Reset printing system
+A6	isOpened T8 f->t
+T9	Software-OS-Related 2469 2474	Reset
+A7	isOpened T9 f->t
+T10	Software-OS-Related 3022 3041	Printers & Scanners
+T11	Software-OS-Related 3201 3213	Add a Device
+A8	isOpened T11 f->t
+T12	Software-OS-Related 3446 3449	Add
+A9	isOpened T12 f->t

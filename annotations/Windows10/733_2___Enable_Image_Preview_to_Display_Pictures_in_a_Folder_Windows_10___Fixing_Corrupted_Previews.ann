@@ -1,0 +1,36 @@
+T3	Software-OS-Related 654 666	Disk Cleanup
+A3	isOpened T3 f->t
+T4	Software-OS-Related 952 962	Thumbnails
+T5	Software-OS-Related 1121 1123	OK
+T6	Software-OS-Related 1183 1195	Delete Files
+T9	Software-OS-Related 1792 1806	image previews
+T1	Software-OS-Related 256 266	Windows 10
+T10	Software-OS-Related 317 333	computer's files
+T2	Software-OS-Related 556 561	Start
+A1	isOpened T2 f->t
+T11	Software-OS-Related 588 600	Windows logo
+T12	Hardware-Devices 634 640	screen
+A2	isPowered T12 start-T
+T13	Software-OS-Related 768 780	Start window
+T14	Software-OS-Related 879 886	taskbar
+T15	Software-OS-Related 1058 1064	window
+T16	Software-OS-Related 1162 1168	window
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T17	Software-OS-Related 1334 1339	cache
+T18	Software-OS-Related 1303 1324	computer's thumbnails
+T7	Software-OS-Related 1362 1372	thumbnails
+T19	Software-OS-Related 1533 1546	pop-up window
+T8	Software-OS-Related 1603 1609	folder
+A5	isOpened T8 f->t
+T20	Software-OS-Related 1677 1687	thumbnails
+T21	Software-OS-Related 1734 1752	pictures' previews
+A6	isSettingsChanged T9 true
+T22	Software-OS-Related 1909 1944	Always show icons, never thumbnails
+A7	isSettingsChanged T22 true
+T23	Software-OS-Related 1847 1857	thumbnails
+T24	Software-OS-Related 1896 1903	disable
+A8	isOpened T11 f->t
+A9	isSettingsChanged T6 true
+R2	SubPart Arg1:T22 Arg2:T24	
+A10	isSettingsChanged T5 true

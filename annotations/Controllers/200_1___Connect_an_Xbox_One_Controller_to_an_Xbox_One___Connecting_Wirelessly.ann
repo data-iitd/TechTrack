@@ -1,0 +1,31 @@
+T2	Hardware-Other 231 243	power button
+T3	Hardware-Other 333 342	batteries
+T5	Hardware-Devices 424 435	Xbox remote
+T4	Hardware-Devices 353 363	controller
+*	Equiv T4 T5
+T6	Hardware-Devices 446 485	Xbox Elite Wireless Controller Series 2
+T7	Hardware-Devices 494 518	Xbox Adaptive Controller
+T8	Hardware-Other 559 570	USB-C cable
+T9	Hardware-Devices 723 736	Xbox One Play
+T10	Hardware-Other 739 749	Charge Kit
+T11	Hardware-Other 768 788	rechargeable battery
+T12	Hardware-Other 793 807	charging cable
+T13	Hardware-Other 862 873	Xbox button
+T15	Hardware-Other 1234 1240	button
+T17	Hardware-Other 1566 1575	disc tray
+T18	Hardware-Other 1428 1440	power button
+T19	Hardware-Other 1603 1632	controller's bind/sync button
+T20	Hardware-Other 1706 1712	button
+T21	Hardware-Devices 1727 1737	controller
+T22	Hardware-Other 1801 1812	Xbox button
+A5	notRelevant T6
+A6	notRelevant T7
+T14	Hardware-Devices 882 892	controller
+A1	isPowered T14 f->t
+T16	Hardware-Other 1248 1255	console
+T1	Hardware-Other 166 182	Xbox One console
+A2	isConnected T21 f->t
+T23	Hardware-Other 1911 1918	console
+A3	isPowered T4 start-F
+T24	Hardware-Devices 1879 1889	controller
+A4	isConnected T24 f->t

@@ -1,0 +1,25 @@
+T1	Software-OS-Related 665 680	Registry Editor
+A1	isOpened T1 f->t
+T2	Software-OS-Related 890 907	HKEY_CURRENT_USER
+A2	isOpened T2 f->t
+T3	Software-OS-Related 910 919	AppEvents
+A3	isOpened T3 f->t
+T4	Software-OS-Related 922 933	EventLabels
+A4	isOpened T4 f->t
+T5	Software-OS-Related 982 1001	WindowsLogon folder
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1048 1066	ExcludeFromCPL key
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1340 1352	ontrol Panel
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1639 1652	Windows Logon
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1293 1306	WindowsLogoff
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1685 1691	Browse
+T11	Software-OS-Related 1466 1472	Sounds
+A11	isOpened T11 f->t
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T11	
+T12	Hardware-Devices 2096 2104	computer
+A12	isUsed T12 true

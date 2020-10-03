@@ -1,0 +1,20 @@
+Map a Folder to a Drive Letter in Windows
+https://www.wikihow.com/Map-a-Folder-to-a-Drive-Letter-in-Windows
+
+0 - 
+
+1 - Open My Computer from your Windows desktop.
+Open My Computer from your Windows desktop.
+
+2 - Click Map Network Drive from the Tools menu.
+Click Map Network Drive from the Tools menu.
+
+3 - Select a drive letter that you want to assign to the mapped folder in the Drive box.
+Select a drive letter that you want to assign to the mapped folder in the Drive box. You will be able to rename this mapped drive to anything you want.
+
+4 - Type the server and share name of the computer or folder you want or Click Browse to find the computer or folder, in the Folder box.
+Type the server and share name of the computer or folder you want or Click Browse to find the computer or folder, in the Folder box.
+
+5 - Click the Finish button.
+Click the Finish button.
+

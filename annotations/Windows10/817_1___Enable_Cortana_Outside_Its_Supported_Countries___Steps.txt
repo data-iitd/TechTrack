@@ -1,0 +1,40 @@
+Enable Cortana Outside Its Supported Countries
+https://www.wikihow.com/Enable-Cortana-Outside-Its-Supported-Countries
+
+0 - Steps
+
+1 - Launch the Start menu.
+Launch the Start menu. Click the Windows icon at the bottom left of your screen or hit the ⊞ Win key (Windows icon) on your keyboard.
+- ;
+
+2 - Select the Settings gear from the lower left corner.
+Select the Settings gear from the lower left corner.
+
+3 - Go to the Time & language category.
+Go to the Time & language category.
+
+4 - Select Region & language from the left pane.
+Select Region & language from the left pane.
+
+5 - Open the dropdown menu under the "Country or region" header.
+Open the dropdown menu under the "Country or region" header.
+
+6 - Choose one of the countries that Cortana supports.
+Choose one of the countries that Cortana supports. Here is a list:
+- Australia
+- Brazil
+- Canada
+- China
+- France
+- Germany
+- India
+- Italy
+- Japan
+- Mexico
+- Spain
+- United Kingdom
+- United States
+
+7 - Use Cortana
+Use Cortana. Cortana has been enabled on your computer and is ready for use.
+

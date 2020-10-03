@@ -1,0 +1,45 @@
+Install Windows 10 on a Mac
+https://www.wikihow.com/Install-Windows-10-on-a-Mac
+
+0 - Configuring Boot Camp
+
+1 - Open the Finder.
+Open the Finder. It's the blue, face-shaped icon in the Dock.
+
+2 - Click the Go menu item.
+Click the Go menu item. This option is on the left side of the menu bar that's at the top of your Mac's screen.
+
+3 - Click Utilities.
+Click Utilities. It's in the Go drop-down menu.
+
+4 - Double-click Boot Camp Assistant.
+Double-click Boot Camp Assistant. This icon looks like a grey hard drive.
+
+5 - Click Continue.
+Click Continue. It's in the bottom-right corner of the Boot Camp Assistant window.
+
+6 - Click Choose.
+Click Choose. This option is in the upper-right side of the window.
+
+7 - Select your Windows 10 ISO file.
+Select your Windows 10 ISO file. Click it in the pop-up window to select it. You may have to navigate to the file's location (e.g., Downloads) first.
+
+8 - Click Open.
+Click Open. It's in the bottom-right corner of the window. Doing so will select the ISO file as the Windows 10 installation.
+
+9 - Insert a USB flash drive.
+Insert a USB flash drive. it must be at least 8GB in size, so that bootcamp can install windows on that drive for use on current the Mac. if you do not insert a USB flash drive, you will see the message to insert one..'
+
+10 - Increase or decrease the amount of space for Windows 10.
+Increase or decrease the amount of space for Windows 10. Click and drag the Windows 10 partition icon, which is on the right side of the window, left to increase the amount of hard drive space or right to decrease the hard drive space.
+- If you're satisfied with the amount of space reserved for Windows 10 and your Mac's default operating system, skip this step.
+
+11 - If the previous step does not appear, and you see something like this.
+If the previous step does not appear, and you see something like this. Just re-do this section of steps until it gives you the results we are expecting.
+
+12 - Click Install.
+Click Install. It's in the bottom-right corner of the window. Doing so will begin installing Windows 10 support software.
+
+13 - Enter your administrator password when prompted, then click OK.
+Enter your administrator password when prompted, then click OK. This will reboot your Mac into the Windows 10 installation process.
+

@@ -1,0 +1,24 @@
+Check for and Install Updates on a Mac Computer
+https://www.wikihow.com/Check-for-and-Install-Updates-on-a-Mac-Computer
+
+0 - Enabling Automatic Updates
+
+1 - Open the Apple menu and select "System Preferences."
+Open the Apple menu and select "System Preferences." You can turn on automatic updates for apps and system updates so that you never have to check for them yourself. This will help keep your software up-to-date and secure.[2]
+- X
+- Research source
+- 
+- You'll find the Apple menu in the upper-left corner of the screen.
+
+2 - Click the "App Store" option.
+Click the "App Store" option. This will open the App Store settings.
+
+3 - Check the "Automatically check for updates" box.
+Check the "Automatically check for updates" box. This will enable the various automatic update options.
+
+4 - Check all four boxes underneath "Automatically check for updates."
+Check all four boxes underneath "Automatically check for updates." This will automatically check for, download, and install app updates, system updates, and security updates once a day.
+
+5 - Click "Check Now" to see if any new updates are available.
+Click "Check Now" to see if any new updates are available. If any updates are available, they will start downloading and installing immediately
+

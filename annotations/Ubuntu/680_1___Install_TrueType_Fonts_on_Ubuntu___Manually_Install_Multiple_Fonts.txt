@@ -1,0 +1,32 @@
+Install TrueType Fonts on Ubuntu
+https://www.wikihow.com/Install-TrueType-Fonts-on-Ubuntu
+
+0 - Manually Install Multiple Fonts
+
+1 - Download TrueType fonts.
+Download TrueType fonts. (The file extension will be .ttf or .otf) Unzip your files if necessary.
+
+2 - Move your files to the ~_ Directory.
+Move your files to the ~/ Directory. The ~/ Directory is your home folder. This means that if you were logged in as cruddpuppet, the directory would be /home/cruddpuppet/ .
+
+3 - Go to Applications > Accessories > Terminal.
+Go to Applications > Accessories > Terminal. This will take you to the terminal.
+
+4 - Type “cd _usr_local_share_fonts_truetype” without quotes into the command line.
+Type “cd /usr/local/share/fonts/truetype” without quotes into the command line. This is a directory for user-added fonts in linux.
+
+5 - Type “sudo mkdir myfonts” without quotes.
+Type “sudo mkdir myfonts” without quotes. This will make a directory called “myfonts” in which to store your fonts. If you’re not logged in as root, you will be prompted to provide your password.
+
+6 - Type “cd myfonts” without quotes.
+Type “cd myfonts” without quotes. This moves you into the new directory.
+
+7 - Type “sudo cp ~_fontname.ttf .
+Type “sudo cp ~/fontname.ttf .” without quotes. This moves the TrueType fonts into your new directory. (Alternatively, type “sudo cp ~/*.ttf .”; the * acts as a wildcard, allowing you to move all your fonts from the ~/ Directory at once.)
+
+8 - Type “sudo chown root fontname.ttf”(or *.ttf) to change file owner to the root.
+Type “sudo chown root fontname.ttf”(or *.ttf) to change file owner to the root.
+
+9 - Type “cd .
+Type “cd ..” and then “fc-cache” without quotes to add newly-added fonts to system-wide font index, so all applications can see them.
+

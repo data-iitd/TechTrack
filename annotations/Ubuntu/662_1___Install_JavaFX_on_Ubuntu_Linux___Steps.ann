@@ -1,0 +1,32 @@
+T1	Software-Other 1519 1531	NetBeans IDE
+T2	Software-Other 2481 2491	JavaFX SDK
+A2	isSettingsChanged T2 true
+T3	Software-Other 3941 3949	NetBeans
+A4	isOpened T3 f->t
+T4	Software-Other 4050 4054	File
+A5	isOpened T4 f->t
+T5	Software-Other 4057 4067	ew Project
+A6	isOpened T5 f->t
+T6	Software-Other 4069 4075	JavaFX
+T7	Software-Other 4077 4095	JavaFX Application
+T8	Software-Other 4105 4109	Next
+A9	isOpened T8 f->t
+T9	Software-Other 4122 4138	Manage Platforms
+A11	isOpened T9 f->t
+T10	Software-Other 4336 4340	Next
+A12	isSettingsChanged T10 true
+T11	Software-Other 4346 4351	inish
+A13	isSettingsChanged T11 true
+T12	Software-Other 4461 4475	the JavaFX tab
+A14	isOpened T12 f->t
+T13	Software-Other 4488 4501	enable JavaFX
+A15	isSettingsChanged T13 true
+T14	Software-Other 4968 4973	Close
+A16	isOpened T14 t->f
+A1	isOpened T1 f->t
+A3	isOpened T6 f->t
+A7	isOpened T7 f->t
+T15	Software-Other 4140 4152	Add Platform
+A8	isOpened T15 f->t
+R1	SubPart Arg1:T10 Arg2:T3	
+R2	SubPart Arg1:T13 Arg2:T12	

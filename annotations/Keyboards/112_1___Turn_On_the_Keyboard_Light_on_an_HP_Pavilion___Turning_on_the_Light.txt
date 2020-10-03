@@ -1,0 +1,25 @@
+Turn On the Keyboard Light on an HP Pavilion
+https://www.wikihow.com/Turn-On-the-Keyboard-Light-on-an-HP-Pavilion
+
+0 - Turning on the Light
+
+1 - Plug your computer into its charger.
+Plug your computer into its charger. In some cases, your computer's keyboard backlight may not turn on if your computer isn't charged past a certain point while off the charger. You can solve this problem by plugging your computer into its charger.
+- ;
+
+2 - Find the "Backlight" key.
+Find the "Backlight" key. The "Backlight" key is always one of the function keys (typically F5) at the top of your keyboard. It has a symbol resembling three dots on it.[1]
+- X
+- Research source
+
+3 - Press the "Backlight" key a few times.
+Press the "Backlight" key a few times. If your computer's keyboard is set to use the function keys' hardware features when pressed, this will cycle through your keyboard's brightness settings. You should see the keyboard's backlight dim and brighten accordingly.
+- If nothing happens when you press the "Backlight" key, proceed to the next step.
+
+4 - Try using the "Backlight" key while holding Fn.
+Try using the "Backlight" key while holding Fn. You'll find the Fn key in the lower-left side of the keyboard. If you couldn't turn on the backlight in the last step, holding the Fn key while pressing the "Backlight" button will cause your computer to use the key to change the backlight's brightness.
+- You may have to press the "Backlight" key a few times while holding down Fn to cycle through all of the brightness options.
+
+5 - Make sure that your HP Pavilion has a keyboard backlight.
+Make sure that your HP Pavilion has a keyboard backlight. Not all HP Pavilion laptops have backlit keyboards. If you've been unable to find the option to turn on the backlight thus far, check your computer's manual or online documentation to determine whether or not your keyboard has a backlight.
+

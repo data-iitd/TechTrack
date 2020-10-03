@@ -1,0 +1,36 @@
+T1	Software-Other 151 188	http://beta.apple.com/sp/betaprogram/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 362 369	Sign Up
+A3	isSettingsChanged T2 true
+T3	Software-Other 516 523	Sign In
+A4	isSettingsChanged T3 true
+T4	Software-Other 699 705	Accept
+A5	isSettingsChanged T4 true
+T5	Software-Other 1116 1153	Download the macOS Sierra Public Beta
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1232 1241	App Store
+A7	isOpened T6 f->t
+T7	Software-OS-Related 1513 1521	Featured
+A8	isOpened T7 f->t
+T8	Software-OS-Related 1612 1618	Redeem
+A9	isSettingsChanged T8 true
+T9	Software-OS-Related 1996 2006	Launchpad.
+A10	isOpened T9 f->t
+T10	Software-OS-Related 2252 2259	Install
+A11	isOpened T10 f->t
+T11	Software-OS-Related 2466 2474	Continue
+A12	isOpened T11 f->t
+T12	Software-OS-Related 2659 2665	Accept
+A13	isSettingsChanged T12 true
+T13	Software-OS-Related 2725 2731	Agree"
+A14	isOpened T13 f->t
+T14	Software-OS-Related 2793 2800	Install
+A15	isOpened T14 f->t
+T15	Software-OS-Related 2963 2965	OK
+T16	Software-OS-Related 2999 3006	Restart
+A17	isOpened T16 f->t
+A16	isSettingsChanged T15 true
+R1	SubPart Arg1:T5 Arg2:T1	
+R2	SubPart Arg1:T8 Arg2:T6	
+R3	SubPart Arg1:T14 Arg2:T9	

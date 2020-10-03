@@ -1,0 +1,21 @@
+Change the System Language on a Mac
+https://www.wikihow.com/Change-the-System-Language-on-a-Mac
+
+0 - Steps
+
+1 - Open System Preferences.
+Open System Preferences.
+- ;
+
+2 - Go to "Language & Text".
+Go to "Language & Text".
+
+3 - Now choose the Language of choice and drag it above the Language that is currently on the top.
+Now choose the Language of choice and drag it above the Language that is currently on the top. In this case, I want to use Canadian English instead of regular English. I drag it above English and drop it.
+
+4 - As you can see, Canadian English is now on top.
+As you can see, Canadian English is now on top.
+
+5 - Reboot.
+Reboot. Yes, as you may have noticed on the screenshot, you have to Reboot (or log out/in) before any changes take place.
+

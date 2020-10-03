@@ -1,0 +1,37 @@
+Adjust the Print Quality of a Laser Printer
+https://www.wikihow.com/Adjust-the-Print-Quality-of-a-Laser-Printer
+
+0 - Steps
+
+1 - Change the default settings on the printer.
+Change the default settings on the printer. Accessing the default settings on a laser printer will vary by manufacturer. However, the controls for these settings often are accessed from the printer's control panel under "printing preferences" or "default settings."
+- Refer to the documentation included with the device for instructions on adjusting the default printer settings.
+- Change the print quality setting to the highest level available. These settings will often be labeled low, normal or high.
+- ;
+
+2 - Adjust the print quality settings in the application used to process the document, graphic or image.
+Adjust the print quality settings in the application used to process the document, graphic or image. These settings typically can be accessed from the Print dialogue box in the application being used to print the document.
+- Select "Print" from the file menu to open the Print dialogue box. Locate the button or tab labeled "Options" or "Advanced Settings."
+- Set the printing preferences to the highest quality setting available in the settings menu.
+
+3 - Confirm that the toner cartridge does not need replacing.
+Confirm that the toner cartridge does not need replacing. This information usually can be accessed from the printer's control panel under "check ink-levels." Many devices will notify you automatically when the toner cartridge requires replacement.
+- Refer to the information provided by the manufacturer for replacing the toner cartridge. This information is usually found in the operating instructions included with the device at the time of purchase or lease.
+- Follow the instructions provided by the manufacturer for replacing the toner cartridge in situations where the cartridge needs replacing. These instructions are often located on the device, near the location where the toner cartridge is mounted.
+
+4 - Confirm that the paper being used matches the type of paper designated under the paper settings options on the laser printer.
+Confirm that the paper being used matches the type of paper designated under the paper settings options on the laser printer. This typically can be found on the printer's control panel listed under "printing preferences" or "advanced printer settings." Different grades, thicknesses and textures of paper require varying amounts of ink in order to produce clear, high quality documents or images.
+- Refer to the operating instructions included with the laser printer for detailed instructions on adjusting the paper settings.
+
+5 - Adhere to the recommended maintenance schedule as instructed by the manufacturer of the printer.
+Adhere to the recommended maintenance schedule as instructed by the manufacturer of the printer. Failing to follow proper maintenance procedures can significantly degrade the quality of documents and images produced by a laser printer.
+- Reference the documentation included with the device at the time of purchase for specific instructions on performing proper maintenance, or contact your maintenance technician.
+
+6 - Use the highest quality images and graphics available to achieve the best results when printing projects from a laser printer.
+Use the highest quality images and graphics available to achieve the best results when printing projects from a laser printer. The resolution, or dots per inch (dpi), of the original image or graphic file will have a dramatic effect on the final product printed from a laser printer.
+- Use images or graphics with a resolution of at least 2400 dpi to achieve the best results when printing from a laser printer.
+- Determine the resolution of an image or graphic by right-clicking the file and selecting "Properties" from the pull-down menu. The image resolution will be listed among the information in the Properties dialogue box.
+
+7 - Contact the contracted service technician.
+Contact the contracted service technician. Certain commercial lease contracts require that a qualified service technician perform all maintenance tasks required for a laser printer. Printer maintenance contractors often will place a printed label with their contact information on the device.
+

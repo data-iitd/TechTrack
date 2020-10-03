@@ -1,0 +1,12 @@
+T1	Software-OS-Related 135 140	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 250 282	Windows Defender Security Center
+A2	isOpened T2 f->t
+T3	Software-OS-Related 466 491	Virus & threat protection
+A3	isOpened T3 f->t
+T4	Software-OS-Related 603 616	Advanced scan
+A4	isOpened T4 f->t
+T5	Software-OS-Related 873 881	Scan now
+A5	isOpened T5 f->t
+T6	Hardware-Devices 1377 1385	computer
+A6	isUsed T6 true

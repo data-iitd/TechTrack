@@ -1,0 +1,14 @@
+T1	Hardware-Other 109 115	photos
+T2	Hardware-Other 285 299	4 x 6 pictures
+T3	Hardware-Other 301 316	8 x 10 pictures
+T4	Hardware-Devices 335 351	Flatbed scanners
+T5	Hardware-Devices 493 506	Film scanners
+T6	Hardware-Devices 762 769	scanner
+T7	Hardware-Other 783 788	photo
+T12	Hardware-Devices 1331 1339	Scanners
+T13	Hardware-Other 1345 1351	images
+T14	Hardware-Other 1452 1458	photos
+*	Equiv T13 T14
+T16	Hardware-Devices 1851 1864	photo scanner
+T17	Hardware-Devices 2191 2205	Photo scanners
+T18	Hardware-Devices 2387 2395	scanners

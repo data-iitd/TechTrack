@@ -1,0 +1,9 @@
+T1	Software-OS-Related 301 304	New
+A1	isOpened T1 f->t
+T2	Software-OS-Related 551 555	Next
+A2	isOpened T2 f->t
+T3	Software-OS-Related 754 760	Finish
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 353 361	Shortcut
+A4	isOpened T4 f->t
+R1	SubPart Arg1:T3 Arg2:T4	

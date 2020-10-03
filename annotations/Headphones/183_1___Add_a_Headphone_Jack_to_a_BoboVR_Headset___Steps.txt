@@ -1,0 +1,45 @@
+Add a Headphone Jack to a BoboVR Headset
+https://www.wikihow.com/Add-a-Headphone-Jack-to-a-BoboVR-Headset
+
+0 - Steps
+
+1 - Remove the face guard.
+Remove the face guard.
+- ;
+
+2 - Remove the 4 case screws.
+Remove the 4 case screws.
+
+3 - Roll the side dials until the front case (black phone holder and lens assembly) is fully extended.
+Roll the side dials until the front case (black phone holder and lens assembly) is fully extended. Pull up back housing. Fold over carefully as headphones and button jack are still attached.
+
+4 - With the PCB exposed, desolder the 4 speaker wires.
+With the PCB exposed, desolder the 4 speaker wires.
+
+5 - Remove the dial screw and slide off the dial.
+Remove the dial screw and slide off the dial.
+
+6 - Remove the white cover.
+Remove the white cover. This step is a bit tricky once the dial is removed, there is a white plastic cover that needs to be removed. Use the flat head screw driver to push tabs in; starting from inside to out and then remove cover. Do no use force to pry because they can be damaged and cover won't go back into place.
+
+7 - Remove the 4 screws holding headphone and bracket.
+Remove the 4 screws holding headphone and bracket. Pull off head phones and pull wire through. Then replace these screws back over straps.
+
+8 - Reattach plastic cover and dial.
+Reattach plastic cover and dial. Repeat for other side. There will be a tiny bit of light bleeding through where the headphones were, so you might want to add something small where headphones were to block out light.
+
+9 - Measure for placement of 3.5mm jack.
+Measure for placement of 3.5mm jack. The front case lip is 1/2" so make sure jack won't touch the case when it is fully retracted. Cut the wire and strip the ends.
+
+10 - Bridge ground connections and solder wires to jack, then solder wires to the board.
+Bridge ground connections and solder wires to jack, then solder wires to the board.
+
+11 - Test the headphone jack.
+Test the headphone jack. You can use a stereo test app to test L and R individually.
+
+12 - Drill and mount the jack.
+Drill and mount the jack. Be sure to measure carefully and set the angle of the jack so it sits snugly.
+
+13 - Reassemble.
+Reassemble. Lay black front case face down and turn the dials in all the way then mostly out to make sure that both sides are moving evenly. Make sure you screw in the case screws when its almost fully expanded or you will lose distance.
+

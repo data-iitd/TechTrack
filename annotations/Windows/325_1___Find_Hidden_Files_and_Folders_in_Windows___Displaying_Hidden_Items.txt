@@ -1,0 +1,26 @@
+Find Hidden Files and Folders in Windows
+https://www.wikihow.com/Find-Hidden-Files-and-Folders-in-Windows
+
+0 - Displaying Hidden Items
+
+1 - Open the Start menu .
+Open the Start menu . Either click the Windows logo in the bottom-left corner of the screen, or press the ⊞ Win key.
+- On Windows 8, hover your cursor in the top-right corner of the screen, then click the magnifying glass icon.
+- ;
+
+2 - Type file explorer options into Start.
+Type file explorer options into Start. This will bring up the File Explorer Options icon at the top of the search results.
+
+3 - Click File Explorer Options.
+Click File Explorer Options. It's the folder-shaped icon at the top of the Start window.
+
+4 - Click the View tab.
+Click the View tab. You'll see it at the top of the File Explorer Options window.
+
+5 - Click the Show hidden files, folders, and drives circle.
+Click the Show hidden files, folders, and drives circle. It should be in the middle of the "Advanced settings" window.
+- If you don't see this option, double-click the Hidden files and folders line of text. If you don't see that option either, first double-click Files and Folders at the top of the "Advanced settings" window.
+
+6 - Click Apply, then click OK.
+Click Apply, then click OK. Both of these buttons are at the bottom of the window. Doing so will reveal any hidden files, folders, drives, and other items on your computer.
+

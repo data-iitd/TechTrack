@@ -1,0 +1,8 @@
+T1	Software-OS-Related 159 170	Personalize
+A1	isOpened T1 f->t
+T2	Software-OS-Related 648 660	Screen Saver
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1300 1307	Options
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1962 1967	Apply
+A4	isSettingsChanged T4 true

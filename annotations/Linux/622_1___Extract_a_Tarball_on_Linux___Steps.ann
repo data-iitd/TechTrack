@@ -1,0 +1,14 @@
+T1	Software-Other 159 167	tar file
+T2	Software-Other 177 185	internet
+T3	Software-Other 215 227	SuperTuxKart
+T4	Software-OS-Related 253 261	terminal
+A1	isOpened T4 f->t
+T5	Software-Other 300 307	tarball
+T6	Software-Other 502 509	tarball
+T7	Software-OS-Related 588 614	cd /home/[user]/Downloads/
+T8	Software-OS-Related 632 665	sudo tar zvxf supertuxkart.tar.gz
+T9	Software-OS-Related 759 766	extract
+T10	Software-Other 1024 1030	folder
+A2	isOpened T10 f->t
+T11	Software-Other 1302 1309	package
+A3	isInstalled T11 f->t

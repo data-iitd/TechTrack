@@ -1,0 +1,18 @@
+T1	Software-Other 102 118	webcam's program
+T3	Software-OS-Related 416 421	Start
+T4	Software-OS-Related 436 445	Spotlight
+T5	Hardware-Devices 471 477	webcam
+T6	Hardware-Other 518 522	clip
+T7	Hardware-Devices 585 601	computer monitor
+A6	isPowered T7 start-T
+T8	Hardware-Devices 724 730	webcam
+T9	Software-Other 794 817	webcam program's window
+T13	Software-OS-Related 1289 1308	computer's settings
+T14	Hardware-Other 1333 1339	manual
+A1	isOpened T1 f->t
+T11	Hardware-Other 1205 1224	webcam's microphone
+T12	Software-Other 1427 1444	webcam's settings
+A2	isPowered T5 start-T
+A3	isConnected T5 f->t
+A4	isOpened T9 f->t
+A5	isSettingsChanged T12 true

@@ -1,0 +1,39 @@
+Install Windows 10 on a Mac
+https://www.wikihow.com/Install-Windows-10-on-a-Mac
+
+0 - Setting Up Windows 10
+
+1 - Select a language and region, then click Next.
+Select a language and region, then click Next. You'll select this information from the drop-down boxes in the middle of the window.
+
+2 - Enter your product key if you have it.
+Enter your product key if you have it. If you don't have a product key, just click I don't have a product key.
+
+3 - Select a Windows 10 version, then click Next.
+Select a Windows 10 version, then click Next. You can usually select Windows 10 Home or Windows 10 Pro.
+
+4 - Click I agree.
+Click I agree. It's in the bottom-right corner of the window.
+
+5 - Click Next.
+Click Next. The installation process will resume; once it completes, your Mac will reboot into the Windows 10 setup window.
+
+6 - Select a Windows 10 setup option.
+Select a Windows 10 setup option. You can click either Customize or Use Express settings.
+- 
+- Customize will allow you to go through and enable or disable specific features of Windows 10's personalization.
+- Use Express settings automatically enables all personalization features for Windows 10. You can disable these later if you like.
+
+7 - Follow the on-screen instructions.
+Follow the on-screen instructions. Depending on your selected setup option, this process will vary.
+
+8 - Create a Windows 10 account, then click Next.
+Create a Windows 10 account, then click Next. This entails adding a name for the primary user, as well as adding a password if you like.
+
+9 - Select a Cortana option.
+Select a Cortana option. Cortana is Windows 10's version of Siri; you can click Use Cortana to set up your Cortana preferences, or click Not now to bypass the setup for now.
+- If you do decide to set up Cortana, you'll do so before proceeding to the next step.
+
+10 - Wait for Windows 10 to finish rebooting.
+Wait for Windows 10 to finish rebooting. Once it does, the only thing left to do is finish installing the drivers needed to run Windows 10 on your Mac.
+

@@ -1,0 +1,48 @@
+Install Visual Studio Using Parallels Desktop on a Mac
+https://www.wikihow.com/Install-Visual-Studio-Using-Parallels-Desktop-on-a-Mac
+
+0 - Installing Windows
+
+1 - Check the system requirements.
+Check the system requirements. Before your buy any Windows software, you need to make sure it's compatible with your system; otherwise it won't work. If you're not sure which OS X version, processor, memory (RAM) and hard drive space your computer has, then use about system information to find out.
+
+2 - Choose a compatible Windows version.
+Choose a compatible Windows version. Check which versions of Windows will work with your Mac.[1]
+- X
+- Research source
+
+3 - Purchase Windows.
+Purchase Windows. If you have a Windows copy on a DVD, you need to create a disk image. If you have a copy on a flash drive, you just need to to download the ISO disk image from Microsoft. Otherwise, you need to buy full Windows version that come as a disk image file (ISO).
+- Purchasing a brand new Windows copy is a bit expensive. There are discounts available for students. Make sure you save product key somewhere safe, because you'll need it later.
+
+4 - Download Windows.
+Download Windows. This is an easy step; just follow the Windows setup instructions and save the file to your desktop.
+
+5 - Start the installation.
+Start the installation. When you first open Parallels, it's going to give you two options. You can choose the first one: “Install Windows or another OS from a DVD or image file”.
+
+6 - Click Continue.
+Click Continue.
+
+7 - Enter the product key you were given when you purchased Windows.
+Enter the product key you were given when you purchased Windows.
+
+8 - Pick your integration preference.
+Pick your integration preference. If you want Windows and all its programs and applications to appear in one window, choose the second option. However, both options work fine; the only difference is how the files will display on your computer.
+
+9 - Click Continue and choose a name and location.
+Click Continue and choose a name and location.
+
+10 - Wait and let Parallels do its magic.
+Wait and let Parallels do its magic. The installation period shouldn’t take longer than 20 minutes.
+
+11 - Start up and use Parallels.
+Start up and use Parallels.
+- You can make the Windows a full screen so it looks like it would if you were using a regular Windows PC by choosing full screen mode.
+- To switch back and forth between Mac and Windows, make sure to share Windows applications with Mac.[2]
+- X
+- Research source
+- 
+- 
+- Since the virtual machine is set up now, you can run any Windows application. Next part we are going to install Microsoft Visual Studio.
+

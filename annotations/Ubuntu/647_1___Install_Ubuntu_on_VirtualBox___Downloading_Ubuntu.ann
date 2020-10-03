@@ -1,0 +1,9 @@
+T1	Software-Other 173 212	https://www.ubuntu.com/download/desktop
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 495 503	Download
+A3	isSettingsChanged T2 true
+A4	isOpened T2 f->t
+T3	Software-Other 680 692	Download Now
+A5	isOpened T3 f->t
+R1	SubPart Arg1:T2 Arg2:T1	

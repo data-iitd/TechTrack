@@ -1,0 +1,36 @@
+Use Telnet on Mac OS X
+https://www.wikihow.com/Use-Telnet-on-Mac-OS-X
+
+0 - Connect via SSH
+
+1 - To ensure a secure connection, use SSH (Secure Shell)
+
+To ensure a secure connection, use SSH (Secure Shell)
+- ;
+
+2 - From the Shell menu, select New Remote Connection.
+From the Shell menu, select New Remote Connection...
+
+3 - Enter a host  name or IP address.
+Enter a host  name or IP address. In the field at the bottom of the New Connection window shown below type in the address of the server you wish to connect to.
+- Note that you must have an account to log in.
+
+4 - Click Connect
+
+Click Connect
+
+5 - You will be prompted for your password.
+You will be prompted for your password. Your keystrokes will not be displayed, for security purposes.
+
+6 - Save your settings.
+Save your settings. Click the + sign under the Server column.
+
+7 - Enter the host name or IP address of the server in the entry screen pictured.
+Enter the host name or IP address of the server in the entry screen pictured.
+
+8 - Click OK.
+Click OK.
+
+9 - Enter the user ID in the User field, click Connect, and your information will be saved.
+Enter the user ID in the User field, click Connect, and your information will be saved.
+

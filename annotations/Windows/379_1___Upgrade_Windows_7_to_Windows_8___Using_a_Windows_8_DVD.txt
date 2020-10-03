@@ -1,0 +1,53 @@
+Upgrade Windows 7 to Windows 8
+https://www.wikihow.com/Upgrade-Windows-7-to-Windows-8
+
+0 - Using a Windows 8 DVD
+
+1 - Insert the Windows 8 DVD into your Windows 7 PC.
+Insert the Windows 8 DVD into your Windows 7 PC. After a few moments, you should see a blue “Windows 8 Setup” window.[1]
+- X
+- Research source
+- 
+- If you don’t see this window, double-click Computer or My Computer on your desktop, and then double-click your DVD drive.
+- ;
+
+2 - Select Download and Install Updates.
+Select Download and Install Updates. It’s the first option.
+
+3 - Click Next.
+Click Next. The installer will now check for important updates.
+
+4 - Follow the on-screen instructions to download and install updates.
+Follow the on-screen instructions to download and install updates. When all updates are installed, you’ll be asked to enter your product key.
+
+5 - Type your product key and click Next.
+Type your product key and click Next. This is the long set of letters and numbers that came with your Windows 8 DVD. Depending on where you purchased Windows 8, they key may also be in an email or on a printed receipt.
+
+6 - Read the terms and check the “I accept the license terms” box.
+Read the terms and check the “I accept the license terms” box.
+
+7 - Click Accept.
+Click Accept.
+
+8 - Select which items you want to save from your Windows 7 install.
+Select which items you want to save from your Windows 7 install. Select each type of data you want to keep. If you don’t want to retain any of your personal files or settings, select Nothing.
+
+9 - Click Next.
+Click Next. Depending on the option(s) you selected in the previous step, you may have to perform additional tasks or restart the computer. Once everything is finished, you’ll see an “Install” button.
+
+10 - Click Install.
+Click Install. Windows 8 will now start to install. The computer may reboot several times during the installation. Once Windows 8 is installed, you’ll be asked to select a background color.
+
+11 - Select a background color and click Next.
+Select a background color and click Next.
+
+12 - Select Use Express Settings.
+Select Use Express Settings. This sets up Windows 8 with the default security settings.
+- If you want to customize your settings instead, click Customize to do so now.
+
+13 - Verify your password.
+Verify your password. If your Windows 7 account was protected by a password, you’ll be prompted to enter it now.
+
+14 - Select an account type to sign in.
+Select an account type to sign in. If you want to create a Microsoft account (recommended), click Next, and then follow the on-screen instructions to complete your the sign-up. If not, click Skip to access your desktop.
+

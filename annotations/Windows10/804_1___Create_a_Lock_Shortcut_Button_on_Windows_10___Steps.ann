@@ -1,0 +1,10 @@
+T1	Software-OS-Related 302 305	New
+A1	isOpened T1 f->t
+T2	Hardware-Devices 284 291	desktop
+T3	Software-OS-Related 354 362	Shortcut
+A2	isOpened T3 f->t
+T4	Software-OS-Related 598 602	Next
+A3	isOpened T4 f->t
+T5	Software-OS-Related 681 687	Finish
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

@@ -1,0 +1,69 @@
+Install Ubuntu Linux
+https://www.wikihow.com/Install-Ubuntu-Linux
+
+0 - Installing on Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Click Power .
+Click Power . This power logo is in the bottom-left corner of the window. A pop-up menu will appear.
+
+3 - Click Restart.
+Click Restart. It's in the Power pop-up menu. Doing so will restart your computer (hold "Shift" key when clicking to disable safe boot).
+
+4 - Wait for the Linux installation window to appear.
+Wait for the Linux installation window to appear. Once your computer finishes restarting and you're back at the desktop, you should see the installation window appear. This will usually happen within a few minutes.
+- Depending on your security settings, you may need to log into your computer before the desktop appears.
+- If you're using a USB flash drive and the Linux installation window doesn't appear, restart your computer and open the BIOS, then find the "Boot Order" section, select the USB drive option (usually Removable Devices) with the arrow keys, and press the + button to move the USB flash drive to the top.
+
+5 - Select a language, then click Continue.
+Select a language, then click Continue. Click the language that you want to use for Ubuntu, then click Continue in the bottom-right corner.
+
+6 - Click Install Ubuntu.
+Click Install Ubuntu. It's on the right side of the window.
+
+7 - Check both boxes on the "Preparing to install Ubuntu" page.
+Check both boxes on the "Preparing to install Ubuntu" page. Check the "Download updates while installing Ubuntu" box and the "Install third-party software for graphics..." box.[2]
+- X
+- Research source
+
+8 - Click Continue.
+Click Continue. It's in the bottom-right corner of the window.
+
+9 - Check the "Erase disk and install Ubuntu" box.
+Check the "Erase disk and install Ubuntu" box. This option is at the top of the window.
+
+10 - Click Install Now.
+Click Install Now. It's in the bottom-right corner.
+
+11 - Click Continue when prompted.
+Click Continue when prompted. Doing so will begin the Ubuntu installation process.
+
+12 - Select a region, then click Continue.
+Select a region, then click Continue. Click a time zone block on the world map to select a region.
+
+13 - Select a keyboard layout, then click Continue.
+Select a keyboard layout, then click Continue. To do this, click a language on the left side of the window, then click a version of the language (e.g., US) on the right side.
+
+14 - Enter your user information.
+Enter your user information. Fill out the following fields:
+- 
+- Your name - Your first and last name.
+- Your computer's name - The name that you want your computer to use. Make sure that this isn't too complicated.
+- Pick a username - Type in a username that you'd like to use for your Ubuntu profile.
+- Choose a password - Enter a password. This is what you'll use to sign into your computer.
+- Confirm your password - Re-enter the password.
+
+15 - Select a login option.
+Select a login option. Check either "Log in automatically" or "Require my password to log in" in the middle of the page.
+
+16 - Click Continue.
+Click Continue.
+
+17 - Click Restart Now when prompted.
+Click Restart Now when prompted. Doing so will bring up a screen on which you can select your preferred operating system (e.g., Ubuntu or Windows).
+
+18 - Select Ubuntu and press ↵ Enter.
+Select Ubuntu and press ↵ Enter. This will boot your computer into Ubuntu Linux rather than opening Windows again. You now have Linux installed on your Windows computer.
+

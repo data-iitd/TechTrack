@@ -1,0 +1,18 @@
+T1	Hardware-Devices 138 144	webcam
+T2	Hardware-Devices 284 290	screen
+A1	isPowered T2 start-T
+T14	Hardware-Devices 1076 1083	webcams
+T15	Software-Other 1157 1190	Select an audio device and webcam
+T19	Hardware-Devices 1636 1642	screen
+T21	Hardware-Devices 358 364	camera
+*	Equiv T21 T1
+T3	Software-Other 441 457	Movie Maker menu
+A2	isOpened T3 f->t
+T23	Software-Other 1040 1046	Webcam
+T26	Hardware-Devices 1597 1603	webcam
+A4	isPowered T1 start-T
+A5	isConnected T1 start-T
+A3	isSettingsChanged T15 true
+R1	SubPart Arg1:T15 Arg2:T3	
+A6	isSetup T26 true
+A7	isUsed T26 true

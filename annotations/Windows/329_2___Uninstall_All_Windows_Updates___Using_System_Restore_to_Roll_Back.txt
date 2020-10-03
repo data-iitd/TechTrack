@@ -1,0 +1,26 @@
+Uninstall All Windows Updates
+https://www.wikihow.com/Uninstall-All-Windows-Updates
+
+0 - Using System Restore to Roll Back
+
+1 - Open the System Restore tool.
+Open the System Restore tool. You can use System Restore to roll your system back to a point before the update was installed. You won't lose any personal files, but any programs installed or uninstalled in the interim will be reverted.
+- Open the Control Panel and select "Recovery." If you don't see the "Recovery" option, select "Large icons" or "Small icons" from the "View by" menu.
+- Select "Open System Restore" to open the System Restore utility.
+
+2 - Select the restore point you want to roll back to.
+Select the restore point you want to roll back to. Restore points are created automatically when new programs or updates are installed. Depending on your System Restore settings, you may have many restore points or just a few. Old restore points are deleted automatically to make room for new ones.
+- You may be able to check a box in the lower-left corner to view all available restore points.
+
+3 - Click "Scan for affected programs."
+Click "Scan for affected programs." This will generate a list of all of the programs, drivers, and updates that will be removed or restored when rolling back. Programs and drivers that are restored may need to be re-installed to function properly.
+
+4 - Confirm that you want to perform the restore process.
+Confirm that you want to perform the restore process. Once you click "Finish," your computer will reboot and roll back to the restore point. This may take a little while to complete. After your computer successfully rolls back, Windows will start and a dialog will appear indicating that the restore is complete.
+
+5 - Test your computer.
+Test your computer. After restoring, see if getting rid of the update file fixed your problems. You'll likely need to re-install or uninstall any programs or drivers that were restored during the roll back process.
+
+6 - Undo the system restore if problems occur.
+Undo the system restore if problems occur. If the system restore process doesn't work, or makes things worse, you can undo it and revert your computer to how it was before restoring. Open the System Restore tool again and select "Undo System Restore" to undo the last system restore you performed.
+

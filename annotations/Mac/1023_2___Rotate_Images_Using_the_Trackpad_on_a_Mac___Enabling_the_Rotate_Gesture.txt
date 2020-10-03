@@ -1,0 +1,22 @@
+Rotate Images Using the Trackpad on a Mac
+https://www.wikihow.com/Rotate-Images-Using-the-Trackpad-on-a-Mac
+
+0 - Enabling the Rotate Gesture
+
+1 - Click on the Apple Icon.
+Click on the Apple Icon. It's the Apple logo at the far left corner of the menu bar at the top of your screen.
+- The rotate gesture is enabled by default, but if you need to re-enable it you can do so from the Trackpad menu.
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Trackpad" icon.
+Click the "Trackpad" icon.
+- If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+
+4 - Click Scroll & Zoom.
+Click Scroll & Zoom.
+
+5 - Check the box next to "Rotate.
+Check the box next to "Rotate." Doing so will enable the rotate gesture.
+

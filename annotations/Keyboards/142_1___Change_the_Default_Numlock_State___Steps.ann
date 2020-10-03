@@ -1,0 +1,46 @@
+T1	Software-OS-Related 118 123	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 141 144	run
+A2	isOpened T2 f->t
+T3	Software-OS-Related 153 163	search bar
+T4	Software-OS-Related 295 302	numlock
+T5	Software-OS-Related 325 332	regedit
+T6	Hardware-Other 394 399	enter
+T7	Software-OS-Related 411 413	OK
+T8	Software-OS-Related 436 444	keyboard
+T9	Software-OS-Related 564 568	Edit
+A7	isOpened T9 f->t
+T10	Software-OS-Related 580 584	Find
+A8	isOpened T10 f->t
+T11	Hardware-Other 594 602	Ctrl   F
+T12	Software-OS-Related 617 642	InitialKeyboardIndicators
+T13	Software-OS-Related 676 693	HKEY_CURRENT_USER
+T14	Software-OS-Related 714 727	Control Panel
+A10	isOpened T14 f->t
+A11	isOpened T13 f->t
+T15	Software-OS-Related 741 749	keyboard
+A12	isOpened T15 f->t
+T16	Software-OS-Related 934 959	InitialKeyboardIndicators
+T17	Software-OS-Related 1016 1022	Modify
+A14	isOpened T17 f->t
+T18	Software-OS-Related 1034 1041	NumLock
+T21	Software-OS-Related 1093 1100	Numlock
+T22	Hardware-Other 1149 1157	computer
+T23	Software-OS-Related 1256 1260	BIOS
+T24	Software-OS-Related 1327 1331	BIOS
+A21	isOpened T24 f->t
+T25	Hardware-Other 1384 1386	F2
+T26	Hardware-Devices 1395 1403	keyboard
+A22	isPowered T26 start-T
+T27	Software-OS-Related 1486 1491	Setup
+T28	Hardware-Other 1517 1525	computer
+T29	Software-OS-Related 1616 1620	BIOS
+T30	Software-OS-Related 1641 1657	Keyboard NumLock
+T31	Hardware-Other 1823 1831	spacebar
+T32	Software-OS-Related 1874 1878	bios
+T33	Hardware-Other 1899 1902	Esc
+A3	isSettingsChanged T16 true
+R1	SubPart Arg1:T17 Arg2:T16	
+A4	isOpened T5 f->t
+A5	isOpened T8 f->t
+A6	isSettingsChanged T17 true

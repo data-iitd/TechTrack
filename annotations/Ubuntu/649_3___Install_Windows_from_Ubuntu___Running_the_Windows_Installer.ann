@@ -1,0 +1,15 @@
+T1	Hardware-Devices 181 189	computer
+A1	isSetup T1 true
+A2	isPowered T1 t->f
+T2	Hardware-Devices 411 420	USB drive
+A3	isConnected T2 f->t
+T3	Software-OS-Related 956 971	Save" and "Exit
+A4	isOpened T3 f->t
+T4	Software-OS-Related 1104 1117	Windows Setup
+A5	isOpened T4 f->t
+T5	Software-OS-Related 1188 1227	Custom: Install Windows only (advanced)
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1367 1386	Windows10 partition
+A7	isSettingsChanged T6 true
+T7	Software-OS-Related 1397 1401	Next
+A8	isOpened T7 f->t

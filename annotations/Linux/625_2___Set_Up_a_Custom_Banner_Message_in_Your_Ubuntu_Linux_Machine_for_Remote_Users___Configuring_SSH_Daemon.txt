@@ -1,0 +1,20 @@
+Set Up a Custom Banner Message in Your Ubuntu Linux Machine for Remote Users
+https://www.wikihow.com/Set-Up-a-Custom-Banner-Message-in-Your-Ubuntu-Linux-Machine-for-Remote-Users
+
+0 - Configuring SSH Daemon
+
+1 - Close SSH if running.
+Close SSH if running. You need to make SSH understand that you need to enable the Banner Message.
+
+2 - Open the configuration file.
+Open the configuration file. Issue the command, vim /etc/ssh/sshd_config
+
+3 - Modify the file.
+Modify the file. Now in the sshd_config file, you need to uncomment the Banner portion as shown
+
+4 - Start SSH.
+Start SSH. Issue the command --> /etc/init.d/ssh restart
+
+5 - Wait until restarted.
+Wait until restarted. The OpenSSH Server Daemon process will restart.
+

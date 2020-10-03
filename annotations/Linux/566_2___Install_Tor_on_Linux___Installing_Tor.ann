@@ -1,0 +1,23 @@
+T1	Software-OS-Related 102 110	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 479 498	Downloads directory
+T3	Software-OS-Related 544 556	cd Downloads
+T4	Software-OS-Related 671 685	Tor setup file
+T5	Software-OS-Related 839 864	Tor setup file's contents
+T6	Software-OS-Related 914 972	tar -xvJf tor-browser-linux64-7.5.2_language-region.tar.xz
+T8	Software-OS-Related 1291 1314	Tor browser's directory
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1359 1382	cd tor-browser_language
+T7	Software-Other 1487 1496	Tor setup
+A5	isOpened T7 f->t
+T10	Software-OS-Related 1526 1553	./start-tor-browser.desktop
+T11	Software-Other 1628 1635	Connect
+T12	Software-Other 1729 1740	Tor network
+T13	Software-Other 1790 1801	Tor browser
+A7	isOpened T13 f->t
+A8	isInstalled T13 f->t
+R3	SubPart Arg1:T11 Arg2:T12	
+A6	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T5	
+A2	isSettingsChanged T11 true
+A3	isOpened T2 f->t

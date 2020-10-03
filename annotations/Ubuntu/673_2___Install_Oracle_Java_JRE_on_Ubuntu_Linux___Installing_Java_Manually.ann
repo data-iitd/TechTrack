@@ -1,0 +1,39 @@
+T1	Software-Other 209 234	https://java.com/download
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 307 325	Free Java Download
+A3	isOpened T2 f->t
+T3	Software-OS-Related 447 457	Linux link
+A4	isOpened T3 f->t
+T4	Software-OS-Related 683 692	Downloads
+A5	isOpened T4 f->t
+T5	Software-OS-Related 932 947	jre-#####-linux
+A6	isSettingsChanged T5 true
+T6	Software-Other 968 980	Extract Here
+A7	isOpened T6 f->t
+T7	Software-Other 1605 1621	extracted folder
+A8	isOpened T7 f->t
+T8	Software-Other 1869 1872	bin
+T9	Software-Other 1891 1901	Properties
+T10	Software-Other 2043 2051	Location
+A11	isSettingsChanged T10 true
+T13	Software-Other 3198 3202	Save
+A14	isSettingsChanged T13 true
+R1	SubPart Arg1:T5 Arg2:T4	
+A16	isOpened T8 f->t
+A9	isOpened T9 f->t
+R2	SubPart Arg1:T10 Arg2:T7	
+T11	Software-Other 2187 2195	.profile
+A10	isOpened T11 f->t
+T12	Software-Other 2376 2393	Create a new line
+A12	isSettingsChanged T12 true
+T15	Software-Other 2557 2583	Enter the Java "Home" path
+A13	isSettingsChanged T15 true
+T16	Software-Other 3084 3109	Specify the PATH variable
+A17	isSettingsChanged T16 true
+T14	Software-OS-Related 3336 3343	Restart
+A15	isOpened T14 f->t
+R3	SubPart Arg1:T12 Arg2:T11	
+R4	SubPart Arg1:T15 Arg2:T11	
+R5	SubPart Arg1:T16 Arg2:T11	
+R6	SubPart Arg1:T13 Arg2:T11	

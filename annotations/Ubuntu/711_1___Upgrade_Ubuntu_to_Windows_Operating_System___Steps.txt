@@ -1,0 +1,21 @@
+Upgrade Ubuntu to Windows Operating System
+https://www.wikihow.com/Upgrade-Ubuntu-to-Windows-Operating-System
+
+0 - Steps
+
+1 - Insert the Windows installation disc and reboot the system.
+Insert the Windows installation disc and reboot the system. In the boot-up screen, press the key labeled to enter BIOS, i.e. Del, F1 or F10. In the BIOS, change the boot settings to allow the PC to boot from the optical drive, i.e. CD-ROM.
+- ;
+
+2 - Save the changed BIOS settings and restart the system.
+Save the changed BIOS settings and restart the system. Press the “Enter” key to boot from the CD and thereafter press the “F8” key to accept the terms and conditions to use Windows operating system.        Follow the instructions therein to load the partition manager.
+
+3 - Choose the partition that has Linux operating system and press the “D” key to delete the partition and “L” to confirm the process.
+Choose the partition that has Linux operating system and press the “D” key to delete the partition and “L” to confirm the process.   Repeat the same process until all partitions have been deleted from the system. Thereafter, the partition will be labeled as “unknown”.
+
+4 - Using the arrow keys, select the “Unknown” partition and press the “Enter” key to create a new partition in which to install Windows.
+Using the arrow keys, select the “Unknown” partition and press the “Enter” key to create a new partition in which to install Windows. When prompted for file system, choose NTFS and enter the size to use for the disc partition. If you want to have more than one partition enter half the size of the maximum value. Carry on with the process until all the required partitions have been created.
+
+5 - Select the primary partition, labeled ‘C’ to install Windows and press “Enter” to continue.
+Select the primary partition, labeled ‘C’ to install Windows and press “Enter” to continue. In the new screen that appears, enter a user name and password. These are required so as to create a secure administrator account. Thereafter, you will be prompted to enter the product key. The installation process will be carried on with automatically. Upon completion, reboot the PC.
+

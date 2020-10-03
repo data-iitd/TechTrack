@@ -1,0 +1,71 @@
+Increase Dedicated Video RAM on Windows Laptops with Intel Graphics
+https://www.wikihow.com/Increase-Dedicated-Video-RAM-on-Windows-Laptops-with-Intel-Graphics
+
+0 - Using the Registry Editor
+
+1 - Check if your computer's Video RAM can be increased.
+Check if your computer's Video RAM can be increased. Some Intel processors and integrated Intel graphics chipsets can't change the amount of Video RAM that is used. To see if your computer can increase the VRAM:
+- Go to the Intel Graphics Memory FAQ page.
+- Click What is the maximum amount of graphics memory my computer can use?
+- See if your computer's graphics processor is on the list.
+
+2 - Click the Windows Start  button.
+Click the Windows Start  button.  The Windows Start menu has the Windows logo.  By default, it's the button in the lower-right corner in the taskbar.
+
+3 - Type Regedit.
+Type Regedit.  This displays the Registry Editor command in the Start menu.
+
+4 - Click Regedit.
+Click Regedit.  It's next to an icon with blue cubes.  This opens the Registry Editor.
+- Making changes inside the Registry Editor can damage your system.  Be careful what you edit inside the Registry Editor.
+
+5 - Click HKEY_LOCAL_MACHINE.
+Click HKEY_LOCAL_MACHINE.  This displays a variety of sub-folders in the Registry Editor.
+
+6 - Click SOFTWARE.
+Click SOFTWARE.  This displays more sub-folders.
+
+7 - Right-click on Intel.
+Right-click on Intel.  This displays a pop-up menu next to "Intel".
+
+8 - Select New.
+Select New.  It's in the pop-up menu when you right-click on "Intel"  This displays another pop-up menu next to "New".
+
+9 - Click Key.
+Click Key.  This creates a new key file under "Intel".
+
+10 - Rename the key GMM.
+Rename the key GMM.  When you create a new key, it will be named "New Key #1" by default.  Press the Backspace key to erase the name, and then type "GMM" in capital letters.
+
+11 - Right-click GMM.
+Right-click GMM.  This is the key you just created.  Right-clicking displays the pop-up menu.
+
+12 - Select New.
+Select New.  This displays the pop-up menu.
+
+13 - Click DWORD (32 Bit) Value.
+Click DWORD (32 Bit) Value.  It's the third option in the "New" pop-up menu.  This creates a new value in GMM.
+
+14 - Rename the value DedicatedSegmentSize.
+Rename the value DedicatedSegmentSize.  By default, the new value is named "New Value #1".  Press the Backspace key to erase the name, and type "DedicatedSegmentSize" as the new name.
+
+15 - Double click on DedicatedSegmentSize.
+Double click on DedicatedSegmentSize.  This is the new value you just created.  Double-clicking on it will display a pop-up.
+
+16 - Click Decimal.
+Click Decimal.  It's the second option in the box labeled "Base" on the right side of the pop-up.  Click the radial button next to "Decimal" to select it.
+
+17 - Type a number under "Value Data".
+Type a number under "Value Data".  This is the number of megabytes you want to allocate as Video RAM.  If you have 8 gigabytes of RAM, you can allocate as much as 512 megabytes.  If you have more RAM, you can allocate more.
+
+18 - Click Ok.
+Click Ok.  This saves the value in the registry.[1]
+- X
+- Research source
+
+19 - Restart your computer.
+Restart your computer.  Use the following steps to restart your computer.  After your computer restarts, check your video RAM as outlined in Method 1.  The amount of allocated RAM will be reflected next to "Dedicated Memory".  This may not improve your system's performance, but if you have software that requires a certain amount of video memory to start, this will trick it into starting.
+- Click the Windows Start menu.
+- Click the icon that resembles a circle with a line through the top.
+- Click Restart.
+

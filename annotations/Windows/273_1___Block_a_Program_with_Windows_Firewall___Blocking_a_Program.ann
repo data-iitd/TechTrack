@@ -1,0 +1,22 @@
+T1	Software-OS-Related 139 144	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 242 250	Firewall
+A2	isOpened T2 f->t
+T3	Software-OS-Related 385 402	Advanced settings
+T4	Software-OS-Related 512 526	Outbound Rules
+A3	isOpened T4 f->t
+A4	isOpened T3 f->t
+T5	Software-OS-Related 608 616	New Rule
+A5	isOpened T5 f->t
+T6	Software-OS-Related 873 877	Next
+A6	isOpened T6 f->t
+T7	Software-OS-Related 772 779	Program
+T8	Software-OS-Related 1884 1888	Open
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1104 1116	click Browse
+A8	isOpened T9 f->t
+T10	Software-OS-Related 3022 3028	Finish
+A9	isOpened T10 f->t
+R2	SubPart Arg1:T3 Arg2:T2	
+R3	SubPart Arg1:T4 Arg2:T3	
+R1	SubPart Arg1:T10 Arg2:T3	

@@ -1,0 +1,25 @@
+Repair LCD Monitors
+https://www.wikihow.com/Repair-LCD-Monitors
+
+0 - Replacing the Backlight
+
+1 - Disconnect the power source.
+Disconnect the power source. Unplug the monitor or remove the battery from the laptop.
+
+2 - Open up the monitor.
+Open up the monitor. Unscrew the plastic case at each corner. Carefully pry apart the case with a plastic putty knife. Detach all components attached to the display panel, noting where each one goes.
+
+3 - Locate the backlight.
+Locate the backlight. These glass lights should be just behind the glass display. You may need to unscrew additional panels or gently pull back flexible covers in order to find them.
+- Some components can deliver a dangerous electric shock. Do not touch any circuit boards during your search, unless you are wearing rubber gloves.
+
+4 - Purchase exact replacements at an electronics store.
+Purchase exact replacements at an electronics store. If you're not sure what types of light they are, take a photograph and show it to the store employee. Measure the size of the lights as well, or note the size and model of your monitor.
+
+5 - Remove old lights and insert new ones.
+Remove old lights and insert new ones. Use caution if the backlight is a cold cathode fluorescent light (CCFL). These contain mercury and may require special disposal according to local laws.
+
+6 - Try additional repairs.
+Try additional repairs. If the monitor still won't light up, the problem may be with the circuit board powering the backlight. This is called an "inverter" board, and is usually located near the backlight, with one "cap" for each strip of lights. Order a replacement and carefully replace this component. For best results and minimum risk, follow a guide dedicated to your specific model.
+- Before you try this, confirm that the monitor still produces a visible image when you shine a light on the screen. If it has stopped displaying an image entirely, you may have not connected it correctly after the light replacement. Check thoroughly for loose connections.
+

@@ -1,0 +1,14 @@
+T1	Software-OS-Related 118 123	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 357 362	power
+A2	isOpened T2 f->t
+T3	Hardware-Devices 678 686	computer
+T4	Software-OS-Related 3723 3737	Command Prompt
+A3	isOpened T4 f->t
+T5	Software-OS-Related 4328 4338	charms bar
+A4	isOpened T5 f->t
+T6	Hardware-Devices 5072 5080	computer
+A5	isUsed T6 true
+A6	isUsed T3 true
+T7	Software-OS-Related 3741 3751	Powershell
+A7	isOpened T7 f->t

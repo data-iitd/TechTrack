@@ -1,0 +1,21 @@
+Show a Mac's Volume in the Menu Bar
+https://www.wikihow.com/Show-a-Mac%27s-Volume-in-the-Menu-Bar
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Sound.
+Click on Sound.
+
+4 - Click on the checkbox next to "Show volume in menu bar."
+
+
+4 - Click on the checkbox next to "Show volume in menu bar."
+
+

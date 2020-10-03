@@ -1,0 +1,56 @@
+Install Python on Windows
+https://www.wikihow.com/Install-Python-on-Windows
+
+0 - Installing Python 3
+
+1 - Go to https:__www.python.org_downloads.
+Go to https://www.python.org/downloads. The most recent version of Python will always appear on the "Download" button near the top of the page.
+- If you want to use Python 2, see the "Installing Python 2" method.
+- ;
+
+2 - Click Download Python <version>.
+Click Download Python <version>. If this does not start the download immediately, click Save on the pop-up window to start it.
+- Python 3.7 and newer will run on any Windows operating system except Windows XP. If you need to install Python 3 on XP, scroll down and click Download next to the most recently-updated version of Python 3.4.[1]
+- X
+- Research source
+
+3 - Run the installer.
+Run the installer. You can do so by double-clicking python-<version>.exe in your Downloads folder.
+
+4 - Check the box next to "Add Python <version> to PATH.
+Check the box next to "Add Python <version> to PATH." It's at the bottom of the window.
+- If you don't see this option, you'll need to complete this method after you finish installing Python.
+
+5 - Click Customize installation.
+Click Customize installation. It's the second blue link on the window.
+
+6 - Review the installation options and click Next.
+Review the installation options and click Next. All of Python's features are selected by default. Unless you have a specific need to skip installing any part of this package, just leave these settings alone.
+
+7 - Check the box next to "Install for all users.
+Check the box next to "Install for all users." If you're a system administrator, this option ensures that other users on this computer are able to use Python. This also changes the installation location to the Program Files\(x86)\Python(version) instead of your personal library.
+- If you didn't have the option to select "Add Python <version> to PATH" earlier, make note of the installation directory that appears here. You'll need to add it to your system variables after installing.
+- If you don't want anyone else on the computer to be able to use Python, you can leave the box unchecked.
+
+8 - Click Install.
+Click Install. It's at the bottom of the window.
+
+9 - Click Yes to confirm.
+Click Yes to confirm. This installs Python on your PC. Once the installation is complete, you'll see a "Setup was successful" window—don't close it just yet.
+
+10 - Click Disable path length limit.
+Click Disable path length limit. It's toward the bottom of the "Setup was successful" window. This final step ensures that Python (and other apps) to use paths more than 260 characters in length.
+
+11 - Click Yes to confirm.
+Click Yes to confirm. Python is now installed and ready to use.
+
+12 - Click Close to exit the installer.
+Click Close to exit the installer.
+
+13 - Test your Python installation.
+Test your Python installation. Here's how to make sure the path is set up properly:
+- Type cmd into the Windows search bar and press ↵ Enter.
+- Type python and press ↵ Enter. You should see >>> at the beginning of the current line. This means Python is working and the path is set correctly.
+- If you see an error that says "python is not recognized as an internal or external command," see the "Adding the Python Path to Windows" method.
+- Type exit() to return to the command prompt.
+

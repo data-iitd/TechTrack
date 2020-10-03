@@ -1,0 +1,27 @@
+Do Squared on a Keyboard
+https://www.wikihow.com/Do-Squared-on-a-Keyboard
+
+0 - Using Gboard on a Phone or Tablet
+
+1 - Download Gboard from the Google Play Store or App Store.
+Download Gboard from the Google Play Store or App Store. This free keyboard (developed by Google) is available for Android and Apple phones and tablets. Since the iPhone/iPad keyboard does not allow you to enter the squared symbol, you'll need Gboard (or another keyboard app).
+- Gboard might be a system default keyboard for some Android phones and tablets.
+- ;
+
+2 - Make Gboard your default keyboard.
+Make Gboard your default keyboard.
+- If you're using an iPhone or iPad, go to Settings > General > Keyboard > Edit and add Gboard to the list of keyboards.
+- If you're using Android, go to Settings > System > Language and Input > Manage Keyboards and tap the switch next to Gboard to enable it.
+
+3 - Open a text editing app.
+Open a text editing app. You can open any app that allows typing, such as Google Docs, Notes, or your text messaging app.
+
+4 - Tap the typing area to open the keyboard.
+Tap the typing area to open the keyboard.
+
+5 - Press and hold the 2 on your keyboard.
+Press and hold the 2 on your keyboard. When you press and hold, you'll see the superscript or squared 2 pop-out above your finger.
+
+6 - Press the pop-out ² key.
+Press the pop-out ² key. You'll see the squared number appear in the text field where your cursor is.
+

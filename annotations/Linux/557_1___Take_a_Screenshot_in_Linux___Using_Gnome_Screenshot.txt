@@ -1,0 +1,28 @@
+Take a Screenshot in Linux
+https://www.wikihow.com/Take-a-Screenshot-in-Linux
+
+0 - Using Gnome Screenshot
+
+1 - Press .
+Press .PrtScn to take a full-screen screenshot. The screenshot will show everything in your display. You will be prompted to select where you would like to save the screenshot file.
+- The Print Screen key is located at the top of the keyboard, usually between F12 and ScrLk. It may be labeled "Print Screen", "PrtScn", "PrntScrn", or something else similar.
+- ;
+
+2 - Press .
+Press .Alt+PrtScn to take a screenshot of a window. This shortcut will create a screenshot of your active window. The file will be created in your Pictures folder.
+
+3 - Press .
+Press .⇧ Shift+PrtScn to select what you capture. You'll be able to click and drag a selection box to determine what is captured in the screenshot. A file with the image you captured will be created in your Pictures folder.
+
+4 - Open the Screenshot utility.
+Open the Screenshot utility. The Gnome Screenshot utility allows you to perform some additional screenshot functions, such as adding a delay. You can find the Screenshot utility in the Accessories folder of your Applications menu.
+
+5 - Select your screenshot type.
+Select your screenshot type. You can choose from any of the options outlined above.
+
+6 - Add a delay.
+Add a delay. If your screenshot is time-dependent, you can use the Screenshot utility to add a delay before the screenshot is captured. This will allow you to make sure the right content is on the screen.
+
+7 - Select your effects.
+Select your effects. You can choose to include your mouse pointer in the screenshot, as well as whether or not you want to add a border to the screenshot.
+

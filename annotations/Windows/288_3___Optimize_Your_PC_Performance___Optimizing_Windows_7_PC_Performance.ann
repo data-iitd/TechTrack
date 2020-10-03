@@ -1,0 +1,25 @@
+T1	Software-OS-Related 324 329	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 386 402	Cleanmgr program
+A2	isOpened T2 f->t
+T3	Software-OS-Related 697 702	Start
+A3	isOpened T3 f->t
+T4	Software-OS-Related 724 737	Control Panel
+A4	isOpened T4 f->t
+T5	Software-OS-Related 813 841	Check for performance issues
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1481 1486	Start
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1508 1521	Control Panel
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1534 1542	Programs
+A8	isOpened T8 f->t
+R2	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 2624 2629	Start
+A9	isOpened T9 f->t
+T10	Software-OS-Related 2693 2710	Disk Defragmenter
+A10	isOpened T10 f->t
+T11	Software-OS-Related 2786 2798	Analyze disk
+A11	isOpened T11 f->t
+R3	SubPart Arg1:T11 Arg2:T10	

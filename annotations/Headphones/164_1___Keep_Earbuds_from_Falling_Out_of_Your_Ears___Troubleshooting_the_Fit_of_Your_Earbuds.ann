@@ -1,0 +1,15 @@
+T2	Hardware-Other 174 178	cord
+T1	Hardware-Devices 252 259	earbuds
+T3	Hardware-Devices 599 603	buds
+A1	isPowered T3 f->t
+T4	Hardware-Devices 667 674	Earbuds
+*	Equiv T3 T4
+T5	Hardware-Other 1062 1073	attachments
+T7	Hardware-Other 1181 1185	foam
+T9	Hardware-Other 1189 1197	silicone
+T10	Hardware-Other 1487 1498	attachments
+T12	Hardware-Other 1903 1915	cotton swabs
+T8	Hardware-Devices 1578 1585	earbuds
+T14	Hardware-Other 2217 2223	Q-tips
+T6	Hardware-Devices 1094 1101	earbuds
+T13	Hardware-Devices 2198 2205	earbuds

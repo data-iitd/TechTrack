@@ -1,0 +1,56 @@
+Solve Common Printer Problems
+https://www.wikihow.com/Solve-Common-Printer-Problems
+
+0 - Addressing Issues in Quality
+
+1 - Clean your printer heads to avoid blurry text and images.
+Clean your printer heads to avoid blurry text and images. You can access most printer maintenance options by choosing print from any window and clicking on the properties menu located next to the name of the appropriate printer. Choose the maintenance tab and find the option to check nozzles. If the lines that print are blurred or broken, select the print head cleaner icon to clean away dried ink, dirt, and dust.[6]
+- X
+- Research source
+- 
+- 
+- If necessary, you can also easily remove the printer heads and clean them with a little water or isopropyl alcohol.
+- Be sure to test and clean your print heads often (i.e., once every few months) to avoid build-up.
+
+2 - Swap out your ink cartridges when you can’t print at all.
+Swap out your ink cartridges when you can’t print at all. If you have “low ink level” alerts and missing or non-existent text, you may need to replace your ink cartridges. However, you can wait a few weeks until your printer is completely unable to print before actually installing new cartridges to get the most out of your existing ink.[7]
+- X
+- Research source
+- 
+- 
+- Each printer calls for a specific ink cartridge type, so please follow the directions provided in your printer manual to properly replace your particular cartridge.
+- These directions can typically be found by opening up the printer cover; on or in the cartridge or toner package; or onscreen when you computer alerts you to low ink levels.
+- Remember that infrequent printer use can also cause pages to print incorrectly or not at all because of dried up ink or cartridges that have "settled".
+
+3 - Replace toner cartridges if they get too low.
+Replace toner cartridges if they get too low. Like ink, your toner levels will also eventually get to a low level that will require you to replace them. However, also like ink, you don’t need to immediately replace your toner if your printer gives you a “low toner” warning or your printings are faded. Instead, wait until your printouts are completely blank before swapping out your toner cartridges.[8]
+- X
+- Research source
+- 
+- Sometimes you can “squeeze” a little more toner out of the cartridge by opening the printer’s toner cartridge bay, removing the cartridge, and shaking it back and forth to loosen up the toner that is still in the cartridge.
+
+4 - Stick to the recommended ink and toner types.
+Stick to the recommended ink and toner types. Generally, your printer’s manufacturer will intend for the printer to be used with a specific type of toner and type of ink. Use only these recommended types to ensure your printer functions the way it was built to and to avoid any issues that might arise from using the wrong ink.[9]
+- X
+- Research source
+- 
+- 
+- When shopping for ink cartridges, look for those that are marked “OEM,” which stands for Original Equipment Manufacturer. These cartridges are built by the same company that built the printer itself and offer the best quality of ink.
+- “Compatible Cartridges,” meanwhile, are those that have been built by third-party companies for use in a wider range of modern printers. Although these tend to be cheaper than OEM cartridges, their ink quality also tends to be less reliable.
+
+5 - Match the type of paper to what you’re printing.
+Match the type of paper to what you’re printing. For example, if you’re printing high quality photos, use glossy paper instead of draft quality paper. You should also use the type of paper that the printer manufacturer recommends you use with its printer to avoid unforeseen issues in quality.[10]
+- X
+- Research source
+- 
+- If you’re unsure what type of paper or ink you should be using, consult the manufacturer’s website or contact customer service for more information on your specific printer model.
+
+6 - Tweak the print quality on your computer’s printer settings as needed.
+Tweak the print quality on your computer’s printer settings as needed. To some extent, the quality of each individual print job is determined by the settings you set either directly on your printer or on your computer.[11]
+- X
+- Research source
+- 
+- 
+- For example, if you’re trying to print high quality photos, selecting plain paper settings on your computer will result in very low quality printouts.
+- You can usually change printer settings on your computer in the pop-up window as you go to print something, though some settings can also be changed on the printer itself.
+

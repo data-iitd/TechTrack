@@ -1,0 +1,22 @@
+T1	Software-Other 186 210	https://www.dropbox.com/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 256 278	Sign up for an account
+A3	isSettingsChanged T2 true
+T3	Software-Other 383 391	Download
+A4	isOpened T3 f->t
+T4	Software-Other 428 437	installer
+A5	isInstalled T4 f->t
+A6	isOpened T4 f->t
+T5	Software-OS-Related 466 483	Sign into the app
+A7	isOpened T5 f->t
+T6	Software-Other 527 539	Dropbox menu
+A8	isOpened T6 f->t
+T7	Software-Other 641 660	Open Dropbox Folder
+A9	isOpened T7 f->t
+T8	Software-Other 994 1018	https://www.dropbox.com/
+A10	isOpened T8 f->t
+A11	isInstalled T8 start-F
+T9	Software-Other 1161 1192	Sign in to your Dropbox account
+A12	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T8	

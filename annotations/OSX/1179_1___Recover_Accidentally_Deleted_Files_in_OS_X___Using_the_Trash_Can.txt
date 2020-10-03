@@ -1,0 +1,24 @@
+Recover Accidentally Deleted Files in OS X
+https://www.wikihow.com/Recover-Accidentally-Deleted-Files-in-OS-X
+
+0 - Using the Trash Can
+
+1 - Open the Trash Can app.
+Open the Trash Can app. Double-click the wastebasket-shaped app icon in your Mac's Dock. This will open the Trash Can window.
+- ;
+
+2 - Look for your deleted files.
+Look for your deleted files. Scroll through the Trash Can to look for the files, or type a file's name into the search bar that's in the top-right corner of the window.
+- If you can't find your deleted files, you'll need to use Time Machine to attempt to restore them.
+
+3 - Select deleted files.
+Select deleted files. Click and drag your mouse across a group of files to select them all, or hold ⌘ Command and click individual files to select them independently.
+- If you want to select every file in Trash Can, click a file, then press ⌘ Command and A at the same time.
+
+4 - Click File.
+Click File. It's a menu item in the top-left corner of the screen. A drop-down window will appear.
+
+5 - Click Put Back.
+Click Put Back. This option is in the File drop-down menu. Doing so will send your selected files back to their original location(s).
+- If the Put Back option is greyed out, you'll need to click and drag the selected files from the Trash Can window onto the desktop and then drop them there.
+

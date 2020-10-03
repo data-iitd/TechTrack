@@ -1,0 +1,25 @@
+Uninstall Ubuntu Software
+https://www.wikihow.com/Uninstall-Ubuntu-Software
+
+0 - Uninstalling Programs with Ubuntu Software
+
+1 - Open Ubuntu Software.
+Open Ubuntu Software. Its app icon resembles an orange suitcase with a white "A" on it. Ubuntu Linux comes with this built-in software manager, allowing you to remove programs in just a few clicks.
+- If you can't find Ubuntu Software, click the Ubuntu logo in the upper-left corner of the screen, type ubuntu software into the search bar, and click the Ubuntu Software app icon.
+
+2 - Click the Installed tab.
+Click the Installed tab. This computer-shaped tab is at the top of the Ubuntu Software window.
+
+3 - Find the program that you want to uninstall.
+Find the program that you want to uninstall. Scroll through the list of installed programs until you arrive at the one that you want to uninstall, or type the name of an installed program into the search bar in the top-right corner of the window.
+
+4 - Click Remove.
+Click Remove. It's to the right of the program that you want to uninstall.
+
+5 - Confirm the decision if prompted.
+Confirm the decision if prompted. If asked to confirm, click Remove again, or click OK.
+- The prompt that you see may vary slightly depending on your version of Ubuntu.
+
+6 - Close Ubuntu Software.
+Close Ubuntu Software. Your program should now be uninstalled.
+

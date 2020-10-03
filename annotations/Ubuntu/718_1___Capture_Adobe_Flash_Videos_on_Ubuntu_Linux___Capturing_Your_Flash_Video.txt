@@ -1,0 +1,34 @@
+Capture Adobe Flash Videos on Ubuntu Linux
+https://www.wikihow.com/Capture-Adobe-Flash-Videos-on-Ubuntu-Linux
+
+0 - Capturing Your Flash Video
+
+1 - Start up your Firefox web browser and go to a site which has embedded flash videos in it.
+Start up your Firefox web browser and go to a site which has embedded flash videos in it.
+
+2 - Allow the Flash video to play_load in the web browser until it is completely loaded into the browsers cache.
+Allow the Flash video to play/load in the web browser until it is completely loaded into the browsers cache. You can tell the video has completely loaded by the grey bar at the bottom of the Flash video, which will usually indicate the load and completion of the video.  Once the grey bar load cycle is complete and 100% of the video has been loaded it's time to capture the video stored in your web browsers cache.
+
+3 - Keep your Firefox web browser open with the video completely loaded.
+Keep your Firefox web browser open with the video completely loaded. Return to your open terminal and run the FlashVideoCapture.pl script by issuing the following command:
+- Type: cd /home/"your_user_name"/Videos
+- This will change you into your Videos directory, make sure you are in the Videos directory and you have the FlashVideoCapture.pl script in this directory.
+- Type: ./FlashVideoCapture.pl
+- This command will execute the FlashVideoCapture.pl script and capture the *.flv video files to your /home/"your_user_name"/Videos directory.
+
+4 - Review the results.
+Review the results. If this was done correctly, you will see a statement such as this:
+- /proc/13509/fd/28 -> foundflash.1.flv
+- This means the flash video was captured as foundflash1.flv. In order to view the video you can use the VLC mediaplayer to view the captured *.flv file.
+
+5 - Play back your captured *.flv video files.
+Play back your captured *.flv video files. Make sure you are in the /home/"your_user_name"/Videos directory before running the following commands.
+- Type: cd /home/"your_user_name"/Videos
+- Type: vlc foundflash1.flv.
+- or
+- Type: vlc  *.flv
+- This will playback all *.flv video files stored in your /home/"your_user_home"/Videos directory.
+
+6 - Rename the foundflash1.flv to anything you like.
+Rename the foundflash1.flv to anything you like. So that you can view the captured *.flv video over and over again using the VLC media player without loading it from your Firefox web browser.
+

@@ -1,0 +1,28 @@
+T1	Hardware-Devices 558 562	iPod
+T2	Software-OS-Related 624 629	mount
+T3	Software-OS-Related 644 671	mount /dev/sdc2 /media/ipod
+T4	Hardware-Devices 696 700	iPod
+T5	Software-Other 100 124	iPod management software
+T6	Software-Other 250 256	Floola
+T7	Hardware-Other 274 280	AmaroK
+T8	Software-Other 326 332	gtkpod
+T9	Software-Other 344 351	gPodder
+T10	Software-Other 363 372	Rhythmbox
+T11	Software-Other 384 390	aTunes
+T12	Software-Other 435 442	Yamipod
+T13	Software-Other 487 494	Banshee
+T14	Software-Other 965 989	iPod management software
+A1	isOpened T14 f->t
+T15	Hardware-Devices 1022 1026	iPod
+T16	Software-Other 1269 1276	Connect
+T17	Software-Other 1562 1572	Disconnect
+T18	Hardware-Devices 1593 1597	iPod
+A2	isConnected T18 t->f
+T19	Software-Other 1332 1337	files
+T20	Software-Other 1359 1367	playlist
+A3	isConnected T15 f->t
+T21	Software-Other 1425 1433	Transfer
+A4	isSettingsChanged T21 true
+R1	SubPart Arg1:T21 Arg2:T20	
+T22	Hardware-Devices 1782 1786	iPod
+T23	Software-OS-Related 1800 1816	OK to Disconnect

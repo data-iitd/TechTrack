@@ -1,0 +1,10 @@
+T1	Software-OS-Related 162 169	Cortana
+A1	isOpened T1 f->t
+T2	Software-OS-Related 244 245	☰
+A2	isOpened T2 f->t
+T3	Software-OS-Related 372 380	Notebook
+A3	isOpened T3 f->t
+T4	Software-OS-Related 708 717	Reminders
+T5	Software-OS-Related 1010 1014	Back
+T6	Software-OS-Related 110 124	Cortana window
+A4	isOpened T6 f->t

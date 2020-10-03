@@ -1,0 +1,42 @@
+Change Mouse Sensitivity on Windows
+https://www.wikihow.com/Change-Mouse-Sensitivity-on-Windows
+
+0 - Steps
+
+1 - Click the  menu.
+Click the  menu. It’s usually at the bottom-left corner of the screen.
+- ;
+
+2 - Click  Settings.
+Click  Settings.
+
+3 - Click Devices.
+Click Devices.
+
+4 - Click Mouse & touchpad.
+Click Mouse & touchpad. It’s near the center of the left column.
+
+5 - Click Additional mouse options.
+Click Additional mouse options. It’s the blue link beneath the “Related settings” header. This launches the Mouse Properties panel.
+
+6 - Click the Buttons tab.
+Click the Buttons tab. It’s the first tab along the top of the window. This is where you can adjust the sensitivity of the double-click feature.
+
+7 - Adjust your double-click speed.
+Adjust your double-click speed. If you want to increase or decrease the rate at which a double-click is registered, use the “Speed” slider.
+
+8 - Click the Pointer Options tab.
+Click the Pointer Options tab.
+
+9 - Drag the “Motion” slider to the desired speed.
+Drag the “Motion” slider to the desired speed. A higher speed increases sensitivity, while a lower speed enhances precision.
+
+10 - Enable (or disable) enhanced pointer precision.
+Enable (or disable) enhanced pointer precision. Pointer precision lets the mouse movement match the speed of your hand on the mouse (or your finger on the trackpad). Check the box if you want to enable this feature, or remove the check to disable it.
+
+11 - Click Apply.
+Click Apply. It’s the button at the bottom-right corner of the window. This saves your new settings.
+
+12 - Click OK.
+Click OK. Your mouse sensitivity is now adjusted.
+

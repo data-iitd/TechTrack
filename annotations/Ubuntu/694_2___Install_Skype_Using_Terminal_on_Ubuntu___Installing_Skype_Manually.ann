@@ -1,0 +1,15 @@
+T1	Software-OS-Related 215 223	terminal
+A1	isOpened T1 f->t
+T2	Software-Other 569 584	Skype with wget
+A2	isOpened T2 f->t
+T3	Software-Other 956 983	Multiarch for 64-bit Ubuntu
+A4	isInstalled T3 f->t
+T4	Software-Other 1259 1278	sudo apt-get update
+A5	isSettingsChanged T4 true
+T6	Software-Other 1795 1816	required dependencies
+A7	isInstalled T6 f->t
+T7	Software-Other 2141 2146	skype
+A8	isOpened T7 f->t
+T8	Software-Other 1357 1362	Skype
+A3	isInstalled T8 f->t
+R1	SubPart Arg1:T4 Arg2:T3	

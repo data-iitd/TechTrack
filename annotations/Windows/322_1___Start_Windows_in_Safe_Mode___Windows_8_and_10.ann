@@ -1,0 +1,14 @@
+T1	Software-OS-Related 831 846	start-up screen
+T2	Software-OS-Related 1087 1097	power icon
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1299 1306	Restart
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 1683 1695	Troubleshoot
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1838 1854	Advanced options
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1931 1947	Startup Settings
+A5	isOpened T6 f->t
+T7	Software-OS-Related 2071 2078	Restart
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T4	

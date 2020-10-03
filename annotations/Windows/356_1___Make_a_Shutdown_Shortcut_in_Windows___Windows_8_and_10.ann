@@ -1,0 +1,20 @@
+T1	Software-OS-Related 133 145	Desktop Mode
+A1	isOpened T1 f->t
+T3	Software-OS-Related 493 496	New
+A3	isOpened T3 f->t
+T4	Software-OS-Related 516 524	Shortcut
+A2	isOpened T4 f->t
+T2	Software-OS-Related 1471 1481	Properties
+A4	isOpened T2 f->t
+T5	Software-OS-Related 1492 1500	Shortcut
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1515 1527	Change Icon…
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1656 1661	Start
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1670 1677	taskbar
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1847 1859	Pin to Start
+A9	isSettingsChanged T9 true
+T10	Hardware-Devices 1992 2000	computer
+A10	isUsed T10 true

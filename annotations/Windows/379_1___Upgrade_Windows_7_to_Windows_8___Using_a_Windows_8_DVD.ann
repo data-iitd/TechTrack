@@ -1,0 +1,12 @@
+T1	Hardware-Other 144 147	DVD
+T2	Software-OS-Related 466 494	Download and Install Updates
+A1	isOpened T2 f->t
+T3	Software-OS-Related 570 574	Next
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1160 1186	I accept the license terms
+A3	isSettingsChanged T4 true
+T5	Software-OS-Related 1270 1276	Accept
+A4	isSettingsChanged T5 true
+T6	Software-OS-Related 1846 1853	install
+T7	Software-OS-Related 2101 2121	Use Express Settings
+A5	isOpened T7 f->t

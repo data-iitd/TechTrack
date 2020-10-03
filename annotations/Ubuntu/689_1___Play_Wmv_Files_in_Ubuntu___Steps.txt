@@ -1,0 +1,37 @@
+Play Wmv Files in Ubuntu
+https://www.wikihow.com/Play-Wmv-Files-in-Ubuntu
+
+0 - Steps
+
+1 - Download and install the VLC video player.
+Download and install the VLC video player. This free, open-source player can handle almost any format you throw at it. On many newer computers, you can play WMV files straight from VLC with no extra work, so this may be the only step you need to take. To download VLC:
+- Download the app directly from the Ubuntu store by following this link.
+- Open your Terminal application and type in "sudo apt-get install vlc" (without quotes). Provide your account password when prompted to begin installation.[1]
+- X
+- Research source
+- 
+- 
+- ;
+
+2 - Unlock the "Restricted Extras" package from Ubuntu to unlock WMV files.
+Unlock the "Restricted Extras" package from Ubuntu to unlock WMV files. If they still don't play through the VLC player, you'll need to get the Ubuntu-provided codec for your computer. However, you should know that they are restricted for a reason. Due to ongoing restrictions from Microsoft, it may be illegal to play certain file types. This is not an issue for 99.9% of people, but it could theoretically be a problem for a business. If you're looking for a complete legal workaround:
+- You can buy the codecs from Fluendo, a European company with legal licenses.[2]
+- X
+- Research source
+
+3 - Open your Terminal app, or another terminal emulator.
+Open your Terminal app, or another terminal emulator. The terminal is the basic, black and white box where you can type in code to manage your computer. It is usually labeled "Terminal," though you may have a different program that accomplishes the same thing.
+
+4 - Type "sudo apt-get install ubuntu-restricted-extras" into the Terminal and hit enter.
+Type "sudo apt-get install ubuntu-restricted-extras" into the Terminal and hit enter. Note that you do not want the quote marks, just the words. Hit enter when you're done.
+
+5 - When prompted, input your password and hit enter.
+When prompted, input your password and hit enter. The password should be the administrative password of the account or computer. If you don't have a password, type "password" (no quotes) or leave it blank.
+- Note that this password will not appear as "******" so everyone can see your password if you're not careful.
+
+6 - Follow the installation instructions to download the Restricted Extras.
+Follow the installation instructions to download the Restricted Extras. These codecs will now allow you to play any WMV file you want. The installation should begin immediately.
+
+7 - Play the WMV file in your VLC player.
+Play the WMV file in your VLC player. Once you've got the codecs, you're ready to start playing WMVs. Note that you can use other video players as well, such as Ubuntu's own Totem. VLC, however, is an open source program that updates new codecs frequently, including ones that aren't normally supported by Ubuntu, like WMVs.
+

@@ -1,0 +1,38 @@
+Install FFmpeg on Windows
+https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+0 - Enabling FFmpeg in the Command Line
+
+1 - Click This PC.
+Click This PC. It's a folder on the left side of the window, though you may need to scroll up to find it. This will take you back to the This PC folder.
+- If you closed File Explorer, click Start , type in this pc, and click This PC at the top of the Start menu.
+
+2 - Click Computer.
+Click Computer. This tab is in the upper-left side of the This PC window.
+
+3 - Click Properties.
+Click Properties. It's a red checkmark on a white box that you'll find in the upper-left side of the window. Doing so opens the Properties window.
+
+4 - Click Advanced system settings.
+Click Advanced system settings. This link is in the upper-left side of the Properties window. A new window will open.
+
+5 - Click Environment Variables….
+Click Environment Variables…. You'll find this button near the bottom of the window. Doing so opens yet another window.
+- If you don't see this option, first click the Advanced tab at the top of the window.
+
+6 - Double-click the Path value.
+Double-click the Path value. You'll find this value in the "User variables for [name]" section at the top of the window. This will open the Path variable's window.
+- If you don't see the Path entry, try scrolling up or down with your mouse cursor in the "User variables" section.
+- If you want to enable FFmpeg for all users on this computer, you'll instead double-click Path in the "System variables" section near the bottom of the window.
+
+7 - Click New.
+Click New. It's on the right side of the window. This will create a new text field in the window.
+
+8 - Enter the path to the "FFmpeg" library.
+Enter the path to the "FFmpeg" library. Type C:\FFmpeg\bin into the text field, then click OK.[1]
+- X
+- Research source
+
+9 - Click OK on both open windows.
+Click OK on both open windows. At this point, FFmpeg is enabled for Command Prompt, though you're free to test FFmpeg to ensure that it installed correctly.
+

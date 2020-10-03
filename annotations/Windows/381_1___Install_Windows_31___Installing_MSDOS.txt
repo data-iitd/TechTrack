@@ -1,0 +1,40 @@
+Install Windows 3.1
+https://www.wikihow.com/Install-Windows-3.1
+
+0 - Installing MS-DOS
+
+1 - Insert the MS DOS Setup #1 floppy disk.
+Insert the MS DOS Setup #1 floppy disk.;
+
+2 - Start up the computer.
+Start up the computer.
+
+3 - Press ↵ Enter.
+Press ↵ Enter.
+
+4 - If your hard drive is unallocated, select the 'Configure unallocated disk space.
+If your hard drive is unallocated, select the 'Configure unallocated disk space.' Press ↵ Enter.
+- If you do have an allocated hard drive, select that partition and press ↵ Enter.
+
+5 - Ensure the setup floppy disk is inserted and press ↵ Enter to continue.
+Ensure the setup floppy disk is inserted and press ↵ Enter to continue.
+
+6 - Check that the following settings are correct before pressing  ↵ Enter to continue.
+Check that the following settings are correct before pressing  ↵ Enter to continue.
+
+7 - Choose a directory to install MS-DOS.
+Choose a directory to install MS-DOS.
+- It is recommended to leave the directory where the computer recommends.
+
+8 - Remove the Setup #1 floppy disk and insert the Setup #2 floppy disk and press ↵ Enter to continue.
+Remove the Setup #1 floppy disk and insert the Setup #2 floppy disk and press ↵ Enter to continue.
+
+9 - Remove the Setup #2 floppy disk and insert the Setup #3 floppy disk and press ↵ Enter to continue.
+Remove the Setup #2 floppy disk and insert the Setup #3 floppy disk and press ↵ Enter to continue.
+
+10 - Remove all floppy disks and press ↵ Enter.
+Remove all floppy disks and press ↵ Enter.
+
+11 - Restart your computer by pressing ↵ Enter.
+Restart your computer by pressing ↵ Enter.
+

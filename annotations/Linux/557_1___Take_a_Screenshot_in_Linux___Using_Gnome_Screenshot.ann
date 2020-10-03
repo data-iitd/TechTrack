@@ -1,0 +1,23 @@
+T4	Software-OS-Related 549 555	window
+T5	Software-OS-Related 652 667	Pictures folder
+T6	Software-OS-Related 623 627	file
+T13	Software-Other 979 1003	Gnome Screenshot utility
+T14	Software-OS-Related 1131 1149	Accessories folder
+T15	Software-OS-Related 1158 1175	Applications menu
+T17	Software-OS-Related 1081 1086	delay
+T19	Software-OS-Related 1340 1350	screenshot
+T20	Hardware-Devices 1516 1522	screen
+T22	Software-OS-Related 1605 1618	mouse pointer
+T23	Software-OS-Related 1626 1636	screenshot
+T12	Software-Other 925 943	Screenshot utility
+A1	isOpened T12 f->t
+*	Equiv T13 T12
+T16	Software-Other 1196 1211	screenshot type
+A4	isSettingsChanged T16 true
+R1	SubPart Arg1:T16 Arg2:T13	
+T21	Software-Other 1543 1550	effects
+A3	isSettingsChanged T21 true
+R2	SubPart Arg1:T21 Arg2:T13	
+T18	Software-Other 1311 1316	delay
+A2	isSettingsChanged T18 true
+R3	SubPart Arg1:T18 Arg2:T13	

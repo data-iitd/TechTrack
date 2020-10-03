@@ -1,0 +1,14 @@
+T1	Software-OS-Related 217 226	Configure
+A1	isOpened T1 f->t
+T2	Software-OS-Related 899 907	Continue
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1001 1029	Accept the license agreement
+T4	Software-OS-Related 1552 1559	Typical
+T5	Software-OS-Related 2427 2460	Install the most common component
+T6	Software-OS-Related 2797 2799	No
+T8	Hardware-Other 2937 2949	floppy disks
+T9	Hardware-Other 3709 3716	printer
+T10	Hardware-Devices 3882 3890	computer
+A4	isUsed T10 true
+T7	Software-OS-Related 3901 3903	OK
+A3	isSettingsChanged T7 true

@@ -1,0 +1,29 @@
+Uninstall All Windows Updates
+https://www.wikihow.com/Uninstall-All-Windows-Updates
+
+0 - Uninstalling Updates
+
+1 - Boot into Safe Mode.
+Boot into Safe Mode. You'll have the best success removing Windows updates if you are running Safe Mode:
+- Windows 7 and earlier - Reboot your computer and hold F8. Select "Safe Mode" from the menu that appears.
+- Windows 8 and later - Click the Power button in the Start menu or screen. Hold ⇧ Shift and click "Restart." Select "Troubleshoot" → "Advanced options" → "Windows Startup settings" and then click "Restart." Select "Safe Mode" from the menu.
+- ;
+
+2 - Open the "Programs and Features" window.
+Open the "Programs and Features" window. Once you're in Safe Mode, you'll need to open the Programs and Features window from the Control Panel:
+- Windows 7 and earlier - Open the Start menu and select "Control Panel." Select "Programs" or "Programs and Features" (depending on your view settings).
+- Windows 8 and later - Right-click on the Windows button and select "Programs and Features."
+
+3 - Click the "View installed updates" link.
+Click the "View installed updates" link. This can be found in the left menu. A list of installed updates will be displayed.
+
+4 - Find the update you want to remove.
+Find the update you want to remove. The "Installed on" column can help you find the update that started causing your computer troubles. Windows updates are listed in the "Microsoft Windows" section towards the bottom of the list.
+
+5 - Select the update and click "Uninstall."
+Select the update and click "Uninstall." You'll be prompted to confirm that you want to remove the update. After confirming, the update will be removed. You can repeat this for any other updates you want to get rid of.[1]
+- X
+- Research source
+- 
+- If Windows is set to update automatically, the updates you delete will likely download and install on their own again. You'll need to disable automatic updates in Windows Update to prevent installing these specific updates.
+

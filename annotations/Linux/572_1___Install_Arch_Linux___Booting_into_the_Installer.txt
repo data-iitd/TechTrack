@@ -1,0 +1,41 @@
+Install Arch Linux
+https://www.wikihow.com/Install-Arch-Linux
+
+0 - Booting into the Installer
+
+1 - Back up your computer
+Back up your computer to an external hard drive. You'll be erasing your current operating system, so make sure that you have a backup of anything that you want to keep before continuing.
+- ;
+
+2 - Download the Arch installation image.
+Download the Arch installation image. Arch Linux can be downloaded in ISO format, from which point you can burn it onto a blank DVD in order to run the image on your computer. To download this image:
+- Make sure that you have either BitTorrent or uTorrent installed.
+- Go to https://www.archlinux.org/download/ in your browser.
+- Click the Torrent link below the "BitTorrent" heading.
+- Open the downloaded torrent in BitTorrent or uTorrent.
+- Wait for the Arch Linux torrent file to finish downloading.
+
+3 - Burn the image onto a blank DVD
+Burn the image onto a blank DVD. Once your Arch Linux ISO file finishes downloading via your torrent client, you'll burn it onto a blank DVD using your computer's DVD drive. Once the burning is complete, leave the DVD in your computer.
+- If your computer doesn't have a DVD drive, you'll need to buy an external DVD drive and attach it to your computer via USB cable.
+
+4 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the menu.
+- On a Mac, you'll instead click the Apple menu , click System Preferences..., click Startup, click External Drive, and then restart by clicking Restart... in the Apple menu and clicking Restart when prompted.
+
+5 - Press the key that allows you to change the boot order.
+Press the key that allows you to change the boot order. On most newer computers, this is F12, though the exact key should be displayed on the screen during boot up. If there is no key to change boot order, press the BIOS Setup key (usually F1, F2, F10, or Del).
+- Skip this step on a Mac.
+
+6 - Select your installation drive as the primary boot drive.
+Select your installation drive as the primary boot drive. Set the drive (e.g., "DVD Drive" or "Disk Drive") that contains your Arch Linux DVD as the primary drive by selecting it and pressing the + key until it's at the top of the menu.
+- Skip this step on a Mac.
+- On some PCs, you may first have to open an "Advanced" tab or select a "Boot Options" section.
+
+7 - Save and exit the "Boot Options" screen.
+Save and exit the "Boot Options" screen. You should see a key at the bottom or in the bottom-right corner of the screen that you can press to save and exit. After doing so, your computer will resume restarting.
+- Skip this step on a Mac.
+
+8 - Select Boot Arch Linux and press ↵ Enter.
+Select Boot Arch Linux and press ↵ Enter. This will launch the Arch Linux installer, at which point you can proceed with partitioning your hard drive.
+

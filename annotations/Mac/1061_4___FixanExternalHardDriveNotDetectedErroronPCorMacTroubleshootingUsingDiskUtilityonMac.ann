@@ -1,0 +1,29 @@
+T1	Software-OS-Related 235 241	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 391 403	Applications
+A2	isOpened T2 f->t
+T3	Software-OS-Related 530 539	Utilities
+A3	isOpened T3 f->t
+T4	Software-OS-Related 694 720	external hard drive volume
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 892 897	Mount
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1187 1196	First Aid
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1427 1430	Run
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1603 1614	Repair Disk
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2052 2070	Partition or Erase
+A9	isOpened T9 f->t
+R1	SubPart Arg1:T5 Arg2:T3	
+R2	SubPart Arg1:T8 Arg2:T3	
+R3	SubPart Arg1:T9 Arg2:T3	
+T10	Software-OS-Related 2886 2895	Partition
+A10	isOpened T10 f->t
+T11	Software-OS-Related 3107 3112	Apply
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 3141 3146	Erase
+A12	isOpened T12 f->t
+T13	Software-OS-Related 3273 3278	Erase
+A13	isSettingsChanged T13 true

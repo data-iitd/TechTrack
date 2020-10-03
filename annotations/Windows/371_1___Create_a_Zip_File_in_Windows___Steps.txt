@@ -1,0 +1,28 @@
+Create a Zip File in Windows
+https://www.wikihow.com/Create-a-Zip-File-in-Windows
+
+0 - Steps
+
+1 - Press ⊞ Win+E.
+Press ⊞ Win+E. This opens the Windows File Explorer.
+- ;
+
+2 - Navigate to the folder that contains files you want to zip.
+Navigate to the folder that contains files you want to zip.
+
+3 - Select all files you want to add to the zip.
+Select all files you want to add to the zip. To select multiple files at once, hold the Ctrl key as you click each file.
+
+4 - Right-click a selected file.
+Right-click a selected file. A context menu will appear.
+
+5 - Select Send to.
+Select Send to. Additional options will expand.
+
+6 - Click Compressed (zipped) folder.
+Click Compressed (zipped) folder. This creates a new folder with a default file name.
+
+7 - Type a new name for the zip and press ↵ Enter.
+Type a new name for the zip and press ↵ Enter. The selected files are now compressed into the new zip file.
+- To add additional files to the zip, just drag them to the file in the File Explorer.
+

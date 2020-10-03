@@ -1,0 +1,21 @@
+T1	Hardware-Other 144 150	laptop
+T2	Software-OS-Related 454 472	Power Options menu
+T3	Hardware-Other 490 500	power cord
+T4	Hardware-Other 762 768	laptop
+T5	Hardware-Devices 953 961	keyboard
+A2	isPowered T5 start-F
+T6	Hardware-Other 1117 1121	keys
+T7	Hardware-Other 1127 1141	compressed air
+T8	Hardware-Devices 1307 1315	keyboard
+T9	Hardware-Other 1887 1891	keys
+T10	Hardware-Other 1915 1920	cloth
+T11	Hardware-Devices 2103 2111	keyboard
+T12	Hardware-Other 2298 2304	laptop
+T13	Hardware-Other 2450 2461	cotton ball
+T14	Hardware-Other 2472 2489	isopropyl alcohol
+T15	Hardware-Other 2643 2649	laptop
+T16	Hardware-Devices 2845 2853	keyboard
+T17	Hardware-Other 2919 2923	keys
+T18	Hardware-Other 2944 2948	wipe
+T19	Hardware-Other 3110 3118	computer
+T20	Software-OS-Related 119 127	Turn off

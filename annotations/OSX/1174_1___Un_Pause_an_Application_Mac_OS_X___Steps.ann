@@ -1,0 +1,12 @@
+T1	Software-OS-Related 255 271	Activity Monitor
+A1	isOpened T1 f->t
+T2	Software-OS-Related 400 404	View
+A2	isOpened T2 f->t
+T3	Software-OS-Related 407 414	Columns
+A3	isOpened T3 f->t
+T4	Software-OS-Related 417 427	Process ID
+A4	isOpened T4 f->t
+T5	Software-OS-Related 794 802	Terminal
+A5	isOpened T5 f->t
+T6	Software-OS-Related 930 944	kill -CONT 155
+A6	isSettingsChanged T6 true

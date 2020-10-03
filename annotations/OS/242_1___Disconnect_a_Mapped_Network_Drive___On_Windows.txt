@@ -1,0 +1,31 @@
+Disconnect a Mapped Network Drive
+https://www.wikihow.com/Disconnect-a-Mapped-Network-Drive
+
+0 - On Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Open File Explorer .
+Open File Explorer . Click the folder-shaped icon in the bottom-left side of the Start window.
+
+3 - Click This PC.
+Click This PC. It's a computer-shaped item on the left side of the File Explorer window. You may have to scroll up or down here to find it.
+
+4 - Click the Computer tab.
+Click the Computer tab. You'll find this in the upper-left side of the File Explorer window. Clicking it prompts a toolbar to appear at the top of the window.
+
+5 - Click Map network drive ▼.
+Click Map network drive ▼. It's in the "Network" section of the toolbar. A drop-down menu will appear.
+- Make sure you click the bottom half of this icon and not the top half, as clicking the top half will open a new Network Drive window.
+
+6 - Click Disconnect network drive.
+Click Disconnect network drive. This option is at the bottom of the drop-down menu. Clicking it will prompt a window with a list of all connected network drives to open.
+
+7 - Select a network drive.
+Select a network drive. Click on the drive that you want to disconnect.
+
+8 - Click OK.
+Click OK. It's at the bottom of the window. This will disconnect the drive.
+

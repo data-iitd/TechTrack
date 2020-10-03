@@ -1,0 +1,33 @@
+Remove a Flash Drive from a Windows 10 Computer
+https://www.wikihow.com/Remove-a-Flash-Drive-from-a-Windows-10-Computer
+
+0 - Using the This PC Program
+
+1 - Save any open documents you have on the flash drive.
+Save any open documents you have on the flash drive. The easiest way to do this in any open window is to hold down Ctrl and press S.
+
+2 - Open the Start menu.
+Open the Start menu. To do this, you can either click the Windows icon in the bottom-left corner of the screen, or you can press the ⊞ Win key on your computer's keyboard. Opening the Start menu will automatically place your mouse cursor in the "Search" bar.
+
+3 - Type in this pc.
+Type in this pc. Doing so will search your computer for the "This PC" program.
+
+4 - Click the "This PC" icon.
+Click the "This PC" icon. It's a computer monitor-shaped image at the top of the Start menu's search window. Doing so will open This PC.
+
+5 - Find your flash drive's name.
+Find your flash drive's name. It will appear below the "Devices and drives" heading that's in the middle of the page; typically, your flash drive will be on the right side of this page.
+- You'll usually see "(E:)" or "(F:)" after the flash drive's name.
+
+6 - Right-click your flash drive's name.
+Right-click your flash drive's name. A drop-down menu will appear.
+
+7 - Click Eject.
+Click Eject. It's near the middle of the drop-down menu. Once you do this, the flash drive's name should disappear from the This PC window.
+
+8 - Wait for the "Safe to Remove Hardware" prompt.
+Wait for the "Safe to Remove Hardware" prompt. Once this notification displays in the bottom-right side of your computer's screen, your flash drive is ready for removal.
+
+9 - Gently tug the flash drive away from your computer.
+Gently tug the flash drive away from your computer. It should slide out. The next time you plug your flash drive into your computer, all of your files should be as you left them.
+

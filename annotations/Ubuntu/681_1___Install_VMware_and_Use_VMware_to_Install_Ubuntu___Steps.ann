@@ -1,0 +1,38 @@
+T1	Software-Other 326 401	http://downloads.vmware.com/d/info/desktop_downloads/vmware_workstation/6_0
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 1005 1032	VMware software application
+A3	isOpened T2 f->t
+T3	Software-Other 1121 1125	Next
+A4	isInstalled T3 f->t
+T4	Software-Other 1211 1215	Next
+A5	isInstalled T4 f->t
+T5	Software-Other 1408 1414	Finish
+A6	isOpened T5 t->f
+T6	Software-Other 1578 1596	VMware Workstation
+A7	isOpened T6 f->t
+T7	Software-Other 1639 1643	File
+A8	isOpened T7 f->t
+T8	Software-Other 1648 1651	New
+A9	isOpened T8 f->t
+T9	Software-Other 1656 1671	Virtual Machine
+A10	isOpened T9 f->t
+T10	Software-Other 1710 1717	Typical
+A11	isSettingsChanged T10 true
+T11	Software-Other 1722 1726	Next
+A12	isOpened T11 f->t
+T12	Software-Other 2306 2310	Next
+A13	isOpened T12 f->t
+T13	Software-Other 2445 2467	maximum disk size (GB)
+A14	isSettingsChanged T13 true
+T14	Software-Other 2496 2531	Store virtual disk as a single file
+A15	isSettingsChanged T14 true
+T15	Software-Other 2544 2548	Next
+A16	isOpened T15 f->t
+T16	Software-Other 2719 2723	Next
+A17	isOpened T16 f->t
+T17	Software-Other 2820 2826	Finish
+A18	isOpened T17 t->f
+R2	SubPart Arg1:T13 Arg2:T9	
+R3	SubPart Arg1:T14 Arg2:T9	
+R4	SubPart Arg1:T17 Arg2:T9	

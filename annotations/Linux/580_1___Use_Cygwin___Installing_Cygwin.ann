@@ -1,0 +1,19 @@
+T1	Software-Other 112 129	http://cygwin.com
+A1	isOpened T1 f->t
+T2	Software-Other 144 158	Install Cygwin
+T3	Software-Other 242 263	Install from Internet
+T4	Software-Other 273 277	Next
+T5	Software-Other 304 312	settings
+T6	Software-Other 488 497	directory
+T7	Software-Other 651 668	Direct Connection
+A2	isSettingsChanged T7 true
+T8	Software-Other 860 864	Next
+T9	Software-Other 886 903	software packages
+T10	Software-Other 1122 1126	Next
+T11	Software-Other 1235 1241	Cygwin
+T12	Software-OS-Related 1255 1259	UNIX
+T13	Software-Other 1656 1662	Cygwin
+T14	Software-Other 1836 1851	Cygwin programs
+T15	Software-Other 1997 2003	Update
+A3	isSettingsChanged T15 true
+R1	SubPart Arg1:T15 Arg2:T14	

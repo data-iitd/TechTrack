@@ -1,0 +1,36 @@
+T1	Hardware-Devices 130 140	microphone
+T2	Hardware-Devices 370 389	built-in microphone
+T3	Hardware-Other 398 400	PC
+A1	isConnected T2 start-T
+T4	Hardware-Devices 534 551	camera-microphone
+T5	Hardware-Devices 555 573	telephone receiver
+T6	Hardware-Devices 673 683	microphone
+T7	Hardware-Other 865 867	PC
+T8	Hardware-Other 923 925	PC
+T9	Hardware-Devices 933 952	external microphone
+A2	isConnected T9 f->t
+T10	Hardware-Other 1331 1338	laptops
+T11	Hardware-Other 1500 1508	USB plug
+T12	Hardware-Other 1612 1618	mobile
+T13	Hardware-Devices 1757 1776	external headphones
+T14	Hardware-Other 1786 1802	desktop computer
+T15	Hardware-Other 1808 1812	jack
+T16	Hardware-Other 1837 1842	panel
+T17	Hardware-Other 1850 1865	computer system
+*	Equiv T14 T17 T22
+T18	Hardware-Other 1957 1972	microphone jack
+T19	Hardware-Other 2008 2023	headphones jack
+T20	Hardware-Devices 1511 1534	USB plug-in microphones
+T21	Hardware-Devices 2220 2230	microphone
+T22	Hardware-Other 2240 2248	computer
+T23	Hardware-Devices 2267 2277	microphone
+A3	isConnected T23 f->t
+T24	Hardware-Other 2287 2302	microphone jack
+T25	Hardware-Devices 2377 2387	headphones
+T26	Hardware-Other 2398 2406	computer
+A4	isConnected T25 f->t
+T27	Hardware-Devices 2422 2427	phone
+T28	Hardware-Devices 2431 2441	MP3 player
+T29	Software-OS-Related 2782 2788	volume
+A5	isSettingsChanged T29 true
+T30	Hardware-Other 3387 3393	camera

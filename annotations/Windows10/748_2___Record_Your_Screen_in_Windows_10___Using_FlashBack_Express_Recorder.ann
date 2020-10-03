@@ -1,0 +1,35 @@
+T1	Software-Other 173 182	FlashBack
+T2	Software-Other 460 479	CONTINUE TO EXPRESS
+A1	isOpened T2 f->t
+T3	Software-Other 542 553	GET EXPRESS
+A2	isOpened T3 f->t
+T4	Software-Other 622 631	installer
+T5	Software-Other 712 738	FlashBack Express Recorder
+T6	Software-Other 863 881	Record Your Screen
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Software-Other 1485 1497	Record Sound
+A6	isSettingsChanged T7 true
+T8	Software-Other 1067 1078	Full screen
+R2	SubPart Arg1:T8 Arg2:T6	
+R3	SubPart Arg1:T7 Arg2:T6	
+T9	Software-Other 1569 1579	Microphone
+R4	SubPart Arg1:T9 Arg2:T6	
+T10	Software-Other 1812 1831	Default PC Speakers
+R5	SubPart Arg1:T10 Arg2:T6	
+T11	Software-Other 1877 1883	Record
+A8	isSettingsChanged T11 true
+T12	Software-Other 2587 2597	red square
+T13	Software-Other 2780 2784	Save
+A9	isSettingsChanged T13 true
+R6	SubPart Arg1:T11 Arg2:T6	
+R7	SubPart Arg1:T13 Arg2:T12	
+R8	SubPart Arg1:T12 Arg2:T11	
+T14	Software-Other 3015 3019	Save
+A10	isSettingsChanged T14 true
+A11	isInstalled T4 start-F
+A3	isOpened T5 f->t
+A4	isSettingsChanged T6 true
+A5	isSettingsChanged T8 true
+A7	isSettingsChanged T12 true
+A12	isSettingsChanged T10 true
+A13	isSettingsChanged T9 true

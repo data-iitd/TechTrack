@@ -1,0 +1,33 @@
+Disable the Capslock Key in Windows
+https://www.wikihow.com/Disable-the-Capslock-Key-in-Windows
+
+0 - Disable Caps Lock
+
+1 - Go to Start → Run → regedit
+
+Go to Start → Run → regedit
+- ;
+
+2 - Go to HKLM\System\CurrentControlSet\Control\Keyboard Layout
+
+Go to HKLM\System\CurrentControlSet\Control\Keyboard Layout
+
+3 - Right-click on the right half of the screen and choose New → Binary
+
+Right-click on the right half of the screen and choose New → Binary
+
+4 - Name the new entry "Scancode Map"
+
+Name the new entry "Scancode Map"
+
+5 - Enter 00000000000000000200000000003A0000000000
+
+Enter 00000000000000000200000000003A0000000000
+
+6 - Close
+
+Close
+
+7 - Reboot.
+Reboot.
+

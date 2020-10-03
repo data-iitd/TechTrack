@@ -1,0 +1,23 @@
+Change the Windows Taskbar Position
+https://www.wikihow.com/Change-the-Windows-Taskbar-Position
+
+0 - Windows 10
+
+1 - Right-click a blank section of the taskbar.
+Right-click a blank section of the taskbar. A menu with tools to customize the desktop will open.
+- ;
+
+2 - Verify the taskbar is unlocked.
+Verify the taskbar is unlocked. Towards the bottom of the menu you will see an option to "Lock the taskbar". Make sure this option is unchecked before proceeding to the next step. [1]
+- X
+- Research source
+
+3 - Click " Taskbar settings" at the bottom of the menu.
+Click " Taskbar settings" at the bottom of the menu. The settings app will open.
+
+4 - Click on the drop-down arrow on the "Taskbar location on screen" setting.
+Click on the drop-down arrow on the "Taskbar location on screen" setting.
+
+5 - Select where you want to move the taskbar.
+Select where you want to move the taskbar. Once you select an option, the taskbar will change its position immediately.
+

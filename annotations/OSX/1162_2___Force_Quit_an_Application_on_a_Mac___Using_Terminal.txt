@@ -1,0 +1,29 @@
+Force Quit an Application on a Mac
+https://www.wikihow.com/Force-Quit-an-Application-on-a-Mac
+
+0 - Using Terminal
+
+1 - Open the Terminal utility.
+Open the Terminal utility. By default, this is in the Utilities folder, located in the Applications folder.
+- If a normal Force Quit doesn't work, you may need to use this method to end the program.
+
+2 - Type "top" and press ⏎ Return.
+Type "top" and press ⏎ Return. The “top” command displays information about the applications that are currently running.
+
+3 - Find the program you want to close.
+Find the program you want to close. Under the column titled "COMMAND", find the name of the application you wish to quit.
+- The COMMAND list may use a truncated name for the program. Look for a name that looks similar to the program you are trying to close.
+
+4 - Find the PID (Process ID).
+Find the PID (Process ID). Once you find the name of program, find the number to the immediate left of it, under the PID column. Make a note of the PID number.
+
+5 - Type "q".
+Type "q". This will exit the list of applications and return you to the command line.
+
+6 - Type "kill ###".
+Type "kill ###". Replace the "###" with the number from the PID Column you just located. For example: If you were trying to quit iTunes, and found iTunes to have PID number 3703, you would type "kill 3703".
+- If the program does not respond to the “kill” command, type “sudo kill -9 ###”, replacing ### with the PID number.
+
+7 - Exit the terminal.
+Exit the terminal. The application should quit and you can be relaunched.
+

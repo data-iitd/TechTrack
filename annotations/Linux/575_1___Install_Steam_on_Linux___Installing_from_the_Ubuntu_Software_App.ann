@@ -1,0 +1,10 @@
+T1	Software-OS-Related 134 145	Ubuntu Dash
+A1	isOpened T1 f->t
+T2	Hardware-Other 154 162	computer
+T3	Software-OS-Related 306 325	Ubuntu Software app
+A2	isOpened T3 f->t
+T4	Software-OS-Related 505 515	search bar
+T5	Software-Other 624 629	Steam
+T6	Software-OS-Related 833 840	Install
+T7	Software-Other 856 861	Steam
+A3	isInstalled T7 f->t

@@ -1,0 +1,47 @@
+Set Up a VPN on a Mac
+https://www.wikihow.com/Set-Up-a-VPN-on-a-Mac
+
+0 - Using a VPN Settings File
+
+1 - Save the VPN settings file to your computer.
+Save the VPN settings file to your computer. If your VPN provider supplied its own VPN settings file, make sure you’ve downloaded it to your computer.
+
+2 - Double-click the VPN settings file.
+Double-click the VPN settings file.
+- In some cases, this action will open the Network panel with the correct information already filled in. If you see this panel, skip to step 10.
+- If the Network panel did not appear, continue with this method.
+
+3 - Click the Apple menu.
+Click the Apple menu.
+
+4 - Select “System Preferences.
+Select “System Preferences.”
+
+5 - Click the “Network” icon.
+Click the “Network” icon.
+
+6 - Click the gear icon.
+Click the gear icon. It’s at the bottom of the white panel on the left.
+
+7 - Select “Import Configurations.
+Select “Import Configurations.”
+
+8 - Select your VPN settings file.
+Select your VPN settings file.
+
+9 - Click Open or Import.
+Click Open or Import. The VPN settings will load.[4]
+- X
+- Research source
+
+10 - Make sure “Show VPN status in menu bar” is checked.
+Make sure “Show VPN status in menu bar” is checked. You’ll see this in the right panel of the current screen. 
+- When the checkmark is present, you’ll be able to click an icon in the menu bar to connect and disconnect from the VPN.
+
+11 - Click the VPN status icon.
+Click the VPN status icon. It’s in the menu bar, at the top right corner of the screen near the clock. It’s a rectangle with several vertical lines inside.
+
+12 - Click “Connect [your VPN network]”.
+Click “Connect [your VPN network]”. The computer will now connect to the VPN using the server and login information in the VPN settings file.
+- To disconnect, click the VPN status icon and select “Disconnect.”
+

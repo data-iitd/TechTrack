@@ -1,0 +1,13 @@
+T1	Software-Other 196 223	name of your Ubuntu machine
+A1	isOpened T1 f->t
+T2	Software-Other 283 288	Start
+A2	isOpened T2 f->t
+T3	Software-Other 421 427	Browse
+T4	Software-Other 609 624	Ubuntu ISO file
+A4	isSettingsChanged T4 true
+T5	Software-Other 767 771	Open
+A5	isOpened T5 f->t
+T6	Software-Other 907 912	Start
+A6	isOpened T6 f->t
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T4 Arg2:T1	

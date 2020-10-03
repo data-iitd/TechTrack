@@ -1,0 +1,13 @@
+T1	Software-OS-Related 493 539	sudo apt-get update && sudo apt-get upgrade -y
+T2	Software-OS-Related 570 578	password
+T3	Software-OS-Related 374 382	terminal
+A1	isOpened T3 f->t
+T4	Software-Other 839 853	PPA repository
+T5	Software-OS-Related 918 962	sudo add-apt-repository ppa:webupd8team/java
+T6	Software-OS-Related 1070 1089	sudo apt-get update
+T7	Software-OS-Related 1188 1234	sudo apt-get install oracle-java9-installer -y
+T8	Software-OS-Related 1268 1276	password
+T9	Software-Other 1149 1156	package
+A2	isInstalled T9 f->t
+T10	Software-Other 1370 1383	Oracle's Java
+T11	Software-OS-Related 1573 1614	sudo apt install oracle-java9-set-default

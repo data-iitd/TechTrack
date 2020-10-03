@@ -1,0 +1,69 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Installing macOS on Your PC
+
+1 - Place Multibeast on the USB drive.
+Place Multibeast on the USB drive. Open the USB drive's folder, then drag the Multibeast file into the folder. You'll need to use Multibeast later, so having it on the flash drive will make using it when necessary as simple as possible.
+
+2 - Eject the Unibeast USB drive from the Mac.
+Eject the Unibeast USB drive from the Mac. Open the Finder, then click the ⏏ Eject icon to the right of the USB drive's name in the upper-left corner of the Finder window. After doing so, you can remove your USB drive.
+- You should make sure that the Unibeast installation is complete before doing this.
+
+3 - Shut down your Windows computer.
+Shut down your Windows computer. Press and hold the Power button on your Windows computer until your computer shuts down completely. This will usually occur one or two seconds after the computer's display turns off.
+
+4 - Plug both the Unibeast USB drive and the blank hard drive into your computer.
+Plug both the Unibeast USB drive and the blank hard drive into your computer. These should both fit into USB ports on your computer.
+
+5 - Start your Windows computer.
+Start your Windows computer. Press the Power button to start the computer. Once the computer has a chance to begin booting, it should select your plugged-in USB drive as a place from which to boot.
+
+6 - Select your USB drive when prompted, then press ↵ Enter.
+Select your USB drive when prompted, then press ↵ Enter. This will begin the macOS installation process.
+
+7 - Select a language, then click →.
+Select a language, then click →. Doing so takes you to the next page of the installer.
+
+8 - Click Continue twice.
+Click Continue twice. It's in the bottom-right corner of the pages.
+
+9 - Click Agree when prompted.
+Click Agree when prompted. You'll see this at the top of the screen.
+
+10 - Click the Utilities menu item.
+Click the Utilities menu item. This menu item is in the top-left side of the screen. A drop-down menu will appear.[3]
+- X
+- Research source
+
+11 - Click Disk Utility.
+Click Disk Utility. It's in the drop-down menu.
+
+12 - Select the blank hard drive.
+Select the blank hard drive. Click the blank hard drive's name on the left side of the page.
+
+13 - Click the Erase tab.
+Click the Erase tab. It's near the top of the page.
+
+14 - Format the blank hard drive.
+Format the blank hard drive. Change the following fields:
+- 
+- Format — Click the drop-down box, then click Mac OS X Extended (Journaled)
+- 
+- Scheme — Click the drop-down box, then click GUID Partition Map
+
+15 - Click Erase.
+Click Erase. Doing so will reformat your blank hard drive for macOS' file system.
+
+16 - Click Done when prompted, then close the Disk Utility window.
+Click Done when prompted, then close the Disk Utility window. You can now proceed with installing macOS High Sierra on the hard drive.
+
+17 - Click the blank hard drive's name, then click Continue.
+Click the blank hard drive's name, then click Continue. This will both select the hard drive as the installation point and begin installing macOS High Sierra.
+
+18 - Wait for macOS High Sierra to finish installing.
+Wait for macOS High Sierra to finish installing. This process should take around 15 minutes.
+
+19 - Follow the on-screen prompts.
+Follow the on-screen prompts. You'll be prompted to enter specific information, such as your name, a password, your preferred language, your location, and so on. Once you complete this setup process, macOS' software will be completely set up on your Windows computer.
+

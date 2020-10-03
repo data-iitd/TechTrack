@@ -1,0 +1,42 @@
+T2	Software-Other 351 366	Multibeast file
+A2	isOpened T2 f->t
+T3	Software-Other 462 477	Bootloaders tab
+A3	isOpened T3 f->t
+T4	Software-Other 617 638	Clover UEFI Boot Mode
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 825 836	Drivers tab
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+T6	Software-OS-Related 925 930	Audio
+T7	Software-OS-Related 997 1010	audio drivers
+A6	isSettingsChanged T7 true
+T8	Software-OS-Related 1195 1199	Misc
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1279 1286	FakeSMC
+A8	isSettingsChanged T9 true
+T10	Software-OS-Related 1376 1383	Network
+A9	isOpened T10 f->t
+R2	SubPart Arg1:T7 Arg2:T5	
+R3	SubPart Arg1:T9 Arg2:T5	
+T11	Software-OS-Related 1456 1471	Internet driver
+A10	isOpened T11 f->t
+T12	Software-OS-Related 1524 1537	Internet card
+A11	isSettingsChanged T12 true
+R4	SubPart Arg1:T12 Arg2:T5	
+T13	Software-OS-Related 1603 1616	Customize tab
+A12	isOpened T13 f->t
+T14	Software-OS-Related 1830 1835	Fixup
+A13	isSettingsChanged T14 true
+R5	SubPart Arg1:T14 Arg2:T13	
+T15	Software-OS-Related 2082 2100	System Definitions
+A14	isOpened T15 f->t
+T16	Software-OS-Related 2299 2325	heading of the type of Mac
+A15	isSettingsChanged T16 true
+R6	SubPart Arg1:T16 Arg2:T13	
+T17	Software-OS-Related 2649 2658	Build tab
+A16	isOpened T17 f->t
+T18	Software-OS-Related 2765 2785	Select Install Drive
+A17	isSettingsChanged T18 true
+R7	SubPart Arg1:T18 Arg2:T17	
+T1	Software-OS-Related 185 191	Finder
+A1	isOpened T1 f->t

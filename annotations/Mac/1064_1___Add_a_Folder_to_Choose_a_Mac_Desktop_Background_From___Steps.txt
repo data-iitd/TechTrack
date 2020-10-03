@@ -1,0 +1,25 @@
+Add a Folder to Choose a Mac Desktop Background From
+https://www.wikihow.com/Add-a-Folder-to-Choose-a-Mac-Desktop-Background-From
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Desktop & Screen Saver.
+Click on Desktop & Screen Saver. It's near the top of the preferences window.
+
+4 - Click on +.
+Click on +. It's beneath the pane on the left side of the dialog box that contains the list of folders and desktop pictures.
+
+5 - Click on the folder you'd like to use for background pictures.
+Click on the folder you'd like to use for background pictures.
+
+6 - Click on Choose.
+Click on Choose. You've now added a folder from which you can choose background photos for your Mac.
+- To select a particular photo, click on the new folder -- it appears in the left pane of the dialog box, now -- and the select the individual image in the right pane of the box.
+

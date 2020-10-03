@@ -1,0 +1,15 @@
+T1	Software-OS-Related 186 196	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 312 330	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 368 376	Keyboard
+A3	isOpened T3 f->t
+T4	Software-OS-Related 572 585	Input Sources
+A4	isOpened T4 f->t
+T5	Software-OS-Related 653 654	+
+A5	isOpened T5 f->t
+T6	Software-OS-Related 764 788	a number/language format
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 899 902	Add
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T6 Arg2:T3	

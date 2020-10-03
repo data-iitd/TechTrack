@@ -1,0 +1,45 @@
+Emulate Windows on a Mac
+https://www.wikihow.com/Emulate-Windows-on-a-Mac
+
+0 - Steps
+
+1 - Go to "about this mac" and see if your mac has an Intel processor.
+Go to "about this mac" and see if your mac has an Intel processor.  G4 and G5 Power PC macs will not work with the following emulation software.
+- ;
+
+2 - Go to Apple.com and download Boot Camp.
+Go to Apple.com and download Boot Camp.  This software will allow you to install Windows so you may dual boot.
+
+3 - Double Click the .dmg file and then open bootcampassistant.pkg.
+Double Click the .dmg file and then open bootcampassistant.pkg.
+
+4 - Follow the prompts of the installer and wait for Boot Camp to install.
+Follow the prompts of the installer and wait for Boot Camp to install.  (If prompted "Boot Camp Assistant cannot be used, quit and download the firmware update for your system from Apple's Support Downloads.
+
+5 - Next open Boot Camp Assistant and choose "Burn a Macintosh Drivers CD now" after inserting a blank disk.
+Next open Boot Camp Assistant and choose "Burn a Macintosh Drivers CD now" after inserting a blank disk.
+
+6 - Choose the partition sizes for your respective operating systems and click partition.
+Choose the partition sizes for your respective operating systems and click partition.
+
+7 - Insert your choice of the Windows OS and click "Start Installation".
+Insert your choice of the Windows OS and click "Start Installation".  (You will have to buy a copy of the Windows OS to complete this legally).
+
+8 - Press Enter or Return, when on the blue screen, then choose Partition C (this should match the sizes you chose for each OS), and then choose the FAT partition format for now.
+Press Enter or Return, when on the blue screen, then choose Partition C (this should match the sizes you chose for each OS), and then choose the FAT partition format for now.
+
+9 - Eject your Windows disk after your computer reboots and then insert the Mac Driver CD we burned earlier.
+Eject your Windows disk after your computer reboots and then insert the Mac Driver CD we burned earlier.
+
+10 - Follow the prompts given by the installer assistant and when asked for settings for the new hardware, just accept the default ones.
+Follow the prompts given by the installer assistant and when asked for settings for the new hardware, just accept the default ones.
+
+11 - Click to reboot your computer when prompted to by the assistant and if your computer reboots directly into Windows, your installation is a success.
+Click to reboot your computer when prompted to by the assistant and if your computer reboots directly into Windows, your installation is a success.
+
+12 - Hold the OPTION key down and it will give you a selection screen of which OS to boot.
+Hold the OPTION key down and it will give you a selection screen of which OS to boot.
+
+13 - Congratulations, you can now run Windows natively on your Mac.
+Congratulations, you can now run Windows natively on your Mac.
+

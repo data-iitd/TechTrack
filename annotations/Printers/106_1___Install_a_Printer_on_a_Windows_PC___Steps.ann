@@ -1,0 +1,21 @@
+T1	Hardware-Other 160 162	PC
+T2	Software-OS-Related 256 261	Start
+A1	isOpened T2 f->t
+T3	Software-OS-Related 294 302	Computer
+A2	isOpened T3 f->t
+T4	Software-OS-Related 779 799	Devices and Printers
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1427 1440	Add a Printer
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1821 1840	Add a Local Printer
+A5	isOpened T6 f->t
+T7	Hardware-Other 2259 2267	printers
+T8	Hardware-Other 2269 2276	cameras
+T9	Hardware-Other 2278 2289	MP3 players
+T10	Hardware-Other 2291 2301	Tablet PCs
+T11	Hardware-Other 2303 2312	E-readers
+T12	Hardware-Devices 2166 2174	USB port
+T13	Software-OS-Related 2708 2712	Next
+A6	isOpened T13 f->t
+T14	Software-Other 2784 2800	printer software
+T15	Software-Other 2813 2827	Printer Driver

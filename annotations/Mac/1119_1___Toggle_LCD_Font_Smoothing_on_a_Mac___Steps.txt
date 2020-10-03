@@ -1,0 +1,23 @@
+Toggle LCD Font Smoothing on a Mac
+https://www.wikihow.com/Toggle-LCD-Font-Smoothing-on-a-Mac
+
+0 - Steps
+
+1 - Click the Apple menu.
+Click the Apple menu. This can be found in the upper-left corner of the menu bar. It will be visible no matter which program is currently open.
+- ;
+
+2 - Click "System Preferences."
+Click "System Preferences."
+
+3 - Click the "General" option.
+Click the "General" option. This is at the front of the first row of options. If the System Preferences menu opens to a different section, click the "Show All" button at the top of the window, which has 12 dots in a grid pattern for an icon.
+
+4 - Check the "Use LCD font smoothing when available" box.
+Check the "Use LCD font smoothing when available" box. This will enable font smoothing to reduce jagged edges. You can see an immediate difference in the clock and account name in the upper-right corner.
+
+5 - Log out and log back in.
+Log out and log back in. This will ensure that your changes take effect everywhere that font smoothing is available.[1]
+- X
+- Research source
+

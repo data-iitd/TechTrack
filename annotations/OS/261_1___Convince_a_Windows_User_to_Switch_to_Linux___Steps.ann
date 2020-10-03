@@ -1,0 +1,31 @@
+T1	Software-Other 146 162	computer viruses
+T2	Hardware-Other 230 238	computer
+T3	Hardware-Other 369 372	Mac
+T4	Software-OS-Related 422 427	Linux
+T5	Software-OS-Related 504 511	Windows
+T6	Software-Other 626 633	viruses
+T7	Software-OS-Related 695 704	.exe file
+T8	Software-OS-Related 730 738	Internet
+T9	Software-OS-Related 1063 1067	Macs
+T10	Software-OS-Related 1072 1077	Linux
+T11	Software-OS-Related 1303 1309	Ubuntu
+T12	Software-Other 1609 1626	Internet Explorer
+T13	Software-Other 1638 1645	Firefox
+T14	Software-OS-Related 1733 1738	Linux
+T15	Software-Other 1748 1751	VLC
+T16	Software-Other 1760 1780	Windows Media Player
+T17	Hardware-Other 1853 1872	Linux LiveUSB drive
+T18	Hardware-Other 1876 1882	LiveCD
+T19	Software-OS-Related 1909 1916	Windows
+T20	Hardware-Other 2165 2167	PC
+T21	Software-OS-Related 2203 2208	Linux
+T22	Software-Other 2548 2564	Microsoft Office
+T23	Software-Other 2629 2640	LibreOffice
+T24	Software-OS-Related 2693 2713	system administrator
+T25	Software-Other 2878 2882	WINE
+T26	Software-OS-Related 2890 2897	Windows
+T27	Software-OS-Related 2956 2961	Linux
+T28	Hardware-Other 2971 2973	PC
+T29	Software-OS-Related 3268 3283	Software Center
+T30	Software-OS-Related 3336 3342	Ubuntu
+T31	Software-OS-Related 3395 3403	Internet

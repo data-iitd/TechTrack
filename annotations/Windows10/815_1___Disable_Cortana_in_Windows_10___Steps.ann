@@ -1,0 +1,16 @@
+T1	Software-OS-Related 187 197	Start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 316 335	Group Policy Editor
+T3	Software-OS-Related 359 376	Edit group policy
+A2	isOpened T3 f->t
+T4	Software-OS-Related 544 566	Computer Configuration
+A3	isOpened T4 f->t
+T5	Software-OS-Related 587 611	Administrative Templates
+T6	Software-OS-Related 1226 1234	Disabled
+T7	Software-OS-Related 1299 1301	OK
+A4	isSettingsChanged T7 true
+T8	Software-OS-Related 793 818	Windows Components option
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1056 1069	Allow Cortana
+A6	isOpened T9 f->t
+R1	SubPart Arg1:T7 Arg2:T2	

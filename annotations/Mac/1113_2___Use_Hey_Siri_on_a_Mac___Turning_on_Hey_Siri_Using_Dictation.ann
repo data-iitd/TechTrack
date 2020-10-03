@@ -1,0 +1,20 @@
+T1	Software-OS-Related 156 160	View
+A1	isOpened T1 f->t
+T2	Software-OS-Related 300 313	Accessibility
+A2	isOpened T2 f->t
+T3	Software-OS-Related 433 442	Dictation
+A3	isOpened T3 f->t
+T4	Software-OS-Related 644 693	box next to “Enable the dictation keyword phrase.
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1000 1021	Dictation Commands...
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1265 1291	"Enable advanced commands.
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1389 1390	+
+A7	isOpened T7 f->t
+T8	Software-OS-Related 2025 2030	done.
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1830 1853	Press Keyboard Shortcut
+A9	isSettingsChanged T9 true
+R1	SubPart Arg1:T4 Arg2:T2	
+R2	SubPart Arg1:T6 Arg2:T2	

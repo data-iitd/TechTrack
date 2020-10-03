@@ -1,0 +1,27 @@
+Remove Duplicate Photos on a Mac
+https://www.wikihow.com/Remove-Duplicate-Photos-on-a-Mac
+
+0 - Automatically Deleting Duplicates with PhotoSweeper
+
+1 - Go to https:__overmacs.com_ in a web browser and download the trial.
+Go to https://overmacs.com/ in a web browser and download the trial. You can also search the App Store for "PhotoSweeper."
+- The full application is $9.99 and will delete similar, but not duplicate, images.
+- When you download the trial, you'll download a DMG file that you need to open and move to the Applications folder so you can use the application.
+
+2 - Open PhotoSweeper.
+Open PhotoSweeper. This app icon looks like a broom brushing multiple photos. You'll find this in your Applications folder.
+
+3 - Add your Photo library.
+Add your Photo library. Drag and drop your photo library from Finder into the open PhotoSweeper application window.
+
+4 - Click Compare and select "Similar Photos.
+Click Compare and select "Similar Photos." You'll see the "Compare" button below the imported images. After you select a compare mode, you'll see a list of all your duplicate photos.
+
+5 - Click Auto Mark.
+Click Auto Mark. You'll see this on the toolbar, at the bottom of the application window. This will automatically select all but one duplicate image.
+
+6 - Click Trash Marked.
+Click Trash Marked. You'll see this on the toolbar, at the bottom of the application window. All your marked photos will be moved to the trash album.[3]
+- X
+- Research source
+

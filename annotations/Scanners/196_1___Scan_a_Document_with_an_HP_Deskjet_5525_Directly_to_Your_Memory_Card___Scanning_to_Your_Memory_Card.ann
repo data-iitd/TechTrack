@@ -1,0 +1,20 @@
+T1	Software-OS-Related 214 233	Scan to Memory Card
+T2	Hardware-Devices 275 282	printer
+A1	isPowered T2 start-T
+T7	Software-OS-Related 495 503	Settings
+A7	isOpened T7 f->t
+T8	Software-OS-Related 534 539	photo
+A8	isSettingsChanged T7 true
+T9	Software-OS-Related 543 551	document
+R1	SubPart Arg1:T8 Arg2:T7	
+R2	SubPart Arg1:T9 Arg2:T7	
+T12	Software-OS-Related 649 668	Scan to Memory Card
+T17	Software-OS-Related 951 955	Scan
+T19	Hardware-Other 1038 1049	memory card
+T21	Hardware-Other 1200 1214	photo/document
+T15	Hardware-Other 835 849	photo/document
+T24	Hardware-Other 1401 1412	memory card
+T25	Hardware-Other 285 303	touch screen panel
+T3	Software-OS-Related 365 369	Scan
+A2	isSettingsChanged T3 true
+A3	isOpened T3 f->t

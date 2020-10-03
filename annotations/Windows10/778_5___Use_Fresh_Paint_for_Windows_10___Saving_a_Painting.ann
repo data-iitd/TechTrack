@@ -1,0 +1,7 @@
+T1	Software-Other 125 126	☰
+A1	isOpened T1 f->t
+T2	Software-Other 234 241	Save As
+A2	isOpened T2 f->t
+T3	Software-Other 642 646	Save
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	

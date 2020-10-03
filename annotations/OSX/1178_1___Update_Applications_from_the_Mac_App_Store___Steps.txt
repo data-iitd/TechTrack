@@ -1,0 +1,21 @@
+Update Applications from the Mac App Store
+https://www.wikihow.com/Update-Applications-from-the-Mac-App-Store
+
+0 - Steps
+
+1 - Click the “App Store” icon in your dock to launch the Mac App store.
+Click the “App Store” icon in your dock to launch the Mac App store. Note: You will have to upgrade to at least Mac OS X 10.6.6 using Software Update to access the Mac App Store.
+- ;
+
+2 - Click the “Updates” tab at the top of the Mac App Store window.
+Click the “Updates” tab at the top of the Mac App Store window.
+
+3 - Click the “Update All” button in the upper right corner to update all applications with available updates.
+Click the “Update All” button in the upper right corner to update all applications with available updates.
+
+4 - Alternatively, to update apps one at a time, click the “Update” button next to the application you want to update.
+Alternatively, to update apps one at a time, click the “Update” button next to the application you want to update.
+
+5 - Enter your Apple ID and password when prompted followed by the “Sign In” button to automatically begin the update.
+Enter your Apple ID and password when prompted followed by the “Sign In” button to automatically begin the update. The update will automatically begin to download and install.
+

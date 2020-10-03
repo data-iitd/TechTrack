@@ -1,0 +1,12 @@
+T1	Hardware-Devices 172 179	printer
+A1	isUsed T1 true
+T2	Hardware-Other 523 529	inkjet
+T3	Hardware-Other 534 539	laser
+T4	Software-Other 1181 1190	documents
+T5	Hardware-Other 2306 2316	LCD screen
+T6	Hardware-Other 2213 2217	card
+T7	Hardware-Other 2517 2524	scanner
+T8	Hardware-Other 3582 3585	CDs
+T9	Hardware-Other 3590 3594	DVDs
+T10	Hardware-Other 3764 3770	remote
+T11	Hardware-Other 4177 4186	Bluetooth

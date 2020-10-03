@@ -1,0 +1,45 @@
+Install Ubuntu in Windows
+https://www.wikihow.com/Install-Ubuntu-in-Windows
+
+0 - Creating a New Virtual Machine
+
+1 - Open VirtualBox.
+Open VirtualBox. Click or double-click the Oracle VM VirtualBox app icon, which resembles a 3D blue-and-white box.
+
+2 - Click New.
+Click New. It's a blue icon in the upper-left side of the window. This prompts a pop-up window to open.
+
+3 - Enter a name for your virtual machine.
+Enter a name for your virtual machine. Type in whatever you want to name the Ubuntu installation.
+
+4 - Click the "Type" drop-down box.
+Click the "Type" drop-down box. It's below the "Name" text box. Clicking it prompts a drop-down menu.
+
+5 - Click Linux.
+Click Linux. This option is in the "Type" drop-down box.
+
+6 - Select Ubuntu if it isn't already selected.
+Select Ubuntu if it isn't already selected. Upon selecting Linux, you should see "Ubuntu (64-bit)" appear in the "Version" section; if not, click the "Version" drop-down box and then click Ubuntu (64-bit) in the resulting drop-down menu.
+- Since Ubuntu is the most common version of Linux, VirtualBox will usually default to Ubuntu when you select Linux as the operating system.
+
+7 - Click Next.
+Click Next. It's at the bottom of the window.
+
+8 - Select an amount of RAM to use.
+Select an amount of RAM to use. Click and drag the slider left or right to decrease or increase the amount of RAM you want to allow Ubuntu to use.
+- The Ubuntu support site recommends using at least 2 gigabytes (2048 megabytes) of RAM.[1]
+- X
+- Research source
+
+9 - Click Next.
+Click Next. It's at the bottom of the window.
+
+10 - Create a virtual hard disk.
+Create a virtual hard disk. This is just a folder which will act as Ubuntu's hard drive:
+- Check the "Create a virtual hard disk now" box.
+- Click Create.
+- Click Next.
+- Select a size for your virtual hard disk.
+- When in doubt, use the recommended size that's set as the default on this page.
+- Click Create.
+

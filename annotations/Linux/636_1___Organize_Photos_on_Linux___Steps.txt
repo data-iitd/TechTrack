@@ -1,0 +1,30 @@
+Organize Photos on Linux
+https://www.wikihow.com/Organize-Photos-on-Linux
+
+0 - Steps
+
+1 - When buying a camera, try to be as sure as possible that you can access it under Linux.
+When buying a camera, try to be as sure as possible that you can access it under Linux. The camera should have USB connection and in the ideal case have the standard memory cards like Compact Flash or SD. If you are not sure if the camera will cooperate with Linux computer, check if it supports Mac. Cameras that support Mac frequently support Linux as well.
+- ;
+
+2 - When buying a computer, look for the model with the built - in card reader in a well accessible place.
+When buying a computer, look for the model with the built - in card reader in a well accessible place.
+
+3 - Test Linux access when you bring the camera home.
+Test Linux access when you bring the camera home. If it does not work, you can usually bring the camera back.
+
+4 - Create a camera folder for all photos and have the bookmark to that folder on the file manager you use.
+Create a camera folder for all photos and have the bookmark to that folder on the file manager you use.
+
+5 - Store your photos in sub-folders named according to year followed by month followed by date followed by topic.
+Store your photos in sub-folders named according to year followed by month followed by date followed by topic. Computer file managers order file names better this way.
+
+6 - You can tag your photos.
+You can tag your photos. But make sure the tag data is stored in the files (exif) metadata and not a database unique to the software.
+
+7 - Make regular backups to the different hard drive.
+Make regular backups to the different hard drive. Linux is efficient in making efficient backups with tools like rsync. Tools like Anacron allow to have automated backups.
+
+8 - Back photos to some external data storage regularly.
+Back photos to some external data storage regularly. Optionally back up to online services such as Flickr or Photobucket.
+

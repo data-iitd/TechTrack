@@ -1,0 +1,29 @@
+T1	Software-OS-Related 101 116	Disk Management
+A1	isOpened T1 f->t
+T2	Hardware-Other 184 198	external drive
+T3	Hardware-Other 216 235	internal hard drive
+T4	Software-OS-Related 283 299	Windows Explorer
+T5	Software-OS-Related 378 390	diskmgmt.msc
+T6	Software-OS-Related 745 754	Partition
+T7	Hardware-Other 763 768	drive
+T8	Software-OS-Related 842 857	Disk Management
+T9	Software-OS-Related 1011 1014	GPT
+T10	Software-OS-Related 1058 1061	MBR
+A2	isSettingsChanged T9 true
+A3	isSettingsChanged T10 true
+R1	SubPart Arg1:T9 Arg2:T8	
+R2	SubPart Arg1:T10 Arg2:T8	
+T11	Software-OS-Related 1234 1249	Disk Management
+T12	Software-OS-Related 1332 1343	Unallocated
+T13	Software-OS-Related 1364 1370	Status
+T14	Software-OS-Related 1447 1451	Boot
+T15	Software-OS-Related 1653 1662	partition
+T16	Hardware-Other 1722 1727	drive
+T17	Software-OS-Related 1791 1808	New Simple Volume
+T18	Software-OS-Related 1908 1913	drive
+A4	isOpened T18 f->t
+T19	Software-OS-Related 1939 1945	Format
+A5	isSettingsChanged T19 true
+R3	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 2214 2218	NTFS
+T21	Software-OS-Related 2488 2494	Format

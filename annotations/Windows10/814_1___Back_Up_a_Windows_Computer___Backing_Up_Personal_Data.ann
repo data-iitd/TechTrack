@@ -1,0 +1,17 @@
+T1	Hardware-Other 134 144	hard drive
+T2	Hardware-Other 148 159	flash drive
+T3	Hardware-Devices 167 175	computer
+T4	Software-OS-Related 628 641	Control Panel
+A1	isOpened T4 f->t
+T5	Software-OS-Related 807 825	Backup and Restore
+A2	isOpened T5 f->t
+T6	Software-OS-Related 965 978	Set up backup
+A3	isOpened T6 f->t
+T7	Software-OS-Related 1205 1209	Next
+A4	isOpened T7 f->t
+T8	Software-OS-Related 1552 1556	Next
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1639 1661	Save settings and exit
+A6	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T5	
+A7	isUsed T3 true

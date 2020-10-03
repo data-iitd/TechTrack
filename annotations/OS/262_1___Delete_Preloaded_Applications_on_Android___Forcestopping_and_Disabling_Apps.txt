@@ -1,0 +1,24 @@
+Delete Preloaded Applications on Android
+https://www.wikihow.com/Delete-Preloaded-Applications-on-Android
+
+0 - Force-stopping and Disabling Apps
+
+1 - Tap on the Settings menu.
+Tap on the Settings menu. You can access it from your Android device’s main menu. Depending on which Android device you have, the Settings menu can also be accessed by pulling down the Notification bar, and tapping on the Settings icon from there.
+
+2 - Look for the Apps_Application Manager option.
+Look for the Apps/Application Manager option. Click on it once you find it.
+
+3 - Display the list of apps installed in your device.
+Display the list of apps installed in your device. To do that, just swipe to the right (or up), and you will find the list of all the apps running on your Android device.
+
+4 - Click on the app you wish to uninstall and delete.
+Click on the app you wish to uninstall and delete. A menu will then appear with three options and their corresponding buttons: “Force Stop,” “Uninstall updates/Uninstall,” and “Disable.”
+
+5 - Tap on the “Uninstall updates” button.
+Tap on the “Uninstall updates” button. This will effectively stop installing all the future updates for the unwanted app.
+- If the rightmost button shows only “Uninstall,” it means it’s not a preloaded app and can just be deleted completely by clicking on the Uninstall button.
+- For preloaded apps, you can tap on “Force Stop,” and “Disable” to completely stop the app.
+- Once you will click on the “Disable” button, that particular app will no longer be displayed in your Apps menu.
+- This method may not completely remove some of the pre-loaded apps, but it can at least stop and disable them, which will ultimately lead to the optimal performance of your Android device.
+

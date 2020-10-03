@@ -1,0 +1,42 @@
+T1	Software-OS-Related 157 162	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 172 194	Microsoft Windows logo
+A2	isOpened T2 f->t
+*	Equiv T1 T2
+T3	Software-OS-Related 270 283	Control Panel
+A3	isOpened T3 f->t
+T4	Software-OS-Related 450 480	Appearance and Personalization
+A4	isOpened T4 f->t
+T5	Software-OS-Related 481 488	Display
+A5	isOpened T5 f->t
+T6	Software-OS-Related 489 504	Calibrate Color
+A6	isOpened T6 f->t
+T7	Software-OS-Related 583 587	Next
+A7	isOpened T7 f->t
+T8	Software-OS-Related 595 620	Display Color Calibration
+A8	isOpened T8 start-T
+T9	Hardware-Devices 732 738	screen
+T10	Software-OS-Related 749 754	gamma
+T11	Software-OS-Related 756 766	brightness
+T12	Software-OS-Related 768 776	contrast
+T13	Software-OS-Related 782 795	color balance
+T15	Software-OS-Related 976 1021	You've successfully created a new calibration
+T16	Software-OS-Related 1111 1131	Previous Calibration
+A12	isOpened T16 f->t
+T17	Software-OS-Related 1277 1296	Current Calibration
+A13	isOpened T17 f->t
+T18	Software-OS-Related 1592 1598	Finish
+A14	isSettingsChanged T18 true
+A15	isOpened T18 t->f
+R2	SubPart Arg1:T18 Arg2:T17	
+T20	Hardware-Devices 1152 1158	screen
+T21	Hardware-Devices 1317 1323	screen
+R1	SubPart Arg1:T10 Arg2:T8	
+R3	SubPart Arg1:T11 Arg2:T8	
+R4	SubPart Arg1:T12 Arg2:T8	
+R5	SubPart Arg1:T13 Arg2:T8	
+A9	isSettingsChanged T10 true
+A11	isSettingsChanged T11 true
+A16	isSettingsChanged T12 true
+A17	isSettingsChanged T13 true
+A10	isOpened T15 f->t

@@ -1,0 +1,16 @@
+T1	Hardware-Other 103 106	key
+T2	Hardware-Devices 428 436	keyboard
+A1	isPowered T2 start-F
+A2	isConnected T2 start-F
+T3	Hardware-Devices 733 741	keyboard
+A3	isPowered T3 start-F
+A4	isConnected T3 start-F
+T4	Hardware-Other 836 839	key
+T5	Hardware-Other 804 811	plunger
+T6	Hardware-Other 1197 1200	key
+T7	Hardware-Other 1219 1226	plunger
+T8	Hardware-Other 1529 1532	key
+T9	Hardware-Other 1542 1549	plunger
+T10	Hardware-Devices 1674 1682	keyboard
+T11	Hardware-Other 1848 1851	key
+T12	Hardware-Devices 2254 2262	keyboard

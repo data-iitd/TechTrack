@@ -1,0 +1,48 @@
+Format a USB Flash Drive in Ubuntu
+https://www.wikihow.com/Format-a-USB-Flash-Drive-in-Ubuntu
+
+0 - Using the Terminal
+
+1 - Open the Terminal.
+Open the Terminal. You can open this from the Dash, or by pressing Ctrl+Alt+T.
+
+2 - Type .
+Type .lsblk and press ↵ Enter. This will display a list of storage devices attached to the computer.
+
+3 - Identify your USB drive.
+Identify your USB drive. Use the SIZE column to find your USB drive in the list.
+
+4 - Unmount your USB drive's partition.
+Unmount your USB drive's partition. You'll need to unmount the drive before formatting. Type the following command, and replace sdb1 with your USB drive's partition label.
+- sudo umount /dev/sdb1
+
+5 - Erase all of the data on the drive (optional).
+Erase all of the data on the drive (optional). You can delete everything on the drive by entering the following command. Replace sdb with your USB drive's label.
+- sudo dd if=/dev/zero of=/dev/sdb bs=4k && sync
+- This will take a while to process and may appear frozen.
+- On Ubuntu 16.04 and later: sudo dd if=/dev/zero of=/dev/sdb bs=4k status=progress && sync.
+
+6 - Create a new partition table.
+Create a new partition table. The partition table controls the volumes on the drive. Type the following command, replacing sdb with your USB drive's label.
+- Type sudo fdisk /dev/sdb and press ↵ Enter. Press O to create an empty partition table.
+
+7 - Press .
+Press .N to create a new partition. Enter the size of the partition that you want to create. Enter the full size of the drive if you are just creating a single partition.
+
+8 - Press .
+Press .W to write the table and exit. This may take a moment.
+
+9 - Run .
+Run .lsblk again to view your new partition. It will be listed below your USB drive's label.
+
+10 - Format your new volume.
+Format your new volume. Now that you've created the new volume, you can format it with the file system of your choosing. Enter the following command to format the drive as FAT32, the most compatible file system. Replace sdb1 with your partition's label:
+- sudo mkfs.vfat /dev/sdb1
+
+11 - Eject your drive when finished.
+Eject your drive when finished. Once the format is complete, you can safely eject your device:[2]
+- X
+- Research source
+- 
+- sudo eject /dev/sdb
+

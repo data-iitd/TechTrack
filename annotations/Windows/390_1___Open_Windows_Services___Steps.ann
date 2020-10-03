@@ -1,0 +1,14 @@
+T1	Software-OS-Related 97 102	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 393 407	Command Prompt
+A2	isOpened T2 f->t
+T3	Software-OS-Related 253 256	Run
+A3	isOpened T3 f->t
+T4	Software-OS-Related 637 650	File Explorer
+A4	isOpened T4 f->t
+T5	Software-OS-Related 812 819	Windows
+A5	isOpened T5 f->t
+T6	Software-OS-Related 839 847	System32
+A6	isOpened T6 f->t
+T7	Software-OS-Related 877 889	services.msc
+A7	isOpened T7 f->t

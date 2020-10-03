@@ -1,0 +1,12 @@
+T1	Software-OS-Related 198 206	Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 329 350	Wireless Setup Wizard
+A2	isOpened T2 f->t
+T3	Software-OS-Related 438 450	Network SSID
+T4	Software-OS-Related 750 754	Okay
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	
+T5	Hardware-Devices 761 768	printer
+A4	isUsed T5 true
+T6	Software-OS-Related 268 281	control panel
+A5	isOpened T6 f->t

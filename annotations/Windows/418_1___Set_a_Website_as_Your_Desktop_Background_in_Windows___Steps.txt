@@ -1,0 +1,24 @@
+Set a Website as Your Desktop Background in Windows
+https://www.wikihow.com/Set-a-Website-as-Your-Desktop-Background-in-Windows
+
+0 - Steps
+
+1 - Go to your desktop and right-click anywhere.
+Go to your desktop and right-click anywhere.
+- ;
+
+2 - Click on Properties.
+Click on Properties.
+
+3 - Click on the desktop tab.
+Click on the desktop tab. Then at the bottom of that window there should be a button that says Customize Desktop - click it.
+
+4 - A new window should pop up.
+A new window should pop up. Click on the Web tab. Click where it says New to the right.
+
+5 - Where it says location enter the URL of your favorite website or any website.
+Where it says location enter the URL of your favorite website or any website. A new window should pop up saying you have chosen to make this site available offline - click OK.
+
+6 - It will then download the webpage you entered, including images and additional files, straight to your desktop.
+It will then download the webpage you entered, including images and additional files, straight to your desktop.
+

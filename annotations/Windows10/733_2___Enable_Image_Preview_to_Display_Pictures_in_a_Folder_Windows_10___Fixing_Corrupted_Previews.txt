@@ -1,0 +1,35 @@
+Enable Image Preview to Display Pictures in a Folder (Windows 10)
+https://www.wikihow.com/Enable-Image-Preview-to-Display-Pictures-in-a-Folder-(Windows-10)
+
+0 - Fixing Corrupted Previews
+
+1 - Know when this is necessary.
+Know when this is necessary. Windows 10 keeps a cache of thumbnails for every one of your computer's files; if this cache becomes corrupted, your folders' images may not properly display. If you've tried enabling image previews already, clearing the thumbnail cache may solve your problem.[1]
+- X
+- Research source
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+3 - Open Disk Cleanup.
+Open Disk Cleanup. Type in disk cleanup, then click Disk Cleanup when it appears at the top of the Start window. A pop-up window will open.
+- You may have to click the Disk Cleanup icon when it appears in the taskbar to bring up the pop-up window.
+
+4 - Scroll down and check the "Thumbnails" box.
+Scroll down and check the "Thumbnails" box. You can uncheck every other box in the main window, but the "Thumbnails" box must be checked.
+
+5 - Click OK.
+Click OK. It's at the bottom of the window.
+
+6 - Click Delete Files when prompted.
+Click Delete Files when prompted. Doing so will prompt Disk Cleanup to begin deleting your computer's thumbnails from the cache.
+
+7 - Wait for your thumbnails to finish deleting.
+Wait for your thumbnails to finish deleting. This can take several minutes, especially if you've never deleted thumbnails before. Once the pop-up window disappears, you can proceed.
+
+8 - Open your preferred folder.
+Open your preferred folder. Go to the folder in which you wanted thumbnails to appear. After a moment of refreshing, your pictures' previews should begin to show up.
+
+9 - Enable image previews
+Enable image previews if necessary. If thumbnails still aren't showing, you may need to disable the "Always show icons, never thumbnails" setting and ensure that your folder is using the proper viewing option.
+

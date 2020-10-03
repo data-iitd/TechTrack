@@ -1,0 +1,38 @@
+Block a Program with Windows Firewall
+https://www.wikihow.com/Block-a-Program-with-Windows-Firewall
+
+0 - Temporarily Disabling a Program
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen or press the ⊞ Win key.
+
+2 - Open Firewall.
+Open Firewall. Type in Windows Defender Firewall, then click Windows Defender Firewall at the top of the Start window.
+
+3 - Click Allow an app or feature through Windows Firewall.
+Click Allow an app or feature through Windows Firewall. This link is at the top-left side of the Firewall window.
+
+4 - Click Change settings.
+Click Change settings. It's at the upper-right side of the window, just above the list of programs on your computer.
+- You may have to click Yes on a pop-up window after doing this before you can continue.
+- If you don't have administrator privileges on your computer, you won't be able to do this.
+
+5 - Locate a program you wish to block.
+Locate a program you wish to block. The list of programs in the middle of the page displays all programs that Windows Firewall is either blocking or allowing; you can scroll down it to find your specific program.
+
+6 - Add a program to the list if necessary.
+Add a program to the list if necessary. If you can't find your program in the list, you can add it by doing the following:
+- Click Allow another app... below the list.
+- Click Browse....
+- Go to the location of the app or program file (usually an EXE) that you want to block.
+- Select the app or program file.
+- Click Open, then select the program's name in the window and click Add if it doesn't automatically add.
+
+7 - Click the checkmark to the left of the program.
+Click the checkmark to the left of the program. Doing so should remove the checkmark, thereby blocking the program through Windows Firewall.
+- If there is no checkmark to the left of the program, Windows Firewall is already blocking the program.
+- Leave the two checkboxes to the right of the program ("Home/Work (Private)" and "Public") alone.
+
+8 - Click OK.
+Click OK. It's at the bottom of the window. This will both save your changes and prevent the program from running on your computer.
+

@@ -1,0 +1,11 @@
+T1	Software-Other 745 766	http://www.ubuntu.com
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 821 836	Download Ubuntu
+A3	isOpened T2 f->t
+T3	Software-Other 1398 1408	Try Ubuntu
+A4	isOpened T3 f->t
+T4	Software-Other 1805 1812	Install
+A5	isInstalled T4 f->t
+T5	Software-Other 3165 3172	Install
+A6	isOpened T5 f->t

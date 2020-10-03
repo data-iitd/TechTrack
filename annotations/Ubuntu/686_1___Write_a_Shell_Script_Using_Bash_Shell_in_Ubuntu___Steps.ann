@@ -1,0 +1,19 @@
+T1	Software-OS-Related 174 182	Terminal
+A1	isOpened T1 f->t
+T3	Software-Other 649 663	vim ListDir.sh
+A3	isSettingsChanged T3 true
+T4	Software-Other 711 712	I
+A5	isSettingsChanged T4 true
+T5	Software-Other 842 853	#!/bin/bash
+A6	isSettingsChanged T5 true
+T6	Software-Other 1303 1306	vim
+A7	isOpened T6 t->f
+T7	Software-OS-Related 1583 1603	chmod +x ListDir.sh.
+A8	isSettingsChanged T7 true
+T8	Software-OS-Related 1734 1739	scrip
+A10	isOpened T8 f->t
+T2	Software-Other 375 388	vi/vim editor
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T4 Arg2:T2	
+R2	SubPart Arg1:T5 Arg2:T2	
+R3	SubPart Arg1:T7 Arg2:T1	

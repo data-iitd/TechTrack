@@ -1,0 +1,33 @@
+T1	Software-Other 179 184	Steam
+A1	isInstalled T1 f->t
+T2	Software-Other 403 417	launch command
+T3	Software-Other 428 442	non-Steam game
+T4	Software-Other 1586 1591	Steam
+T5	Software-Other 1650 1665	launch commands
+T6	Software-Other 1641 1645	path
+T7	Software-Other 1736 1748	Steam client
+T8	Software-Other 1764 1771	Library
+T9	Software-Other 1817 1830	Add a Game...
+A3	isOpened T9 f->t
+T10	Software-Other 1842 1864	Add a Non-Steam game..
+A4	isOpened T10 f->t
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T4	
+A2	isOpened T4 f->t
+T11	Software-Other 1979 1995	VLC Media Player
+T12	Software-Other 2072 2088	VLC Media Player
+T13	Software-Other 2144 2157	SteamOS+Linux
+T14	Software-Other 2209 2219	Properties
+A6	isOpened T14 f->t
+T15	Software-Other 3271 3275	icon
+A7	isSettingsChanged T14 true
+R2	SubPart Arg1:T14 Arg2:T13	
+T16	Software-Other 3386 3399	google search
+T17	Software-Other 3923 3935	game_program
+A8	isOpened T17 f->t
+T18	Software-Other 3969 3987	Linux Steam client
+T19	Software-Other 4296 4310	Steam settings
+T20	Software-Other 4163 4175	music player
+T21	Software-Other 4177 4188	web browser
+T22	Software-Other 4190 4193	IMs
+T23	Software-Other 4195 4207	friends list

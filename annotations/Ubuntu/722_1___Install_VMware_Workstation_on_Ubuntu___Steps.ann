@@ -1,0 +1,35 @@
+T1	Software-OS-Related 275 283	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 788 793	ls ./
+A2	isSettingsChanged T2 true
+T3	Software-Other 1241 1293	VMware-Workstation-Full-10.0.3-1895310.x86_64.bundle
+A3	isInstalled T3 f->t
+T4	Software-Other 1476 1556	select the radio button that says, “I accept the terms in the license agreement”
+A4	isSettingsChanged T4 true
+T5	Software-Other 1569 1573	Next
+A5	isOpened T5 f->t
+T6	Software-Other 1634 1703	radio button that says, “I accept the terms in the license agreement”
+A6	isSettingsChanged T6 true
+T7	Software-Other 1716 1720	Next
+A7	isOpened T7 f->t
+T8	Software-Other 1902 1905	Yes
+A8	isSettingsChanged T8 true
+T9	Software-Other 1944 1948	Next
+A9	isOpened T9 f->t
+T10	Software-Other 2220 2224	Next
+A10	isOpened T10 f->t
+T11	Software-Other 2374 2378	Next
+A11	isOpened T11 f->t
+T12	Software-Other 2496 2500	Next
+A12	isOpened T12 f->t
+T13	Software-Other 2725 2729	Next
+A13	isOpened T13 f->t
+T14	Software-Other 3182 3187	Close
+A14	isOpened T14 t->f
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T6 Arg2:T3	
+R3	SubPart Arg1:T8 Arg2:T3	
+R4	SubPart Arg1:T2 Arg2:T1	
+T15	Software-Other 2616 2636	nter the license key
+A15	isSettingsChanged T15 true
+R5	SubPart Arg1:T15 Arg2:T3	

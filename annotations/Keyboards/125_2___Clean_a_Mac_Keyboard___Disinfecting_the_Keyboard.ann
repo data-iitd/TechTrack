@@ -1,0 +1,19 @@
+T1	Hardware-Other 117 123	laptop
+T2	Hardware-Devices 132 140	keyboard
+A1	isPowered T2 start-F
+T3	Hardware-Other 309 317	computer
+T4	Hardware-Other 408 413	wipes
+T5	Hardware-Other 477 483	Clorox
+T6	Hardware-Other 487 492	Lysol
+T7	Hardware-Devices 645 653	keyboard
+T8	Hardware-Other 701 706	wipes
+T9	Hardware-Other 716 720	sink
+T10	Hardware-Devices 954 962	keyboard
+T11	Hardware-Devices 1009 1017	keyboard
+T12	Hardware-Other 1047 1051	wipe
+T13	Hardware-Other 1209 1213	keys
+T14	Hardware-Devices 1353 1361	keyboard
+T15	Hardware-Other 1481 1486	cloth
+T16	Hardware-Devices 1742 1750	keyboard
+A2	isPowered T16 f->t
+T17	Hardware-Other 1754 1760	laptop

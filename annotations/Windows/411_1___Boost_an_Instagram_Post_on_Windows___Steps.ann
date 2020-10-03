@@ -1,0 +1,22 @@
+T1	Software-OS-Related 273 295	switched to a business
+A1	isOpened T1 f->t
+T2	Hardware-Devices 664 672	computer
+A2	isUsed T2 true
+T3	Software-Other 634 643	Instagram
+A3	isInstalled T3 f->t
+T4	Software-Other 827 836	Instagram
+A4	isOpened T4 f->t
+T5	Software-Other 1328 1335	Promote
+A5	isOpened T5 f->t
+T6	Software-Other 2021 2025	Next
+A6	isOpened T6 f->t
+T7	Software-Other 1498 1505	picture
+A7	isOpened T7 f->t
+T8	Software-Other 1666 1670	Next
+A8	isOpened T8 f->t
+T9	Software-Other 1777 1781	goal
+A9	isOpened T9 f->t
+T10	Software-Other 3063 3079	Create Promotion
+A10	isSettingsChanged T10 true
+T11	Software-Other 2941 2945	Next
+A11	isOpened T11 f->t

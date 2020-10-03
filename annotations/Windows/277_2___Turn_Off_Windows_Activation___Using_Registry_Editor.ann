@@ -1,0 +1,25 @@
+T1	Software-OS-Related 122 127	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 329 336	regedit
+A2	isOpened T2 f->t
+T3	Software-OS-Related 233 238	Start
+A3	isOpened T3 f->t
+T4	Software-OS-Related 543 561	HKEY_LOCAL_MACHINE
+T5	Software-OS-Related 825 831	SYSTEM
+T6	Software-OS-Related 976 993	CurrentControlSet
+T7	Software-OS-Related 1062 1070	Services
+T8	Software-OS-Related 1200 1206	sppsvc
+T9	Software-OS-Related 1366 1371	Start
+A4	isOpened T9 f->t
+T10	Software-OS-Related 1505 1509	Edit
+A5	isOpened T10 f->t
+T11	Software-OS-Related 1644 1650	Modify
+A6	isOpened T11 f->t
+T12	Software-OS-Related 1862 1864	OK
+A7	isSettingsChanged T12 true
+R1	SubPart Arg1:T11 Arg2:T10	
+R2	SubPart Arg1:T9 Arg2:T8	
+R3	SubPart Arg1:T8 Arg2:T7	
+R4	SubPart Arg1:T7 Arg2:T6	
+R5	SubPart Arg1:T6 Arg2:T5	
+R6	SubPart Arg1:T5 Arg2:T4	

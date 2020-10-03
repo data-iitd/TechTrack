@@ -1,0 +1,54 @@
+Revive an Old Computer with Linux
+https://www.wikihow.com/Revive-an-Old-Computer-with-Linux
+
+0 - Steps
+
+1 - Consider what you want, a desktop computer, a server, or a router_firewall.
+Consider what you want, a desktop computer, a server, or a router/firewall.
+- ;
+
+2 - Clean it with compressed air and test if your PC will turn on safely.
+Clean it with compressed air and test if your PC will turn on safely.
+
+3 - Determine what your PC will boot from (in the BIOS or manual), old ones might not boot from USB, really old ones might not even boot from CD.
+Determine what your PC will boot from (in the BIOS or manual), old ones might not boot from USB, really old ones might not even boot from CD.
+
+4 - If it won't boot from CD, download floppy boot images of Damn Small Linux and Puppy Linux (WakePup for Puppy Linux 1 and 2 series) and once extracted onto a floppy disk, insert them into your old PC.
+If it won't boot from CD, download floppy boot images of Damn Small Linux and Puppy Linux (WakePup for Puppy Linux 1 and 2 series) and once extracted onto a floppy disk, insert them into your old PC. Alternatively download Smart Boot Manager [1], install on a floppy disk and boot the computer - you should now be able to boot from your CD drive.If you're on dial-up and don't want to download Damn Small Linux (50Mb) or Puppy Linux (100Mb), then buy a CD online.
+
+5 - Download SliTaz, Damn Small Linux, Puppy Linux and what ever distro you wish to test and burn them to cds or create a bootable flash drive.
+Download SliTaz, Damn Small Linux, Puppy Linux and what ever distro you wish to test and burn them to cds or create a bootable flash drive. Boot the Windows 9x computer with each version of Linux and run the computer from the CD or flash drive. See which version works best on your computer. One may not contain a driver for your hard drive that another one may include. Decide which version you are going to install permanently to your old Windows 9x computer.
+
+6 - Turn your old PC on if you haven't already and insert the CDs as soon as you can, if successful, you'll be greeted by a DSL or Puppy Linux boot screen for a few seconds (press a key quickly to interrupt the countdown if you like)
+
+Turn your old PC on if you haven't already and insert the CDs as soon as you can, if successful, you'll be greeted by a DSL or Puppy Linux boot screen for a few seconds (press a key quickly to interrupt the countdown if you like)
+
+7 - Unless you have valuable data on the old PC, consider creating a swap partition (with gParted or Ultimate Boot CD) if you have too little ram (less than 64Mb) to run the distros "live".
+Unless you have valuable data on the old PC, consider creating a swap partition (with gParted or Ultimate Boot CD) if you have too little ram (less than 64Mb) to run the distros "live".
+
+8 - Read and consider carefully using cheat codes at boot (also called boot parameters) to run more from CD and use less RAM particularly with Puppy
+
+Read and consider carefully using cheat codes at boot (also called boot parameters) to run more from CD and use less RAM particularly with Puppy
+
+9 - Choose Xvesa rather than X.org framebuffer if you have display problems
+
+Choose Xvesa rather than X.org framebuffer if you have display problems
+
+10 - Turn off ACPI or APM if you have problems.
+Turn off ACPI or APM if you have problems.
+
+11 - If you like Puppy Linux but 3 series is too slow, consider 2 series (Phoenix or 214R), or even 1 series (MeanPup or 109CE).
+If you like Puppy Linux but 3 series is too slow, consider 2 series (Phoenix or 214R), or even 1 series (MeanPup or 109CE).
+
+12 - If you like Damn Small Linux, also consider Damn Small Linux-Not (with Abiword and Gnumeric) or Feather Linux (also derived from Knoppix).
+If you like Damn Small Linux, also consider Damn Small Linux-Not (with Abiword and Gnumeric) or Feather Linux (also derived from Knoppix).
+
+13 - If you have a serial mouse, test whether it is detected and works.
+If you have a serial mouse, test whether it is detected and works. If it doesn't, then additional configuration can be made with boot parameters/cheat codes. For dial-up modems, consider a hardware dial-up modem for maximum compatibility.
+
+14 - Some gains in performance may be made, once installed to hard disk rather than running live.
+Some gains in performance may be made, once installed to hard disk rather than running live.
+
+15 - Also consider a "frugal installation" for performance gains.
+Also consider a "frugal installation" for performance gains. If you spread the word, tell your friends and share Damn Small Linux and Puppy Linux CDs, you can build your own local support group to help revive old PCs.
+

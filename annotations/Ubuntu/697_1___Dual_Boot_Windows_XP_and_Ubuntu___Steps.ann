@@ -1,0 +1,16 @@
+T1	Hardware-Other 186 201	Installation CD
+T2	Software-OS-Related 417 424	Restart
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1092 1103	Save & Exit
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 1290 1304	install Ubuntu
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1364 1371	Install
+A4	isOpened T5 f->t
+T6	Software-OS-Related 2090 2097	Install
+A5	isOpened T6 f->t
+T7	Software-OS-Related 2179 2190	Restart Now
+A6	isOpened T7 f->t
+T8	Software-OS-Related 495 499	BIOS
+A7	isOpened T8 f->t
+R1	SubPart Arg1:T3 Arg2:T8	

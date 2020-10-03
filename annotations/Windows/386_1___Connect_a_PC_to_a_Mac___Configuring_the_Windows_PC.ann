@@ -1,0 +1,9 @@
+T1	Hardware-Devices 132 134	PC
+A1	isUsed T1 true
+T2	Software-OS-Related 299 317	Create a Homegroup
+A2	isOpened T2 f->t
+T3	Software-OS-Related 176 185	Homegroup
+A3	isOpened T3 f->t
+T4	Software-OS-Related 759 765	Finish
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	

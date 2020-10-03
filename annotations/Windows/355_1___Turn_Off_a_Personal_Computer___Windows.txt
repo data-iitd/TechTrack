@@ -1,0 +1,114 @@
+Turn Off a Personal Computer
+https://www.wikihow.com/Turn-Off-a-Personal-Computer
+
+0 - Windows
+
+1 - Click on the Start  button.
+Click on the Start  button.  It is in the bottom left hand corner, unless you moved your taskbar.  Even then, your start button is located in the bottom left corner on Windows 8, it is just hidden.
+- ;
+
+2 - Click on the power  button.
+Click on the power  button.  This is where you will find a bunch of power options, including to shut down, restart, and sleep, as well as hibernate (Windows 7) and user options.
+
+3 - Click on the appropriate option.
+Click on the appropriate option.  Here are the options:
+- Shut down - shuts down the computer, and installs any Windows Updates.
+- Restart - shuts down the computer, installs any Windows Updates, and starts your computer again.  Useful if your computer is having trouble with hardware and programs.
+- Sleep - turns off your computer's display and temporarily halts any running programs.
+- Hibernate - turns off your computer and saves your data to a hibernation file.  Useful for airplanes where devices need to be powered down for a period of time.
+
+4 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by clicking on Shutdown/Restart anyway or Yes.
+
+5 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+6 - Press Alt+F4.
+Press Alt+F4.  This will not close your taskbar or desktop, it will bring a popup window.
+
+7 - Click on the appropriate option.
+Click on the appropriate option.  Here are the options:
+- Shut down - shuts down the computer, and installs any Windows Updates.
+- Restart - shuts down the computer, installs any Windows Updates, and starts your computer again.  Useful if your computer is having trouble with hardware and programs.
+- Sleep - turns off your computer's display and temporarily halts any running programs.
+- Hibernate - turns off your computer and saves your data to a hibernation file.  Useful for airplanes where devices need to be powered down for a period of time.
+
+8 - Click on OK.
+Click on OK.
+
+9 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by clicking on Shutdown/Restart anyway or Yes.
+
+10 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+11 - Locate the start button on the task bar.
+Locate the start button on the task bar.  This is usually in the bottom left corner.  Then, right-click.
+
+12 - On the right-click menu, choose "Shut down or sign out".
+On the right-click menu, choose "Shut down or sign out".
+
+13 - In the "Shut down or sign out" menu, choose Sleep, Shutdown or Restart.
+In the "Shut down or sign out" menu, choose Sleep, Shutdown or Restart.
+
+14 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by clicking on Shutdown/Restart anyway or Yes.
+
+15 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+16 - Open Command Prompt or Powershell.
+Open Command Prompt or Powershell.  Type cmd.exe or powershell.exe to start either of the two respectively.
+
+17 - Type shutdown -action to shutdown your computer.
+Type shutdown -action to shutdown your computer.  Here are the codes.
+- 
+- -s:  shuts down your computer.
+- -r:  restarts your computer.
+- -h:  hibernates your computer.
+
+18 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+19 - Open the charms bar.
+Open the charms bar.  This is available on Windows 8 and Windows 8.1, and can be done by swiping left from the right, or by moving your mouse to either of the right corners.  Then choose  Settings.
+- You can also find the settings key on your keyboard to do this.
+
+20 - Choose  Power.
+Choose  Power.  Then choose the appropriate option:
+- Shut down - shuts down the computer, and installs any Windows Updates.
+- Restart - shuts down the computer, installs any Windows Updates, and starts your computer again.  Useful if your computer is having trouble with hardware and programs.
+- Sleep - turns off your computer's display and temporarily halts any running programs.
+
+21 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by clicking on Shutdown/Restart anyway or Yes.
+
+22 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+23 - Choose  Power in the bottom right corner.
+Choose  Power in the bottom right corner.  Then choose the appropriate option.
+- To emergency restart (if you ran out of RAM or CPU processing), press Ctrl+Alt+Delete, hold Control while clicking power, then click on "Yes".
+
+24 - Click on the appropriate option.
+Click on the appropriate option.  Here are the options:
+- Shut down - shuts down the computer, and installs any Windows Updates.
+- Restart - shuts down the computer, installs any Windows Updates, and starts your computer again.  Useful if your computer is having trouble with hardware and programs.
+- Sleep - turns off your computer's display and temporarily halts any running programs.
+- Hibernate - turns off your computer and saves your data to a hibernation file.  Useful for airplanes where devices need to be powered down for a period of time.
+
+25 - Confirm that you want to shut down_restart your computer if other users are logged in.
+Confirm that you want to shut down/restart your computer if other users are logged in.  This can be done by clicking on Shutdown/Restart anyway or Yes.
+
+26 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+
+27 - Hold the power button of your computer for five seconds.
+Hold the power button of your computer for five seconds.
+
+28 - Drag the screen down.
+Drag the screen down.
+
+29 - Force a shut down_restart if programs are not responding.
+Force a shut down/restart if programs are not responding.  Click on Shutdown/Restart anyway or Force shutdown/restart to force a shutdown or restart.
+

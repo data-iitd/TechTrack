@@ -1,0 +1,24 @@
+T1	Software-OS-Related 145 150	Start
+A1	isOpened T1 f->t
+T3	Software-OS-Related 259 264	paint
+A3	isOpened T3 f->t
+T5	Software-OS-Related 483 487	File
+A5	isOpened T5 f->t
+T6	Software-OS-Related 580 584	Open
+A6	isOpened T6 f->t
+T11	Software-OS-Related 817 824	picture
+A8	isOpened T11 f->t
+T14	Software-OS-Related 1033 1037	Open
+T16	Software-OS-Related 1163 1167	File
+T18	Software-OS-Related 1246 1253	Save as
+T20	Software-OS-Related 1331 1342	BMP picture
+T21	Software-OS-Related 1399 1406	Save as
+T22	Software-OS-Related 1523 1526	ico
+T26	Software-OS-Related 1713 1717	save
+T30	Software-OS-Related 2026 2040	program's icon
+A4	isOpened T14 f->t
+A7	isOpened T16 f->t
+T4	Software-OS-Related 1902 1906	Save
+A9	isSettingsChanged T4 true
+A11	isOpened T30 f->t
+R1	SubPart Arg1:T30 Arg2:T11	

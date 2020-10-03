@@ -1,0 +1,37 @@
+Write a Batch File
+https://www.wikihow.com/Write-a-Batch-File
+
+0 - Saving the Batch File
+
+1 - Finish entering your batch file's text.
+Finish entering your batch file's text. Once you've completed and proofread your batch file, you can proceed with saving it as an executable file.
+
+2 - Click File.
+Click File. It's in the top-left corner of the Notepad window. A drop-down menu will appear.
+
+3 - Click Save As….
+Click Save As…. This option is in the File drop-down menu. Clicking it prompts the Save As window to open.
+
+4 - Enter a name and the ".bat" extension.
+Enter a name and the ".bat" extension. In the "File name" text box, type in whatever you want to name your program followed by .bat.
+- For a program named "Backup", for example, you'd type in Backup.bat here.
+
+5 - Click the "Save as type" drop-down box.
+Click the "Save as type" drop-down box. You'll find it near the bottom of the Save As window. A drop-down menu will appear.
+
+6 - Click All Files.
+Click All Files. It's in the drop-down menu. This will allow your file to be saved as whatever its extension is (in this case, ".bat").
+
+7 - Select a save location.
+Select a save location. Click a folder on the left side of the window (e.g., Desktop) to do so.
+
+8 - Click Save.
+Click Save. It's in the bottom-right corner of the Save As window. The window will close.
+
+9 - Close your Notepad file.
+Close your Notepad file. It will be saved as a batch file in your selected location.
+
+10 - Edit the batch file's contents.
+Edit the batch file's contents. At any time, you can right-click your batch file and click Edit in the resulting drop-down menu. This will open the batch file as a Notepad document; at this point, you can make any changes and then save the file by pressing Ctrl+S.
+- The changes will immediately be reflected when you run the batch file.
+

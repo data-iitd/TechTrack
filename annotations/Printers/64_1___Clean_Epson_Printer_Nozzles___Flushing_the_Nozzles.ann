@@ -1,0 +1,17 @@
+T1	Hardware-Other 127 138	power cable
+T2	Hardware-Other 156 161	paper
+T3	Hardware-Devices 375 382	printer
+A1	isPowered T3 start-F
+T4	Hardware-Other 533 538	cable
+T5	Hardware-Devices 634 641	printer
+T6	Hardware-Other 819 833	ink cartridges
+T7	Hardware-Other 1260 1274	blotting paper
+T8	Hardware-Other 1235 1249	ink cartridges
+T9	Hardware-Other 2592 2611	isopropylic alcohol
+T10	Hardware-Other 3112 3126	ink cartridges
+T11	Hardware-Other 3379 3386	plunger
+T12	Hardware-Devices 4968 4975	printer
+T13	Hardware-Other 5009 5023	ink cartridges
+T14	Hardware-Other 5338 5343	paper
+T15	Hardware-Other 4657 4671	blotting paper
+T16	Hardware-Other 4250 4264	ink cartridges

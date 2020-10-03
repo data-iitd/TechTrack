@@ -1,0 +1,23 @@
+T1	Software-OS-Related 111 117	folder
+T2	Software-Other 126 134	computer
+T3	Software-OS-Related 153 158	files
+T4	Software-OS-Related 341 353	My Documents
+T5	Software-OS-Related 439 443	List
+A1	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T1	
+T6	Software-OS-Related 492 497	files
+T7	Hardware-Devices 869 877	keyboard
+T8	Software-OS-Related 972 977	Paint
+A2	isOpened T8 f->t
+T9	Software-OS-Related 1006 1017	Accessories
+T10	Software-OS-Related 1056 1061	Start
+T11	Software-OS-Related 1193 1197	Edit
+T12	Software-OS-Related 1212 1219	toolbar
+T13	Software-OS-Related 1232 1237	Paste
+A3	isOpened T11 f->t
+T14	Software-OS-Related 1304 1308	Crop
+T15	Software-OS-Related 1388 1395	toolbar
+T16	Software-OS-Related 1498 1503	Print
+T17	Software-OS-Related 1591 1600	File menu
+A5	isSettingsChanged T14 true
+R3	SubPart Arg1:T14 Arg2:T15	

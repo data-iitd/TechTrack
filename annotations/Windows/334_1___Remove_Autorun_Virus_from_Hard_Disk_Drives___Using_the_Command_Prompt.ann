@@ -1,0 +1,4 @@
+T1	Software-OS-Related 155 169	command prompt
+A1	isOpened T1 f->t
+T2	Software-OS-Related 774 781	Restart
+A2	isSettingsChanged T2 true

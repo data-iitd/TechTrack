@@ -1,0 +1,21 @@
+T1	Software-OS-Related 160 180	Edubuntu 14.04.2 LTS
+A1	isOpened T1 f->t
+T2	Hardware-Other 437 446	USB stick
+T3	Software-OS-Related 691 701	unetbootin
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1342 1364	Diskimage radio button
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1384 1387	ISO
+A4	isSettingsChanged T5 true
+T6	Software-OS-Related 1445 1448	...
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1507 1547	edubuntu-14.04.4-dvd-[i386 or amd64].iso
+A6	isSettingsChanged T7 true
+T8	Software-OS-Related 1626 1635	USB Drive
+A7	isSettingsChanged T8 true
+T9	Software-OS-Related 1786 1788	OK
+A8	isSettingsChanged T9 true
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T7 Arg2:T3	
+R3	SubPart Arg1:T8 Arg2:T3	
+R4	SubPart Arg1:T9 Arg2:T3	

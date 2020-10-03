@@ -1,0 +1,5 @@
+T1	Software-Other 179 198	Microsoft's website
+T2	Software-Other 608 625	Windows Insider's
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1843 1850	Restart
+A2	isOpened T3 start-T

@@ -1,0 +1,35 @@
+T1	Software-OS-Related 109 112	Mac
+T2	Software-OS-Related 580 594	About This Mac
+A1	isOpened T2 f->t
+T3	Software-OS-Related 866 872	Backup
+T4	Hardware-Other 1274 1282	computer
+T5	Software-OS-Related 1234 1239	Print
+T6	Software-OS-Related 1245 1250	guide
+T7	Software-OS-Related 1179 1184	guide
+T8	Software-OS-Related 1518 1537	Boot Camp Assistant
+A2	isOpened T8 f->t
+T10	Software-OS-Related 2425 2480	Download the latest Windows support software from Apple
+T9	Software-OS-Related 2774 2789	Install Windows
+T11	Software-OS-Related 2957 2965	Continue
+T12	Software-OS-Related 3004 3013	partition
+T13	Software-OS-Related 3538 3545	Install
+T14	Software-OS-Related 3694 3714	Windows installation
+T15	Software-OS-Related 4103 4118	Boot Camp drive
+T16	Software-OS-Related 4287 4295	BOOTCAMP
+T17	Software-OS-Related 4315 4321	format
+T18	Software-OS-Related 4327 4332	drive
+T19	Software-OS-Related 4550 4565	Windows desktop
+T20	Software-OS-Related 4757 4790	Apple Software Update for Windows
+T21	Software-OS-Related 4849 4865	operating system
+T22	Software-OS-Related 4878 4882	boot
+T23	Software-Device-Drivers 4949 4956	drivers
+T24	Software-OS-Related 4991 4998	Windows
+T25	Software-OS-Related 5192 5196	OS X
+T26	Software-OS-Related 5376 5389	Control Panel
+A3	isOpened T26 f->t
+T27	Software-OS-Related 5425 5434	Boot Camp
+A4	isOpened T27 f->t
+T28	Software-OS-Related 5455 5467	Macintosh HD
+T29	Software-OS-Related 5484 5489	Apply
+A5	isSettingsChanged T29 true
+R1	SubPart Arg1:T29 Arg2:T28	

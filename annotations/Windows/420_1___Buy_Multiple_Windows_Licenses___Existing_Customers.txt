@@ -1,0 +1,34 @@
+Buy Multiple Windows Licenses
+https://www.wikihow.com/Buy-Multiple-Windows-Licenses
+
+0 - Existing Customers
+
+1 - Navigate to the Microsoft Volume Licensing website at Microsoft.com_licensing.
+Navigate to the Microsoft Volume Licensing website at Microsoft.com/licensing.
+
+2 - Click "Existing Customers" and select "Product Activation" if you have an invitation to the Volume Licensing Service Center (VLSC) or if you already have a volume license on another Microsoft product.
+Click "Existing Customers" and select "Product Activation" if you have an invitation to the Volume Licensing Service Center (VLSC) or if you already have a volume license on another Microsoft product.
+
+3 - Scroll down to "1.
+Scroll down to "1. Find Products" at the bottom of the page. Enter your version of Windows in the "Search for Products" field and click the arrow.
+- The following page will show you the Volume License Keys that are available for your version of Windows.
+
+4 - Scroll to the top right corner of the page and click on "Volume Licensing Service Center" under "Quick Links.
+Scroll to the top right corner of the page and click on "Volume Licensing Service Center" under "Quick Links."
+
+5 - Click "Sign" in and enter your Windows Live ID and password.
+Click "Sign" in and enter your Windows Live ID and password.
+- If you do not have a Windows Live ID, click "Sign up now," and follow the on-screen prompts to create an ID.
+
+6 - Enter your business email address.
+Enter your business email address.
+- If you have received an invitation to join VLSC, use the address on the invitation.
+- If you have not, use the email address for business name on your existing volume license agreement.
+- Microsoft will send you a verification email. Go to your email inbox, retrieve the message and follow the instructions for verifying your address.
+
+7 - Go to the page that lists your open licenses.
+Go to the page that lists your open licenses. Select the option to add a volume license.
+
+8 - Follow the screen prompts to purchase a volume license for your version of Windows.
+Follow the screen prompts to purchase a volume license for your version of Windows.
+

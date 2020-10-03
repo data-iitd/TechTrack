@@ -1,0 +1,22 @@
+Install Steam on Linux
+https://www.wikihow.com/Install-Steam-on-Linux
+
+0 - Installing from the Ubuntu Software App
+
+1 - Open the Ubuntu Dash on your computer.
+Open the Ubuntu Dash on your computer. Click the icon on the top-left corner of your screen to open the Dash.
+- ;
+
+2 - Find and click the Ubuntu Software app.
+Find and click the Ubuntu Software app. This app looks like an orange bag icon with a white "A" on it.
+- You can type the app name in Dash to quickly find it.
+
+3 - Click the search bar at the top.
+Click the search bar at the top. You can search all the available software here.
+
+4 - Search Steam in the software app.
+Search Steam in the software app. Type the app name, and press ↵ Enter or ⏎ Return on your keyboard. The official Steam app will show up at the top of the results.
+
+5 - Click the Install button next to Steam.
+Click the Install button next to Steam. This will install the latest release of the official Steam app on your Ubuntu Linux computer.
+

@@ -1,0 +1,25 @@
+T1	Hardware-Other 142 152	video card
+T2	Hardware-Devices 157 168	LCD monitor
+T3	Hardware-Other 174 188	DVI connectors
+T4	Hardware-Other 357 383	DVI Male-to-Male connector
+T5	Hardware-Other 640 664	video card DVI connector
+T6	Hardware-Other 688 713	LCD monitor DVI connector
+T7	Hardware-Devices 833 844	LCD Monitor
+A2	isPowered T7 f->t
+T9	Software-OS-Related 904 922	LCD monitor manual
+T10	Hardware-Devices 961 968	monitor
+T11	Hardware-Other 981 984	DVI
+T12	Hardware-Other 1119 1125	button
+T13	Hardware-Devices 1287 1294	monitor
+T14	Hardware-Other 1251 1253	PC
+T17	Software-OS-Related 1568 1578	Properties
+A8	isOpened T17 f->t
+A9	isOpened T9 f->t
+T19	Software-OS-Related 1745 1753	Settings
+A11	isOpened T19 f->t
+T20	Software-OS-Related 1837 1854	screen resolution
+T22	Hardware-Devices 2178 2189	LCD monitor
+T8	Hardware-Other 849 851	PC
+A1	isSettingsChanged T20 true
+R1	SubPart Arg1:T20 Arg2:T17	
+A3	isSetup T22 true

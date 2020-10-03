@@ -1,0 +1,50 @@
+T1	Hardware-Other 123 129	manual
+T2	Hardware-Devices 138 152	digital camera
+T3	Hardware-Devices 183 189	webcam
+T4	Software-Device-Drivers 334 349	webcam software
+T5	Software-Device-Drivers 363 370	Install
+A2	isInstalled T5 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Hardware-Other 402 413	software CD
+T7	Hardware-Other 448 456	computer
+T8	Hardware-Devices 475 489	digital camera
+T9	Hardware-Devices 495 501	webcam
+T10	Hardware-Other 539 542	USB
+T11	Hardware-Other 581 589	computer
+T12	Software-Device-Drivers 728 735	drivers
+T14	Hardware-Other 987 1005	audio/video cables
+T15	Hardware-Other 1013 1016	USB
+T16	Hardware-Devices 1113 1119	camera
+T17	Hardware-Devices 1213 1215	TV
+T18	Hardware-Other 1224 1228	Plug
+T20	Hardware-Other 1248 1266	audio/video cables
+T19	Hardware-Devices 1283 1289	camera
+T21	Hardware-Other 1316 1334	audio/video cables
+T22	Software-OS-Related 1372 1383	my computer
+A16	isOpened T22 f->t
+T23	Software-OS-Related 1401 1427	USB video source capturing
+A17	isOpened T23 f->t
+T24	Hardware-Devices 1571 1577	camera
+T25	Hardware-Other 1613 1626	power adapter
+T26	Hardware-Devices 1636 1642	camera
+T27	Hardware-Devices 1728 1734	webcam
+T28	Hardware-Other 1764 1773	A/C power
+T29	Hardware-Other 1864 1873	batteries
+T30	Hardware-Devices 1996 2010	digital camera
+A27	isPowered T30 f->t
+T31	Software-OS-Related 2059 2069	video mode
+T33	Hardware-Other 2115 2125	microphone
+T34	Hardware-Other 2135 2150	microphone jack
+T35	Hardware-Other 2159 2169	sound card
+T36	Hardware-Devices 2279 2285	camera
+T37	Hardware-Devices 2352 2358	camera
+T38	Hardware-Devices 2376 2383	monitor
+A40	isPowered T38 start-T
+T39	Hardware-Devices 2576 2590	digital camera
+T40	Hardware-Devices 2740 2746	webcam
+T41	Hardware-Devices 2773 2779	camera
+T42	Hardware-Devices 2785 2792	web cam
+A4	isUsed T41 true
+A1	isPowered T2 start-T
+A3	isSettingsChanged T31 true
+*	Equiv T41 T42 T39

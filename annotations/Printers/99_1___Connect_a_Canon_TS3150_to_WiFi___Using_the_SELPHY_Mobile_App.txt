@@ -1,0 +1,33 @@
+Connect a Canon TS3150 to Wi%E2%80%90Fi
+https://www.wikihow.com/Connect-a-Canon-TS3150-to-Wi%E2%80%90Fi
+
+0 - Using the SELPHY Mobile App
+
+1 - Turn on your printer.
+Turn on your printer. The light next to the power button should be illuminated if it is on. You'll find this power button on the front display of your printer on the left side.[1]
+- X
+- Research source
+- 
+- You won't need access to your router to complete this method. Instead, the printer will access the information needed from your smartphone or smart device that's connected to the Wi-Fi network. If this method does not work for you, try the next method.
+- ;
+
+2 - Get the Canon app from the Google Play Store or App Store.
+Get the Canon app from the Google Play Store or App Store. This app is free and is called Canon PRINT Inkjet/SELPHY, offered by Canon Inc.
+- You can search for "Canon PRINT" in the search bar at the top of the Google Play Store or in the search tab that's located at the bottom of the App Store.
+
+3 - Press and hold the Direct button on the printer.
+Press and hold the Direct button on the printer. This has the icon of a mobile phone on it and is usually the 2nd button below the power button.
+- Release the button when the Direct icon flashes on the display screen.
+
+4 - Open the Canon app on your phone or tablet.
+Open the Canon app on your phone or tablet. This app icon looks like a printer on an orange and white background that you'll find on one of your Home screens, in the app drawer, or by searching.
+- When you open the app for the first time, it will notify you that no printers are connected and walk you through setting one up.
+
+5 - Follow the on-screen prompts to set up your printer with your mobile app.
+Follow the on-screen prompts to set up your printer with your mobile app. This includes tapping your printer from the list of detected Canon printers, then allowing the printer to connect via your Wi-Fi router. If you have a Wi-Fi password enabled, you'll need to enter it before continuing.
+
+6 - Follow the on-screen prompts to register your printer.
+Follow the on-screen prompts to register your printer. When you're done following the on-screen prompts, the Wi-Fi light (Network icon) should be solid on the display screen.[2]
+- X
+- Research source
+

@@ -1,0 +1,33 @@
+T1	Software-OS-Related 354 362	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 420 435	file /sbin/init
+T9	Software-Other 1194 1205	OpenJDK_JRE
+A9	isInstalled T9 t->f
+T5	Software-Other 1912 1931	Oracle Java JDK_JRE
+A8	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 616 663	Check if you have Java installed on your system
+A2	isOpened T5 f->t
+T4	Software-Other 2714 2743	Copy the Oracle Java binaries
+A3	isSettingsChanged T4 true
+R2	SubPart Arg1:T4 Arg2:T5	
+T7	Software-Other 3620 3689	Unpack the compressed Java binaries, in the directory /usr/local/java
+A4	isSettingsChanged T7 true
+R3	SubPart Arg1:T7 Arg2:T5	
+T8	Software-Other 4196 4225	Double-check your directories
+A5	isSettingsChanged T8 true
+R4	SubPart Arg1:T8 Arg2:T5	
+T10	Software-Other 4513 4551	Edit the system PATH file /etc/profile
+A10	isSettingsChanged T10 true
+R5	SubPart Arg1:T10 Arg2:T5	
+T6	Software-Other 5397 5423	Save the /etc/profile file
+A6	isSettingsChanged T6 true
+T11	Software-Other 5428 5432	exit
+A7	isOpened T11 t->f
+R6	SubPart Arg1:T6 Arg2:T5	
+T12	Software-OS-Related 7641 7682	Reload your system wide PATH /etc/profile
+A11	isOpened T12 f->t
+T13	Software-Other 7932 7997	Test to see if Oracle Java was installed correctly on your system
+A12	isOpened T13 f->t
+T14	Software-OS-Related 9284 9290	reboot
+A13	isOpened T14 f->t

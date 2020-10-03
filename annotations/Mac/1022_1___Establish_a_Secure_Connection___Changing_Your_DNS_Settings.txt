@@ -1,0 +1,43 @@
+Establish a Secure Connection
+https://www.wikihow.com/Establish-a-Secure-Connection
+
+0 - Changing Your DNS Settings
+
+1 - Unplug your modem (and router, if you have one) for a few seconds.
+Unplug your modem (and router, if you have one) for a few seconds. Doing so will force your modem through a power cycle and might fix some DNS issues.
+- Many modern modems are also a router, but if you have a separate router, make sure you unplug that as well to ensure the DNS settings are reset.
+- Wait for about 30 seconds until you plug in your router and modem.
+- ;
+
+2 - Open System Preferences.
+Open System Preferences. You'll find this inside the Apple menu at the top left of your screen.
+
+3 - Click Network.
+Click Network. This is usually in the third row from the top with "iCloud."
+
+4 - Click Advanced.
+Click Advanced. You'll find this in the lower right corner of the pop-up window.
+
+5 - Click the DNS tab.
+Click the DNS tab. You'll see this along with tabs for Wi-Fi and Hardware.
+
+6 - Delete the existing entries in the box on the left.
+Delete the existing entries in the box on the left. You can do this by clicking them to select them and then clicking the minus icon (-) below the box.[2]
+- X
+- Research source
+
+7 - Add the two Google DNS addresses.
+Add the two Google DNS addresses. Do this by clicking the plus icon (+) below the box and enter 8.8.8.8.[3]
+- X
+- Research source
+- 
+- 
+- Click the plus icon (+) again and enter 8.8.4.4.
+- Click OK to proceed.
+
+8 - Click Apply.
+Click Apply. You'll find this in the bottom right corner of the Network window.
+
+9 - Restart your computer.
+Restart your computer. After your computer restarts, try the website again. If it still won't load, continue through the next method.
+

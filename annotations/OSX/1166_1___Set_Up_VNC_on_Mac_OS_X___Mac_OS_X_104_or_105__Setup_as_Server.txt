@@ -1,0 +1,25 @@
+Set Up VNC on Mac OS X
+https://www.wikihow.com/Set-Up-VNC-on-Mac-OS-X
+
+0 - Mac OS X 10.4 or 10.5 - Setup as Server
+
+1 - Open your System Preferences from your blue apple menu.
+Open your System Preferences from your blue apple menu.
+
+2 - Click the Sharing icon under the 'Internet and Network' category.
+Click the Sharing icon under the 'Internet and Network' category.
+
+3 - Highlight the Apple Remote Desktop component in the list of items.
+Highlight the Apple Remote Desktop component in the list of items.
+
+4 - Click Start to fire up Apple Remote Desktop service.
+Click Start to fire up Apple Remote Desktop service.
+
+5 - If you are NOT connecting with JollysFastVNC or ScreenSharing you need the following steps:
+If you are NOT connecting with JollysFastVNC or ScreenSharing you need the following steps:
+- Click Access Privileges to open the more advanced options.
+- Check on VNC viewers may control screen with password and define a password.
+
+6 - You can close the System Preferences.
+You can close the System Preferences. You're done!
+

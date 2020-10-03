@@ -1,0 +1,21 @@
+Set up a Wireless Network in Linux
+https://www.wikihow.com/Set-up-a-Wireless-Network-in-Linux
+
+0 - Set up your new router
+
+1 - Plug your router into your internet socket if you want to share your internet.
+Plug your router into your internet socket if you want to share your internet.
+- ;
+
+2 - Plug your router into your PC with an ethernet cable.
+Go to your browser and type in the address "http://192.168.0.1" or whichever address the router's web server is listening.
+
+2 - Plug your router into your PC with an ethernet cable.
+Go to your browser and type in the address "http://192.168.0.1" or whichever address the router's web server is listening.
+
+4 - Enter your username and password from your router (often "admin" and "admin") then your internet service provider.
+Enter your username and password from your router (often "admin" and "admin") then your internet service provider.
+
+5 - Enable wireless and set your encryption (WEP or WPA) and type a memorable passkey.
+Enable wireless and set your encryption (WEP or WPA) and type a memorable passkey.
+

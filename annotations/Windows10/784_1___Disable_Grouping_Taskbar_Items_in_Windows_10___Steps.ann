@@ -1,0 +1,9 @@
+T1	Software-OS-Related 144 152	Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 191 196	Start
+A2	isOpened T2 f->t
+T3	Software-OS-Related 264 288	Personalization category
+A3	isOpened T3 f->t
+T4	Software-OS-Related 444 467	Combine taskbar buttons
+T5	Software-OS-Related 596 601	Never
+A4	isOpened T4 f->t

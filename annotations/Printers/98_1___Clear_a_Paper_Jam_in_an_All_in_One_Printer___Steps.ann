@@ -1,0 +1,10 @@
+T1	Hardware-Devices 155 162	printer
+A1	isPowered T1 start-F
+T2	Hardware-Devices 278 290	printer tray
+T3	Hardware-Devices 723 730	rollers
+T4	Hardware-Devices 1117 1124	printer
+A3	isPowered T4 f->t
+T5	Hardware-Devices 1358 1365	printer
+A2	isPowered T5 start-F
+T6	Hardware-Devices 1689 1696	printer
+A4	isPowered T6 f->t

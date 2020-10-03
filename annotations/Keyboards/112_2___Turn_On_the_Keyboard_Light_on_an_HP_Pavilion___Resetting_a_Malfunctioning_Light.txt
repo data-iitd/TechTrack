@@ -1,0 +1,41 @@
+Turn On the Keyboard Light on an HP Pavilion
+https://www.wikihow.com/Turn-On-the-Keyboard-Light-on-an-HP-Pavilion
+
+0 - Resetting a Malfunctioning Light
+
+1 - Make sure your HP Pavilion has a removable battery.
+Make sure your HP Pavilion has a removable battery. You can "hard reboot" your HP computer to solve potential hardware issues with the backlight, but doing so requires you to remove the laptop's battery.
+- While you can technically remove the battery on sealed versions of the HP Pavilion, doing so requires you to remove the keyboard and several sensitive components before you can remove the battery, and thus is not recommended.
+
+2 - Remove any cables or USB items from your computer.
+Remove any cables or USB items from your computer. This includes the charger cable, USB flash drives, speakers, and so on.
+
+3 - Turn off the computer.
+Turn off the computer. To do so:
+- Click the Start  icon.
+- Click Power .
+- Click Shut down in the pop-up window.
+
+4 - Remove the computer's battery.
+Remove the computer's battery. As long as your computer has a removable battery, you can do this by following these instructions:
+- Flip the computer over so that its bottom is facing up.
+- Push and hold inward the switches on the battery compartment.
+- Pull the battery cover away from the laptop.
+- Pull the battery out of the laptop, making sure to store the battery on a soft, dry surface (e.g., a towel).
+
+5 - Hold down the "Power" button for 20 seconds.
+Hold down the "Power" button for 20 seconds. This will cause any residual power left in the computer to discharge.
+
+6 - Put back the battery and close its compartment.
+Put back the battery and close its compartment. At this point, you're ready to turn back on your computer.
+- Plug your computer back into its charger if your computer was low on power before you performed the hard reboot.
+
+7 - Turn back on your computer.
+Turn back on your computer. Press the computer's "Power" button to do so. Your computer will boot up like usual.
+
+8 - Try turning on the backlight
+Try turning on the backlight. Now that you've performed a hard reboot on your computer, you should be able to cycle through the brightness settings for your keyboard.
+
+9 - Finished.
+Finished.
+

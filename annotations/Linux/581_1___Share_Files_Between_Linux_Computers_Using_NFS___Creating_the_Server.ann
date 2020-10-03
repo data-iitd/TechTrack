@@ -1,0 +1,23 @@
+T1	Software-OS-Related 155 180	NFS (Network File System)
+T2	Software-OS-Related 461 464	NFS
+T3	Software-OS-Related 866 874	terminal
+A1	isOpened T3 f->t
+T4	Hardware-Other 882 897	server computer
+T5	Software-OS-Related 1216 1274	.sudo apt-get install nfs-kernel-server nfs-common portmap
+T6	Software-OS-Related 1429 1454	.dpkg-reconfigure portmap
+T7	Software-OS-Related 1464 1466	No
+T8	Software-OS-Related 1598 1631	.sudo /etc/init.d/portmap restart
+T9	Software-OS-Related 1647 1662	portmap service
+T10	Software-OS-Related 1726 1741	dummy directory
+T11	Software-OS-Related 2059 2086	.mkdir -p /export/dummyname
+T12	Software-OS-Related 2190 2205	pico _etc_fstab
+T13	Software-OS-Related 2285 2300	/etc/fstab file
+A2	isOpened T13 f->t
+T14	Software-OS-Related 2403 2438	.sharedpath dummypath none bind 0 0
+T15	Software-OS-Related 2787 2791	file
+T16	Software-OS-Related 2822 2840	./etc/exports file
+A3	isOpened T16 f->t
+T17	Software-OS-Related 3144 3186	sudo /etc/init.d/nfs-kernel-server restart
+T18	Software-OS-Related 3198 3205	restart
+T19	Software-OS-Related 3210 3220	NFS server
+T20	Software-OS-Related 1635 1642	restart

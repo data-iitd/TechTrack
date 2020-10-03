@@ -1,0 +1,28 @@
+T1	Software-OS-Related 228 244	Windows Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 340 345	Tools
+A2	isOpened T2 f->t
+T3	Software-OS-Related 466 470	View
+A3	isOpened T3 f->t
+T4	Software-OS-Related 304 315	My Computer
+A4	isOpened T4 f->t
+T5	Software-OS-Related 618 647	Show hidden files and folders
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	
+T6	Software-OS-Related 792 829	Hide protected operating system files
+A6	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T3	
+T7	Software-OS-Related 1332 1338	Search
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1289 1294	start
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1409 1430	All files and folders
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1627 1633	Search
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1722 1726	Edit
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1760 1770	Select All
+A12	isOpened T12 f->t
+T13	Software-OS-Related 1863 1867	File
+A13	isOpened T13 f->t

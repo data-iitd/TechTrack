@@ -1,0 +1,42 @@
+Add a Scanner to Image Capture
+https://www.wikihow.com/Add-a-Scanner-to-Image-Capture
+
+0 - Steps
+
+1 - Verify your scanner is compatible with Macintosh OS X.
+Verify your scanner is compatible with Macintosh OS X.
+- Look on the scanner's box to determine its compatibility.
+- Visit Apple's support website at http://support.apple.com/kb/ht3669 to verify its compatibility with Macintosh OS X.
+- ;
+
+2 - Add a scanner to your computer.
+Add a scanner to your computer.
+- Install the scanner's software and drivers. In most cases, you can visit the scanner manufacturer's website to download the latest drivers.
+- Reboot your computer.
+- Connect your scanner to the USB or FireWire port on your computer.
+- Turn on your scanner.
+
+3 - Add your scanner to a shared network.
+Add your scanner to a shared network.
+- Choose "System Preferences" from your main Apple menu.
+- Choose "Sharing" from the View menu.
+- Enable "Scanner Sharing" by clicking in the box to its left.
+- Select the name of the scanner that you want to share with the network by clicking on it.
+
+4 - Access the scanner from Image Capture.
+Access the scanner from Image Capture.
+- Navigate to your Applications folder and open Image Capture.
+- Look in the left pane of Image Capture to locate the "Devices" and "Shared" sections. Scanners connected to your computer are under "Devices;" scanners shared by multiple computers on a network are under the "Shared" section.
+- Select the scanner you want to use by clicking on its name under "Devices" or "Shared."
+
+5 - Scan images using the Image Capture application.
+Scan images using the Image Capture application.
+- Set the item you want to scan on the scanning bed of your scanner.
+- Navigate to your Applications folder and open Image Capture.
+- Select your scanner mode. A pop-up menu will appear if your scanner supports different mode settings. Select your desired mode from the list, which may include options such as Transparency Positive or Negative, Flatbed or more.
+- Enable "Detect Separate Items" by clicking in the box to its left. This feature will automatically straighten, select and separate your scanned items if you place more than one item on the scanner.
+- Designate a "Scan To" folder destination.
+- Click on the arrows in the "Scan To" drop-down menu to choose the folder where you want to store your scanned items.
+- Choose an existing folder or select the "Other" option to choose a folder not shown. You can also choose an application such as Aperture, Preview or iPhoto or an email application to display the scanned item in a new email.
+- Click on the "Scan" button to begin the scanning process.
+

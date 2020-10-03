@@ -1,0 +1,43 @@
+Download YouTube Videos on a Mac
+https://www.wikihow.com/Download-YouTube-Videos-on-a-Mac
+
+0 - Using QuickTime
+
+1 - Open the video you want to record on YouTube.
+Open the video you want to record on YouTube. Don't play the video just yet—just bring it up on the screen so it's ready.
+- ;
+
+2 - Open QuickTime on your Mac.
+Open QuickTime on your Mac. It's the gray-and-blue "Q" icon on the Launchpad and in the Applications folder.
+
+3 - Click the File menu.
+Click the File menu. It's at the top-left corner of the screen in the menu bar.
+
+4 - Click New Screen Recording on the menu.
+Click New Screen Recording on the menu. This opens the Screen Recording window.
+- Depending on the version of macOS you're using, you may see a toolbar with several icons on it instead.
+
+5 - Select Internal Microphone from the menu.
+Select Internal Microphone from the menu. The menu is the downward-pointing arrow to the right of the red circle at the center of the window. This ensures that the app captures the video's sound.[1]
+- X
+- Research source
+- 
+- If you don't see such a menu, click Options instead.
+
+6 - Click the red circle button.
+Click the red circle button. You'll see some quick instructions about selecting an area of the screen to record.
+
+7 - Drag the crosshairs over to select the video.
+Drag the crosshairs over to select the video. This tells QuickTime to only capture the video rather than the entire screen.
+
+8 - Click Record and start playing the video.
+Click Record and start playing the video. If the sound isn't on, be sure to turn it on now.
+
+9 - Click the Stop Recording icon when the video is finished.
+Click the Stop Recording icon when the video is finished. It's on the menu at the top of the screen and looks like a black circle with a white square inside.[2]
+- X
+- Research source
+- 
+-  QuickTime will stop recording the screen and display the finished recording, which is also saved to your Movies folder.
+- If you want to trim the beginning and/or end from the recording, click the Edit menu and select Trim. You can then drag the yellow trimming bar to select the part of the video you want to keep and click Trim to save your changes.
+

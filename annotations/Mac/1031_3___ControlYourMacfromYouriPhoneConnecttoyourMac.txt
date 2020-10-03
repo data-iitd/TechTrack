@@ -1,0 +1,30 @@
+Control Your Mac from Your iPhone
+https://www.wikihow.com/Control-Your-Mac-from-Your-iPhone
+
+0 - Connect to your Mac
+
+1 - Click the + Icon.
+Click the + Icon.  It's in the upper-right corner.
+
+2 - Type the Local Hostname in the bar that says "Address".
+Type the Local Hostname in the bar that says "Address".  This is the information that was written down in Part 1.  You can also type your Mac's IP address, if you know it.
+
+3 - Type your Mac's Computer Name in the bar that says "Name".
+Type your Mac's Computer Name in the bar that says "Name".  This is the information we gathered in Part 1.
+
+4 - Tap Save.
+Tap Save.  It's in the upper-right corner.
+
+5 - Tap Connect.
+Tap Connect.  It's in the middle of the page.
+
+6 - Tap Connect in the top-right.
+Tap Connect in the top-right. It's in the corner of the page.
+
+7 - Type your password in the bar that says "Password".
+Type your password in the bar that says "Password".  This is the same password you set up while enabling Screen Sharing on your Mac in Part 1.
+
+8 - Tap Done.
+Tap Done.  VNC Viewer will now connect to your Mac.  You may need to scroll to the left or right to see the entire screen.
+- If this is your first time connecting to your Mac remotely, you'll be shown some gestures to navigate your computer using your phone. Tap "Next" and follow the prompts!
+

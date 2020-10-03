@@ -1,0 +1,29 @@
+T1	Software-Other 175 190	screen recorder
+A1	isInstalled T1 f->t
+T2	Software-Other 648 663	screen recorder
+A2	isInstalled T2 f->t
+T3	Software-Other 1085 1095	Fixed Area
+A3	isSettingsChanged T3 true
+T4	Software-Other 1151 1161	Fullscreen
+A4	isSettingsChanged T4 true
+T5	Software-Other 1279 1289	Mouse Area
+A5	isSettingsChanged T5 true
+T6	Software-Other 1407 1420	Single Window
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	
+R3	SubPart Arg1:T5 Arg2:T2	
+R4	SubPart Arg1:T6 Arg2:T2	
+T7	Software-Other 1685 1698	audio devices
+A7	isOpened T7 f->t
+T8	Hardware-Other 1722 1741	Built-in microphone
+T9	Software-Other 1767 1775	speakers
+T10	Software-Other 1862 1877	camera settings
+A8	isSettingsChanged T10 false
+T11	Software-Other 2100 2114	mouse settings
+A9	isOpened T11 f->t
+T12	Software-OS-Related 2562 2578	screen recording
+A10	isOpened T12 f->t
+R5	SubPart Arg1:T7 Arg2:T2	
+R6	SubPart Arg1:T10 Arg2:T2	
+R7	SubPart Arg1:T11 Arg2:T2	

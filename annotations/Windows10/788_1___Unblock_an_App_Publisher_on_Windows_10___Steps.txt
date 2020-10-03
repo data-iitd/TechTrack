@@ -1,0 +1,24 @@
+Unblock an App Publisher on Windows 10
+https://www.wikihow.com/Unblock-an-App-Publisher-on-Windows-10
+
+0 - Steps
+
+1 - Press the ⊞ Win+X button at the same time.
+Press the ⊞ Win+X button at the same time. You should see a menu appear in the lower left corner of the screen.
+- ;
+
+2 - Select option Command Prompt (Admin).
+Select option Command Prompt (Admin).
+
+3 - Go to the program and right-click the installation file (usually .exe) with the mouse, while at the same time you press the ⇧ Shift button.
+Go to the program and right-click the installation file (usually .exe) with the mouse, while at the same time you press the ⇧ Shift button. Another menu will appear, from it, select Copy as path.
+
+4 - Go back to the Command Prompt window and paste the path you have just copied.
+Go back to the Command Prompt window and paste the path you have just copied. You can right-click and select paste or use Ctrl+V on your keyboard.
+
+5 - Click ↵ Enter.
+Click ↵ Enter.
+
+6 - Continue to install the program.
+Continue to install the program.
+

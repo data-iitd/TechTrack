@@ -1,0 +1,48 @@
+Screen Record on Windows
+https://www.wikihow.com/Screen-Record-on-Windows
+
+0 - Steps
+
+1 - Download and install the OBS Studio from the OBS Project website.
+Download and install the OBS Studio from the OBS Project website. Download the setup file for Windows from the website, and follow the steps in the installation wizard to set it up on your computer.
+- OBS Studio is a free, third-party app that allows you to record and share videos of your computer's screen.
+- ;
+
+2 - Open the OBS Studio app on your computer.
+Open the OBS Studio app on your computer. Find the OBS app on your Start menu, and click on it to open the app.
+- You can open the Start menu and type "OBS" to quickly find and open it.
+
+3 - Click the Scene Collection tab.
+Click the Scene Collection tab. This button is on a menu bar at the top of the app window. It will open a drop-down menu.
+
+4 - Click New on the drop-down menu.
+Click New on the drop-down menu. OBS saves your videos and screen captures as scenes. This will create a new scene, and prompt you to name it in a new pop-up.
+
+5 - Enter a name for your new scene.
+Enter a name for your new scene. You can give your scene a name here, and click OK to save it.
+
+6 - Click the + button in the Sources section.
+Click the + button in the Sources section. The Sources box is located in the lower-left corner of the app window. It will open a pop-up menu of available video and audio sources.
+
+7 - Select Display Capture on the pop-up menu.
+Select Display Capture on the pop-up menu. This option will allow you to record and save a video of your own screen.
+- You'll be prompted to name your Display Capture source in a new pop-up window.
+
+8 - Name your video source in the Create_Select window.
+Name your video source in the Create/Select window. Enter a name for your screen record source under Create new, and click OK to save it.
+
+9 - Click the Display drop-down.
+Click the Display drop-down. This will open a list of available video resolutions you can select for your screen capture.
+
+10 - Select a video resolution for your screen capture.
+Select a video resolution for your screen capture. OBS allows you to record your screen in a variety of standard and high-definition resolution rates. Select the resolution you want to record, and click OK.
+
+11 - Click the Start Recording button.
+Click the Start Recording button. This button is located in the lower-right corner of the app window. It will start recording a video your screen.
+
+12 - Click the Minimize icon.
+Click the Minimize icon. This will minimize the OBS window to your desktop taskbar. You can now record anything on your screen.
+
+13 - Click the Stop Recording button.
+Click the Stop Recording button. This button is located in the lower-right corner of the OBS window. It will stop recording your screen, and save the recorded video to your Videos folder.
+

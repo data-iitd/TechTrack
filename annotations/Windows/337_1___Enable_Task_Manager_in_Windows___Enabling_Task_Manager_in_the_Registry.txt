@@ -1,0 +1,43 @@
+Enable Task Manager in Windows
+https://www.wikihow.com/Enable-Task-Manager-in-Windows
+
+0 - Enabling Task Manager in the Registry
+
+1 - Scan your computer for malware and viruses.
+Scan your computer for malware and viruses. If you see an error that says "Task Manager has been disabled by your administrator," it's possible your PC is infected with a virus. Do a full virus scan and follow your antivirus app's on-screen instructions to remove infections before you continue.
+- See How to Remove Malware to learn more about removing viruses and other malware.
+
+2 - Press ⊞ Win+S to open the Windows search bar.
+Press ⊞ Win+S to open the Windows search bar. This keyboard shortcut works in all versions of Windows beginning with Vista.
+
+3 - Type regedit and press ↵ Enter.
+Type regedit and press ↵ Enter. This opens the Registry Editor.
+- Follow the on-screen instructions to grant permission for the Registry Editor to run and enter your admin password if prompted.
+
+4 - Open HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System.
+Open HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System. You'll do this using the navigation tree in the left column of the window. Begin by double-clicking HKEY_CURRENT_USER to expand its contents, where you'll double-click Software, followed by Microsoft, etc. Continue until you've double-clicked Policies under System.
+- If you don't see the System option, skip to step 6.
+
+5 - Right-click DisableTaskMgr in the right panel and select Delete.
+Right-click DisableTaskMgr in the right panel and select Delete. This removes the flag that disabled the Task Manager for the current user.
+- DisableTaskMgr only appears when the Task Manager is disabled in the registry for this user. If you don't see it, just continue to the next step.
+
+6 - Go to HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System.
+Go to HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System. Again, you'll use the tree in the left column to get there.
+- If you don't see the System option, skip to step 8.
+
+7 - Right-click DisableTaskMgr in the right panel and select Delete.
+Right-click DisableTaskMgr in the right panel and select Delete. This removes the flag that disabled the Task Manager for the whole PC.
+- DisableTaskMgr only appears when the Task Manager is disabled in the registry for the PC. If you don't see it, just continue to the next step.
+
+8 - Go to HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Policies\System.
+Go to HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Policies\System.
+- If you haven't found the System at any of these paths, see the Enabling Task Manager in Group Policy Editor method.
+
+9 - Right-click DisableTaskMgr in the right panel and select Delete.
+Right-click DisableTaskMgr in the right panel and select Delete. This removes the final flag that could be blogging the Task Manager.
+- If you didn't find DisableTaskMgr at any of these paths, see the Enabling Task Manager in Group Policy Editor method.
+
+10 - Restart your PC.
+Restart your PC. If you were able to delete the DisableTaskMgr option at one or more of those registry paths, you will now be able to launch the Task Manager normally.
+

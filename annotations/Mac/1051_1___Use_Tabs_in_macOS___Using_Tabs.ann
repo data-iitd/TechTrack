@@ -1,0 +1,12 @@
+T1	Software-Other 128 139	application
+A1	isOpened T1 f->t
+T2	Software-OS-Related 690 691	+
+A2	isOpened T2 f->t
+T3	Software-Other 1779 1785	Window
+A3	isOpened T3 f->t
+T4	Software-Other 1832 1849	Merge All Windows
+A4	isSettingsChanged T4 true
+T5	Software-Other 2199 2205	Window
+A5	isSettingsChanged T5 true
+T6	Software-Other 2291 2309	Bring all to Front
+A6	isSettingsChanged T6 true

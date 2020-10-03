@@ -1,0 +1,25 @@
+T1	Software-Other 120 130	OBS Studio
+A1	isInstalled T1 f->t
+T2	Software-Other 256 263	Windows
+A2	isOpened T2 f->t
+T3	Software-Other 493 503	OBS Studio
+A3	isOpened T3 f->t
+T4	Hardware-Devices 516 524	computer
+A4	isUsed T4 true
+T5	Software-OS-Related 659 664	Start
+A5	isOpened T5 f->t
+T6	Software-Other 731 747	Scene Collection
+A6	isOpened T6 f->t
+T7	Software-Other 889 892	New
+A7	isOpened T7 f->t
+T8	Software-Other 1456 1471	Display Capture
+A8	isOpened T8 f->t
+T9	Software-Other 1907 1914	Display
+A9	isOpened T9 f->t
+T10	Software-Other 2312 2314	OK
+T11	Software-Other 2334 2349	Start Recording
+A10	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T3	
+T12	Software-Other 2686 2700	Stop Recording
+A11	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T3	

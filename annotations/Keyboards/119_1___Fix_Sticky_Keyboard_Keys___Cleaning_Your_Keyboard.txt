@@ -1,0 +1,58 @@
+Fix Sticky Keyboard Keys
+https://www.wikihow.com/Fix-Sticky-Keyboard-Keys
+
+0 - Cleaning Your Keyboard
+
+1 - Disconnect the keyboard from its power source.
+Disconnect the keyboard from its power source. If you're using a laptop, this entails turning off and unplugging the laptop and removing its battery if possible. If you're using a standalone keyboard, unplugging it and/or removing the batteries will suffice.
+- ;
+
+2 - Spray the keyboard with compressed air.
+Spray the keyboard with compressed air. Use the compressed air to blow any debris or dust out from the spaces between the keys and the keyboard base.
+- Spritzing the compressed air around each key is a good idea; even if not all of the keys are stuck, this will prevent future sticking.
+
+3 - Remove any remaining objects with a toothpick.
+Remove any remaining objects with a toothpick. If any large objects (e.g., residue) remain visible near or under the keyboard's keys, use a toothpick to scrape away the objects.
+
+4 - Wipe down your keyboard with isopropyl alcohol.
+Wipe down your keyboard with isopropyl alcohol. Lightly spritz isopropyl alcohol onto a clean cloth, then run it from left to right across your keyboard's surface. This will help remove any gunk or sticky residue from around the keys.[1]
+- X
+- Research source
+- 
+- 
+- If you don't have isopropyl alcohol, you can use water; however, make sure you pat dry your keyboard before proceeding if you do this.
+- If your computer has a UV coating or a similar effect, do not use isopropyl alcohol as it will remove the coating. Use warm water instead.
+
+5 - Test the keys.
+Test the keys. Try pressing repeatedly the sticky keys. If they aren't still sticky, you can stop here; otherwise, continue with the rest of this method.
+
+6 - Take a picture of your keyboard.
+Take a picture of your keyboard. Before you remove any keys, photograph your keyboard so that you know which keys go where.
+
+7 - Remove the sticky keys from the keyboard.
+Remove the sticky keys from the keyboard. If you're using a mechanical keyboard (e.g., a desktop keyboard), use a keycap puller if you have one; otherwise, you can wrap floss around the base of the key and gently pull upward. You may also have to resort to a flat-head screwdriver to pry up the keys.
+- If you have a laptop, refer to your laptop's manual or online documentation for instructions on removing the keys (in most cases, you'll pry the keys up from a specific point to avoid breaking their latches).
+- If you have a MacBook laptop, you can remove the key(s) by prying it/them up from the top of the key(s).
+- Most debris is found in the letters and numbers. Other keys tend to be less dirty and more difficult to replace after removal, especially the space bar.[2]
+- X
+- Research source
+
+8 - Clean under the keys.
+Clean under the keys. Use compressed air to remove exposed dust and debris, and a Q-tip or cloth dampened with isopropyl alcohol to remove stickiness and stains.
+- For laptop keyboards and other keyboards with delicate internal parts, use gentle swabbing with a Q-tip only.
+
+9 - Wash and dry the keys.
+Wash and dry the keys. If the underside of your keys are discolored or dirty, put them in a colander and run water over them, or rub them in a bucket of soapy water. Let them air dry completely on a paper towel.
+
+10 - Re-lubricate a mechanical keyboard's keys.
+Re-lubricate a mechanical keyboard's keys. If you have a mechanical keyboard, press down on the sticky key's lever and apply a drop of lubricant to the walls of the key's well, then release and press the lever a few times to incorporate the lubricant.
+- Make sure they lubricant you're using is specifically designed for keyboards or other sensitive plastics. Using a standard lubricant such as WD-40 may ruin the keyboard.
+- This is only necessary if the mechanical keyboard's lever(s) is/are still sticking after your cleaning.
+
+11 - Let your keyboard dry for at least two days before using it.
+Let your keyboard dry for at least two days before using it. Once your keyboard is bone-dry, you can proceed with reassembling it, plugging it back into your computer, and testing it out.[3]
+- X
+- Research source
+- 
+- If the keys are still sticking, particularly on an older mechanical keyboard, consider taking your keyboard in for professional repairs.
+

@@ -1,0 +1,33 @@
+Create and Edit Text File in Linux by Using Terminal
+https://www.wikihow.com/Create-and-Edit-Text-File-in-Linux-by-Using-Terminal
+
+0 - Creating a Quick Text File
+
+1 - Type cat > filename.txt into Terminal.
+Type cat > filename.txt into Terminal. You'll replace "filename" with your preferred text file name (e.g., "sample").
+- For example: when creating a file named "kitty", you'd type cat > kitty.txt.
+
+2 - Press ↵ Enter.
+Press ↵ Enter. Doing so will create a new text file with the specified name in your current directory. Your cursor will appear on a blank line in Terminal.
+
+3 - Enter your document's text.
+Enter your document's text. You can simply type as you typically would for any other text document. To save the current line of text and jump to the next line, you'll press ↵ Enter.
+- If you have the text file's directory open, you can also simply double-click the text file when it appears to perform this step.
+
+4 - Press Ctrl+Z.
+Press Ctrl+Z. This key command will save your work and return you to the Terminal command line, allowing you to continue entering commands.[1]
+- X
+- Research source
+
+5 - Type ls -l filename.txt into Terminal.
+Type ls -l filename.txt into Terminal. You'll replace "filename" with the text file's name. This command will locate your file, thus ensuring that it was safely created in your directory.[2]
+- X
+- Research source
+- 
+- 
+- For example: to open a file named "textfile", you would type ls -l textfile.txt.
+- The letters in this code are lowercase "L", not uppercase "i".
+
+6 - Press ↵ Enter.
+Press ↵ Enter. Doing so should display the time, date, and name of your file on the following line, thus indicating that it was created and saved in your selected directory.
+

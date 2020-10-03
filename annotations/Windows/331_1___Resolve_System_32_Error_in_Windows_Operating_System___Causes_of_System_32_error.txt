@@ -1,0 +1,21 @@
+Resolve System 32 Error in Windows Operating System
+https://www.wikihow.com/Resolve-System-32-Error-in-Windows-Operating-System
+
+0 - Causes of System 32 error:
+
+1 - Check for a corrupted Windows registry.
+Check for a corrupted Windows registry. The most common reason of System 32 error is the corrupted registry which can lead to computer freeze. The most common affected files are Config.nt, autorun.inf and svchost.exe etc.
+- ;
+
+2 - Check for malware and other malicious software on your computer.
+Check for malware and other malicious software on your computer. It can also be caused due to malwares which causes your computer to respond in undesired ways. Most of the malware enters your computer through spam mails and adware's.
+
+3 - Check for bad system files downloaded via the Internet.
+Check for bad system files downloaded via the Internet. System 32 error can be triggered when you update your system files via internet. Some of the sites which promise to provide full version of software contain corrupted files or even are the Trojans which causes lethal damage by uploading virus on your computer.
+
+4 - Check for hardware issues.
+Check for hardware issues. When you replace or add any hardware then it may be possible that it's not compatible to your existing computer setup which can create problem in the operating system. This can result in the System 32 error or you may hear different types of sounds during booting period of computer.
+
+5 - Check for faulty software update issues.
+Check for faulty software update issues. Any software update of your computer can also lead to unwanted changes in the registry which inhibits your computer to function properly.
+

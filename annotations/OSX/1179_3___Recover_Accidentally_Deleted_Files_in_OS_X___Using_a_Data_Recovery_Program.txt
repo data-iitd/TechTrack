@@ -1,0 +1,36 @@
+Recover Accidentally Deleted Files in OS X
+https://www.wikihow.com/Recover-Accidentally-Deleted-Files-in-OS-X
+
+0 - Using a Data Recovery Program
+
+1 - Stop using your Mac for now.
+Stop using your Mac for now. The key to recovering files using a data recovery program is to stop using the Mac's hard drive immediately. Don't download any software or create any folders or backups now, since doing so may overwrite the space where the file that you want to recover was stored.
+
+2 - Download a file recovery program.
+Download a file recovery program. You will most likely have to pay for your selected program. Make sure to download the program on another computer or drive so that you don't accidentally overwrite the file you are trying to recover. Popular programs include the following:[2]
+- X
+- Research source
+- 
+- 
+- PhotoRec (Free)
+- Disk Drill (paid)
+- Data Rescue (paid)
+- EaseUS (paid)
+
+3 - Install the data recovery program on a USB drive.
+Install the data recovery program on a USB drive. If you can do this, you'll cut down on the risk of overwriting your Mac's files.
+- If you aren't able to install the recovery program on a USB flash drive, you can at least move the program's setup file onto your Mac from the USB drive. This isn't ideal, but it may be necessary.
+
+4 - Scan your drive.
+Scan your drive. The process will vary depending on the program you choose, but generally you will be able to select the drive that you want to scan. Select the drive that contained the files you accidentally deleted, then select the Scan option.
+- Your selected program may have additional options to select before continuing.
+
+5 - Select the files that you want to recover.
+Select the files that you want to recover. After scanning your drive, you will be presented a list of files that can be recovered. You can select these in order to restore them.
+- File names will often be destroyed, so you may have to preview each file individually in order to find the one you want.
+- Not all files can be restored.
+
+6 - Save your files.
+Save your files. After selecting the files you want to recover, you will be prompted to save the files somewhere. If you still have more files to try to find, do not save them to the drive they were deleted from. Instead, save them to an external drive or another connected drive.
+- If trying to recover a large number of files, recover the most important ones first. Even the recovery process can overwrite and corrupt deleted files, so make sure you grab the ones you need the most first.
+

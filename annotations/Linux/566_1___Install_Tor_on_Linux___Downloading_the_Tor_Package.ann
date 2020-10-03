@@ -1,0 +1,12 @@
+T1	Software-Other 118 129	Tor website
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 220 231	web browser
+A3	isInstalled T2 start-T
+T4	Software-Other 446 454	DOWNLOAD
+T3	Software-Other 305 313	Download
+A4	isOpened T3 f->t
+T5	Software-Other 414 431	Tor download page
+T6	Software-Other 267 281	Tor setup file
+T7	Software-Other 858 868	setup file
+T8	Software-Other 1136 1150	Tor setup file

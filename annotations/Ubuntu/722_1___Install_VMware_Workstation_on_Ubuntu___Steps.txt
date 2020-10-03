@@ -1,0 +1,45 @@
+Install VMware Workstation on Ubuntu
+https://www.wikihow.com/Install-VMware-Workstation-on-Ubuntu
+
+0 - Steps
+
+1 - In the Ubuntu operating system, open the Terminal window by pressing the “ctrl + alt + T” keys from the keyboard.
+In the Ubuntu operating system, open the Terminal window by pressing the “ctrl + alt + T” keys from the keyboard.
+- ;
+
+2 - In the Terminal window, set your current working directory to the directory that has a copy of the VMware workstation “.bundle” file.
+In the Terminal window, set your current working directory to the directory that has a copy of the VMware workstation “.bundle” file. For example, it may have been placed in the "Downloads" directory, so you could set that as your current working directory.
+
+3 - Enter the “ls .
+Enter the “ls ./” command in the Terminal window to list the contents of the current directory. This list will be helpful when you type in the name of VMware workstation “.bundle” file in the next step.
+
+4 - Enter “ gksudo bash VMware-Workstation-Full-10.0.3-1895310.x86_64.bundle” command in the Terminal window.
+Enter “ gksudo bash VMware-Workstation-Full-10.0.3-1895310.x86_64.bundle” command in the Terminal window. This will get the installation started. “VMware-Workstation-Full-10.0.3-1895310.x86_64.bundle” is the complete name of the VMware workstation file that you are about to install.
+
+5 - Accept the terms.
+Accept the terms. When the VMware workstation Installer window pops up, select the radio button that says, “I accept the terms in the license agreement”, and click “Next”.
+- Accept terms again. On the next page again, select the radio button that says, “I accept the terms in the license agreement”, and click “Next”.
+
+6 - Make a selection based on your preference.
+Make a selection based on your preference. Namely, if you wish your VMware workstation to check for updates on startup, select “Yes”; otherwise, select “No”. Then click “Next”.
+- Make your preferred choice, and click “Next”.
+
+7 - Enter the username of any user that you might want to connect to your VMware workstation initially.
+Enter the username of any user that you might want to connect to your VMware workstation initially. Then click “Next”.
+
+8 - Keep the default entry for your virtual machine shared directory.
+Keep the default entry for your virtual machine shared directory. Click “Next”.
+
+9 - Keep the default port entry (443) for HTTPS port.
+Keep the default port entry (443) for HTTPS port. Click “Next”.
+
+10 - Enter the license key that you were provided with at the time of VMware workstation software purchase.
+Enter the license key that you were provided with at the time of VMware workstation software purchase. Click “Next”.
+- You could skip this step by clicking “Next” without entering the license key, if you wish to enter it after installation.
+
+11 - Wait for installation to begin.
+Wait for installation to begin. At this point you should see that the actual installation of VMware workstation software has begun.
+
+12 - Finally, when the installation is completed you will be notified.
+Finally, when the installation is completed you will be notified. Click the “Close” button to close the installer window.
+

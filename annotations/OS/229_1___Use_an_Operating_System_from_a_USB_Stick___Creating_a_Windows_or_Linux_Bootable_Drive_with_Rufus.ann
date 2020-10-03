@@ -1,0 +1,40 @@
+T1	Software-OS-Related 182 193	USB booting
+T2	Software-OS-Related 201 205	BIOS
+T3	Software-OS-Related 507 520	Save and Exit
+A1	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 545 551	reboot
+T5	Hardware-Other 796 811	USB flash drive
+T7	Software-Other 1591 1596	Rufus
+A2	isOpened T7 f->t
+T8	Hardware-Other 1743 1758	USB flash drive
+T9	Hardware-Other 1766 1774	computer
+T11	Hardware-Other 1933 1948	USB flash drive
+T12	Software-OS-Related 1872 1879	This PC
+T13	Software-Other 2058 2074	Partition Scheme
+A4	isOpened T13 f->t
+T14	Software-Other 2097 2117	MBR for BIOS or UEFI
+A5	isSettingsChanged T14 true
+T15	Software-Other 2481 2491	Filesystem
+A6	isOpened T15 f->t
+T16	Software-Other 2628 2632	NTFS
+A7	isSettingsChanged T16 true
+T17	Software-Other 2702 2707	exFat
+A8	isSettingsChanged T17 true
+T18	Software-Other 2801 2821	Create Bootable Disk
+A9	isSettingsChanged T18 true
+T10	Software-Other 1900 1906	Device
+A3	isOpened T10 f->t
+R2	SubPart Arg1:T14 Arg2:T13	
+R3	SubPart Arg1:T16 Arg2:T15	
+R4	SubPart Arg1:T17 Arg2:T15	
+T19	Software-Other 2924 2937	Format Option
+R5	SubPart Arg1:T18 Arg2:T19	
+T20	Software-Other 3155 3164	ISO image
+A10	isSettingsChanged T20 true
+R6	SubPart Arg1:T20 Arg2:T19	
+T21	Software-Other 3500 3505	Start
+A11	isSettingsChanged T21 true
+R7	SubPart Arg1:T21 Arg2:T7	
+T22	Software-OS-Related 3835 3842	Restart
+T23	Hardware-Other 3848 3856	computer

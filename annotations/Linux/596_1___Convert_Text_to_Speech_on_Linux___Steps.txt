@@ -1,0 +1,43 @@
+Convert Text to Speech on Linux
+https://www.wikihow.com/Convert-Text-to-Speech-on-Linux
+
+0 - Steps
+
+1 - Download festival, espeak or freetts.
+Download festival, espeak or freetts.
+- ;
+
+2 - Install festival (Press Ctrl and D to exit it when it is running) or espeak.
+Install festival (Press Ctrl and D to exit it when it is running) or espeak.
+
+3 - A default voice is included but you can get voices from FestVox, MBROLA project, CMU Arctic or Nitech HTS.
+A default voice is included but you can get voices from FestVox, MBROLA project, CMU Arctic or Nitech HTS.
+
+4 - Unpack them by typing for t in `ls` ; do tar xvf $t ; done.
+Unpack them by typing for t in `ls` ; do tar xvf $t ; done.
+
+5 - Install themsudo mkdir -p _usr_share_festival_voices_english_sudo mv * _usr_share_festival_voices_english_.
+Install themsudo mkdir -p /usr/share/festival/voices/english/sudo mv * /usr/share/festival/voices/english/.
+
+6 - Get an audio encoder.
+Get an audio encoder.
+
+7 - Go to the command line.
+Go to the command line.
+
+8 - In festival type (SayText "Hello and welcome to Wikihow")
+
+In festival type (SayText "Hello and welcome to Wikihow")
+
+9 - To see a list of installed voices type (voice.list).
+To see a list of installed voices type (voice.list). To switch to a voice, type (voice_us2_mbrola) for example.
+
+10 - Or from the command line type echo "It's such a beautiful day!
+Or from the command line type echo "It's such a beautiful day! Why are you in front of the computer?" | festival --tts
+
+11 - Convert.
+Convert.
+
+12 - Type (quit) to quit.
+Type (quit) to quit.
+

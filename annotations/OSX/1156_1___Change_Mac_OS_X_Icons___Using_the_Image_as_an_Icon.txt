@@ -1,0 +1,28 @@
+Change Mac OS X Icons
+https://www.wikihow.com/Change-Mac-OS-X-Icons
+
+0 - Using the Image as an Icon
+
+1 - Find the icon you want to change.
+Find the icon you want to change. Go to the folder that contains the file you'd like to alter. If you want to change an icon on your dock, Control-click and select Options → Show in Finder.
+- You can change the icon of most folders, applications, and documents.
+- Certain special icons cannot be changed this way, including the Finder and Trash icons. You can change them with the system folder method, or using downloadable software such as LiteIcon (or Candybar for older OS X versions).[3]
+- X
+- Research source
+
+2 - Open the information window for that file.
+Open the information window for that file. Select the file by clicking on its name or image. Control-click the file and select Get Info from the drop-down menu. A new window should open with information about that file.
+- You can also open this window with the hotkey ⌘ Command+i, or the File → Get Info option in the top menu.
+
+3 - Select the image in the top left.
+Select the image in the top left. The file icon is in the top left corner of this window. Click it to select it, and you should see it highlighted in blue.
+
+4 - Paste your copied image.
+Paste your copied image. Paste the image you copied with the hotkey ⌘ Command + V, or the Edit → Paste command in the top menu. This should change the file icon to the image you copied earlier.
+- This will only change the icon for that specific file, not for all files of that type.
+
+5 - Troubleshoot.
+Troubleshoot. If a window pops up asking for a password, you are trying to change a file you do not have full access to. These files can only have their icons changed if you enter an administrator password, or if you log on to an account with access.
+- If you think your account should have access, expand the "Sharing and Permissions" section at the bottom of the Get Info window. Change your account name's permission setting to "Read&Write."
+- If that still doesn't work, try copy-pasting a second time, or restart your computer.
+

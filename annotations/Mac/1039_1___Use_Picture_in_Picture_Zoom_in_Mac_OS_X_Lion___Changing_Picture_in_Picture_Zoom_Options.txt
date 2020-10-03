@@ -1,0 +1,29 @@
+Use Picture in Picture Zoom in Mac OS X Lion
+https://www.wikihow.com/Use-Picture-in-Picture-Zoom-in-Mac-OS-X-Lion
+
+0 - Changing Picture in Picture Zoom Options
+
+1 - Click on the "Apple" icon in your menu bar, and select "System Preferences" from the menu.
+Click on the "Apple" icon in your menu bar, and select "System Preferences" from the menu.
+
+2 - Click on the "Universal Access" icon.
+Click on the "Universal Access" icon.
+
+3 - Click the "Options" button in the "Zoom" section.
+Click the "Options" button in the "Zoom" section.
+
+4 - Adjust the magnification.
+Adjust the magnification. To do so, drag the top slider left or right.
+
+5 - Play with zoom box placement.
+Play with zoom box placement. If you would rather have a stationary zoom window (instead of one which moves with the cursor), press the button next to "Stationary."Alternatively, you can choose "Tiled along Edge." This will display the zoomed area along the left edge of your screen.
+
+6 - Control where the window appears.
+Control where the window appears. If you choose the "Stationary" option, you can control where on your desktop the zoom window appears, as well as how much space it takes up. Click the "Adjust Size and Location" button, then drag the box that appears to your chosen place. You can change the size of the box by dragging the corners. Click the "OK" button when you are done.
+
+7 - Decide on the look of your cursor.
+Decide on the look of your cursor. Click the "Crosshair" button if you would rather see a crosshair style cursor in the zoom window (instead of a normal mouse pointer).
+
+8 - Invert colors.
+Invert colors. If you can read better with a black background, tick the "Invert Colors" box. This will invert all of the colors in the zoom box.
+

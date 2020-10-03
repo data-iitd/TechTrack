@@ -1,0 +1,25 @@
+Check Your Windows Product Key
+https://www.wikihow.com/Check-Your-Windows-Product-Key
+
+0 - Using Command Prompt
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Type command prompt into Start.
+Type command prompt into Start. This will search the computer for the Command Prompt app.
+
+3 - Click  Command Prompt.
+Click  Command Prompt. It's a black box at the top of the Start window. Command Prompt will open.
+- You must be on an administrator account in order to retrieve your key in this way.
+
+4 - Enter the product key retrieval code.
+Enter the product key retrieval code. Type wmic path softwarelicensingservice get OA3xOriginalProductKey into Command Prompt, then press ↵ Enter.
+
+5 - Note your product key.
+Note your product key. You should see the 25-character product key appear directly below the command that you entered; this is your product key.
+- 
+- Take a screenshot of the results or write down the key to make sure that you have access to it if needed.
+- If this command doesn't work, you'll need to use ProduKey to find your Windows product key.
+

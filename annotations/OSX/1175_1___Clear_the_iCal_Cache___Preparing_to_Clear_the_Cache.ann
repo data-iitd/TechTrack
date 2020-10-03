@@ -1,0 +1,27 @@
+T1	Software-OS-Related 143 155	Calendar app
+A1	isOpened T1 f->t
+T2	Software-OS-Related 431 435	File
+A2	isOpened T2 f->t
+T3	Software-OS-Related 446 452	Export
+A3	isOpened T3 f->t
+T4	Software-OS-Related 462 478	Calendar Archive
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 482 504	Select a save location
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 741 751	Apple Menu
+A6	isOpened T6 f->t
+T7	Software-OS-Related 762 780	System Preferences
+A7	isOpened T7 f->t
+T8	Software-OS-Related 790 807	Internet Accounts
+A8	isOpened T8 f->t
+T9	Software-OS-Related 811 840	Select the calendar's account
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 856 872	Restart your Mac
+A10	isOpened T10 f->t
+T11	Software-OS-Related 891 913	Internet Accounts page
+A11	isOpened T11 f->t
+T12	Software-OS-Related 928 944	account provider
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1609 1621	Calendar app
+A13	isOpened T13 t->f
+R1	SubPart Arg1:T5 Arg2:T1	

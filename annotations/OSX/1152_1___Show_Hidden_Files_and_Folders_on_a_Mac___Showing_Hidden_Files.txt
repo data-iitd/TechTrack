@@ -1,0 +1,29 @@
+Show Hidden Files and Folders on a Mac
+https://www.wikihow.com/Show-Hidden-Files-and-Folders-on-a-Mac
+
+0 - Showing Hidden Files
+
+1 - Open Finder.
+Open Finder. This app is a blue, face-shaped icon on your Mac's Dock.
+- ;
+
+2 - Click Go.
+Click Go. It's in the top-left row of menu items. Doing so invokes a drop-down menu.
+
+3 - Click Computer.
+Click Computer. This option is about halfway down the Go drop-down menu.
+
+4 - Double-click your hard drive's icon.
+Double-click your hard drive's icon. It resembles a grey box.
+- On most Macs, the hard drive is entitled "Macintosh HD".
+
+5 - Press ⇧ Shift+⌘ Command+.. This key combination will display any hidden folders in your Mac's hard drive. Any hidden folders or files will appear as grayed-out.
+
+This keyboard shortcut can be done from any Finder window. The main Hard Drive folder usually contains hidden system files and folders so you should be able to see this better here when the hidden files are visible (grayed-out).
+Press ⇧ Shift+⌘ Command+.. This key combination will display any hidden folders in your Mac's hard drive. Any hidden folders or files will appear as grayed-out.
+- This keyboard shortcut can be done from any Finder window. The main Hard Drive folder usually contains hidden system files and folders so you should be able to see this better here when the hidden files are visible (grayed-out).
+
+6 - Press ⇧ Shift+⌘ Command+. again. This will hide the hidden files again, making them invisible.
+
+Press ⇧ Shift+⌘ Command+. again. This will hide the hidden files again, making them invisible.
+

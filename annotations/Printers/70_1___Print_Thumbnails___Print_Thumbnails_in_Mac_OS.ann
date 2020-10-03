@@ -1,0 +1,10 @@
+T1	Hardware-Other 129 137	computer
+T2	Hardware-Devices 113 120	printer
+A1	isUsed T2 true
+T3	Software-Other 265 271	iPhoto
+A2	isOpened T3 f->t
+T4	Software-Other 940 944	File
+A3	isOpened T4 f->t
+T5	Software-Other 956 961	Print
+A4	isOpened T5 f->t
+A5	isPowered T2 start-T

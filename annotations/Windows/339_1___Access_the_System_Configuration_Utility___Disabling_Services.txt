@@ -1,0 +1,23 @@
+Access the System Configuration Utility
+https://www.wikihow.com/Access-the-System-Configuration-Utility
+
+0 - Disabling Services
+
+1 - Click the Services tab.
+Click the Services tab. It's near the upper-left side of the System Configuration window. This is where you can view things like program update processes, Windows services (e.g., audio), and other background running items.
+
+2 - Locate a service you want to disable.
+Locate a service you want to disable. Scroll through the list of currently running services until you find the one you want to disable. Services are arranged alphabetically by default.
+- If you don't have a specific service in mind when you open System Configuration, consider leaving the current services alone. Disabling random services can harm your computer.
+
+3 - Un-check the service.
+Un-check the service. Click the checkbox to the left of the service to remove the checkmark.
+- You can't disable vital Windows processes (e.g., the Wi-Fi service).
+
+4 - Click OK.
+Click OK. These are both at the bottom of the window. Doing so will mark the selected service(s) as disabled and close the System Configuration window.
+
+5 - Click Restart when prompted.
+Click Restart when prompted. This will restart your computer. Once it finishes restarting, your selected service(s) will officially be disabled.
+- You can also click Exit without restarting if you want to manually restart your computer later.
+

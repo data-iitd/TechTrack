@@ -1,0 +1,42 @@
+T1	Hardware-Other 175 181	laptop
+T2	Hardware-Other 196 203	NumLock
+T3	Hardware-Other 204 207	key
+T4	Hardware-Other 340 341	U
+T5	Hardware-Other 343 344	I
+T6	Hardware-Other 350 351	O
+T7	Hardware-Other 362 363	4
+T8	Hardware-Other 365 366	5
+T9	Hardware-Other 372 373	6
+T10	Hardware-Other 446 457	numeric pad
+T11	Software-OS-Related 707 712	Start
+A1	isOpened T11 f->t
+T12	Hardware-Devices 727 733	screen
+A2	isPowered T12 start-T
+T13	Hardware-Other 742 750	computer
+T14	Hardware-Other 865 872	desktop
+T15	Software-OS-Related 894 901	Windows
+A4	isOpened T15 start-T
+T16	Software-OS-Related 1045 1046	⊞
+T17	Hardware-Devices 1058 1066	keyboard
+A5	isPowered T17 start-T
+T18	Hardware-Devices 1114 1122	keyboard
+T19	Software-OS-Related 1131 1136	Start
+T20	Software-OS-Related 1282 1300	On-Screen Keyboard
+T21	Hardware-Other 1340 1346	laptop
+T22	Hardware-Other 1363 1370	NumLock
+T23	Software-OS-Related 1392 1399	Windows
+T24	Hardware-Other 1433 1444	numeric pad
+T25	Software-OS-Related 1462 1480	On-Screen Keyboard
+A8	isOpened T25 f->t
+T26	Software-OS-Related 1580 1587	Options
+T27	Software-OS-Related 1603 1621	On-Screen Keyboard
+T28	Hardware-Other 1705 1711	PrtScn
+T29	Software-OS-Related 1738 1760	Turn on numeric keypad
+T30	Software-OS-Related 1823 1825	OK
+T31	Software-OS-Related 1883 1901	On-Screen Keyboard
+T32	Hardware-Other 1920 1924	keys
+T33	Software-OS-Related 1932 1956	on-screen numeric keypad
+T34	Software-OS-Related 2136 2142	cursor
+T35	Software-OS-Related 2347 2360	character map
+R1	SubPart Arg1:T30 Arg2:T29	
+A6	isSettingsChanged T30 true

@@ -1,0 +1,42 @@
+Use a Digital Camera As a Web Cam
+https://www.wikihow.com/Use-a-Digital-Camera-As-a-Web-Cam
+
+0 - Steps
+
+1 - Check the manual of your digital camera to see if it can be used as a webcam.
+Check the manual of your digital camera to see if it can be used as a webcam. Many digital cameras have this functionality and even come with webcam software.
+- ;
+
+2 - Install it.
+Install it. If you have a software CD that needs to be installed on the computer before using your digital camera as a webcam, install it now.
+
+3 - Connect your USB video source capturing device to your computer.
+Connect your USB video source capturing device to your computer. Plug it in to the USB port of your computer. Beware, you need all your drivers installed into your computer otherwise it’s not going to work. Ensure that the device is properly positioned before inserting. If you encounter any resistance on inserting, remove and check the position again.
+
+4 - Plug it in.
+Plug it in. Grab all audio/video cables of the USB video source capturing device end and plug them in to the audio/video cables that come with the camera which are standard since most digital cameras come with them to connect your camera with the TV.
+
+5 - Plug in the jack of the audio/video cables right into your camera.
+Plug in the jack of the audio/video cables right into your camera.
+
+6 - Go to my computer and click on the USB video source capturing device drive icon.
+Go to my computer and click on the USB video source capturing device drive icon. This will show the video capturing on the camera.
+
+7 - Plug your digital camera's power adapter into the camera.
+Plug your digital camera's power adapter into the camera. Some won't function as a webcam unless they are plugged into A/C power as it requires too much power. Even if your digital camera functions as a webcam while on batteries, A/C power saves your batteries and prevents your camera from shutting off in the middle of a broadcast.
+
+8 - Turn your digital camera on.
+Turn your digital camera on. Put camera on video mode. You're ready to video chat.
+
+9 - Plug the microphone into the microphone jack of your sound card.
+Plug the microphone into the microphone jack of your sound card. Use a separate microphone if your digital camera doesn't transmit sound when used as a webcam.
+
+10 - Set up your camera as close to your monitor as possible.
+Set up your camera as close to your monitor as possible. This allows better face to face communication.
+
+11 - Position yourself about 2 to 3 feet (0.6 to 0.9 m) away from your digital camera.
+Position yourself about 2 to 3 feet (0.6 to 0.9 m) away from your digital camera. Most digital camera's focus best at this distance when used as a webcam.
+
+12 - Enjoy using your camera as a web cam.
+Enjoy using your camera as a web cam.
+

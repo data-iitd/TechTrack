@@ -1,0 +1,20 @@
+T1	Hardware-Devices 95 101	webcam
+T2	Hardware-Other 130 139	computers
+T3	Hardware-Devices 196 202	screen
+A1	isPowered T3 start-T
+T4	Hardware-Other 378 386	USB port
+T7	Software-OS-Related 587 598	Photo Booth
+T20	Hardware-Devices 2062 2068	screen
+T21	Software-OS-Related 2117 2128	Photo Booth
+T30	Hardware-Devices 2429 2435	webcam
+T32	Software-OS-Related 549 573	Mac Spotlight search bar
+T9	Software-OS-Related 729 739	webcam app
+T10	Hardware-Devices 1755 1761	screen
+T34	Hardware-Devices 1495 1501	screen
+A2	isOpened T32 f->t
+A3	isOpened T7 f->t
+T12	Software-OS-Related 779 790	camera mode
+*	Equiv T9 T7
+A4	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T7	
+A5	isUsed T30 true

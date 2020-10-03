@@ -1,0 +1,26 @@
+Use Siri on a Mac
+https://www.wikihow.com/Use-Siri-on-a-Mac
+
+0 - Basics of Using Siri
+
+1 - Connect to the Internet
+Connect to the Internet. To make use of the full range of Siri's functions, you'll want to make sure you have an internet connection active.
+
+2 - Locate the Siri application.
+Locate the Siri application. Siri functions as a built-in application on macOS Sierra that you'll need to have open on your computer in order to use. Its icon is shown as a circular display of red, green, and blue wavelengths. You can find Siri in a number of places:
+- Click on the Siri icon in the top-right corner of your computer screen.
+- Click on the Siri icon in the dock of applications that displays at the bottom of your screen. (If you have manually removed Siri from your dock, the application will not be visible here.)
+- Click on the Finder icon in the far-left corner of your dock. Then, click on "Applications" in the sidebar on the left of the window, type "Siri" into the search bar, and double-click on the result that appears.
+- If you have a MacBook Pro with a Touch Bar, tap on the Siri icon in the right-hand corner of the Touch Bar.
+
+3 - Click on the Siri icon to open it.
+Click on the Siri icon to open it. Siri will begin to listen to your microphone once open.
+- Alternatively, you can open Siri by holding down ⌘ Cmd+Spacebar.
+- If you found Siri by searching for it in Finder, you'll need to double-click on the icon to open it.
+
+4 - Speak loudly and clearly.
+Speak loudly and clearly. Siri will transform your words into text and produce a response in the app's window. Though you do not need to get close to your Mac's microphone in order to be heard by Siri, you will get more accurate results to your query by enunciating and speaking slowly enough that Siri can easily distinguish each word you are using.
+
+5 - Avoid using Siri in noisy areas.
+Avoid using Siri in noisy areas. If you use Siri in rooms where there are other people speaking or a lot of ambient noise, you may find that Siri has a harder time picking up what you say, or that Siri erroneously picks up other voices or sounds.
+

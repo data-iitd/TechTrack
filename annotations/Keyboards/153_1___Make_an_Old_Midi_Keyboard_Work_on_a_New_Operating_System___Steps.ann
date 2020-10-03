@@ -1,0 +1,50 @@
+T1	Software-OS-Related 171 180	Windows 7
+T2	Software-Device-Drivers 210 215	PC-50
+A1	isInstalled T2 f->t
+T3	Software-OS-Related 348 355	desktop
+T4	Software-OS-Related 480 485	Files
+A2	isOpened T4 f->t
+T5	Software-OS-Related 516 528	RDIF1053.inf
+T6	Software-OS-Related 655 662	notepad
+A4	isOpened T6 f->t
+T7	Software-OS-Related 698 796	[Roland.NTamd64.6.1];; Windows7%RDID0053DeviceDesc%=RDID0053Install, USB\VID_0582&PID_008B ; PC-50
+T8	Software-OS-Related 975 982	notepad
+T9	Software-OS-Related 999 1012	Control Panel
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1029 1047	Hardware and Sound
+A7	isOpened T10 f->t
+T11	Software-OS-Related 1062 1082	Devices and Printers
+A8	isOpened T11 f->t
+T12	Software-OS-Related 1095 1109	Device Manager
+A9	isOpened T12 f->t
+T13	Software-OS-Related 1488 1502	Unknown Device
+T14	Software-OS-Related 1532 1542	Properties
+T15	Software-OS-Related 1562 1569	Details
+A12	isOpened T15 f->t
+T16	Software-OS-Related 1606 1618	Hardware IDs
+T17	Software-OS-Related 1811 1815	Copy
+T18	Software-OS-Related 1885 1892	notepad
+T19	Software-OS-Related 1907 1928	USB\VID_0582&PID_008B
+T20	Software-OS-Related 2065 2069	Save
+A15	isSettingsChanged T20 true
+T21	Software-OS-Related 2140 2154	Device Manager
+T22	Software-OS-Related 2074 2078	file
+A17	isOpened T22 t->f
+T23	Software-OS-Related 2205 2219	Unknown Device
+T24	Software-OS-Related 2259 2281	Update Driver Software
+T25	Software-OS-Related 2391 2429	Browse my computer for driver software
+A20	isOpened T25 f->t
+T26	Software-OS-Related 2503 2559	Let me pick from a list of device drivers on my computer
+A21	isOpened T26 f->t
+T27	Software-OS-Related 2651 2660	Have Disk
+T28	Software-OS-Related 2700 2706	Browse
+A22	isOpened T28 f->t
+A23	isOpened T27 f->t
+T29	Software-OS-Related 2772 2784	RDIF1053.inf
+T30	Software-OS-Related 1378 1409	administrator login information
+R1	SubPart Arg1:T20 Arg2:T18	
+A3	isSettingsChanged T29 true
+T31	Software-Device-Drivers 298 302	file
+A5	isSettingsChanged T31 true
+R2	SubPart Arg1:T31 Arg2:T2	
+T32	Software-Device-Drivers 452 456	file

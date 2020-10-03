@@ -1,0 +1,20 @@
+T1	Software-Other 199 242	https://accounts.google.com/signin/recovery
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 595 599	Next
+A3	isOpened T2 f->t
+T3	Software-Other 528 567	Enter the email address for the account
+A4	isSettingsChanged T3 true
+T4	Software-Other 647 683	Enter the last password you remember
+A5	isSettingsChanged T4 true
+T5	Software-Other 840 844	Next
+A6	isSettingsChanged T5 true
+T6	Software-Other 1059 1063	Send
+A7	isOpened T6 f->t
+T7	Software-Other 1288 1323	ype the 6-digit code into the blank
+A8	isSettingsChanged T7 true
+T8	Software-Other 1351 1355	Next
+A9	isOpened T8 f->t
+T9	Software-Other 1401 1435	Reset your Google account password
+A10	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T1	

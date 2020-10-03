@@ -1,0 +1,32 @@
+Back Up a Mac Without Time Machine
+https://www.wikihow.com/Back-Up-a-Mac-Without-Time-Machine
+
+0 - Backing up Your Mac
+
+1 - Click Disk Utility.
+Click Disk Utility. It's in the middle of the Recovery window.
+
+2 - Click Continue.
+Click Continue. This option is in the bottom-right corner of the window. Doing so opens the Disk Utility window.
+
+3 - Select your external hard drive.
+Select your external hard drive. Click your external hard drive's name or letter in the left-hand side of the window.
+
+4 - Click Edit.
+Click Edit. This menu item is in the upper-left corner of the screen. A drop-down menu will appear.
+
+5 - Click Restore….
+Click Restore…. It's in the drop-down menu. This will open a pop-up window.
+
+6 - Select your Mac's hard drive.
+Select your Mac's hard drive. Click the "Restore from" drop-down box, then click your Mac's hard drive's name in the resulting drop-down menu.
+
+7 - Click Restore.
+Click Restore. It's a blue button on the right side of the window. This will prompt your Mac's hard drive's contents to begin copying over to your external hard drive.
+
+8 - Wait for the copying to finish.
+Wait for the copying to finish. When prompted, you're free to restart your Mac and begin using it like usual.
+
+9 - Eject your external hard drive
+Eject your external hard drive. This will ensure that the information stored on the drive doesn't accidentally get corrupted.
+

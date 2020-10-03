@@ -1,0 +1,10 @@
+T1	Software-OS-Related 1129 1134	Apply
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 604 609	theme
+T3	Software-OS-Related 134 158	Personalization settings
+A2	isOpened T3 f->t
+T4	Software-OS-Related 281 287	Themes
+A3	isOpened T4 f->t
+T5	Software-OS-Related 827 830	Get
+R1	SubPart Arg1:T1 Arg2:T4	
+T6	Software-OS-Related 1340 1348	Settings

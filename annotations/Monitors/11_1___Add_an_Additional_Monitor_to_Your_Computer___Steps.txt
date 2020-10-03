@@ -1,0 +1,36 @@
+Add an Additional Monitor to Your Computer
+https://www.wikihow.com/Add-an-Additional-Monitor-to-Your-Computer
+
+0 - Steps
+
+1 - Plug the 2nd monitor into the wall.
+Plug the 2nd monitor into the wall.
+- ;
+
+2 - Look on the back of the computer and find a VGA spot.
+Look on the back of the computer and find a VGA spot.
+
+3 - Plug the monitor in then turn the computer and both monitors on
+
+Plug the monitor in then turn the computer and both monitors on
+
+4 - Log in.
+Log in.
+
+5 - Go to control panel and click Appearance and Personalization.
+Go to control panel and click Appearance and Personalization.
+
+6 - Click Display
+
+Click Display
+
+7 - Click on Change display settings
+
+Click on Change display settings
+
+8 - Click 'Identify' first, then under 'Multiple displays', choose 'Extend these displays'.
+Click 'Identify' first, then under 'Multiple displays', choose 'Extend these displays'.
+
+9 - Click 'Apply'.
+Click 'Apply'.
+

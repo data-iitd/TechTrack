@@ -1,0 +1,24 @@
+T1	Hardware-Other 121 127	laptop
+T2	Hardware-Other 160 164	keys
+T3	Hardware-Other 273 280	keycaps
+T4	Hardware-Other 509 513	keys
+T5	Hardware-Other 658 665	keycaps
+T6	Hardware-Other 701 705	tabs
+T7	Hardware-Devices 752 760	keyboard
+A1	isPowered T7 start-F
+T8	Hardware-Other 896 900	keys
+T9	Hardware-Devices 1143 1151	keyboard
+T10	Hardware-Other 1289 1293	keys
+T11	Hardware-Devices 1544 1552	keyboard
+T12	Hardware-Other 1613 1620	keycaps
+T13	Hardware-Other 1650 1659	container
+T14	Hardware-Other 1634 1638	bowl
+T15	Hardware-Other 1719 1726	toolkit
+T16	Hardware-Other 1858 1864	laptop
+T17	Hardware-Other 1930 1931	w
+T18	Hardware-Other 1948 1953	knife
+T19	Hardware-Other 2004 2008	keys
+T20	Hardware-Other 2027 2032	cloth
+T21	Hardware-Other 2045 2049	swab
+T22	Hardware-Other 2225 2231	keycap
+T23	Hardware-Other 2458 2465	keycaps

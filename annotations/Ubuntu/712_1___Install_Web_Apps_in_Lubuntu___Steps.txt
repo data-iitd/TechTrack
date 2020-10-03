@@ -1,0 +1,48 @@
+Install Web Apps in Lubuntu
+https://www.wikihow.com/Install-Web-Apps-in-Lubuntu
+
+0 - Steps
+
+1 - Download the ice-master.zip file in the link below.
+Download the ice-master.zip file in the link below. http://www62.zippyshare.com/v/9216851/file.html
+- ;
+
+2 - Extract and open the extracted files.
+Extract and open the extracted files.
+
+3 - Ignore the debian folder and the README text file.
+Ignore the debian folder and the README text file. Enter the /usr folder.
+
+4 - Open a new file window.
+Open a new file window. Go to the parent directory of your files and enter the /usr folder.
+
+5 - Enter the lib folder in both the _usr and _ice-master_usr windows.
+Enter the lib folder in both the /usr and /ice-master/usr windows.
+
+6 - Move the peppermint folder from the ice-master folder over to the _usr_lib folder.
+Move the peppermint folder from the ice-master folder over to the /usr/lib folder.
+
+7 - Go back to the _usr folder and the _ice-master_usr folder and open the bin folders.
+Go back to the /usr folder and the /ice-master/usr folder and open the bin folders.
+
+8 - Move the ice.sh file to the _usr_bin_.
+Move the ice.sh file to the /usr/bin/.
+
+9 - Go to the _share folders in both windows and open both _share folders.
+Go to the /share folders in both windows and open both /share folders.
+
+10 - Open the _applications folder in the _ice-master window.
+Open the /applications folder in the /ice-master window. Move the ice executable into the /usr/share/applications.
+
+11 - Go back into the _share folder in the _ice-master window.
+Go back into the /share folder in the /ice-master window. Open the /pixmaps folder and move the ice.png into the /usr/share/pixmaps folder.
+
+12 - Check your menu under 'Internet' and open ICE.
+Check your menu under 'Internet' and open ICE.
+
+13 - Enter the site's full URL and name, then select what menu you want to categorize it under.
+Enter the site's full URL and name, then select what menu you want to categorize it under. Keep in mind that "Download Icon" doesn't work, though. If you want to select an icon, just download a PNG from Google Images.
+
+14 - Test your app to see if it works.
+Test your app to see if it works.
+

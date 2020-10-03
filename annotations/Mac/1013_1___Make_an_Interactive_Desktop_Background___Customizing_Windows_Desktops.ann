@@ -1,0 +1,29 @@
+T1	Software-Other 200 209	Rainmeter
+A1	isInstalled T1 start-T
+T2	Software-Other 969 986	Rainmeter website
+A2	isOpened T2 start-T
+T3	Software-Other 1146 1154	Discover
+A3	isOpened T3 f->t
+T4	Software-Other 1233 1239	Reddit
+T5	Software-Other 1241 1251	deviantArt
+T6	Software-Other 1257 1277	the Rainmeter forums
+*	Equiv T6 T5 T4
+R1	SubPart Arg1:T4 Arg2:T3	
+T7	Software-Other 1794 1806	.rmskin file
+A4	isOpened T7 f->t
+T8	Software-Other 1815 1822	Install
+A5	isOpened T8 f->t
+A6	isInstalled T8 start-T
+T9	Software-Other 2883 2902	Rainmeter tray icon
+A7	isOpened T9 f->t
+T10	Software-Other 3084 3095	Refresh All
+A8	isSettingsChanged T10 true
+T11	Software-Other 3171 3179	Variants
+A9	isSettingsChanged T11 true
+R2	SubPart Arg1:T10 Arg2:T9	
+R3	SubPart Arg1:T11 Arg2:T9	
+T12	Software-Other 3380 3399	Rainmeter tray icon
+A10	isOpened T12 f->t
+T13	Software-Other 3443 3449	Manage
+A11	isSettingsChanged T13 true
+R4	SubPart Arg1:T13 Arg2:T12	

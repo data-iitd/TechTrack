@@ -1,0 +1,25 @@
+T1	Hardware-Devices 127 134	printer
+A1	isPowered T1 f->t
+A2	isUsed T1 true
+T2	Hardware-Other 918 926	computer
+T3	Hardware-Other 1463 1472	USB cable
+T4	Software-OS-Related 1730 1743	print spooler
+T5	Software-OS-Related 2387 2392	Start
+A3	isOpened T5 f->t
+T6	Software-OS-Related 2409 2417	Settings
+A4	isOpened T6 f->t
+T7	Software-OS-Related 2589 2596	Devices
+A5	isOpened T7 f->t
+T8	Software-OS-Related 2655 2674	Printers & scanners
+A6	isOpened T8 f->t
+T9	Software-OS-Related 2947 2957	Open Queue
+A7	isOpened T9 f->t
+T10	Software-OS-Related 3213 3226	Remove device
+T11	Software-OS-Related 3400 3423	Add a device or printer
+A8	isOpened T11 f->t
+T12	Software-OS-Related 3736 3750	as the default
+T13	Software-OS-Related 3953 3972	Printers & scanners
+A9	isOpened T13 f->t
+T14	Software-OS-Related 4045 4055	Open queue
+A10	isOpened T14 f->t
+T15	Hardware-Other 1652 1657	paper

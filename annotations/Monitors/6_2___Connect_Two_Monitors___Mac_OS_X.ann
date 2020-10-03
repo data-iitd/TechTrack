@@ -1,0 +1,64 @@
+T1	Hardware-Other 101 105	Macs
+T2	Hardware-Devices 190 197	monitor
+A1	isPowered T2 start-F
+T3	Hardware-Other 240 244	port
+T4	Hardware-Other 325 339	MacBook laptop
+T5	Hardware-Other 380 388	computer
+T6	Hardware-Other 451 467	USB flash drives
+T7	Hardware-Other 532 535	Mac
+T8	Hardware-Other 538 555	video output port
+T9	Hardware-Other 757 762	USB-C
+T10	Hardware-Other 764 777	Thunderbolt 3
+*	Equiv T10 T9 T12
+T11	Hardware-Other 884 897	Thunderbolt 2
+T12	Hardware-Other 781 797	Oval-shaped port
+T13	Hardware-Other 900 918	Square-shaped port
+*	Equiv T13 T11
+T14	Hardware-Other 944 948	HDMI
+T15	Hardware-Other 951 971	Six-sided, flat port
+*	Equiv T15 T14
+T16	Hardware-Devices 1011 1018	monitor
+T17	Hardware-Other 1021 1037	video input port
+T18	Hardware-Other 1113 1124	DisplayPort
+T19	Hardware-Other 1128 1138	HDMI ports
+T20	Hardware-Other 1190 1199	VGA ports
+T21	Hardware-Other 1261 1269	DVI port
+T22	Hardware-Other 1422 1427	cable
+T23	Hardware-Devices 1444 1451	monitor
+T24	Hardware-Other 1460 1468	computer
+T25	Hardware-Other 1635 1645	HDMI cable
+T26	Hardware-Other 1950 1953	VGA
+T27	Hardware-Other 2026 2033	adapter
+T28	Hardware-Other 2086 2097	DisplayPort
+T29	Hardware-Other 2193 2198	cable
+T30	Hardware-Other 2209 2217	computer
+T31	Hardware-Other 2309 2326	video output port
+T32	Hardware-Other 2361 2366	cable
+T33	Hardware-Devices 2377 2384	monitor
+T34	Hardware-Other 2494 2498	port
+T35	Hardware-Other 2549 2556	adapter
+T36	Hardware-Devices 2701 2708	monitor
+A5	isPowered T36 f->t
+A6	isConnected T36 f->t
+T37	Hardware-Other 2770 2782	power source
+T38	Hardware-Other 2811 2822	power cable
+T39	Hardware-Other 2847 2859	Power button
+T40	Hardware-Other 2911 2919	computer
+T41	Software-OS-Related 2938 2945	desktop
+A7	isOpened T41 f->t
+T42	Software-OS-Related 3012 3022	Apple menu
+A8	isOpened T42 f->t
+T44	Hardware-Devices 3099 3105	screen
+T45	Software-OS-Related 3150 3170	System Preferences….
+A11	isOpened T45 f->t
+T46	Software-OS-Related 3306 3314	Displays
+A12	isOpened T46 f->t
+T49	Software-OS-Related 3438 3449	Arrangement
+A15	isOpened T49 f->t
+T50	Software-OS-Related 3509 3517	Displays
+T51	Software-OS-Related 3712 3727	Mirror displays
+A17	isSettingsChanged T51 true
+T53	Hardware-Devices 3825 3832	monitor
+T54	Hardware-Devices 3863 3884	Mac's primary monitor
+T47	Software-OS-Related 3366 3383	System Preference
+R1	SubPart Arg1:T51 Arg2:T46	

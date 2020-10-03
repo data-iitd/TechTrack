@@ -1,0 +1,25 @@
+Fix the Sound on a Mac Computer
+https://www.wikihow.com/Fix-the-Sound-on-a-Mac-Computer
+
+0 - Update to the Latest OS X
+
+1 - Check to see if you are running the latest version.
+Check to see if you are running the latest version. OS X Mavericks (10.9) has a lot of problems with sound, many of which were fixed in Yosemite (10.10). El Capitan (10.11) has fixed even more of these problems.
+
+2 - Open the Mac App Store.
+Open the Mac App Store. Mac updates are free and are available from the Mac App Store.
+
+3 - Click the "Updates" tab.
+Click the "Updates" tab. If there are any available system upgrades, they'll be listed here.
+
+4 - Download the latest version of OS X.
+Download the latest version of OS X. Download El Capitan if it is listed in the Updates section. The download will likely take a while to complete.
+
+5 - Install the system update.
+Install the system update. Follow the prompts to install the system update. It's a pretty straightforward process, and you won't lose any of your files or settings.
+
+6 - Test your sound again.
+Test your sound again. Once the update has finished and you're back at your desktop, test your sound again to see if it is working.[3]
+- X
+- Research source
+

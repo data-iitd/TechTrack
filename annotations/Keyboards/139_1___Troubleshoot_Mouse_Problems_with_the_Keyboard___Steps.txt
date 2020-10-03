@@ -1,0 +1,27 @@
+Troubleshoot Mouse Problems with the Keyboard
+https://www.wikihow.com/Troubleshoot-Mouse-Problems-with-the-Keyboard
+
+0 - Steps
+
+1 - If you are on the Desktop, Hit the Second button from the left on the bottom row of the keyboard.
+If you are on the Desktop, Hit the Second button from the left on the bottom row of the keyboard. The one that has the WINDOWS Logo.
+- ;
+
+2 - Hit the "UP" Arrow key until you are highlighting the "Control Panel" button.
+Hit the "UP" Arrow key until you are highlighting the "Control Panel" button. Hit Enter.
+
+3 - Use the ARROW KEYS until you are highlighting "MOUSE" or "MOUSE OPTIONS.
+Use the ARROW KEYS until you are highlighting "MOUSE" or "MOUSE OPTIONS." Again, hit ENTER.
+
+4 - Hit the TAB Key on the keyboard until you are highlighting the "BUTTONS" tab.Press ENTER.
+Hit the TAB Key on the keyboard until you are highlighting the "BUTTONS" tab.Press ENTER.
+
+5 - Push the right ARROW KEY until you are highlighting the "HARDWARE" Tab.Have a slight touch o the enter key.
+Push the right ARROW KEY until you are highlighting the "HARDWARE" Tab.Have a slight touch o the enter key.
+
+6 - Use the TAB key to highlight the "PROPERTIES" button.Again press ENTER.
+Use the TAB key to highlight the "PROPERTIES" button.Again press ENTER.
+
+7 - Check to see if your device is working properly.
+Check to see if your device is working properly. If it is, you will need to go to TROUBLESHOOT And follow the directions from there. If all else fails, go to the HELP section of the computer.
+

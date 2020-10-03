@@ -1,0 +1,43 @@
+Install Skype Using Terminal on Ubuntu
+https://www.wikihow.com/Install-Skype-Using-Terminal-on-Ubuntu
+
+0 - Installing Skype Manually
+
+1 - Press Ctrl+Alt+T to open a terminal window.
+Press Ctrl+Alt+T to open a terminal window. While it’s no longer mandatory that Skype be installed by manually downloading the package from Skype’s website, it’s still an option.[5]
+- X
+- Research source
+- 
+-  Try installing Skype from the Canonical Partners repository first. If you run into any issues, use this method as a backup.
+
+2 - Download Skype with wget.
+Download Skype with wget. The path to the package is different depending on whether you’re using 32-bit or 64-bit Ubuntu:
+- If you’re using 32-bit Ubuntu, type: wget http://www.skype.com/go/getskype-linux-beta-ubuntu-32 and press ↵ Enter.
+- 64-bit Ubuntu, type:  wget http://www.skype.com/go/getskype-linux-beta-ubuntu-32 and press ↵ Enter.
+
+3 - Install Multiarch for 64-bit Ubuntu.
+Install Multiarch for 64-bit Ubuntu. If you’re using the 64-bit version of Ubuntu, you’ll need Multiarch to install Skype. Here’s how to do it from the command line:[6]
+- X
+- Research source
+- 
+- 
+- Type: sudo dpkg --add-architecture i386 and press ↵ Enter.
+- When you return to the command prompt, type: sudo apt-get update and press ↵ Enter.
+
+4 - Install Skype from the downloaded package.
+Install Skype from the downloaded package. You’ll do this with the “dkpg” command. Make sure the version number aligns with the one you downloaded earlier.[7]
+- X
+- Research source
+- 
+- 
+- Type: sudo dpkg -i skype-ubuntu-precise_4.3.0.37-1_i386.deb and press ↵ Enter.
+- As Linux tries to unpack Skype, you’ll see a slew of errors on the screen about dependency issues. This is normal.
+
+5 - Install the required dependencies.
+Install the required dependencies. To correct the errors and start the Skype install:
+- Type: sudo apt-get -f install and press ↵ Enter.
+- Wait a few moments as the package installs. When the installation is complete, you’ll return to the command prompt.
+
+6 - Run your new installation of Skype.
+Run your new installation of Skype. To start Skype, type skype and press ↵ Enter. Follow the prompts to sign in or create a new account with Skype.
+

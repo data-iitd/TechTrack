@@ -1,0 +1,41 @@
+Calibrate Your Monitor
+https://www.wikihow.com/Calibrate-Your-Monitor
+
+0 - Using a Colorimeter
+
+1 - Understand that you'll need to buy a colorimeter.
+Understand that you'll need to buy a colorimeter. A colorimeter is a piece of hardware that you place on your screen; the hardware works in conjunction with some included software to calibrate your monitor's colors and brightness regardless of ambient light and other distractions.
+
+2 - Select and buy a colorimeter based on your needs.
+Select and buy a colorimeter based on your needs. Colorimeters can range from personal use at a cost of around $150 to corporate use at a cost of over $1000, so buy within your price range.
+- The Spyder line of colorimeters is generally considered to be a reputable, high-performing brand.
+- Make sure that you buy a colorimeter that works with your operating system. Most colorimeters should work on Windows, macOS, and Linux, but cheap alternatives may be locked to a specific operating system.
+
+3 - Make sure you properly prepare your monitor.
+Make sure you properly prepare your monitor. If you haven't set up your monitor in a neutral environment and let it warm up, do so before proceeding.
+- It's very important to make sure that your monitor is spotless as well, since any smudges or grit may prevent the colorimeter from working correctly.
+
+4 - Install the colorimeter's software if necessary.
+Install the colorimeter's software if necessary. Some colorimeters will come with a CD that you'll use to install the colorimeter's software component.
+- Depending on the colorimeter, you may need to do this after plugging in the colorimeter instead of before plugging it in.
+- Your colorimeter may install the proper software upon being plugged in.
+
+5 - Plug in your colorimeter.
+Plug in your colorimeter. Plug the colorimeter's USB cable into one of your computer's free USB ports.
+- Make sure you use a USB port that's directly connected to your computer rather than using a USB hub or a USB port on a connected keyboard.
+- You may need to turn on the colorimeter before proceeding.
+
+6 - Follow any on-screen prompts.
+Follow any on-screen prompts. Once your computer recognizes the colorimeter, you should see a pop-up window appear; follow any prompts or instructions in the window.
+
+7 - Place the colorimeter over the screen.
+Place the colorimeter over the screen. The colorimeter should fit in the middle of your monitor's screen with the lens facing your screen.[2]
+- X
+- Research source
+- 
+- Most colorimeter software will display an outline that matches the shape of the colorimeter to indicate the general placement of the unit.
+
+8 - Initiate the calibration process.
+Initiate the calibration process. Click Next or Start (or similar) in the pop-up window to prompt the calibration software to start running. The software should run until the calibration is complete, at which point you'll be prompted to remove the colorimeter.
+- You may have to click through some more options or follow some on-screen prompts before or during the calibration process.
+

@@ -1,0 +1,20 @@
+Force Quit an Application on a Mac
+https://www.wikihow.com/Force-Quit-an-Application-on-a-Mac
+
+0 - Using Activity Monitor
+
+1 - Click on Spotlight.
+Click on Spotlight. It's the magnifying glass in the upper-right corner of the screen.
+
+2 - Type "Activity Monitor" in the search field.
+Type "Activity Monitor" in the search field.
+
+3 - Click on Activity Monitor under "Applications."
+Click on Activity Monitor under "Applications."
+
+4 - Click on the application you want to quit.
+Click on the application you want to quit.
+
+5 - Click on "Quit Process" in the upper-left corner of the window.
+Click on "Quit Process" in the upper-left corner of the window. This will stop the application from running.
+

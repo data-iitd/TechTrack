@@ -1,0 +1,23 @@
+Use the Trackpad to Zoom on a Mac
+https://www.wikihow.com/Use-the-Trackpad-to-Zoom-on-a-Mac
+
+0 - Enabling and Disabling Gestures
+
+1 - Click the Apple menu.
+Click the Apple menu. You can find this in the upper-left corner of the screen.
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click Trackpad.
+Click Trackpad. If you don't see this option, click the Show All button at the top of the window.
+
+4 - Click the Scroll & Zoom tab.
+Click the Scroll & Zoom tab.
+
+5 - Click the Zoom in and out box.
+Click the Zoom in and out box. This will toggle the ability to pinch zoom on or off.
+
+6 - Click the Smart zoom box.
+Click the Smart zoom box. This will toggle the ability to double-tap two fingers to smart zoom on or off.
+

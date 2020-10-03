@@ -1,0 +1,41 @@
+Connect a Headset to PC
+https://www.wikihow.com/Connect-a-Headset-to-PC
+
+0 - Connecting via Bluetooth
+
+1 - Turn on your headset.
+Turn on your headset. Press the headset's power button to turn it on. If the headset isn't fully charged, you might also want to connect it to its charger to ensure that it stays on during the connection process.
+
+2 - Open your computer's Start .
+Open your computer's Start . Click the Windows logo in the bottom-left corner of the screen. The Start window will appear.
+
+3 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+4 - Click Devices.
+Click Devices. It's a computer monitor-shaped icon in the middle of the Settings page.
+
+5 - Click Bluetooth & other devices.
+Click Bluetooth & other devices. This tab is in the upper-left side of the Devices page.
+
+6 - Click the Bluetooth  switch if Bluetooth isn't on.
+Click the Bluetooth  switch if Bluetooth isn't on. It's below the "Bluetooth" heading near the top of the page. Doing so will switch Bluetooth to  On.
+- If the Bluetooth switch is blue (or your computer's default color), Bluetooth is already on.
+
+7 - Click Add Bluetooth or other device.
+Click Add Bluetooth or other device. It's at the top of the page. Doing so opens the Bluetooth menu.
+
+8 - Click Bluetooth.
+Click Bluetooth. You'll find this at the top of the Bluetooth menu.
+
+9 - Press your headset's pairing button.
+Press your headset's pairing button. This button's location will vary depending on your headset model. Most pairing buttons have a Bluetooth  icon next to them or on them.
+- Consult your headset's manual if you can't find the pairing button.
+
+10 - Click your headset's name.
+Click your headset's name. It should appear in the Bluetooth menu within a few seconds. The headset's name will likely be a combination of the manufacturer's name and the headset's model number.
+- If the headset doesn't appear in the Bluetooth menu, turn the Bluetooth off, press the pairing button on your headset, and then turn Bluetooth back on.
+
+11 - Click Pair.
+Click Pair. It's below the headset's name. Clicking this should prompt your headset to connect to your computer at this point. After this is done, your headset is ready to be set up in Windows settings.
+

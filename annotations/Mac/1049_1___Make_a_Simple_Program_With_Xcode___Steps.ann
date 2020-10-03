@@ -1,0 +1,25 @@
+T1	Software-OS-Related 129 134	Xcode
+A1	isOpened T1 f->t
+T2	Software-OS-Related 308 312	File
+A2	isOpened T2 f->t
+T3	Software-OS-Related 313 324	new project
+A3	isOpened T3 f->t
+T4	Software-OS-Related 393 416	Applescript Application
+A4	isOpened T4 f->t
+T5	Software-OS-Related 621 659	Talking_ExampleAppDelegate.applescript
+A5	isOpened T5 f->t
+T6	Software-OS-Related 870 882	MainMenu.xib
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1252 1257	tools
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1294 1310	attribute editor
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1568 1595	talking example.applescript
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1684 1691	clicked
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 1860 1864	file
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1867 1871	save
+A12	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T3	

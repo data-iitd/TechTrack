@@ -1,0 +1,30 @@
+Change Startup Programs on Your Computer
+https://www.wikihow.com/Change-Startup-Programs-on-Your-Computer
+
+0 - On Mac
+
+1 - Open the Apple Menu .
+Open the Apple Menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences….
+Click System Preferences…. It's near the top of the drop-down menu. The System Preferences window will open.
+
+3 - Click Users & Groups.
+Click Users & Groups. This icon resembles the silhouettes of two people.
+
+4 - Click the Login Items tab.
+Click the Login Items tab. It's at the top of the window.
+
+5 - Select an application.
+Select an application. Click on an application that you want to prevent from starting up when you turn on your computer.
+
+6 - Click -.
+Click -. It's below the bottom-left corner of the startup program section of the window. Doing so will remove the program from the list, meaning that it will no longer start automatically when you turn on your Mac.
+- If you instead want to add a program to your Mac's startup list, click + here, then select a program from the resulting list.
+
+7 - Close programs before turning off your Mac.
+Close programs before turning off your Mac. Your Mac will re-open programs that you recently had open if you don't close them before turning off your Mac. There are a couple of ways to do this:
+- 
+- Apps - Programs found in the Dock or Launchpad that didn't come from the App Store (e.g., Audacity or Microsoft Word). Click the Apple Menu, click Force Quit, then click an app and click Force Quit.
+- Menu bar programs - These are programs like iCloud that you'll find in the top-right corner of the screen. Click the program's icon, then click Quit in the drop-down menu.
+

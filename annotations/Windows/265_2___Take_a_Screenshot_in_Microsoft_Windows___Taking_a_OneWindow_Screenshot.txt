@@ -1,0 +1,35 @@
+Take a Screenshot in Microsoft Windows
+https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows
+
+0 - Taking a One-Window Screenshot
+
+1 - Click the window that you want to capture an image of.
+Click the window that you want to capture an image of. The One-Window screenshot function will take a picture of the "active" window on your screen, which means that it should be in front of all your other windows.;
+
+2 - Hold down Alt and press ⎙ PrtScr.
+Hold down Alt and press ⎙ PrtScr. An image of the window will be copied to the clipboard. The dimensions of the image will be determined by the size of the window when the screenshot is captured.[1]
+- X
+- Research source
+- 
+- You will not receive any confirmation that the screenshot has been taken.
+
+3 - Open Paint.
+Open Paint. This program comes installed on all Windows computers. To open it:;
+- Open Start 
+- On Windows 8, open Search
+- 
+- Click the search bar at the bottom of the Start menu.
+- Type in paint
+- Click Paint at the top of the Start window.
+- On Windows 8, Paint will be in the Search results.
+- For a Windows XP computer, click Start, select Programs, select Accessories, and click Paint.
+
+4 - Paste in the screenshot.
+Paste in the screenshot. Once the Paint window loads, press Ctrl+V to paste in the screenshot. You should see it appear in the Paint window.;
+- You can also paste the screenshot into other programs, such as Word or into the body of an email. Simply open the program that you want to paste the image into and press Ctrl+V.
+
+5 - Save your screenshot as an image file.
+Save your screenshot as an image file. Click File, click Save, enter a file name, click a location on the left side of the page, and click Save.;
+- You can change the screenshot's file type by clicking the "Save as type" drop-down box at the bottom of the window and then clicking a different format (e.g., JPEG) in the drop-down menu.
+- The most common file types are JPG and PNG. The recommended format for screenshots is PNG, due to the high quality and small file size.
+

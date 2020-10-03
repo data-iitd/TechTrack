@@ -1,0 +1,14 @@
+T1	Software-OS-Related 274 280	Safari
+A1	isOpened T1 f->t
+T2	Software-OS-Related 534 547	Preferences….
+A2	isOpened T2 f->t
+T3	Software-OS-Related 658 666	Advanced
+A3	isOpened T3 f->t
+T4	Software-OS-Related 779 808	Show Develop menu in menu bar
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	
+T5	Software-OS-Related 976 983	Develop
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1101 1113	Empty Caches
+A6	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T5	

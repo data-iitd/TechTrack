@@ -1,0 +1,13 @@
+T2	Software-OS-Related 1428 1436	Terminal
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1779 1824	sudo apt-get install ubuntu-restricted-extras
+T4	Software-OS-Related 2030 2038	password
+A4	isOpened T4 f->t
+T1	Software-Other 164 180	VLC video player
+A1	isInstalled T1 f->t
+T5	Software-Other 772 799	"Restricted Extras" package
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T1	
+T6	Software-Other 2635 2643	WMV file
+A6	isOpened T6 f->t
+A7	isOpened T3 f->t

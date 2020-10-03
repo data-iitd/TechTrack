@@ -1,0 +1,18 @@
+T1	Hardware-Devices 138 146	computer
+A1	isUsed T1 true
+T2	Hardware-Other 358 368	hard drive
+T3	Software-Other 952 967	AOMEI Backupper
+A2	isOpened T3 f->t
+T4	Hardware-Other 714 725	USB adapter
+T5	Hardware-Other 499 510	data cables
+T6	Software-Other 1118 1123	Clone
+A3	isOpened T6 f->t
+T7	Software-Other 1186 1196	Disk Clone
+A4	isOpened T7 f->t
+T8	Software-Other 1317 1321	Next
+A5	isOpened T8 f->t
+T9	Hardware-Other 1585 1595	hard drive
+T10	Software-Other 1894 1933	Edit partitions on the destination disk
+T11	Software-Other 2279 2290	Start Clone
+A6	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T7	

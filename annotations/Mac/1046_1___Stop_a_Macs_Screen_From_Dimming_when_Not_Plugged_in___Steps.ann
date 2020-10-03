@@ -1,0 +1,11 @@
+T1	Software-OS-Related 184 194	Apple Menu
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 304 322	System Preferences
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 510 522	Energy Saver
+A3	isOpened T3 f->t
+T4	Software-OS-Related 596 603	Battery
+A4	isOpened T4 f->t
+T5	Software-OS-Related 678 725	Slightly dim the display while on battery power
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

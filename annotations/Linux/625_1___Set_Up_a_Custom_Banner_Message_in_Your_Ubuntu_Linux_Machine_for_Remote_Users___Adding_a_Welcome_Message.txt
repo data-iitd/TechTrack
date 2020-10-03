@@ -1,0 +1,24 @@
+Set Up a Custom Banner Message in Your Ubuntu Linux Machine for Remote Users
+https://www.wikihow.com/Set-Up-a-Custom-Banner-Message-in-Your-Ubuntu-Linux-Machine-for-Remote-Users
+
+0 - Adding a Welcome Message
+
+1 - Sudo to root.
+Sudo to root. You will need to modify superuser file.
+- ;
+
+2 - Open the config file for the banner.
+Open the config file for the banner. Type vim /etc/issue.net
+
+3 - Read the file.
+Read the file. You will get a screen similar to the one shown.
+
+4 - Add your message.
+Add your message. Next just below the lines of Debian 6.0, type any custom message you feel.
+
+5 - Check the look of the file.
+Check the look of the file. The issue.net file looks as shown
+
+6 - Exit out of this file.
+Exit out of this file. Save the changes by typing EscKey + !wq
+

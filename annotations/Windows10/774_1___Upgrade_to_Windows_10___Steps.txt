@@ -1,0 +1,50 @@
+Upgrade to Windows 10
+https://www.wikihow.com/Upgrade-to-Windows-10
+
+0 - Steps
+
+1 - Back up any important files and data
+Back up any important files and data. While it's always good to perform periodic backups, it's notably important if you're upgrading. In case an error occurs throughout the upgrade process, retain a copy of any important data that's on the computer.
+- Fancy paid backup software or paying for an expensive cloud storage service isn't required. Copying your files and folders to an external hard drive is sufficient.
+- Having a backup plan set before you upgrade will eliminate stress if you do happen to lose any data, as you'll be able to restore from your backup—thus, not really losing anything important at all.
+- Never store the backup on the same computer you're upgrading. This could spell bad news if the entire hard drive crashed or was formatted (erased).
+- ;
+
+2 - Download the Windows 10 Media Creation Tool.
+Download the Windows 10 Media Creation Tool. Go to microsoft.com/software-download/windows10, click Download tool now, and save the tool to your computer. The button is right under the "Create Windows 10 installation media" header.
+
+3 - Open the Media Creation Tool.
+Open the Media Creation Tool. Run/launch the exe file you just downloaded.
+- Confirm the User Account Control window if prompted. Select Yes from the popup window. You might need to enter the password to an admin account.
+
+4 - Wait as the tool opens.
+Wait as the tool opens. The Windows logo surrounded by a rectangular purple background will appear for about five seconds. Afterwards, the tool will load.
+
+5 - Read and accept the legal agreement to continue.
+Read and accept the legal agreement to continue. Browse the legal conditions provided and click the Accept button to continue with the upgrade process.
+- If you disagree, click Decline to close the tool and discontinue the upgrade process.
+
+6 - Wait for the next part to load.
+Wait for the next part to load. You'll view a message reading "Getting a few things ready" accompanying circular ajax loader circling right underneath. This should be swift.
+
+7 - Choose to upgrade your PC.
+Choose to upgrade your PC. You'll be brought to the next page that asks you if you want to upgrade or create installation media. Click the radio button alongside "Upgrade this PC now", which is the selection at the top.
+
+8 - Continue to begin the upgrade process.
+Continue to begin the upgrade process. Click the Next button at the bottom-right to begin downloading Windows 10 on your device.
+
+9 - Wait as Windows 10 is downloaded onto your device.
+Wait as Windows 10 is downloaded onto your device. The time this part takes is variable, but if your internet speed is high, then it shouldn't take too long as Windows 10 will be downloaded faster.
+- Windows 10 is multiple gigabytes big.
+
+10 - Change what to keep (optional).
+Change what to keep (optional). Click "Change what to keep" below the list of what's being kept (saved). By default, all of your apps compatible with Windows 10 and your personal files will be moved over to Windows 10.
+- 
+- Keep personal files and apps: Keeps all your personal files and apps that are compatible with Windows 10.
+- Keep personal files only: Keeps all your personal files but removes all apps from your computer.
+- Nothing: Removes everything from your computer.
+
+11 - Initiate the installation.
+Initiate the installation. Click Install at the bottom-right. Windows 10 will install on your computer. Your PC may restart a few times, and this process can take up to a few hours. Ensure your PC has a continuous supply of power (laptops and tablets should be plugged in), otherwise, your whole hard drive might get corrupted if it loses power.
+- Once the upgrade completes, you'll be brought to the Windows 10 OOBE (Out-of-box-experience). You'll be able to configure your computer's settings.
+

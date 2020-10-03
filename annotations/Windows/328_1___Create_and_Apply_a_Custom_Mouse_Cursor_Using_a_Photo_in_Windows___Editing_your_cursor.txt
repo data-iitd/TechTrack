@@ -1,0 +1,43 @@
+Create and Apply a Custom Mouse Cursor Using a Photo in Windows
+https://www.wikihow.com/Create-and-Apply-a-Custom-Mouse-Cursor-Using-a-Photo-in-Windows
+
+0 - Editing your cursor
+
+1 - Locate the photo you want to use.
+Locate the photo you want to use. The example in this article will be this peace sign, and it is transparent in the background because it's a .png file format. It is recommended that you to use .png files for better results later.
+- ;
+
+2 - Load the photo editor you will use.
+Load the photo editor you will use. The one used in the tutorial is GIMP.
+
+3 - Click on File> New>.
+Click on File> New>.
+
+4 - Set the width to 45px and height to 50px.
+Set the width to 45px and height to 50px. Make sure that in the additional options menu, it is set to transparency. Click OK.
+
+5 - Zoom in to 400% to see a wider view.
+Zoom in to 400% to see a wider view.
+
+6 - Click File> Open as layers.
+Click File> Open as layers.
+
+7 - Locate the picture that you'll use from the folder where it is saved.
+Locate the picture that you'll use from the folder where it is saved. Click Open.
+
+8 - By going to the left side of the GIMP, resize the picture to the appropriate size of it by selecting the Scale Tool.
+By going to the left side of the GIMP, resize the picture to the appropriate size of it by selecting the Scale Tool. Begin the editing process, manually editing the image to be the exact way you want it to appear.
+
+9 - Once you are done editing, add a pointer.
+Once you are done editing, add a pointer. For example, this might be an arrow. Draw a triangular shape. Note that to work effectively as a cursor, the point must be in the top left of the image.
+
+10 - Open the Paint Tool that can be found in the Tools Dialogue box.
+Open the Paint Tool that can be found in the Tools Dialogue box.
+
+11 - Delete the background layer of your image in the right side of the screen.
+Delete the background layer of your image in the right side of the screen. Click on the layer named Background and click the garbage bin icon on the lower right of the layers dialogue box.
+
+12 - You've finished editing.
+You've finished editing. If you're using GIMP, click File> Export.
+- Note: simply saving the image in GIMP won't work, as it will be in the .xcf format. Instead, Export it.
+

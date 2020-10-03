@@ -1,0 +1,42 @@
+Reduce Disk Usage on Windows 10
+https://www.wikihow.com/Reduce-Disk-Usage-on-Windows-10
+
+0 - Steps
+
+1 - Open the Command Prompt
+Open the Command Prompt in administrator mode. Right-click the Start  button at the lower-left corner of your screen. Choose Command Prompt (Admin) from the black context menu that appears.
+- ;
+
+2 - Confirm the User Account Control window, if prompted.
+Confirm the User Account Control window, if prompted. Select Yes from the popup window.
+- You might need to enter the password to an admin account.
+
+3 - Type net stop Spooler.
+Type net stop Spooler.
+
+4 - Hit the ↵ Enter key.
+Hit the ↵ Enter key. This will submit the command to Command Prompt.
+
+5 - Type net.exe stop superfetch.
+Type net.exe stop superfetch.
+
+6 - Hit the ↵ Enter key.
+Hit the ↵ Enter key. This will submit the command to Command Prompt.
+
+7 - .
+Restart your computer. The changes you made via Command Prompt will be applied.
+
+8 - Open Task Manager
+Open Task Manager. This can be done quickly by right-clicking an empty space on the taskbar and choosing Task Manager. The option is towards the bottom of the context menu.
+- Alternatively, press Ctrl+⇧ Shift+Esc together.
+
+9 - Ensure you're in the advanced view.
+Ensure you're in the advanced view. The advanced view has tabs at the top of the window. Click "More details" at the bottom-left of Task Manager if you're in the simplified view.
+
+10 - Ensure you're on the Processes tab.
+Ensure you're on the Processes tab. It's the one to the far left.
+
+11 - Observe the disk usage right above the "Disk" column.
+Observe the disk usage right above the "Disk" column. The usage should be reduced.
+- In case it's missing, right-click on "Name", "CPU", "Memory", or "Network". Choose Disk from the bottom of the context menu.
+

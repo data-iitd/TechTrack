@@ -1,0 +1,45 @@
+Control a Computer with Your Phone
+https://www.wikihow.com/Control-a-Computer-with-Your-Phone
+
+0 - Steps
+
+1 - Download TeamViewer on your computer.
+Download TeamViewer on your computer. In your preferred web browser, go the official Team Viewer site and download the TeamViewer application for your computer.
+- Go to https://www.teamviewer.us
+- Click Download Now.
+- ;
+
+2 - Double-click the installer file to begin installing TeamViewer.
+Double-click the installer file to begin installing TeamViewer.  The full file name is TeamViewer_Setup.exe on Windows and TeamViewer.dmg on Mac. This will start the installation, simply follow the installation prompts to install TeamViewer.
+- By default, your downloaded files can be found in your Downloads folder.
+
+3 - Open TeamViewer on your computer.
+Open TeamViewer on your computer. It's the app with the icon of a blue double-sided arrow on a white circle. Double-click the app icon to launch TeamViewer. You will see an ID, Password, and Partner ID on the main screen.
+- TeamViewer may already be open after it finished installing.
+
+4 - Download TeamViewer on your phone.
+Download TeamViewer on your phone.  TeamViewer is available in both the Google Play Store on Android phones and the App Store on iPhones.
+- Open the Play Store on Android or App Store on iPhone.
+- Go to Search and type teambviewer in the search bar.
+- Tap the TeamViewer app.
+- Tap Install, or Get next to Team Viewer.
+
+5 - Open TeamViewer on your phone.
+Open TeamViewer on your phone.  It's the app with the icon of a blue double-sided arrow on a white circle. You can open it by tapping it on your home screen, or tap "Open" in the Google Play Store or App Store.
+
+6 - Type your computer's ID on your phone.
+Type your computer's ID on your phone.  Your ID is on the line that says "Your ID" on TeamViewer on your computer screen.  Type your ID in the line that says "Partner ID" on your Phone.
+
+7 - Tap Remote Control.
+Tap Remote Control.  It's the blue button below the Partner ID line.
+
+8 - Type the computer's password on your phone.
+Type the computer's password on your phone.  Type the password on your computer's TeamViewer screen into the password prompt on your phone.
+
+9 - Tap Ok.
+Tap Ok.  Your phone will connect to your computer.
+
+10 - Tap Continue.
+Tap Continue.  There is a brief intro that explains how to do mouse interactions with the touchscreen on your phone.  Tap "Continue" to start controlling your computer from your phone.
+- You can disconnect from your computer by clicking or tapping the "x" button on your phone, or computer.
+

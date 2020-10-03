@@ -1,0 +1,44 @@
+Install Damn Small Linux On a USB
+https://www.wikihow.com/Install-Damn-Small-Linux-On-a-USB
+
+0 - Steps
+
+1 - Open the DOS Command Prompt.
+Open the DOS Command Prompt. First click on the "Start" button, on the Windows taskbar.
+- Click on "Run" and place your cursor in the text box.
+- 
+- 
+- Type in cmd.exe and press Enter on your keyboard.
+- WH.shared.addScrollLoadItem('ab7c18c3249a2243c685253e39f21b47')
+
+2 - Save any files you might need from the USB drive, either through windows or the command-line:
+Save any files you might need from the USB drive, either through windows or the command-line:
+- Note: In this and the steps below, replace X: with the actual drive letter of your USB drive.xcopy /e /i X:\* \tempbackup
+
+3 - Format your USB Card as FAT32:
+Format your USB Card as FAT32: either from DOS or from WindowsFORMAT X: /fs:FAT32
+
+4 - Download a zipped archive called syslinux from kernel.org.
+Download a zipped archive called syslinux from kernel.org.
+
+5 - Unzip the archive to a directory.
+Unzip the archive to a directory.
+
+6 - Run Syslinux by typing syslinux -ma X:
+Run Syslinux by typing syslinux -ma X:. (Make sure to be in the correct directory on command prompt. It would be C:\win32 if you extracted the files to C:.)
+
+7 - Download the latest archive (dsl-embedded.zip) from a Damn Small Linux mirror site.
+Download the latest archive (dsl-embedded.zip) from a Damn Small Linux mirror site.
+
+8 - Unzip the archive to a directory.
+Unzip the archive to a directory.
+
+9 - Copy all the files from the DSL directory to the root of your USB drive.
+Copy all the files from the DSL directory to the root of your USB drive.
+
+10 - Restore any files you saved from the first stepxcopy _s \tempbackup\* X:
+Restore any files you saved from the first stepxcopy /s \tempbackup\* X:rmdir /s \tempbackup
+
+11 - Restart and boot from your USB drive.
+Restart and boot from your USB drive.
+

@@ -1,0 +1,9 @@
+T1	Software-OS-Related 114 127	zipped folder
+T2	Software-OS-Related 274 287	zipped folder
+T3	Software-OS-Related 487 491	Menu
+A1	isOpened T3 f->t
+T4	Software-OS-Related 569 577	Terminal
+A2	isOpened T4 f->t
+T5	Software-OS-Related 928 946	unzip filename.zip
+A3	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T2	

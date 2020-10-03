@@ -1,0 +1,11 @@
+T1	Software-OS-Related 453 469	printer settings
+T2	Software-OS-Related 531 537	Normal
+A1	isSettingsChanged T2 true
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 543 554	Plain Paper
+T4	Software-OS-Related 640 645	label
+T5	Hardware-Other 720 731	white paper
+T6	Hardware-Devices 767 774	printer
+A2	isPowered T6 start-T
+A3	isConnected T6 start-T
+T7	Hardware-Other 1550 1560	paper tray

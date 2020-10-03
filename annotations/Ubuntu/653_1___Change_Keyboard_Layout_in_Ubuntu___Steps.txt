@@ -1,0 +1,47 @@
+Change Keyboard Layout in Ubuntu
+https://www.wikihow.com/Change-Keyboard-Layout-in-Ubuntu
+
+0 - Steps
+
+1 - Make sure that Ubuntu is up-to-date.
+Make sure that Ubuntu is up-to-date. Ubuntu versions 17.10 and up have several options which differ from previous versions of Ubuntu, so you'll need to upgrade your system to the most recent version if you haven't already done so:[1]
+- X
+- Research source
+- 
+- 
+- Open Terminal
+- Type in sudo apt-get upgrade and press ↵ Enter.
+- Type in your password and press ↵ Enter.
+- Type in y when prompted, then press ↵ Enter.
+- Wait for the upgrades to finish installing, then restart your computer if prompted.
+- ;
+
+2 - Open the Applications menu.
+Open the Applications menu. Click ⋮⋮⋮ in the bottom-left corner of the screen to do so.
+
+3 - Click Settings.
+Click Settings. This gear-shaped icon is in the Applications window. Your Ubuntu settings will open.
+
+4 - Click the Region & Language tab.
+Click the Region & Language tab. You'll find this in the upper-left side of the Settings window.
+
+5 - Click ＋.
+Click ＋. It's below the current language in the "Input Sources" section. A pop-up window will open.
+
+6 - Select a language.
+Select a language. Click the language that you want to use for your keyboard layout.
+- If the language you want to add isn't here, click ⋮ at the bottom of the menu, then select your preferred language.
+
+7 - Select a keyboard layout.
+Select a keyboard layout. Scroll down through the layout options until you find the one that you want to use, then click your preferred layout option.
+
+8 - Click Add.
+Click Add. It's in the top-right corner of the window. Doing so adds the layout to your computer's "Input Sources" section.
+
+9 - Select the old keyboard layout.
+Select the old keyboard layout. Click the layout that you were previously using. It should be at the top of the "Input Sources" section.
+
+10 - Click ∨.
+Click ∨. It's below the bottom keyboard layout here. Doing so will move your old layout down, causing the new layout to appear at the top of the menu. It should now be your keyboard's default layout.
+- You can also remove the old keyboard layout entirely by clicking the - button below the "Input Sources" section.
+

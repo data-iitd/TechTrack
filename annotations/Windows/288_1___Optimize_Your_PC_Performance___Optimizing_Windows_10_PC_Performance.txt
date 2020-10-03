@@ -1,0 +1,69 @@
+Optimize Your PC Performance
+https://www.wikihow.com/Optimize-Your-PC-Performance
+
+0 - Optimizing Windows 10 PC Performance
+
+1 - Disable transparency effects.
+Disable transparency effects. These special effects look impressive, but guzzle down your PC’s resources. Turn off these effects and instead, go for that classic Windows look, to speed up your computer’s performance.
+- Right-click the desktop.
+- Select “Personalize”.
+- Select “Colors”.
+- Disable “Make Start, taskbar, and action center transparent”.
+- ;
+
+2 - Disable startup programs.
+Disable startup programs. Several programs contain a component that automatically runs at startup. While this is convenient for programs you use often, running unwanted software at startup could slow down your computer. Here is how to disable startup programs:
+- Right-click the Start button.
+- Click “Task Manager”
+- Click “Startup”
+- Select the program you want to turn off.
+- Click “Disable”.
+
+3 - Disable unnecessary services.
+Disable unnecessary services. Some services are crucial to the functioning of Windows. While there are many Windows-specific features which are enabled by default, there are a few that you do not really need. You can choose to disable these services, either temporarily, or permanently.
+- Right-click the Start button.
+- Click “Task Manager”.
+- Click “Services”.
+- Right-click the service you wish to disable.
+- Select “Stop”.
+
+4 - Disable shadows and animations.
+Disable shadows and animations. Shadows and animations look nice onscreen. However, they unnecessarily add to the CPU’s (Central Processing Unit) load.
+- Choose “System”
+- Click “Advanced system settings”.
+- Click the “Advanced” tab.
+- Under “Performance”, click the “Settings” button.
+- Click “Adjust for best performance”. You can also manually disable each effect.
+- Alternatively, go to Settings > Ease of Access > Other Options. Once here, you can turn off animations.
+
+5 - Enable fast startup.
+Enable fast startup. Windows 10 offers this nifty feature to speed up your computer. When you shut down your PC, Windows will save an image of your loaded drivers and kernel in a separate file, called “hiberfile”. So when the system boots again, the system simply reloads this file, thereby reducing startup time.
+- Right-click the Start button.
+- Go to “Control Panel”.
+- Choose “System and Security”.
+- Click “Power Options”.
+- Click “Choose what the power buttons do”.
+- Click “Turn on fast startup”. You will find this under Shutdown settings.
+- Click “Save changes”.
+
+6 - Uninstall unnecessary programs.
+Uninstall unnecessary programs. It is desirable to uninstall programs which we no longer use. Sometimes, we install trial versions of software, which we then forget to remove, after the expiry of the trial period. Such programs take up memory and eventually slow down the computer.
+- Right-click the Start button.
+- Click “Programs and Features”.
+- Select the software you wish to remove.
+- Click “Uninstall/Change”.
+
+7 - Defragment your hard drive.
+Defragment your hard drive. Learn how to Defrag Windows 10.
+
+8 - Regularly perform cleanup.
+Regularly perform cleanup. Disk Cleanup is a great built-in tool that Windows offers you. Using this, you can get rid of unnecessary files in your PC.
+- Click the Start button.
+- Click “File Explorer”.
+- Right-click Local Disk C:.
+- Choose “Properties”.
+- Click “Disk Cleanup”. You will find this under the “General” tab.
+- Click "Unnecessary files
+- Once you are done, click “OK”.
+- Advanced users can avail the “Clean up system files” feature.
+

@@ -1,0 +1,42 @@
+Recover Deleted Files from Pen Drive in Linux
+https://www.wikihow.com/Recover-Deleted-Files-from-Pen-Drive-in-Linux
+
+0 - Steps
+
+1 - Install  software using command "sudo apt-get install testdisk"
+
+Install  software using command "sudo apt-get install testdisk"
+- ;
+
+2 - Insert pen drive_disk drive from where you want to recover files
+
+Insert pen drive/disk drive from where you want to recover files
+
+3 - In 'terminal' type "sudo photorec"
+
+In 'terminal' type "sudo photorec"
+
+4 - Select disk from where you want to recover files and selecting proceed hit enter
+
+Select disk from where you want to recover files and selecting proceed hit enter
+
+5 - Select proper file system and hit search
+
+Select proper file system and hit search
+
+6 - Select Filesystem where your files were stored ( it was formatted with Windows or linux )
+
+Select Filesystem where your files were stored ( it was formatted with Windows or linux )
+
+7 - Select whether you need to scan whole memory to recover all files or from unallocated only
+
+Select whether you need to scan whole memory to recover all files or from unallocated only
+
+8 - Select Destination folder where you want to store recovered files and hit "C" after selecting
+
+Select Destination folder where you want to store recovered files and hit "C" after selecting
+- Recovery Process started and shows status of recovered files
+
+9 - Quit after recovery completes or you can abort.
+Quit after recovery completes or you can abort.
+

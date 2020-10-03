@@ -1,0 +1,24 @@
+T1	Software-OS-Related 179 184	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 282 292	search bar
+T3	Software-OS-Related 487 499	Task Manager
+A2	isOpened T3 f->t
+T4	Software-OS-Related 575 578	Run
+A3	isOpened T4 f->t
+T5	Software-OS-Related 733 741	system32
+A4	isOpened T5 f->t
+T6	Software-OS-Related 851 853	OK
+A5	isSettingsChanged T6 true
+T7	Software-OS-Related 1077 1081	View
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1101 1113	Hidden items
+A7	isOpened T8 start-T
+T9	Software-OS-Related 1134 1154	File name extensions
+A8	isOpened T9 start-T
+T10	Software-OS-Related 1863 1871	system32
+A9	isOpened T10 f->t
+T11	Software-OS-Related 1903 1916	Text Document
+A10	isOpened T11 f->t
+T12	Software-OS-Related 2051 2062	WgaTray.exe
+A11	isOpened T12 f->t
+T13	Software-OS-Related 2288 2295	system3

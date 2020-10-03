@@ -1,0 +1,28 @@
+Use Wine on Linux
+https://www.wikihow.com/Use-Wine-on-Linux
+
+0 - Installing a Program
+
+1 - Open your Downloads folder.
+Open your Downloads folder. You'll find this in your Home folder, though you may also be able to open the Downloads folder from within the Applications menu.
+
+2 - Find the downloaded EXE file.
+Find the downloaded EXE file. Scroll through the Downloads folder until you find the EXE file for the program that you want to install.
+
+3 - Right-click the file.
+Right-click the file. Doing so will prompt a drop-down menu.
+
+4 - Click Open With Wine Windows Program Loader.
+Click Open With Wine Windows Program Loader. It's at the top of the drop-down menu. This will open an installation window.
+
+5 - Click Install.
+Click Install. It's at the bottom of the installation window. The program will begin installing onto your computer.
+- Some programs may require additional input before they can be installed.
+- You can also change the location in which your program is installed by clicking ⋯ on the right side of the window and then selecting a different folder on your computer.
+
+6 - Click Close when prompted.
+Click Close when prompted. This option will become available when the program is finished installing.
+
+7 - Run your program.
+Run your program. You can run your newly installed program from within the Applications section, which is usually inside of the Menu.
+

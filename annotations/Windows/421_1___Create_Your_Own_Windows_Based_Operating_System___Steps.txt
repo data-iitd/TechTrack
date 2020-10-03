@@ -1,0 +1,44 @@
+Create Your Own Windows Based Operating System
+https://www.wikihow.com/Create-Your-Own-Windows-Based-Operating-System
+
+0 - Steps
+
+1 - Make sure you have all the requirements ready, you will need them.
+Make sure you have all the requirements ready, you will need them. The requirements are listed under Things You'll Need below.
+- ;
+
+2 - Decide what CPU the OS is compatible with.
+Decide what CPU the OS is compatible with. For example: x86 (32-bit), x64 (64-bit). Make sure your computer that you will target matches the CPU type you will specify later. Write down what processor architecture, you need to remember that.
+
+3 - Decide what you want to use as storage (CD, DVD, USB, HDD).
+Decide what you want to use as storage (CD, DVD, USB, HDD).
+- Note: If you choose a CD or DVD, your image file of your system must be smaller than 1G. We will talk about the image file later.
+
+4 - Download the Windows 7 AIK from this link:
+Download the Windows 7 AIK from this link: http://www.microsoft.com/en-us/download/details.aspx?id=5753
+
+5 - Install it and then turn off your User Account Control (UAC) in the control panel.
+Install it and then turn off your User Account Control (UAC) in the control panel. This allows us to do anything to the system files stored in the image file we are going to change.
+
+6 - Find and open the Deployment Tools Command Prompt in the start menu.
+Find and open the Deployment Tools Command Prompt in the start menu.
+
+7 - Set up the image file.
+Set up the image file. The image file is 120MB. If you install it on a CD as a live filesystem, then you are not able to save anything. Type the following command in the Deployment Tools Command Prompt: copype _Your_Chosen_Processor_Architecture_ C:\PathWhereYouWantToStoreTheImageFile. Example: copype x64 X:\Data\MyWindowsOS
+
+8 - Mount the image.
+Mount the image. So you have created our image (if it has been done right) and now you need to mount it so that you can change its contents. Type the following: imagex /mountrw PathOfImage 1 PathOfImageFolder/mount. Example: imagex /mountrw X:\MWOS\winpe.wim 1 X:\MWOS\mount.
+
+9 - Add anything you want to it, the mount point is your specified mount point.
+Add anything you want to it, the mount point is your specified mount point. When you are done with modifying its contents, type imagex /unmount MountPointPath /commit. Example: imagex /unmount X:\MWOS\mount /commit
+
+10 - Type move PathOfImageFile PathOfImageFolder_ISO_sources_boot.wim
+
+Type move PathOfImageFile PathOfImageFolder/ISO/sources/boot.wim
+
+11 - When that is done, type the following command to create a CD image.
+When that is done, type the following command to create a CD image. Type: oscdimg -n -bPathOfImageFolder\etfsboot.com PathOfImageFolder\ISO PathIfImageFolder\winpe_x86.iso
+
+12 - Test your image in virtualbox, vmware or even for real.
+Test your image in virtualbox, vmware or even for real.
+

@@ -1,0 +1,33 @@
+T1	Software-OS-Related 153 175	Ubuntu Software Center
+A1	isOpened T1 f->t
+T2	Software-OS-Related 292 301	Edit menu
+A2	isOpened T2 f->t
+T3	Software-OS-Related 313 329	Software Sources
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 383 398	Ubuntu Software
+A4	isSettingsChanged T4 true
+A5	isOpened T4 f->t
+T5	Software-OS-Related 503 564	Software restricted by copyright or legal issues (multiverse)
+A6	isSettingsChanged T5 true
+T6	Software-OS-Related 578 583	Close
+A7	isOpened T6 t->f
+T7	Software-Other 773 792	Pepper Flash Player
+A8	isOpened T7 f->t
+T8	Software-OS-Related 942 950	Terminal
+A10	isOpened T8 f->t
+T9	Software-OS-Related 1028 1066	.sudo update-pepperflashplugin-nonfree
+A11	isSettingsChanged T9 true
+T10	Software-OS-Related 1281 1285	exit
+A12	isSettingsChanged T10 true
+T11	Software-OS-Related 1639 1647	Terminal
+A13	isOpened T11 f->t
+T12	Software-OS-Related 1657 1702	sudo update-pepperflashplugin-nonfree –status
+A14	isSettingsChanged T12 true
+T13	Software-OS-Related 1857 1898	update-pepperflashplugin-nonfree –install
+A15	isSettingsChanged T13 true
+R1	SubPart Arg1:T3 Arg2:T1	
+R2	SubPart Arg1:T5 Arg2:T4	
+R3	SubPart Arg1:T9 Arg2:T8	
+R4	SubPart Arg1:T12 Arg2:T11	
+R5	SubPart Arg1:T13 Arg2:T11	
+A9	isOpened T10 t->f

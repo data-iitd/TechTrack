@@ -1,0 +1,29 @@
+Change How Often a Mac Screen Saver Changes
+https://www.wikihow.com/Change-How-Often-a-Mac-Screen-Saver-Changes
+
+0 - Confirming your Settings in Terminal
+
+1 - Open Terminal.
+Open Terminal. You can type "Terminal" into Spotlight search to access the program.
+- ;
+
+2 - Verify your current settings.
+Verify your current settings. The default length of time is 3 seconds.
+- Copy and paste the following into the Terminal window: 
+- 
+- sudo /usr/libexec/PlistBuddy -c "print ':JustASlide:mainDuration'" /System/Library/PrivateFrameworks/Slideshows.framework/Versions/A/Resources/Content/EffectDescriptions.plist
+- 
+- 
+- Press ↵ Enter.
+- If prompted for your password, type it in and press ↵ Enter. The keystrokes will not appear as you type it in.
+- Unless you have changed this setting before, a number 3 will appear, confirming that the default setting is in place.
+
+3 - Click the Apple logo at the top left of your screen.
+Click the Apple logo at the top left of your screen.
+
+4 - Click Restart.
+Click Restart.
+
+5 - Press and hold ⌘ Command+R immediately after restarting.
+Press and hold ⌘ Command+R immediately after restarting. Doing so will cause your Mac to boot in recovery.
+

@@ -1,0 +1,53 @@
+T1	Software-Other 138 149	Chromium OS
+T2	Software-Other 161 195	http:__chromium.arnoldthebat.co.uk
+T3	Software-Other 549 557	unzipper
+T4	Software-Other 563 568	7-Zip
+T5	Software-Other 582 586	Keka
+T8	Software-OS-Related 831 854	USB drive File Explorer
+A1	isOpened T8 f->t
+T6	Software-OS-Related 870 878	Manage  
+A2	isOpened T6 f->t
+T7	Software-OS-Related 892 898	Format
+A3	isOpened T7 f->t
+T9	Software-OS-Related 935 940	Fat32
+T10	Software-OS-Related 969 980	File System
+A4	isOpened T10 f->t
+R1	SubPart Arg1:T9 Arg2:T10	
+A5	isSettingsChanged T9 true
+T11	Software-OS-Related 992 997	Start
+T12	Software-OS-Related 1002 1004	OK
+A6	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T7	
+T13	Software-OS-Related 1104 1116	Disk Utility
+A7	isOpened T13 f->t
+T14	Software-OS-Related 774 781	Windows
+T15	Software-OS-Related 1079 1083	Macs
+T16	Software-OS-Related 1126 1135	Utilities
+T17	Software-OS-Related 1146 1152	Finder
+T18	Software-OS-Related 1166 1175	USB drive
+A8	isOpened T18 f->t
+T19	Software-OS-Related 1192 1197	Erase
+A9	isOpened T19 f->t
+R3	SubPart Arg1:T19 Arg2:T18	
+T20	Software-Other 1300 1306	Etcher
+T21	Software-Other 1312 1341	https:__www.balena.io_etcher_
+A10	isInstalled T20 f->t
+T22	Software-OS-Related 1761 1766	Flash
+T23	Hardware-Other 1798 1806	computer
+T24	Software-OS-Related 1814 1817	USB
+T25	Software-Other 1890 1896	Etcher
+A11	isOpened T25 f->t
+T26	Software-Other 1949 1961	Select Image
+A12	isOpened T26 f->t
+T27	Software-Other 1977 1999	Chromium OS image file
+T28	Software-Other 2010 2022	Select Drive
+A13	isOpened T28 f->t
+T29	Software-OS-Related 2038 2047	USB drive
+T30	Software-Other 2072 2077	Flash
+A14	isSettingsChanged T30 true
+T31	Hardware-Other 2298 2306	computer
+T32	Software-OS-Related 2285 2292	Restart
+T33	Software-OS-Related 2311 2315	boot
+T34	Software-OS-Related 2325 2334	USB drive
+T35	Software-OS-Related 2738 2742	WiFi
+T36	Software-Other 2695 2706	Chromium OS

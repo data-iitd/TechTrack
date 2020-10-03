@@ -1,0 +1,30 @@
+Install Knoppix Linux
+https://www.wikihow.com/Install-Knoppix-Linux
+
+0 - Steps
+
+1 - Before you download Knoppix, take a look at some more information at the Knoppix Website.
+Before you download Knoppix, take a look at some more information at the Knoppix Website. If you prefer (or are on dial-up), you can buy a disc from On Disk or other suppliers and skip to step 5.
+- ;
+
+2 - Click on a location (preferably the one nearest to you) from this list (don't worry about FTP or HTTP).
+Click on a location (preferably the one nearest to you) from this list (don't worry about FTP or HTTP). Click on an image file (with the extension .iso) to download it.
+
+3 - After the download is completed, and if you know what a checksum (md5) is, you might want to check it for errors.
+After the download is completed, and if you know what a checksum (md5) is, you might want to check it for errors. Otherwise don't worry.
+
+4 - Burn the image file "as an image" (which will contain lot of files on a disc), rather than "a data disc" (which will simply contain an .iso file on a disc).
+Burn the image file "as an image" (which will contain lot of files on a disc), rather than "a data disc" (which will simply contain an .iso file on a disc). Windows XP allows users to directly burn files through Windows Explorer but does NOT support burning as images. Use something like InfraRecorder or ImgBurn instead.
+
+5 - When the disc is done, reboot your computer with the disc left in.
+When the disc is done, reboot your computer with the disc left in.
+
+6 - If all goes well, you'll be asked if you want to load Knoppix.
+If all goes well, you'll be asked if you want to load Knoppix. Press return to start and it will load itself to your system's memory. Be patient, it could take 5 minutes.
+
+7 - After it's done, click on the K button at the bottom left to bring up a menu like the Windows start menu.
+After it's done, click on the K button at the bottom left to bring up a menu like the Windows start menu. Choose an application and click on it to begin using it.
+
+8 - Actually installing Knoppix to your hard disk drive isn't recommended, but to do so, read instructions from the official website or try KanotiX.
+Actually installing Knoppix to your hard disk drive isn't recommended, but to do so, read instructions from the official website or try KanotiX.
+

@@ -1,0 +1,27 @@
+Install Skype in Ubuntu
+https://www.wikihow.com/Install-Skype-in-Ubuntu
+
+0 - Running Skype
+
+1 - Open Skype.
+Open Skype. It may not be immediately obvious that Skype has been installed, as no icon will appear on your desktop or Launcher bar. There are a couple of different ways you can find it.
+- Click the Dash and search for "Skype". After opening Skype, you'll see the Skype icon appear in your launcher bar. Right-click it and select "Lock to Launcher" to keep the Skype icon on your Launcher after it is closed.
+- Navigate to "Applications" → "Internet" → "Skype". You can use this to create a shortcut on your desktop for Skype.
+
+2 - Wait for Skype to load.
+Wait for Skype to load. The first time you run Skype, it will likely take a minute or two to start. During this time, it will appear as if nothing is happening. Be patient and it should start after a little while. When you start it again in the future, it should start immediately.
+
+3 - Log in using your Skype username or Microsoft account.
+Log in using your Skype username or Microsoft account. You can also create an account for free if you don't have one. Click here for more details on Skype accounts.
+
+4 - Test your microphone.
+Test your microphone. When you first start Skype, you'll see a contact named "Echo / Sound Test Service". Select it and then click the call button. This will allow you to test your microphone and speakers to ensure that you are sending and receiving sound.
+- If your speakers or microphone are not working, see the Troubleshooting section below.
+
+5 - Test your webcam.
+Test your webcam. If you have a webcam connected, you can test it to ensure that it is working. Click the "Tools" menu and select "Options". Click the "Video settings" option in the "General" section. The image from your webcam should appear in the Skype window.
+- If your webcam is not appearing, see the Troubleshooting section below.
+
+6 - Start using Skype.
+Start using Skype. Once you've confirmed that your devices are working properly, you can start using Skype to chat via text, voice, and video. Click here for details on using the Skype client.
+

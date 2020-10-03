@@ -1,0 +1,33 @@
+T1	Software-OS-Related 94 98	Next
+T2	Software-OS-Related 197 211	setup language
+T11	Software-OS-Related 1648 1664	Express Settings
+T5	Software-OS-Related 341 355	Windows 10 key
+T12	Software-OS-Related 368 372	Next
+T3	Software-OS-Related 256 267	Install Now
+T4	Software-OS-Related 315 321	window
+T13	Hardware-Devices 508 514	screen
+T6	Software-OS-Related 534 540	Accept
+T7	Software-OS-Related 556 560	Next
+T8	Software-OS-Related 668 675	Upgrade
+T16	Software-OS-Related 717 756	Which type of installation do you want?
+T17	Software-OS-Related 787 797	Windows 10
+T18	Software-OS-Related 820 825	files
+T19	Software-OS-Related 827 831	apps
+T20	Software-OS-Related 837 845	settings
+T21	Hardware-Other 915 923	computer
+T9	Software-OS-Related 1017 1027	Windows 10
+T15	Hardware-Other 1271 1273	CD
+T10	Software-OS-Related 1313 1341	on-screen setup instructions
+T22	Software-OS-Related 1031 1038	install
+R1	SubPart Arg1:T22 Arg2:T9	
+T23	Software-OS-Related 1390 1400	Windows 10
+T24	Hardware-Devices 1428 1436	computer
+T25	Software-OS-Related 1470 1478	settings
+A1	isOpened T1 f->t
+A2	isOpened T3 f->t
+A3	isOpened T12 f->t
+A4	isPowered T13 start-T
+A5	isOpened T7 f->t
+A6	isOpened T8 f->t
+A7	isUsed T24 true
+A8	isSettingsChanged T22 true

@@ -1,0 +1,29 @@
+T1	Hardware-Devices 180 188	webcam's
+A1	isPowered T1 start-T
+T2	Hardware-Devices 258 268	USB webcam
+T3	Hardware-Other 307 315	computer
+T4	Hardware-Other 327 333	manual
+T9	Hardware-Devices 816 822	webcam
+T10	Hardware-Other 914 917	USB
+T11	Hardware-Other 1072 1077	cloth
+T12	Hardware-Other 1138 1141	USB
+T13	Hardware-Other 1164 1172	computer
+T14	Hardware-Devices 1362 1368	webcam
+T15	Hardware-Devices 1408 1423	built-in camera
+T16	Hardware-Devices 1450 1456	webcam
+T17	Hardware-Other 1474 1482	USB port
+T20	Software-OS-Related 1954 1970	operating system
+T22	Hardware-Other 2204 2212	computer
+T23	Software-OS-Related 2216 2225	Safe Mode
+T24	Hardware-Devices 2445 2451	webcam
+T26	Software-Device-Drivers 2603 2620	webcam's software
+T27	Software-Other 2766 2782	antivirus suites
+T28	Software-Other 2787 2799	social tools
+T29	Software-Other 2805 2810	Slack
+T30	Software-Other 2814 2819	Steam
+T19	Software-Other 1793 1820	USB webcam's video settings
+A5	isSettingsChanged T19 true
+T5	Hardware-Other 968 988	light level detector
+T6	Hardware-Other 1000 1004	dust
+*	Equiv T15 T14
+A2	isRelatedDeviceConnected T26 start-T

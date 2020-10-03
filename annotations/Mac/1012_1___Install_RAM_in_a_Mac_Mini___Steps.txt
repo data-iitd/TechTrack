@@ -1,0 +1,48 @@
+Install RAM in a Mac Mini
+https://www.wikihow.com/Install-RAM-in-a-Mac-Mini
+
+0 - Steps
+
+1 - Determine the model of your Mac mini.
+Determine the model of your Mac mini. This process will allow you to verify if you can install the RAM yourself without contacting an Apple Authorized Service Provider for assistance.
+- Go to "Apple" in the menu bar while your computer is turned on, then select "About This Mac" to view your serial number. The serial number can also be found printed on the bottom of your Mac mini computer.
+- Type your serial number into the "Service and Coverage" tool provided by Apple. The "Service and Coverage" tool can be accessed by clicking on the "Self Solve" Apple link featured in the Sources section of this article. This website will provide you with the model of your Mac mini.
+- ;
+
+2 - Determine the RAM installation process required.
+Determine the RAM installation process required. If your Mac mini is a 2010 or 2011 model, you can install the RAM yourself; however, earlier models will require you to contact an Apple Authorized Service Provider.
+- Visit the Apple "support" website provided to you in the Sources section of this article and click on the link for "Apple Authorized Service Provider." This link will provide you with a list of the nearest service providers in your area. You may also call Apple at 1-800-692-7753 for assistance.
+
+3 - Power off your Mac mini computer.
+Power off your Mac mini computer. This will prevent you from any injuries pertaining to electrical shock as you work on your computer.
+- If your Mac mini is still turned on, point to the "Apple" menu and select "Shut Down" to turn off the computer.
+
+4 - Disconnect any cables from your Mac mini.
+Disconnect any cables from your Mac mini. This will include power cables, internet cables, or extra cables, such as printer cables.
+
+5 - Place your Mac mini in an upside-down position on a soft cloth.
+Place your Mac mini in an upside-down position on a soft cloth. The soft cloth will help protect the outer shell of the Mac mini from any scratches.
+
+6 - Remove the bottom cover of the Mac mini.
+Remove the bottom cover of the Mac mini. The bottom cover is the round cover imprinted with the words "Mac mini." 
+- Place your thumbs gently on the bottom cover, then unlock the cover by rotating it in a counterclockwise position.
+- Press down on one side of the cover with your thumb. The opposite side of the cover will then pop off, allowing you to remove the back cover completely from the Mac mini.
+
+7 - Remove the original RAM.
+Remove the original RAM. The 2 RAMs, or memory modules, are located on top of one another in the bottom-right corner below the cover. 
+- Open the retainer clips holding the RAM in place. Each side of the RAM slot will have a retainer clip, both of which you can lift up and off the RAM using 2 fingers until the RAM is released from the slot.
+- Gently pull the RAM out of the slot. You can then repeat the process for the second RAM located below the top RAM.
+
+8 - Install the new RAM into the Mac mini.
+Install the new RAM into the Mac mini.
+- Place one of your RAMs into the bottom slot first, attaching the side with the notch into the Mac mini. The notch resembles a tiny slit and will be present on one of the long sides of the RAM.
+- Press the RAM down into the slot until you see the retainer clips snap the RAM into place. You can then repeat this process for the insertion of the second RAM.
+
+9 - Place the bottom cover back onto your Mac mini.
+Place the bottom cover back onto your Mac mini. Alignment dots will be present on the cover and on the computer itself to help you correctly position the back cover into place. 
+- Lock the back cover into place by rotating it clockwise after matching up the alignment dots on the back cover and computer. You can then reconnect all the cables you removed earlier from your Mac mini and power the computer on.
+
+10 - Check to see if the Mac mini recognizes the new RAM.
+Check to see if the Mac mini recognizes the new RAM.
+- Select "Apple" from the menu bar on the desktop of your Mac mini, then click on "About This Mac." Your computer will then display its total amount of memory.
+

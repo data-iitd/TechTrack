@@ -1,0 +1,31 @@
+Change the Measurement Units on a Mac
+https://www.wikihow.com/Change-the-Measurement-Units-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Language & Region.
+Click on Language & Region.
+
+4 - Click on the drop-down menu next to "Temperature."
+Click on the drop-down menu next to "Temperature." It's on the right side of the dialog box. Select Fahrenheit or Celsius for units of temperature.
+
+5 - Click on Advanced.
+Click on Advanced.
+
+6 - Click on the drop-down menu next to "Measurement Units."
+Click on the drop-down menu next to "Measurement Units." Choose from U.S., U.K. or metric.
+
+7 - Click on the drop-down menu next to "Currency."
+Click on the drop-down menu next to "Currency." Select your preferred currency unit.
+
+8 - Click on OK.
+Click on OK. You've now changed your Mac's units of measurement to your preferred settings.
+- Changing these settings will change the default units your Mac uses when it displays such information in places like the menu bar or the Notifications Center.
+

@@ -1,0 +1,24 @@
+Remove Autorun Virus from Hard Disk Drives
+https://www.wikihow.com/Remove-Autorun-Virus-from-Hard-Disk-Drives
+
+0 - Using the Command Prompt
+
+1 - Open command prompt.
+Open command prompt. Go to Windows, then Run, and type "cmd" . Press enter.
+- ;
+
+2 - Type "cd\" and press enter to get to the root directory of c:
+Type "cd\" and press enter to get to the root directory of c:\ .
+
+3 - Type "attrib -h -r -s autorun.inf" and press enter.
+Type "attrib -h -r -s autorun.inf" and press enter.
+
+4 - Type "del autorun.inf" and press enter.
+Type "del autorun.inf" and press enter.
+
+5 - Repeat the same process with other drives, type "d:
+Repeat the same process with other drives, type "d:" and do the same thing.  Then next "e:" and restart your computer.
+
+6 - Restart your computer and it's done.
+Restart your computer and it's done. Enjoy the freedom to open hard drives on a double click.
+

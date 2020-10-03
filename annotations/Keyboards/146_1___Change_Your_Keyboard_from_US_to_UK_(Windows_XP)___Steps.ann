@@ -1,0 +1,48 @@
+T1	Software-OS-Related 151 156	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 289 294	Run….
+A2	isOpened T2 f->t
+T3	Software-OS-Related 381 389	intl.cpl
+T4	Hardware-Other 413 420	↵ Enter
+T5	Software-OS-Related 485 514	Regional and Language Options
+A4	isOpened T5 f->t
+T6	Software-OS-Related 541 550	Languages
+A5	isOpened T6 f->t
+T7	Software-OS-Related 641 648	Details
+T8	Software-OS-Related 682 715	Text Services and Input Languages
+A7	isOpened T8 f->t
+T9	Software-OS-Related 738 741	Add
+T10	Software-OS-Related 786 804	Installed Services
+T11	Software-OS-Related 862 886	English (United Kingdom)
+T12	Software-OS-Related 897 911	Input language
+T13	Software-OS-Related 998 1012	United Kingdom
+T14	Software-OS-Related 1023 1042	Keyboard layout/IME
+T15	Software-OS-Related 1123 1125	OK
+T16	Software-OS-Related 1163 1196	Text Services and Input Languages
+T17	Software-OS-Related 1221 1245	English (United Kingdom)
+T18	Software-OS-Related 1256 1278	Default input language
+T19	Software-OS-Related 1404 1406	OK
+T20	Software-OS-Related 1416 1418	OK
+T21	Software-OS-Related 1492 1504	Language Bar
+T22	Software-OS-Related 1512 1519	taskbar
+T23	Software-OS-Related 1533 1535	EN
+T24	Software-OS-Related 1556 1568	Language Bar
+A24	isOpened T24 f->t
+*	Equiv T21 T23
+T25	Software-OS-Related 1605 1607	EN
+T26	Software-OS-Related 1616 1623	taskbar
+T27	Software-OS-Related 1682 1706	English (United Kingdom)
+T28	Software-OS-Related 1768 1778	US English
+A30	isSettingsChanged T28 true
+T29	Software-OS-Related 1782 1792	UK English
+T30	Hardware-Other 1808 1813	mouse
+T31	Software-OS-Related 1830 1842	Language Bar
+T32	Software-OS-Related 1814 1820	cursor
+A3	isSettingsChanged T15 true
+A6	isOpened T9 f->t
+R2	SubPart Arg1:T15 Arg2:T11	
+R3	SubPart Arg1:T15 Arg2:T13	
+A8	isSettingsChanged T20 true
+R4	SubPart Arg1:T20 Arg2:T17	
+A9	isSettingsChanged T27 true
+R1	SubPart Arg1:T27 Arg2:T24	

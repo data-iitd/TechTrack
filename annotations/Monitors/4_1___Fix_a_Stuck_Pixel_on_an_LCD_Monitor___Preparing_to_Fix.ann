@@ -1,0 +1,11 @@
+T1	Hardware-Devices 613 619	screen
+A1	isPowered T1 start-T
+T2	Hardware-Devices 748 755	monitor
+T3	Hardware-Devices 1069 1076	screen'
+T4	Hardware-Devices 1445 1452	monitor
+T5	Hardware-Devices 1830 1837	monitor
+A5	isPowered T5 t->f
+T6	Hardware-Devices 2237 2244	monitor
+T7	Hardware-Devices 2753 2759	screen
+T8	Hardware-Devices 2831 2838	monitor
+*	Equiv T1 T2

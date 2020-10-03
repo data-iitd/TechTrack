@@ -1,0 +1,20 @@
+T1	Software-OS-Related 194 208	drop-down menu
+A1	isOpened T1 f->t
+T2	Hardware-Other 215 218	Mac
+T3	Hardware-Other 226 234	trackpad
+T4	Hardware-Other 240 251	magic mouse
+T5	Software-OS-Related 371 382	colored tag
+T6	Software-OS-Related 542 556	drop-down menu
+T7	Software-OS-Related 445 452	desktop
+T8	Software-OS-Related 599 606	desktop
+T9	Software-OS-Related 665 679	drop-down menu
+A2	isOpened T9 f->t
+T10	Hardware-Other 686 689	Mac
+T11	Hardware-Other 697 705	trackpad
+T12	Hardware-Other 711 722	magic mouse
+T13	Software-OS-Related 135 142	desktop
+T14	Software-OS-Related 839 846	Sort By
+A3	isOpened T14 f->t
+T15	Software-OS-Related 878 882	Tags
+A4	isSettingsChanged T15 true
+R1	SubPart Arg1:T15 Arg2:T14	

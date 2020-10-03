@@ -1,0 +1,34 @@
+Email a Scanned Document
+https://www.wikihow.com/Email-a-Scanned-Document
+
+0 - Steps
+
+1 - Scan the document you want to send.
+Scan the document you want to send. The process for doing so will vary depending on your scanner and the computer or mobile device you're using.
+- Scanning a document in PDF format offers the most flexibility and greatest likelihood for compatibility across most devices and computers.
+- ;
+
+2 - Open your email application or email website.
+Open your email application or email website. On your computer, open your email app or go to your email provider's website in a web browser where you normally check your mail.
+
+3 - Compose a new email message.
+Compose a new email message. Be sure to reference the attachment so that the recipient knows to look for it.
+- To start a new message, look for a button with a pencil icon, usually at the top of the screen, or a  symbol.
+
+4 - Type the recipient's email address in the "To:" field.
+Type the recipient's email address in the "To:" field.
+
+5 - Click the "attach files" button.
+Click the "attach files" button. The "attach files" button is sometimes a paper clip icon.
+- In some cases, you may be able to right-click on the scanned document, click Copy, right click in the new email message, and click Paste to add the document to the email address.
+
+6 - Locate and click the scanned document in the dialog box.
+Locate and click the scanned document in the dialog box.
+
+7 - Click Open.
+Click Open. Depending on the email app you're using, the button may also be labeled OK or Attach.
+
+8 - Send the message.
+Send the message.
+- When they receive your message, the recipient will need to double-click or tap the attachment to view the scanned document you emailed to them.
+

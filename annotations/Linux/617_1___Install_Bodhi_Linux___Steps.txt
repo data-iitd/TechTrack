@@ -1,0 +1,59 @@
+Install Bodhi Linux
+https://www.wikihow.com/Install-Bodhi-Linux
+
+0 - Steps
+
+1 - Download the Bodhi Linux ISO.
+Download the Bodhi Linux ISO. You can download the ISO file at https://www.bodhilinux.com/download/. 
+- You can use a CD/DVD or a USB stick to make the bootable media. The media needs to be able to hold 4GB. Use CD/DVD burning software or USB boot-making software to make the bootable media. Wait for the ISO to download before proceeding.
+- ;
+
+2 - Reboot into the BIOS.
+Reboot into the BIOS. Set the boot order to boot from the CD/DVD or USB first. Wait until you get to the manufacturer's logo to do so.
+- Common keys to enter the BIOS are Esc, Del, F2, or F12.
+
+3 - Save changes and reboot the system.
+Save changes and reboot the system. If you are using a UEFI-based system, use the keys mentioned above if available, or, from Windows, hold ⇧ Shift, click Restart, then choose UEFI Firmware Settings. Change the boot order and disable Secure Boot. Then reboot the system from there.
+
+4 - Select the live option on the boot menu to boot into Bodhi Linux into live mode.
+Select the live option on the boot menu to boot into Bodhi Linux into live mode.
+- The other utilities are not needed, but you can use them to test your computer's memory, verify the Bodhi ISO, boot a hard drive, or run in safe graphics mode.
+
+5 - Go to the menu and select "Install Bodhi Linux 5.0.0".
+Go to the menu and select "Install Bodhi Linux 5.0.0".
+- This can be done by going to Menu > Applications > Preferences > Install Bodhi Linux 5.0.0
+- If you want to, you can freely explore the operating system before installing it.
+
+6 - Select your language and click Continue.
+Select your language and click Continue.
+- At the next screen, you can choose to download updates and download third-party software for drivers/etc.
+
+7 - Choose whether you want to install alongside another operating system, or completely erase the disk.
+Choose whether you want to install alongside another operating system, or completely erase the disk.
+- If you choose the alongside option, this will allow you to select your own space for Bodhi and another operating system.
+- If you choose the Erase Disk option, this will completely erase your hard drive and replace it with Bodhi. Only do this if you just want to use Bodhi only.
+- Use the Something else option if you want to configure your own partitions for Bodhi.
+- When you are done deciding, click Install Now and confirm to the changes.
+
+8 - Enter the information required, then click Continue.
+Enter the information required, then click Continue.
+- Always choose a strong password.
+
+9 - Let it install.
+Let it install. This should take about 5-30 minutes depending on your computer speed.
+- While installing, it will go through a slide-show detailing the features of Bodhi.
+
+10 - Click Restart Now when it's done installing.
+Click Restart Now when it's done installing.
+- If you are not done exploring Bodhi, you can click Continue Testing. Your data will not be saved on next restart.
+
+11 - Reboot back into the BIOS, and set the boot order to boot from the hard drive.
+Reboot back into the BIOS, and set the boot order to boot from the hard drive.
+- Once done, save the settings and reboot. You should now be able to boot to Bodhi successfully.
+
+12 - Log into Bodhi Linux.
+Log into Bodhi Linux.
+
+13 - Enjoy using Bodhi Linux!
+Enjoy using Bodhi Linux!
+

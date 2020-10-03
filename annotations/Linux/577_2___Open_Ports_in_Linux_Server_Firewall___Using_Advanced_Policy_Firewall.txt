@@ -1,0 +1,38 @@
+Open Ports in Linux Server Firewall
+https://www.wikihow.com/Open-Ports-in-Linux-Server-Firewall
+
+0 - Using Advanced Policy Firewall
+
+1 - Log in to your server.
+Log in to your server. If you're not logged in as the root user, you can su to root to adjust your configuration.
+
+2 - Go to the directory that contains your APF config file.
+Go to the directory that contains your APF config file. The file you're looking for is called conf.apf, and it'll be in /etc/apf by default.[4]
+- X
+- Research source
+- 
+-  Type cd /etc/apf to enter that directory.
+
+3 - Open conf.apf in a text editor.
+Open conf.apf in a text editor. You can use any text editor you wish, such as vim or nano.
+- To open conf.apf in vim, you'd type vim conf.apf and press ↵ Enter.
+
+4 - Add inbound ports to the IG_TCP_CPORTS list.
+Add inbound ports to the IG_TCP_CPORTS list. Once you have the file open, you will see IG_TCP_CPORTS and EG_TCP_CPORTS sections. The IG_TCP_CPORTS section lists open inbound ports separated by commas. The ports are listed in numerical order to make things easy, but it's not required to stick with it. You can add ports to the end of the sequence, just separate them with commas.
+- For example, let's say you want to open port 999, and the current open ports are 20, 21, 22, 25, 53, 80, 110, 143, 443, 465, 587, 993, 995.
+- After adding port 999 to the IG_TCP_CPORTS list, it will look like this: 20, 21, 22, 25, 53, 80, 110, 143, 443, 465, 587, 993, 995, 999.
+- To get into insertion/typing mode in vim, press the i key on the keyboard.
+
+5 - Allow outbound ports to the EG_TCP_CPORTS list.
+Allow outbound ports to the EG_TCP_CPORTS list. Just as you did with the incoming port, add any outbound TCP ports you'd like to open to the the EG_TCP_CPORTS list.
+
+6 - Save your changes and exit the file.
+Save your changes and exit the file. Follow these steps to save and exit the file:
+- Press the Esc key.
+- Type :wq!.
+- Press ↵ Enter.
+
+7 - Type service apf -r and press ↵ Enter.
+Type service apf -r and press ↵ Enter. This restarts the APF firewall and opens the new ports.
+- To deny a port, re-open the file, delete the port, save the file, and then re-start the firewall.
+

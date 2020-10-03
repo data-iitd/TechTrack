@@ -1,0 +1,53 @@
+T1	Software-Other 126 139	Razer Synapse
+A2	isInstalled T1 f->t
+T2	Hardware-Devices 168 176	keyboard
+T3	Software-Other 424 459	https://www.razerzone.com/downloads
+T4	Software-Other 601 615	CREATE ACCOUNT
+A1	isOpened T1 f->t
+T5	Hardware-Other 291 295	disk
+T6	Software-Other 657 662	LOGIN
+T7	Software-Other 934 940	MACROS
+T8	Software-Other 1027 1035	KEYBOARD
+T9	Software-Other 1042 1047	STATS
+T10	Software-Other 1061 1062	+
+T11	Software-Other 1331 1343	RECORD DELAY
+T12	Software-Other 1403 1416	DEFAULT DELAY
+T13	Software-Other 1476 1484	NO DELAY
+T14	Software-Other 1543 1549	Record
+T15	Hardware-Devices 1677 1685	keyboard
+T16	Software-Other 1742 1746	stop
+T17	Software-Other 1788 1796	KEYBOARD
+T18	Software-Other 1924 1933	CUSTOMIZE
+T19	Hardware-Other 2003 2006	key
+T20	Hardware-Devices 2252 2260	keyboard
+T21	Hardware-Other 2278 2283	mouse
+T22	Software-Other 2430 2444	KEY ASSIGNMENT
+T23	Software-Other 2567 2572	MACRO
+T24	Software-Other 2602 2614	assign macro
+T25	Software-Other 2678 2682	SAVE
+A14	isOpened T25 f->t
+A12	isSettingsChanged T25 true
+T26	Software-Other 2733 2748	playback option
+T27	Hardware-Other 2821 2824	key
+T28	Software-Other 2886 2895	play once
+T29	Software-Other 2963 2982	play multiple times
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	
+T30	NeedHelp 691 703	Razer device
+A4	isSettingsChanged T10 true
+R2	SubPart Arg1:T10 Arg2:T7	
+A5	isSettingsChanged T11 true
+A6	isSettingsChanged T12 true
+A7	isSettingsChanged T13 true
+R3	SubPart Arg1:T11 Arg2:T7	
+R4	SubPart Arg1:T12 Arg2:T10	
+R5	SubPart Arg1:T13 Arg2:T7	
+A8	isSettingsChanged T14 true
+R6	SubPart Arg1:T14 Arg2:T7	
+A9	isSettingsChanged T16 true
+R7	SubPart Arg1:T16 Arg2:T7	
+R8	SubPart Arg1:T25 Arg2:T22	
+A10	isSettingsChanged T28 true
+A11	isSettingsChanged T29 true
+R9	SubPart Arg1:T28 Arg2:T22	
+R10	SubPart Arg1:T29 Arg2:T22	

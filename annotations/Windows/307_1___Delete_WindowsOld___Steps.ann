@@ -1,0 +1,11 @@
+T1	Software-OS-Related 915 927	Disk Cleanup
+A1	isOpened T1 f->t
+T2	Software-OS-Related 92 107	essential files
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1563 1571	Clean up
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1785 1817	Previous Windows installation(s)
+A4	isOpened T4 f->t
+T5	Software-OS-Related 2279 2290	Recycle Bin
+A5	isOpened T5 f->t
+T6	Software-OS-Related 2518 2525	Cleanup

@@ -1,0 +1,94 @@
+Install Windows 98
+https://www.wikihow.com/Install-Windows-98
+
+0 - Setting Up
+
+1 - Choose to "Boot from CD-ROM" and press ↵ Enter.
+Choose to "Boot from CD-ROM" and press ↵ Enter.
+
+2 - Highlight "Start Windows 98 setup from CD-ROM.
+Highlight "Start Windows 98 setup from CD-ROM." and press ↵ Enter.
+
+3 - Press ↵ Enter.
+Press ↵ Enter.
+
+4 - Highlight "Configure unallocated disk space (recommended)" and press enter.
+Highlight "Configure unallocated disk space (recommended)" and press enter.
+
+5 - Decide whether you want to enable large disk support.
+Decide whether you want to enable large disk support. This is all down to personal preference but "Yes, enable large disk support" was selected in this tutorial.
+
+6 - Press ↵ Enter.
+Press ↵ Enter.
+
+7 - Choose to "Boot from CD-ROM" and press ↵ Enter.
+Choose to "Boot from CD-ROM" and press ↵ Enter.
+
+8 - Highlight "Start Windows 98 setup from CD-ROM.
+Highlight "Start Windows 98 setup from CD-ROM." and press ↵ Enter.
+
+9 - Press ↵ Enter.
+Press ↵ Enter.
+
+10 - Click "Continue".
+Click "Continue".
+
+11 - Choose where you want the computer to install Windows 98 then click "Next".
+Choose where you want the computer to install Windows 98 then click "Next".
+- It is recommended to use the directory that Windows recommends (in this case C:\\WINDOWS).
+
+12 - Choose your setup options.
+Choose your setup options. This is all down to personal preference, however, "Typical" was chosen for this tutorial.
+
+13 - Choose what components to install.
+Choose what components to install. "Install the most common components (Recommended)" was chosen for this tutorial but this is all down to personal preference.
+
+14 - Give the computer a name and a Workgroup and click "next".
+Give the computer a name and a Workgroup and click "next".
+- If the first two text boxes are filled, you may leave them.
+- The "Computer Description" field is not essential for the installation.
+
+15 - Choose your country from the list and click "Next".
+Choose your country from the list and click "Next".
+
+16 - Click "Next"
+
+Click "Next"
+
+17 - Restart the computer.
+Restart the computer.
+
+18 - Highlight "Boot from Hard Disk" and press ↵ Enter.
+Highlight "Boot from Hard Disk" and press ↵ Enter.
+
+19 - Enter your name as well as your company (not essential) and click "next".
+Enter your name as well as your company (not essential) and click "next".
+
+20 - Accept the agreement and click "next".
+Accept the agreement and click "next".
+- It's always a good idea to read the License Agreement so you know what you're signing up for.
+
+21 - Enter your product key exactly and click "next".
+Enter your product key exactly and click "next".
+
+22 - Click "finish".
+Click "finish".
+
+23 - Highlight "Boot from Hard Disk" and press ↵ Enter.
+Highlight "Boot from Hard Disk" and press ↵ Enter.
+
+24 - Set your Date_Time Properties and click "close" when finished.
+Set your Date/Time Properties and click "close" when finished.
+
+25 - Restart your computer.
+Restart your computer.
+
+26 - Highlight "Boot from Hard Disk" and press ↵ Enter.
+Highlight "Boot from Hard Disk" and press ↵ Enter.
+
+27 - Click "Ok".
+Click "Ok".
+
+28 - Windows 98 has now been installed.
+Windows 98 has now been installed.
+

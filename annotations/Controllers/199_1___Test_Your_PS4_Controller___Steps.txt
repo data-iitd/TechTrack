@@ -1,0 +1,40 @@
+Test Your PS4 Controller
+https://www.wikihow.com/Test-Your-PS4-Controller
+
+0 - Steps
+
+1 - Connect your PS4 controller to your computer.
+Connect your PS4 controller to your computer. Using a USB to Micro-USB cable, connect your controller to a USB port on your computer. You can usually find these ports on the front or back of your computer tower, on the back of your monitor (if you're using an all-in-one), and along the sides of laptops. The Micro-USB cable plugs in at the top of your PS4 controller.
+- ;
+
+2 - Right-click the Start logo .
+Right-click the Start logo . You'll see this logo in the bottom left corner of your screen if you haven't moved the location of the taskbar.
+- A menu will pop up from your mouse.
+
+3 - Type "Control Panel.
+Type "Control Panel." As you type, the search window will show you results.
+
+4 - Click Control Panel to launch the app.
+Click Control Panel to launch the app. You should see this listed as an app under "Best Results."
+- If you don't see it here, you can open the Run dialog (⊞ Win+R, enter "control panel" and press ↵ Enter.
+
+5 - Click View Devices and Printers.
+Click View Devices and Printers. You'll see this under the header, "Hardware and Sound."
+- You'll see a listing of all your connected devices.
+
+6 - Right-click Wireless Controller.
+Right-click Wireless Controller. You'll see this with the picture of a controller that closely resembles your PS4.
+
+7 - Click Game controller Settings.
+Click Game controller Settings. This is usually the first listing in the drop-down menu.
+- Another window should pop up.
+
+8 - Click Properties.
+Click Properties. You'll see this in the lower right corner of the window that pops-up.
+
+9 - Press the buttons on your controller to see their reaction on the computer screen.
+Press the buttons on your controller to see their reaction on the computer screen. You'll see a bar that slides to show how hard you're pressing the button on your remote.
+- For example, the graph on your computer screen should tell you how hard you're pressing the trigger buttons on your controller.[1]
+- X
+- Research source
+

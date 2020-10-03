@@ -1,0 +1,21 @@
+Fix an "External Hard Drive Not Detected" Error on PC or Mac
+https://www.wikihow.com/Fix-an-%22External-Hard-Drive-Not-Detected%22-Error-on-PC-or-Mac
+
+0 - Showing External Drives In the Finder on Mac
+
+1 - Open the Finder .
+Open the Finder .  The Finder is the blue and white icon with a smiley face.  It's in the dock at the bottom of the screen.  If an external hard drive is not showing up in the Finder, it could be that External disks are not checked in the preferences menu.
+
+2 - Click Finder.
+Click Finder.  It's in the menu bar at the top of the screen on the left next to the Apple icon.  This displays a drop-down menu.
+
+3 - Click Preferences….
+Click Preferences….  It's the second option in the "Finder" menu. This displays the preferences menu.
+
+4 - Click the General tab.
+Click the General tab.  It's the first icon at the top of the preferences menu.  It has an icon that resembles a light switch.
+
+5 - Click the checkbox  next to "External disks".
+Click the checkbox  next to "External disks".  If the box next to "External disks" is not checked, external hard drives will not be displayed in the Finder.  Check this box to make sure you have access to external hard drives in the finder.
+- You may also want to check "Hard disks", "CDs", "DVDs", and "iPods", and "Connected servers" to make sure you have access to all devices in the Finder.
+

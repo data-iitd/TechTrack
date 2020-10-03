@@ -1,0 +1,29 @@
+T1	Software-OS-Related 112 115	Win
+A1	isOpened T1 f->t
+T2	Software-OS-Related 146 162	Software Updater
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 529 534	Check
+T4	Software-OS-Related 669 684	Install Updates
+A4	isOpened T4 f->t
+T5	Software-OS-Related 808 813	Check
+T6	Software-OS-Related 1409 1416	Upgrade
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1708 1715	Upgrade
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T8	Software-OS-Related 2517 2536	sudo apt-get update
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2540 2580	sudo apt-get install update-manager-core
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 2584 2607	sudo do-release-upgrade
+A10	isOpened T10 f->t
+T11	Software-OS-Related 2050 2058	terminal
+A11	isOpened T11 f->t
+R4	SubPart Arg1:T10 Arg2:T11	
+A3	isSettingsChanged T3 true
+A12	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T2	
+A5	isOpened T6 f->t
+A13	isOpened T7 f->t
+R3	SubPart Arg1:T8 Arg2:T11	
+R5	SubPart Arg1:T9 Arg2:T11	

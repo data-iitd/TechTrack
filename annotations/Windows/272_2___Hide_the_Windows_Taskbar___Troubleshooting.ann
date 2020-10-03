@@ -1,0 +1,14 @@
+T1	Software-OS-Related 1165 1175	Start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1207 1213	System
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 1225 1248	Notifications & actions
+A3	isOpened T3 f->t
+R2	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 1442 1451	Customize
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1573 1581	settings
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1945 1961	Windows Explorer
+A6	isOpened T6 f->t

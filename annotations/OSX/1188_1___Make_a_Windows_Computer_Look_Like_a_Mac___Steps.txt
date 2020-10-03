@@ -1,0 +1,38 @@
+Make a Windows Computer Look Like a Mac
+https://www.wikihow.com/Make-a-Windows-Computer-Look-Like-a-Mac
+
+0 - Steps
+
+1 - Download the "Yosemite Skin Pack".
+Download the "Yosemite Skin Pack". A "skin pack" will change the look of the Windows interface so that it mimics OS X functionality. All of your Windows programs. This is available for free from skinpacks.com.
+- If you prefer to make Windows look and act like an older version of OS X, such as Mountain Lion, you can download skin packs for older versions from the same site.
+- Make sure to download the correct installer for your version of Windows.
+- ;
+
+2 - Disable your antivirus.
+Disable your antivirus. Since the skin packs will modify some system files, some antiviruses will block the installation. Disable your antivirus before proceeding with the installation.
+- Most antivirus programs can be disabled by right-click on the icon in your System Tray and selecting Stop, Disable, or Exit/Quit.
+
+3 - Run the installer.
+Run the installer. It will take a few moments to unpack all of the files.
+
+4 - Check the box to agree to the terms and conditions.
+Check the box to agree to the terms and conditions. This is required to install the Mavericks Skin Pack.
+
+5 - Review the various components that will be installed.
+Review the various components that will be installed. By default, all of the components will be checked to give Windows the most OS X appearance and functionality as possible.
+
+6 - Click .
+Click .Install to install all of the visual components. If you don't want to include certain ones, uncheck them from the list first.
+- Make sure that the "Restore Point" box is checked. This will create a restore point in Windows that will allow you to quickly revert back if you don't like the new look.
+
+7 - Wait for the installation to complete.
+Wait for the installation to complete. You will see the changes applied to your desktop as they are installed.
+
+8 - Click .
+Click .Finish to complete the installation. Your Windows interface will now be very similar to the OS X version that you chose to mimic.
+
+9 - Revert to Windows.
+Revert to Windows. If you decide you don't like the way the skin pack works, you can return to the original layout by performing a system restore. Your files will be unaffected.
+- Click here for instructions on using the system restore tool. Make sure to choose the restore point that was created during installation.
+

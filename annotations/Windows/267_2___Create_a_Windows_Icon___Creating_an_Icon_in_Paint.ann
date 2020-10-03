@@ -1,0 +1,35 @@
+T1	Software-Other 563 568	Paint
+A1	isOpened T1 f->t
+T2	Hardware-Devices 626 635	computers
+T3	Software-OS-Related 729 734	Start
+A2	isOpened T3 f->t
+T4	Software-Other 852 856	View
+T5	Software-Other 1053 1059	Resize
+T7	Software-Other 520 531	ICO Convert
+T8	Software-Other 1133 1137	Home
+T9	Software-Other 1191 1197	Pixels
+T10	Software-Other 1220 1235	Maintain aspect
+T12	Software-Other 1273 1300	"Horizontal" and "Vertical"
+T20	Hardware-Other 2279 2284	mouse
+T21	Software-Other 2396 2400	File
+T22	Software-Other 2502 2509	Save as
+R1	SubPart Arg1:T21 Arg2:T22	
+T23	Software-Other 2639 2652	Other formats
+T25	Software-OS-Related 2828 2837	File name
+T26	Software-OS-Related 3077 3090	Minecraft.ico
+T27	Software-OS-Related 3115 3129	"Save as type"
+T29	Software-OS-Related 3376 3380	save
+A4	isOpened T29 start-T
+A5	isOpened T5 f->t
+A6	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T5	
+T6	Software-Other 1402 1409	Zoom in
+A7	isSettingsChanged T6 true
+R3	SubPart Arg1:T6 Arg2:T5	
+A8	isOpened T21 f->t
+A9	isSettingsChanged T22 true
+A10	isOpened T23 f->t
+R4	SubPart Arg1:T27 Arg2:T25	
+T11	Software-OS-Related 3288 3304	256 Color Bitmap
+A3	isSettingsChanged T11 true
+R5	SubPart Arg1:T11 Arg2:T27	

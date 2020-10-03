@@ -1,0 +1,71 @@
+Format a Hard Drive
+https://www.wikihow.com/Format-a-Hard-Drive
+
+0 - Using Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu window will open on the left side of the screen.
+- ;
+
+2 - Type partitions into Start.
+Type partitions into Start. Doing so will search for the Partition section of the Computer Management program.
+
+3 - Click Create and format hard disk paritions.
+Click Create and format hard disk paritions. It's at the top of the Start window.
+- If you don't see this option, try typing create and format hard disk partitions into Start.
+
+4 - Select your hard drive.
+Select your hard drive. Click your hard drive's name in the window near the bottom of the screen.
+
+5 - Click Action.
+Click Action. This tab is in the upper-left side of the window. A drop-down menu will appear.
+
+6 - Select All Tasks.
+Select All Tasks. It's near the bottom of the drop-down menu. You'll see a pop-out menu display to the right of the drop-down menu.
+
+7 - Click Shrink Volume….
+Click Shrink Volume…. This option is in the middle of the pop-out menu. A new window will open after Windows figures out how much space you have available.
+- It may take Windows several minutes to determine your available space.
+
+8 - Determine your partition's size.
+Determine your partition's size. Type the number of megabytes that you would like your partition to be into the "Enter the amount of space to shrink in MB" text field on the right side of the page. This will indicate how big the drive you want to format will be.
+- The maximum number of megabytes that you can allocate is listed directly above the field that you type in.
+- There are 1000 megabytes (MB) in one gigabyte (GB). To create a 5 GB partition, you would type 5000 into the text field.
+
+9 - Click Shrink.
+Click Shrink. It's at the bottom of the page. Doing so will remove a section of space from your computer's hard drive and create a new "hard drive" with it.
+- This will likely take a few minutes to complete.
+
+10 - Select the new partition.
+Select the new partition. Click the "Unallocated" box to the right of the hard drive's box.
+
+11 - Click Action, then select All Tasks.
+Click Action, then select All Tasks. The pop-out menu will reappear.
+
+12 - Click New Simple Volume….
+Click New Simple Volume…. It's near the top of the pop-out menu. A new window will open.
+
+13 - Click Next.
+Click Next. It's in the bottom-right side of the window.
+
+14 - Click Next.
+Click Next. Doing so will accept your partition's size and take you to the next page.
+
+15 - Select a drive letter, then click Next.
+Select a drive letter, then click Next. You can change the partition's drive letter (e.g., "E") by clicking the drop-down box and then clicking a new letter.
+- If you don't care about your drive's letter, click Next to skip this step.
+
+16 - Format your drive.
+Format your drive. Check the "Format this volume with the following settings" box, then click the "File system" box and select one of the following:
+- 
+- NTFS - Used for Windows-only drives.
+- FAT32 - Used for Windows and Mac. Has a storage limit of 32 gigabytes with an individual file size of 4 gigabytes.
+- exFAT - Used this for multiple devices (Mac, Windows, consoles, and so on). No storage limit.
+
+17 - Click Next.
+Click Next. This will take you to the confirmation page.
+
+18 - Click Finish.
+Click Finish. It's at the bottom of the page. Doing so will begin partitioning your drive. Once partition is created, you can open it like any other hard drive from within the This PC program.
+- If you ever want to change the partition's format, you can format it like a flash drive from within the File Explorer (Windows) or the Disk Utility (Mac).
+

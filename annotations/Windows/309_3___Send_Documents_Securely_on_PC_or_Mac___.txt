@@ -1,0 +1,34 @@
+Send Documents Securely on PC or Mac
+https://www.wikihow.com/Send-Documents-Securely-on-PC-or-Mac
+
+0 - 
+
+1 - Navigate to the file you want to encrypt.
+Navigate to the file you want to encrypt. An easy way to do this is to press ⊞ Win+E to open the File Explorer, then double-click the folder that contains the file.
+
+2 - Right-click the file or folder.
+Right-click the file or folder. A context menu will expand.
+
+3 - Click Properties.
+Click Properties. It’s the last option in the menu.
+
+4 - Click Advanced.
+Click Advanced. It’s near the bottom-right corner of the window.
+
+5 - Check the box next to “Encrypt contents to secure data.
+Check the box next to “Encrypt contents to secure data.” It’s the last option on the window.
+
+6 - Click OK.
+Click OK. If you selected a folder, a confirmation message will appear.
+
+7 - Select Apply changes to this folder, subfolders and files.
+Select Apply changes to this folder, subfolders and files.
+
+8 - Click OK.
+Click OK. The selected file or folder is now encrypted. To access the file or folder, you’ll have to use your Windows login credentials.
+
+9 - Send the encrypted document.
+Send the encrypted document.
+- If you encrypted only one file, you can attach it to an email message. You can't compress the folder and then attach it to an email.
+- If you encrypted a folder, upload it to a cloud drive like Google Drive, iCloud Drive, or Dropbox. Once uploaded, use the drive’s tools to share the files as you wish.
+

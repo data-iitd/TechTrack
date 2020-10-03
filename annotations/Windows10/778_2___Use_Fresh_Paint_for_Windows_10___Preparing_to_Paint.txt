@@ -1,0 +1,40 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Preparing to Paint
+
+1 - Review the painting presets.
+Review the painting presets. On the main Fresh Paint page, you'll see several images which correlate with preset paintings:
+- 
+- Paint with Watercolor - Represented by an image of a bird. This option allows you to paint with a watercolor-like brush.
+- Sketch with Pencil - Represented by an image of a fish. This option allows you to sketch with a pencil-like tool.
+- Draw with Pen - Represented by an image of a half-drawn fox. You can use this option to create simpler drawings with pen-like strokes.
+- Paint with Oil - Represented by an image of a half-painted tiger. This option allows you to create oil painting-like pieces.
+
+2 - Click ☰.
+Click ☰. It's in the top-left corner of the Fresh Paint window. Doing so opens the menu.
+
+3 - Click New.
+Click New. It's near the top of the menu. If you don't want to use a preset with Fresh Paint, you'll find the main options for painting here.
+
+4 - Review the blank canvas options.
+Review the blank canvas options. You have two blank options:
+- 
+- Fresh Canvas - Allows you to jump right into painting with a standard, blank canvas.
+- Custom Canvas - Allows you to specific your canvas' size, background, and other options before creating it.
+
+5 - Click ☰ again, then click Import.
+Click ☰ again, then click Import. This is the third and final option for creating a new painting.
+
+6 - Review the different import options.
+Review the different import options. You can import a photo that's already on your computer by clicking Photos and then selecting the photo, or you can take a new photo with your computer's webcam by clicking Camera.
+
+7 - Select a paint option.
+Select a paint option. Depending on whether you want to use a preset, a blank canvas, or an imported image, your steps for doing so will differ:
+- 
+- Preset - Click one of the preset options on the main Fresh Paint page.
+- Blank Canvas - Click the red ＋ on the left side of the window, then click either Fresh Canvas or Custom Canvas.
+- If you select Custom Canvas, set it up as needed and then click Start Painting at the top of the menu.
+- 
+- Import - Click either Camera or Photos, take or select a photo, and click Start Painting.
+

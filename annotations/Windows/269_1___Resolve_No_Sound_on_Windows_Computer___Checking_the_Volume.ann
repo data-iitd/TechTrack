@@ -1,0 +1,7 @@
+T3	Hardware-Devices 474 480	screen
+A2	isPowered T3 start-T
+T4	Hardware-Other 728 737	keyboards
+T5	Software-OS-Related 1039 1056	Open Volume Mixer
+A3	isOpened T5 f->t
+T6	Hardware-Devices 1158 1164	screen
+T7	Software-OS-Related 1381 1386	Mixer

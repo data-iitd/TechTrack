@@ -1,0 +1,20 @@
+T2	Hardware-Devices 196 202	screen
+A2	isPowered T2 f->t
+T5	Hardware-Devices 420 426	screen
+T6	Software-OS-Related 694 707	Control Panel
+A5	isOpened T6 f->t
+T7	Software-OS-Related 762 792	Appearance and Personalization
+A6	isOpened T7 f->t
+T8	Software-OS-Related 826 850	Adjust screen resolution
+A7	isOpened T8 f->t
+T9	Software-OS-Related 979 989	Resolution
+A8	isOpened T9 f->t
+T11	Hardware-Devices 1317 1323	screen
+T15	Software-OS-Related 1129 1134	slide
+A10	isSettingsChanged T15 true
+A12	isSetup T11 true
+T1	Hardware-Other 145 153	computer
+T3	Software-OS-Related 342 347	Start
+A1	isOpened T3 f->t
+R1	SubPart Arg1:T15 Arg2:T8	
+R2	SubPart Arg1:T9 Arg2:T8	

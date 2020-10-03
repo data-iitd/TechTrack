@@ -1,0 +1,9 @@
+T1	Software-OS-Related 398 406	Messages
+A1	isOpened T1 f->t
+T2	Software-OS-Related 561 568	message
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 786 793	Tapback
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 872 890	Pick your reaction
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T3 Arg2:T1	

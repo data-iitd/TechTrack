@@ -1,0 +1,26 @@
+Update Printer Drivers on a Mac
+https://www.wikihow.com/Update-Printer-Drivers-on-a-Mac
+
+0 - Using Apple Software Update
+
+1 - Connect your printer to your Mac computer.
+Connect your printer to your Mac computer.
+- You can connect the printer with either a USB cable or wirelessly if applicable.
+- For wireless printers, use the Wireless Setup Wizard with the Wi-Fi name and password.
+- You can also use WPS mode - push button or PIN.
+- ;
+
+2 - Click on the Apple icon on the left top corner of the computer.
+Click on the Apple icon on the left top corner of the computer.
+
+3 - Go to System Preferences.
+Go to System Preferences.
+
+4 - Click on Software Update.
+Click on Software Update.
+- Check that your printer name is on the list for software updates.
+
+5 - Click on the Update button to update the printer drivers and software.
+Click on the Update button to update the printer drivers and software. This will complete the process to update your drivers.
+- If the printer name is not in the list, proceed with the following method.
+

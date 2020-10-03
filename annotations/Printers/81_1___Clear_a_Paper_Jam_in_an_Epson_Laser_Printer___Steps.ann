@@ -1,0 +1,10 @@
+T1	Hardware-Devices 142 149	printer
+A1	isPowered T1 t->f
+T2	Hardware-Other 742 747	paper
+T3	Hardware-Other 1247 1258	paper trays
+T4	Hardware-Other 2002 2017	print cartridge
+T5	Hardware-Devices 3434 3441	printer
+A2	isPowered T5 f->t
+T6	Hardware-Other 3998 4003	Ready
+T7	Hardware-Other 4007 4012	Start
+T8	Hardware-Other 4019 4021	Go

@@ -1,0 +1,5 @@
+T1	Hardware-Other 360 365	drive
+T2	Hardware-Other 367 371	DVDs
+T3	Hardware-Other 532 537	drive
+T4	Software-Other 749 765	cloning software
+A1	isInstalled T4 f->t

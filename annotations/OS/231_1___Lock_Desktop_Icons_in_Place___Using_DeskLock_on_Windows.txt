@@ -1,0 +1,25 @@
+Lock Desktop Icons in Place
+https://www.wikihow.com/Lock-Desktop-Icons-in-Place
+
+0 - Using DeskLock on Windows
+
+1 - Go to the DeskLock download page in a web browser.
+Go to the DeskLock download page in a web browser.  In a web browser, go to http://www.intowindows.com/lock-desktop-icons-windows and scroll down towards the bottom of the page.
+
+2 - Click Download Desklock.
+Click Download Desklock.  It's the link at the bottom of the article.
+
+3 - Click DeskLock.
+Click DeskLock.  It's the download link labeled "DeskLock v1.2" on the page next to the image of icons on a desktop. This starts the DeskLock download.
+
+4 - Double-click the "DeskLock.exe" file.
+Double-click the "DeskLock.exe" file. Go to the location you downloaded the DeskLock application and double-click it start the app. DeskLock is a small program and doesn't need to be installed.
+- By default, all downloaded files can be found in your Download folder.
+
+5 - Right-click the DeskLock icon in your taskbar.
+Right-click the DeskLock icon in your taskbar. It's a green icon with an "S" when it's not enabled.  It's a blue and white icon with a yellow padlock when enabled. It's located in the bottom-right of the taskbar.
+
+6 - Click Enabled.
+Click Enabled. This turns on DeskLock and locks your desktop icons.
+- If your icons are not locked, right-click the DeskLock icon in the system tray and go to Settings. Then make sure the checkbox next to Lock icons is checked and press OK.
+

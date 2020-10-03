@@ -1,0 +1,30 @@
+T1	Software-Other 206 219	Enlightenment
+A1	isOpened T1 f->t
+A2	isInstalled T1 f->t
+T2	Software-Other 360 362	OK
+T3	Software-Other 582 586	Next
+T4	Software-Other 625 634	User menu
+A3	isOpened T4 f->t
+T5	Software-Other 889 902	Settings menu
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1102 1115	mouse pointer
+T7	Software-Other 1145 1149	tips
+T8	Software-Other 1158 1163	Pager
+T9	Software-Other 1395 1407	The icon box
+T10	Software-Other 1727 1750	root Enlightenment menu
+T11	Software-Other 2088 2101	Enlightenment
+T12	Software-Other 2133 2146	Settings menu
+A5	isOpened T12 f->t
+T13	Software-Other 2153 2180	Desktop Background Settings
+A6	isOpened T13 f->t
+T14	Software-Other 1833 1842	wallpaper
+T15	Software-Other 2193 2201	drag bar
+T16	Software-Other 2645 2654	title bar
+T17	Software-Other 2964 2968	iBar
+A7	isInstalled T17 f->t
+T18	Software-Other 3035 3042	Widgets
+T19	Software-Other 3055 3062	Epplets
+T20	Software-Other 3480 3503	Enlightenment root menu
+A8	isOpened T20 f->t
+T21	Software-Other 3510 3516	Themes
+A9	isOpened T21 f->t

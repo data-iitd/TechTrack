@@ -1,0 +1,22 @@
+T1	Software-Other 185 199	Rules & Alerts
+A1	isOpened T1 f->t
+T2	Software-Other 209 214	Tools
+A2	isOpened T2 f->t
+T3	Software-Other 243 267	Clear categories on mail
+T4	Software-Other 349 353	copy
+T5	Software-Other 512 544	Copy of Clear Categories on mail
+A3	isOpened T5 f->t
+T6	Software-Other 572 606	With specific words in the subject
+T7	Software-Other 621 653	From people or distribution list
+T8	Software-Other 944 958	Specific Words
+A4	isOpened T8 f->t
+T9	Software-Other 969 977	Print Me
+T10	Software-Other 983 993	To Printer
+T11	Software-Other 1125 1133	Print it
+T12	Software-Other 1142 1146	next
+A5	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T1	
+T13	Software-Other 1230 1247	Turn on this rule
+T14	Software-Other 1259 1265	finish
+A6	isSettingsChanged T14 true
+R2	SubPart Arg1:T14 Arg2:T1	

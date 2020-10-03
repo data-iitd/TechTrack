@@ -1,0 +1,26 @@
+T1	Software-Other 177 192	another browser
+A1	isOpened T1 f->t
+T2	Software-Other 477 486	lock icon
+T3	Software-Other 730 735	arrow
+T4	Software-Other 901 917	More information
+A5	isOpened T4 f->t
+T5	Software-Other 1007 1023	View Certificate
+A6	isOpened T5 f->t
+T6	Software-Other 1115 1126	Details tab
+A7	isOpened T6 f->t
+T7	Software-OS-Related 1304 1312	Keychain
+T8	Software-OS-Related 1489 1501	System Roots
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2032 2037	entry
+A9	isOpened T9 f->t
+T10	Software-OS-Related 2148 2153	Trust
+A10	isOpened T10 f->t
+T11	Software-OS-Related 2506 2518	Always Trust
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 2669 2676	windows
+A12	isOpened T12 t->f
+R2	SubPart Arg1:T11 Arg2:T10	
+R3	SubPart Arg1:T8 Arg2:T7	
+R4	SubPart Arg1:T6 Arg2:T5	
+A2	isOpened T2 f->t
+A3	isOpened T3 f->t

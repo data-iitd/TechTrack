@@ -1,0 +1,18 @@
+T1	Software-OS-Related 374 379	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 406 418	Windows logo
+A2	isOpened T2 f->t
+T3	Software-OS-Related 500 508	Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 538 549	gear-shaped
+A4	isOpened T4 f->t
+T5	Software-OS-Related 647 665	Network & Internet
+A5	isOpened T5 f->t
+T6	Software-OS-Related 741 746	Wi-Fi
+A6	isOpened T6 f->t
+T7	Software-OS-Related 862 879	connection's name
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1035 1060	Set as metered connection
+T9	Software-OS-Related 1191 1194	Off
+A8	isSettingsChanged T9 true
+R4	SubPart Arg1:T9 Arg2:T8	

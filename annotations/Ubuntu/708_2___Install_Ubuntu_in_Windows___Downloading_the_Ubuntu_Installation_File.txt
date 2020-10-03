@@ -1,0 +1,21 @@
+Install Ubuntu in Windows
+https://www.wikihow.com/Install-Ubuntu-in-Windows
+
+0 - Downloading the Ubuntu Installation File
+
+1 - Open the Ubuntu website.
+Open the Ubuntu website. Go to https://www.ubuntu.com/ in your computer's web browser. This is the official site for Ubuntu support and downloads.
+
+2 - Select Downloads.
+Select Downloads. It's a tab in the upper-right side of the window. Placing your mouse cursor on this tab prompts a drop-down menu.
+
+3 - Click Desktop.
+Click Desktop. You'll find this option in the Downloads drop-down menu.
+
+4 - Click Download.
+Click Download. This green button is to the right of the current version of Ubuntu. Doing so prompts the Ubuntu disk image (ISO) file to begin downloading onto your computer.
+- You may have to click Save or select a download location before the Ubuntu ISO will download.
+
+5 - Wait for the download to complete.
+Wait for the download to complete. The Ubuntu ISO file is close to 2 gigabytes in size, so it may take a while to finish downloading; once it does, you can proceed with creating a new virtual machine for your Ubuntu installation.
+

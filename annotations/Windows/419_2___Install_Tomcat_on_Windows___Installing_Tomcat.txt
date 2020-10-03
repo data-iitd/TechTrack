@@ -1,0 +1,70 @@
+Install Tomcat on Windows
+https://www.wikihow.com/Install-Tomcat-on-Windows
+
+0 - Installing Tomcat
+
+1 - Open the Tomcat website in your internet browser.
+Open the Tomcat website in your internet browser. Type or paste http://tomcat.apache.org into your browser's address bar, and press ↵ Enter or ⏎ Return on your keyboard.
+
+2 - Click Tomcat 9 on the left sidebar.
+Click Tomcat 9 on the left sidebar. You can find this option under the "Downloads" heading on a navigation menu on the left-hand side.
+
+3 - Download 32-bit_64-bit Windows Service Installer under "Core.
+Download 32-bit/64-bit Windows Service Installer under "Core." You can find this option in the "Binary Distributions" section at the bottom.
+- If you're prompted, select a saving location for the installer file.
+
+4 - Launch the installer file on your computer.
+Launch the installer file on your computer. Find the installer in your Downloads folder, and double-click on it to start the installation wizard.
+
+5 - Click Next on the welcome page.
+Click Next on the welcome page. This will open the License Agreement on a new page.
+
+6 - Click the I Agree button.
+Click the I Agree button. It's on the bottom-right corner of the installer window. This will let you choose the components you want to install on the next page.
+
+7 - Select Full as your install type.
+Select Full as your install type. Click the drop-down next to "Select the type of install," and select Full here to install all the Tomcat components, including documentation and app shortcuts.
+- Optionally, you can click and uncheck the components you don't want to install on the list here.
+
+8 - Click Next.
+Click Next. This will confirm your selection, and take you to the configuration page.
+
+9 - Click Next on the configuration page.
+Click Next on the configuration page. Unless you're customizing your ports, click Next here to proceed.
+- Optionally, you can set an admin user name and password for your Tomcat service at the bottom here.
+- You will have to specify the Java SE location on your computer on the next page.
+
+10 - Click the three-dot button next to the text field.
+Click the three-dot button next to the text field. When you're prompted to specify the location of your JRE (Java Runtime Environment), click this button to select your file location.
+
+11 - Select the jre folder in your Java folder.
+Select the jre folder in your Java folder. You can usually find your Java folder in Program Files under This PC.
+
+12 - Click OK.
+Click OK. This will confirm your selection, and copy the folder directory to the text field in the installer.
+
+13 - Click Next in the installer.
+Click Next in the installer. You can select the install location on the final page in the next step.
+
+14 - Click the Install button.
+Click the Install button. This will start your installation. You can track the install on a green progress bar here.
+- Optionally, you can click Browse before beginning installation, and set a custom location for your Tomcat install.
+
+15 - Click Finish on the last page.
+Click Finish on the last page. When your Tomcat setup is finished, click this button to close the installer.
+
+16 - Press the ⊞ Win+R Windows and "R" keys on your keyboard.
+Press the ⊞ Win+R Windows and "R" keys on your keyboard. Make sure to press both buttons at the same time. This will open the "Run" window.
+
+17 - Type services.msc in the Run window.
+Type services.msc in the Run window. You can check all your running and paused system services here.
+
+18 - Right-click Apache Tomcat on the list.
+Right-click Apache Tomcat on the list. This will open your right-click options on a drop-down.
+
+19 - Select Properties on the right-click menu.
+Select Properties on the right-click menu. This will open a new dialogue box.
+
+20 - Click the Start button under "Service status.
+Click the Start button under "Service status." This will take a few seconds, and start the Tomcat service on your computer.
+

@@ -1,0 +1,45 @@
+Speed Up a Slow Windows Computer for Free
+https://www.wikihow.com/Speed-Up-a-Slow-Windows-Computer-for-Free
+
+0 - Cleaning Up Your Hard Drive
+
+1 - Open your Start menu.
+Open your Start menu. This is in the lower left corner of your screen.
+
+2 - Type "disk cleanup" into the search menu.
+Type "disk cleanup" into the search menu. You should see an app appear at the top of the Start screen.
+
+3 - Click the "Disk Cleanup" app.
+Click the "Disk Cleanup" app. Disk Cleanup is a standard utility on an Windows computer; it rids your computer of temporary files, processes, and other small bits of information that can slow down your PC's processing speed.[3]
+- X
+- Research source
+
+4 - Check every box under the "Files to Delete" heading.
+Check every box under the "Files to Delete" heading. This will clear the following items from your computer's cache:
+- Downloaded program files
+- Temporary internet files
+- Recycle Bin contents
+- Temporary files
+- Thumbnails
+- You may also see other options here depending on which default apps shipped with your device. It's perfectly safe to check any box in this menu, so check these too.
+
+5 - Click "OK", then confirm by clicking "Delete Files".
+Click "OK", then confirm by clicking "Delete Files". This will get rid of your computer's temporary files. If you don't perform this cleanup often, you can find several gigabytes' worth of temporary files and such here.
+
+6 - Open Start again, then type "defrag" into the search bar.
+Open Start again, then type "defrag" into the search bar. This will locate the disk defragmentation app on your computer.
+
+7 - Click the "Defragment and Optimize Drives" option.
+Click the "Defragment and Optimize Drives" option. This should be at the top of your Start menu. When your hard drive has been around for a while, its subfolders and their respective contents get scattered around your hard drive (in other words, your drives "fragment"). Running the Disk Defragment tool will consolidate your files and these fragments, which will increase the speed at which your hard drive can access information.
+- Do not run the Disk Defragment program if your computer has a solid-state drive installed. SSDs are made to resist fragmentation, so running a defrag on them can seriously damage your files.
+
+8 - Select your main drive in the Defrag window.
+Select your main drive in the Defrag window. It should be labeled something like "OS:C".
+
+9 - Click "Optimize".
+Click "Optimize". This will begin to defragment your drive. Depending on how long it has been since your last defrag, this can take anywhere from a few minutes to a few hours.
+
+10 - Consider moving files to external storage.
+Consider moving files to external storage. Hard drives recall the first 50 percent of storage placed on them much quicker than they do the bottom 50 percent; for example, if you have a 500 gigabyte hard drive, the first 250 gigabytes of information you put on your hard drive will be quicker to access. You'll notice significantly less slow-down on your PC if you limit your file storage to half of that of your hard drive's capacity. The best way to do this is by increasing your hard drive capacity with an external flash drive or hard drive.
+- You can also move your files to any one of several free cloud storage services (e.g., Google Drive, OneDrive, Dropbox).
+

@@ -1,0 +1,21 @@
+T1	Software-OS-Related 107 115	Terminal
+A1	isOpened T1 f->t
+T2	Software-Other 221 226	XAMPP
+A2	isInstalled T2 start-T
+T3	Software-OS-Related 501 514	cd /opt/lampp
+T4	Software-OS-Related 418 446	XAMPP installation directory
+T6	Software-OS-Related 629 658	sudo ./manager-linux-x64.run﻿
+T7	Software-OS-Related 696 704	password
+T8	Hardware-Other 810 818	computer
+T9	Software-Other 857 871	Manage Servers
+A4	isOpened T9 f->t
+T10	Software-Other 962 971	Start All
+T11	Software-Other 1067 1072	XAMPP
+T12	Software-Other 1179 1188	127.0.0.1
+T13	Software-Other 1197 1219	computer's web browser
+T14	Software-Other 1108 1133	computer's localhost page
+A8	isOpened T14 f->t
+R1	SubPart Arg1:T3 Arg2:T4	
+A9	isInstalled T11 start-T
+A3	isSettingsChanged T3 true
+T5	Software-OS-Related 579 583	Open

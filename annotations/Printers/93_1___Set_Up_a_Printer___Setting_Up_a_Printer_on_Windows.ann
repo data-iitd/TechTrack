@@ -1,0 +1,26 @@
+T1	Hardware-Devices 174 181	printer
+A1	isPowered T1 f->t
+T2	Hardware-Other 131 143	power source
+T3	Hardware-Other 351 353	PC
+T4	Hardware-Devices 369 376	printer
+A2	isConnected T4 f->t
+T5	Software-OS-Related 636 641	Start
+A3	isOpened T5 f->t
+T6	Software-OS-Related 785 793	Settings
+A4	isOpened T6 f->t
+T7	Software-OS-Related 894 901	Devices
+A5	isOpened T7 f->t
+T8	Software-OS-Related 1028 1046	rinters & scanners
+A6	isOpened T8 f->t
+T9	Software-OS-Related 1204 1228	Add a printer or scanner
+A7	isOpened T9 f->t
+T10	Software-OS-Related 1586 1596	Add device
+A8	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T7	
+T11	Software-OS-Related 1966 1974	Settings
+A9	isOpened T11 f->t
+T12	Software-OS-Related 1977 1984	Devices
+A10	isOpened T12 f->t
+T13	Software-OS-Related 1987 2006	Printers & scanners
+A11	isOpened T13 f->t
+T14	Hardware-Devices 2033 2040	printer

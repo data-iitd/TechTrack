@@ -1,0 +1,11 @@
+T1	Software-OS-Related 222 225	SSH
+A1	isOpened T1 t->f
+T2	Software-OS-Related 353 371	configuration file
+A2	isOpened T2 f->t
+T3	Software-OS-Related 465 469	file
+T5	Software-OS-Related 581 584	SSH
+A3	isOpened T5 f->t
+T7	Software-OS-Related 700 729	OpenSSH Server Daemon process
+T6	Software-OS-Related 735 742	restart
+R1	SubPart Arg1:T3 Arg2:T2	
+A4	isSettingsChanged T3 true

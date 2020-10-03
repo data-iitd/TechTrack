@@ -1,0 +1,40 @@
+Install Chromium OS
+https://www.wikihow.com/Install-Chromium-OS
+
+0 - Running Chromium OS from a USB drive in Live Mode
+
+1 - Download Chromium OS build from http:__chromium.arnoldthebat.co.uk.
+Download Chromium OS build from http://chromium.arnoldthebat.co.uk. You'll want to download the latest daily Chromium build. The builds are usually listed from most recent, so the first listing should be the download you want.
+
+2 - Extract the zipped image.
+Extract the zipped image. The file downloaded as a .img.7z, so you'll want to download an unzipper like 7-Zip (Windows) or Keka (Mac), which are both free programs.
+
+3 - Format
+Format the USB drive to FAT32. If you see "MS-DOS FAT" instead, it's the same thing as FAT32.[3]
+- X
+- Research source
+- 
+- 
+- In Windows, you can format your drive by navigating to your USB drive File Explorer, then clicking Manage  and selecting Format. In the window that pops us, select Fat32 from the drop-down list in "File System" and click Start and OK. All the information on that drive will be deleted as it formats.
+- With Macs, you need to access Disk Utility from the Utilities folder in Finder, select your USB drive, then click the Erase tab. Make sure the window next to "Format" says "MS-DOS (FAT)" before clicking Erase.
+
+4 - Download Etcher from https:__www.balena.io_etcher_.
+Download Etcher from https://www.balena.io/etcher/. You'll want to click the green download button to change the download version if you need to.
+- Etcher helps you flash OS images to SD cards & USB drives.
+- Install Etcher once it downloads by running the Installer wizard and either following the on-screen prompts (Windows) or by dragging and dropping the program icon into the Applications folder (Mac).
+
+5 - Flash the installed images from your computer to the USB.
+Flash the installed images from your computer to the USB. You'll find Etcher in your Start Menu or Applications folder.
+- Click Select Image and select the Chromium OS image file.
+- Click Select Drive and choose the USB drive you formatted.
+- Click Flash to begin the process of flashing the image to your USB drive. Once the flash is complete, Etcher will begin validating the final product.
+- Do not close the program until you see it's 100% finished.
+
+6 - Restart your computer and boot from the USB drive.
+Restart your computer and boot from the USB drive. This can usually be done using a keyboard command such as F12 (Windows) or Option (Mac) as the computer reboots.
+- If you're using Windows and can't boot from the USB drive, see this wikiHow to learn how to check (and change) the boot order.
+- Make sure the computer boots from the USB drive to boot with Chromium OS.
+- Make sure you connect to a WiFi network once Chromium OS has booted so you can log in to your guest or Google account to access all the features available to the web-based OS.[4]
+- X
+- Research source
+

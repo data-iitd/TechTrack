@@ -1,0 +1,29 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Restarting in Safe Mode
+
+1 - Wait for the "Choose an option" screen to appear.
+Wait for the "Choose an option" screen to appear. If your computer restarts, is unable to fix the problem, and then restarts twice more, you'll arrive at this screen.[2]
+- X
+- Research source
+- 
+- 
+- If you want to restart from the desktop instead, open Start , click Power , and hold down ⇧ Shift while clicking Restart.
+- If you would rather just restore a previous version of Windows, skip to the "Restoring a Previous Version of Windows" section.
+
+2 - Click Troubleshoot.
+Click Troubleshoot. It's a symbol of a screwdriver and a wrench on this page.
+
+3 - Click Advanced options.
+Click Advanced options. You'll find this on the "Troubleshoot" page.
+
+4 - Click Startup Settings.
+Click Startup Settings. It's a gear-shaped symbol on the right side of the page.
+
+5 - Click Restart.
+Click Restart. You'll find it in the lower-right side of the page.
+
+6 - Press the 4 key to select Safe Mode.
+Press the 4 key to select Safe Mode. Do so on the blue "Startup Settings" page. This will cause your computer to reboot into Safe Mode, which will load only the programs and hardware needed to make Windows run.
+

@@ -1,0 +1,28 @@
+T1	Software-OS-Related 142 147	Start
+A1	isOpened T1 f->t
+T3	Hardware-Devices 220 226	screen
+A3	isPowered T3 start-T
+T4	Software-OS-Related 266 274	Settings
+A4	isOpened T4 f->t
+T7	Software-OS-Related 477 483	System
+A7	isOpened T7 f->t
+T10	Software-OS-Related 569 576	Display
+A10	isOpened T10 f->t
+T12	Software-OS-Related 817 834	Multiple displays
+A12	isOpened T12 f->t
+T13	Software-OS-Related 948 955	display
+A13	isOpened T13 f->t
+A14	isSettingsChanged T13 true
+T14	Software-OS-Related 1055 1079	Duplicate these displays
+R1	SubPart Arg1:T14 Arg2:T13	
+T15	Software-OS-Related 1156 1177	Extend these displays
+R2	SubPart Arg1:T15 Arg2:T13	
+T16	Hardware-Devices 1144 1151	monitor
+T18	Hardware-Other 1269 1281	laptop mouse
+T19	Hardware-Devices 1311 1317	screen
+T22	Hardware-Devices 1478 1492	monitor screen
+A22	isPowered T22 t->f
+T23	Hardware-Devices 1582 1595	laptop screen
+A23	isPowered T23 t->f
+A2	isSettingsChanged T14 true
+A5	isSettingsChanged T15 true

@@ -1,0 +1,9 @@
+T1	Software-OS-Related 113 115	Go
+A1	isOpened T1 f->t
+T2	Software-OS-Related 247 264	Connect to Server
+A2	isOpened T2 f->t
+T3	Software-OS-Related 827 834	Connect
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 1063 1075	Mac’s Finder
+A4	isOpened T4 f->t

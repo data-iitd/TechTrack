@@ -1,0 +1,22 @@
+Play DVDs on Your Windows PC for Free
+https://www.wikihow.com/Play-DVDs-on-Your-Windows-PC-for-Free
+
+0 - Playing a DVD with VLC
+
+1 - Insert the DVD into your computer's DVD drive.
+Insert the DVD into your computer's DVD drive. Do so with the labeled side of the DVD face-up.
+- If doing this opens VLC, your DVD should begin playing automatically.
+
+2 - Open VLC.
+Open VLC. You should have a shortcut on your desktop; if not, type "vlc" into Start and then click the VLC icon.
+
+3 - Click Media.
+Click Media. It's in the top-left corner of the VLC window. Clicking this tab prompts a drop-down menu.
+
+4 - Click Open Disc.
+Click Open Disc. This option is near the top of the Media drop-down menu. Doing so opens a separate window for your DVD preferences.
+
+5 - Click Play.
+Click Play. It's at the bottom of the window. After a minute or so, your DVD will begin playing.
+- If your DVD has a title screen as most do, you'll need to click the menu item you want (e.g., Play or Scene Select).
+

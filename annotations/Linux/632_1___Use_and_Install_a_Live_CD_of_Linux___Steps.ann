@@ -1,0 +1,22 @@
+T1	Hardware-Other 130 138	computer
+T2	Software-OS-Related 142 149	booting
+T3	Software-OS-Related 159 167	CD drive
+T4	Software-OS-Related 322 326	BIOS
+A1	isOpened T4 f->t
+T5	Software-OS-Related 382 386	BOOT
+A2	isOpened T5 f->t
+T6	Software-OS-Related 459 479	Boot Device priority
+A3	isOpened T6 f->t
+T7	Software-OS-Related 510 530	BOOT device priority
+T8	Software-OS-Related 629 646	first boot device
+A4	isSettingsChanged T8 true
+T9	Software-OS-Related 655 663	CD drive
+A5	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T8	
+R2	SubPart Arg1:T8 Arg2:T6	
+T10	Software-OS-Related 905 918	BIOS settings
+T11	Software-OS-Related 896 900	Save
+T12	Hardware-Other 1099 1106	Live CD
+T13	Software-OS-Related 1211 1215	Boot
+T14	Software-OS-Related 1225 1229	Disk
+T15	Hardware-Other 1194 1202	CD Drive

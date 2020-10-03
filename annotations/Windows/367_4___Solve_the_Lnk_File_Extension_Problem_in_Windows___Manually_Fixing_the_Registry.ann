@@ -1,0 +1,41 @@
+T1	Software-OS-Related 170 175	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 666 681	executable file
+A2	isOpened T2 f->t
+T3	Software-OS-Related 541 551	search box
+A3	isOpened T3 f->t
+T4	Software-OS-Related 814 829	Registry Editor
+A4	isOpened T4 f->t
+T5	Software-OS-Related 518 530	Regedt32.exe
+A5	isOpened T5 f->t
+T6	Hardware-Devices 315 323	computer
+A6	isUsed T6 true
+T7	Software-OS-Related 1034 1038	.lnk
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1259 1265	Delete
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1137 1141	Edit
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1320 1328	Registry
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1630 1633	Add
+A11	isOpened T11 f->t
+T12	Software-OS-Related 2051 2057	REG_SZ
+A12	isOpened T12 f->t
+T13	Software-OS-Related 2256 2258	OK
+A13	isSettingsChanged T13 true
+T14	Software-OS-Related 1805 1809	Edit
+A14	isOpened T14 f->t
+T15	Software-OS-Related 2112 2125	String Editor
+A15	isOpened T15 f->t
+R1	SubPart Arg1:T13 Arg2:T15	
+T16	Software-OS-Related 2391 2394	Add
+A16	isOpened T16 f->t
+T17	Hardware-Devices 2921 2929	computer
+T18	Software-OS-Related 1710 1713	lnk
+A17	isUsed T17 true
+T19	Software-OS-Related 2984 2999	Registry Editor
+T20	Software-OS-Related 1544 1561	HKEY_CLASSES_ROOT
+A18	isOpened T20 f->t
+T21	Software-OS-Related 2479 2485	REG_SZ
+A19	isOpened T21 f->t

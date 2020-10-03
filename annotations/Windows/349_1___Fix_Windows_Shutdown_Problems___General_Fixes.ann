@@ -1,0 +1,21 @@
+T1	Software-Other 154 163	antivirus
+T2	Hardware-Devices 401 409	computer
+A1	isUsed T2 true
+T3	Hardware-Other 812 822	USB drives
+T4	Hardware-Other 824 828	mice
+T5	Hardware-Other 830 841	controllers
+T6	Hardware-Other 843 851	SD cards
+T7	Hardware-Devices 1164 1172	computer
+A2	isUsed T7 true
+T8	Software-OS-Related 1399 1404	Start
+A3	isOpened T8 f->t
+T9	Software-OS-Related 1419 1427	Settings
+A4	isOpened T9 f->t
+T10	Software-OS-Related 1443 1460	Update & security
+A5	isOpened T10 f->t
+T11	Software-OS-Related 1471 1488	Check for updates
+A6	isOpened T11 f->t
+T13	Software-OS-Related 1993 2001	Airplane
+A8	isSettingsChanged T13 true
+T12	Software-OS-Related 1920 1932	Notification
+A7	isOpened T12 f->t

@@ -1,0 +1,66 @@
+T3	Software-Other 274 284	OBS Studio
+T4	Software-Other 316 323	YouTube
+T5	Software-Other 327 333	Twitch
+T6	Software-Other 554 561	website
+T7	Hardware-Devices 593 599	webcam
+T8	Hardware-Devices 829 835	webcam
+T9	Hardware-Other 879 887	computer
+T10	Software-Other 1103 1109	Amazon
+T11	Software-Other 1196 1207	Live Stream
+A4	isOpened T11 f->t
+T13	Software-Other 1512 1518	Twitch
+A7	isOpened T13 f->t
+T14	Software-Other 1527 1549	https://www.twitch.tv/
+A10	isInstalled T13 start-F
+T22	Software-Other 1784 1792	Facebook
+A18	isOpened T22 f->t
+A19	isInstalled T22 start-F
+T23	Software-Other 1801 1826	https://www.facebook.com/
+T24	Software-Other 1858 1868	Live Video
+A22	isOpened T24 f->t
+T25	Software-Other 1880 1887	Connect
+T26	Software-Other 1943 1950	YouTube
+A24	isOpened T26 f->t
+A25	isInstalled T26 start-F
+T27	Software-Other 1959 2004	https://www.youtube.com/live_dashboard_splash
+T28	Software-Other 2036 2046	Stream now
+A28	isOpened T28 f->t
+T29	Software-Other 2162 2172	OBS Studio
+A29	isOpened T29 f->t
+T30	Software-Other 2307 2338	https://obsproject.com/download
+T37	Software-Other 2614 2622	Settings
+A35	isOpened T37 f->t
+T40	Software-Other 2784 2790	Stream
+A36	isOpened T40 f->t
+T50	Software-Other 3218 3223	Apply
+T54	Software-OS-Related 3422 3440	Preferences window
+A46	isOpened T54 t->f
+T55	Hardware-Devices 3459 3465	webcam
+T56	Software-Other 3473 3479	stream
+T57	Software-Other 3525 3535	OBS Studio
+T63	Software-Other 3688 3708	Video Capture Device
+A58	isOpened T63 f->t
+T64	Software-Other 3723 3733	Create new
+T65	Software-Other 3767 3769	OK
+T66	Hardware-Devices 3825 3833	webcam's
+T67	Software-Other 4115 4130	Start Streaming
+T68	Software-Other 4201 4218	OBS Studio window
+T69	Software-Other 4261 4271	OBS stream
+T70	Software-Other 4416 4422	Twitch
+T71	Software-Other 4501 4509	Facebook
+T72	Software-Other 4622 4629	YouTube
+T73	Software-Other 4638 4645	GO LIVE
+*	Equiv T14 T13
+*	Equiv T23 T22
+*	Equiv T27 T26
+A2	isOpened T25 f->t
+A3	isSettingsChanged T50 true
+A1	isPowered T8 f->t
+A5	isSetup T8 true
+A6	isInstalled T3 start-T
+A8	isOpened T30 f->t
+A9	isInstalled T30 start-F
+T2	Software-Other 2550 2559	OBS Studi
+A11	isOpened T2 f->t
+R1	SubPart Arg1:T50 Arg2:T2	
+A12	isSettingsChanged T64 true

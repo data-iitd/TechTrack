@@ -1,0 +1,24 @@
+Auto Hide the Launcher in Ubuntu
+https://www.wikihow.com/Auto-Hide-the-Launcher-in-Ubuntu
+
+0 - Using System Settings
+
+1 - Click on the drop-down menu on the top right.
+Click on the drop-down menu on the top right.
+- ;
+
+2 - Select System Settings.
+Select System Settings.
+
+3 - Go to Appearance, then select the Behavior tab.
+Go to Appearance, then select the Behavior tab.
+
+4 - Toggle the Off button (located on the top right) to On to enable the Auto-hide feature for the Launcher.
+Toggle the Off button (located on the top right) to On to enable the Auto-hide feature for the Launcher.
+
+5 - Set the reveal trigger.
+Set the reveal trigger. If you wish, you now have the option to configure your preferred settings to make the auto launcher reveal itself again.
+
+6 - Try the next method if this method did not accomplish reconfiguration.
+Try the next method if this method did not accomplish reconfiguration.
+

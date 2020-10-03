@@ -1,0 +1,38 @@
+T1	Hardware-Devices 108 122	PS4 controller
+A1	isConnected T1 f->t
+T2	Hardware-Other 131 139	computer
+T3	Hardware-Other 196 199	USB
+T4	Hardware-Other 203 218	Micro-USB cable
+T5	Hardware-Devices 233 243	controller
+T6	Hardware-Other 249 257	USB port
+*	Equiv T1 T5
+T7	Hardware-Other 438 445	laptops
+T8	Software-OS-Related 539 544	Start
+A2	isOpened T8 f->t
+T9	Hardware-Other 726 731	mouse
+T10	Software-OS-Related 699 703	menu
+T11	Software-OS-Related 746 759	Control Panel
+T12	Software-OS-Related 851 864	Control Panel
+A4	isOpened T12 f->t
+T14	Software-OS-Related 1029 1032	Run
+A5	isOpened T14 f->t
+T15	Software-OS-Related 1057 1070	control panel
+T16	Software-OS-Related 1104 1129	View Devices and Printers
+A6	isOpened T16 f->t
+T17	Software-OS-Related 1200 1218	Hardware and Sound
+A7	isOpened T17 f->t
+T18	Software-OS-Related 1295 1314	Wireless Controller
+A8	isOpened T18 f->t
+T21	Hardware-Devices 1427 1430	PS4
+A10	isConnected T21 start-T
+T20	Software-OS-Related 1445 1469	Game controller Settings
+A9	isOpened T20 f->t
+T23	Software-OS-Related 1607 1617	Properties
+A11	isOpened T23 f->t
+T24	Hardware-Other 1725 1732	buttons
+T25	Hardware-Devices 1741 1751	controller
+A12	isSetup T25 true
+T26	Hardware-Devices 1781 1796	computer screen
+A13	isUsed T26 true
+T27	Hardware-Other 1963 1969	remote
+*	Equiv T10 T8

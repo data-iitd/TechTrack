@@ -1,0 +1,36 @@
+Use Computer Headphones
+https://www.wikihow.com/Use-Computer-Headphones
+
+0 - Plugging in Headphones
+
+1 - Locate the headphone jack on your computer or speakers.
+Locate the headphone jack on your computer or speakers. The location will vary depending on the computer you are using. Most laptops have headphone jacks along one of the sides. Desktops may have a jack on the front or back of the computer. It will typically have a small headphone icon. If the headset prong is color-coded, it will be green.[1]
+- X
+- Research source
+- 
+- 
+- If you're using a desktop computer, your speakers may have a headphone jack if your computer does not.
+- If your headphones connect via USB, click here.
+- ;
+
+2 - Plug the headphones firmly into the headphone jack.
+Plug the headphones firmly into the headphone jack. Make sure that the plug is completely inserted, or the sound may not come through both ears.
+- If your headphones use a 1/4 inch (6.3 mm) plug, typically found on professional and studio headphones, you'll need an adapter, a sound card, or an amplifier in order to use them.
+
+3 - Locate the microphone jack (optional).
+Locate the microphone jack (optional). If you headphones include a microphone, it will usually have a separate prong. If the prong is color-coded, it will be pink. The microphone jack on the computer is typically located near the headphone jack.
+- Older computer's may not have a microphone jack. If this is the case, you'll need a sound card or other digital processor.
+
+4 - I can only hear audio out of one side.
+I can only hear audio out of one side. This is typically caused by the headphone jack not being properly inserted. The jack will need to be inserted all the way in order for the headphones to play from both ears.[2]
+- X
+- Research source
+- 
+- Examine the cables on the headphones as well. Frayed cables could be causing problems with the headphones. Cables will typically start fraying near the connectors.
+
+5 - I'm not hearing any audio at all.
+I'm not hearing any audio at all. If your headphones aren't picking up any audio, but you know that they work on other devices, something may be wrong with your computer's sound processor.
+- 
+- Click here for instructions on troubleshooting Windows sound issues.
+- Click here for instructions on troubleshooting Mac sound issues.
+

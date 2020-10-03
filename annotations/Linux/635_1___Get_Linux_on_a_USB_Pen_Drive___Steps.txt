@@ -1,0 +1,39 @@
+Get Linux on a USB Pen Drive
+https://www.wikihow.com/Get-Linux-on-a-USB-Pen-Drive
+
+0 - Steps
+
+1 - Know your computer specs.
+Know your computer specs. It should be windows XP onwards, a 32bit processor and have at least 1GHz of speed. If it does, go ahead and try this, if it isn't, then do not do this.
+- ;
+
+2 - Now go on the internet, go to Google and type in "unetbootin".
+Now go on the internet, go to Google and type in "unetbootin". Click on I'm feeling lucky. Download unetbootin for windows.
+
+3 - Next go to the Linux website, maybe Google up Linux and find a Linux operating system that's right for you.
+Next go to the Linux website, maybe Google up Linux and find a Linux operating system that's right for you. If you want a real good PC experience, try Linux UBUNTU (around 700mb) but if you are short of memory, try Damn Small Linux (DSL) (around 50 mb, but not as good as ubuntu).
+
+4 - Once you find an operating system that you like, make sure the requirements  match your PC's.
+Once you find an operating system that you like, make sure the requirements  match your PC's. Ubuntu comes for 32 bit and 64 bit computers.
+
+5 - Whatever you do, don't download the OS from the internet directly, it's a waste and won't work.
+Whatever you do, don't download the OS from the internet directly, it's a waste and won't work. Remember Unetbootin? Run this application.
+
+6 - Insert your USB stick.
+Insert your USB stick.
+
+7 - Click on the top part where it says 'download' and choose the OS you want, for example, Ubuntu, 10.04x64.
+Click on the top part where it says 'download' and choose the OS you want, for example, Ubuntu, 10.04x64. Only do x64 if your PC has a 64 bit processor.
+
+8 - On the bottom left of the window, make sure that it says USB stick.
+On the bottom left of the window, make sure that it says USB stick. Then choose the drive your USB pen drive is in. Then click continue on the bottom right.
+
+9 - The download could take quite a while, and make sure that the capacity of the download is smaller than your USB stick's memory.
+The download could take quite a while, and make sure that the capacity of the download is smaller than your USB stick's memory.
+
+10 - Once the automatic process is finished, reboot your PC, and depending on the model, go to the boot menu.
+Once the automatic process is finished, reboot your PC, and depending on the model, go to the boot menu. On most PCs, all you have to do is repeatedly press Esc till the boot screen comes.
+
+11 - Highlight your USB stick and press Enter.
+Highlight your USB stick and press Enter.
+

@@ -1,0 +1,27 @@
+Upgrade Your Power Mac G3 Blue and White
+https://www.wikihow.com/Upgrade-Your-Power-Mac-G3-Blue-and-White
+
+0 - Steps
+
+1 - Upgrade your RAM.
+Upgrade your RAM. If you only have a few bucks, this is the first component you should upgrade. Opt for 1 Gb or SDRAM (the max that the motherboard can support). If you are not running OS X, you can squeak by with 512 Mb. Price: $15-$30
+- ;
+
+2 - G4 Upgrade Card.
+G4 Upgrade Card. After that, trash the original CPU. Most likely, it is 300 Mhz... need I say more? Even if it is a higher-end model (i.e. 400 Mhz), that still sucks pretty badly. Solution? A G4 ZIF upgrade from Sonnet or XLR8. A simple ZIF card like the Encore series from Sonnet delivers a huge performance boost -- up to 1 Ghz. That still sounds pretty crappy. However, keep in mind that PowerPC is different from x86-64. In PPC, 500 Mhz is equivalent to ~ 1.2 Ghz on an Intel Pentium III processor (also now you have AltiVec velocity engine). Apple switched to Intel because they were cheaper than PowerPC. Anyway, since most companies no longer sell ZIF upgrades, you should scrounge around on eBay for a good deal. *Note: Any speed over 700 Mhz will downgrade the bus speed to 66 Mhz! I recommend you opt for a 600 Mhz XLR8 chip, because that keeps the original 100 Mhz bus which is much faster. Price: $50-$150
+
+3 - Video Card.
+Video Card. The PMG3 B&W only has a PCI video slot... just warning you. The stock 16 MB ATI Rage 128 Pro is fine for Classic OS, but OS X users should move to an ATI or nVidia PCI card that is built to run on a Mac. An example (and best card probably) is the nVidia FX5200. This is the only card that supports Core Image and Quartz Extreme. Price: $50-$100
+
+4 - Be sure that you add Bluetooth_SATA_USB 2.0_WiFi.
+Be sure that you add Bluetooth/SATA/USB 2.0/WiFi. Not gonna go into a whole lot of detail here, but you can get upgrade cards that fit into empty PCI slots. Knock yourself out. Price: $10-$50 per card
+
+5 - Add a DVD Drive.
+Add a DVD Drive. You can add one :) The Apple drives are recommended, but I am using a Samsung DVD-ROM just fine.
+
+6 - Put in a faster and bigger drive.
+Put in a faster and bigger drive. The original 6 Gb 4200 RPM drive fails for OS X. Opt for a 7200 RPM drive with at least 40 Gb. Caution: you may need a special driver for drives or 128 Gb.
+
+7 - Upgrade to Tiger.
+Upgrade to Tiger. Finally, the OS X 10.4 operating system makes the most out of any G3/G4 Mac. Even if you still have a 300 Mhz processor, the Tiger OS is much faster than 10.2 or 10.3. OS 9 technically is quicker, but seriously? OS X 10.4.11 is still supported by Apple, and is cheap to obtain. Most apps run on 10.4, and will not run on anything earlier.
+

@@ -1,0 +1,45 @@
+Install Subversion on Mac OS X
+https://www.wikihow.com/Install-Subversion-on-Mac-OS-X
+
+0 - Set Up Your Subversion Environment
+
+1 - Set up an SVN server.
+Set up an SVN server. You will need this to distribute a Subversion project.
+
+2 - Launch Terminal, then create a directory called svnroot in your account directory, as follows:
+Launch Terminal, then create a directory called svnroot in your account directory, as follows: mkdir svnroot
+- Type: svnadmin create /Users/[your username]/svnroot
+- 
+- 
+- That creates your server!
+- WH.shared.addScrollLoadItem('38829f0f13012203e3a31cedb40b3881')
+
+3 - 
+Use the svn server with Terminal. You can checkout in the terminal with this command: svn checkout file:///Users/[your username]/svnroot
+- For remote access, enable "ssh access" (in System Preferences/Sharing) and checkout with: svn checkout svn+ssh://my.domain.com/Users/[your username]/svnroot
+
+4 - Set up a Subversion client.
+Set up a Subversion client. For example, svnX supports all current versions of Mac OS X from 10.5 to 10.8. You can get it at http://code.google.com.
+
+5 - After the download, start SVNx and you will see two windows named Working Copies and Repositories.
+After the download, start SVNx and you will see two windows named Working Copies and Repositories. Under Repositories, add the URL und Login Data from the SVN Server.
+- Open the window; if you get an error, check the LogIn.
+- 
+- 
+- Switch to the Terminal and type: svn import -m "your Import message" /my/local/project/path /my/remote/svn/repository This command adds all files from the local Project to the SVN Server.
+- WH.shared.addScrollLoadItem('5d7ca55659e96e7038e469c944240cce')
+- 
+- 
+- Add the path of your SVN repository (from the SVN server) to the list in the Working Copy window in SVNx.
+- WH.shared.addScrollLoadItem('d7c44ea2d1508006f85670a48640189e')
+
+6 - In SVNx open your working copy.
+In SVNx open your working copy. When you're working on this Project, you will see your modifications here.
+
+7 - Test it.
+Test it. Make a small modification on your working copy, then refresh the the Working Copy window.
+- SVNx displays all files with modifications. Press the Commit button to add it to the SVN Server Repository.
+
+8 - If you prefer to work on the Subversion repository directly from the Finder, consider using either SCPlugin or SVN Scripts for Finder.
+If you prefer to work on the Subversion repository directly from the Finder, consider using either SCPlugin or SVN Scripts for Finder.
+

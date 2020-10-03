@@ -1,0 +1,19 @@
+T1	Software-OS-Related 394 410	Lock the taskbar
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 150 157	taskbar
+T3	Software-OS-Related 535 542	taskbar
+T4	Software-OS-Related 868 875	taskbar
+T5	Software-OS-Related 1206 1224	Turn off Auto-hide
+A2	isSettingsChanged T5 true
+A3	isOpened T4 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1753 1760	taskbar
+A4	isOpened T6 f->t
+T7	Software-OS-Related 2627 2634	taskbar
+A5	isSettingsChanged T7 true
+T8	Software-OS-Related 1604 1650	Automatically hide the taskbar in desktop mode
+A6	isSettingsChanged T8 true
+T9	Software-OS-Related 2090 2115	Use small taskbar buttons
+A7	isSettingsChanged T9 true
+R2	SubPart Arg1:T8 Arg2:T4	
+R3	SubPart Arg1:T9 Arg2:T4	

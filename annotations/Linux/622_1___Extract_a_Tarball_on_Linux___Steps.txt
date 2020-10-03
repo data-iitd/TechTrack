@@ -1,0 +1,24 @@
+Extract a Tarball on Linux
+https://www.wikihow.com/Extract-a-Tarball-on-Linux
+
+0 - Steps
+
+1 - Getting Started.
+Getting Started. First, you need to get a tar file from the internet. For example, something like SuperTuxKart.
+- ;
+
+2 - Opening the terminal.
+Opening the terminal. Now, once the tarball is finished downloading, open your terminal, on each operating system it is slightly different. But the universal way of getting to the terminal is by pressing Ctrl+Alt+T.
+
+3 - Extracting the tarball.
+Extracting the tarball. After the terminal launches, type in this command: "cd /home/[user]/Downloads/" Then, type in: "sudo tar zvxf supertuxkart.tar.gz". Sudo is to give your command the root privileges (highest possible). Tar is the program to extract a tarball. The "v" option here is optional as it only tells the program to give verbose (on screen details of what it is doing).The "f" option should always be last, and followed by a space and then the name of the file you wish to extract.
+
+4 - Open the folder.
+Open the folder. After the process finishes, open your file viewer of choice, and direct to the Downloads folder. There should be a new folder in there that is named after the package (In this case, SuperTuxKart) There won't be tar.gx at the end.
+
+5 - Installing the package.
+Installing the package. Open that folder,  and find any .txt or readable files named install or README. You will have to read both named documents to correctly install the package. These files should include the documentation on how to use the application/commands and any necessary programs to install as well.
+
+6 - All done!
+All done! Once you have completed all of the steps in the install and/or the README file, the application should be ready to use.
+

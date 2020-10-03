@@ -1,0 +1,32 @@
+Copy Music, Images, and Movies from Your Computer to an iPhone on Windows
+https://www.wikihow.com/Copy-Music,-Images,-and-Movies-from-Your-Computer-to-an-iPhone-on-Windows
+
+0 - Copying Music
+
+1 - Click File.
+Click File. It's in the top-left corner of the iTunes window. A drop-down menu will appear.
+
+2 - Click Add Folder to Library.
+Click Add Folder to Library. This option is near the middle of the drop-down menu. Clicking it prompts a pop-up window to appear.
+
+3 - Select your music folder.
+Select your music folder. Click the folder in which your music is stored. You'll find it on the left side of the pop-up window.
+- If your music is stored inside of a subfolder, you may have to select the main folder and then double-click the subfolder in the main window to get to your music folder.
+
+4 - Click Select Folder.
+Click Select Folder. This button is in the bottom-right corner of the window. Doing so will begin importing your music.
+- It may take awhile for iTunes to register all of your music.
+
+5 - Click the Music tab.
+Click the Music tab. It's in the "Settings" section of tabs on the left side of the iTunes window.
+
+6 - Check the "Sync Music" box.
+Check the "Sync Music" box. You'll find this at the top of the page.
+
+7 - Check the "Entire music library" box.
+Check the "Entire music library" box. This will ensure that all of the music from your selected folder and any subfolders will be uploaded to your iPhone.
+- You can also check the "Selected playlists, artists, albums, and genres" box and then check specific categories if you only want to upload some of the music from the folder you added.
+
+8 - Click Apply.
+Click Apply. It's in the bottom-right corner of the page. Your music will begin uploading to your iPhone; once it finishes, you're free to move on to uploading images.
+

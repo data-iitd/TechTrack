@@ -1,0 +1,27 @@
+Pair Jawbone Headsets and Speakers
+https://www.wikihow.com/Pair-Jawbone-Headsets-and-Speakers
+
+0 - How to Pair Jawbone Jambox
+
+1 - Charge your Jambox before you try to turn it on.
+Charge your Jambox before you try to turn it on. It will take about 2.5 hours to charge.
+
+2 - Prepare your phone or computer to pair with your speakers.
+Prepare your phone or computer to pair with your speakers.
+- If you are using an iPhone, you will access Bluetooth in the Settings menu, under Wi-Fi connections. Slide the button to turn it on.
+- If you are using an Android, you will access it under the Settings menu in the tab labeled “Connections.” Slide the button till it says “On.”
+- If you are using a Mac computer, open the System Preferences icon in your Applications folder. Look for Bluetooth under the Internet & Wireless section. Check the box that says “On.”
+- If you are using a Windows computer, open the Start menu and go to the Control Panel. Choose “Devices and Sounds” under the Hardware section. Select the option to “Add a device.”
+
+3 - Turn on pairing mode on your speakers.
+Turn on pairing mode on your speakers. The first time you turn the power on, it will enter pairing mode automatically. After the first time, simply press down on the pairing button until the light flashes red and white.
+
+4 - Return to your device.
+Return to your device. Press Scan if the Jawbone Jambox has not shown up on the list of devices. Click on the device when it appears.
+
+5 - Type in the universal code of 4 zeros, if you are prompted by your phone to type in a code.
+Type in the universal code of 4 zeros, if you are prompted by your phone to type in a code.
+- If you are using a Mac or Windows computer, click on the plus sign or “Add a Device” button. It will search for your device. Choose the device and type in the code.
+- If you are using a Mac, you will need to close down the Bluetooth menu and return to it to select the device for continued use.
+- If you are using a Windows computer, you can look for the device in your Devices section and then right click to select “Control and Connect.”
+

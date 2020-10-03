@@ -1,0 +1,34 @@
+Install Two Operating Systems on One Computer
+https://www.wikihow.com/Install-Two-Operating-Systems-on-One-Computer
+
+0 - Preparing Your Computer
+
+1 - Turn of Fast Boot.
+Turn of Fast Boot.  The following steps allow you to turn off Fast Boot on Windows.
+- Click the Windows Start menu.
+- Type Control Panel and click the Control Panel icon
+- Type Power Options in the search bar in the upper-right corner.
+- Click "Choose what the power button does".
+- Click "Change settings that are currently unavailable".
+- Make sure the box that says "Turn on fast startup (Recommended)" at the bottom is not checked.
+- Click Save changes.
+
+2 - Enter your computer BIOS
+Enter your computer BIOS.  You'll need to make some changes to the BIOS in order to install a second operating system.  The method for entering the BIOS is different from one computer make and model to the next.  On some computers, you can enter the BIOS by pressing one of the functions keys (F1, F2, F9, F12), Esc, or Delete while your computer boots up.  You can also use the following steps to reboot into the BIOS from within Windows:
+- Click the Windows Start menu.
+- Click the Power icon.
+- Hold "Shift" and click Restart.
+- Click Troubleshoot.
+- Click Advanced Options: UEFI Firmware Settings
+- Click Restart.
+
+3 - Disable Secure Boot.
+Disable Secure Boot.  The BIOS menu is different from one computer make and model to the next.  Use the arrow keys on your keyboard to navigate the BIOS menu.  Secure Boot is usually found in the Security, Boot, or Authentication menu.  Locate Secure Boot and set it to "Disabled".
+
+4 - Set the Boot order to boot from a USB drive first
+Set the Boot order to boot from a USB drive first.  This is usually found in the Boot menu.  Locate the boot order menu and set it so it boots from a USB drive first.
+- If you are using an install CD or DVD, set it to install from the CD/DVD-Rom first.
+
+5 - Save your settings.
+Save your settings.  After making the necessary changes to your BIOS system, locate the option to save your settings.  Select the option to save and exit the BIOS to save and reboot your computer.
+

@@ -1,0 +1,17 @@
+T1	Software-Other 2045 2050	Print
+A1	isSettingsChanged T1 true
+T2	Software-Other 1637 1643	Layout
+A2	isOpened T2 f->t
+T3	Software-Other 1807 1817	Page Range
+A3	isOpened T3 f->t
+T4	Software-Other 1235 1240	Paper
+A4	isOpened T4 f->t
+T5	Software-Other 1032 1037	Paper
+A5	isOpened T5 f->t
+T6	Software-Other 1050 1054	Size
+T7	Software-Other 782 797	Color & Quality
+A6	isOpened T7 f->t
+T8	Software-Other 811 818	Quality
+A7	isOpened T8 f->t
+T9	Software-Other 553 559	Copies
+A8	isOpened T9 f->t

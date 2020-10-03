@@ -1,0 +1,32 @@
+Create and Edit Text File in Linux by Using Terminal
+https://www.wikihow.com/Create-and-Edit-Text-File-in-Linux-by-Using-Terminal
+
+0 - Using Emacs
+
+1 - Type emacs filename.txt into Terminal.
+Type emacs filename.txt into Terminal. You'll replace "filename" with your preferred name for the text file.
+
+2 - Press ↵ Enter.
+Press ↵ Enter. As long as your text file's name isn't a duplicate of an existing text file in your current directory, this command will open a new text file in the Emacs editor.
+- For example: a file named "newfile" would require you to type emacs newfile.txt.
+- If you entered an existing text file name, this command will instead open the file in question.
+
+3 - Get to know Emacs commands.
+Get to know Emacs commands. Emacs comes complete with tons of powerful commands that let you navigate around a document, look up related or help information, manipulate text, and understand your code. These commands fall into two types: Control commands and Meta commands.
+- 
+- Control commands are written like this: C-<letter>. To execute a Control command, you'll hold down the Ctrl key and press the specified letter key at the same time (e.g., Ctrl and A).
+- Meta (or Escape) commands are written like so: M-<letter> or ESC <letter>. The "M" refers to a computer's Alt key or Esc key, since not all computers have the Alt key.
+- A command written like C-a b (or M-a b) will require you to hold Ctrl (or Alt or Esc) while pressing the first key (e.g., a, then release both keys and immediately press the second key (e.g., b).
+
+4 - Enter your document's text.
+Enter your document's text. You can simply type as you typically would for any other text document. To save the current line of text and jump to the next line, you'll press ↵ Enter.
+
+5 - Press Ctrl+X, then press S.
+Press Ctrl+X, then press S. Doing so will save your file.
+
+6 - Press Ctrl+X, then press Ctrl+C.
+Press Ctrl+X, then press Ctrl+C. This will exit the Emacs text editor and return you to your directory in Terminal. Your text file should now be saved under your selected name in this directory.
+
+7 - Re-open your text file.
+Re-open your text file. To do so, simply type emacs filename.txt into Terminal. As long as you're in the same directory as is the file, doing this will open your text file in Emacs, at which point you may resume editing it if you please.
+

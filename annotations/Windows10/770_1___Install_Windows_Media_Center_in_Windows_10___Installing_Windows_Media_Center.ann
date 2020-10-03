@@ -1,0 +1,19 @@
+T1	Software-OS-Related 162 175	File Explorer
+A1	isOpened T1 f->t
+T2	Software-Other 381 388	7z file
+A2	isOpened T2 f->t
+T3	Software-Other 479 491	Extract Here
+T5	Software-Other 667 687	http://www.7-zip.org
+A3	isOpened T5 f->t
+A4	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T6	Software-Other 933 953	Run as administrator
+A6	isOpened T6 f->t
+T4	Software-Other 794 800	ReadMe
+A5	isOpened T4 f->t
+T7	Software-OS-Related 825 840	_TestRights.cmd
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1330 1339	Installer
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1434 1454	Run as administrator
+A9	isOpened T9 f->t

@@ -1,0 +1,13 @@
+T1	Software-OS-Related 119 124	 menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 231 249	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 295 303	Printers
+A3	isOpened T3 f->t
+T4	Software-OS-Related 393 409	Open Print Queue
+A4	isOpened T4 f->t
+T5	Software-OS-Related 772 776	menu
+A5	isOpened T5 f->t
+T6	Software-OS-Related 860 866	Delete
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T3	

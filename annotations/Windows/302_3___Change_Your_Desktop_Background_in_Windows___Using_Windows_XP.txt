@@ -1,0 +1,32 @@
+Change Your Desktop Background in Windows
+https://www.wikihow.com/Change-Your-Desktop-Background-in-Windows
+
+0 - Using Windows XP
+
+1 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. Doing so will prompt a drop-down menu.
+
+2 - Click Properties.
+Click Properties. It's at the bottom of the drop-down menu.
+
+3 - Click the Desktop tab.
+Click the Desktop tab. You'll see this at the top of the "Properties" window.
+
+4 - Click a desktop image option.
+Click a desktop image option. You'll see several options below the "Background" heading; clicking one will preview it in the window near the top of the page.
+- You can also click Browse to pick a custom picture.
+- For a solid color, click  as the background. Then click the box below "Color" in the bottom-right corner of the window, and pick a color.
+
+5 - Click the box below the "Position" heading.
+Click the box below the "Position" heading. It's at the bottom-right side of the "Properties" window. You'll see three options here:
+- 
+- Stretch - Your picture will take up the whole screen.
+- Tile - Multiple thumbnails of your picture will display in a grid on your desktop.
+- Center - Your picture will be centered in the middle of your screen with a black border.
+
+6 - Click a picture position.
+Click a picture position. Doing so will apply the position to your picture.
+
+7 - Click OK.
+Click OK. It's at the bottom of the window. Doing so will save your changes.
+

@@ -1,0 +1,47 @@
+Use Windows 10
+https://www.wikihow.com/Use-Windows-10
+
+0 - Managing Files
+
+1 - Press ⊞ Win+E to open the File Explorer.
+Press ⊞ Win+E to open the File Explorer. All of the files on your computer can be found in this app. File Explorer will open to a list of your most frequently-accessed folders.
+
+2 - Click This PC in the left panel.
+Click This PC in the left panel. This displays a list of drives and folders on the computer in the right panel.
+- Any files you’ve saved to your desktop will appear in the Desktop folder.
+- Files you’ve downloaded from the internet are automatically saved to the Downloads folder.
+- If you use Microsoft OneDrive, click OneDrive on the left side of the screen to open the contents of your drive. For more information on setting up OneDrive with Windows 10, see How to Use OneDrive.
+
+3 - Double-click a folder to open it.
+Double-click a folder to open it. The files contained in the folder will appear.
+- To change the size of the icons or thumbnails displayed, click the View menu at the top of the window,  then make your selection(s) from the ″Layout″ tab.
+- To change the order in which the files are displayed, click the View menu, click Sort by (on the ″Current View″ tab), and then choose an order (Name, Size, etc.).
+
+4 - Create a new folder.
+Create a new folder. Here’s how:
+- Open the folder in which you want to create the new one.
+- Click New folder in the ″New″ tab at the top of the window.
+- Type a name for the folder.
+- Press ↵ Enter.
+
+5 - Copy a file (or folder) to another folder.
+Copy a file (or folder) to another folder. Here’s how to move a file from one folder to another:
+- Right-click the file or folder you want to copy. A menu will appear.
+- Click Copy.
+- Double-click the folder you want to copy it to.
+- Right-click a blank space in the background of the folder. A menu will appear.
+- Click Paste.
+
+6 - Rename a file.
+Rename a file. To change the name of a file:
+- Right-click the file.
+- Click Rename.
+- Type a new name.
+- Press ↵ Enter to save.
+
+7 - Delete a file.
+Delete a file. To delete any file or folder:
+- Right-click the file or folder.
+- Click Delete.
+- You may have to provide permission to confirm.
+

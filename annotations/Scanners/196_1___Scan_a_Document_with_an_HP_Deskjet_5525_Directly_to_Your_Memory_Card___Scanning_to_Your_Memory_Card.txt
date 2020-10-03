@@ -1,0 +1,28 @@
+Scan a Document with an HP Deskjet 5525 Directly to Your Memory Card
+https://www.wikihow.com/Scan-a-Document-with-an-HP-Deskjet-5525-Directly-to-Your-Memory-Card
+
+0 - Scanning to Your Memory Card
+
+1 - Select “Scan to Memory Card.
+Select “Scan to Memory Card.” From the printer’s touch screen panel, start from the home screen and scroll right until you find “Scan.” Tap on “Scan” and select “Memory Card” under “Scan to.”
+
+2 - Configure output settings.
+Configure output settings. Tap “Settings.” Set the scan type to either photo or document, and set the resolution.
+
+3 - Preview the photo/document.
+Preview the photo/document. In the “Scan to Memory Card” screen, there’s a box in the middle for a preview. Tap on this box to start the preview scan.
+- The message “Scan preview in progress” will appear.
+
+4 - Scan the photo/document.
+Scan the photo/document. Once you’re satisfied with the preview, commit to scanning by tapping on “Scan.”
+- The message “Now scanning” will appear while the output file is saved to the memory card.
+- “Scan successful” will appear once the scanning process is completed. The filename of the output file will also be displayed.
+
+5 - Scan another photo/document.
+Scan another photo/document. You will be asked to scan another item.
+- Tap “Yes” if you have other photos/documents to scan.
+- Tap “No” to return to the main menu.
+
+6 - Remove the memory card.
+Remove the memory card.
+

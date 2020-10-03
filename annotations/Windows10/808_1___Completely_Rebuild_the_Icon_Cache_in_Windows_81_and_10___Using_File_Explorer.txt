@@ -1,0 +1,42 @@
+Completely Rebuild the Icon Cache in Windows 8.1 and 10
+https://www.wikihow.com/Completely-Rebuild-the-Icon-Cache-in-Windows-8.1-and-10
+
+0 - Using File Explorer
+
+1 - Press the Start button at the bottom-right corner of your screen.
+Press the Start button at the bottom-right corner of your screen.
+- ;
+
+2 - Type folder options and select the result that matches your search.
+Type folder options and select the result that matches your search.  This will allow you to change file viewing settings so that you can see hidden files like IconCache.
+
+3 - Go to the View tab.
+Go to the View tab.
+
+4 - Scroll down under Advanced settings:
+Scroll down under Advanced settings: and click the circle next to Show hidden files, folders, and drives.
+
+5 - Uncheck the box  next to Hide protected operating system files (Recommended).
+Uncheck the box  next to Hide protected operating system files (Recommended).
+
+6 - Click or tap the OK box to save your changes and close folder options.
+Click or tap the OK box to save your changes and close folder options.
+
+7 - Open File Explorer
+Open File Explorer.  File Explorer lets you see all the files on your computer, including system files like the icon cache.
+- Note: In Windows 7 and earlier, it is called Windows Explorer.
+
+8 - In the address bar of File Explorer, type %userprofile%_AppData\Local\Microsoft\Windows\Explorer.
+In the address bar of File Explorer, type %userprofile%/AppData\Local\Microsoft\Windows\Explorer.
+
+9 - Select all of the files (by pressing Ctrl+A simultaneously).
+Select all of the files (by pressing Ctrl+A simultaneously).
+
+10 - Delete the files (either by right-clicking and selecting Delete) or clicking ✘ Delete in the ribbon.
+Delete the files (either by right-clicking and selecting Delete) or clicking ✘ Delete in the ribbon.
+- If prompted by a window, click or tap Yes.
+- A folder named IconCacheToDelete may appear after deleting all the other files.  Leave it alone.
+
+11 - Restart your PC.
+Restart your PC.
+

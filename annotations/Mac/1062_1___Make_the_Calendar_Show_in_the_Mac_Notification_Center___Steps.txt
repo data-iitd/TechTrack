@@ -1,0 +1,24 @@
+Make the Calendar Show in the Mac Notification Center
+https://www.wikihow.com/Make-the-Calendar-Show-in-the-Mac-Notification-Center
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo in the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Notifications" icon.
+Click the "Notifications" icon. It looks like a grey square with a red dot in one corner.
+
+4 - Click Calendar.
+Click Calendar. It's located in the list on the left side of the window.
+
+5 - Click on the "Show in Notification Center" check box.
+Click on the "Show in Notification Center" check box. It's on the right side of the Notifications window.
+
+6 - Click the red "x" button.
+Click the red "x" button. Calendar will now be displayed in the Notification Center on your Mac.
+

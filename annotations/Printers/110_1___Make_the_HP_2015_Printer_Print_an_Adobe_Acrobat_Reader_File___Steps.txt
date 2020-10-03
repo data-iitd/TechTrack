@@ -1,0 +1,39 @@
+Make the HP 2015 Printer Print an Adobe Acrobat Reader File
+https://www.wikihow.com/Make-the-HP-2015-Printer-Print-an-Adobe-Acrobat-Reader-File
+
+0 - Steps
+
+1 - Uninstall (and later reinstall) the Acrobat Reader software, temporarily.
+Uninstall (and later reinstall) the Acrobat Reader software, temporarily. You'll be reinstalling this software later.
+- ;
+
+2 - Complete a system-reboot.
+Complete a system-reboot. Restart your computer, after you've uninstalled the program.  Sometimes rebooting can temporarily cause the computer to clear it's running processes, which may even include your HP 2015 printer.
+
+3 - Make sure all items have finished printing, or press the Cancel button on your printer.
+Make sure all items have finished printing, or press the Cancel button on your printer.
+
+4 - Clear the log completely of all documents.
+Clear the log completely of all documents.  For "stuck" documents that just won't budge, you can read Remove an Undeletable Stuck Document from the Windows Printer Queue.
+
+5 - Visit the HP website to find the updated driver for your HP printer.
+Visit the HP website to find the updated driver for your HP printer.
+
+6 - Run the file provided to install the driver.
+Run the file provided to install the driver.
+
+7 - Change some settings for your printer.
+Change some settings for your printer.  You'll need to make the printer communicate with your computer, by browsing for the new file the new driver software provided.
+
+8 - Make this printer your default printer.
+Make this printer your default printer.
+
+9 - Reboot your PC once again.
+Reboot your PC once again.  This will cause the computer to correct any log files that may still be existent in your PC system.
+
+10 - Reinstall the Acrobat Reader to your computer.
+Reinstall the Acrobat Reader to your computer.  Use the Adobe website to make sure you have the most up to date version of the software available.
+
+11 - Open the selected PDF file, and try to reprint it.
+Open the selected PDF file, and try to reprint it.
+

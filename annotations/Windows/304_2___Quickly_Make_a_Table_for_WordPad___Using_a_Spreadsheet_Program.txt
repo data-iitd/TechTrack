@@ -1,0 +1,35 @@
+Quickly Make a Table for WordPad
+https://www.wikihow.com/Quickly-Make-a-Table-for-WordPad
+
+0 - Using a Spreadsheet Program
+
+1 - Ensure Excel or OpenOffice is installed.
+Ensure Excel or OpenOffice is installed. If you need a little more control over the table, you can use a spreadsheet program. You'll essentially be inserting a spreadsheet into your WordPad document. This requires a compatible spreadsheet editor. WordPad supports Excel and and OpenDocument formats.
+- OpenOffice and LibreOffice are both free office suites that support the OpenDocument format. See How to Install Open Office for detailed instructions on installing OpenOffice for free.
+
+2 - Click the "Insert object" button in WordPad.
+Click the "Insert object" button in WordPad. In newer versions, this can be found in the Insert section of the Home tab. In older versions of WordPad, click the "Insert" menu and select "Object".
+
+3 - Select the Worksheet option.
+Select the Worksheet option. A list of objects that you can insert will appear. If you have Excel installed, you can select "Excel Worksheet". If you have OpenOffice or LibreOffice installed, you can select "OpenDocument Spreadsheet". Selecting one of these objects will insert a blank spreadsheet in your WordPad document, and your spreadsheet program will open in another window.
+
+4 - Fill out the table data in the spreadsheet program.
+Fill out the table data in the spreadsheet program. After inserting the table, Excel or your OpenDocument spreadsheet editor will open. Anything you enter into the cells in your spreadsheet editor will appear in the table that you inserted into the WordPad document. Go through each cell and fill out the table with the important information.
+- Even though only a small range of cells is shown in WordPad, the range will expand as you add data outside of the displayed range. If the table is smaller than the initial range, the table will shrink to fit your data.
+
+5 - Format the text.
+Format the text. You can use the text formatting tools in your spreadsheet program to change the look for the text in the cells. You can change the font, size, color, and emphasis. Formatting text in Excel or your other spreadsheet program is very similar to formatting text in a word processor. The changes you make to the formatting will be displayed immediately in the WordPad table.
+- You can create headers by bolding the contents of the first row in the spreadsheet program.
+
+6 - Resize your cells.
+Resize your cells. Changes in the size of the rows and columns in your spreadsheet editor will be reflected in the table in your WordPad document immediately. Change the cell size to make your information easy to read.
+
+7 - Close the spreadsheet editor.
+Close the spreadsheet editor. This will finalize the data and you'll see your finished table in WordPad.
+
+8 - Move and resize the table.
+Move and resize the table. You can drag the boxes around the edge of the table to resize it. The content of the table will grow or shrink to match the new size. You can click and drag the table around your document as well.
+
+9 - Double-click the table to make edits.
+Double-click the table to make edits. This will open your spreadsheet editor, allowing you to change the table data. If you've resized the table, it will be reverted to the original size when you edit it. You'll have to resize it again after editing.
+

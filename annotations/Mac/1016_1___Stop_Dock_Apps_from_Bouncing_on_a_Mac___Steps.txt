@@ -1,0 +1,23 @@
+Stop Dock Apps from Bouncing on a Mac
+https://www.wikihow.com/Stop-Dock-Apps-from-Bouncing-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Spotlight icon.
+Click on the Spotlight icon. This is the small magnifying glass located in the top-right corner of your Mac's screen.
+- ;
+
+2 - Type "terminal" into the search bar.
+Type "terminal" into the search bar.
+
+3 - Double-click "Terminal" in the results.
+Double-click "Terminal" in the results. It should be located near or at the top of the results that appear.
+
+4 - Type the code below into Terminal.
+Type the code below into Terminal. Alternatively, you can copy and paste it into Terminal by clicking and dragging your mouse over the text below, hitting ⌘+C on your keyboard, then clicking in the Terminal window and hitting ⌘+V. The syntax to enter is as follows:
+- defaults write com.apple.dock no-bouncing -bool TRUE
+
+5 - Hit ⏎ Return on your keyboard.
+Hit ⏎ Return on your keyboard. Doing so will run the command in Terminal, which tells your computer never to animate when they have notifications.
+- To reverse this command, enter defaults write com.apple.dock no-bouncing -bool FALSE into Terminal at any time and hit ⏎ Return on your keyboard.
+

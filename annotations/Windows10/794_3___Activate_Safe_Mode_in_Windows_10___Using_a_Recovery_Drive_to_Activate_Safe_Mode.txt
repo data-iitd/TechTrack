@@ -1,0 +1,28 @@
+Activate Safe Mode in Windows 10
+https://www.wikihow.com/Activate-Safe-Mode-in-Windows-10
+
+0 - Using a Recovery Drive to Activate Safe Mode
+
+1 - Create a Recovery Drive.
+Create a Recovery Drive. If for some reason, your device does not boot properly, you can use a system recovery drive to boot to safe mode. It is wise to create a recovery drive before you encounter any problems. You can create a recovery drive from another computer running Windows 10.
+- Plug in the USB memory stick or the external hard drive where you want to create a recovery drive, and wait for Windows to detect it. Note that your USB flash drive must be at least 256MB in size.
+- At the Cortana search field, at the lower left side of your desktop, type “Recovery.” As you finish typing this, you will be presented with a number search results. Look for, and click/tap, “Create a recovery drive.” The User Account Control window prompt will appear and ask you if you will allow the app to make changes in your computer. Click “Yes,” and the Recovery Drive dialog box will appear with information about the Recovery Media Creator.
+- Click “Next” and then select the drive where you want recovery drive to be in the next dialog box. Click “Next” when you have chosen the drive that you will use. Then click “Create” in the next dialog box. You will be warned that everything on the drive will be erased.
+- After you click “Create,” the selected drive will be formatted and the recovery files will be copied into it. An indicator bar will update you on the progress. Click Finish when you are informed that “The recovery drive is ready.” The Recovery Media Creator will close and your recovery drive is ready for use.
+
+2 - Plug in the Recovery Drive into the computer that would not boot properly.
+Plug in the Recovery Drive into the computer that would not boot properly. Once plugged, turn on or restart your computer. The computer will boot from your USB flash drive. When asked to press any key, do so. The contents of the recovery drive will load.
+
+3 - Choose your preferred keyboard layout from the screen that appears.
+Choose your preferred keyboard layout from the screen that appears. If your preferred layout is not on the screen, click “See more keyboard layouts.” After you have clicked on your preferred layout, the Choose an Option screen will open.
+
+4 - Go to Startup Settings.
+Go to Startup Settings. On the Choose an Option screen, click the Troubleshoot icon. On the next screen that appears after you click Troubleshoot, click the Advanced Options icon. Once there, choose “Startup Settings” from the Advanced Options screen.
+
+5 - Enable Safe Mode.
+Enable Safe Mode. On the Startup Settings screen, click/tap the button marked “Restart.” Your device will restart and your screen will become blank. After a few minutes, the Startup Settings screen will appear. On the Startup Settings screen, you will find numbered choices (nine all in all) of which three will have your computer reboot in safe mode:
+- Pressing “4” or “F4” will reboot/restart your device in (minimal) safe mode.
+- Pressing “5” or “F5” will reboot/restart your device in safe mode with networking enabled.
+- Press “6” or “F6” will reboot/restart your device in safe mode with the command prompt.
+- Your device will reboot/restart in the safe mode option you choose after you press one of the numbers representing one of these options.
+

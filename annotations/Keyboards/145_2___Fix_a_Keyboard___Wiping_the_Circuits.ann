@@ -1,0 +1,24 @@
+T1	Hardware-Devices 113 121	keyboard
+A1	isPowered T1 start-F
+T2	Hardware-Other 305 318	Phillips-head
+T3	Hardware-Other 322 342	flathead screwdriver
+T4	Hardware-Other 403 409	screws
+T5	Hardware-Other 421 430	container
+T6	Hardware-Other 807 813	rubber
+T7	Hardware-Other 833 841	circuits
+T8	Hardware-Devices 901 909	keyboard
+T9	Hardware-Other 969 973	keys
+T10	Hardware-Other 1126 1130	keys
+T11	Hardware-Other 1347 1352	cloth
+T12	Hardware-Other 1316 1323	alcohol
+T13	Hardware-Other 1374 1388	circuit sheets
+T14	Hardware-Other 1500 1506	rubber
+T15	Hardware-Devices 1911 1919	keyboard
+T16	Hardware-Other 1937 1945	circuits
+T17	Hardware-Other 1969 1974	cloth
+T18	Hardware-Devices 2622 2630	keyboard
+A8	isPowered T18 f->t
+T19	Hardware-Other 2709 2723	circuit sheets
+T20	Hardware-Other 2750 2756	rubber
+T21	Hardware-Other 2821 2825	keys
+T22	Hardware-Other 2898 2904	screws

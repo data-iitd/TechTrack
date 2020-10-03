@@ -1,0 +1,15 @@
+T1	Software-OS-Related 817 832	Registry Editor
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1283 1319	4D36E972-E325-11CE-BFC1-08002BE10318
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1372 1379	adapter
+A3	isOpened T3 start-T
+T4	Software-OS-Related 1440 1444	0000
+A4	isOpened T4 start-T
+R1	SubPart Arg1:T4 Arg2:T2	
+T5	Software-OS-Related 1865 1868	New
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1871 1883	String Value
+A6	isOpened T6 f->t
+R2	SubPart Arg1:T6 Arg2:T5	
+R3	SubPart Arg1:T5 Arg2:T4	

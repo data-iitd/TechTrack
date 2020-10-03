@@ -1,0 +1,31 @@
+Choose a Photo Scanner
+https://www.wikihow.com/Choose-a-Photo-Scanner
+
+0 - Steps
+
+1 - Know what kind of photos you will be scanning.
+Know what kind of photos you will be scanning. Though you may change the format occasionally, most people prefer a certain type of photo, such as 4 x 6 pictures, 8 x 10 pictures, or negatives.
+- Flatbed scanners are most popular and vary greatly in cost, depending on the specific features they offer. These serve the purposes of the general public.
+- Film scanners cost more, but they scan at a higher resolution. This is a great option for photographers or other photo professionals.
+- ;
+
+2 - Identify the resolution you will need.
+Identify the resolution you will need. Resolution is simply the amount of detail a scanner pulls from a photo. Print images need to have a higher resolution so they print clearly and not get pixelated. Web images can have a lower resolution.
+- For general uses, many photos will scan perfectly fine at 300 dots-per-inch (dpi). The highest you will need will be 1200dpi.
+- For enlarging photos, you will need 3200dpi or higher.
+- For emailing or posting photos on the Internet, keep resolution low. This keeps the file size low, making it easy to email or publish to a website.
+
+3 - Decide how much color you need.
+Decide how much color you need. Scanners scan images at different color depths (also known as bit depth). This determines how accurately the colors from photos translate over to the digitized image.
+- For general purposes, a bit depth of 24 bits works well. You may consider a 30-bit scanner if you want higher quality.
+- For scanning monochrome or black and white photos, a higher bit depth will give you a better image. Look for a high bit depth in both color and gray (i.e., 30-bit color 12-bit gray).
+
+4 - Determine how fast you would like the photo scanner to work.
+Determine how fast you would like the photo scanner to work. If you will be scanning photos regularly, finding a scanner that works quickly will save you a lot of time. Read product reviews to discover how quickly different scanners work at different resolutions.
+
+5 - Consider your budget.
+Consider your budget. Photo scanners vary greatly in price. Determine how much money you are willing to spend on your scanner and find something that suits your needs that is in your price range.
+
+6 - Test different scanners.
+Test different scanners. Though reading the specs of scanners will tell you some information, the only way you can really tell if a scanner is right for you is by testing it. If it does not work like you want it to, return it and try another one.
+

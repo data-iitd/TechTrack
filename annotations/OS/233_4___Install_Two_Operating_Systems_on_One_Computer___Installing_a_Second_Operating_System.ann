@@ -1,0 +1,34 @@
+T1	Hardware-Other 179 191	install disk
+T2	Software-Other 437 445	computer
+T3	Software-OS-Related 424 431	Restart
+T4	Software-OS-Related 835 843	language
+T5	Software-OS-Related 848 863	keyboard layout
+T8	Software-OS-Related 1414 1420	Custom
+T9	Software-OS-Related 1426 1431	Other
+T10	Hardware-Other 399 415	CD/DVD-Rom drive
+T11	Hardware-Other 279 294	USB flash drive
+T12	Software-Other 232 237	Rufus
+T13	Hardware-Other 250 266	USB install disk
+T14	Hardware-Other 308 316	USB port
+T15	Hardware-Other 325 333	computer
+T16	Software-OS-Related 728 733	boots
+A1	isSettingsChanged T4 true
+A2	isSettingsChanged T5 true
+T17	Software-OS-Related 641 654	setup program
+A3	isOpened T17 f->t
+T18	Hardware-Other 743 755	Install disk
+R1	SubPart Arg1:T4 Arg2:T17	
+R2	SubPart Arg1:T5 Arg2:T17	
+T19	Software-OS-Related 1573 1587	Something Else
+T20	Software-OS-Related 1688 1694	Format
+T21	Hardware-Other 1699 1704	drive
+T22	Software-OS-Related 2432 2440	username
+T23	Software-OS-Related 2445 2453	password
+T24	Software-OS-Related 2504 2524	time & date settings
+A4	isSettingsChanged T22 true
+A5	isSettingsChanged T23 true
+A6	isSettingsChanged T24 true
+T25	Software-OS-Related 2588 2594	Reboot
+A7	isSettingsChanged T25 true
+T26	Software-OS-Related 2613 2630	operating systems
+T27	Hardware-Other 2832 2834	PC

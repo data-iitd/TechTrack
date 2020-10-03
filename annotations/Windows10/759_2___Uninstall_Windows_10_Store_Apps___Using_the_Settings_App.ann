@@ -1,0 +1,12 @@
+T1	Software-OS-Related 182 187	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 211 219	settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 322 328	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 270 274	Apps
+A4	isOpened T4 f->t
+T5	Software-OS-Related 799 808	Uninstall
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 710 717	listing
+A6	isOpened T6 f->t

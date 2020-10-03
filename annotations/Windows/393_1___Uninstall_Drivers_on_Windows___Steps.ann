@@ -1,0 +1,8 @@
+T1	Software-OS-Related 271 285	Device Manager
+A1	isOpened T1 f->t
+T2	Hardware-Other 427 435	Monitors
+T3	Hardware-Other 437 453	Display adapters
+T4	Software-OS-Related 1112 1121	Uninstall
+A2	isSettingsChanged T4 true
+T5	Software-OS-Related 765 781	Network adapters
+A3	isOpened T5 f->t

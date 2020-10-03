@@ -1,0 +1,19 @@
+T2	Software-OS-Related 220 228	Settings
+T6	Software-OS-Related 500 507	pairing
+A5	isOpened T6 f->t
+T8	Hardware-Devices 608 615	headset
+T12	Software-OS-Related 834 841	devices
+A9	isOpened T12 f->t
+T13	Software-OS-Related 852 861	Bluetooth
+A10	isOpened T13 f->t
+T14	Software-OS-Related 981 992	Jawbone Era
+A11	isOpened T14 start-T
+T11	Hardware-Other 815 820	phone
+T15	Hardware-Other 1087 1092	phone
+T16	Hardware-Other 164 169	phone
+A2	isOpened T2 f->t
+T1	Software-OS-Related 248 257	Bluetooth
+A1	isSettingsChanged T1 true
+R1	SubPart Arg1:T1 Arg2:T2	
+T3	Hardware-Devices 302 321	Jawbone Era headset
+A3	isPowered T3 f->t

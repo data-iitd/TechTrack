@@ -1,0 +1,10 @@
+T1	Software-Other 140 156	internet browser
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-T
+T2	Software-Other 220 253	http:__radiotray.sourceforge.net_
+T3	Software-Other 209 219	search bar
+T4	Software-Other 385 393	download
+T5	Software-Other 553 561	download
+T6	Software-Other 895 910	compressed file
+A3	isOpened T6 f->t
+T7	Software-OS-Related 864 880	download locatio

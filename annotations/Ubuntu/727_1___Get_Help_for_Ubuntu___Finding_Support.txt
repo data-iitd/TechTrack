@@ -1,0 +1,24 @@
+Get Help for Ubuntu
+https://www.wikihow.com/Get-Help-for-Ubuntu
+
+0 - Finding Support
+
+1 - See if someone else has the same problem.
+See if someone else has the same problem. Someone on any number of forum sites could have had the same problem as you. This person may or may not have found the solution. Try simply searching up any error code or issue you are having. Usually Google is the best for this, as you may be looking through several websites and it has the best indexing.
+- For an example, let's say that Firefox is crashing every time you try to launch it. Try searching "firefox crashed on launch in ubuntu". Be as straightforward as possible.
+- If someone else seems to have the same problem as you but hasn't yet found the solution, tell them! If someone sees that many people are having the same problem, this will encourage someone to attempt to solve it. If it seems to affect every user, it's probably a bug.
+- ;
+
+2 - Ask your question on Ask Ubuntu.
+Ask your question on Ask Ubuntu. Ask Ubuntu is the official, community driven website (part of the Stack Exchange network) for people looking to ask questions about Ubuntu. You can ask your question for free with an account that you can sign up for using an email, Google, Yahoo! or Facebook.
+- If you are planning on using Ask Ubuntu to search for help, be sure you read the How to Ask page as the community tries really hard to keep questions specific and on-topic.
+
+3 - Search for help on the Ubuntu Forums.
+Search for help on the Ubuntu Forums. The Ubuntu Forums is the official forum website to discuss everything Ubuntu related. This website would be better than something like Ask Ubuntu if your question is more broad. You can sign up for the Ubuntu Forums using a Ubuntu One account.
+
+4 - Join a Ubuntu IRC channel.
+Join a Ubuntu IRC channel. The advantage of using IRC instead of something like Ask Ubuntu is that it is real-time. If the people on the IRC channel need more information to solve your problem, then this can be done in a matter of seconds. You can find a list of Ubuntu IRC channels at the Ubuntu Wiki IRC Channel List.
+
+5 - Ask someone you know.
+Ask someone you know. If you have a friend or know someone who might be able to help you, ask them! It might help to have someone you trust there helping you live instead of over the internet.
+

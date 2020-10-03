@@ -1,0 +1,41 @@
+Upgrade Windows 7 to Windows 8
+https://www.wikihow.com/Upgrade-Windows-7-to-Windows-8
+
+0 - Using the Upgrade Assistant Tool
+
+1 - Download the Upgrade Assistant tool from Microsoft.
+Download the Upgrade Assistant tool from Microsoft. Make sure your Windows 7 PC is connected to the internet, and then follow this link to download the tool. Save it to your computer when prompted.
+- This method will help you install and run the Upgrade Assistant tool, which allows you to purchase and install a Windows 8.1 upgrade for Windows 7.
+
+2 - Double-click the Upgrade Assistant tool.
+Double-click the Upgrade Assistant tool. It’s the file that has a long name containing the text “WindowsUpgradeAssistant” and ends with “.exe.”
+- You may have to click Yes to give the tool permission to run.[2]
+- X
+- Research source
+
+3 - Chick See compatibility details.
+Chick See compatibility details.  This displays a list of apps and drivers that may not work in Windows 8.1. Click Close when you’re finished.
+- In most cases, app developers and manufacturers have created new versions and drivers you can install to correct these issues on your new operating system.
+
+4 - Click Next if you want to continue with the upgrade.
+Click Next if you want to continue with the upgrade.[3]
+- X
+- Research source
+- 
+-  This displays a list of Windows 8.1 versions available for purchase. The options will vary by location.
+
+5 - Click Order next to the version you want to purchase.
+Click Order next to the version you want to purchase. The contents of your order, including the size of the download, will appear.
+- If you want to purchase a DVD, check the box next to “Windows DVD.”
+
+6 - Click Checkout and follow the on-screen instructions to purchase.
+Click Checkout and follow the on-screen instructions to purchase. You'll have to provide your contact information and enter your payment method to complete the purchase. Once your purchase is complete, you’ll see a link to download Windows 8.1, as well as your product key.
+- Write down your product key and store it somewhere safe. You'll need it to install Windows 8.1.
+
+7 - Click the link to download the installer.
+Click the link to download the installer. If prompted, click Save to start the download.
+- The installer is pretty big (around 2 GB), so it may take a while to download.
+
+8 - Double-click the downloaded file to install Windows.
+Double-click the downloaded file to install Windows. You’ll be taken through a series of steps to install the operating system. Follow the on-screen instructions to choose your settings, install the upgrade, and then set up your new desktop.
+

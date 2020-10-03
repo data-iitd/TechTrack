@@ -1,0 +1,20 @@
+Make a Network Connection Private in Windows 10
+https://www.wikihow.com/Make-a-Network-Connection-Private-in-Windows-10
+
+0 - 
+
+1 - Open the Settings app
+Open the Settings app. Click the Start WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered'); button and select the settings  gear.
+
+2 - Go to the Network & Internet category.
+Go to the Network & Internet category.
+
+3 - Go to your network type.
+Go to your network type. Click either Wi-Fi or Ethernet from the left pane.
+
+4 - Open the properties of the current connection.
+Open the properties of the current connection. Click the name of the current network box in the center portion of the window.
+
+5 - Change the network profile to private.
+Change the network profile to private. Click the "Private" radio button under the "Network profile" header.
+

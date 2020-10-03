@@ -1,0 +1,69 @@
+Find a File in Linux
+https://www.wikihow.com/Find-a-File-in-Linux
+
+0 - 
+
+1 - Search for a file by its file name.
+Search for a file by its file name. This is the most basic search you can perform using the find command. The command below will search for the query in the current directory and any subdirectories.[1]
+- X
+- Research source
+- 
+- 
+- find -iname "filename"
+- 
+- Using -iname instead of -name ignores the case of your query. The -name command is case-sensitive.
+- ;
+
+2 - Set the search to start in the root directory.
+Set the search to start in the root directory. If you want to search your whole system, you can add the / modifier to the query. This will tell find to search all directories starting from the root directory. 
+- find / -iname "filename"
+- 
+- You can start the search in a specific directory by replacing the / with a directory path, such as /home/pat.
+- You can use a . instead of / to force the search to only be performed on the current directory and subdirectories.
+
+3 - Use the wildcard character .
+Use the wildcard character .* to search for anything that matches the part of the query. The wildcard * character can be useful for finding something if you don't know the full name, or if you want to find everything with a specific extension. 
+- find /home/pat -iname "*.conf"
+- 
+- This will return all of the .conf files in Pat's user folder (and subdirectories).
+- You can also use it to find everything that matches part of the file name. For example, if you have a lot of documents related to wikiHow, you could find them all by typing "*wiki*".
+
+4 - Make your search results easier to manage.
+Make your search results easier to manage. If you're getting lots of search results, it can be difficult to sift through them. Use the | character and send the search results to the "less" filtering program. This can allow you to scroll through and filter the results much easier. 
+- find /home/pat -iname "*.conf" | less
+
+5 - Find specific types of results.
+Find specific types of results. You can use modifiers to only return specific types of results. You can search for regular files (f), directories (d), symbolic links (l), character devices (c), and block devices (b) by using the right modifier. 
+- find / -type f -iname "filename"
+
+6 - Filter your search results by size.
+Filter your search results by size. If you have lots of files with similar names, but know the size you are looking for, you can filter our results by size. 
+- find / -size +50M -iname "filename"
+- 
+- This will return results that are 50 megabytes or larger. You can use + or - to search for greater or lesser sizes. Omitting the + or - will search for files exactly the specified size.
+- You can filter by bytes (c), kilobytes (k), megabytes (M), gigabytes (G), or 512-byte blocks (b). Note that the size flag is case-sensitive.
+
+7 - Use boolean operators to combine search filters.
+Use boolean operators to combine search filters. You can use the -and, -or, and -not operators to combine different types of searches into one.[2]
+- X
+- Research source
+- 
+- 
+- find /travelphotos -type f -size +200k -not -iname "*2015*"
+- 
+- The command will find files in the "travelphotos" directory that are greater than 200 kilobytes in size but do not have "2015" anywhere in the file name.
+
+8 - Search for files by owner or permissions.
+Search for files by owner or permissions. If you are trying to find a specific file owned by a user, or files with certain permissions, you can narrow the search. 
+- find / -user pat -iname "filename"
+- find / -group users -iname "filename"
+- find / -perm 777 -iname "filename"
+- 
+- The above examples will search the specified users, groups, or permissions for the query. You can also omit the filename query to return all of the files that match that type. For example, find / -perm 777 will return all of the files with the 777 (no restrictions) permissions.
+
+9 - Combine commands to perform actions when files are found.
+Combine commands to perform actions when files are found. You can combine the find command with other commands so that you can execute them on the files that are returned by the query. Separate the find command and the second command with the -exec flag, and then end the line with {} \;
+- find . -type f -perm 777 -exec chmod 755 {} \;
+- 
+- This will search the current directory (and all subdirectories) for files that have 777 permissions. It will then use the chmod command to change the permissions to 755.
+

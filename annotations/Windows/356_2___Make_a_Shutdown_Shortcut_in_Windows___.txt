@@ -1,0 +1,25 @@
+Make a Shutdown Shortcut in Windows
+https://www.wikihow.com/Make-a-Shutdown-Shortcut-in-Windows
+
+0 - 
+
+1 - Create a new shortcut on your desktop.
+Create a new shortcut on your desktop. Right-click on your desktop. Hover the cursor over "New" and click "Shortcut" on the next menu that appears.
+
+2 - Enter the shutdown command.
+Enter the shutdown command. Copy and paste the following into the text field:  shutdown.exe -s
+- To create a restart shortcut, replace "-s" with "-r" ("shutdown.exe -r").
+
+3 - Adjust the shutdown timer.
+Adjust the shutdown timer.  Without changing any settings, the shutdown shortcut will shut down the computer after 30 seconds. To change the timer, add "-t XXX" to the end of the command. XXX represents the number of seconds delay you want prior to shutdown. For example: shutdown.exe -s -t 45 will create a shortcut that shuts down after 45 seconds.
+- To add a "goodbye" message, type -c "your message" (including the quotation marks) at the end.
+
+4 - Type a name for the shortcut.
+Type a name for the shortcut. Click "Finish" when done.
+
+5 - Change the icon.
+Change the icon. If you’d rather have a custom icon instead of the default Program icon that Windows assigns, right-click the shortcut and choose "Properties". In the Shortcut tab, click the Change Icon button. Choose an appropriate icon and then press OK to confirm.
+
+6 - Double-click the shortcut to initiate shutdown.
+Double-click the shortcut to initiate shutdown. You'll see a window counting down and your message will be shown. Once the timer runs out, all your programs will start to close and Windows will shut down.
+

@@ -1,0 +1,35 @@
+Install macOS on a Windows PC
+https://www.wikihow.com/Install-macOS-on-a-Windows-PC
+
+0 - Preparing to Install
+
+1 - Check your computer's specifications.
+Check your computer's specifications. Your Windows computer must have an Intel Core 2 Duo P8600, i5, or i7 processor in order to run macOS High Sierra, as well as a minimum of two gigabytes of RAM. To check these specs:
+- Open Start .
+- Type in system information.
+- Click System Information at the top of the menu.
+- Look at the name of the processor to the right of the "Processor" heading.
+- Scroll down and look at the number to the right of the "Installed Physical Memory" heading.
+- ;
+
+2 - Check your computer's BIOS type.
+Check your computer's BIOS type. Next to the "BIOS Mode" heading in the System Information menu, check to see whether it says "UEFI" or "BIOS". Keep this information in mind for later.
+- You can exit System Information after this point.
+
+3 - Determine your computer's bit type
+Determine your computer's bit type. There are two types of computer: 32-bit, and 64-bit. Your computer must be able to support 64-bit operation in order to install macOS.
+
+4 - Make sure you have access to a recent model of Mac.
+Make sure you have access to a recent model of Mac. The Mac in question must be able to download macOS High Sierra.
+- If your Mac can't run macOS High Sierra, you'll need to use a Mac which can.
+
+5 - Gather the required equipment.
+Gather the required equipment. In order to install macOS High Sierra on your Windows computer, you will need the following hardware:[1]
+- X
+- Research source
+- 
+- 
+- USB drive - Find a flash drive that can hold at least 16 gigabytes.
+- Blank hard drive - Find a USB external hard drive that holds at least 100 gigabytes (this is where you'll install your macOS stuff, so the bigger, the better).
+- USB-C adapter - If you're working with a Mac that doesn't have traditional USB ports, you'll need a USB-C-to-USB-3.0 adapter.
+

@@ -1,0 +1,42 @@
+T1	Software-Other 132 138	Gboard
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 148 165	Google Play Store
+T3	Software-OS-Related 169 178	App Store
+T4	Software-OS-Related 296 303	Android
+T5	Hardware-Devices 308 320	Apple phones
+T6	Hardware-Devices 325 332	tablets
+T7	Software-Other 558 564	Gboard
+T8	Hardware-Devices 646 652	iPhone
+T9	Hardware-Devices 656 660	iPad
+T10	Software-OS-Related 668 676	Settings
+A14	isOpened T10 f->t
+T11	Software-OS-Related 679 686	General
+A15	isOpened T11 f->t
+T12	Software-OS-Related 689 697	Keyboard
+A16	isOpened T12 f->t
+T13	Software-OS-Related 700 704	Edit
+T14	Hardware-Devices 765 772	Android
+T15	Software-OS-Related 780 788	Settings
+A21	isOpened T15 f->t
+T16	Software-OS-Related 791 797	System
+A22	isOpened T16 f->t
+T17	Software-OS-Related 800 818	Language and Input
+A23	isOpened T17 f->t
+T18	Software-OS-Related 821 837	Manage Keyboards
+T20	Software-Other 993 1004	Google Docs
+T22	Software-OS-Related 1021 1039	text messaging app
+T19	Software-Other 900 916	text editing app
+A25	isOpened T19 f->t
+A26	isInstalled T19 start-T
+T21	Software-Other 1006 1011	Notes
+T23	Software-Other 1080 1088	keyboard
+A27	isOpened T23 f->t
+T24	Software-Other 1159 1160	2
+T25	Software-Other 1169 1177	keyboard
+T26	Software-Other 1259 1270	superscript
+T27	Software-Other 1274 1283	squared 2
+T28	Software-Other 1336 1341	² key
+T29	Software-OS-Related 1435 1441	cursor
+T30	Software-Other 578 586	keyboard
+T31	Software-OS-Related 850 856	switch
+A2	isSettingsChanged T7 true

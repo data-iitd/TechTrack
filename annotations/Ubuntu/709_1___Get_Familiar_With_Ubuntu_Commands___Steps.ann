@@ -1,0 +1,9 @@
+T1	Software-OS-Related 249 253	sudo
+T2	Software-OS-Related 464 466	cd
+T3	Software-OS-Related 820 823	pwd
+T4	Software-OS-Related 2112 2115	man
+T5	Software-OS-Related 2897 2899	df
+T6	Software-OS-Related 3145 3147	du
+T7	Software-OS-Related 1288 1290	mv
+T8	Software-OS-Related 1650 1652	rm
+T9	Software-OS-Related 1930 1937	history

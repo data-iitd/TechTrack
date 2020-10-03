@@ -1,0 +1,12 @@
+T1	Software-OS-Related 191 228	file you wish to compress and archive
+T2	Software-OS-Related 271 279	Compress
+A3	isOpened T2 f->t
+T3	Software-OS-Related 424 433	·zip file
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 904 917	Create button
+A4	isOpened T4 f->t
+A5	isOpened T1 f->t
+T5	Software-OS-Related 318 333	Rename the file
+A1	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T2	
+R2	SubPart Arg1:T3 Arg2:T2	

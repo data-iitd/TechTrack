@@ -1,0 +1,26 @@
+T1	Software-OS-Related 198 209	home folder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 223 235	hidden files
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 291 310	folder named .cache
+A3	isOpened T3 f->t
+T4	Software-OS-Related 385 413	folder named software-center
+A4	isOpened T4 f->t
+T5	Software-OS-Related 532 544	apthistory.p
+A5	isOpened T5 f->t
+T6	Software-OS-Related 545 568	Delete all the contents
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 660 673	var/log/apt/.
+A7	isOpened T7 f->t
+T8	Software-OS-Related 688 699	history.log
+A8	isOpened T8 f->t
+T9	Software-OS-Related 726 749	delete all its contents
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 821 843	Ubuntu Software Center
+A10	isOpened T10 f->t
+T11	Software-OS-Related 858 869	History tab
+A11	isOpened T11 f->t
+R1	SubPart Arg1:T6 Arg2:T3	
+R2	SubPart Arg1:T9 Arg2:T3	
+R3	SubPart Arg1:T11 Arg2:T10	
+R4	SubPart Arg1:T2 Arg2:T1	

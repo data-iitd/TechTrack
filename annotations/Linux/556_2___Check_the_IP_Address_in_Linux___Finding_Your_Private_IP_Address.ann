@@ -1,0 +1,30 @@
+T1	Software-OS-Related 233 243	IP address
+T2	Hardware-Other 252 260	computer
+T3	Software-OS-Related 273 286	Wi-Fi network
+T4	Software-OS-Related 397 405	Terminal
+A1	isOpened T4 f->t
+T5	Software-OS-Related 539 546	Show IP
+T7	Software-OS-Related 592 600	ifconfig
+T8	Software-OS-Related 610 625	Terminal window
+T9	Software-OS-Related 680 687	ip addr
+T10	Software-OS-Related 691 695	ip a
+T11	Software-OS-Related 753 760	command
+T12	Software-OS-Related 778 800	IP address information
+A2	isOpened T12 f->t
+T13	Hardware-Other 838 846	computer
+T14	Software-OS-Related 865 883	computer's heading
+T15	Software-OS-Related 975 979	wlo1
+T16	Software-OS-Related 986 991	wlan0
+T17	Software-OS-Related 1022 1026	inet
+T18	Software-OS-Related 1078 1096	private IP address
+T19	Software-OS-Related 1134 1146	IPv4 address
+T20	Software-OS-Related 1171 1175	inet
+T21	Software-Other 1213 1221	computer
+T22	Software-OS-Related 1274 1286	IPv6 address
+T23	Software-OS-Related 1300 1305	inet6
+T24	Software-OS-Related 1390 1398	hostname
+T25	Software-OS-Related 1446 1460	Linux versions
+T26	Software-OS-Related 1500 1521	computer's IP address
+T27	Software-OS-Related 1470 1476	Ubuntu
+T28	Software-OS-Related 1535 1546	hostname -I
+R3	SubPart Arg1:T28 Arg2:T26	

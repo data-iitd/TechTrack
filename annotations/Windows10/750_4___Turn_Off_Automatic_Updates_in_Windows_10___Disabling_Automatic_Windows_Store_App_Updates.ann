@@ -1,0 +1,11 @@
+T1	Software-OS-Related 172 177	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 300 315	Microsoft Store
+A2	isOpened T2 f->t
+T3	Software-OS-Related 599 600	⋯
+T4	Software-OS-Related 821 829	Settings
+A3	isOpened T4 f->t
+T5	Software-OS-Related 905 930	Update apps automatically
+T6	Software-OS-Related 1016 1019	off
+A4	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T4	

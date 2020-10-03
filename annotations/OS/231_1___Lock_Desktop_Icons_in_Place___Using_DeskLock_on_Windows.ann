@@ -1,0 +1,14 @@
+T1	Software-Other 159 170	web browser
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-T
+T2	Software-Other 249 302	http://www.intowindows.com/lock-desktop-icons-windows
+A3	isOpened T2 f->t
+T3	Software-Other 364 381	Download Desklock
+T4	Software-Other 467 475	DeskLock
+T5	Software-Other 527 540	DeskLock v1.2
+T6	Software-Other 655 667	DeskLock.exe
+A4	isOpened T6 f->t
+T7	Software-Other 967 975	DeskLock
+T8	Software-Other 1225 1232	Enabled
+A5	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	

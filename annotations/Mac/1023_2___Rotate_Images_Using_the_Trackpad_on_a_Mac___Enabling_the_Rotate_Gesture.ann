@@ -1,0 +1,12 @@
+T1	Software-OS-Related 190 200	Apple Icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 443 460	System Preference
+A2	isOpened T2 f->t
+T3	Software-OS-Related 509 517	Trackpad
+A3	isOpened T3 f->t
+T4	Software-OS-Related 722 735	Scroll & Zoom
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 786 789	box
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T5 Arg2:T3	

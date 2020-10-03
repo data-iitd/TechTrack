@@ -1,0 +1,28 @@
+Upgrade from Windows 7 to Windows 10
+https://www.wikihow.com/Upgrade-from-Windows-7-to-Windows-10
+
+0 - Steps
+
+1 - Go to the Windows 10 system specifications page.
+Go to the Windows 10 system specifications page. It's important to make sure your computer meets the minimum computing requirements (1GB of RAM, 1 GHz processor) so that it can run Windows 10 hassle-free.
+- Upgrading to Windows 10 should still be free if you have a licensed copy of Windows 7 running on your PC.
+- ;
+
+2 - Go to the Windows 10 download page.
+Go to the Windows 10 download page. This will take you to the page for the Windows 10 Media Creation Tool, which you'll need to upgrade to Windows 10.
+
+3 - Click the Download button.
+Click the Download button. Once on the site, click this to start downloading Windows 10.
+
+4 - Wait until the download is finished.
+Wait until the download is finished. Open the file from your Downloads folder once the download is complete.
+
+5 - Click the Accept button.
+Click the Accept button.
+
+6 - Select Upgrade this PC now.
+Select Upgrade this PC now. Click on the next button once you've done this.
+
+7 - Wait until it's finished.
+Wait until it's finished. It will automatically restart your PC when it's done and have Windows 10 as the operating system.
+

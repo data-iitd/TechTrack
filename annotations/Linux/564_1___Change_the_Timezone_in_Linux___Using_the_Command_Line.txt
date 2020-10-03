@@ -1,0 +1,44 @@
+Change the Timezone in Linux
+https://www.wikihow.com/Change-the-Timezone-in-Linux
+
+0 - Using the Command Line
+
+1 - Open Terminal.
+Open Terminal. Select the Terminal program from your Linux programs, or press Ctrl+Alt+T on your keyboard.
+- ;
+
+2 - Check your current time zone.
+Check your current time zone. Type date into Terminal and press ↵ Enter. The terminal will display the date in Weekday Month Day Time TimeZone Year format.
+- For example, you might see something like Wed Mar 7 07:38:23 EDT 2017 wherein "EDT" refers to the current time zone (Eastern Daylight Time).
+
+3 - Check available time zones.
+Check available time zones. Type in cd /usr/share/zoneinfo and press ↵ Enter, then type in tzselect and press ↵ Enter to display a list of locations.
+- The /usr/share/zoneinfo directory may vary depending on your Linux distribution.
+
+4 - Select a continent or ocean.
+Select a continent or ocean. Type in a selection number that pertains to your general location, then press ↵ Enter.
+
+5 - Select a country.
+Select a country. Type in a selection number from the on-screen list and press ↵ Enter.
+
+6 - Select a time zone.
+Select a time zone. Type in a selection number to select the preferred time zone region and press ↵ Enter.
+- If your city is not listed in the time zone list, pick a different city from your same time zone.
+
+7 - Confirm the local time.
+Confirm the local time. In the following prompt, confirm that the local time is correct by typing 1 and then pressing ↵ Enter.
+- If the time isn't correct, type in 2 and press ↵ Enter, then select a new continent and repeat the process.
+
+8 - Verify that your time zone has been set.
+Verify that your time zone has been set. Run the date command again and check that the time zone corresponds to the one you just changed to. If you see you new time zone listed, you have successfully changed your computer's time zone.
+
+9 - Set your clock to stay synced with internet time servers if you like.
+Set your clock to stay synced with internet time servers if you like. Most modern distributions have NTP already installed. If your Linux distribution does not, you will need to install the NTP server package. Use the following commands to install it, depending on your Linux distribution:
+- 
+- Ubuntu/Mint/Debian: sudo apt install ntpdate
+- 
+- CentOS: sudo yum install ntpdatesudo /sbin/chkconfig ntpd on
+- 
+- Fedora/RedHat: sudo yum install ntpdatesudo chkconfig ntpd on
+- Enter ntpdate server link && hwclock –w after the installation command, making sure to enter the link to the website in place of server link.
+

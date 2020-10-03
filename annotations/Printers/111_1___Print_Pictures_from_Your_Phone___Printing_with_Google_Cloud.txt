@@ -1,0 +1,41 @@
+Print Pictures from Your Phone
+https://www.wikihow.com/Print-Pictures-from-Your-Phone
+
+0 - Printing with Google Cloud
+
+1 - Register your printer.
+Register your printer. Open the Google Chrome browser, sign in, and click ⋮. Then click Settings > Advanced ▼ > Google Cloud Print > Manage Cloud Print Devices > Add printers (if not Cloud-ready).
+- If the printer is Cloud-ready like the HP DeskJet 2640 All-in-One, you'll only need to turn it on and connect to a network in order to register.
+- ;
+
+2 - Download Cloud Print (Android) or PrintCentral Pro (iOS).
+Download Cloud Print (Android) or PrintCentral Pro (iOS). Although Google Could Print is a plug-in specifically for Android phones and tablets, an iPhone can download PrintCentral Pro from the App Store to utilize Cloud Print.
+- To print from an iPhone, open PrintCentral Pro, tap on a file to open it (you can navigate through folders by tapping ☰), and tap Print and select your Cloud Printer. You're done, but Android readers need to continue following the steps.[1]
+- X
+- Research source
+- 
+- 
+- Most modern Android phones and tablets should come with Cloud Print installed, but it is available for download from the Google Play Store. Since Android KitKat (4.4), the standalone app is now a plug-in that you can use to manage your Cloud Printing. It will also enable you to add a Cloud-ready printer to your phone.
+
+3 - Navigate to a picture you want to print.
+Navigate to a picture you want to print. You can use your local camera gallery or Google Photos; if you have the Cloud Print plug-in, you'll be able to set up and use a Cloud Printer.
+- This step and the following are for Android users only. If you have an iPhone, you can print directly from the PrintCentral Pro app as explained in the previous step.
+
+4 - Tap ⋮.
+Tap ⋮. You'll see this or something similar that opens a longer options menu in the upper right corner of the picture either in Google Photos or your local gallery.
+
+5 - Tap Print.
+Tap Print. This is either the last option in the drop-down menu or the last icon in the top row of icons that appear under the image.
+
+6 - Tap Select a printer.
+Tap Select a printer. You'll see this at the top of your screen.
+
+7 - Tap your printer.
+Tap your printer. If it's not listed here, tap All printers. If it's still not on your list, tap Add printer > Cloud Print > Your Printer.
+
+8 - Tap the print icon that looks like a colored printer.
+Tap the print icon that looks like a colored printer. It's usually yellow.
+
+9 - Confirm that you want to use Cloud Print by tapping "OK.
+Confirm that you want to use Cloud Print by tapping "OK." Tap OK to confirm your choice and proceed. Your photo should start printing as soon as you confirm.
+

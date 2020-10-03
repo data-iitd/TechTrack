@@ -1,0 +1,24 @@
+Boost Microphone Volume on PC or Mac
+https://www.wikihow.com/Boost-Microphone-Volume-on-PC-or-Mac
+
+0 - Using Mac
+
+1 - Click the Apple icon on your menu bar.
+Click the Apple icon on your menu bar. This button looks like a black Apple icon in the upper-left corner of your screen. It will open a drop-down menu.
+
+2 - Click System Preferences on the menu.
+Click System Preferences on the menu. This will open your System Preferences in a new window.
+
+3 - Click Sound in System Preferences.
+Click Sound in System Preferences. This option looks like a speaker icon on the System Preferences menu. It will open your computer's audio settings.
+
+4 - Click the Input tab.
+Click the Input tab. This button is located next to Sound Effects and Output at the top of the Sound window.
+
+5 - Select your microphone on the Input menu.
+Select your microphone on the Input menu. You'll see a list of all the audio input devices connected to your computer here. Find the microphone you're using, and click on its name.
+
+6 - Slide the Input volume slider to the right.
+Slide the Input volume slider to the right. This will boost the selected microphone's audio input to a higher level of volume.
+- You can now speak to your microphone, and check the Input level indicator here in order to see if your microphone's input is boosted.
+

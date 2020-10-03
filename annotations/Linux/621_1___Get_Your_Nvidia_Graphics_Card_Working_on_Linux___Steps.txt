@@ -1,0 +1,64 @@
+Get Your Nvidia Graphics Card Working on Linux
+https://www.wikihow.com/Get-Your-Nvidia-Graphics-Card-Working-on-Linux
+
+0 - Steps
+
+1 - Buy an NVidia graphics card, if you do not already have one.
+Buy an NVidia graphics card, if you do not already have one.
+- ;
+
+2 - Go to this website * http:__www.nvidia.com_object_unix.html and download the file appropriate for your computer.
+Go to this website * http://www.nvidia.com/object/unix.html and download the file appropriate for your computer.
+- if you have a computer with a processor such as a Pentium 1-4, select Linux IA32.
+- 
+- 
+- if you have a computer with a processor such as the AMD 64, select AMD64/EM64T.
+- WH.shared.addScrollLoadItem('fae0a78113ae5c0a11d4c5209fb7a03e')
+
+3 - Note that  once the driver is downloaded, save it to a spot on your computer you will remember.
+Note that  once the driver is downloaded, save it to a spot on your computer you will remember.
+
+4 - Kill the existing XServer before we continue.
+Kill the existing XServer before we continue. Follow these steps.
+- press ctrl-alt-f1 to enter a virtual terminal. Log in as root and use the command "killall 5"
+- 
+- 
+- press ctrl-alt-f2 and log back in as root.
+- WH.shared.addScrollLoadItem('0f20d0fba7fbe734ccce9cc7df186c67')
+
+5 - You should now backup your X configuration in case it is corrupted.
+You should now backup your X configuration in case it is corrupted.
+- Type cp /etc/X11/xorg.conf /etc/X11/xorg.conf.backup
+
+6 - Now that the XServer is down we can install the driver.
+Now that the XServer is down we can install the driver.
+- in the terminal, go to the directory where you downloaded the driver.
+- 
+- 
+- run the command "chmod a+x *.run"
+- WH.shared.addScrollLoadItem('01b3515e79784f72bf29c54064469790')
+- 
+- 
+- run the command "sh *.run"
+- WH.shared.addScrollLoadItem('78dade707d859905fe3b569423fa039d')
+
+7 - Note that you will now be taken into an installation screen.
+Note that you will now be taken into an installation screen. Follow the steps on the screen.
+- Remember, when it asks you if you want it to configure your XServer to say yes.
+- 
+- 
+- Remember, allow it to download/compile from the Internet if needed.
+- WH.shared.addScrollLoadItem('df4b82741f79943229b79c1ba1b14e13')
+
+8 - Once the driver is installed, run the command "reboot" .
+Once the driver is installed, run the command "reboot" . You have successfully installed the driver!
+
+9 - If X fails to load up, press ctrl+alt+F1, log in as root and type cp _etc_X11_xorg.conf.backup _etc_X11_xorg.conf
+
+If X fails to load up, press ctrl+alt+F1, log in as root and type cp /etc/X11/xorg.conf.backup /etc/X11/xorg.conf
+- Type /sbin/init 5
+- 
+- 
+- Your problem should now be solved, although your NVidia driver will not be configured.
+- WH.shared.addScrollLoadItem('8df2e1dc0a383edb2e3077d3d8a72ab5')
+

@@ -1,0 +1,38 @@
+Send Mail in Linux
+https://www.wikihow.com/Send-Mail-in-Linux
+
+0 - Using Web-Based Email
+
+1 - Open your web browser.
+Open your web browser. As long as you have internet access and a web browser, you can use any number of free web-based email services to send and receive email on Linux. Depending on your distribution, you should have a web browser already installed. If you don't see Firefox, Chrome, Konqueror, GNOME Web, or another browser on the system, you can follow these steps to install Chrome now:[3]
+- X
+- Research source
+- 
+- 
+- Press Ctrl+Alt+T to open a terminal window.
+- Type wget https: / /dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb and press ↵ Enter.
+- Type sudo dpkg -i google-chrome-stable_current_amd64.deb and press ↵ Enter.
+- Enter your root password and press ↵ Enter.
+- Once Chrome is installed, type google-chrome at the prompt and press ↵ Enter to launch it.
+
+2 - Visit the website of any web-based email service.
+Visit the website of any web-based email service. Some popular free options are Gmail, Outlook.com, and Yahoo Mail.
+
+3 - Sign in or create an account.
+Sign in or create an account. You can create a brand new account or use an existing one, it's up to you. Once you're logged in or signed up, you'll be brought to your inbox.
+
+4 - Click the Compose or New Message button.
+Click the Compose or New Message button. The name and location of this button varies, but it'll usually have an icon of a pencil, sheet of paper, or a plus (+) symbol.
+
+5 - Enter the recipient's email address into the "To" field.
+Enter the recipient's email address into the "To" field. This is the email address of the person you're sending a message to.
+
+6 - Type a message subject.
+Type a message subject. The "Subject" field is optional but recommended. Messages with blank subjects are sometimes routed to peoples' spam folders.
+
+7 - Type the message.
+Type the message. The message should be typed into the largest part of the new message window.
+
+8 - Click the Send button.
+Click the Send button. The name and location of this button varies, but you'll usually see a paper airplane icon on or near it. This sends the message to the recipient.
+

@@ -1,0 +1,32 @@
+Change Screensaver Settings in Windows
+https://www.wikihow.com/Change-Screensaver-Settings-in-Windows
+
+0 - 
+
+1 - Right-click your desktop and select the "Personalize" option.
+Right-click your desktop and select the "Personalize" option. Unlike in Windows 10, you can access the screen saver settings from directly within the "Personalize" menu.
+- Alternatively, on Windows 7 you can open the Start menu and type "Personalize" into the search function, then click the "Personalize" option when it pops up.
+- For Windows 8, tap the ⊞ Win key to bring up the Start menu if you're trying to search for the Personalize option.
+
+2 - Click the "Screen Saver" option.
+Click the "Screen Saver" option. You can find this in the bottom right corner of the Personalize window.
+
+3 - Review your screen saver options.
+Review your screen saver options. Windows 7, 8, and 8.1 have the same default screen savers as Windows 10 with similar settings; for example, you can only customize the "3D Text" and "Photos" options.[1]
+- X
+- Research source
+
+4 - Select a screen saver.
+Select a screen saver. You'll find a list of the same seven screen saver options here as you would in Windows 10.
+- On Windows 7, the "Photos" option is labeled "Windows Live Photos".
+
+5 - Customize your screen saver's "Options" menu.
+Customize your screen saver's "Options" menu. You can only do this for "3D Text" and "Photos".
+
+6 - Change when you'd like your screen saver to turn on.
+Change when you'd like your screen saver to turn on. This value--which dictates how long your computer has to be inactive before your screen saver kicks in--is to the right of the "Wait" text. You can click the up or down arrows next to the number to increase or decrease wait time.
+- Check the "On resume, display logon screen" option if you want your computer to lock itself upon screen saver activation. This is a good idea if you're using a shared/work computer.
+
+7 - Click "OK" or "Apply" to save your changes.
+Click "OK" or "Apply" to save your changes. Your Windows 7, 8, or 8.1 screen saver is now active!
+

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 136 142	window
+T2	Software-Other 622 627	Paint
+A1	isOpened T2 f->t
+T3	Software-Other 994 1003	File menu
+T4	Software-Other 1015 1019	Save
+T5	Software-Other 1496 1508	Save As Type
+A2	isOpened T5 f->t
+T6	Software-Other 1696 1700	Save
+A3	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T4	

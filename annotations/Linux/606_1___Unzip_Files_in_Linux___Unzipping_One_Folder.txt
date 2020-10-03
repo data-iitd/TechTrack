@@ -1,0 +1,27 @@
+Unzip Files in Linux
+https://www.wikihow.com/Unzip-Files-in-Linux
+
+0 - Unzipping One Folder
+
+1 - Locate your zipped folder.
+Locate your zipped folder. If it's in the Documents directory, for example, you'll open your Documents folder.
+- ;
+
+2 - Note the name of the zipped folder.
+Note the name of the zipped folder. You'll need to enter the zipped folder's name exactly as it appears on the folder here.
+- Remember to take into account pacing and capitalization.
+
+3 - Click Menu.
+Click Menu. It's in the bottom-left corner of the screen.
+
+4 - Click the Terminal icon.
+Click the Terminal icon. This icon is a black box with a white ">_" on it. You should see Terminal either in the bar on the left side of the Menu window, or in the group of programs listed in the Menu window.
+- You can also search for Terminal by clicking the search bar at the top of the Menu window and then typing in terminal.
+
+5 - Type unzip filename.zip into Terminal.
+Type unzip filename.zip into Terminal. You'll replace the "filename" part of the command with your zipped folder's name.
+- For example, if your folder is named "BaNaNa", you'd type unzip BaNaNa.zip into Terminal.
+
+6 - Press ↵ Enter.
+Press ↵ Enter. Doing so will run your command and unzip your selected folder.
+

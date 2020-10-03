@@ -1,0 +1,62 @@
+Install CentOS
+https://www.wikihow.com/Install-CentOS
+
+0 - Installing CentOS
+
+1 - Insert the CD or DVD containing the CentOS installation file into the disk drive on your Linux system.
+Insert the CD or DVD containing the CentOS installation file into the disk drive on your Linux system.
+
+2 - Power on your computer.
+Power on your computer. Your system will boot from the installation CD and display the CentOS welcome screen.
+
+3 - Highlight “Install CentOS 7” then press “Enter.
+Highlight “Install CentOS 7” then press “Enter." You can also choose the option "Test this media & install CentOS 7." Selecting the second option will take a relatively long time.
+- The second option is not necessary unless you feel that your Installation media is corrupted and not in good shape.
+
+4 - Select your preferred language, then click “Continue.
+Select your preferred language, then click “Continue.”
+
+5 - View the home screen of the Installation Summary.
+View the home screen of the Installation Summary. This is the place where you can set all your installation parameters and configurations. Here you again have an option of selecting an Installation Source. You can verify your installation media or you can simply skip this option.
+
+6 - Go to “Keyboard’’ options, select your keyboard language and layout, and click “Done.
+Go to “Keyboard’’ options, select your keyboard language and layout, and click “Done.”
+
+7 - Go to “Network & Host Name’’ options and type a hostname for your CentOS server.
+Go to “Network & Host Name’’ options and type a hostname for your CentOS server. Then, click “Apply,’’ then finally, click on “Configure."
+
+8 - Select the appropriate tab for your network type and settings, Select “IPv4 Settings’’ if you need to add IP manually.
+Select the appropriate tab for your network type and settings, Select “IPv4 Settings’’ if you need to add IP manually.
+
+9 - Enter your network information into the required fields.
+Enter your network information into the required fields. You must enter your IP address, Netmask, Gateway, and DNS Server credentials.
+
+10 - Turn the Ethernet (ens33) slider switch On, then click “Done.
+Turn the Ethernet (ens33) slider switch On, then click “Done.”
+
+11 - Go to “Date & Time’’ options and select your timezone, then click “Done.
+Go to “Date & Time’’ options and select your timezone, then click “Done.”
+
+12 - Go to the “Installation Destination’’ option and select the device, type of installation, or partitioning you want used for CentOS.
+Go to the “Installation Destination’’ option and select the device, type of installation, or partitioning you want used for CentOS.  Select your Hard drive and then choose to configure the partition automatically or manually.
+
+13 - After the partitions have been created, click “Done.
+After the partitions have been created, click “Done.”
+
+14 - Select “Accept Changes” to confirm for creation and format all the partitions you have created.
+Select “Accept Changes” to confirm for creation and format all the partitions you have created. You will be returned back to installation summary home screen.
+
+15 - Go to “Software Selection’’ and select the applications you want installed with CentOS, then click “Done.
+Go to “Software Selection’’ and select the applications you want installed with CentOS, then click “Done.” You can install an Internet browser, graphics tools, and more. Finally, Click “Begin installation’’ and CentOS will then begin installing itself on your system, which will take several minutes to complete based on the number of extra applications selected.
+
+16 - While CentOS is installing, Go to “Root Password’’ and enter a root password, then type the password again for confirmation and click “Done.
+While CentOS is installing, Go to “Root Password’’ and enter a root password, then type the password again for confirmation and click “Done.” The root password will be used for administering CentOS. If needed, you can also add extra users thru “User Creation’’ during installation.
+
+17 - Remove the CD or DVD from your disk drive when CentOS informs you installation is complete.
+Remove the CD or DVD from your disk drive when CentOS informs you installation is complete.
+
+18 - Click on “Reboot.
+Click on “Reboot.” Your computer will reboot, and CentOS is now installed on your machine.[1]
+- X
+- Research source
+

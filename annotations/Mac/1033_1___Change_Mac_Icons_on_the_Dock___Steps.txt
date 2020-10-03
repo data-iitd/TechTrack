@@ -1,0 +1,44 @@
+Change Mac Icons on the Dock
+https://www.wikihow.com/Change-Mac-Icons-on-the-Dock
+
+0 - Steps
+
+1 - Assume for the purposes of this tutorial that you're trying to find a new icon for the "iMovie" icon.
+Assume for the purposes of this tutorial that you're trying to find a new icon for the "iMovie" icon.
+- ;
+
+2 - Go to the search bar.
+Go to the search bar. Type in "iMovie Icons" (or whatever the name of the icon you wish to change is, such as "iPhoto Icons", or "Photo Booth icons," and so on.
+
+3 - Click Enter.
+Click Enter. Browse through all of the icon choices.
+
+4 - Drag the icon onto your desktop.
+Drag the icon onto your desktop.
+
+5 - Click on the desktop photo of the icon.
+Click on the desktop photo of the icon. Go to the "Instant Alfa" Tool. This tool allows your icon to have a solid background, so that it can float.
+
+6 - Click on the solid background of the chosen icon.
+Click on the solid background of the chosen icon. Once you have a red surface on top of the blank solid background, click Enter, and then "Convert".
+
+7 - Click on Command, A.
+Click on Command, A. This will select all of the icon.
+
+8 - Click on Command, C.
+Click on Command, C. This will copy the image.
+
+9 - Go to your spotlight facility.
+Go to your spotlight facility. Search and type in the icon by typing in "iMovie". Do not click on it.
+- While your mouse is hovering over the highlighted blue app, click on Command, I, which will send it to the information about the icon.
+
+10 - Click on the icon's original picture.
+Click on the icon's original picture. Press  Command, V, which will paste the new image on.
+
+11 - Quit out of the app.
+Quit out of the app.
+
+12 - Click on it again to see the new image appear.
+Click on it again to see the new image appear.
+- It might not appear on the first time, so just keep quitting and re-opening the icon.
+

@@ -1,0 +1,20 @@
+Connect a Laptop to a Monitor
+https://www.wikihow.com/Connect-a-Laptop-to-a-Monitor
+
+0 - Detecting a Display in MacOS
+
+1 - Click the Apple icon .
+Click the Apple icon .  It's the icon with the Apple logo in the upper-left corner of the menu bar.  This displays the Apple menu as a drop-down.
+
+2 - Click System Preferences.
+Click System Preferences.  It's the second option in the Apple menu drop-down.  This opens the System Preferences window.
+
+3 - Click Displays.
+Click Displays.  It has an icon that resembles a computer monitor.  This opens the Displays window.
+
+4 - Press and hold Options.
+Press and hold Options.  When you press "Options", a button that says "Detect Displays" appears in the Displays window.
+
+5 - Click Detect Displays.
+Click Detect Displays.  It's in the lower-right corner of the Displays window when you press the "Options" key.  This makes MacOS detect your displays.
+

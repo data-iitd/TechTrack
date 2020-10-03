@@ -1,0 +1,17 @@
+T1	Software-OS-Related 172 185	Control Panel
+A1	isOpened T1 f->t
+T2	Software-OS-Related 876 895	System and Security
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1290 1296	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1766 1790	Advanced system settings
+A4	isOpened T4 f->t
+T5	Software-OS-Related 2100 2111	Performance
+A5	isOpened T5 f->t
+T6	Software-OS-Related 2487 2493	Custom
+A6	isOpened T6 f->t
+T7	Software-OS-Related 3381 3383	OK
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 2978 3005	Adjust for best performance
+R2	SubPart Arg1:T7 Arg2:T5	
+T9	Software-OS-Related 2826 2852	Adjust for best appearance

@@ -1,0 +1,29 @@
+Print Wirelessly from an iPad with HP Eprint App
+https://www.wikihow.com/Print-Wirelessly-from-an-iPad-with-HP-Eprint-App
+
+0 - Selecting a Document to Print
+
+1 - Print a photo from your gallery.
+Print a photo from your gallery. On the HP ePrint app, tap the “Photos” box on the main screen. This will bring out the Camera Roll.
+- Browse through your local photos and tap the one you’d like to print. A preview will be displayed on the screen.
+
+2 - Print an email.
+Print an email. On the HP ePrint app, tap the “Email” box on the main screen. This will bring out all your email accounts linked with the app.
+- Browse through your email folders, look through your emails, and tap the one you’d like to print. The email will be displayed.
+- Towards the bottom, tap on “Email Body.” A preview will be displayed on the screen. You can add a new email account by tapping on the “Add Account” button, and following the instructions on the screen to set it up.
+
+3 - Print an email attachment.
+Print an email attachment. On the HP ePrint app, tap the “Email” box on the main screen. This will bring out all your email accounts linked with the app.
+- Browse through your email folders, look through your emails, and tap the one whose attachment you’d like to print. The email will be displayed.
+- Towards the bottom, tap on the file attachment you’d like to print. A preview will be displayed on the screen.
+
+4 - Print a web page.
+Print a web page. On the HP ePrint app, tap the “Web” box on the main screen. This will bring out a browser with the app. Use this as you will any other web browser.
+- Go to the web page you’d like to print. You can either search for it using the Google search box or input its URL directly. The web page will load.
+- Tap the “Print” button at the upper-right side of the screen. A preview will be displayed on the screen.
+
+5 - Print a file from the cloud.
+Print a file from the cloud. On the HP ePrint app, tap the “Cloud” box on the main screen. This will bring out all your cloud storage services accounts linked with the app. Select the one that contains the file you’d like to print.
+- Navigate through the sub-folders by tapping on them. Tap on the file you’d like to print. A preview will be displayed on the screen.
+- You can add a new cloud service account by tapping on the “Add Account” button, and following the instructions on the screen to set it up.
+

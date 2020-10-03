@@ -1,0 +1,104 @@
+Disable Animations in Windows 10
+https://www.wikihow.com/Disable-Animations-in-Windows-10
+
+0 - Selectively Disabling Animations Through Control Panel
+
+1 - .
+Open the Control Panel. You can launch it through the search feature by typing control panel and hitting ↵ Enter or selecting the matching result.[12]
+- X
+- Research source
+- 
+- [13]
+- X
+- Research source
+- 
+- As Microsoft is trying to migrate away from the Control Panel, settings are being moved and added to the Settings app.[14]
+- X
+- Research source
+- 
+- [15]
+- X
+- Research source
+- 
+- [16]
+- X
+- Research source
+- 
+- [17]
+- X
+- Research source
+- 
+-  Many settings including advanced ones are still present in the Control Panel,[18]
+- X
+- Research source
+- 
+- [19]
+- X
+- Research source
+- 
+-  such as the ability to specify which animations you see.
+
+2 - Click or tap the "System and Security" header.
+Click or tap the "System and Security" header.[20]
+- X
+- Research source
+- 
+- [21]
+- X
+- Research source
+- 
+-  Do not select the links below the header as they will take you to a completely different page.
+- If Control Panel is configured to use the icons view, choose the icon labelled as "System"[22]
+- X
+- Research source
+- 
+-  and skip to step #4.
+
+3 - Select the "System" header to open the System Properties page.
+Select the "System" header to open the System Properties page.[23]
+- X
+- Research source
+- 
+- [24]
+- X
+- Research source
+- 
+-  You can also select "View amount of RAM and processor speed"[25]
+- X
+- Research source
+- 
+- [26]
+- X
+- Research source
+- 
+-  or "See the name of this computer"[27]
+- X
+- Research source
+- 
+-  from below the header. Both links will take you to the same destination.
+
+4 - Open Advanced system settings.
+Open Advanced system settings. Select "Advanced system settings" from the upper part of the left pane. It is the last in the list.[28]
+- X
+- Research source
+- 
+- [29]
+- X
+- Research source
+
+5 - Go to the Performance Settings.
+Go to the Performance Settings. Press the Settings... button under the "Performance" section of the window. The button is located under the Advanced tab of the System Properties window.
+
+6 - Select the settings you want.
+Select the settings you want. It will be under the Visual Effects tab, which the window opens to by default.
+- 
+- For complete control, customize which animations (and visual effects) you want to see. Click the radio button next to "Custom:". Right below, uncheck the boxes of effects that you would like to disable, and put a check in the boxes of the ones you would like to enable.
+- Animation options are the sentences that start with the following words: animate, fade, and slide.
+- 
+- To enable all animations (and visual effects), click the radio button next to "Adjust for best appearance". Note that this might reduce performance on low-power devices.
+- For the best performance, click the radio button next to "Adjust for best performance". All animations (and visual effects) will be turned off.
+- To balance performance and appearance, click the radio button night to "Let Windows choose what's best for my computer". Windows will automatically enable or disable specific settings to balance good performance and appearance.
+
+7 - Save your changes and exit.
+Save your changes and exit. Click or tap the gray OK button at the bottom of the Performance Options window to save your new settings and close it. The new settings you chose will apply immediately.
+

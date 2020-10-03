@@ -1,0 +1,27 @@
+T1	Hardware-Other 141 149	computer
+T2	Hardware-Devices 207 215	keyboard
+A1	isPowered T2 t->f
+T3	Hardware-Other 341 348	key cap
+T4	Hardware-Other 382 386	keys
+T5	Hardware-Other 548 559	screwdriver
+T6	Hardware-Other 603 606	key
+T7	Hardware-Other 665 672	key cap
+T8	Hardware-Devices 744 752	keyboard
+T9	Hardware-Other 978 989	screwdriver
+T10	Hardware-Other 1062 1069	key cap
+T11	Hardware-Other 1155 1158	key
+T12	Hardware-Other 1209 1215	laptop
+T13	Hardware-Devices 1323 1331	keyboard
+T14	Hardware-Other 1549 1558	metal bar
+T15	Hardware-Other 1568 1572	keys
+T16	Hardware-Other 1612 1621	space bar
+T17	Hardware-Other 1626 1638	⇧ Shift keys
+T18	Hardware-Other 1744 1749	hooks
+T19	Hardware-Devices 1757 1765	keyboard
+T20	Hardware-Other 1943 1950	key cap
+T21	Hardware-Other 2142 2148	laptop
+T22	Hardware-Other 2177 2185	computer
+T23	Hardware-Other 2372 2383	screwdriver
+T24	Hardware-Other 2478 2482	keys
+T25	Hardware-Other 2525 2532	key cap
+T26	Hardware-Other 2548 2557	metal bar

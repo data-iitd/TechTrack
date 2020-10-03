@@ -1,0 +1,14 @@
+T1	Hardware-Devices 161 164	Mac
+A1	isConnected T1 start-T
+T2	Software-Other 297 346	https://www.videolan.org/vlc/download-macosx.html
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-Other 933 943	VLC Player
+A4	isOpened T3 f->t
+T4	Software-Other 1120 1129	File menu
+A5	isOpened T4 f->t
+T5	Software-Other 1230 1237	Network
+T6	Software-Other 1477 1481	Open
+A7	isOpened T6 f->t
+T7	Software-Other 1276 1287	Open Source
+A6	isOpened T7 f->t

@@ -1,0 +1,29 @@
+Turn Off BitLocker
+https://www.wikihow.com/Turn-Off-BitLocker
+
+0 - Using Windows Settings
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. This will open the Start menu.
+- ;
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped Settings icon in the lower-left corner of the Start menu. The Settings window will pop up.
+
+3 - Click System.
+Click System. This monitor-shaped icon is near the top of the Settings window.
+
+4 - Click the Device encryption tab.
+Click the Device encryption tab. It's on the left side of the System window.[1]
+- X
+- Research source
+- 
+- If you don't see a Device encryption tab here, try clicking About in the bottom-left corner and then look for a "Device encryption" heading. If that doesn't work, your computer doesn't have BitLocker.
+
+5 - Click Turn off.
+Click Turn off. This button is in the middle of the page.
+
+6 - Click Turn off when prompted.
+Click Turn off when prompted. Doing so causes BitLocker to begin decrypting your drive. This can take several hours to complete.
+- You may be asked to enter your Administrator password or PIN before BitLocker will begin turning off.
+

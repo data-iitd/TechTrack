@@ -1,0 +1,21 @@
+T1	Software-OS-Related 152 162	Interfaces
+T2	Software-OS-Related 193 209	wireless adapter
+T3	Software-OS-Related 299 307	Wireless
+A1	isOpened T3 f->t
+T4	Software-OS-Related 367 371	Scan
+T5	Software-OS-Related 427 434	network
+T6	Software-OS-Related 482 484	OK
+T7	Software-OS-Related 636 646	Encryption
+T8	Software-OS-Related 664 667	WEP
+T9	Software-OS-Related 673 681	WPA_skip
+T10	Software-OS-Related 722 735	Provide a key
+T11	Software-OS-Related 868 884	Use This Profile
+A2	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T5	
+T12	Software-OS-Related 928 937	Auto DHCP
+T13	Software-OS-Related 1182 1186	Save
+A3	isSettingsChanged T13 true
+R2	SubPart Arg1:T13 Arg2:T3	
+T14	Software-Other 1363 1369	Google
+A4	isOpened T14 f->t
+T15	Software-Other 1375 1382	browser

@@ -1,0 +1,32 @@
+T1	Software-OS-Related 167 175	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 209 213	Menu
+T3	Software-OS-Related 509 522	Linux Distros
+T4	Software-OS-Related 593 595	ls
+T5	Software-OS-Related 601 609	Terminal
+T6	Software-OS-Related 698 712	home directory
+A2	isOpened T6 f->t
+T7	Software-OS-Related 892 901	directory
+T8	Software-OS-Related 932 941	text file
+T9	Software-OS-Related 794 803	text file
+T10	Software-OS-Related 1059 1066	Desktop
+T11	Software-OS-Related 1263 1267	ls /
+T12	Software-OS-Related 1300 1314	root directory
+T13	Software-OS-Related 1346 1350	sudo
+T14	Software-OS-Related 1368 1379	text editor
+T15	Software-OS-Related 1413 1425	cd directory
+T16	Software-OS-Related 1463 1472	directory
+R3	SubPart Arg1:T15 Arg2:T16	
+T17	Software-OS-Related 1517 1524	command
+T18	Software-OS-Related 1901 1905	Misc
+T19	Software-OS-Related 1946 1963	cd Documents/Misc
+T20	Software-OS-Related 1809 1810	/
+T21	Software-OS-Related 1730 1739	text file
+T22	Software-OS-Related 2026 2033	command
+T23	Software-OS-Related 2070 2079	directory
+T24	Software-Other 2150 2170	text editing program
+T25	Software-OS-Related 2231 2240	text file
+T26	Software-Other 2272 2275	Vim
+T27	Software-Other 2279 2284	Emacs
+T28	Software-OS-Related 2345 2354	directory
+A4	isSettingsChanged T15 true

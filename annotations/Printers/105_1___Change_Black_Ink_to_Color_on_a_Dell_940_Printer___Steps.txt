@@ -1,0 +1,20 @@
+Change Black Ink to Color on a Dell 940 Printer
+https://www.wikihow.com/Change-Black-Ink-to-Color-on-a-Dell-940-Printer
+
+0 - Steps
+
+1 - The first step is to get into your computers' control panel, go to the start button on the desk top and click it, then go to settings and click on it and control panel and click on that.
+The first step is to get into your computers' control panel, go to the start button on the desk top and click it, then go to settings and click on it and control panel and click on that.WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');
+
+2 - Once you're in control panel you'll see the printers and faxes icon you'll click on that.
+Once you're in control panel you'll see the printers and faxes icon you'll click on that.
+
+3 - You'll then right-click on the icon for your printer (i.e the printers' name and model) and go to properties selection which will bring you to the property sheet.
+You'll then right-click on the icon for your printer (i.e the printers' name and model) and go to properties selection which will bring you to the property sheet.
+
+4 - After that you see (depending on the OS) a number of tabs for that particular printer, usually it will be labeled setup, color management, etc, you'll select this.
+After that you see (depending on the OS) a number of tabs for that particular printer, usually it will be labeled setup, color management, etc, you'll select this.
+
+5 - The final steps are to select the color radio button instead of the black button and to finally close out all the windows of control panel to get back to the desktop.Now your printer will be printing in color.
+The final steps are to select the color radio button instead of the black button and to finally close out all the windows of control panel to get back to the desktop.Now your printer will be printing in color.
+

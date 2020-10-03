@@ -1,0 +1,37 @@
+T1	Hardware-Other 203 228	Windows installation disc
+T2	Software-OS-Related 233 239	reboot
+A1	isOpened T2 f->t
+T3	Software-OS-Related 306 310	BIOS
+A2	isOpened T3 f->t
+T4	Software-OS-Related 517 530	BIOS settings
+A3	isSettingsChanged T4 true
+T5	Software-OS-Related 535 542	restart
+A4	isOpened T5 f->t
+T6	Hardware-Other 566 571	Enter
+T7	Software-OS-Related 919 960	partition that has Linux operating system
+A6	isSettingsChanged T7 true
+T8	Software-OS-Related 1353 1360	Unknown
+A7	isSettingsChanged T8 true
+T9	Software-OS-Related 1387 1392	Enter
+A8	isOpened T9 f->t
+T10	Software-OS-Related 1822 1852	primary partition, labeled ‘C’
+A9	isSettingsChanged T10 true
+T11	Software-OS-Related 1883 1888	Enter
+A10	isOpened T11 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+T12	Software-OS-Related 634 665	accept the terms and conditions
+A5	isSettingsChanged T12 true
+T13	Software-OS-Related 580 596	boot from the CD
+A11	isOpened T13 f->t
+R2	SubPart Arg1:T12 Arg2:T13	
+R3	SubPart Arg1:T7 Arg2:T13	
+R4	SubPart Arg1:T8 Arg2:T13	
+R5	SubPart Arg1:T10 Arg2:T13	
+T14	Software-OS-Related 1995 2032	create a secure administrator account
+A12	isSettingsChanged T14 true
+T15	Software-OS-Related 2070 2091	enter the product key
+A13	isSettingsChanged T15 true
+R6	SubPart Arg1:T14 Arg2:T13	
+R7	SubPart Arg1:T15 Arg2:T13	
+T16	Software-OS-Related 2174 2180	reboot
+A14	isOpened T16 f->t

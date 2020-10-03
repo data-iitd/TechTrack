@@ -1,0 +1,27 @@
+T1	Software-Other 2014 2023	USB drive
+T2	Software-OS-Related 544 553	Fast Boot
+T3	Software-OS-Related 625 632	Windows
+T4	Software-OS-Related 647 654	Windows
+T5	Software-OS-Related 655 660	Start
+A1	isOpened T5 f->t
+T6	Hardware-Devices 245 255	hard drive
+T7	Software-OS-Related 799 832	Choose what the power button does
+T8	Software-OS-Related 845 891	Change settings that are currently unavailable
+T9	Software-OS-Related 1001 1005	Save
+A2	isSettingsChanged T9 true
+T10	Software-OS-Related 703 716	Control Panel
+A3	isOpened T10 f->t
+T11	Software-OS-Related 1419 1424	Start
+A4	isOpened T11 f->t
+T12	Software-OS-Related 1444 1449	Power
+A5	isOpened T12 f->t
+T13	Software-OS-Related 1482 1489	Restart
+T14	Software-OS-Related 1500 1512	Troubleshoot
+A6	isOpened T14 f->t
+T15	Software-OS-Related 1523 1539	Advanced Options
+A7	isOpened T15 f->t
+T16	Software-OS-Related 1541 1563	UEFI Firmware Settings
+T17	Software-OS-Related 1573 1580	Restart
+A8	isOpened T17 start-F
+T18	Software-OS-Related 1666 1675	BIOS menu
+T19	Hardware-Other 2258 2267	USB drive

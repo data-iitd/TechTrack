@@ -1,0 +1,53 @@
+Clean Install macOS Sierra
+https://www.wikihow.com/Clean-Install-macOS-Sierra
+
+0 - Installing Sierra from the Boot Drive
+
+1 - Click the Apple menu and select “Restart.
+Click the Apple menu and select “Restart.” A pop-up will appear asking you to confirm that you want to restart the computer.
+
+2 - Click “Restart” on the confirmation window.
+Click “Restart” on the confirmation window. The computer will power down and restart. Don’t walk away from the computer, though! You’ll need to take action as soon as it turns back on.
+
+3 - Hold down ⌥ Option when you hear the reboot tone.
+Hold down ⌥ Option when you hear the reboot tone. After a few seconds you’ll see a list of bootable drives connected to your Mac.[4]
+- X
+- Research source
+
+4 - Click “Install macOS Sierra” and press ⏎ Return.
+Click “Install macOS Sierra” and press ⏎ Return. The macOS Utilities window will appear, containing a list of options.[5]
+- X
+- Research source
+
+5 - Select “Disk Utility” and click Continue.
+Select “Disk Utility” and click Continue. Now you’ll see a screen that looks similar to Finder. The left side contains a list of drives connected to the computer.
+
+6 - Click your startup drive on the left pane.
+Click your startup drive on the left pane. You may have to expand the Internal section to find it. When you click the drive, its properties will appear in the center pane.
+
+7 - Click the “Erase” button.
+Click the “Erase” button. It’s located on the top toolbar. After clicking, you’ll see a pop-up asking you to set some parameters.
+- Remember, erasing the hard drive is permanent. Make sure you have backups.
+
+8 - Select “Mac OS Extended (Journaled)” in the Formatting dropdown.
+Select “Mac OS Extended (Journaled)” in the Formatting dropdown. This is the only parameter you’ll need to change.[6]
+- X
+- Research source
+
+9 - Click Erase to confirm.
+Click Erase to confirm. The utility will now format your hard drive, which may take several minutes. You’ll see a confirmation message once the drive has finished formatting.[7]
+- X
+- Research source
+
+10 - Close the Disk Utility window.
+Close the Disk Utility window. This will bring you back to the macOS Utilities screen.
+
+11 - Select “Install macOS” and click Continue.
+Select “Install macOS” and click Continue. Now you’ll be prompted to select a drive on which you’ll install Sierra.
+
+12 - Click your freshly-erased hard drive.
+Click your freshly-erased hard drive. For most people, it’s the only drive in the computer (and in most cases, it’s called “Macintosh HD”).
+
+13 - Click the “Install” icon.
+Click the “Install” icon. The icon is at the bottom of the window. Once clicked, macOS Sierra will install on your Mac. When the process is complete, your computer will boot to your brand new macOS Sierra desktop.
+

@@ -1,0 +1,21 @@
+T1	Software-OS-Related 151 154	Run
+A1	isOpened T1 f->t
+T3	Software-OS-Related 486 494	Advanced
+A3	isOpened T3 f->t
+T2	Software-OS-Related 443 460	System Properties
+A2	isOpened T2 f->t
+T4	Software-OS-Related 569 589	Evironment Variables
+A4	isOpened T4 f->t
+T5	Software-OS-Related 695 711	System variables
+A5	isOpened T5 f->t
+T6	Software-OS-Related 856 860	Edit
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1125 1139	Variable value
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1728 1731	New
+A8	isOpened T8 f->t
+T9	Software-OS-Related 2051 2054	New
+A9	isOpened T9 f->t
+T10	Software-OS-Related 2419 2421	OK
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T5	

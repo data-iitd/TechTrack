@@ -1,0 +1,43 @@
+T1	Software-OS-Related 165 172	Windows
+T2	Software-Other 730 747	https:__rufus.ie_
+A1	isOpened T2 f->t
+T3	Software-Other 753 764	web browser
+A2	isOpened T3 f->t
+A3	isInstalled T3 start-T
+T4	Software-Other 848 853	Rufus
+T5	Hardware-Other 1011 1013	CD
+T6	Hardware-Other 1017 1020	DVD
+T7	Software-Other 1050 1055	Rufus
+A4	isInstalled T7 f->t
+T8	Software-Other 1190 1199	Rufus 3.8
+T9	Software-Other 1212 1225	Rufus-3.8.exe
+T10	Software-Other 1295 1311	disk image (ISO)
+T11	Software-OS-Related 1320 1336	operating system
+T12	Hardware-Other 1479 1483	disk
+T13	Hardware-Other 1485 1488	DVD
+T14	Hardware-Other 1492 1501	USB drive
+T15	Hardware-Other 1919 1940	blank USB flash drive
+T16	Software-Other 2237 2242	Rufus
+A5	isOpened T16 f->t
+T17	Hardware-Other 2198 2206	USB port
+T18	Hardware-Other 2215 2223	computer
+T19	Software-OS-Related 2337 2355	Windows Start menu
+T20	Hardware-Other 2390 2405	USB flash drive
+T21	Software-Other 2468 2475	Devices
+T22	Software-Other 2446 2460	drop-down menu
+A6	isOpened T22 f->t
+T23	Software-Other 2522 2528	Select
+T24	Software-Other 2579 2593	Boot Selection
+T25	Software-Other 2598 2603	Rufus
+T26	Software-Other 2619 2631	file browser
+A7	isOpened T26 f->t
+T27	Software-Other 2658 2666	ISO file
+T28	Software-Other 2731 2756	operating system ISO file
+A8	isOpened T28 f->t
+T29	Software-Other 2857 2862	Rufus
+T30	Software-Other 2878 2883	Start
+A9	isSettingsChanged T30 true
+R1	SubPart Arg1:T30 Arg2:T29	
+T31	Software-Other 2922 2927	Rufus
+T32	Hardware-Other 2999 3008	USB drive
+T33	Software-Other 2983 2991	ISO file

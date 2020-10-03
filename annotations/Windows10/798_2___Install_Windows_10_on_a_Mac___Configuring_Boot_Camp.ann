@@ -1,0 +1,21 @@
+T1	Software-OS-Related 126 132	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 214 216	Go
+A2	isOpened T2 f->t
+T3	Software-OS-Related 354 363	Utilities
+A3	isOpened T3 f->t
+T4	Software-OS-Related 434 453	Boot Camp Assistant
+A4	isOpened T4 f->t
+T5	Software-OS-Related 543 551	Continue
+A5	isOpened T5 f->t
+T6	Software-OS-Related 650 656	Choose
+A6	isOpened T6 f->t
+T7	Software-Other 746 760	Windows 10 ISO
+T8	Software-OS-Related 931 935	Open
+A7	isOpened T8 f->t
+T9	Hardware-Other 1079 1094	USB flash drive
+T10	Software-Other 1370 1380	Windows 10
+T11	Software-OS-Related 1995 2002	Install
+A8	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T4	
+T12	Software-OS-Related 2195 2197	OK

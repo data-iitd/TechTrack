@@ -1,0 +1,38 @@
+Print Pictures in Black and White
+https://www.wikihow.com/Print-Pictures-in-Black-and-White
+
+0 - Converting the Image to Black and White
+
+1 - Understand why you'd want to convert first.
+Understand why you'd want to convert first. While you can open any picture and quickly print it in black and white, you may want to use image editing software to convert it first. This will result in much better detail and shading, and will lead to more artistic photos. It may take a while to convert your first image, but once you get used to the process it will go much quicker.
+- If you don't want to convert the image and just want to print it in black and white, click here.
+- ;
+
+2 - Gather your tools.
+Gather your tools. In order to do this, you'll need an advanced image editing program. The most popular option is Photoshop, which costs an arm and a leg. You can also use GIMP, which is a free, open-source image editing program. It offers many of the same features as Photoshop, but is known for being a little less user-friendly.
+- You can download GIMP from gimp.org/downloads/
+
+3 - Open the image you want to convert in your image editor.
+Open the image you want to convert in your image editor. You can use your image editing program to open image files in almost any format.
+
+4 - Open the Channel Mixer.
+Open the Channel Mixer. This tool allows you to adjust the color levels of your image.
+- Photoshop - Click "Layer" → "New Adjustment Layer" → "Channel Mixer". This will create a new channel mixer layer and open the Channel Mixer tool.
+- GIMP - Click "Colors" → "Components" → "Channel Mixer". This will open the Channel Mixer tool.
+
+5 - Select the black and white preset.
+Select the black and white preset. Both Photoshop and GIMP include a preset for converting the image to black and white.[1]
+- X
+- Research source
+- 
+- 
+- Photoshop - Click the "Presets" menu in the Channel Mixer and select "Black & White".
+- GIMP - Check the "Monochrome" box in the Channel Mixer.
+
+6 - Use the sliders to adjust the levels.
+Use the sliders to adjust the levels. Once you've applied the black and white preset, you can use the sliders to make fine adjustments to the shading. There are three sliders: Red, Blue, and Green. Adjusting these sliders changes the strength of the original colors. For example, putting the Red slider at 100 and the other two at 0 will make the red parts of the image much lighter and the blue and green parts much darker.
+- Keep the total value of all three sliders at exactly 100 to preserve the exposure of the original image. Values above this will result in a much brighter image, and values below will be darker.
+
+7 - Save your adjusted image.
+Save your adjusted image. Once you are satisfied with the changes, save your new image. Make sure that you give it a new name so that you don't overwrite the original image.
+

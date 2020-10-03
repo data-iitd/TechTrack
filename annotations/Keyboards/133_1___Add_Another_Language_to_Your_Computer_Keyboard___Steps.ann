@@ -1,0 +1,25 @@
+T1	Software-OS-Related 145 150	start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 191 204	control panel
+A2	isOpened T2 f->t
+T3	Software-OS-Related 227 261	date, time, language, and regional
+A3	isOpened T3 f->t
+T4	Software-OS-Related 391 400	languages
+A4	isOpened T4 f->t
+T5	Software-OS-Related 466 497	text services and input methods
+T6	Software-OS-Related 519 526	details
+A6	isOpened T6 f->t
+T7	Software-OS-Related 814 817	Add
+T8	Hardware-Other 935 937	PC
+T9	Software-OS-Related 974 980	remove
+T10	Software-OS-Related 1169 1171	OK
+T11	Software-OS-Related 1186 1190	okay
+T12	Software-OS-Related 1417 1419	EN
+T13	Software-OS-Related 1446 1448	EN
+T14	Software-OS-Related 729 737	language
+R1	SubPart Arg1:T7 Arg2:T14	
+T15	Software-OS-Related 1022 1048	language keyboard settings
+T16	Software-OS-Related 1285 1293	keyboard
+A7	isSettingsChanged T7 true
+A5	isSettingsChanged T11 true
+R2	SubPart Arg1:T11 Arg2:T15	

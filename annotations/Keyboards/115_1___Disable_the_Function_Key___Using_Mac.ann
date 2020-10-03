@@ -1,0 +1,18 @@
+T3	Hardware-Devices 243 249	screen
+A2	isPowered T3 start-T
+T4	Software-OS-Related 287 305	System Preferences
+A4	isOpened T4 f->t
+T5	Software-OS-Related 427 435	Keyboard
+A5	isOpened T5 f->t
+T6	Software-OS-Related 439 457	System Preferences
+T8	Software-OS-Related 891 937	Use F1, F2, etc keys as standard function keys
+T9	Hardware-Other 1043 1045	Fn
+T10	Hardware-Devices 1058 1066	keyboard
+A9	isPowered T10 start-T
+T1	Software-OS-Related 109 125	Mac's Apple menu
+A1	isOpened T1 f->t
+A3	isSettingsChanged T8 true
+T2	Software-OS-Related 1194 1207	Keyboard menu
+T7	Software-OS-Related 649 661	Keyboard tab
+A6	isOpened T7 f->t
+R1	SubPart Arg1:T8 Arg2:T7	

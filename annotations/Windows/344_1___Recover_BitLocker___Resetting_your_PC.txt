@@ -1,0 +1,27 @@
+Recover BitLocker
+https://www.wikihow.com/Recover-BitLocker
+
+0 - Resetting your PC
+
+1 - Find the recovery key first
+Find the recovery key first.  Note that resetting your PC will erase all data on your computer.
+
+2 - Click "Skip this drive" or "Recovery options" or similar until the Windows RE tools screen appears.
+Click "Skip this drive" or "Recovery options" or similar until the Windows RE tools screen appears.
+
+3 - Click on "Troubleshoot".
+Click on "Troubleshoot".
+
+4 - Click on "Restore factory settings" or "Recover from the cloud".
+Click on "Restore factory settings" or "Recover from the cloud".  Unfortunately, you are unable to reinstall Windows by clicking on "Reset my PC" or "Refresh my PC".  Instead, you will get locked into BitLocker Recovery.
+- Alternatively, reinstall Windows using an installation disc.
+
+5 - Confirm that you want to do it.
+Confirm that you want to do it.
+
+6 - Wait for re-installation.
+Wait for re-installation. Your PC will reinstall Windows through the following process:
+- First, your PC will download the Windows installer (if there is not one built into Windows RE).
+- Then, your PC will run the Windows installer.  The installer will erase your drive and install Windows onto your PC.
+- Finally, you will be prompted to complete initial setup, which should not be so hard, especially because Cortana guides you through setup on the Windows 10 Fall Creators Update (version 1709) and later.
+

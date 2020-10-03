@@ -1,0 +1,4 @@
+T1	Hardware-Devices 144 160	CD_DVD-ROM drive
+T2	Software-OS-Related 1228 1238	CD_DVD-ROM
+T3	Software-OS-Related 1624 1629	Eject
+A1	isSettingsChanged T3 true

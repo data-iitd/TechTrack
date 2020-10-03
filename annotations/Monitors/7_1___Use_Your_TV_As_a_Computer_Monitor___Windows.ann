@@ -1,0 +1,83 @@
+T1	Hardware-Other 134 142	computer
+T2	Hardware-Devices 162 164	TV
+A1	isPowered T2 start-F
+T3	Hardware-Other 288 299	video cable
+T4	Hardware-Other 342 356	multiple ports
+T5	Hardware-Other 361 371	connectors
+T6	Hardware-Other 373 389	Video connectors
+T7	Hardware-Other 414 417	USB
+T8	Hardware-Other 419 426	speaker
+T9	Hardware-Other 432 452	Ethernet connections
+T10	Hardware-Other 481 494	graphics card
+T11	Hardware-Other 648 652	HDMI
+T12	Hardware-Other 699 709	HD devices
+T13	Hardware-Other 857 860	DVI
+T14	Hardware-Other 902 906	pins
+T15	Hardware-Other 1019 1022	VGA
+T16	Hardware-Devices 1364 1366	TV
+T17	Hardware-Other 1386 1394	computer
+T18	Hardware-Other 1593 1604	input ports
+T19	Hardware-Devices 1690 1695	HDTVs
+T20	Hardware-Other 1713 1723	HDMI ports
+T21	Hardware-Other 1900 1905	cable
+T22	Hardware-Other 1910 1913	DVI
+T23	Hardware-Other 2009 2012	VGA
+T24	Hardware-Devices 1981 2005	standard definition TVs.
+T25	Hardware-Devices 2131 2133	TV
+T26	Hardware-Other 2236 2244	computer
+T27	Hardware-Other 2277 2288	video cable
+T28	Hardware-Other 2642 2646	HDMI
+T29	Hardware-Other 2781 2790	connector
+T30	Hardware-Other 2804 2812	computer
+T31	Hardware-Devices 2822 2824	TV
+T32	Hardware-Other 2841 2848	adapter
+T33	Hardware-Other 2877 2890	DVI connector
+T34	Hardware-Other 2961 2980	DVI-to-HDMI adapter
+T35	Hardware-Other 3095 3103	computer
+T36	Hardware-Devices 3112 3114	TV
+T37	Hardware-Other 3126 3131	cable
+A6	isConnected T36 f->t
+T38	Hardware-Other 3207 3211	HDMI
+T39	Hardware-Other 3317 3328	audio cable
+T40	Hardware-Other 3374 3380	laptop
+T41	Hardware-Other 3388 3405	3.5mm audio cable
+T42	Hardware-Other 3428 3442	Headphone jack
+T43	Hardware-Other 3464 3471	desktop
+T44	Hardware-Other 3481 3497	green audio jack
+T45	Hardware-Other 3626 3651	stereo (RCA) 2-plug cable
+T46	Hardware-Other 3681 3684	VGA
+T47	Hardware-Other 3727 3730	DVI
+T48	Hardware-Devices 3818 3820	TV
+T49	Hardware-Other 3934 3939	cable
+T50	Hardware-Other 3963 3970	remotes
+T51	Hardware-Other 3980 3985	Input
+T52	Hardware-Other 3991 3997	Source
+T53	Hardware-Other 3999 4005	button
+T54	Hardware-Other 4056 4064	computer
+T55	Hardware-Devices 4072 4074	TV
+T56	Hardware-Other 4236 4243	laptops
+T57	Hardware-Other 4252 4259	Display
+T58	Hardware-Other 4336 4338	Fn
+T59	Software-OS-Related 4424 4433	Windows 7
+T60	Hardware-Other 4463 4478	Windows key + P
+A11	isOpened T59 start-T
+T61	Software-OS-Related 4491 4503	Project menu
+A12	isOpened T61 f->t
+T62	Software-OS-Related 4674 4681	desktop
+A13	isOpened T62 start-T
+T63	Software-OS-Related 4694 4711	Screen Resolution
+A14	isOpened T63 f->t
+T64	Software-OS-Related 4717 4727	Properties
+A15	isOpened T64 f->t
+T65	Software-OS-Related 4735 4752	Multiple displays
+A16	isOpened T65 f->t
+T66	Hardware-Devices 4996 5014	computer's monitor
+T67	Hardware-Devices 5024 5026	TV
+A18	isPowered T67 start-T
+T68	Software-OS-Related 5126 5136	Resolution
+A19	isSettingsChanged T68 true
+T69	Software-OS-Related 5153 5181	Screen Resolution/Properties
+R1	SubPart Arg1:T68 Arg2:T69	
+T70	Software-OS-Related 5285 5296	Recommended
+A2	isSettingsChanged T70 true
+R2	SubPart Arg1:T70 Arg2:T69	

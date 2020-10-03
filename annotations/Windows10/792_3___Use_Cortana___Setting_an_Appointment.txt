@@ -1,0 +1,26 @@
+Use Cortana
+https://www.wikihow.com/Use-Cortana
+
+0 - Setting an Appointment
+
+1 - Open Cortana.
+Open Cortana. Say "Hey, Cortana" or click the microphone icon in the lower-right side of the Cortana window.
+
+2 - Wait for the Cortana chime.
+Wait for the Cortana chime. Once you hear the Cortana start-up sound, you can begin giving instructions.
+
+3 - Say "Schedule [appointment] for [day]" to Cortana.
+Say "Schedule [appointment] for [day]" to Cortana. For example, if you wanted to schedule a haircut for Friday, you would say "Schedule a haircut for Friday" here.
+
+4 - Indicate a time.
+Indicate a time. When Cortana asks at which time the appointment will take place, tell her the time as well as "AM" or "PM".
+- For example, if the appointment is at 3:00 in the afternoon, you would say "three o'clock PM" here.
+
+5 - Review the appointment.
+Review the appointment. Cortana will bring up a list of aspects for your appointment, including its name, date, and time.
+- You can change aspects of the appointment by clicking or typing in as needed.
+
+6 - Confirm the appointment.
+Confirm the appointment. Say "Yes" when prompted. Cortana will place the appointment in your calendar.
+- You can also click Add at the bottom of the window.
+

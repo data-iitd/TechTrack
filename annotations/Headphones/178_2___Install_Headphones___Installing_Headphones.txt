@@ -1,0 +1,76 @@
+Install Headphones
+https://www.wikihow.com/Install-Headphones
+
+0 - Installing Headphones
+
+1 - Download and install Python (Windows only).
+Download and install Python (Windows only). You will need the Python if you are using Headphones in Windows. OS X and Linux come with Python pre-installed.
+- You can download Python for free at python.org/downloads/windows/. Download Python 2.7.9; Python 3 is not compatible with Headphones.
+
+2 - Download and start the Headphones application.
+Download and start the Headphones application. The download process varies depending on your operating system:
+- 
+- Windows - Visit github.com/rembo10/headphones/zipball/master to download the ZIP file containing Headphones. Double-click the ZIP file to open it. Drag the folder inside onto your C: drive. This is where Headphones will be installed to. You can rename the folder to "Headphones" if you want. Double-click Headphones.py to start Headphones in your web browser.
+- Mac - Open the Terminal (found in the Utilities folder) and type xcode-select --install to install Git. Type mkdir /Applications/Headphones to create the installation folder, and then type cd /Applications/Headphones to open it. Finally, type git clone https://github.com/rembo10/headphones.git Headphones to install Headphones. Using this method ensures that you always have the latest version. Type python Headphones.py to start Headphones in your web browser.
+- Linux (Ubuntu/Debian) - Open your Terminal and type sudo apt-get install git-core to install Git. Type cd /opt and then git clone https://github.com/rembo10/headphones.git to download Headphones. Type cd headphones and then python Headphones.py to start Headphones in your web browser.
+
+3 - Allow headphones to start automatically with your computer (optional).
+Allow headphones to start automatically with your computer (optional). This requires a little extra work, but is recommended if you want a truly automated system.
+- 
+- Windows - Right-click on Headphones.py and select "Create shortcut". Press ⊞ Win+R to open the Run box and type shell:startup to open your Startup folder. Drag your newly-created shortcut into this folder.
+- Mac - Open Automator, which can be found in your Applications folder. Select "Application" as the document type. Enable the Library using the button in the upper-left corner of the window. Select "Utilities" from the Library, and then "Run Apple". Paste the following code into the right frame, replacing adminpassword with the Mac's administrator password: do shell script "python /Applications/Headphones/Headphones.py" password "adminpassword" with administrator privileges. Click "Run" to test it, and Headphones should open. Close Automator and save the new document as "Headphones". Ensure that "Where" is set to "Applications", and that "File Format" is "Application". Open "System Preferences", select "Accounts", select your account, and then drag the new Headphones Automator file into the "Login Items" field.
+
+4 - Open the Settings page in the Headphones interface.
+Open the Settings page in the Headphones interface. After launching Headphones, you'll be greeted with a web interface. Click the Gear button in the upper-right corner to open the Settings page. Make sure to click the "Save Changes" button at the bottom of each tab when you're finished making changes.
+
+5 - Click the "Download Settings" page.
+Click the "Download Settings" page. This will let you configure Headphone's connection to either SABnzbd (Usenet) or your torrent client.
+- Usenet - Select the "SABnzbd" option at the top of the Usenet section. Enter your SABnzbd information, including the API that you copied to a text document earlier. The "SABnzbd Host" field should read "0.0.0.0:8080" unless you made changes during SABnzbd configuration. For the "SABnzbd Category", enter "music". Enter your Usenet provider's Retention into the last field.
+- Torrents - Select "Black Hole" option at the top of the Torrents section. Enter your Black Hole directory (the directory that uTorrent is loading torrents from). Select your minimum seeder option (10 is usually a good number), and decide if you want to continue seeding files after the download has been completed.
+
+6 - Click the "Search providers" tab.
+Click the "Search providers" tab. This is where you will set the search engines that Headphones will use to find new content for you.
+- NZBs (Usenet) - Select the search protocols you want to use. Newznab is the most popular, as some of the others have been closed down. You can also use the Headphones Indexer. After selecting Newznab, you'll need to enter your provider's web address and API Key. Note that not all search providers are free. You can find the API key on your search provider's site in the API/RSS section.
+- Torrents - Select the torrent trackers you want to add. When selecting one, make sure that the tracker still works, as they tend to get shut down and switch domains often.
+
+7 - Click the "Quality and Post Processing" tab.
+Click the "Quality and Post Processing" tab. The settings on this tab determine the quality of files that Headphones searches for, as well as what it does with the files once they've been downloaded. A lot of the settings here are going to be up to your personal preferences.
+- The "Quality" side lets you dictate whether Headphones should look for lossless files or not. Lossless files are larger but don't suffer from any audio compression. You can also specify a preferred bitrate.
+- The Post-Processing side allows you to automatically sort and rename completed files, download album art, fix metadata information for the songs, and delete extra files like playlists.
+
+8 - Add your library.
+Add your library. Once you've adjusted your settings, you can import your library into Headphones. This will allow Headphones to find new music by artists in your collection.
+- Click the "Manage" tab on the main Headphones screen.
+- Select the "Scan Music Library" option.
+- Check the "Automatically scan library" and "auto-add new artists" box.
+- Click "Save changes and scan", and Headphones will begin scanning your computer for existing music tracks.
+
+9 - Manage your wishlist.
+Manage your wishlist. After scanning your library, albums will be added to the "Wanted" tab based on what is currently on your computer. You can uncheck albums that you don't want to download, or mark them as already downloaded if you got them from another source.
+
+10 - Sit back and wait.
+Sit back and wait. Now that Headphones and your download service are configured, all you have to do is wait for your library to fill. Any time that new content from the artists in your library becomes available through your search sources, Headphones will automatically find it and set it to download.[3]
+- X
+- Research source
+
+11 - I'm getting a ERROR Request raised HTTP error with status code 401 (local request error) message.
+I'm getting a ERROR Request raised HTTP error with status code 401 (local request error) message. This is typically caused by problems with your search provider settings.
+- Make sure that you've entered the server information correctly in the "Search providers" tab of Settings.
+- Ensure that you have provided the correct credentials to use that search provider.
+- This error is sometimes not actually an error, and is simply an indicator that no results were found for the search. This is most common with KickAssTorrents.
+
+12 - My downloader isn't picking up downloads from Headphones.
+My downloader isn't picking up downloads from Headphones. This is usually cause by authentication issues, or a problem with your Black Hole directory.
+- Ensure that all of your APIs have been entered correctly, both in Headphones and SABnzbd.
+- Ensure that the Black Hole directory in Headphones matches the Watch directory in your torrent client.
+- Ensure that your downloader is checking for new downloads regularly.
+
+13 - I'm getting a Database is locked message.
+I'm getting a Database is locked message. The most common cause for this error is a large library that is getting scanned too often. When your database is being scanned, it locks the database, which isn't a problem for smaller or medium-sized libraries. If you have tons of tracks however, the scan could be taking too long and causing other functions to lock.[4]
+- X
+- Research source
+- 
+- 
+- Open the "Manage" tab from the Headphones main page.
+- Increase the scanning interval until you no longer receive the error message.
+

@@ -1,0 +1,26 @@
+Begin Using a Mac
+https://www.wikihow.com/Begin-Using-a-Mac
+
+0 - Using Applications
+
+1 - Set up your mail.
+Set up your mail. For mail, simply start by launching the Mail app. The app will take you to a location to enter your Apple ID, or enter a POP account. It will ask for an ingoing and outgoing server name, which can be found online by your provider. Continue and set up a password and port, and the mail will now work! Email providers, like Gmail, Yahoo,  Mobile Me and AOL, don't need you to manually type in the ingoing and outgoing servers. Your Mac knows the servers already.
+
+2 - Set up FaceTime
+Spotlight. Possibly, one of the most useful features in a Mac. just press the Cmd + space bar to use it, or click on the magnifying glass in the upper right corner of the screen, and you can search for anything on the computer within seconds, unlike the search feature on a PC which can take minutes.
+
+2 - Set up FaceTime
+Spotlight. Possibly, one of the most useful features in a Mac. just press the Cmd + space bar to use it, or click on the magnifying glass in the upper right corner of the screen, and you can search for anything on the computer within seconds, unlike the search feature on a PC which can take minutes.
+
+4 - Set up trackpad and mouse.
+Set up trackpad and mouse. One of the unique features on a Mac is the trackpad gestures on laptops. To set it up, launch System Preferences (Apple Menu>System Preferences) and go to Trackpad and Mouse section. there, you can chose from several options that enable track pad use. You can also set up a mouse here also.
+
+5 - Crossover
+Crossover and Parallels Are you a gamer? Unfortunately, a Mac does not support many PC games, but there are a few solutions. Crossover allows any PC game to be played on a Mac. It does cost money, but if you are cheap, you can continue to download it for the 30 day free trial. Parallels is another solution that allows any Windows app to be run on a Mac.
+
+6 - iPhoto and iMovie.
+iPhoto and iMovie. These apps are very useful for your media needs, and can be used easily. Just upload any photos on a camera to iPhoto, and you can edit and sort them at ease. With iMovie, you can also edit with built in features and record with the built-in microphone/camera.
+
+7 - Get a Office and iWork
+Get a Office and iWork For documents, spreadsheets, and slideshows, you can use Apple iWork, OpenOffice or Microsoft Office. They are very similar office suites and provide the basic needs of a word-processor, spreadsheet and presentation software. Apple's iWork and OpenOffice are free, but Microsoft Office can open Microsoft Office files (which are much more common than iWork or NeoOffice files) without any trouble (opening one in iWork or OpenOffice might result in some formatting problems).
+

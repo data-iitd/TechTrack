@@ -1,0 +1,48 @@
+Install Linux
+https://www.wikihow.com/Install-Linux
+
+0 - Installing Any Linux Distribution
+
+1 - Download the Linux distribution of your choice.
+Download the Linux distribution of your choice. If you're new to Linux, consider trying a lightweight and easy to use distribution, such as Ubuntu or Linux Mint. Linux distributions (known as "distros") are typically available for free to download in ISO format. You can find the ISO for the distribution of your choice at the distribution’s website. This format needs to be burned to a CD or USB stick before you can use it to install Linux. This will create a Live CD or Live USB.
+- A Live CD or Live USB is a disk that you can boot into, and often contains a preview version of the operating system that can be run directly from the CD or USB stick.
+- Install an image burning program, or use your system’s built-in burning tool if you are using Windows 7, 8, or Mac OS X. Pen Drive Linux and UNetBootin are two popular tools for burning ISO files to USB sticks.
+- ;
+
+2 - Boot into the Live CD or Live USB.
+Boot into the Live CD or Live USB. Most computers are set to boot into the hard drive first, which means you will need to change some settings to boot from your newly-burned CD or USB. Start by rebooting the computer.
+- Once the computer reboots, press the key used to enter the boot menu. The key for your system will be displayed on the same screen as the manufacturer’s logo. Typical keys include F12, F2, or Del.
+- For Windows 8 users, hold the Shift key and click restart. This will load the Advanced Startup Options, where you can boot from CD.
+- For Windows 10 users, go to advanced boot in settings and click "Restart Now."
+- If your computer doesn't give you direct access to the boot menu from the manufacturer's splash screen, it's most likely hidden in the BIOS menu. You can access the BIOS menu in the same way that you would get to the boot menu. At the manufacturer splash screen, the key should be listed in one of the bottom corners.
+- 
+- Once you're in the boot menu, select your live CD or USB. Once you’ve changed the settings, save and exit the BIOS setup or boot menu. Your computer will continue with the boot process.
+
+3 - Try out the Linux distribution before installing.
+Try out the Linux distribution before installing. Most Live CDs and USBs can launch a "live environment", giving you the ability to test it out before making the switch. You won’t be able to create files, but you can navigate around the interface and decide if it’s right for you.
+
+4 - Start the installation process.
+Start the installation process. If you’re trying out the distro, you can launch the installation from the application on the desktop. If you decided not to try out the distribution, you can start the installation from the boot menu.
+- You will be asked to configure some basic options, such as language, keyboard layout, and timezone.
+
+5 - Create a username and password.
+Create a username and password. You will need to create login information to install Linux. A password will be required to log into your account and perform administrative tasks.
+
+6 - Set up the partition.
+Set up the partition. Linux needs to be installed on a separate partition from any other operating systems on your computer if you intend dual booting Linux with another OS. A partition is a portion of the hard drive that is formatted specifically for that operating system. You can skip this step if you don't plan on dual booting. 
+- Distros such as Ubuntu will set a recommended partition automatically. You can then adjust this manually yourself. Most Linux installations require at least 20 GB, so be sure to set aside enough room for both the Linux operating system and any other programs you may install and files you may create.
+- If the installation process does not give you automatic partitions, make sure that the partition you create is formatted as Ext4. If the copy of Linux you are installing is the only operating system on the computer, you will most likely have to manually set your partition size.
+
+7 - Boot into Linux.
+Boot into Linux. Once the installation is finished, your computer will reboot. You will see a new screen when your computer boots up called “GNU GRUB”. This is a boot loader that handles Linux installations. Pick your new Linux distro from the list. This screen may not show up if you only have one operating system on your computer. If this screen isn't being presented to you automatically, then you can get it back by hitting shift right after the manufacturer splash screen.
+- If you install multiple distros on your computer, they will all be listed here.
+
+8 - Check your hardware.
+Check your hardware. Most hardware should work out of the box with your Linux distro, though you may need to download some additional drivers to get everything working.
+- Some hardware requires proprietary drivers to work correctly in Linux. This is most common with graphics cards. There is typically an open source driver that will work, but to get the most out of your graphics cards you will need to download the proprietary drivers from the manufacturer.
+- In Ubuntu, you can download proprietary drivers through the System Settings menu. Select the Additional Drivers option, and then select the graphics driver from the list. Other distros have specific methods for obtaining extra drivers.
+- You can find other drivers from this list as well, such as Wi-Fi drivers.
+
+9 - Start using Linux.
+Start using Linux. Once your installation is complete and you’ve verified that your hardware is working, you’re ready to start using Linux. Most distros come with several popular programs installed, and you can download many more from their respective file repositories.
+

@@ -1,0 +1,181 @@
+Install IBM Java on Ubuntu Linux
+https://www.wikihow.com/Install-IBM-Java-on-Ubuntu-Linux
+
+0 - Steps
+
+1 - This document assumes that you might have another vendor version of Java installed on your Ubuntu Linux system, such as OpenJDK or Oracle Java which is common when you use Ubuntu Linux.
+
+
+1 - This document assumes that you might have another vendor version of Java installed on your Ubuntu Linux system, such as OpenJDK or Oracle Java which is common when you use Ubuntu Linux.
+
+
+3 - First, of all we will remove and disable other vendor versions of Java so there is no system conflict with multiple versions of Java.Let's assume you have OpenJDK installed on your system if so we are going to remove OpenJDK by issuing the following commands
+
+
+
+3 - First, of all we will remove and disable other vendor versions of Java so there is no system conflict with multiple versions of Java.Let's assume you have OpenJDK installed on your system if so we are going to remove OpenJDK by issuing the following commands
+
+
+
+5 - To remove OpenJDK from your system issue the following command:
+
+
+5 - To remove OpenJDK from your system issue the following command:
+
+
+7 - Second, we will disable Oracle Java if it is installed by editing the _etc_profile system PATH.In this exercise we will comment out the references to Oracle Java in the  system wide _etc_profile file
+
+Second, we will disable Oracle Java if it is installed by editing the /etc/profile system PATH.In this exercise we will comment out the references to Oracle Java in the  system wide /etc/profile file
+
+8 - I also recommend deleting the Oracle Java folders if you have them so they do not cause system conflicts.For example if you have Oracle Java installed in _usr_local_java follow these instructions to remove Oracle Java
+
+I also recommend deleting the Oracle Java folders if you have them so they do not cause system conflicts.For example if you have Oracle Java installed in /usr/local/java follow these instructions to remove Oracle Java
+- 
+- Type/Copy/Paste: cd /usr/local/java
+- Type/Copy/Paste: rm -rf jdk1.7.0
+- Type/Copy/Paste: rm -rf jre1.7.0
+
+9 - If Oracle Java is installed on your system you will comment out the references to Oracle Java in the _etc_profile, .profile or .bashrc file.
+If Oracle Java is installed on your system you will comment out the references to Oracle Java in the /etc/profile, .profile or .bashrc file.
+
+10 - For example, as root, use a text editor such as nano or gedit to edit your _etc_profile.
+For example, as root, use a text editor such as nano or gedit to edit your /etc/profile. If you have references to the Oracle Java JDK/JRE in those files comment them out using the ## symbol.
+- 
+- Type/Copy/Paste: sudo -s nano /etc/profile
+- or
+- Type/Copy/Paste: sudo -s gedit /etc/profile
+
+11 - You may have a file that looks like this:
+You may have a file that looks like this:
+- JAVA_HOME=/usr/local/java/jdk1.7.0
+- PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+- JRE_HOME=/usr/local/java/jre1.7.0
+- PATH=$PATH:$HOME/bin:$JRE_HOME/bin
+- export JAVA_HOME
+- export JRE_HOME
+- export PATH
+
+12 - You want to make sure you comment out the references to Oracle Java, using the ## symbol in your _etc_profile, .profile and .bashrc file so change the file to look like this:
+You want to make sure you comment out the references to Oracle Java, using the ## symbol in your /etc/profile, .profile and .bashrc file so change the file to look like this:
+- ##JAVA_HOME=/usr/local/java/jdk1.7.0
+- ##PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+- ##JRE_HOME=/usr/local/java/jre1.7.0
+- ##PATH=$PATH:$HOME/bin:$JRE_HOME/bin
+- ##export JAVA_HOME
+- ##export JRE_HOME
+- ##export PATH
+
+13 - Save the _etc_profile file and exit
+
+Save the /etc/profile file and exit
+
+14 - Download
+Download the IBM Java 7.0 SDK and JRE
+- Note in order to download IBM SDK/JRE you will have to be a registered user, following the provided links from the IBM website in order to register.
+
+15 - Download the version of IBM Java SDK and JRE for your system architecture, in this case we are using the IBM Java SDK_JRE for 64 bit Ubuntu Linux, which is:
+Download the version of IBM Java SDK and JRE for your system architecture, in this case we are using the IBM Java SDK/JRE for 64 bit Ubuntu Linux, which is:
+- ibm-java-sdk-7.0-0.0-linux-x86_64.tgz
+- ibm-java-jre-7.0-0.0-linux-x86_64.tgz
+
+16 - Once the IBM Java SDK and JRE has been downloaded you will proceed to set up a development environment for the IBM JDK and JRE.
+Once the IBM Java SDK and JRE has been downloaded you will proceed to set up a development environment for the IBM JDK and JRE. Create a directory to hold the IBM Java SDK and JRE then we will move the downloaded IBM Java SDK and JRE, to /opt/ibm/java directory. Then we will unpack the Java SDK and JRE.
+
+17 - Create a directory to hold the IBM Java SDK and JRE using the following command:
+Create a directory to hold the IBM Java SDK and JRE using the following command:
+- 
+- Type/Copy/Paste: sudo -s mkdir -p /opt/ibm/java
+- Type/Copy/Paste: chmod -R 755 /opt/ibm/java
+- This makes the directory available to all users on the system
+
+18 - Change into the download directory and copy the IBM Java SDK and JRE to _opt_ibm_java_ directory
+
+Change into the download directory and copy the IBM Java SDK and JRE to /opt/ibm/java/ directory
+- 
+- Type/Copy/Paste: cd /home/"your_user_name"/Downloads
+- Type/Copy/Paste: sudo -s cp -r ibm-java-sdk-7.0-0.0-linux-x86_64.tgz /opt/ibm/java
+- Type/Copy/Paste: sudo -s cp -r ibm-java-jre-7.0-0.0-linux-x86_64.tgz /opt/ibm/java
+
+19 - Next change into your IBM Java directory
+
+Next change into your IBM Java directory
+- Type/Copy/Paste: cd /opt/ibm/java
+
+20 - Make the compressed IBM Java binaries executable for all users on the system by running the following commands:
+Make the compressed IBM Java binaries executable for all users on the system by running the following commands:
+- 
+- Type/Copy/Paste: sudo -s chmod a+x ibm-java-sdk-7.0-0.0-linux-x86_64.tgz
+- Type/Copy/Paste: sudo -s chmod a+x ibm-java-jre-7.0-0.0-linux-x86_64.tgz
+
+21 - Unpack the IBM Java SDK by issuing the following commands
+
+Unpack the IBM Java SDK by issuing the following commands
+- 
+- Type/Copy/Paste: sudo -s tar xvzf  ibm-java-sdk-7.0-0.0-linux-x86_64.tgz
+- Type/Copy/Paste: sudo -s tar xvzf  ibm-java-jre-7.0-0.0-linux-x86_64.tgz
+
+22 - The IBM SDK and the JRE will unpack into a single directory called:
+The IBM SDK and the JRE will unpack into a single directory called:
+- /opt/ibm/java/ibm-java-x86_64-70
+
+23 - Also, you need to edit the system wide PATH _etc_profile in order to create a system wide PATH for the IBM Java SDK_JRE on Ubuntu Linux.
+Also, you need to edit the system wide PATH /etc/profile in order to create a system wide PATH for the IBM Java SDK/JRE on Ubuntu Linux. Use a text editor such as nano or gedit and edit the file.
+- 
+- Type/Copy/Paste: sudo -s nano /etc/profile
+- or
+- Type/Copy/Paste: sudo -s gedit /etc/profile
+
+24 - Enter the following information below:
+Enter the following information below:
+- export PATH=${PATH}:/opt/ibm/java/ibm-java-x86_64-70/bin:/opt/ibm/java/ibm-java-x86_64-70/jre/bin:$PATH
+
+25 - Save the file and exit
+
+Save the file and exit
+
+26 - Next, inform the system that IBM Java SDK JRE is available
+
+Next, inform the system that IBM Java SDK JRE is available
+- 
+- Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/java" "java" "/opt/ibm/java/ibm-java-x86_64-70/jre/bin/java" 1
+- Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/java" "javaws" "/opt/ibm/java/ibm-java-x86_64-70/jre/bin/javaws" 1
+- Type/Copy/Paste: sudo update-alternatives --install "/usr/bin/javac" "javac" "/opt/ibm/java/ibm-java-x86_64-70/bin/javac" 1
+
+27 - Inform your Ubuntu Linux system, that IBM Java SDK_JRE must be the default Java.
+Inform your Ubuntu Linux system, that IBM Java SDK/JRE must be the default Java. Also inform the system that IBM Java javac compiler must be the default compiler.
+- 
+- Type/Copy/Paste: sudo update-alternatives --set java /opt/ibm/java/ibm-java-x86_64-70/bin/java
+- Type/Copy/Paste: sudo update-alternatives --set javaws /opt/ibm/java/ibm-java-x86_64-70/bin/javaws
+- Type/Copy/Paste: sudo update-alternatives --set javac /opt/ibm/java/ibm-java-x86_64-70/bin/javac
+
+28 - Also reload your system wide PATH _etc_profile by typing the following command:
+Also reload your system wide PATH /etc/profile by typing the following command:
+
+29 - Type_Copy_Paste:
+Type/Copy/Paste: . /etc/profile
+- Note your system wide PATH /etc/profile file will reload after reboot of your Ubuntu Linux system
+
+30 - Test to see if IBM Java installed correctly by using the command:
+Test to see if IBM Java installed correctly by using the command:
+- Type/Copy/Paste: java -version
+
+31 - You should receive a message that displays:
+You should receive a message that displays:
+- java version "1.7.0-ea"
+- Java(TM) SE Runtime Environment (build pxa6470-20100531_04)IBM J9 VM(build2.6, JRE 1.7.0 IBM J9 2.6 Linux amd64-64 jvmxa6470-20100522_58582 (JIT enabled, AOT enabled)
+- J9VM - R26_head_20100521_1457_B58494 JIT  dev_20100507_15747
+- GC   - R26_head_20100521_1652_B58499
+- J9CL - 20100522_58582)
+- JCL - 20100514_02 based on Sun 7b76
+
+32 - Test that your IBM Java compiler works by using the command:
+Test that your IBM Java compiler works by using the command:
+- 
+- Type/Copy/Paste: javac -version
+- You should receive a message that displays:
+- javac 1.7.0-internal
+- You can also switch between different installed vendors of Java, such as OpenJDK, Oracle and IBM by using the command:
+- Type/Copy/Paste: sudo update-alternatives --config java
+- Make sure you select the Java directory which references IBM Java and press enter.
+- Reboot your Ubuntu Linux system so that your system can reload the /etc/profile system wide PATH file. Then you should be all set to run and develop IBM Java programs on your Ubuntu Linux system.
+

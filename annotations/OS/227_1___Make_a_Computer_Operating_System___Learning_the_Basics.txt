@@ -1,0 +1,44 @@
+Make a Computer Operating System
+https://www.wikihow.com/Make-a-Computer-Operating-System
+
+0 - Learning the Basics
+
+1 - Take some basic Computer Science courses.
+Take some basic Computer Science courses. Unlike developing for the web, creating an operating system requires a strong understanding of algorithms, data structures, computer hardware, and resource management.[1]
+- X
+- Research source
+- 
+-  People get degrees in this stuff, so don't expect to write an entire operating system after reading an online tutorial! Harvard's Intro to Computer Science course is available online through EDX at no cost.
+- ;
+
+2 - Learn a high-level programming language like C.
+Learn a high-level programming language like C. Once you've got a solid foundational understanding of computer science, the next step is to master C and/or C++. Like learning about computer science, mastering a language is not optional—you won't be able to code an operating system if you can't write solid applications. 
+- If you're brand new to C, check out Dartmouth's C Programming: Getting Started course, which is free through EDX. Once you complete that course, you can take the next course in the series: C Programming: Language Foundations. Then, move on to subsequent courses like Modular Programming and Memory Management and Pointers and Memory Management.
+
+3 - Learn an assembly language.
+Learn an assembly language. Assembly languages are low-level languages designed to communicate with different processors. Since assembly is different for different processor types (e.g., x86 assembly Language for Intel, AMD, VIA, and other processors), you'll need to learn the version for the type of processor you're coding for. 
+- 
+- This open-source book, if read in its entirety, can give you a solid enough understanding for building an operating system.[2]
+- X
+- Research source
+- 
+- 
+- The Art of Assembly Language is a highly-recommended book about assembly available both on and offline.
+- You should also do a lot of research on the type of processor(s) on which your operating system should run. The manuals for processor architecture can easily be found using a Google search ("Intel Manuals," "ARM manuals," etc.).
+
+4 - Complete an operating system tutorial.
+Complete an operating system tutorial. OS tutorials will walk you through the process of creating a basic operating system. This gets you used to the process and helps you figure out if there are any pieces you're missing. Once you've completed a tutorial or two, you'll be well on your way to creating your very own operating system.
+- 
+- Bare Bones is a tutorial that helps you write your first simple 32-bit kernel. After completing the tutorial, the next step is to use Meaty Skeleton to structure your own operating system.
+- Linux from Scratch is an online book that walks you through creating your own Linux operating system.
+- Operating systems from 0 to 1 is a free book about creating various operating systems from start to finish.
+
+5 - Figure out your operating system goals.
+Figure out your operating system goals. What do you want your operating system to do? How should it look? Do you really need to write an entire operating system or are you just looking to create a certain look for your desktop? These are all things to consider before beginning to code.[3]
+- X
+- Research source
+- 
+- 
+- Consider developing with a team of other programmers. Having a team of developers working on the project will cut the development time significantly.
+- Add your project goals, plans, and questions to your public repository so it's easy for others to help you.
+

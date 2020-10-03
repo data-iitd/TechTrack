@@ -1,0 +1,12 @@
+T1	Software-OS-Related 134 143	ISO files
+T2	Software-OS-Related 151 165	home directory
+T3	Software-OS-Related 324 332	Terminal
+A1	isOpened T3 f->t
+T4	Software-OS-Related 765 781	change directory
+T5	Software-OS-Related 839 857	cd /home/username/
+T6	Software-OS-Related 988 999	home folder
+T7	Software-OS-Related 1102 1114	ISO creation
+T8	Software-OS-Related 1167 1229	mkisofs -o destination-filename.iso /home/username/folder-name
+T9	Software-OS-Related 1881 1889	ISO file
+T10	Software-OS-Related 1970 1984	home directory
+A3	isSettingsChanged T5 true

@@ -1,0 +1,38 @@
+Check Your Windows Product Key
+https://www.wikihow.com/Check-Your-Windows-Product-Key
+
+0 - 
+
+1 - Attach the crashed computer's hard drive to a working computer.
+Attach the crashed computer's hard drive to a working computer. You'll need to remove the hard drive from the crashed computer, plug it into an adapter, and then plug the adapter into a working Windows computer.
+- Depending on the hard drive, you'll either need a SATA adapter or an IDE adapter. An IDE drive has a several-inch-wide connector at the end of its connection ribbon, while a SATA drive has a more narrow ribbon and connector.
+
+2 - Open ProduKey.
+Open ProduKey. You should have downloaded ProduKey already, but if not, do so before continuing.
+
+3 - Click File.
+Click File. This is in the top-left corner of the ProduKey window. A drop-down menu will appear.
+
+4 - Click Select Source.
+Click Select Source. It's at the top of the drop-down menu. Clicking this prompts a new window to open.
+
+5 - Check the "Load the product keys from external Windows directory" box.
+Check the "Load the product keys from external Windows directory" box. This option is near the top of the window.
+
+6 - Click Browse….
+Click Browse…. It's to the right of the text field.
+
+7 - Select the attached hard drive.
+Select the attached hard drive. Find the attached hard drive in the list, then click it.
+- You may first have to expand the "Computer" option at the top of the list.
+
+8 - Click OK.
+Click OK. It's at the bottom of the Browse window. Doing so closes the window.
+
+9 - Click OK.
+Click OK. This option is at the bottom of the Source window.
+
+10 - Note your product key.
+Note your product key. You should see a 25-character product key to the right of the hard drive's name; this is the crashed computer's product key.
+- You can take a screenshot of the key or write it down to make sure you have access to it later.
+

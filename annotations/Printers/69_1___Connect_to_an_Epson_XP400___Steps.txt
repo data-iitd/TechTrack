@@ -1,0 +1,27 @@
+Connect to an Epson XP%E2%80%93400
+https://www.wikihow.com/Connect-to-an-Epson-XP%E2%80%93400
+
+0 - Steps
+
+1 - Verify that your Epson XP-400 is not physically connected to your computer via USB cable.
+Verify that your Epson XP-400 is not physically connected to your computer via USB cable.
+- ;
+
+2 - Insert the Epson XP-400 software disc that came with your printer into your Windows or Apple computer.
+Insert the Epson XP-400 software disc that came with your printer into your Windows or Apple computer.
+- If your computer does not have a disc drive, or you do not have the Epson software disc, go to the Epson website at http://www.epson.com/cgi-bin/Store/support/supDetail.jsp?oid=201986&infoType=Downloads to download and install the Epson XP-400 drivers.
+
+3 - Select the option to run the “setup.
+Select the option to run the “setup.exe” file. The Epson XP-400 software installation wizard will display on-screen.
+
+4 - Click on “Install” or “Continue,” and follow the on-screen prompts to install the printer software to your computer.
+Click on “Install” or “Continue,” and follow the on-screen prompts to install the printer software to your computer.
+
+5 - Select your preferred connection option.
+Select your preferred connection option. You can connect to your Epson XP-400 using either a wireless or direct USB connection.
+
+6 - Follow the on-screen prompts to complete printer installation based on the connection method you chose.
+Follow the on-screen prompts to complete printer installation based on the connection method you chose. For example, enter the network name (SSID) and network password if you chose the wireless option, or attach a USB cable to your printer and computer if you chose the direct USB connection method.[1]
+- X
+- Research source
+

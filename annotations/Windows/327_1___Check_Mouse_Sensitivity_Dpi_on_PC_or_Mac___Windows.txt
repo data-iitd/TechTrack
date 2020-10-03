@@ -1,0 +1,26 @@
+Check Mouse Sensitivity (Dpi) on PC or Mac
+https://www.wikihow.com/Check-Mouse-Sensitivity-(Dpi)-on-PC-or-Mac
+
+0 - Windows
+
+1 - Open the Windows search bar.
+Open the Windows search bar. If you don’t see the search bar next to the  menu, press ⊞ Win+S to open it now.
+- ;
+
+2 - Type mouse into the search bar.
+Type mouse into the search bar. A list of matching results will appear.
+
+3 - Click Mouse & touchpad settings.
+Click Mouse & touchpad settings. It’s the option with the outline of a gear on its left side.
+
+4 - Scroll down and click Additional mouse options.
+Scroll down and click Additional mouse options. It’s at the bottom of the right panel.
+
+5 - Click the Pointer Options tab.
+Click the Pointer Options tab. It’s at the top of the window.
+
+6 - Find the pointer sensitivity under the “Motion” header.
+Find the pointer sensitivity under the “Motion” header. In addition to the slider, there’s also an option called “Enhance Pointer Precision.” If this box is checked, Windows will sense when you’re trying to be more precise with your mouse movements (such as when you’re moving the cursor very slowly) and boost sensitivity automatically.[1]
+- X
+- Research source
+

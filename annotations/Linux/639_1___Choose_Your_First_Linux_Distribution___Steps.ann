@@ -1,0 +1,27 @@
+T1	Software-OS-Related 159 178	Internet connection
+T2	Hardware-Other 296 304	computer
+T3	Software-OS-Related 375 380	Linux
+T4	Software-OS-Related 397 403	Ubuntu
+T5	Software-OS-Related 407 415	OpenSuSE
+T6	Software-OS-Related 541 553	Linux kernel
+T7	Software-OS-Related 617 626	GNU tools
+T8	Software-OS-Related 1196 1201	Linux
+T9	Software-OS-Related 1251 1261	LiveDistro
+T10	Software-OS-Related 1282 1286	boot
+T11	Software-OS-Related 1547 1558	Puppy Linux
+T12	Hardware-Other 1586 1590	disc
+T13	Hardware-Other 1594 1597	USB
+T14	Hardware-Other 1613 1623	hard drive
+T15	Software-Other 1908 1931	distribution's homepage
+T16	Software-Other 1936 1941	forum
+T17	Software-Other 2137 2143	md5sum
+T18	Software-Other 2399 2403	Burn
+T19	Software-Other 2408 2425	image file (.iso)
+T20	Software-Other 2427 2438	as an image
+A1	isSettingsChanged T20 true
+R1	SubPart Arg1:T20 Arg2:T19	
+T21	Software-Other 2491 2504	InfraRecorder
+T22	Software-Other 2508 2512	Nero
+T23	Software-OS-Related 2679 2698	bootable LiveDistro
+T24	Software-OS-Related 2835 2841	reboot
+T25	Hardware-Other 2812 2816	disc

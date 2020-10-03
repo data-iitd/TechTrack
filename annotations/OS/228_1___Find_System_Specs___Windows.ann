@@ -1,0 +1,37 @@
+T1	Software-OS-Related 92 95	Run
+A1	isOpened T1 f->t
+T2	Software-OS-Related 211 220	.msinfo32
+T3	Software-OS-Related 259 277	System Information
+A2	isOpened T3 f->t
+T4	Software-OS-Related 537 551	System Summary
+T5	Software-OS-Related 787 794	OS Name
+T6	Software-OS-Related 851 876	System Manufacturer/Model
+T7	Hardware-Other 912 920	computer
+T8	Software-OS-Related 939 950	System Type
+T9	Software-OS-Related 1046 1055	Processor
+T10	Hardware-Other 1270 1273	CPU
+T11	Hardware-Other 1412 1415	RAM
+T12	Software-OS-Related 1643 1653	Components
+A3	isOpened T12 f->t
+T13	Hardware-Other 1757 1770	graphics card
+T14	Hardware-Other 1775 1786	hard drives
+T15	Software-OS-Related 1803 1810	Display
+T16	Hardware-Other 1851 1864	graphics card
+A4	isOpened T15 f->t
+T17	Hardware-Other 1898 1909	motherboard
+T18	Hardware-Other 2135 2146	Adapter RAM
+T19	Software-OS-Related 2386 2393	Storage
+A5	isOpened T19 f->t
+T20	Software-OS-Related 2415 2421	Drives
+A6	isOpened T20 f->t
+T21	Software-OS-Related 2605 2610	Disks
+A7	isOpened T21 f->t
+T22	Software-OS-Related 3002 3022	Software Environment
+T23	Software-Device-Drivers 3054 3061	drivers
+T25	Software-OS-Related 3131 3146	troubleshooting
+T24	Hardware-Other 3243 3251	computer
+T26	Software-OS-Related 3359 3363	File
+A8	isOpened T26 f->t
+T27	Software-OS-Related 3385 3391	Export
+A9	isSettingsChanged T27 true
+R1	SubPart Arg1:T27 Arg2:T26	

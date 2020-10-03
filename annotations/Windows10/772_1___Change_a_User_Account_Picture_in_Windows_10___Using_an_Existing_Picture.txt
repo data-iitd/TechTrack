@@ -1,0 +1,20 @@
+Change a User Account Picture in Windows 10
+https://www.wikihow.com/Change-a-User-Account-Picture-in-Windows-10
+
+0 - Using an Existing Picture
+
+1 - Click "Browse for one".
+Click "Browse for one". This option is located under the "Create your picture" header towards the bottom. It has a folder icon next to it.
+
+2 - Browse for a saved picture.
+Browse for a saved picture. The File Open dialog will open. Use the left pane to navigate around your computer.
+
+3 - Select a picture.
+Select a picture.
+
+4 - Submit it for use as an account picture.
+Submit it for use as an account picture. Click the Choose picture at the bottom-right of the dialog.
+
+5 - Finished.
+Finished.
+

@@ -1,0 +1,8 @@
+T1	Software-OS-Related 190 195	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 229 237	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 270 278	Ethernet
+A3	isOpened T3 f->t
+T4	Software-OS-Related 315 341	Network and Sharing Center
+T5	Software-OS-Related 699 710	Connections

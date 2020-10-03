@@ -1,0 +1,21 @@
+T1	Hardware-Other 137 144	keycaps
+T2	Hardware-Other 191 204	keycap puller
+T3	Hardware-Other 239 243	wire
+T4	Hardware-Devices 290 298	keyboard
+T5	Hardware-Other 660 667	keycaps
+T6	Hardware-Other 746 750	soap
+T7	Hardware-Other 777 782	towel
+T8	Hardware-Other 839 842	key
+T9	Hardware-Other 938 942	bowl
+T10	Hardware-Other 1000 1007	tablets
+T11	Hardware-Devices 1142 1150	keyboard
+T12	Hardware-Devices 1261 1269	keyboard
+T13	Hardware-Other 1559 1564	trash
+T14	Hardware-Other 1691 1701	canned air
+T15	Hardware-Devices 1797 1805	keyboard
+T16	Hardware-Other 1813 1825	pipe cleaner
+T17	Hardware-Other 1830 1837	alcohol
+T18	Hardware-Devices 2343 2351	keyboard
+T19	Hardware-Other 2434 2441	keycaps
+T20	Hardware-Other 2702 2709	diagram
+A1	isPowered T4 start-F

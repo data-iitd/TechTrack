@@ -1,0 +1,40 @@
+Take a Screenshot in Microsoft Windows
+https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows
+
+0 - Screenshotting Several Windows in a Row
+
+1 - Understand how this works.
+Understand how this works. A program called "PSR.exe" that's built into virtually all Windows computers allows you to record up to 100 different screens and save them all to one document. This program also makes a note of where you click and which actions you perform on each screen.;
+
+2 - Go to the initial page that you want to screenshot.
+Go to the initial page that you want to screenshot. This should be the first page in the sequence of pages that you want to screenshot.;
+
+3 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.;
+
+4 - Open the Run program.
+Open the Run program. Type in run and then click Run at the top of the Start window.;
+
+5 - Enter the command to open PSR.
+Enter the command to open PSR. Type psr.exe into the Run window.;
+
+6 - Click OK.
+Click OK. It's at the bottom of the Run window. This will bring up a small, rectangular toolbar at the top of the screen.;
+
+7 - Click Start Record.
+Click Start Record. This is at the top of the toolbar. Doing so turns on the Steps Recorder, which will record the next 25 screen changes.;
+- If you want to record more than 25 changes, first click  on the right side of the toolbar, click Settings..., and change the "Number of recent screen captures to store" number.
+
+8 - Click through your different screens.
+Click through your different screens. Each time your screen changes (other than simply moving your mouse), the Steps Recorder will take a screenshot.;
+
+9 - Click Stop Record.
+Click Stop Record. It's at the top of the toolbar. Doing so stops recording screen changes and opens the results window.;
+
+10 - Review your screenshots.
+Review your screenshots. Scroll down through the window to make sure that you captured all of the screenshots that you wanted to save.;
+
+11 - Save your screenshots to a ZIP folder.
+Save your screenshots to a ZIP folder. Click Save at the top of the window, enter a file name and select a save location, and click Save.
+- This will save the screenshots in one HTML file. You can open the HTML file in your computer's Internet Explorer browser in order to view its contents.
+

@@ -1,0 +1,58 @@
+Install Python on Windows
+https://www.wikihow.com/Install-Python-on-Windows
+
+0 - Installing Python 2
+
+1 - Go to https:__www.python.org_downloads in a web browser.
+Go to https://www.python.org/downloads in a web browser. Use this method if you want to write code in Python 2 instead of (or in addition to) Python 3 in Windows.
+
+2 - Scroll down and click a Python 2 version.
+Scroll down and click a Python 2 version. The versions appear under the "Looking for a specific release?" header.
+- If you don't know which version of Python 2 to install, just click the first version beginning with "2." In the list. This ensures you're using the most recently-updated version.
+
+3 - Scroll down and select an installer.
+Scroll down and select an installer. This downloads the installer to your computer, though you may have to click Save to start the download.
+- If you have a 64-bit computer, select Windows x86-64 MSI installer.
+- If you're using a 32-bit computer, select Windows x86 MSI installer.
+
+4 - Run the Python installer.
+Run the Python installer. You can do this by double-clicking python-(version).msi in your Downloads folder.
+
+5 - Select an option for installing.
+Select an option for installing. If you want other users of this PC to be able to use Python, select Install for all users. If not, select Install for just me.
+
+6 - Click Next.
+Click Next. It's at the bottom-right corner.
+
+7 - Select an install directory (optional).
+Select an install directory (optional). The default directory is fine for most people, but you can change it if you wish by selecting a different folder from the menu.
+
+8 - Click Next.
+Click Next.
+
+9 - Scroll down to the bottom of the "Customize Python" features list.
+Scroll down to the bottom of the "Customize Python" features list. You should see an option called "Add python.exe to Path." It probably has an "X" on its corresponding button.
+- If you don't see this option, see this method after installing Python.
+
+10 - Click the X button next to "Add python.exe to Path.
+Click the X button next to "Add python.exe to Path." A menu will expand.
+
+11 - Click Will be installed on local hard drive.
+Click Will be installed on local hard drive. This ensures that you can run Python commands from anywhere without having to type the full path to Python.
+
+12 - Click Next.
+Click Next. A security pop-up will appear on most systems at this point.
+
+13 - Click Yes to continue.
+Click Yes to continue. This installs Python 2 on the PC. In a few moments, you'll see a window that says "Complete the Python Installer."
+
+14 - Click Finish on the installer.
+Click Finish on the installer. Python is now installed.
+
+15 - Test your Python installation.
+Test your Python installation. Here's how to make sure the path is set up properly:
+- Type cmd into the Windows search bar and press ↵ Enter.
+- Type python and press ↵ Enter. You should see >>> at the beginning of the current line. This means Python is working and the path is set correctly.
+- If you see an error that says "python is not recognized as an internal or external command," see the "Adding the Python Path to Windows" method.
+- Type exit() to return to the command prompt.
+

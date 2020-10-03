@@ -1,0 +1,52 @@
+Open RAR Files on Mac OS X
+https://www.wikihow.com/Open-RAR-Files-on-Mac-OS-X
+
+0 - Using StuffIt Expander
+
+1 - Open the StuffIt Expander website.
+Open the StuffIt Expander website. Go to http://my.smithmicro.com/stuffit-expander-mac.html in your computer's web browser. StuffIt Expander is a free application that supports a wide variety of archive files, including RAR.
+
+2 - Download StuffIt Expander.
+Download StuffIt Expander. To do so:
+- Enter your email address in the "Email*" field.
+- Click FREE Download
+- Click Download
+
+3 - Install StuffIt Expander.
+Install StuffIt Expander. Double-click the downloaded DMG file, click Agree when prompted, and wait for it to install.
+- You may be prompted to verify the software before you can install it.
+
+4 - Open StuffIt Expander.
+Open StuffIt Expander. Double-click the StuffIt Expander app icon to do so.
+- If prompted, click Open.
+
+5 - Click Move to Applications Folder.
+Click Move to Applications Folder. This will finish installing and opening StuffIt Expander; you should now be able to use this app to open RAR files.
+
+6 - Click StuffIt Expander.
+Click StuffIt Expander. This menu item is in the top-left corner of the screen. A drop-down menu will appear.
+
+7 - Click Preferences….
+Click Preferences…. You'll find it in the StuffIt Expander drop-down menu.
+
+8 - Click the Advanced tab.
+Click the Advanced tab. It's at the top of the Preferences window.
+
+9 - Scroll down and click RAR.
+Scroll down and click RAR. You'll find this option in the middle of the window.
+
+10 - Click Assign to StuffIt Expander.
+Click Assign to StuffIt Expander. It's on the right side of the window. Doing so allows StuffIt Expander to open RAR files on your Mac.
+
+11 - Close the window.
+Close the window. Click the red button in the upper-left corner of the window to do so.
+
+12 - Double-click a RAR file.
+Double-click a RAR file. Doing so should launch StuffIt Expander, which will begin extracting the RAR's files.
+- If StuffIt Expander does not launch, right-click or control-click the RAR file, then select Open With and click StuffIt Expander.
+- If you are trying to extract a multi-part RAR file, start with the ".rar" or ".part001.rar" file. All the parts should be in the same folder.
+- If the RAR file is password-protected, you'll be prompted to enter the password before the files can be extracted.
+
+13 - Open the extracted file(s).
+Open the extracted file(s). By default, StuffIt Expander will extract the files into the same folder in which the RAR file was located. For example, if the RAR file was in the Desktop folder, you'll find the extracted files there.
+

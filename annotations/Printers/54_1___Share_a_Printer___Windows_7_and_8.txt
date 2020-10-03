@@ -1,0 +1,33 @@
+Share a Printer
+https://www.wikihow.com/Share-a-Printer
+
+0 - Windows 7 and 8
+
+1 - Install the printer drivers.
+Install the printer drivers. In order to share a printer, it must be installed on the computer it is connected to. Most modern printers connect via USB and will install automatically when they are connected. 
+- ;
+
+2 - Open the Control Panel.
+Open the Control Panel. You can access the Control Panel in Windows 7 by clicking the Start menu and selecting Control Panel. In Windows 8, press ⊞ Win+X and select Control Panel from the menu.
+
+3 - Open the Network and Sharing Center.
+Open the Network and Sharing Center. If your Control Panel is in Category view, click "Network and Internet", and then select "Network and Sharing Center".Click on "Network and Internet". If your Control Panel is in Icon view, click the "Network and Sharing Center" icon.
+
+4 - Click the "Change advanced sharing settings" link.
+Click the "Change advanced sharing settings" link. This is located in the left navigation pane of the Network and Sharing Center.
+
+5 - Expand the profile you need to change.
+Expand the profile you need to change. You will see three different options when you open the "Advanced share settings": Private, Guest or Public, and All Networks. If you are on a Home network, expand the Private section.
+
+6 - Enable "File and printer sharing".
+Enable "File and printer sharing". Toggle this on to allow other devices to connect to your printer. This will also allow you to share files and folders with other computers on the network.
+
+7 - Toggle the password protection.
+Toggle the password protection. You can decide whether or not you want to enable password protection for your printer. If it is turned on, only users who have a user account on your computer will be able to access the printer.
+- You can toggle password protection in the "All Networks" section.
+
+8 - Share the printer.
+Share the printer. Now that file and printer sharing has been turned on, you will need to share the printer itself. To do this, go back to the Control Panel and open the Devices and Printers option. Right-click on the printer you want to share and click "Printer properties". Click the Sharing tab, and then check the "Share this printer" box.[1]
+- X
+- Research source
+

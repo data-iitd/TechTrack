@@ -1,0 +1,23 @@
+Start Screensaver with a Keyboard Shortcut on Mac
+https://www.wikihow.com/Start-Screensaver-with-a-Keyboard-Shortcut-on-Mac
+
+0 - Creating the Keyboard Shortcut
+
+1 - Open System Preferences > Keyboard > Shortcuts.
+Open System Preferences > Keyboard > Shortcuts.
+
+2 - Click on Services on the left side.
+Click on Services on the left side.
+
+3 - Scroll down to the very bottom and you will find the action that you created.
+Scroll down to the very bottom and you will find the action that you created.
+
+4 - Click on the None to the right of the title.
+Click on the  to the right of the title.
+
+5 - Click on Add Shortcut and type the shortcut that you want.
+Click on Add Shortcut and type the shortcut that you want. For example, you could use Ctrl+⌥ Opt+S.
+
+6 - Release the keys.
+Release the keys. The screensaver should start when you press the shortcut.
+

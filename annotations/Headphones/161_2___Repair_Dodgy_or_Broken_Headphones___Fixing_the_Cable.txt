@@ -1,0 +1,55 @@
+Repair Dodgy or Broken Headphones
+https://www.wikihow.com/Repair-Dodgy-or-Broken-Headphones
+
+0 - Fixing the Cable
+
+1 - Test the cable.
+Test the cable. To figure out where the break in the wires is, wear the headphones and turn on audio, then bend the cable to a right angle across the tip of your thumb. Slide your thumb along the length of the cable. When the sound crackles or cuts in and out, you have found the problem. If the problem is near the plug, see the next part for repair instructions. Otherwise, continue to the next step.[2]
+- X
+- Research source
+- 
+- 
+- Use a piece of tape or a Sharpie to mark the site of the break.
+- If you already found the problem with a multimeter, skip this step.
+
+2 - Strip off the insulation.
+Strip off the insulation. Use wire strippers, or carefully run a knife around the outside of the cable, to remove ½ inch (1.25 cm) of the outer shielding, then extend the cut in either direction until you see a broken wire. This is the area you'll need to repair.;
+- If your cable looks like two cables glued together then each one will contain an insulated wire (the signal) and a bare wire (the ground).
+- Apple headphones and other headphones with single cables have two insulated wires (the left and right signal) and a single bare ground wire.
+
+3 - Cut the cord.
+Cut the cord. Cut the cord in half. If the wire inside is shredded, cut on either side of it to remove the problem. If you do this, remove the same amount from the left and right cords. Uneven lengths of cord can cause electrical damage to your headphones.[3]
+- X
+- Research source
+- 
+- ;
+- If only one of your wires is broken, you might want to skip to soldering the wire, without cutting or splicing. This will save time, but the repair will be less sturdy.[4]
+- X
+- Research source
+
+4 - Slide on a shrink tube.
+Slide on a shrink tube. This is a rubber tubing that looks just like the rest of your headphone cable. Slide it onto the cable for later. After your repair, you'll slide this back over the open area to protect it.;
+- If you had to cut the wire several times to find the problem, slip on a tube over each cut.
+
+5 - Splice the wires
+Splice the wires. This means you'll be joining the wires together. Make sure to connect wires with the same color insulation (or no insulation). You have two options: a pigtail splice and an in-line splice.[5]
+- X
+- Research source
+- 
+- ;
+- For a pigtail splice, pick up the two exposed areas of wire that you want to connect. Place them parallel to each other and twist them together to join them. This is quick and easy, but the repair will be bulkier.
+- For an in-line splice, overlap the wires end to end, then twist them in opposite directions. This is more difficult but the repair is easier to hide.
+
+6 - Solder the connections.
+Solder the connections. Use a soldering iron to melt a small dab of solder over the wires. Repeat for each splice, then let the solder cool.;
+- Bare wires without insulation usually have a thin enamel coat. Sand this off or burn it off with the soldering iron before you solder. Avoid breathing in the fumes.[6]
+- X
+- Research source
+- 
+- 
+- Once cooled, keep the red and white ends separate from the ground wire by wrapping the 2 pairs of joins in electrical tape.
+
+7 - Slide your shrink tube over the repair.
+Slide your shrink tube over the repair. After the shrink tube is properly fitted over the repair site, you can use a heat gun to constrict it.;
+- The tube will shrink down to about a quarter of its original size, which will allow it to fit  snugly around your newly-repaired cable, keeping it strong and protected.
+

@@ -1,0 +1,48 @@
+Turn Off Windows Activation
+https://www.wikihow.com/Turn-Off-Windows-Activation
+
+0 - Using Registry Editor
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Type regedit into Start.
+Type regedit into Start. This will search for the Registry Editor command.
+
+3 - Click regedit.
+Click regedit. It's a collection of blue blocks at the top of the Start window.
+
+4 - Click Yes when prompted.
+Click Yes when prompted. Doing so will open the Registry Editor window.
+
+5 - Expand the "HKEY_LOCAL_MACHINE" folder.
+Expand the "HKEY_LOCAL_MACHINE" folder. Click  to the left of the "HKEY_LOCAL_MACHINE" folder in the top-left side of the Registry window.
+- If you see an indented column of folders below "HKEY_LOCAL_MACHINE", it's already expanded.
+
+6 - Expand the "SYSTEM" folder.
+Expand the "SYSTEM" folder. It's near the bottom of the list of folders inside of the "HKEY_LOCAL_MACHINE" folder.
+
+7 - Expand the "CurrentControlSet" folder.
+Expand the "CurrentControlSet" folder.
+
+8 - Expand the "Services" folder.
+Expand the "Services" folder. This will result in a long list of folders appearing.
+
+9 - Scroll down and select the "sppsvc" folder.
+Scroll down and select the "sppsvc" folder. Click this folder to prompt its contents to display on the right side of the window.
+
+10 - Select the "Start" file.
+Select the "Start" file. It's near the bottom of the list of files that's on the right side of the window.
+
+11 - Click the Edit tab.
+Click the Edit tab. This option is near the top-left corner of the Registry window. A drop-down menu will appear.
+
+12 - Click Modify.
+Click Modify. It's at the top of the drop-down menu. A new window will open.
+
+13 - Type 4 into the window.
+Type 4 into the window. This value change will disable the activation notifications.
+
+14 - Click OK.
+Click OK. It's at the bottom of the window. Your activation will remain off until you restart or update your computer, at which point you will need to disable it again.
+

@@ -1,0 +1,43 @@
+Install Software on Linux
+https://www.wikihow.com/Install-Software-on-Linux
+
+0 - Using the Ubuntu Apt Manager
+
+1 - Open a Terminal window on your Ubuntu_Debian system.
+Open a Terminal window on your Ubuntu/Debian system. Click the Dash icon on the top-left and select the Terminal app to open a new window.
+- Alternatively, press Ctrl+Alt+T on your keyboard to open a new terminal window.
+
+2 - Type sudo apt-get update in terminal.
+Type sudo apt-get update in terminal. This command will update your repositories, and make sure you have all the latest software packages for installation.
+
+3 - Press ↵ Enter or ⏎ Return on your keyboard.
+Press ↵ Enter or ⏎ Return on your keyboard. This will run the command, and update your repositories.
+- If you're prompted, enter your user password to run the command.
+
+4 - Run sudo apt-get upgrade in terminal.
+Run sudo apt-get upgrade in terminal. This command will upgrade all the installed software on your computer to the latest versions.
+
+5 - Run sudo apt-cache search [package name] to search.
+Run sudo apt-cache search [package name] to search. You can use this command to search and find software to install.
+- You will get a list of the matching packages below your search command.
+- For example, you can run sudo apt-cache search "opera-stable" to find the latest stable version of the Opera browser available for install.
+
+6 - Run sudo apt-cache show "package name" to see details.
+Run sudo apt-cache show "package name" to see details. This command will show the details for any available software package, including its version, architecture, and installation size.
+- For example, run sudo apt-cache show opera-stable to see the package details for the latest stable version of the Opera web browser.
+
+7 - Run sudo apt-get install "package name" to install.
+Run sudo apt-get install "package name" to install. This command will install the selected software package on your system.
+- For example, sudo apt-get install opera-stable will install the latest stable version of the Opera web browser.
+
+8 - Enter Y to proceed with the installation.
+Enter Y to proceed with the installation. When the terminal asks "Do you want to continue? [Y/n]," enter Y to continue, and install the software on your computer.
+
+9 - Add  --reinstall at the end of the install command to reinstall.
+Add  --reinstall at the end of the install command to reinstall. If you're having issues with software you already have and want to reinstall it, run the standard installation command with this bit added at the end.
+- For example, if you have the stable Opera browser and want to reinstall it, run the sudo apt-get install opera-stable --reinstall command.
+
+10 - Run sudo apt-get remove "package name" to uninstall.
+Run sudo apt-get remove "package name" to uninstall. If you want to remove an app from your computer, run this command to uninstall it, and remove the software files from your computer.
+- Alternatively, you can use the sudo apt-get purge "package name" command. This will remove all the configuration files and personal preferences of the specified app.
+

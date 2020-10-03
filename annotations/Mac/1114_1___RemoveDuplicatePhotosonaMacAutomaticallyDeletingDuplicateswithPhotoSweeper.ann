@@ -1,0 +1,13 @@
+T1	Software-Other 233 254	https://overmacs.com/
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 616 628	PhotoSweeper
+A3	isOpened T2 f->t
+T3	Software-Other 768 789	dd your Photo library
+A4	isSettingsChanged T3 true
+T4	Software-Other 939 946	Compare
+A5	isSettingsChanged T4 true
+T5	Software-Other 1147 1156	Auto Mark
+A6	isSettingsChanged T5 true
+T6	Software-Other 1325 1337	Trash Marked
+A7	isSettingsChanged T6 true

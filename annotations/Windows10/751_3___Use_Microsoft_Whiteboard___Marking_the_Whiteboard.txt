@@ -1,0 +1,25 @@
+Use Microsoft Whiteboard
+https://www.wikihow.com/Use-Microsoft-Whiteboard
+
+0 - Marking the Whiteboard
+
+1 - Click the Inking Mode icon to open the drawing toolbar.
+Click the Inking Mode icon to open the drawing toolbar. It's the first icon in the toolbar at the bottom of the screen. This opens a variety of drawing tools you can use to mark up the board.
+
+2 - Click a drawing tool.
+Click a drawing tool. There are a variety of options in the toolbar, including colored pens, a highlighter, an eraser, and a ruler, and a selection tool.
+
+3 - Select a line style and color.
+Select a line style and color. After selecting something to draw with, click and hold its icon again to view the tool's color palette and line thickness settings.
+- To change the width of the line, click the black circle that represents your desired width.
+- Click a color in the palette to select a different color.
+
+4 - Click and drag on the whiteboard to draw with the selected tool.
+Click and drag on the whiteboard to draw with the selected tool. As you drag, you will see the line appear in the selected color and width.
+- Use the ruler tool at the bottom if you need to show the scale on the whiteboard.
+- If you're using a touchscreen, you can draw with your finger or a compatible stylus.
+- If you're dissatisfied with the last action, the last two icons on the bottom toolbar are Undo and Redo shortcuts. Click the left curved arrow to undo, and the right curved arrow to redo.
+
+5 - Click the checkmark to exit Inking Mode.
+Click the checkmark to exit Inking Mode. It's at the bottom-left corner of the Inking Mode toolbar at the bottom.
+

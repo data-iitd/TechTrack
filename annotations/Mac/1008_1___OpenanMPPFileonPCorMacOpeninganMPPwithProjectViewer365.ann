@@ -1,0 +1,13 @@
+T1	Software-Other 158 190	www.projectplan365.com_download_
+A1	isOpened T1 f->t
+T2	Software-Other 477 484	Windows
+T3	Software-Other 488 493	MacOS
+T4	Software-Other 637 669	Download Project Plan 365 button
+A2	isOpened T4 f->t
+T5	Software-Other 808 810	Ok
+T6	Software-Other 1039 1046	Install
+A3	isInstalled T6 f->t
+T7	Software-Other 1137 1141	File
+A4	isOpened T7 f->t
+T8	Software-Other 1192 1196	Open
+A5	isOpened T8 f->t

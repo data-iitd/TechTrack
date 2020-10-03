@@ -1,0 +1,39 @@
+Use Hey Siri on a Mac
+https://www.wikihow.com/Use-Hey-Siri-on-a-Mac
+
+0 - Turning on Hey Siri Using Dictation
+
+1 - Click the "View" button.
+Click the "View" button. This button is in the bar at the top of your Mac's screen, and will reveal a drop-down menu.
+
+2 - Click "Accessibility.
+Click "Accessibility." An interface from your Mac's System Preferences will open.
+
+3 - Scroll to "Dictation" and click on it.
+Scroll to "Dictation" and click on it. The Dictation icon is located in the sidebar on the left of the screen. A new control panel will appear.
+
+4 - Check the box next to “Enable the dictation keyword phrase.
+Check the box next to “Enable the dictation keyword phrase.” You'll see a text box open next to the checkbox with the word "Computer" written in it.
+
+5 - Replace "Computer" with "Hey" in the text field.
+Replace "Computer" with "Hey" in the text field. This tells your Mac to engage dictation when you say the word "Hey."
+
+6 - Click "Dictation Commands.
+Click "Dictation Commands..." This button is located near the top of your current window, and will allow you to define the functions you'd like your Mac to perform when you use particular phrases after saying the word "Hey."
+
+7 - Click "Enable advanced commands.
+Click "Enable advanced commands." This will allow you to customize your dictation commands.
+
+8 - Click the + button.
+Click the + button. In the window that appears, you'll enter your customized command.
+
+9 - Enter the custom voice command for "Hey Siri.
+Enter the custom voice command for "Hey Siri." On the current menu, you'll see a couple of menus that you can click on to create your custom command. Click on the text windows next to each option and modify them to list the following:
+- 
+- When I say: Siri
+- While using: Any application
+- Perform: select "Press Keyboard Shortcut." When the text “Press keys now” shows in gray, press the keyboard shortcut that you use to open Siri. By default, this shortcut is set to ⌘+space.
+
+10 - Hit done.
+Hit done. Now, anytime you say "Hey Siri," Siri will open on your Mac without you having to lift a finger!
+

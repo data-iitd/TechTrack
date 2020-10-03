@@ -1,0 +1,26 @@
+Make a Shutdown Shortcut in Windows
+https://www.wikihow.com/Make-a-Shutdown-Shortcut-in-Windows
+
+0 - Windows 8 and 10
+
+1 - Open Desktop Mode (Windows 8).
+Open Desktop Mode (Windows 8). You can access the Desktop by clicking on the Desktop tile on the Start screen or by pressing the Windows key + D. This will open the desktop, where you will see several icons.
+- ;
+
+2 - Create a new shortcut on the desktop.
+Create a new shortcut on the desktop. Right-click on the desktop, select "New," and then choose "Shortcut." This will open the Create Shortcut window.
+
+3 - Enter the shutdown command.
+Enter the shutdown command. In the field labeled “Type the location of the item”, enter shutdown /s This will create a shortcut that will shut down the computer after a 30-second default timer.
+- If you want to adjust the timer, add the /t XXX command to the end of the line. XXX represents the number of seconds delay you want prior to shutdown.  For example: shutdown /s /t 45 will create a shortcut that shuts down after 45 seconds.
+- Setting the timer to 0 will shut down the computer immediately after the shortcut is run.
+
+4 - Rename your shortcut.
+Rename your shortcut. By default the shortcut will be named “shutdown”. You can change the name to whatever you’d like in the next window.
+
+5 - Change the icon.
+Change the icon. Windows will use the default Program icon for your new shortcut. You can change this by right-clicking on it and selecting "Properties." In the "Shortcut" tab, select "Change Icon…" This will open a list of available icons. Find one that better matches your shutdown shortcut.
+
+6 - Pin the shortcut to your Start menu or taskbar.
+Pin the shortcut to your Start menu or taskbar. Once the shortcut is complete, you can add it to your Start menu or taskbar by right-clicking the shortcut and select "Pin to Start" or "Pin to Taskbar." This will create a tile on your Start menu or a shortcut in your taskbar that you can click to shut down your computer.
+

@@ -1,0 +1,39 @@
+Format a Windows Laptop
+https://www.wikihow.com/Format-a-Windows-Laptop
+
+0 - Steps
+
+1 - Backup all the files you want to keep
+Backup all the files you want to keep. Formatting you computer will get rid of everything and reinstall Windows. You will lose anything you don't back up. You can backup your files using an external hard drive, a USB drive, or a writable DVD or Blu-ray. You can also backup your files using cloud storage, like Dropbox, or Google Drive.
+- ;
+
+2 - Click the Windows Start  button.
+Click the Windows Start  button. It's the button with the Windows logo in the lower-left corner of the taskbar.
+
+3 - Click the  icon.
+Click the  icon. The icon that resembles a gear in the left-most column is the Windows settings button.
+
+4 - Click Update & Security.
+Click Update & Security. It's the last option that has an icon that has two arrows that form a circle.
+
+5 - Click Recovery.
+Click Recovery. It's next to the icon that resembles an arrow drawing a clock in the left column.
+
+6 - Click Get Started.
+Click Get Started. It's below the option that says "Reset this PC".
+
+7 - Click Remove Everything.
+Click Remove Everything. This will remove all files, uninstall all apps, and reinstall Windows. If you click "Keep my files", it will uninstall all apps, and reinstall Windows, but it will keep your files and documents. This is helpful if you want to keep your files, but it may not fix all your computer problems. If you are giving your computer to someone else, it is recommended that you remove everything.
+
+8 - Click Remove files and clean the drive.
+Click Remove files and clean the drive. This will remove all apps and files from your computer. This is recommended if you are giving your computer to someone else. It is not recommended that you click "Just remove my files".
+
+9 - Click Next.
+Click Next. If you have recently updated Windows, you will not be able to go back to a previous version of Windows.
+
+10 - Click Reset.
+Click Reset. Your computer will begin the process of formatting. This will take a while, and your computer will restart several times.
+
+11 - Click Continue.
+Click Continue. It's the top button once your computer restarts.
+

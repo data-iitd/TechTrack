@@ -1,0 +1,29 @@
+Secure Your Printing Jobs with a PIN
+https://www.wikihow.com/Secure-Your-Printing-Jobs-with-a-PIN
+
+0 - Getting Your Prints
+
+1 - Go to the printer.
+Go to the printer. When you need to have your documents printed, go to the shared or network printer. No need to rush and dash across the floor. Your print jobs are safely stored and locked with your PIN.
+
+2 - Retrieve a print job.
+Retrieve a print job. From the printer’s control panel, navigate through it until you find the menu for “Retrieve Job.” The list of stored print jobs in the printer will be listed. Use the arrow keys to scroll through the list and find your username. The number beside your username indicates the number of print jobs waiting for you.
+
+3 - View jobs.
+View jobs. Once you find your username, select it. All the print jobs under your username will be listed with their respective job names. Use the arrow keys to scroll through the list.
+
+4 - Select a job.
+Select a job. Once you find the job you’d like to print, select it. You will be asked if you’d like to “Print” or “Delete” the job. Select “Print.”
+
+5 - Enter the PIN.
+Enter the PIN. You will then be prompted for your PIN code. This is the four-digit code you set earlier. Enter it here. Use the arrow keys to input your code.
+
+6 - Indicate the number of copies.
+Indicate the number of copies. Once your PIN code is accepted, you will be asked for the number of copies for this job. Indicate how many copies you’d like to be printed.
+
+7 - Print.
+Print. Press the green, or whatever appropriate, button on the printer to initiate processing of your print job. The printing will start immediately, provided the printer is in good working condition and there are ink and paper available.
+
+8 - Collect the prints.
+Collect the prints. Don’t leave the printer yet. Ensure all the documents under the print jobs you’ve printed are complete and in order before leaving the printer area.
+

@@ -1,0 +1,59 @@
+Register a DLL
+https://www.wikihow.com/Register-a-DLL
+
+0 - Registering a Single DLL
+
+1 - Understand how this method works.
+Understand how this method works. You can use a combination of the "regsvr" command and a DLL file's name to register the DLL if the DLL file supports the Register Server export command. This will create a path from the Windows registry to the DLL file, making it easier for Windows processes to find and use the DLL file.
+- You'll most commonly need to use this method to register DLLs which came with third-party programs that are supposed to interface directly with system-level resources (e.g., Command Prompt).
+- ;
+
+2 - Know what the "entry point" error means.
+Know what the "entry point" error means. If the DLL is already registered, it doesn't support the Register Server export command, or its code doesn't allow it to be connected to the Windows registry, you'll receive an error which says, "The module [DLL name] was loaded but the entry point DllRegisterServer was not found". If you see this error message occur, the DLL cannot be registered.
+- The "entry point" error isn't so much a problem as it is a confirmation, as seeing this error means that your DLL doesn't need to be registered.
+
+3 - Find the DLL you want to register.
+Find the DLL you want to register. Go to the folder location of the DLL that you want to register. Once you've found the DLL file that you want to register, you can proceed.
+- If you installed a program for which you want to register a DLL, for example, you would go to the program's installation folder (e.g., "C:\Program Files\[program name]").
+
+4 - Open the DLL's Properties.
+Open the DLL's Properties. Right-click the DLL file, then click Properties in the drop-down menu. A pop-up window will open.
+
+5 - Note the DLL's name.
+Note the DLL's name. In the text box at the top of the Properties window, you'll see the DLL's full name. This is the name you'll need to enter later.
+- Since most DLLs have difficult-to-remember names, consider leaving up the Properties window when you're done here; that way, you'll be able to copy the name later.
+
+6 - Copy the DLL's path.
+Copy the DLL's path. Click and drag your cursor across the string of text to the right of the "Location" heading, then press Ctrl+C to copy the folder path to the DLL.
+
+7 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+8 - Search for Command Prompt.
+Search for Command Prompt. Type command prompt into the Start search bar. You should see the Command Prompt icon appear at the top of the window.
+
+9 - Open Command Prompt in administrator mode.
+Open Command Prompt in administrator mode. To do so:
+- Right-click  Command Prompt.
+- Click Run as administrator
+- Click Yes when prompted.
+
+10 - Switch to the DLL's directory.
+Switch to the DLL's directory. Type in cd and type a space, press Ctrl+V to paste in the path to the DLL file, and press ↵ Enter.
+- For example, if your DLL file is in the "SysWOW64" folder that's inside the stock "Windows" folder, your command would look like this: cd C:\Windows\SysWOW64
+
+11 - Enter the "regsvr" command and the DLL's name.
+Enter the "regsvr" command and the DLL's name. Type in regsvr32 and type a space, then type in your DLL's name (complete with the ".dll" extension) and press ↵ Enter. If your DLL can be registered, doing this will result in a confirmation message.[1]
+- X
+- Research source
+- 
+- 
+- For example, if the DLL's name is "usbperf.dll", your command would look like this: regsvr32 usbperf.dll
+- To copy the DLL's name at this point, re-open the folder with the DLL in it (the Properties window should pop up), then highlight the name in the text box and press Ctrl+C. You can then paste the name into Command Prompt by pressing Ctrl+V.
+- If the DLL is either already registered or unable to be registered, you'll see the "entry point" error pop up instead of a confirmation message.
+
+12 - Try unregistering the DLL and then re-registering it.
+Try unregistering the DLL and then re-registering it. If entering the "regsvr" command results in an error that isn't the "entry point" error, you may need to unregister the DLL before you can actually register it:
+- Type in regsvr32 /u name.dll and press ↵ Enter. Make sure to replace "name" with the DLL's name.
+- Type in regsvr32 name.dll and press ↵ Enter, again remembering to replace "name" with the DLL's name.
+

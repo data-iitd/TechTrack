@@ -1,0 +1,32 @@
+T1	Software-OS-Related 173 178	Start
+T2	Hardware-Devices 260 266	screen
+A1	isConnected T2 start-T
+T3	Software-OS-Related 294 301	profile
+T4	Software-OS-Related 362 380	current user photo
+T5	Software-OS-Related 455 462	account
+A2	isOpened T5 f->t
+T6	Software-OS-Related 518 524	Browse
+T7	Software-OS-Related 573 592	Create your picture
+T8	Software-OS-Related 618 622	Open
+T9	Software-OS-Related 646 654	Navigate
+T10	Software-OS-Related 676 720	\ProgramData\Microsoft\User Account Pictures
+T11	Hardware-Other 900 906	Ctrl+C
+T12	Software-OS-Related 843 889	C:\ProgramData\Microsoft\User Account Pictures
+T13	Software-OS-Related 982 988	window
+T14	Hardware-Other 1108 1114	Ctrl+V
+T15	Hardware-Other 1154 1161	↵ Enter
+T16	Software-OS-Related 1177 1185	user.png
+T17	Software-OS-Related 1196 1210	Choose picture
+T18	Software-OS-Related 1287 1291	user
+A3	isOpened T18 f->t
+T19	Hardware-Other 1522 1529	⊞ Win+E
+T20	Software-OS-Related 1618 1631	File Explorer
+A4	isOpened T20 f->t
+T21	Hardware-Other 1947 1954	↵ Enter
+T22	Software-OS-Related 1999 2011	user account
+T23	Software-OS-Related 2039 2047	photo(s)
+T24	Hardware-Other 2141 2145	Ctrl
+T25	Hardware-Other 2178 2185	Del key
+T26	Software-OS-Related 2267 2274	removed
+A5	isOpened T1 f->t
+A6	isOpened T6 f->t

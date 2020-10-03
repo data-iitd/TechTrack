@@ -1,0 +1,21 @@
+Clear Ubuntu Software Center History
+https://www.wikihow.com/Clear-Ubuntu-Software-Center-History
+
+0 - GUI Method
+
+1 - Navigate to your home folder and show the hidden files.
+Navigate to your home folder and show the hidden files. To show the hidden files, press Ctrl+H. Then find the folder named .cache and open it.
+- ;
+
+2 - Find the folder named software-center.
+Find the folder named software-center. Then double-click on it to open it.
+
+3 - Edit the file named apthistory.p.
+Edit the file named apthistory.p. Open apthistory.p Delete all the contents in the file and save it before closing it.
+
+4 - Navigate to _var_log_apt_.
+Navigate to /var/log/apt/. Then open the history.log file an administrator and delete all its contents, as in step 3.
+
+5 - Open up the Ubuntu Software Center.
+Open up the Ubuntu Software Center. Click on the History tab. You will see that all the entries are cleared.
+

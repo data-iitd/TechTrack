@@ -1,0 +1,24 @@
+T1	Hardware-Devices 104 110	webcam
+A3	isConnected T1 f->t
+T2	Hardware-Other 119 127	computer
+T3	Hardware-Other 184 193	USB cable
+T4	Hardware-Other 222 231	USB ports
+T5	Hardware-Other 411 414	Mac
+T6	Hardware-Other 449 469	USB to USB-C adapter
+T7	Hardware-Other 576 583	USB hub
+T8	Hardware-Other 665 676	webcam's CD
+T9	Hardware-Devices 735 741	webcam
+T10	Hardware-Other 750 768	computer's CD tray
+T11	Hardware-Other 841 845	Macs
+T12	Hardware-Other 928 937	USB cable
+T13	Software-Other 1081 1088	Support
+T14	Software-Other 1122 1129	website
+T15	Software-Other 1151 1170	webcam's setup page
+A6	isOpened T15 f->t
+T16	Hardware-Devices 1283 1289	webcam
+T17	Hardware-Other 1307 1309	CD
+T18	Hardware-Other 1341 1349	computer
+T19	Software-OS-Related 1437 1460	on-screen instructions.
+T20	Hardware-Devices 1502 1510	webcam's
+T23	Hardware-Devices 1831 1837	webcam
+A1	isSetup T23 true

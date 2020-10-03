@@ -1,0 +1,8 @@
+T1	Hardware-Devices 129 144	laser printer's
+T2	Hardware-Other 159 165	manual
+T3	Hardware-Devices 756 770	Laser printers
+A1	isPowered T3 t->f
+T4	Hardware-Other 909 921	printer door
+T5	Hardware-Other 1140 1145	paper
+T6	Hardware-Devices 2386 2399	laser printer
+A2	isPowered T6 f->t

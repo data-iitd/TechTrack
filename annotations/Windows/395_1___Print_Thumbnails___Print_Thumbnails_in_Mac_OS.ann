@@ -1,0 +1,12 @@
+T1	Hardware-Devices 129 137	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 265 271	iPhoto
+A2	isOpened T2 f->t
+T3	Software-OS-Related 940 944	File
+A3	isOpened T3 f->t
+T4	Software-OS-Related 956 961	Print
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1122 1127	Print
+T6	Software-OS-Related 1078 1086	Standard
+T7	Software-OS-Related 1092 1105	Contact Sheet
+A5	isSettingsChanged T5 true

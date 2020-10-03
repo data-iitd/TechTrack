@@ -1,0 +1,38 @@
+Protect Your Privacy in Windows 10
+https://www.wikihow.com/Protect-Your-Privacy-in-Windows-10
+
+0 - Change Lock Screen and Login Screen Settings
+
+1 - Know the difference between the lock screen and login screen.
+Know the difference between the lock screen and login screen.
+- The lock screen is what shows before you’re offered a chance to log in.
+- The login screen has a place for you to choose your username and type your password.
+- By default, the lock screen shows a thumbnail of your latest email.
+- The lock screen may be rigged so Cortana or Windows Hello are listening to everything you say, or watching everything you do, even when your machine is logged out.
+- By default, the login screen shows valid email addresses for every Microsoft account authorized to use the machine.
+
+2 - Keep your emails from appearing on the lock screen.
+Keep your emails from appearing on the lock screen.
+- Click Start > Settings > Personalization.
+- Choose Lock screen. You'll see a pane.
+- Click on the “Mail” icon and choose None.
+
+3 - Stop Cortana now from listening to your conversations while logged off
+
+Stop Cortana now from listening to your conversations while logged off
+- Click the icon on the left side of the Cortana search box
+- Choose Settings
+- Slide "Use Cortana even when my device is locked" to Off.
+
+4 - Turn off Windows Hello scanning while you’re logged off.
+Turn off Windows Hello scanning while you’re logged off.
+- Click Start > Settings > Accounts.
+- Choose Sign-in options.
+- Scroll down a bit and, on the right, slide "Automatically unlock the screen if we recognize your face" to Off.
+
+5 - Hide your email address on the log-in screen.
+Hide your email address on the log-in screen.
+- Click Start > Settings > Accounts.
+- Choose Sign-in options.
+- Scroll way down on the right and under Privacy / Show account details (e.g. email address) on sign-in screen, move the slider Off.
+

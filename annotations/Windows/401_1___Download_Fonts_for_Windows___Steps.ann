@@ -1,0 +1,9 @@
+T1	Software-OS-Related 926 933	Extract
+T2	Software-Other 1234 1240	Browse
+A1	isOpened T2 f->t
+T3	Software-OS-Related 1275 1291	Windows Explorer
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1356 1367	My Computer
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1556 1569	Date Modified
+T6	Software-OS-Related 1973 1979	Delete

@@ -1,0 +1,16 @@
+T1	Software-OS-Related 153 158	Start
+A1	isOpened T1 f->t
+T2	Hardware-Devices 231 237	screen
+A2	isPowered T2 start-T
+T3	Software-OS-Related 284 292	Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 378 388	Start menu
+T5	Software-OS-Related 439 457	 Update & Security
+A4	isOpened T5 f->t
+T6	Software-OS-Related 543 559	Windows Security
+A5	isOpened T6 f->t
+T7	Software-OS-Related 628 634	window
+T8	Software-OS-Related 649 674	Virus & threat protection
+A6	isOpened T8 f->t
+T9	Software-OS-Related 846 886	Click Virus & threat protection settings
+A7	isOpened T9 f->t

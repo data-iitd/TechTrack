@@ -1,0 +1,27 @@
+Move the Computer Mouse with the Keyboard (Windows)
+https://www.wikihow.com/Move-the-Computer-Mouse-with-the-Keyboard-(Windows)
+
+0 - Steps
+
+1 - Open the Start Menu.
+Open the Start Menu. You can do this with the keyboard by pressing the ⊞ Win key.
+- ;
+
+2 - Navigate the menu.
+Navigate the menu. Use the ↑↓←→ keys on the keyboard to move to the desired selection.
+
+3 - Keep pressing the Tab ↹ key until the Control Panel icon is highlighted.
+Keep pressing the Tab ↹ key until the Control Panel icon is highlighted. Press ↵ Enter to select the Control Panel. If Control Panel isn't listed, then press the ⊞ Win+R. It should open run so then you can type "control panel" without the quotes in the run box then press ↵ Enter. It will then open Control Panel.
+
+4 - Look for "Ease Of Access" (when you are in category view for control panel on windows 7).
+Look for "Ease Of Access" (when you are in category view for control panel on windows 7). When you see it, keep pressing the Tab ↹ key until it is highlighted, then press ↵ Enter.
+
+5 - Press the Tab ↹ key to navigate.
+Press the Tab ↹ key to navigate. Select the "change how your mouse works" line (under the category Ease of Access Center). Press ↵ Enter to select it.
+
+6 - Press the Tab ↹ key until you get down to the "turn on mouse keys".
+Press the Tab ↹ key until you get down to the "turn on mouse keys". Press Spacebar twice. This will put a check on the box before "Turn on Mouse Keys". You can press the Tab ↹ key (that will highlight "Set up Mouse Keys" and then press Spacebar again to access the Mouse Keys settings (speed, shortcut key, slow down key, etc.)
+
+7 - Press the Tab ↹ key until you get to "OK" and press ↵ Enter.
+Press the Tab ↹ key until you get to "OK" and press ↵ Enter. Now you can use the numeric keypad (the number pad on the right of your keyboard with the arrows on it) to move the cursor around the screen. If enabled, you can hold down the Ctrl or ⇧ Shift key with the direction to speed up the cursor or slow down.
+

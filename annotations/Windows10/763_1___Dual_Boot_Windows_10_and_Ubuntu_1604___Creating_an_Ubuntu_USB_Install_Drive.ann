@@ -1,0 +1,27 @@
+T1	Software-Other 164 202	http:__www.ubuntu.com_download_desktop
+A1	isOpened T1 f->t
+T2	Software-Other 211 222	web browser
+A2	isOpened T2 f->t
+T3	Software-Other 432 440	Download
+A3	isSettingsChanged T3 true
+T4	Software-Other 939 961	https://rufus.akeo.ie/
+A4	isOpened T4 f->t
+T5	Software-Other 1021 1030	Rufus.exe
+A5	isOpened T5 f->t
+T6	Software-Other 965 973	Download
+A6	isSettingsChanged T6 true
+T7	Hardware-Other 1124 1133	USB drive
+T8	Software-Other 1226 1231	Rufus
+A7	isOpened T8 f->t
+T9	Software-Other 1374 1383	USB drive
+T10	Software-Other 1492 1502	Ubuntu ISO
+A8	isOpened T10 f->t
+T11	Software-Other 1732 1736	Open
+A9	isOpened T11 f->t
+T12	Software-Other 1751 1756	Start
+A10	isSettingsChanged T12 true
+A11	isOpened T12 f->t
+T13	Software-Other 1982 1984	Ok
+T14	Hardware-Other 2095 2104	USB drive
+R1	SubPart Arg1:T13 Arg2:T12	
+A12	isSettingsChanged T13 true

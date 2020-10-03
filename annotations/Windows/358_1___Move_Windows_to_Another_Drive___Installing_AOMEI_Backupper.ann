@@ -1,0 +1,10 @@
+T1	Software-Other 406 420	Local Download
+A1	isOpened T1 f->t
+T2	Software-Other 755 762	install
+A2	isInstalled T2 f->t
+T3	Software-Other 1025 1036	Install Now
+A3	isInstalled T3 f->t
+T4	Software-Other 296 311	AOMEI Backupper
+A4	isOpened T4 f->t
+T5	Software-Other 252 263	web browser
+A5	isOpened T5 f->t

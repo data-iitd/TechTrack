@@ -1,0 +1,37 @@
+Lock a Mac Computer
+https://www.wikihow.com/Lock-a-Mac-Computer
+
+0 - Using the Keychain Shortcut
+
+1 - Go to Finder.
+Go to Finder. Do so by clicking on the dark and light blue, square icon that contains a smiley face, or by clicking on the background image on your desktop.
+
+2 - Click on Go.
+Click on Go. It's in the menu bar at the top-left part of the screen.
+
+3 - Click on Utilities.
+Click on Utilities. It's near the bottom of the drop-down menu.
+
+4 - Scroll down and double-click on Keychain Access.
+Scroll down and double-click on Keychain Access. It's next to a keychain icon.
+
+5 - Click on Keychain Access.
+Click on Keychain Access. It's in the menu bar in the top-left corner of the screen.
+
+6 - Click on Preferences.
+Click on Preferences. It's near the top of the drop-down menu.
+
+7 - Click on General.
+Click on General. It's a tab at the top of the dialog box.
+
+8 - Check "Show keychain status in menu bar."
+Check "Show keychain status in menu bar." It's near the top of the dialog box.
+- A padlock icon will appear on the right side of the menu bar at the top of the screen.
+
+9 - Click on the padlock icon.
+Click on the padlock icon. It's on the right side of the menu bar at the top of the screen.
+
+10 - Click on Lock Screen.
+Click on Lock Screen. It's at the top of the drop-down menu. The screen will go to sleep, and you'll have to enter your log-in password to access your Mac.
+- Use this shortcut anytime you want to quickly lock your Mac.
+

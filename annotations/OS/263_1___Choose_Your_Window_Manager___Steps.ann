@@ -1,0 +1,18 @@
+T1	Software-OS-Related 114 130	operating system
+T2	Software-OS-Related 166 183	Microsoft Windows
+T7	Software-OS-Related 253 258	Linux
+T8	Software-OS-Related 260 263	BSD
+T13	Software-OS-Related 459 473	window manager
+T14	Hardware-Other 999 1007	computer
+T15	Software-OS-Related 1242 1249	desktop
+T16	Software-OS-Related 1686 1701	window managers
+T17	Software-Other 1749 1762	office suites
+T18	Software-Other 1764 1774	CD Burners
+T19	Software-Other 1780 1793	media players
+T20	Software-OS-Related 2442 2465	floating window manager
+T21	Software-OS-Related 2397 2412	window managers
+T22	Hardware-Devices 2721 2729	keyboard
+T3	Software-Other 196 204	LiteStep
+T4	Software-Other 206 212	SharpE
+T5	Software-Other 214 222	Blackbox
+T6	Software-Other 227 230	KDE

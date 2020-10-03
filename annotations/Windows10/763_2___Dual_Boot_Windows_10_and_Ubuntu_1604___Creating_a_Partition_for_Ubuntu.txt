@@ -1,0 +1,30 @@
+Dual Boot Windows 10 and Ubuntu 16.04
+https://www.wikihow.com/Dual-Boot-Windows-10-and-Ubuntu-16.04
+
+0 - Creating a Partition for Ubuntu
+
+1 - Backup your disk drive.
+Backup your disk drive.  Before creating a partition of your drive, it's a good idea to backup any important information on your "C:" drive, in case you accidentally delete any files you want to keep.  You can back up your files using an external hard drive or a flash drive, or using cloud storage such as Google Drive or Dropbox, or OneDrive.
+
+2 - Right-click the Windows Start menu .
+Right-click the Windows Start menu . It's the icon with the Windows logo. It's in the taskbar in the lower-left corner by default. Right-clicking the Windows Start menu displays a pop-out menu that is different from the normal Windows Start menu.
+
+3 - Click Disk Management.
+Click Disk Management. It's in the menu that pops up when you right-click the Windows Start menu.
+
+4 - Right-click your "C:
+Right-click your "C:" drive. The "C:" drive is the disk drive that Windows is installed on. This displays a menu for the hard drive.
+
+5 - Click Shrink Volume.
+Click Shrink Volume. This opens a menu that allows you to shrink your C: drive and create a new partition of unallocated hard disk space.
+
+6 - Enter the amount of space in MB you want the Ubuntu partition to have.
+Enter the amount of space in MB you want the Ubuntu partition to have. This goes in the field next to "Enter the amount of space to shrink in MB". Ubuntu needs at least 25 GB of hard drive space to be installed.[1]
+- X
+- Research source
+- 
+- To convert GB to MB, multiply by 1000. For example, 40 GB is equivalent to 40,000 MB.
+
+7 - Click Shrink.
+Click Shrink. This creates a new partition of unallocated space on your hard drive.
+

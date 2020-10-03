@@ -1,0 +1,36 @@
+Create a LAMP Server Using Ubuntu
+https://www.wikihow.com/Create-a-LAMP-Server-Using-Ubuntu
+
+0 - Steps
+
+1 - Install Ubuntu.
+Install Ubuntu. Before you can build a LAMP server on Ubuntu, you must have installed Ubuntu.
+- ;
+
+2 - Open a terminal.
+Open a terminal. Ubuntu comes with gnome-terminal.
+
+3 - Installing additional tasks Inside your terminal, type:
+Installing additional tasks Inside your terminal, type: sudo taskbar and press enter.
+
+4 - Select the task Lamp Server, press tab, and then press enter to install.
+Select the task Lamp Server, press tab, and then press enter to install.
+
+5 - Set the MySQL password for the root account It may ask you to set the password twice.
+Set the MySQL password for the root account It may ask you to set the password twice.
+
+6 - Restart apache to reload the configuration and enable the usage of php scripts, run the command:
+Restart apache to reload the configuration and enable the usage of php scripts, run the command: service apache2 restart
+
+7 - Create a test script type:
+Create a test script type: sudo editor /var/www/html/test.php'
+- Insert the following php code into the file, and save: <?php phpinfo();?>
+- You may replace editor with your favorite text editor.
+
+8 - View test.php in your browser run the following command:
+View test.php in your browser run the following command: www-browser http://127.0.0.1/test.php
+- You may replace www-browser with your favorite browser, or test the page remotely, replacing 127.0.0.1 with the IP of your server.
+
+9 - If it displays a list of features and settings, you now have a working LAMP server.
+If it displays a list of features and settings, you now have a working LAMP server. Congratulations!
+

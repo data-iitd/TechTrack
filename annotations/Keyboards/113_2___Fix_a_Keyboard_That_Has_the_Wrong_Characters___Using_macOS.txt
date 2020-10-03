@@ -1,0 +1,30 @@
+Fix a Keyboard That Has the Wrong Characters
+https://www.wikihow.com/Fix-a-Keyboard-That-Has-the-Wrong-Characters
+
+0 - Using macOS
+
+1 - Switch between your installed languages.
+Switch between your installed languages. You can switch between your installed languages in a couple of different ways:
+- Click the icon that resembles a flag or a character in the menu bar at the top of your desktop.  Then select your preferred language and keyboard input.
+- Press the ⌘ Command key and the Spacebar to cycle through your installed languages.
+
+2 - Click the Apple menu  and select System Preferences.
+Click the Apple menu  and select System Preferences.  This will open the System Preferences menu, where you can set which input languages are available on your computer.
+
+3 - Click the Keyboard option.
+Click the Keyboard option. It has an icon that resembles a keyboard. This will display your keyboard settings.
+- If you are using a keyboard other than a Mac keyboard, click Change keyboard type under the "Keyboard" tab.  Follow the instructions to detect your keyboard type.
+
+4 - Click Input Sources tab.
+Click Input Sources tab.  It's at the top of the Keyboard menu.  This allows you to select what languages are installed.
+
+5 - Click +.
+Click +.  It's below the list of languages to the left.  This opens a menu that allows you to add more languages.
+- Additionally, you can click any languages or keyboard inputs in the list of languages and click the minus (-) below the list to remove those languages.
+
+6 - Search for your preferred language.
+Search for your preferred language.  Use the search bar in the lower-right corner of the window to search for your preferred language.  This displays a list of languages that match your search.
+
+7 - Select your preferred language and click Add.
+Select your preferred language and click Add.  When you see your preferred language in the list to the right, click it to select it.  Then click Add in the lower-right corner of the window to add your preferred language.  You can add as many languages as you need.  Click the flag or character icon in the menu bar at the top fo the screen to select your preferred keyboard layout or language.
+

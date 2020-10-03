@@ -1,0 +1,29 @@
+Fix a Webcam That Is Displaying a Black Screen on Windows
+https://www.wikihow.com/Fix-a-Webcam-That-Is-Displaying-a-Black-Screen-on-Windows
+
+0 - General Fixes
+
+1 - Check your webcam's compatibility.
+Check your webcam's compatibility. If you're using a USB webcam (e.g., one that isn't built into your computer), read the manual or look up the model number to make sure that it's still compatible with your computer. If you recently updated your operating system (for example, from Windows 7 to Windows 10), your webcam might not work with your version of Windows at all.
+- If your webcam does prove to be incompatible, you'll need a new webcam that is compatible. Don't toss your old one away, though—there's always a possibility that Windows will update to include support for it.
+- ;
+
+2 - Make sure your webcam isn't obstructed.
+Make sure your webcam isn't obstructed. It seems obvious, but sometimes USB or built-in webcams can get smudged or have their light level detector covered by dust. Giving your webcam a quick inspection—and a wipe-down with a damp cloth, if necessary—can make a huge difference.
+
+3 - Unplug any USB connections from your computer.
+Unplug any USB connections from your computer. Having too many USB connections plugged into your computer at once can cause your webcam (or other USB items) to malfunction.
+- Leave your webcam plugged in if it's a USB rather than a built-in camera.
+
+4 - Try plugging your webcam into a different USB port.
+Try plugging your webcam into a different USB port. If your webcam is meant to be plugged into a USB 3.0 slot and you have it plugged into a USB 2.0 slot, you may see a black screen instead of the video output that you expect.
+- Skip this step if your webcam is built into your computer.
+
+5 - Adjust your USB webcam's video settings.
+Adjust your USB webcam's video settings. In some cases, your webcam program's settings will be reset or skewed after updating your operating system. Open your webcam's program (this will vary based on the webcam that you're using) and find the Preferences or Settings section, then adjust the video and display settings to see if your webcam's picture changes.
+
+6 - Restart your computer in Safe Mode.
+Restart your computer in Safe Mode. This will prevent your computer from loading non-essential programs automatically, which will give you an idea of whether or not programs on your computer are interfering with your webcam:
+- If you open your webcam in Safe Mode and it displays a black screen, the problem isn't another program on your computer. Proceed with updating the webcam's software.
+- If you open your webcam in Safe Mode and it works, a startup program is interfering with your webcam. Try disabling startup programs such as antivirus suites and social tools like Slack or Steam.
+

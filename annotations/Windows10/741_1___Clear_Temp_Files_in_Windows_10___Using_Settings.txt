@@ -1,0 +1,28 @@
+Clear Temp Files in Windows 10
+https://www.wikihow.com/Clear-Temp-Files-in-Windows-10
+
+0 - Using Settings
+
+1 - Open your Windows Settings .
+Open your Windows Settings . You can click on the Start icon and then the gear to open Settings.
+
+2 - Click System.
+Click System. It's the computer icon.
+
+3 - Click Storage.
+Click Storage. This is near the bottom of the menu on the left.
+
+4 - Click the drive where Windows 10 is installed.
+Click the drive where Windows 10 is installed. It usually has a Windows logo over the drive icon and might be called “This PC.”
+
+5 - Click Temporary Files.
+Click Temporary Files. The number here represents how much space the temporary files are taking up. The next page shows you all the files that are considered temporary files, including files in the Downloads folder, files in the Recycling Bin, and thumbnails.
+
+6 - Click to check the boxes next to the files you want to delete.
+Click to check the boxes next to the files you want to delete.
+
+7 - Click Remove files.
+Click Remove files. You’ll see a progress bar of the deletion.[2]
+- X
+- Research source
+

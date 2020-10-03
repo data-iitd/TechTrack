@@ -1,0 +1,23 @@
+Use Windows 10
+https://www.wikihow.com/Use-Windows-10
+
+0 - Using Windows Search and Cortana
+
+1 - Open the Search box.
+Open the Search box. In Windows 10, you’ll do this by opening Cortana, the virtual assistant. There two ways to open the search bar:
+- Click the circle or magnifying glass to the right of the Start menu.
+- Press ⊞ Win+S to open the Search bar, and then type what you’re looking for.
+- If you’re using a version of Windows 10 that hasn’t been updated, click the Start menu to display the search bar.
+
+2 - Select what you’re searching for.
+Select what you’re searching for. At the bottom of the Cortana window (right above the typing area), click Apps, Documents, or Web.
+
+3 - Start typing your search term or keyword.
+Start typing your search term or keyword. As you type, Windows will attempt to find what you’re looking for. Items that match what you’ve typed will appear above the search bar.
+
+4 - Click an app, document, or website to open it.
+Click an app, document, or website to open it. This closes the search bar and refocuses on the app.
+
+5 - Manage your Cortana preferences.
+Manage your Cortana preferences. For a deeper look into all Cortana can do, including using voice recognition, see How to Use Cortana.
+

@@ -1,0 +1,19 @@
+T1	Hardware-Other 157 165	computer
+T2	Software-Other 281 289	document
+A1	isOpened T2 f->t
+T3	Software-Other 357 362	Print
+A2	isOpened T3 f->t
+T4	Software-Other 543 557	Odd pages only
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	
+T5	Software-Other 1207 1212	Print
+T6	Hardware-Devices 1322 1329	printer
+T7	Software-Other 1913 1918	Print
+A4	isSettingsChanged T7 true
+R2	SubPart Arg1:T7 Arg2:T3	
+T8	Software-Other 2001 2016	Even pages only
+A5	isSettingsChanged T8 true
+T9	Software-Other 2077 2082	Print
+A6	isSettingsChanged T9 true
+R3	SubPart Arg1:T8 Arg2:T3	
+R4	SubPart Arg1:T9 Arg2:T3	

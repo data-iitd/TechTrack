@@ -1,0 +1,42 @@
+Update Windows
+https://www.wikihow.com/Update-Windows
+
+0 - Updating Windows 10
+
+1 - Click the Start  button.
+Click the Start  button. It’s usually at the bottom-left corner of the screen.
+- Windows periodically checks for updates and installs them automatically. You can still use this method to check for updates that have been released since the last update check ran.[1]
+- X
+- Research source
+- 
+- 
+- After Windows installs an automatic update, it may prompt you to reboot your computer. If you see a message asking you to reboot (or schedule a reboot), follow the on-screen instructions to do so.
+- ;
+
+2 - Click Settings .
+Click Settings . It’s toward the bottom of the menu.
+
+3 - Click Update & security.
+Click Update & security. It’s the option with two curved arrows.
+
+4 - Click Check for updates.
+Click Check for updates. It’s at the top of the right panel. Windows will check for updates.
+- If no updates are available, you’ll see a message that says ″Windows is up to date.″
+- If updates are available, they’ll download automatically. The progress appears at the top of the right panel below ″Updates available.″
+- Leave this window open as the update installs so you’ll know whether you need to restart your computer.
+
+5 - Restart your computer when prompted.
+Restart your computer when prompted. If you see a message that says ″Restart required″ after running the update tool, you can either reboot now, or schedule a reboot for later.
+- To reboot now, save anything you’re working on, close all applications, and then click Restart now (on the Windows Update window).
+- To schedule a reboot for later, click Schedule the restart (on the Windows Update window), slide the switch to the On (blue) position, and then select a time you won’t be busy on the computer.
+
+6 - Troubleshoot a failed update.
+Troubleshoot a failed update. If the update fails or you receive an error, try the following troubleshooting steps:[2]
+- X
+- Research source
+- 
+- 
+- Make sure your computer is connected to the internet.
+- Try restarting the computer and running the update tool again.
+- If the update still fails, return to Settings → Update & Security and click Troubleshoot on the left panel. Click Windows Update under ″Get up and running,″ and then follow the on-screen instructions to fix the problem.
+

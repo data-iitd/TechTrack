@@ -1,0 +1,20 @@
+T1	Software-OS-Related 333 341	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 432 471	sudo add-apt-repository ppa:myunity/ppa
+T3	Software-OS-Related 741 749	password
+T4	Software-OS-Related 1132 1151	sudo apt-get update
+A4	isSettingsChanged T4 true
+T5	Software-Other 1329 1357	sudo apt-get install myunity
+T6	Software-Other 1527 1528	Y
+T7	Software-OS-Related 1692 1700	Terminal
+A7	isOpened T7 t->f
+T8	Software-Other 1991 1995	icon
+A8	isOpened T8 f->t
+A5	isInstalled T5 f->t
+A9	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	
+A2	isSettingsChanged T2 true
+R2	SubPart Arg1:T2 Arg2:T1	
+A3	isSettingsChanged T3 true
+R3	SubPart Arg1:T3 Arg2:T1	
+R4	SubPart Arg1:T4 Arg2:T1	

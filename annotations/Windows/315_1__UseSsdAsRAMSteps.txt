@@ -1,0 +1,44 @@
+Use Ssd As RAM
+https://www.wikihow.com/Use-Ssd-As-RAM
+
+0 - Steps
+
+1 - Right-click This PC.
+Right-click This PC. It’s the icon on your Windows desktop that looks like a computer. A menu will appear.
+- ;
+
+2 - Click Properties.
+Click Properties.
+
+3 - Click Advanced system settings.
+Click Advanced system settings. It’s on the left side of the window. This opens the System Properties dialog.
+- Enter your administrator password if prompted.
+
+4 - Click Settings under the “Performance” header.
+Click Settings under the “Performance” header. It’s the first “Settings” button on the “Advanced” tab. A list of performance options will appear.
+
+5 - Click the Advanced tab.
+Click the Advanced tab. It’s the second tab on the window.
+
+6 - Click Change….
+Click Change…. It’s under the “Virtual memory” header. This opens the Virtual Memory dialog, which is where you can configure how much of your hard drive will be used as RAM.
+
+7 - Un-check “Automatically manage paging file size for all drives.
+Un-check “Automatically manage paging file size for all drives.” Now you can edit the options on this screen.
+
+8 - Click your SSD drive.
+Click your SSD drive. This selects the drive as the location for your paging file (virtual RAM).
+
+9 - Select System managed size.
+Select System managed size.
+- If you have specific instructions for how large of a page file you need, select Custom size instead, then enter the minimum and maximum page file size in the appropriate blanks.
+
+10 - Click Set.
+Click Set.
+
+11 - Click OK.
+Click OK. A pop-up message will appear, letting you know that you’ll need to restart your computer before the changes will take effect.
+
+12 - Click OK.
+Click OK. Your PC will now shut down and restart. When it comes back up, it will be using part of your SSD drive as virtual RAM—this should speed up your computer.
+

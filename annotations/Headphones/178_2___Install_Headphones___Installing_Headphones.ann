@@ -1,0 +1,36 @@
+T1	Software-Other 120 126	Python
+A1	isInstalled T1 f->t
+T5	Software-Other 425 435	Headphones
+T6	Software-Other 467 477	Headphones
+A4	isInstalled T6 f->t
+T7	Software-Other 626 670	github.com/rembo10/headphones/zipball/master
+A8	isOpened T6 f->t
+T2	Software-Other 230 240	Headphones
+A2	isOpened T7 f->t
+A3	isInstalled T7 start-F
+T3	Software-Other 1423 1433	web browse
+A5	isOpened T3 f->t
+A6	isInstalled T3 start-T
+T4	Software-Other 3020 3028	Settings
+T8	Software-Other 3422 3438	Download Setting
+A7	isOpened T8 f->t
+A9	isSettingsChanged T8 true
+T9	Software-Other 4262 4278	Search providers
+A10	isSettingsChanged T9 true
+A11	isOpened T9 f->t
+T10	Software-Other 5004 5031	Quality and Post Processing
+A12	isSettingsChanged T10 true
+A13	isOpened T10 f->t
+T11	Software-Other 1738 1748	headphones
+T12	Software-Other 3041 3051	Headphones
+A14	isOpened T4 f->t
+T13	Software-Other 5145 5155	Headphones
+R2	SubPart Arg1:T10 Arg2:T13	
+T14	Software-Other 4371 4381	Headphones
+R3	SubPart Arg1:T9 Arg2:T14	
+R1	SubPart Arg1:T4 Arg2:T12	
+T15	Software-Other 3475 3484	Headphone
+R4	SubPart Arg1:T8 Arg2:T15	
+T16	Software-Other 5826 5836	Headphones
+T17	Software-Other 6549 6559	Headphones
+T18	Software-Other 7772 7782	Headphones

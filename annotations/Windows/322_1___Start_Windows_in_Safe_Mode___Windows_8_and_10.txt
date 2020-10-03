@@ -1,0 +1,41 @@
+Start Windows in Safe Mode
+https://www.wikihow.com/Start-Windows-in-Safe-Mode
+
+0 - Windows 8 and 10
+
+1 - Suspend BitLocker protection (if enabled).
+Suspend BitLocker protection (if enabled).  Go to Manage BitLocker then click on "Suspend protection".  If you do not suspend BitLocker protection, then you will be asked for your recovery key to continue booting into safe mode.;
+
+2 - Turn on or restart your computer.
+Turn on or restart your computer. Do so by pressing your computer's power button. If your computer is already on but malfunctioning, first press and hold the power button to turn it off.
+- If you're already logged in and you just want to restart in Safe Mode, open the Start menu instead by pressing the ⊞ Win key or by clicking the Windows logo in the bottom-left corner of the screen.
+
+3 - Click the start-up screen.
+Click the start-up screen. Once your computer finishes starting (or waking up), you should see a screen with a picture and the time in the bottom-left corner. Clicking this screen will bring up the user selection screen.
+
+4 - Click the power icon.
+Click the power icon. This icon, which is in the bottom-right corner of the screen, resembles a circle with a line through its top. Doing so invokes a pop-up menu.
+
+5 - Hold down ⇧ Shift and click Restart.
+Hold down ⇧ Shift and click Restart. The Restart option will appear near the top of the pop-up menu, and you'll find the ⇧ Shift key on the left side of your computer's keyboard. This process will restart your computer and open the Advanced Options page.
+- You may need to click Restart anyway after clicking Restart. If so, keep holding ⇧ Shift while you do.
+
+6 - Click Troubleshoot.
+Click Troubleshoot. It should be the middle option on the Advanced Options page, which is a light-blue screen with white text.
+
+7 - Click Advanced options.
+Click Advanced options. It's the bottom option on this page.
+
+8 - Click Startup Settings.
+Click Startup Settings. This option is on the right side of the page, just below the Command Prompt option.
+
+9 - Click Restart.
+Click Restart. It's in the bottom-right corner of the screen. Clicking it will restart your computer to the Startup Settings menu.
+
+10 - Press the 4 key.
+Press the 4 key. Once Windows has restarted to the Startup Settings page, pressing 4 will select Safe Mode as your current start-up option.
+
+11 - Wait for your computer to finish restarting.
+Wait for your computer to finish restarting. Once it finishes restarting, your computer will be in Safe Mode.
+- To exit Safe Mode, restart your computer normally.
+

@@ -1,0 +1,36 @@
+Install Wine on Ubuntu
+https://www.wikihow.com/Install-Wine-on-Ubuntu
+
+0 - Installing Wine
+
+1 - Open the Software Center.
+Open the Software Center. This is Ubuntu's app store, and is the easiest way to install the most stable version of Wine and other software for Ubuntu. You'll need an active internet connection to install it.[1]
+- X
+- Research source
+- 
+- It is possible to install the latest, unstable version from Wine's developers, but this is not recommended for most users as you may encounter serious issues with it.
+- ;
+
+2 - Search for wine in the Software Center.
+Search for wine in the Software Center. The Wine program should be the first on the list of results.
+
+3 - Click Install to begin installing the Wine software.
+Click Install to begin installing the Wine software.  This may take a few minutes.
+
+4 - Open the Terminal after Wine has finished installing.
+Open the Terminal after Wine has finished installing. You will need to configure Wine before you can use it, which needs to be done through the Terminal.
+- You can open the Terminal from Applications → Accessories → Terminal, or by pressing Ctrl+Alt+T.
+
+5 - Type .
+Type .winecfg and press ↵ Enter. This will create a folder on your computer that will act as the Windows "C:" drive, which will allow you to run programs.
+- This folder is labeled .wine and is hidden in your Home directory.
+
+6 - Set your Windows emulation configuration options.
+Set your Windows emulation configuration options. After the "C:" drive is created, the configuration  window will open, allowing you to adjust the settings for the emulated version of Windows. The different tabs allow you to adjust different settings.
+- "Applications" - This allows you to set the Windows version for each of your installed applications. The "Default Settings" is the version of Windows that will be loaded for any application that does not have a specific operating system set.
+- "Libraries" - This lets you adjust DLLs for the emulated version of Windows. Most users can leave this alone. You may need to make adjustments here to make some programs run correctly.
+- "Graphics" - This allows you to adjust options like screen size, mouse capture, and resolution. This is linked to the "Applications" tab, so these changes can be application-specific.
+- "Drives" - This allows you to map virtual drives for Wine using your own drives and folders. To find the Path for your disc drive, right-click the icon on your desktop. You can also click "Autodetect" to attempt to have Wine automatically detect your installed drives.
+- "Desktop Integration" - This allows you to set the theme and appearance of your emulated applications.
+- "Audio" - This adjusts the audio settings for Wine. Most users can leave them at default, and Wine will use your Linux settings.
+

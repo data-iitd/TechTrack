@@ -1,0 +1,26 @@
+T1	Hardware-Devices 158 165	netbook
+A1	isPowered T1 start-F
+T2	Hardware-Other 187 190	VGA
+T3	Hardware-Other 194 202	DVI port
+T4	Hardware-Other 366 388	netbook owner's manual
+T5	Hardware-Devices 439 462	flat panel LCD displays
+T6	Hardware-Devices 499 502	LCD
+T7	Hardware-Devices 518 530	CRT monitors
+T8	Hardware-Devices 592 603	LCD monitor
+T9	Hardware-Other 622 625	VGA
+T10	Hardware-Devices 639 646	netbook
+T11	Hardware-Devices 731 734	LCD
+A7	isPowered T11 f->t
+T12	Hardware-Devices 754 761	netbook
+A8	isPowered T12 f->t
+T15	Software-OS-Related 884 894	Properties
+A11	isOpened T15 f->t
+T17	Software-OS-Related 1033 1041	Settings
+A13	isOpened T17 f->t
+T21	Software-OS-Related 1410 1453	Extend my Windows desktop onto this monitor
+T22	Hardware-Devices 1580 1591	LCD monitor
+A2	isSettingsChanged T21 true
+T24	Software-OS-Related 1557 1574	screen resolution
+A3	isSettingsChanged T24 true
+R1	SubPart Arg1:T21 Arg2:T15	
+R2	SubPart Arg1:T24 Arg2:T15	

@@ -1,0 +1,32 @@
+Install a Logitech Webcam
+https://www.wikihow.com/Install-a-Logitech-Webcam
+
+0 - Downloading Software and Drivers
+
+1 - Position the webcam as desired on top of your computer.
+Position the webcam as desired on top of your computer.
+
+2 - Navigate to the Logitech Support website at http://support.logitech.com/en_us/category/webcams-and-security.
+Navigate to the Logitech Support website at http://support.logitech.com/en_us/category/webcams-and-security.
+
+3 - Click on “Webcams,” then click on “More” below your webcam model.
+Click on “Webcams,” then click on “More” below your webcam model.
+
+4 - Click on the “Downloads” tab.
+Click on the “Downloads” tab. The software for your webcam will display on-screen.
+
+5 - Select your computer’s operating system from the dropdown menu, then click on “Download.
+Select your computer’s operating system from the dropdown menu, then click on “Download.”
+
+6 - Select the option to save the software file to your desktop.
+Select the option to save the software file to your desktop.
+
+7 - Navigate to your desktop and double-click on the software file.
+Navigate to your desktop and double-click on the software file. The Logitech installation wizard will display on-screen.
+
+8 - Follow the on-screen instructions to install the software and drivers for the Logitech webcam on your computer.
+Follow the on-screen instructions to install the software and drivers for the Logitech webcam on your computer. The installation wizard will guide you through the process.
+
+9 - Connect the webcam to your computer via USB when prompted to by the installation wizard.
+Connect the webcam to your computer via USB when prompted to by the installation wizard. Your Logitech webcam is now ready for use.
+

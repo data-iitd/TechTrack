@@ -1,0 +1,56 @@
+Fix a Keyboard That Has the Wrong Characters
+https://www.wikihow.com/Fix-a-Keyboard-That-Has-the-Wrong-Characters
+
+0 - Using Windows 8 and 8.1
+
+1 - Check the NumLock and Fn+NumLock keys.
+Check the NumLock and Fn+NumLock keys. Many laptops will convert a good chunk of the keyboard into a number pad if NumLock is enabled. Press "NumLock" or press "FN" + "NumLock" keys to make sure that it is disabled. Try typing again to see if your keys are fixed. If this doesn't fix your problem, you may have the wrong language selected.
+
+2 - Switch between your installed keyboards.
+Switch between your installed keyboards. There are several ways that you can change your input language if you have multiple keyboards installed:[2]
+- X
+- Research source
+- 
+- 
+- Click the Language button in your System Tray.  It has an abbreviation for your current language and keyboard layout.  Then click the language you want to use. This only appears when you have more than one language or keyboard installed.
+- Press and hold the Windows button and press the Spacebar to cycle between your installed languages and keyboards.
+- Press and hold the Windows button and press the Spacebar to cycle through your installed keyboards.
+
+3 - Press ⊞ Win+C to open the Charms menu.
+Press ⊞ Win+C to open the Charms menu. If the previous steps didn't resolve your issue, continue with this method. You can also open this by moving your mouse to the lower-right corner of the screen, or by swiping in from the right.
+
+4 - Click Settings .
+Click Settings .  It's below an icon that resembles a gear in the Charms bar.  This opens the Settings menu.
+
+5 - Click Control Panel.
+Click Control Panel.  This opens the Windows Control Panel.
+- This may be under "Change PC settings" or "more PC settings" in the lower-right corner of the Settings menu.[3]
+- X
+- Research source
+
+6 - Click Change input method.
+Click Change input method.  It's below "Clock, Language & Region" in the Control Panel.  It's next to an icon that resembles a clock and a globe.[4]
+- X
+- Research source
+
+7 - Click Options.
+Click Options.  It's to the right of the selected language in the "Change your language preferences" menu.
+- If the selected language is incorrect, click your preferred language in the list of languages.  Click the button that says Move Up above the list of languages until your preferred language is at the top of the list.
+- If your preferred language is not listed, click Add Language at the top of the menu and select your preferred language.  Then download the language package.
+- Additionally, you can click Remove next to any keyboards or input methods you don't use in the "Language Options" window to uninstall them.
+
+8 - Click Add an input method.
+Click Add an input method.  It's the blue text in the area labeled "Input method".
+
+9 - Type your language or keyboard layout in the search bar.
+Type your language or keyboard layout in the search bar.  The search bar is in the upper-right corner of the "Input method" window.  This displays a list of keyboard layouts and input methods.
+
+10 - Click your preferred keyboard layout.
+Click your preferred keyboard layout.  It's in the list of keyboard layouts and input methods.  This selects the input method.
+
+11 - Click Add.
+Click Add.  It's in the lower-right corner of the "Input Method" window.  This adds your input method and returns to the "Language Options" menu.
+
+12 - Click Save.
+Click Save.  It's in the lower-right corner of the "Language Options" menu.  This saves your language and keyboard input settings.  You can change between preferred languages and keyboard inputs by clicking the language icon in the taskbar (See Step 2).
+

@@ -1,0 +1,29 @@
+T1	Software-OS-Related 115 134	Download the Ubuntu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 451 475	Burn the image to a disc
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1434 1438	BIOS
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1478 1490	CD/DVD drive
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1559 1563	BIOS
+A5	isOpened T5 t->f
+T6	Software-OS-Related 2053 2063	Try Ubuntu
+A6	isOpened T6 f->t
+T7	Software-OS-Related 2170 2184	Install Ubuntu
+A7	isOpened T7 f->t
+T8	Software-OS-Related 2761 2803	boxes in the “Preparing to install Ubuntu”
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 3175 3192	installation type
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 4111 4123	user options
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 4418 4439	username and password
+A11	isSettingsChanged T11 true
+R1	SubPart Arg1:T8 Arg2:T7	
+R2	SubPart Arg1:T9 Arg2:T7	
+R3	SubPart Arg1:T10 Arg2:T7	
+R4	SubPart Arg1:T11 Arg2:T7	
+T12	Software-OS-Related 1136 1162	boot from the CD/DVD drive
+A12	isOpened T12 f->t
+R5	SubPart Arg1:T4 Arg2:T3	

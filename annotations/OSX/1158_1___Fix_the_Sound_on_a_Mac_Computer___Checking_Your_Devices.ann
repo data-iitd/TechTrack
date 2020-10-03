@@ -1,0 +1,18 @@
+T1	Hardware-Other 147 157	headphones
+T2	Hardware-Other 292 300	speakers
+T3	Software-OS-Related 410 420	Apple menu
+A1	isOpened T3 f->t
+T4	Software-OS-Related 432 450	System Preferences
+A2	isOpened T4 f->t
+T5	Software-OS-Related 617 623	Sounds
+A3	isOpened T5 f->t
+T6	Hardware-Other 337 351	headphone plug
+T7	Software-OS-Related 653 659	Output
+A4	isOpened T7 f->t
+T8	Software-OS-Related 811 824	output device
+T9	Software-OS-Related 977 994	Internal Speakers
+T10	Software-OS-Related 1000 1011	Digital Out
+T11	Hardware-Devices 1068 1070	TV
+T12	Software-OS-Related 1084 1088	HDMI
+T13	Software-OS-Related 1115 1121	volume
+T14	Software-OS-Related 1131 1148	external speakers

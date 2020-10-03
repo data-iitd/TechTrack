@@ -1,0 +1,15 @@
+T1	Software-OS-Related 175 193	System Preferences
+A1	isOpened T1 f->t
+T2	Software-OS-Related 196 204	Keyboard
+A2	isOpened T2 f->t
+T3	Software-OS-Related 207 216	Shortcuts
+A3	isOpened T3 f->t
+T4	Software-OS-Related 283 291	Services
+A4	isOpened T4 f->t
+T5	Software-OS-Related 531 535	None
+T6	Software-OS-Related 621 633	Add Shortcut
+T8	Hardware-Other 791 795	keys
+T9	Software-OS-Related 820 831	screensaver
+A7	isOpened T9 f->t
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T4	

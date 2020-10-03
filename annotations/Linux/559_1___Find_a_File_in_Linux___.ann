@@ -1,0 +1,35 @@
+T1	Software-OS-Related 95 99	file
+T2	Software-OS-Related 211 223	find command
+T3	Software-OS-Related 356 378	find -iname "filename"
+T4	Software-OS-Related 528 542	root directory
+T5	Software-OS-Related 758 782	find / -iname "filename"
+T6	Software-OS-Related 829 838	directory
+T7	Software-OS-Related 1083 1084	*
+T8	Software-OS-Related 1303 1333	find /home/pat -iname "*.conf"
+T9	Software-OS-Related 1946 1983	find /home/pat -iname "*.conf" | less
+T11	Software-OS-Related 2406 2411	files
+T12	Software-OS-Related 2139 2156	regular files (f)
+T13	Software-OS-Related 2158 2173	directories (d)
+T14	Software-OS-Related 2175 2193	symbolic links (l)
+T15	Software-OS-Related 2195 2216	character devices (c)
+T16	Software-OS-Related 2222 2239	block devices (b)
+T17	Software-OS-Related 2273 2305	find / -type f -iname "filename"
+T18	Software-OS-Related 2325 2339	search results
+T19	Software-OS-Related 2511 2546	find / -size +50M -iname "filename"
+T20	Software-OS-Related 2924 2938	search filters
+T21	Software-OS-Related 2895 2912	boolean operators
+T22	Software-OS-Related 3123 3182	find /travelphotos -type f -size +200k -not -iname "*2015*"
+T23	Software-OS-Related 3362 3367	files
+T24	Software-OS-Related 3371 3376	owner
+T25	Software-OS-Related 3380 3391	permissions
+T29	Software-OS-Related 3976 3984	commands
+T30	Software-OS-Related 4326 4364	type f -perm 777 -exec chmod 755 {} \;
+R4	SubPart Arg1:T30 Arg2:T29	
+T31	Software-OS-Related 4009 4014	files
+T32	Software-OS-Related 4456 4471	777 permissions
+R5	SubPart Arg1:T22 Arg2:T20	
+R6	SubPart Arg1:T19 Arg2:T18	
+A3	isSettingsChanged T22 true
+A1	isSettingsChanged T30 true
+A2	isSettingsChanged T19 true
+T10	Software-OS-Related 1627 1641	search results

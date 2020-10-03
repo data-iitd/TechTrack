@@ -1,0 +1,18 @@
+T1	Software-Other 1135 1144	filezilla
+A1	isOpened T1 f->t
+T2	Software-Other 1479 1483	File
+A2	isSettingsChanged T2 true
+T3	Software-Other 1608 1620	Site Manager
+A3	isOpened T3 f->t
+T4	Software-Other 1735 1743	New Site
+A4	isSettingsChanged T4 true
+T5	Software-Other 1908 1924	server's address
+A5	isSettingsChanged T5 true
+T6	Software-Other 2139 2141	21
+A6	isSettingsChanged T6 true
+T7	Software-Other 2200 2207	Connect
+A7	isOpened T7 f->t
+R2	SubPart Arg1:T5 Arg2:T3	
+R3	SubPart Arg1:T6 Arg2:T3	
+A8	isOpened T2 f->t
+A9	isOpened T4 f->t

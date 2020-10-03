@@ -1,0 +1,47 @@
+T1	Software-OS-Related 291 299	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 732 736	root
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1130 1134	ip a
+A3	isOpened T3 f->t
+T4	Software-OS-Related 203 218	RPM-based Linux
+T5	Software-OS-Related 1309 1317	Ethernet
+T6	Software-OS-Related 1321 1337	Wi-Fi connection
+T7	Software-OS-Related 1511 1544	cd /etc/sysconfig/network-scripts
+A4	isSettingsChanged T7 true
+T8	Software-OS-Related 1434 1459	network scripts directory
+R1	SubPart Arg1:T7 Arg2:T8	
+T9	Software-OS-Related 1638 1640	ls
+T10	Software-OS-Related 2035 2055	vi ifcfg-eno12345678
+A5	isOpened T10 f->t
+T11	Software-OS-Related 2170 2179	BOOTPROTO
+T12	Software-OS-Related 2197 2201	none
+A6	isSettingsChanged T12 true
+T13	Software-OS-Related 2189 2193	dhcp
+R2	SubPart Arg1:T12 Arg2:T11	
+T14	Software-OS-Related 2213 2217	IPV6
+A7	isSettingsChanged T14 true
+R3	SubPart Arg1:T14 Arg2:T10	
+T15	Software-OS-Related 2322 2328	ONBOOT
+T16	Software-OS-Related 2338 2340	no
+T17	Software-OS-Related 2344 2347	yes
+A8	isSettingsChanged T17 true
+R4	SubPart Arg1:T17 Arg2:T15	
+T18	Software-OS-Related 2628 2647	IPADDR=192.168.2.23
+A9	isSettingsChanged T18 true
+T19	Software-OS-Related 2364 2379	new IP category
+R5	SubPart Arg1:T18 Arg2:T19	
+T20	Software-OS-Related 2681 2688	netmask
+T21	Software-OS-Related 2690 2697	gateway
+T22	Software-OS-Related 2703 2706	DNS
+T23	Software-OS-Related 2866 2887	NETMASK=255.255.255.0
+A10	isSettingsChanged T23 true
+R6	SubPart Arg1:T23 Arg2:T20	
+T24	Software-OS-Related 2905 2924	GATEWAY=192.168.2.1
+A11	isSettingsChanged T24 true
+R7	SubPart Arg1:T24 Arg2:T21	
+T25	Software-OS-Related 3026 3030	file
+A12	isOpened T25 t->f
+T26	Software-OS-Related 3008 3012	Save
+A13	isSettingsChanged T26 true
+R8	SubPart Arg1:T26 Arg2:T25	

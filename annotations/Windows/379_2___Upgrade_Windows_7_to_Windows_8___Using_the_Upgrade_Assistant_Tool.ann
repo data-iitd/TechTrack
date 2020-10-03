@@ -1,0 +1,13 @@
+T1	Hardware-Devices 361 369	computer
+A1	isUsed T1 true
+T3	Software-Other 560 582	Upgrade Assistant tool
+A2	isOpened T3 f->t
+T2	Software-Other 1694 1702	Checkout
+A3	isOpened T2 f->t
+T4	Software-Other 834 859	See compatibility details
+T5	Software-Other 1177 1181	Next
+A4	isOpened T5 f->t
+T6	Software-Other 1430 1435	Order
+A5	isOpened T6 f->t
+T7	Software-Other 2373 2388	downloaded file
+A6	isInstalled T7 f->t

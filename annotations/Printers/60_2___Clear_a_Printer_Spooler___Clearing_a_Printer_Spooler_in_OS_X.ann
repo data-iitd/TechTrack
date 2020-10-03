@@ -1,0 +1,12 @@
+T1	Software-OS-Related 131 141	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 327 345	System preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 485 506	Printers and scanners
+A3	isOpened T3 f->t
+T4	Software-OS-Related 926 947	Printers and scanners
+T5	Software-OS-Related 1878 1881	Add
+T6	Software-OS-Related 2144 2147	Add
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T7	Software-OS-Related 2522 2527	Print

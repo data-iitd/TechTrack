@@ -1,0 +1,10 @@
+T1	Software-OS-Related 181 199	System Preferences
+A1	isOpened T1 f->t
+T2	Software-OS-Related 200 206	Speech
+A2	isOpened T2 f->t
+T3	Software-OS-Related 207 221	Text to Speech
+A3	isOpened T3 f->t
+T4	Software-OS-Related 284 323	Speak Selected Text When Key is Pressed
+A4	isSettingsChanged T4 true
+T5	Software-Other 527 559	text you would like to have read
+A5	isSettingsChanged T5 true

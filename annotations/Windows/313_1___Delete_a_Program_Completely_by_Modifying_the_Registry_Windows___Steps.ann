@@ -1,0 +1,12 @@
+T1	Software-Other 436 443	Regedit
+A1	isOpened T1 f->t
+T2	Software-Other 532 536	File
+A2	isOpened T2 f->t
+T3	Software-Other 564 570	Export
+A3	isOpened T3 f->t
+T4	Software-Other 774 778	Edit
+A4	isOpened T4 f->t
+T5	Software-Other 806 810	Find
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1271 1277	Reboot
+A6	isSettingsChanged T6 true

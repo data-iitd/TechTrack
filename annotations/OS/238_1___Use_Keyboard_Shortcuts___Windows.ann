@@ -1,0 +1,60 @@
+T1	Hardware-Devices 409 417	keyboard
+T2	Software-OS-Related 1317 1324	Windows
+T3	Hardware-Other 1412 1420	computer
+T4	Software-OS-Related 1353 1362	Help page
+T5	Hardware-Other 1136 1141	mouse
+T6	Software-OS-Related 1509 1521	context menu
+T7	Software-OS-Related 1622 1634	Task Manager
+T8	Software-OS-Related 1663 1684	Windows Security menu
+T9	Software-OS-Related 1785 1791	resize
+T10	Software-OS-Related 1793 1801	minimize
+T11	Software-OS-Related 1803 1811	maximize
+T12	Software-OS-Related 1816 1820	move
+T13	Software-OS-Related 1833 1839	window
+T14	Software-OS-Related 1857 1861	Move
+T15	Software-Other 1878 1891	window's tabs
+T16	Software-Other 1904 1911	browser
+T17	Software-OS-Related 1994 2001	windows
+T19	Software-OS-Related 2062 2069	program
+T20	Software-OS-Related 2103 2109	delete
+T21	Software-OS-Related 2148 2159	Recycle Bin
+T22	Software-OS-Related 2220 2225	Start
+T23	Software-OS-Related 2189 2191	OK
+T24	Software-OS-Related 2290 2298	password
+T25	Software-OS-Related 2240 2244	Lock
+T27	Software-OS-Related 2377 2380	Run
+T18	Software-OS-Related 2471 2478	Restore
+T26	Software-OS-Related 2520 2533	File Explorer
+T28	Software-OS-Related 2697 2714	System Properties
+T29	Software-OS-Related 2781 2791	search bar
+T30	Software-OS-Related 2854 2872	keyboard shortcuts
+T31	Software-OS-Related 3129 3133	Copy
+T32	Software-OS-Related 3188 3193	files
+T33	Software-OS-Related 3197 3204	folders
+T34	Software-OS-Related 3227 3233	remove
+T35	Software-OS-Related 3259 3266	cutting
+T36	Software-OS-Related 3282 3287	Paste
+T37	Software-OS-Related 3307 3313	cursor
+T38	Software-OS-Related 3367 3371	Undo
+T39	Software-OS-Related 3494 3501	Reverse
+T40	Software-OS-Related 3629 3634	Print
+T41	Software-OS-Related 3662 3666	Save
+T42	Software-OS-Related 3640 3648	document
+T43	Software-Other 3694 3698	Bold
+T44	Software-Other 3736 3761	Microsoft Office products
+T45	Software-Other 3771 3786	email providers
+T46	Software-Other 3800 3809	Underline
+T47	Software-Other 3911 3920	Italicize
+T48	Software-OS-Related 4043 4056	File Explorer
+T49	Software-OS-Related 4021 4039	keyboard shortcuts
+T50	Software-OS-Related 4193 4199	Rename
+T51	Software-OS-Related 4236 4248	mouse cursor
+T52	Software-OS-Related 4256 4267	address bar
+T53	Software-OS-Related 4277 4286	Refreshes
+T54	Software-OS-Related 4373 4380	Selects
+T55	Software-OS-Related 4432 4436	Open
+T56	Software-OS-Related 4483 4496	key shortcuts
+T57	Hardware-Other 4506 4511	mouse
+T58	Software-OS-Related 4682 4696	drop-down menu
+T59	Software-OS-Related 4785 4789	Runs
+T60	Software-OS-Related 4920 4937	item's Properties

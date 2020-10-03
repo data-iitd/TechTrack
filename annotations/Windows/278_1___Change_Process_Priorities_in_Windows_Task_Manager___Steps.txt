@@ -1,0 +1,49 @@
+Change Process Priorities in Windows Task Manager
+https://www.wikihow.com/Change-Process-Priorities-in-Windows-Task-Manager
+
+0 - Steps
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Type in task manager.
+Type in task manager. Doing so will search your computer for the Task Manager app.
+
+3 - Click Task Manager.
+Click Task Manager. It's the computer monitor-shaped icon at the top of the Start window. Clicking it prompts Task Manager to open.
+- You can also open Task Manager by pressing Ctrl+⇧ Shift+Esc at the same time.
+
+4 - Click the Details tab.
+Click the Details tab. This option is at the top of the Task Manager window, though it may not appear for a few seconds the Task Manager startup.
+
+5 - Find a process.
+Find a process. On the Details tab, scroll down until you find the process for which you want to change the priority.
+- If you want to find the process for a currently running program, click the Processes tab, find the program for which you want to change the priority, right-click the program, and click Go to details in the drop-down menu.
+
+6 - Right-click your selected process.
+Right-click your selected process. A drop-down menu will appear on top of the process.
+- If you came here from the Processes tab, your process should be highlighted.
+- If your mouse doesn't have a right-click button, click the right side of the mouse, or use two fingers to click the mouse.
+- If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad.
+
+7 - Select Set priority.
+Select Set priority. It's in the middle of the drop-down menu. Selecting it will cause a pop-out menu to appear.
+
+8 - Select a priority level.
+Select a priority level. Click one of the following options, from fastest to slowest:
+- 
+- Realtime - Highest priority.
+- High
+- Above normal
+- Normal
+- Below normal
+- Low - Lowest priority.
+
+9 - Click Change Priority when prompted.
+Click Change Priority when prompted. Doing so will confirm your decision and change the selected process' priority.
+- Keep in mind that changing a system priority can cause your computer to freeze or crash.
+
+10 - Close Task Manager.
+Close Task Manager. Click the X in the top-right corner of the Task Manager window.
+

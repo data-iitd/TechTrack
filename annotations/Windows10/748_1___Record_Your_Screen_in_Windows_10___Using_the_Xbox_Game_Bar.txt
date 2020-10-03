@@ -1,0 +1,34 @@
+Record Your Screen in Windows 10
+https://www.wikihow.com/Record-Your-Screen-in-Windows-10
+
+0 - Using the Xbox Game Bar
+
+1 - Open the Game Bar app.
+Open the Game Bar app. You can do so by clicking Xbox Game Bar in the Start menu, or by typing game bar into the Windows search bar.[1]
+- X
+- Research source
+- 
+- 
+- If you’re not signed in, follow the on-screen instructions to sign in (or create an account) now.
+- Game Bar comes pre-installed on Windows 10. If you’ve removed the app, you can re-install it from the Microsoft Store.
+- This method works on all Windows 10 computers as long as your video card supports one of these encoders: Intel Quick Sync H.260, Nvidia NVENC, or AMD VCE.
+- ;
+
+2 - Press ⊞ Win+G.
+Press ⊞ Win+G. This will open the game bar screen.
+
+3 - Adjust your screen recording preferences (optional).
+Adjust your screen recording preferences (optional). If you’d like to fine-tune your screen recording option, you can do so in your Windows Settings. Here’s how:
+- Open the Start menu and click Settings.
+- Click Gaming.
+- Click Game Bar in the left column.
+- Scroll down on the right panel to adjust your audio and video preferences.
+- Close the Settings window when you're finished and return to the Xbox Game Bar.
+
+4 - Press ⊞ Win+Alt+R to start recording the screen.
+Press ⊞ Win+Alt+R to start recording the screen. A bar displaying your progress will appear at the top-right of the screen.
+- Click the microphone icon on the bar to toggle sound recording on or off.
+
+5 - Click the square when you’re finished recording.
+Click the square when you’re finished recording. It’s on an indicator that displays your progress. Your screen recording is now saved to a folder called Captures, which is inside your Videos folder.
+

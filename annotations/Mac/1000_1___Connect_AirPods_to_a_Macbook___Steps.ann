@@ -1,0 +1,30 @@
+T1	Software-OS-Related 116 126	Apple menu
+A1	isOpened T1 f->t
+T2	Hardware-Devices 202 208	screen
+A2	isPowered T2 start-T
+T3	Software-OS-Related 227 245	System Preferences
+A3	isOpened T3 f->t
+T4	Software-OS-Related 336 345	Bluetooth
+A4	isOpened T4 f->t
+T5	Software-OS-Related 420 437	Turn Bluetooth On
+T6	Hardware-Other 525 537	AirPods case
+T7	Hardware-Devices 595 602	AirPods
+T8	Hardware-Other 631 634	lid
+T9	Hardware-Other 659 662	lid
+T10	Hardware-Other 670 682	AirPods case
+T11	Hardware-Other 745 759	"Setup" button
+T12	Hardware-Other 843 855	AirPods case
+T13	Hardware-Other 866 872	button
+*	Equiv T11 T13
+T14	Hardware-Other 890 895	light
+T15	Software-OS-Related 927 934	AirPods
+A6	isOpened T15 f->t
+T17	Software-OS-Related 1065 1069	Pair
+T18	Hardware-Other 1124 1127	Mac
+T19	Hardware-Devices 1092 1099	AirPods
+A8	isUsed T19 true
+A5	isSettingsChanged T5 true
+A7	isSettingsChanged T17 true
+R1	SubPart Arg1:T5 Arg2:T4	
+A9	isPowered T7 start-T
+R2	SubPart Arg1:T17 Arg2:T15	

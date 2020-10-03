@@ -1,0 +1,18 @@
+T1	Software-OS-Related 161 171	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 216 234	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 446 463	Language & Region
+A3	isOpened T3 f->t
+T4	Software-OS-Related 564 572	Advanced
+A4	isOpened T4 f->t
+T5	Software-OS-Related 624 629	Times
+A5	isOpened T5 f->t
+T6	Software-OS-Related 719 762	elements to customize the different formats
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 898 935	menu for each element to customize it
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1149 1151	AM
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1158 1160	PM
+A9	isSettingsChanged T9 true

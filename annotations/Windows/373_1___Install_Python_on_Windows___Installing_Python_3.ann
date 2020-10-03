@@ -1,0 +1,17 @@
+T1	Software-Other 384 409	Download Python <version>
+A1	isInstalled T1 f->t
+T2	Software-Other 784 801	Run the installer
+A2	isInstalled T2 f->t
+T3	Software-Other 933 953	Add Python <version>
+T4	Software-Other 1170 1192	Customize installation
+A3	isOpened T4 f->t
+T5	Software-Other 2192 2199	Install
+A4	isInstalled T5 f->t
+T6	Software-Other 2264 2267	Yes
+A5	isOpened T6 f->t
+T7	Software-Other 2453 2478	Disable path length limit
+A6	isOpened T7 f->t
+T8	Software-Other 2691 2694	Yes
+A7	isOpened T8 f->t
+T9	Software-Other 2786 2791	Close
+A8	isSettingsChanged T9 true

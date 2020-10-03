@@ -1,0 +1,39 @@
+T1	Software-Other 124 132	NetBeans
+T2	Software-Other 169 191	NetBeans IDE installer
+T3	Software-Other 208 248	https://netbeans.org/features/index.html
+T4	Software-Other 261 269	Download
+T6	Software-Other 1005 1009	Next
+T7	Software-Other 1038 1052	NetBeans setup
+T8	Software-OS-Related 445 461	command terminal
+A2	isOpened T8 f->t
+T5	Software-OS-Related 577 594	chmod +x filename
+T9	Software-Other 703 724	NetBeans setup window
+A1	isOpened T9 f->t
+T10	Software-Other 1191 1199	NetBeans
+T11	Software-Other 1256 1262	Accept
+T12	Software-Other 1282 1286	Next
+T13	Software-Other 1315 1320	JUnit
+T14	Software-Other 1440 1444	Next
+T15	Software-Other 1541 1563	installation directory
+T16	Software-Other 1727 1733	Browse
+A3	isOpened T16 f->t
+T17	Software-Other 1858 1862	Next
+T18	Software-Other 1903 1906	JDK
+T19	Software-Other 2234 2238	Next
+T20	Software-Other 2285 2321	GlassFish Server Open Source Edition
+T21	Software-Other 2503 2509	Browse
+A4	isOpened T21 f->t
+T22	Software-Other 2572 2576	Next
+T23	Software-Other 2594 2607	Apache Tomcat
+A5	isInstalled T18 f->t
+A6	isInstalled T13 f->t
+A7	isInstalled T23 f->t
+A8	isInstalled T20 f->t
+T24	Software-Other 2766 2772	Browse
+A9	isOpened T24 f->t
+T25	Software-Other 2835 2839	Next
+T26	Software-Other 3082 3089	Install
+T27	Software-Other 3246 3252	Finish
+T28	Software-Other 3288 3296	NetBeans
+T29	Software-OS-Related 3300 3305	Linux
+A10	isInstalled T28 f->t

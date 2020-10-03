@@ -1,0 +1,27 @@
+Change the Path Variable in Linux
+https://www.wikihow.com/Change-the-Path-Variable-in-Linux
+
+0 - Steps
+
+1 - Find the current path by typing "echo $PATH" at the bash shell prompt.
+Find the current path by typing "echo $PATH" at the bash shell prompt. A list of directories will be provided such as in the example below:
+- uzair@linux:~$ echo $PATH/home/uzair/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/games
+- Note: Linux $PATH responds with ":" separators between entries.
+- ;
+
+2 - Temporarily add the :
+Temporarily add the :/sbin and :/usr/sbin paths to the current path list by typing the following command at the bash shell prompt:
+- uzair@linux:~$ export PATH=$PATH:/sbin/:/usr/sbin/
+
+3 - Echo the contents of PATH to confirm the changes are reflected in the variable.
+Echo the contents of PATH to confirm the changes are reflected in the variable.
+- uzair@linux:~$ echo $PATH/home/uzair/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+- Remember, the above is only temporary and will be lost at reboot.
+
+4 - Test application program operation with the temporary path to assure the all works well.
+Test application program operation with the temporary path to assure the all works well.
+
+5 - Permanently change the path setting by adding the same line to your ~_.bashrc file
+
+Permanently change the path setting by adding the same line to your ~/.bashrc file
+

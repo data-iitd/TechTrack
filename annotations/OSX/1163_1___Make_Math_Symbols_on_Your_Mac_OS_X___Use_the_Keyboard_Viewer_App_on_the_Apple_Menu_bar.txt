@@ -1,0 +1,27 @@
+Make Math Symbols on Your Mac (OS X)
+https://www.wikihow.com/Make-Math-Symbols-on-Your-Mac-(OS-X)
+
+0 - Use the Keyboard Viewer App on the Apple Menu bar
+
+1 - Look for the following icon on the topmost menu bar with the Finder active:
+Look for the following icon on the topmost menu bar with the Finder active:.
+- Click on it and hold the mouse button down.
+- ;
+
+2 - Scroll down to "Show Emoji and Symbols".
+Scroll down to "Show Emoji and Symbols".
+
+3 - Click on "Math Symbols" menu item.
+Click on "Math Symbols" menu item.
+
+4 - Select the part of your document where you want the math symbol to be placed.
+Select the part of your document where you want the math symbol to be placed. Do this by positioning the cursor there with the mouse via insertion.
+
+5 - Double-click on the math symbol you want in the Keyboard Viewer.
+Double-click on the math symbol you want in the Keyboard Viewer. For example, the "∞" symbol. You may want to select from the various font options available on the right.
+- You can also use the "Add to Favorites" button. In the upper right, click on the Add to Favorites button.
+
+6 - Click on the Favorites menu item.
+Click on the Favorites menu item.
+- Double-click on the "∞" infinity icon key.
+

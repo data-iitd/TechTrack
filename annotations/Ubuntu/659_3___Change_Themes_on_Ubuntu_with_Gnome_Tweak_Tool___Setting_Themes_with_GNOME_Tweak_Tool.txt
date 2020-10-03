@@ -1,0 +1,22 @@
+Change Themes on Ubuntu with Gnome Tweak Tool
+https://www.wikihow.com/Change-Themes-on-Ubuntu-with-Gnome-Tweak-Tool
+
+0 - Setting Themes with GNOME Tweak Tool
+
+1 - Launch GNOME Tweak Tool from the Applications menu.
+Launch GNOME Tweak Tool from the Applications menu.
+
+2 - Click the “Shell Extensions” tab.
+Click the “Shell Extensions” tab. This button is on the left side of the window and will open a list of options for the GNOME Shell Extension.
+
+3 - Set “User Themes Extension” to ON.
+Set “User Themes Extension” to ON. This will enable the GNOME Shell Extension to use custom themes.[3]
+- X
+- Research source
+
+4 - Click the “Themes” tab.
+Click the “Themes” tab. This button is below the Shell Extensions button and displays a list of Theme option.
+
+5 - Select the dropdown menu next to “Shell Theme” and choose a theme from the list.
+Select the dropdown menu next to “Shell Theme” and choose a theme from the list. The menu will display the themes you have installed to your “.themes” folder. The theme will change with your selection.
+

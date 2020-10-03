@@ -1,0 +1,47 @@
+Back Up a Mac Without Time Machine
+https://www.wikihow.com/Back-Up-a-Mac-Without-Time-Machine
+
+0 - Preparing to Back Up
+
+1 - Buy an external hard drive.
+Buy an external hard drive. Since you'll be using the external hard drive to back up your entire Mac hard drive, the drive should be bigger than your Mac's drive (e.g., if the Mac's drive is 256 GB, get at least a 500 GB external drive).[1]
+- X
+- Research source
+- 
+- 
+- It's often not much more expensive to buy a 1 terabyte (1024 gigabyte) external hard drive than it is to buy a 500 gigabyte external hard drive, so consider spending the extra $20 or so to get more storage.
+- You'll generally want to buy an external hard drive that both has enough space for you and comes from a reliable manufacturer such as Western Digital or Seagate.
+- If you don't have an external hard drive, you can also use a CD, DVD, or USB flash drive.[2]
+- X
+- Expert Source
+- Chiara Corsaro. General Manager of macVolks, Inc.
+- Expert Interview.  18 October 2019.
+- 
+- You may also try a cloud storage site, such as iCloud, Google Drive, or Dropbox.[3]
+- X
+- Expert Source
+- Chiara Corsaro. General Manager of macVolks, Inc.
+- Expert Interview.  18 October 2019.
+- 
+- ;
+
+2 - Plug your external hard drive into your Mac.
+Plug your external hard drive into your Mac. Attach the USB end of the hard drive's cable to one of your Mac's USB ports, then attach the other end to the hard drive.
+- Most modern Macs have USB-C (also known as Thunderbolt) ports rather than traditional USB 3.0 ports. If this is the case for you, you may need to buy a USB 3.0 to USB-C adapter for your Mac before you can attach your external hard drive.
+
+3 - Format your external hard drive
+Format your external hard drive. Formatting allows the hard drive to work on your Mac's operating system; failing to format the drive means that you won't be able to use it.
+- Make sure to select Mac OS Extended (Journaled) as the File System value.
+
+4 - Turn off FileVault
+Turn off FileVault. FileVault makes it impossible to clone your Mac's hard drive, so you'll need to disable FileVault if you ever had it enabled.
+
+5 - Prompt your Mac to restart.
+Prompt your Mac to restart. Click the Apple menu , click Restart... in the drop-down menu, and click Restart Now when prompted. Your Mac will begin to restart.
+
+6 - Press and hold ⌘ Command+R.
+Press and hold ⌘ Command+R. You'll need to do this immediately after clicking Restart Now and hold them until the recovery screen appears.
+
+7 - Wait for the Recovery icon to appear.
+Wait for the Recovery icon to appear. It resembles a spinning globe. Once the icon appears, you can release the ⌘ Command and R keys. Your Mac will continue loading the Recovery screen; when it finishes, you can proceed to the next part.
+

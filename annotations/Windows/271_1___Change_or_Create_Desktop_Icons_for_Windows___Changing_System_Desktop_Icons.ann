@@ -1,0 +1,16 @@
+T3	Software-OS-Related 288 296	Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 379 394	Personalization
+A4	isOpened T4 f->t
+T5	Software-OS-Related 632 638	Themes
+A5	isOpened T5 f->t
+T6	Software-OS-Related 727 748	Desktop icon settings
+A6	isOpened T6 f->t
+T8	Software-OS-Related 1636 1647	Change Icon
+T9	Software-OS-Related 1722 1726	icon
+T10	Software-OS-Related 2125 2127	OK
+A9	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T6	
+T1	Software-OS-Related 160 165	Start
+A1	isOpened T1 f->t
+A2	isSettingsChanged T8 true

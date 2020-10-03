@@ -1,0 +1,14 @@
+T1	Software-OS-Related 178 193	terminal window
+A1	isOpened T1 f->t
+T2	Software-OS-Related 741 757	sudo passwd root
+A2	isSettingsChanged T2 true
+A3	isOpened T2 f->t
+T3	Software-OS-Related 954 963	password,
+A4	isSettingsChanged T3 true
+T4	Software-OS-Related 1047 1066	Retype the password
+A5	isSettingsChanged T4 true
+T5	Software-OS-Related 1186 1190	su -
+A7	isOpened T4 f->t
+A6	isSettingsChanged T5 true
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	

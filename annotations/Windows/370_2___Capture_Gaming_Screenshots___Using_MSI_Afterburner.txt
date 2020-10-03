@@ -1,0 +1,48 @@
+Capture Gaming Screenshots
+https://www.wikihow.com/Capture-Gaming-Screenshots
+
+0 - Using MSI Afterburner
+
+1 - Download the MSI Afterburner installer.
+Download the MSI Afterburner installer. MSI Afterburner is a graphics card utility that, among other things, can take screenshots of your games. You can download it for free from gaming.msi.com/features/afterburner.[2]
+- X
+- Research source
+- 
+- The file will download in ZIP format. Double-click it to open it, then click "Extract" to extract the installer file.
+
+2 - Run the installer.
+Run the installer. Double-click the extracted installer to start the installation process. Keep the settings at their default and proceed through the prompts to install.
+- A second installation for RivaTuner will start after the initial install. Follow the prompts for this as well.
+
+3 - Launch MSI Afterburner after installing it.
+Launch MSI Afterburner after installing it. This will open the main interface. There's a lot here, but don't worry about everything you see. Taking screenshots will be very straightforward.
+
+4 - Click the Settings button at the bottom of the window.
+Click the Settings button at the bottom of the window. This will allow you to configure some of your settings before taking screenshots.
+
+5 - Click the "Screen capture" tab at the top of the Settings window.
+Click the "Screen capture" tab at the top of the Settings window. This will display the screenshot settings.
+
+6 - Click the "Screen capture" field that currently says "None."
+Click the "Screen capture" field that currently says "." The next key you press will become your screenshot key.
+
+7 - Press the key or key combination you want to use to take screenshots.
+Press the key or key combination you want to use to take screenshots. You can use any key on your keyboard, but make sure you don't pick a key you use in your games. If you hold Ctrl, Alt, or ⇧ Shift you can create a combination shortcut.
+
+8 - Select your screenshot format.
+Select your screenshot format. The "bmp" format will be the most accurate, but will take up the most space and likely need to be converted before you upload or share it. The "png" format offers the best compression-to-quality ratio. The "jpg" format will offer the smallest size but at noticeably reduced quality.
+- The "jpg" format offers a "Quality" slider, but the other two do not.
+- The "png" format is the most commonly used format for publishing and posting screenshots.
+
+9 - Select a screenshot folder.
+Select a screenshot folder. You can change the folder you want your screenshots to be saved in. Click the "Browse" button to open the file browser and navigate to the folder you want to use.
+
+10 - Save your settings.
+Save your settings. Click the "OK" button at the bottom of the Settings window to save your settings.
+
+11 - Start a game with MSI Afterburner running.
+Start a game with MSI Afterburner running. You can minimize it if you'd like. MSI Afterburner is very lightweight, and you shouldn't notice a performance decrease with it running.
+
+12 - Press your screenshot key or combination while playing.
+Press your screenshot key or combination while playing. Your screenshot will be saved immediately to the folder you specified.
+

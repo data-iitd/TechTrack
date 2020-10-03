@@ -1,0 +1,26 @@
+T1	Software-Other 120 121	A
+A1	isOpened T1 f->t
+T2	Software-Other 407 414	notepad
+A2	isOpened T2 f->t
+T3	Software-Other 688 692	note
+A3	isOpened T3 f->t
+T4	Software-Other 731 738	palette
+A4	isOpened T4 f->t
+T5	Software-Other 812 821	Add image
+A5	isOpened T5 f->t
+T6	Software-Other 1237 1238	+
+A6	isOpened T6 f->t
+T7	Software-Other 1590 1593	PDF
+A7	isOpened T7 f->t
+T8	Software-Other 1595 1608	Word document
+A8	isOpened T8 f->t
+T9	Software-Other 1613 1632	PowerPoint Document
+A9	isOpened T9 f->t
+T10	Software-Other 1502 1511	Templates
+A10	isOpened T10 f->t
+T11	Software-Other 1435 1444	Note grid
+A11	isOpened T11 f->t
+T12	Software-Other 1879 1888	clipboard
+A12	isOpened T12 f->t
+T13	Software-Other 1691 1697	canvas
+A13	isOpened T13 f->t

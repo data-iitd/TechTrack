@@ -1,0 +1,9 @@
+T1	Software-OS-Related 208 212	File
+A1	isOpened T1 f->t
+T2	Software-OS-Related 857 863	Folder
+T3	Software-OS-Related 320 341	Add Folder to Library
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1052 1058	Movies
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1589 1594	Apply
+A4	isSettingsChanged T5 true

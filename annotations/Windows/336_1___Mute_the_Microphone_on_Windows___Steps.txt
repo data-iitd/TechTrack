@@ -1,0 +1,28 @@
+Mute the Microphone on Windows
+https://www.wikihow.com/Mute-the-Microphone-on-Windows
+
+0 - Steps
+
+1 - Find the sound icon on your desktop taskbar.
+Find the sound icon on your desktop taskbar. This button looks like a speaker icon in the lower-right corner of your desktop next to the Wi-Fi and battery icons.
+- ;
+
+2 - Right-click the sound icon.
+Right-click the sound icon. Your options will pop up.
+
+3 - Click Recording Devices on the right-click menu.
+Click Recording Devices on the right-click menu. This will open your Sound settings in a new window, and switch you to the Recording tab. You can see a list of all your audio input devices here.
+
+4 - Right-click your microphone on the list.
+Right-click your microphone on the list. Your options will pop up on a new menu.
+
+5 - Select Disable on the right-click menu.
+Select Disable on the right-click menu. This option will turn off your microphone, and remove it from the Recording list.
+
+6 - Right-click on the empty space on the Recording list.
+Right-click on the empty space on the Recording list. This will show your list options on a new pop-up menu.
+
+7 - Click and check Show Disabled Devices.
+Click and check Show Disabled Devices. When this option is checked, you will be able to see your microphone on the Recording list even though it's disabled.
+- You can right-click your disabled microphone here, and select Enable to turn it back on.
+

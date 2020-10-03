@@ -1,0 +1,14 @@
+T1	Hardware-Devices 145 153	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 156 163	taskbar
+A2	isOpened T2 f->t
+T3	Software-OS-Related 550 562	Event Viewer
+A3	isOpened T3 f->t
+T4	Software-OS-Related 988 999	Application
+A4	isOpened T4 f->t
+T5	Software-OS-Related 778 782	next
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1197 1203	Source
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1554 1557	IIS
+A7	isOpened T7 f->t

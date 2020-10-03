@@ -1,0 +1,8 @@
+T1	Software-OS-Related 530 538	terminal
+A1	isOpened T1 f->t
+T2	Software-Other 666 674	rpm file
+T3	Software-Other 1010 1018	rpm2cpio
+T4	Software-Other 1023 1027	cpio
+T7	Software-OS-Related 1575 1584	directory
+A2	isInstalled T3 start-T
+A3	isInstalled T4 start-T

@@ -1,0 +1,8 @@
+T1	Software-OS-Related 531 538	Disable
+A1	isSettingsChanged T1 true
+A2	isOpened T1 start-F
+T2	Software-OS-Related 1271 1277	enable
+A3	isSettingsChanged T2 true
+A4	isOpened T2 f->t
+T3	Software-OS-Related 1867 1880	proxy network
+A5	isOpened T3 f->t

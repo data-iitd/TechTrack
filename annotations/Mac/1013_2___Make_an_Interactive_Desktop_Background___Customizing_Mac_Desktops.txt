@@ -1,0 +1,37 @@
+Make an Interactive Desktop Background
+https://www.wikihow.com/Make-an-Interactive-Desktop-Background
+
+0 - Customizing Mac Desktops
+
+1 - Download and install Übersicht.
+Download and install Übersicht. Search the web for Übersicht - the software can be downloaded from their website. Run the installer and launch the application when complete.
+- GeekTools is another free software option that will work similarly make your desktop more interactive.
+
+2 - Return to the Übersicht website.
+Return to the Übersicht website. Navigate back to the Übersicht website in your web browser to acquire widgets.
+- Übersicht's term for a background design is "widget".
+
+3 - Browse for widgets.
+Browse for widgets. Übersicht hosts a variety of widget creations on its own site. On the website, click "Get Widgets". The results can be sorted by date, number of downloads, or by name, with the menu at the top of the page. Individual widgets typically serve a simple singular purpose, but can be loaded simultaneously by the software to create a personalized desktop environment.
+- Widget functions will vary from interactive to visual, including options like software developer tools, daily comic strips, or variable wallpapers.
+
+4 - Download a widget.
+Download a widget. Click the "Download" button below the target widget. Browse to your desired save location and press "Save".
+
+5 - Unzip a widget (optional).
+Unzip a widget (optional). Downloaded widgets may come in the .zip format. If so, double-click to unzip the file automatically and you will have a .widget file.
+
+6 - Install a widget.
+Install a widget. In Übersicht, select “Open Widgets Folder” from the Übersicht menu in the top menu bar, then drag the appropriate .widget file into the Widgets folder.
+- Some widgets may have custom installation requirements. Check the widget’s documentation for any possible extra steps.
+
+7 - Configure your widgets in Übersicht.
+Configure your widgets in Übersicht. Widgets can be toggled on or off from the Übersicht menu.
+
+8 - Set the widget's feature options.
+Set the widget's feature options. Each widget listing in the Übersicht menu also has its own options specific to that widget.
+
+9 - Experiment with creating your own widgets.
+Experiment with creating your own widgets. Widgets are written in Javascript or Coffeescript (A simplified form of Javascript). You do not need any special software to write code in Javascript. Use a text editor and save the file in the .xhtml format. Some starting instructions can be found on the Übersicht github.
+- Want your desktop to give you a daily greeting? Integrated notifications? Custom display? You are limited only by your coding skill and imagination.
+

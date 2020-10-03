@@ -1,0 +1,34 @@
+Add a Folder to Choose a Mac Screen Saver From
+https://www.wikihow.com/Add-a-Folder-to-Choose-a-Mac-Screen-Saver-From
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Desktop & Screen Saver.
+Click on Desktop & Screen Saver. It's near the top left of the preferences window.
+
+4 - Click on Screen Saver.
+Click on Screen Saver. It's near the top of the dialog box.
+
+5 - Click on a screen saver style.
+Click on a screen saver style. Choose the way you'd like your screen saver images to be displayed from the left pane of the dialog box.
+
+6 - Click on the "Source" drop-down menu.
+Click on the "Source" drop-down menu. It appears in the right pane of the dialog box.
+
+7 - Click on "Choose Folder."
+Click on "Choose Folder."
+
+8 - Click on the folder you'd like to use for background pictures.
+Click on the folder you'd like to use for background pictures.
+
+9 - Click on Choose.
+Click on Choose. You've now added a folder from which you can choose screen saver images for your Mac.
+- From this dialog box, you can also shuffle the order of the screen saver images, set the amount of time to elapse before the screen saver is activated, and set up hot corners to turn on the screen saver.
+

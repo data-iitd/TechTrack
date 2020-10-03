@@ -1,0 +1,29 @@
+T1	Software-OS-Related 259 275	operating system
+T2	Software-OS-Related 342 349	Windows
+T3	Software-OS-Related 365 369	UNIX
+T4	Software-OS-Related 448 454	Cygwin
+T5	Software-OS-Related 458 463	MinGW
+T6	Software-OS-Related 562 565	GCC
+T7	Software-OS-Related 571 583	Gnu compiler
+R1	SubPart Arg1:T6 Arg2:T7	
+T8	Software-Other 808 811	Vim
+T9	Software-Other 816 821	emacs
+T10	Software-OS-Related 884 891	Notepad
+T11	Software-OS-Related 1339 1349	bootloader
+T12	Software-OS-Related 1447 1478	Grand Unified Bootloader (GRUB)
+T13	Software-Other 1572 1581	OSDev.org
+T14	Software-OS-Related 1599 1605	kernel
+T15	Software-OS-Related 1670 1686	operating system
+T16	Software-OS-Related 2259 2282	16-bit Operating System
+T17	Software-OS-Related 2385 2390	boots
+T18	Software-OS-Related 2445 2461	operating system
+T19	Software-OS-Related 2554 2563	rebooting
+T20	Hardware-Other 2569 2577	computer
+T21	Software-OS-Related 2631 2636	files
+T22	Software-Other 2725 2731	VMWare
+T23	Software-OS-Related 2772 2779	Windows
+T24	Software-OS-Related 2784 2789	Linux
+T25	Software-Other 2801 2806	Bochs
+T26	Software-OS-Related 3058 3074	operating system
+T27	Software-OS-Related 3146 3162	operating system
+T28	Software-Other 3337 3343	Reddit

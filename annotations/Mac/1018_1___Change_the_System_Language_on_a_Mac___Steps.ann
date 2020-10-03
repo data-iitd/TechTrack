@@ -1,0 +1,10 @@
+T1	Software-OS-Related 148 166	System Preferences
+A1	isOpened T1 f->t
+T2	Software-OS-Related 213 228	Language & Text
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 338 357	choose the Language
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 659 665	Reboot
+A4	isOpened T4 t->f
+A5	isSettingsChanged T4 true
+R2	SubPart Arg1:T3 Arg2:T2	

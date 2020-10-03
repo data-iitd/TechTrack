@@ -1,0 +1,26 @@
+Log Into the Microsoft Store
+https://www.wikihow.com/Log-Into-the-Microsoft-Store
+
+0 - Using the Microsoft Store App
+
+1 - Open the Microsoft Store .
+Open the Microsoft Store . You'll find this in your Taskbar or Start Menu tiles.
+- You'll only have the Microsoft Store desktop application if you're using Windows 10 or the Enterprise version of Windows 8.
+- You should also be automatically logged in since you entered your Microsoft password when you started your computer. However, if you're using a guest account or aren't logged into the correct profile, continue with this method.
+- ;
+
+2 - Click the profile icon at the top-right corner.
+Click the profile icon at the top-right corner. The profile you're currently using, if any, should appear in a drop-down menu. If you're not logged in, you'll see an icon that looks like the outline of a person.
+
+3 - Click Sign in or the profile name.
+Click Sign in or the profile name. A sign-in window will pop-up if you're not currently signed into an account. If you click on a profile that's already signed in, you'll get a window pop-up with that account info and a Sign out button.
+- If you're signed into an account you don't want to use, click Sign Out from this window.
+
+4 - Select an account and click Continue.
+Select an account and click Continue.  You'll be able to sign in with a different account other than the ones associated with the PC you're using by clicking Microsoft account under the header, "Use a different account."
+- Click Continue to proceed.
+
+5 - Enter the account information.
+Enter the account information. If you picked an account that's associated with the computer, you only need to enter the password. If you choose to use a different Microsoft account, you'll need to enter the email, phone, or Skype information and then enter the password.
+- Once you enter that information successfully, you'll be redirected to the homepage of the Microsoft Store.
+

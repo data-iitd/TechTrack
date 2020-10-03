@@ -1,0 +1,6 @@
+T1	Software-Other 259 271	Download VLC
+T2	Software-Other 600 614	VLC setup file
+A1	isOpened T2 f->t
+T3	Software-Other 1370 1376	Finish
+A2	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	

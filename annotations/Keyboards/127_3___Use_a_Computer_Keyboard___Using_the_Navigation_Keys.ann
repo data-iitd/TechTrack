@@ -1,0 +1,27 @@
+T1	Hardware-Other 193 194	↑
+T2	Hardware-Other 194 195	↓
+T3	Hardware-Other 195 196	←
+T4	Hardware-Other 196 197	→
+T5	Hardware-Other 188 192	keys
+T6	Hardware-Devices 235 243	keyboard
+T7	Software-Other 328 336	webpages
+T8	Software-Other 537 545	webpages
+T9	Software-Other 524 533	documents
+T10	Hardware-Other 555 556	⇞
+T11	Hardware-Other 569 570	⇟
+T12	Hardware-Other 581 585	keys
+T13	Software-Other 606 620	word processor
+T14	Software-OS-Related 908 914	cursor
+T15	Software-Other 963 964	⇱
+T16	Hardware-Other 974 975	⇲
+T17	Hardware-Other 980 984	keys
+T18	Software-Other 1016 1031	word processors
+T19	Hardware-Other 1074 1080	Delete
+T20	Hardware-Other 1085 1094	Backspace
+T21	Hardware-Other 1157 1158	←
+T22	Software-OS-Related 1216 1222	cursor
+T23	Software-Other 1348 1355	webpage
+T24	Hardware-Other 1368 1374	Insert
+T25	Software-Other 1485 1499	word processor
+T26	Hardware-Other 1444 1447	key
+T27	Software-OS-Related 1603 1609	cursor

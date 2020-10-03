@@ -1,0 +1,17 @@
+T1	Software-OS-Related 205 210	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 226 237	My Computer
+A2	isOpened T2 f->t
+T3	Software-OS-Related 274 279	Tools
+A3	isOpened T3 f->t
+T4	Software-OS-Related 285 299	Folder Options
+A4	isOpened T4 f->t
+T5	Software-OS-Related 322 326	View
+A5	isOpened T5 f->t
+T6	Software-OS-Related 386 388	OK
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T2	
+T7	Software-OS-Related 798 808	Web folder
+A7	isOpened T7 f->t
+T8	Software-OS-Related 838 847	Wallpaper
+A8	isOpened T8 f->t

@@ -1,0 +1,31 @@
+T1	Hardware-Other 138 148	face guard
+T2	Hardware-Other 197 210	4 case screws
+T3	Hardware-Other 260 265	dials
+T4	Hardware-Devices 490 500	headphones
+T5	Hardware-Other 505 516	button jack
+T6	Hardware-Other 553 564	PCB exposed
+T7	Hardware-Other 566 574	desolder
+T8	Hardware-Other 589 594	wires
+T9	Hardware-Other 667 677	dial screw
+T10	Hardware-Other 767 778	white cover
+T11	Hardware-Other 840 844	dial
+T12	Hardware-Other 868 887	white plastic cover
+T13	Hardware-Other 932 944	screw driver
+T14	Hardware-Other 953 957	tabs
+T15	Hardware-Other 1120 1126	screws
+T17	Hardware-Other 1149 1156	bracket
+T18	Hardware-Other 1240 1244	wire
+T19	Hardware-Other 1290 1296	straps
+T20	Hardware-Other 1314 1327	plastic cover
+T21	Hardware-Other 1332 1336	dial
+T23	Hardware-Other 1594 1598	jack
+T24	Hardware-Other 1740 1744	wire
+T25	Hardware-Other 1803 1815	solder wires
+T26	Hardware-Other 1850 1855	board
+T27	Hardware-Other 1959 1973	headphone jack
+T28	Software-Other 2015 2030	stereo test app
+T29	Hardware-Other 2089 2093	jack
+T30	Hardware-Other 2277 2282	dials
+T31	Hardware-Other 2394 2400	screws
+T16	Hardware-Devices 1135 1144	headphone
+T22	Hardware-Devices 1456 1466	headphones

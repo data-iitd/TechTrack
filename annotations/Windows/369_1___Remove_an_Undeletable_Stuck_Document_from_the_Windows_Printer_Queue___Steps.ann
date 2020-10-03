@@ -1,0 +1,16 @@
+T1	Hardware-Other 317 325	USB port
+T2	Hardware-Devices 334 342	computer
+A1	isUsed T2 true
+T3	Software-OS-Related 841 847	Manage
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1944 1954	Properties
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1481 1489	Services
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1636 1649	Print Spooler
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1978 1982	Stop
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T6	
+T8	Software-OS-Related 3220 3239	Computer Management
+A7	isOpened T8 t->f

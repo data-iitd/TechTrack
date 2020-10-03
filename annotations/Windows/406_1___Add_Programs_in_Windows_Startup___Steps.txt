@@ -1,0 +1,36 @@
+Add Programs in Windows Startup
+https://www.wikihow.com/Add-Programs-in-Windows-Startup
+
+0 - Steps
+
+1 - Click "Start" and "open your personal folder".
+Click "Start" and "open your personal folder".
+- ;
+
+2 - Click on "App Data".
+Click on "App Data".
+
+3 - Click "Roaming".
+Click "Roaming".
+
+4 - Click "Microsoft".
+Click "Microsoft".
+
+5 - Click "Windows".
+Click "Windows".
+
+6 - Click "Start Menu".
+Click "Start Menu".
+
+7 - Click "Programs".
+Click "Programs".
+
+8 - Click "Startup".
+Click "Startup".
+
+9 - Create a shortcut of the file.
+Create a shortcut of the file. Paste it in the "Startup" folder.
+
+10 - Restart your computer.
+Restart your computer. Now your program starts automatically.
+

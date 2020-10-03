@@ -1,0 +1,29 @@
+T1	Software-Other 155 167	Google Drive
+T2	Software-OS-Related 209 224	USB flash drive
+T3	Hardware-Other 600 610	Chromebook
+T4	Software-OS-Related 616 622	reboot
+T5	Software-OS-Related 638 652	Recovery Mode.
+A1	isOpened T5 f->t
+T6	Software-OS-Related 885 899	Developer Mode
+T7	Software-OS-Related 958 972	Developer Mode
+A2	isOpened T7 f->t
+T8	Hardware-Other 1157 1167	Chromebook
+T9	Software-OS-Related 1177 1183	reboot
+T10	Software-OS-Related 1189 1199	Chrome OS.
+T11	Software-Other 1426 1433	Crouton
+T12	Software-Other 1467 1479	goo.gl/fd3zc
+T13	Software-OS-Related 1899 1907	terminal
+A3	isOpened T13 f->t
+T14	Hardware-Other 1916 1926	Chromebook
+T15	Software-OS-Related 1941 1946	shell
+T16	Software-OS-Related 1957 1965	terminal
+T17	Software-Other 2543 2550	Crouton
+A4	isInstalled T17 f->t
+T18	Software-Other 2687 2694	Crouton
+T19	Hardware-Other 2720 2730	Chromebook
+T20	Software-OS-Related 2934 2942	username
+T21	Software-OS-Related 2947 2955	password
+T22	Software-OS-Related 2965 2974	Linux OS.
+T23	Software-OS-Related 3065 3073	terminal
+T24	Software-OS-Related 3084 3089	Linux
+A5	isOpened T24 f->t

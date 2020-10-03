@@ -1,0 +1,25 @@
+T1	Software-Other 447 466	sudo apt-get update
+A1	isOpened T1 f->t
+T2	Software-Other 555 582	sudo apt-get install ffmpeg
+A2	isInstalled T2 f->t
+T3	Software-Other 955 990	Change into your "Videos" directory
+T4	Software-Other 1424 1449	Find out your screen size
+A4	isSettingsChanged T4 true
+T5	Software-Other 1647 1678	record the screen without audio
+A5	isSettingsChanged T5 true
+T6	Software-Other 2753 2803	record either your microphone or the system sounds
+A6	isSettingsChanged T6 true
+T7	Software-Other 3947 4009	Use -filter_complex amerge to merge both audio inputs into one
+A7	isSettingsChanged T7 true
+T8	Software-Other 4521 4540	Re-encode your file
+A8	isSettingsChanged T8 true
+A9	isSettingsChanged T3 true
+T9	Software-Other 4383 4401	stop the recording
+A10	isSettingsChanged T9 true
+R1	SubPart Arg1:T3 Arg2:T2	
+R2	SubPart Arg1:T4 Arg2:T2	
+R3	SubPart Arg1:T5 Arg2:T2	
+R4	SubPart Arg1:T6 Arg2:T2	
+R5	SubPart Arg1:T7 Arg2:T2	
+R6	SubPart Arg1:T9 Arg2:T2	
+R7	SubPart Arg1:T8 Arg2:T2	

@@ -1,0 +1,18 @@
+T2	Software-Other 171 179	Mail app
+T3	Software-OS-Related 231 239	Apple ID
+T12	Software-OS-Related 606 614	FaceTime
+T15	Hardware-Devices 1336 1339	Mac
+T16	Hardware-Devices 1368 1375	laptops
+T17	Hardware-Devices 1671 1674	Mac
+T18	Software-OS-Related 1738 1747	Crossover
+T19	Software-OS-Related 1996 2002	iPhoto
+T20	Software-OS-Related 2007 2013	iMovie
+T21	Hardware-Other 2116 2122	camera
+T22	Hardware-Other 2257 2267	microphone
+T23	Software-OS-Related 2313 2319	Office
+T24	Software-OS-Related 2324 2329	iWork
+T25	Software-Other 2400 2410	OpenOffice
+T26	Software-Other 2414 2430	Microsoft Office
+A2	isOpened T2 f->t
+T5	Software-OS-Related 616 625	Spotlight
+A1	isOpened T12 f->t

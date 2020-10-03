@@ -1,0 +1,40 @@
+Control Your Mac from Your iPhone
+https://www.wikihow.com/Control-Your-Mac-from-Your-iPhone
+
+0 - Enable Screen Sharing on Your Mac
+
+1 - On your Mac, Click System Preferences.
+On your Mac, Click System Preferences.  It's the grey icon that resembles a gear in dock at the bottom of your Mac's screen.
+- If you see a gear icon in your dock you can click the Apple Menu  and then select "System Preferences" in the drop-down menu.
+- ;
+
+2 - Click Sharing.
+Click Sharing.  It's the icon that has a blue folder and a yellow road sign with a person on it.
+
+3 - Write down your Computer Name.
+Write down your Computer Name.  You will need this later on.  Your computer name is listed in the text bar at the top.
+
+4 - Click Edit.
+Click Edit.  It's the button below the bar with the computer name.
+
+5 - Write down the Local Hostname.
+Write down the Local Hostname.  You will need this information later on.  It's in the bar in the popup.
+
+6 - Click Cancel.
+Click Cancel.  You don't need to edit this information, just make note of it.
+
+7 - Click the checkbox next to "Screen Sharing".
+Click the checkbox next to "Screen Sharing". The box in the "On" column will turn blue with a white checkmark in it. It's in the box on the left side of the window.
+
+8 - Click Computer Settings.
+Click Computer Settings.  This button will appear on the right once you've checked the "Screen Sharing" box on the left.
+
+9 - Click the checkbox for "VNC users may control screen with password".
+Click the checkbox for "VNC users may control screen with password". It's the second option from the top.
+
+10 - Enter a password in the text box.
+Enter a password in the text box.  The text box is at the end on the right of the line you just checked. This will be the password needed to connect and control your Mac from your iPhone.
+
+11 - Click OK.
+Click OK.  It's in the bottom-right corner of the pop-up.
+

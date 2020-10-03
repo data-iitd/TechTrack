@@ -1,0 +1,13 @@
+T1	Software-OS-Related 141 146	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 359 373	Device Manager
+A2	isOpened T2 f->t
+T3	Software-OS-Related 458 478	category of hardware
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 999 1005	Update
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1141 1188	earch automatically for updated driver software
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1366 1371	Close
+A6	isSettingsChanged T6 true

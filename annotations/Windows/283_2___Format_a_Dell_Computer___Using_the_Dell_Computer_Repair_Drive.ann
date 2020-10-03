@@ -1,0 +1,15 @@
+T1	Hardware-Devices 135 143	computer
+T2	Software-OS-Related 175 180	Start
+A1	isOpened T2 f->t
+T3	Software-OS-Related 189 194	Power
+A2	isOpened T3 f->t
+T4	Software-OS-Related 207 214	Restart
+A3	isOpened T4 f->t
+T5	Software-OS-Related 252 273	Advanced Boot Options
+A4	isOpened T5 f->t
+T6	Software-OS-Related 881 889	language
+A5	isSettingsChanged T6 true
+T7	Software-OS-Related 1156 1169	Image Restore
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1864 1870	Finish
+A7	isSettingsChanged T8 true

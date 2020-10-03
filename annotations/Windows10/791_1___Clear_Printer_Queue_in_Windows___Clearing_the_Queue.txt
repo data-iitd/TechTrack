@@ -1,0 +1,36 @@
+Clear Printer Queue in Windows
+https://www.wikihow.com/Clear-Printer-Queue-in-Windows
+
+0 - Clearing the Queue
+
+1 - Click the Start  menu.
+Click the Start  menu. It’s usually at the bottom-left corner of the screen.
+- ;
+
+2 - Click Settings .
+Click Settings .
+
+3 - Click Devices.
+Click Devices. It’s the second icon at the top of the window.
+
+4 - Click Printers & scanners.
+Click Printers & scanners. It’s in the left column.
+
+5 - Click the printer.
+Click the printer. Connected printers appear in the right panel under “Printers & scanners.” Two buttons will appear beneath the printer’s name.
+
+6 - Click Open queue.
+Click Open queue. A list of pending print jobs will appear.
+
+7 - Right-click a document you want to remove from the queue.
+Right-click a document you want to remove from the queue. A context menu will appear.
+
+8 - Click Cancel.
+Click Cancel. This removes the document from the queue.
+
+9 - Repeat for other documents you want to cancel.
+Repeat for other documents you want to cancel.
+- To cancel all documents at once, click the Printer menu at the top-left corner of the window, then select Cancel All Documents.
+- If the files stay in the queue even after you’ve canceled them, try restarting the computer.
+- If clearing the queue does not resolve your print queue issues, see Restarting the Print Spooler Service.
+

@@ -1,0 +1,17 @@
+T1	Software-OS-Related 125 130	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 317 327	Windows 10
+T3	Hardware-Devices 305 313	computer
+T4	Software-OS-Related 699 707	Settings
+A3	isOpened T4 f->t
+T5	Software-OS-Related 783 800	Update & Security
+A4	isOpened T5 f->t
+T6	Software-OS-Related 941 949	Recovery
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1005 1016	Get started
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1397 1401	Next
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1799 1809	Windows 10
+T10	Hardware-Devices 1605 1613	computer
+A2	isPowered T10 f->t

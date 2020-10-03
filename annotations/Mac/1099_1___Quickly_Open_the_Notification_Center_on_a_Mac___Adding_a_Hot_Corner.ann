@@ -1,0 +1,14 @@
+T1	Software-OS-Related 190 200	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 316 334	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 379 394	Mission Control
+A3	isOpened T3 f->t
+T4	Software-OS-Related 478 489	Hot Corners
+A4	isOpened T4 f->t
+T5	Software-OS-Related 589 617	one of the four pop-up menus
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 749 768	Notification Center
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 800 802	OK
+A7	isSettingsChanged T7 true

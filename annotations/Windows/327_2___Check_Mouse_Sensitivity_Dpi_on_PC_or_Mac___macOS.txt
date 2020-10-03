@@ -1,0 +1,22 @@
+Check Mouse Sensitivity (Dpi) on PC or Mac
+https://www.wikihow.com/Check-Mouse-Sensitivity-(Dpi)-on-PC-or-Mac
+
+0 - macOS
+
+1 - Click the  menu.
+Click the  menu. It’s at the top-left corner of the screen.
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click Mouse.
+Click Mouse. It’s the white mouse icon in the second row of icons.[2]
+- X
+- Research source
+
+4 - Click the Point & Click tab.
+Click the Point & Click tab. It’s at the top of the window.
+
+5 - Find the pointer sensitivity under the “Tracking speed.
+Find the pointer sensitivity under the “Tracking speed.” Drag the slider right to make the cursor move faster as you move the mouse, or left to slow it down.
+

@@ -1,0 +1,5 @@
+T1	Hardware-Devices 191 199	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 575 580	Start
+A2	isOpened T2 f->t
+T3	Software-OS-Related 596 605	Shut Down

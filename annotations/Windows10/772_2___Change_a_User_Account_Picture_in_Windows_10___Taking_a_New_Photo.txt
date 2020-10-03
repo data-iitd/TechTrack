@@ -1,0 +1,31 @@
+Change a User Account Picture in Windows 10
+https://www.wikihow.com/Change-a-User-Account-Picture-in-Windows-10
+
+0 - Taking a New Photo
+
+1 - Click "Camera".
+Click "Camera". This option is located under the "Create your picture" header towards the bottom. It has a webcam icon next to it.
+
+2 - Wait for the Camera app to open.
+Wait for the Camera app to open. The built-in Camera app will take a couple of seconds to launch.
+
+3 - Ensure you're switched to camera mode.
+Ensure you're switched to camera mode. Ensure that a big white camera button is located to the right. If not, click it from right below the existing button.
+- Using a video as your avatar is pointless as it will extract and use the last frame from the video. Thus, taking a photo is simpler and more efficient.
+
+4 - Snap a photo.
+Snap a photo. Click the big white camera button on the right side of the window.
+
+5 - Review the photo.
+Review the photo. Is it to your liking? If not, you can retake it by clicking the ✕ Cancel button to the right.
+
+6 - Crop the photo (optional).
+Crop the photo (optional). Drag the edges of the white box around. Content placed inside of the box will be used as your avatar. While dragging, a white grid will show inside the box.
+- Keep in mind that Windows automatically rounds the corners of user avatars. The outcome is that the very edges to be cut off. Customarily, previous Windows versions had a square user account pictures.
+
+7 - Save the photo.
+Save the photo. Click the ✓ Done button to the right. It's right above the ✕ Cancel button.
+
+8 - Finished.
+Finished.
+

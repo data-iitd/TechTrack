@@ -1,0 +1,36 @@
+Install Software from Unsigned Developers on a Mac
+https://www.wikihow.com/Install-Software-from-Unsigned-Developers-on-a-Mac
+
+0 - Allowing a Program
+
+1 - Download the software as you normally would from the Internet.
+Download the software as you normally would from the Internet. If asked if you want to "keep" or "discard" the file, select keep. Note that you should only do this if you are certain you trust the publisher of the software.
+- ;
+
+2 - Open your software's setup file.
+Open your software's setup file. This will prompt a pop-up with an error message that says "[Name] can't be opened because it was not downloaded from the App Store."
+
+3 - Click OK.
+Click OK. This will close the pop-up window.
+
+4 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+5 - Click System Preferences.
+Click System Preferences. This option is near the top of the drop-down menu.
+
+6 - Click Security & Privacy.
+Click Security & Privacy. It's near the top of the System Preferences window.
+
+7 - Click the lock icon.
+Click the lock icon. It's in the bottom-left corner of the window.
+
+8 - Enter your password, then click Unlock.
+Enter your password, then click Unlock. This will allow you to edit items in this menu.
+
+9 - Click Open Anyway.
+Click Open Anyway. It's next to your file's name.
+
+10 - Click Open when prompted.
+Click Open when prompted. Doing so will open your file and continue with the installation.
+

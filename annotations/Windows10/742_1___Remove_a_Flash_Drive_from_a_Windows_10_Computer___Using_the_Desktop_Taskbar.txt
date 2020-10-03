@@ -1,0 +1,24 @@
+Remove a Flash Drive from a Windows 10 Computer
+https://www.wikihow.com/Remove-a-Flash-Drive-from-a-Windows-10-Computer
+
+0 - Using the Desktop Taskbar
+
+1 - Save any open documents you have on the flash drive.
+Save any open documents you have on the flash drive. The easiest way to do this in any open window is to hold down Ctrl and press S.
+- ;
+
+2 - Find the "Eject" icon.
+Find the "Eject" icon. It's the rectangular, flash drive-shaped icon with a checkmark next to it. It lives in the row of options that are in the bottom-right corner of the screen, though you may first need to click the upward-facing arrow on the far-left side of these options to view it.
+
+3 - Click the "Eject" icon.
+Click the "Eject" icon. Doing so will invoke a drop-down menu.
+
+4 - Click Eject.
+Click Eject. This option is at the bottom of the drop-down menu. It will typically say something like Eject SDHC (E:) with your flash drive's name written after the "Eject" prompt.
+
+5 - Wait for the "Safe to Remove Hardware" prompt.
+Wait for the "Safe to Remove Hardware" prompt. Once this notification displays in the bottom-right side of your computer's screen, your flash drive is ready for removal.
+
+6 - Gently tug the flash drive away from your computer.
+Gently tug the flash drive away from your computer. It should slide out. The next time you plug your flash drive into your computer, all of your files should be as you left them.
+

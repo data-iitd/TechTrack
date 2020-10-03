@@ -1,0 +1,35 @@
+Create and Apply a Custom Mouse Cursor Using a Photo in Windows
+https://www.wikihow.com/Create-and-Apply-a-Custom-Mouse-Cursor-Using-a-Photo-in-Windows
+
+0 - Changing your cursor
+
+1 - Click on Start.
+Click on Start.
+
+2 - Search for "Mouse pointer looks" on the search bar.
+Search for "Mouse pointer looks" on the search bar.
+
+3 - Click the first one to appear.
+Click the first one to appear.
+
+4 - A popup dialogue box will appear, showing you the current pointer of your desktop.
+A popup dialogue box will appear, showing you the current pointer of your desktop. To change it, go to Browse and browse for your converted image.
+
+5 - Note that the default folder downloaded files from the internet is to the Downloads folder.
+Note that the default folder downloaded files from the internet is to the Downloads folder. Thus, go to Browse> Desktop.
+
+6 - Go to System Folder.
+Go to System Folder.
+
+7 - Go to Downloads.
+Go to Downloads.
+
+8 - Click your downloaded file and click Open.
+Click your downloaded file and click Open.
+
+9 - Uncheck the box.
+Uncheck the box. On the pop up box again, make sure that the box that says "Allow themes to change mouse cursors." is left unchecked or else the default cursor will be back again after you restart you your computer.
+
+10 - Click Apply and OK.
+Click Apply and OK. And you're now done to changing you mouse cursor to your own custom one. Enjoy your customized cursor.
+

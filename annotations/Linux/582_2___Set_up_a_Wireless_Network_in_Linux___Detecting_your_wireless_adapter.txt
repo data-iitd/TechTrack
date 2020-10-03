@@ -1,0 +1,20 @@
+Set up a Wireless Network in Linux
+https://www.wikihow.com/Set-up-a-Wireless-Network-in-Linux
+
+0 - Detecting your wireless adapter
+
+1 - Your wireless adapter should be detected automatically by your distribution and should be available in your distribution's network config tools (as of early 2012 most distributions use Network Manager).
+Your wireless adapter should be detected automatically by your distribution and should be available in your distribution's network config tools (as of early 2012 most distributions use Network Manager). Only if the card is *not* detected, go through the following troubleshooting steps:
+
+2 - Type iwconfig into the terminal to see what wireless network interfaces have been detected.
+Type iwconfig into the terminal to see what wireless network interfaces have been detected.
+
+3 - Type sudo lshw (or lspci or lsusb) to list hardware and get details on the chipset that your card uses.
+Type sudo lshw (or lspci or lsusb) to list hardware and get details on the chipset that your card uses. Try searching the Internet or posting in the help forums for your Linux distribution to see if there's support for the chipset your card uses.
+
+4 - If you're using Linux Mint, try MintWifi.
+If you're using Linux Mint, try MintWifi.
+
+5 - You may need to use a ndiswrapper and your Windows driver, look up the ndis wrapper documentation or ask for help in the forums_mailing lists for your distribution.
+You may need to use a ndiswrapper and your Windows driver, look up the ndis wrapper documentation or ask for help in the forums/mailing lists for your distribution.
+

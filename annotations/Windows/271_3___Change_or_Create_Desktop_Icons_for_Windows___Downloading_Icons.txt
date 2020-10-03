@@ -1,0 +1,42 @@
+Change or Create Desktop Icons for Windows
+https://www.wikihow.com/Change-or-Create-Desktop-Icons-for-Windows
+
+0 - Downloading Icons
+
+1 - Open a web browser.
+Open a web browser. Microsoft Edge is the official Windows 10 browser, though you can use Google Chrome, Firefox, Opera, or Internet Explorer as well.
+
+2 - Search for Windows icons.
+Search for Windows icons. Type download windows desktop icons into your browser's address bar and pressing ↵ Enter.
+- You can narrow your search by entering the program's name (e.g., windows my computer icon) or by using the icon file type (e.g., ICO.
+
+3 - Download the icons you want.
+Download the icons you want. You can do this by opening a site that has your icons and clicking the Download button. Doing so will save the icons to your computer.
+- If you download multiple icons at once, you may have to extract the icons to a regular folder before continuing.
+
+4 - Open File Explorer .
+Open File Explorer . You can do this by opening Start  and clicking .
+
+5 - Click Desktop.
+Click Desktop. This folder is on the left side of File Explorer.
+
+6 - Click your icons folder.
+Click your icons folder. Doing so selects it.
+- If you just downloaded one icon, select the icon instead.
+
+7 - Click Home.
+Click Home. This tab is in the upper-left corner of the File Explorer window.
+
+8 - Click Move to.
+Click Move to. It's in the "Organize" section of the toolbar at the top of the File Explorer window.
+
+9 - Click Pictures.
+Click Pictures. This folder is near the middle of the pop-up window.
+- You can select any folder on your computer if you don't want to place your icons in Pictures.
+
+10 - Click Move.
+Click Move. This will send your icons to a folder where you won't move or delete them.
+
+11 - Change a program's icon
+Change a program's icon using your downloaded icon. You'll use the Browse method and then select an icon from within the Pictures folder to do this.
+

@@ -1,0 +1,57 @@
+Remove Windows Genuine Advantage Notifications
+https://www.wikihow.com/Remove-Windows-Genuine-Advantage-Notifications
+
+0 - Removing the Activation Watermark from Windows 10
+
+1 - Make sure that you're on an administrator account.
+Make sure that you're on an administrator account. You'll need to be on an account that has administrator privileges in order to make changes to your computer's registry.
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+3 - Type in regedit.
+Type in regedit. This will search your computer for the Registry Editor command.
+
+4 - Click regedit.
+Click regedit. It's a teal collection of blocks at the top of the Start window.
+
+5 - Click Yes when prompted.
+Click Yes when prompted. Doing so will open the Registry Editor window.
+
+6 - Go to the "Activation" key.
+Go to the "Activation" key. To do so:
+- Expand the HKEY_LOCAL_MACHINE folder by double-clicking it.
+- Expand SOFTWARE
+- Scroll down and expand Microsoft
+- Scroll down and expand Windows NT
+- Expand CurrentVersion
+- Expand Software Protection Platform
+- Click Activation﻿
+
+7 - Right-click Manual.
+Right-click Manual. It's a blue-and-white icon on the right side of the window. A drop-down menu will appear.
+- If your mouse doesn't have a right-click button, click the right side of the mouse, or use two fingers to click the mouse.
+- If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad.
+
+8 - Click Modify.
+Click Modify. It's at the top of the drop-down menu. A window will appear.
+
+9 - Change the value data.
+Change the value data. In the "Value data" text box, replace the "0" with a "1", then click OK.
+- You may be prompted to confirm this choice. If so, click Yes or OK before proceeding.
+
+10 - Right-click NotificationDisabled.
+Right-click NotificationDisabled. This item is also on the right side of the page.
+
+11 - Click Modify.
+Click Modify.
+
+12 - Change the value data to 1.
+Change the value data to 1. This will prevent the activation notification from appearing on your desktop.
+
+13 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart in the pop-up menu. Your computer will shut down and then turn itself back on.
+
+14 - Repeat this process if the notification reappears.
+Repeat this process if the notification reappears. While removing the watermark notification will work temporarily, you may need to disable it again in the future.
+

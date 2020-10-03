@@ -1,0 +1,27 @@
+Get ReactOS as a Replacement for Microsoft Windows
+https://www.wikihow.com/Get-ReactOS-as-a-Replacement-for-Microsoft-Windows
+
+0 - Steps
+
+1 - Back up any personal data e.g.
+Back up any personal data e.g. photos, documents, favorites, passwords and settings.
+- ;
+
+2 - Visit the ReactOS website.
+Visit the ReactOS website.
+
+3 - Check the system requirements.
+Check the system requirements.
+
+4 - Download ReactOS.
+Download ReactOS.
+
+5 - Burn the image file (.iso) to a blank CD "as an image" (with Nero or InfraRecorder) not "as a data disk".
+Burn the image file (.iso) to a blank CD "as an image" (with Nero or InfraRecorder) not "as a data disk".
+
+6 - Reboot your PC with the CD in.
+Reboot your PC with the CD in. If it won't boot to ReactOS, reboot then get into your BIOS and change the boot order to CD/DVD drive followed by hard disk drive and reboot again.
+
+7 - Depending on what you have downloaded, press return for the live CD or follow the instructions for installation.
+Depending on what you have downloaded, press return for the live CD or follow the instructions for installation.
+

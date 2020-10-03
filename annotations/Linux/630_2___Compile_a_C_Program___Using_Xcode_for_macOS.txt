@@ -1,0 +1,34 @@
+Compile a C Program
+https://www.wikihow.com/Compile-a-C-Program
+
+0 - Using Xcode for macOS
+
+1 - Install Xcode on your Mac.
+Install Xcode on your Mac.[4]
+- X
+- Research source
+- 
+- 
+- Mavericks (10.9) and later: Open the App Store  and search for xcode. Click GET to install, and follow any on-screen instructions.
+- Lion and Mountain Lion (10.7 and 10.8): Follow the instructions for Mavericks and later. Once installed, open the app (it's in the Applications folder), click the File menu and then Preferences. Click the Downloads tab, then click Install next to "Command Line Tools."
+
+2 - Open Xcode.
+Open Xcode. Now that it's installed, you'll find it in the Applications folder.
+
+3 - Click the File and select Open.
+Click the File and select Open.
+
+4 - Select your code file and click Open.
+Select your code file and click Open. The contents of your code will appear.[5]
+- X
+- Research source
+
+5 - Click the Product menu.
+Click the Product menu. It's at the top of the screen.
+
+6 - Click Archive.
+Click Archive. This compiles and links your C code. When it's ready to be exported, a window containing options will appear.
+
+7 - Select Export as an Xcode Archive and click Next.
+Select Export as an Xcode Archive and click Next. Xcode will create a new folder (inside the folder where your code is saved) and place the executable file inside.
+

@@ -1,0 +1,31 @@
+Use Microsoft Whiteboard
+https://www.wikihow.com/Use-Microsoft-Whiteboard
+
+0 - Installing Microsoft Whiteboard
+
+1 - Open the Microsoft Store app.
+Open the Microsoft Store app. You'll find it in your Start menu. If you have tiles enabled, look for the icon that looks like a shopping bag. Microsoft Whiteboard is available as a Windows 10 app at no cost.[1]
+- X
+- Research source
+- 
+- 
+- If you don't have Windows 10 but want to join someone's Whiteboard session, ask them to send you the board's URL, which you can then access in any web browser. When you visit the URL in your browser, click View on the web and then sign in with your Microsoft account.
+- If you have an iPhone or iPad, you can install the free Microsoft Whiteboard app from the App Store. When launching the app, you'll be prompted to sign in with your Microsoft account.
+- ;
+
+2 - Search for the Microsoft Whiteboard app.
+Search for the Microsoft Whiteboard app. To do this, click your mouse in the "Search" box at the top-right corner of the window, type Microsoft whiteboard, and then press ↵ Enter.
+
+3 - Click Microsoft Whiteboard.
+Click Microsoft Whiteboard. It should the first app in the list of results. Look for a blue tile with an icon of a whiteboard and a pencil inside.
+
+4 - Click the blue Get button.
+Click the blue Get button. It's at the top-right corner of the window. This downloads and installs the app on your PC. When the download is complete, Microsoft Whiteboard will be added to the Start menu.
+
+5 - Launch the app.
+Launch the app.  If you're still in the Microsoft Store, click the blue Launch button at the top-right corner to open the app. Otherwise, open the Start menu and click Microsoft Whiteboard in the app list.
+- You may have to accept an agreement the first time you open the app.
+
+6 - Sign in with your Microsoft account.
+Sign in with your Microsoft account. If you're already logged in to Windows with your Microsoft account, you can skip this step. If not, click the grey circle with a white outline of a person at the top-right corner and follow the on-screen instructions to sign in.
+

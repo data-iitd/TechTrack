@@ -1,0 +1,8 @@
+T1	Software-Other 208 217	FileZilla
+A1	isOpened T1 f->t
+T2	Software-Other 343 352	.htaccess
+A2	isOpened T2 f->t
+T3	Software-Other 845 853	Terminal
+A3	isOpened T3 f->t
+T4	Software-Other 1132 1140	Relaunch
+A4	isOpened T4 f->t

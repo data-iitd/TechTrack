@@ -1,0 +1,14 @@
+T1	Software-Other 3468 3475	Install
+A1	isSettingsChanged T1 true
+T2	Software-Other 1054 1062	Download
+A2	isSettingsChanged T2 true
+T3	Software-Other 921 951	Windows 10 Media Creation Tool
+T4	Software-Other 1202 1221	Media Creation Tool
+A3	isOpened T4 f->t
+T5	Software-Other 1791 1797	Accept
+A4	isOpened T5 f->t
+T6	Software-Other 2344 2363	Upgrade this PC now
+T7	Software-Other 2497 2501	Next
+A5	isSettingsChanged T7 true
+T8	Software-Other 2883 2902	Change what to keep
+R1	SubPart Arg1:T1 Arg2:T4	

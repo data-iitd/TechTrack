@@ -1,0 +1,37 @@
+Remove Windows Genuine Advantage Notifications
+https://www.wikihow.com/Remove-Windows-Genuine-Advantage-Notifications
+
+0 - Activating Windows
+
+1 - Make sure that you're connected to the Internet.
+Make sure that you're connected to the Internet. In order to activate your copy of Windows, you'll need to be connected to the Internet so that Microsoft can validate your key.
+- ;
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+
+3 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start menu.
+
+4 - Click  Update & Security.
+Click  Update & Security. This circular arrow-shaped icon is at the bottom of the Settings window.
+
+5 - Click the Activation tab.
+Click the Activation tab. You'll find it on the left side of the window.
+
+6 - Click Change product key.
+Click Change product key. It's a link in the middle of the Activation page. Doing so opens a new window.
+
+7 - Enter your Windows 10 product key.
+Enter your Windows 10 product key. Type the activation key that came with your copy of Windows 10 into the text box.
+- You can usually find the product key on the CD box if you bought a hard copy, or in a confirmation email from Microsoft if you bought a Windows 10 product key online.
+- If you bought a key for Windows 7, 8, or 8.1, you can use that key to register Windows 10.[1]
+- X
+- Research source
+
+8 - Click Next.
+Click Next. It's in the lower-right corner of the window. This will prompt Microsoft to attempt to verify your copy of Windows.
+
+9 - Follow any on-screen instructions.
+Follow any on-screen instructions. If your copy of Windows is legitimate, you should receive a notification that it has been accepted, though you may need to enter additional information if prompted.
+

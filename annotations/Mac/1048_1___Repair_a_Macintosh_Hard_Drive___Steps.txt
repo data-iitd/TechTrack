@@ -1,0 +1,69 @@
+Repair a Macintosh Hard Drive
+https://www.wikihow.com/Repair-a-Macintosh-Hard-Drive
+
+0 - Steps
+
+1 - Have a backup handy just in case.
+Have a backup handy just in case. There is a chance this can erase some data or just wipe out your entire hard drive. So, keep a backup handy.
+- ;
+
+2 - We are not going to reinstall Mac OS X.
+We are not going to reinstall Mac OS X.
+
+3 - Check if the disk needs repairs.
+Check if the disk needs repairs. You can check this by going into Disk Utility, clicking your disk in the sidebar, and clicking Verify Disk.
+
+4 - Save your work in all open applications.
+Save your work in all open applications.
+
+5 - Turn on the sound to a point that you can hear it.
+Turn on the sound to a point that you can hear it. It will be helpful for booting into Safe Mode after you repair the disk.
+
+6 - Insert your install DVD.
+Insert your install DVD. Don't do anything with it.
+
+7 - Restart your Mac (Apple Menu > Restart).
+Restart your Mac (Apple Menu > Restart).
+
+8 - When you see the white screen, start holding down C.
+When you see the white screen, start holding down C. Don't let go until you see the usual Apple logo and spinning wheel.
+
+9 - Click the right pointing arrow in the dialog box that appears.
+Click the right pointing arrow in the dialog box that appears. Don't do anything else unless you want a new language.
+
+10 - Go to Utilities > Disk Utility.
+Go to Utilities > Disk Utility. This disk utility is the only one that can repair disks.
+
+11 - Select your disk in the sidebar and Click Repair Disk.
+Select your disk in the sidebar and Click Repair Disk. Wait. Don't turn off the Mac.
+
+12 - Exit the installer.
+Exit the installer.
+
+13 - Quit Disk Utility and choose Utilities > Start-Up Disk.
+Quit Disk Utility and choose Utilities > Start-Up Disk.
+
+14 - Click the disk with Mac OS X and click Restart.
+Click the disk with Mac OS X and click Restart.
+
+15 - Hold the shift key as soon as you hear the start-up sound.
+Hold the shift key as soon as you hear the start-up sound. Don't press it before the sound.
+
+16 - Keep holding it until a loading bar appears at the bottom of the screen.
+Keep holding it until a loading bar appears at the bottom of the screen. Booting will take much longer than usual, so just wait.
+
+17 - You are in Safe Mode.
+You are in Safe Mode. The sound doesn't work, you can't use the internet, and the dock lags.
+
+18 - Log in and launch Disk Utility.
+Log in and launch Disk Utility.
+
+19 - Click your disk in the sidebar and click Repair Disk Permissions.
+Click your disk in the sidebar and click Repair Disk Permissions.
+
+20 - Restart normally.
+Restart normally.
+
+21 - Restore any lost data and get back to what you were doing.
+Restore any lost data and get back to what you were doing.
+

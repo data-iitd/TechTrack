@@ -1,0 +1,6 @@
+T1	Software-OS-Related 150 164	command prompt
+A1	isOpened T1 f->t
+T2	Software-OS-Related 551 559	explorer
+A2	isOpened T2 f->t
+T3	Hardware-Devices 886 894	computer
+A3	isUsed T3 true

@@ -1,0 +1,4 @@
+T1	Software-OS-Related 136 149	File Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 433 440	OS (C:)
+A2	isOpened T2 f->t

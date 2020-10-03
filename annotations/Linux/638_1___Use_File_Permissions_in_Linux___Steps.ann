@@ -1,0 +1,33 @@
+T1	Software-OS-Related 114 124	permission
+T2	Software-OS-Related 243 245	Ls
+T3	Software-OS-Related 310 320	permission
+T4	Software-OS-Related 397 401	USER
+T5	Software-OS-Related 414 419	GROUP
+T6	Software-OS-Related 431 436	OTHER
+T7	Software-OS-Related 563 573	permission
+T8	Software-OS-Related 1657 1667	permission
+T9	Software-OS-Related 680 681	r
+T10	Software-OS-Related 693 694	w
+T11	Software-OS-Related 706 707	x
+T12	Software-OS-Related 686 690	read
+*	Equiv T9 T12
+T13	Software-OS-Related 699 704	write
+*	Equiv T10 T13
+T14	Software-OS-Related 712 719	execute
+*	Equiv T11 T14
+T15	Software-OS-Related 788 792	file
+T16	Software-OS-Related 1734 1744	permission
+T17	Software-OS-Related 1748 1755	folders
+A1	isSettingsChanged T16 true
+R1	SubPart Arg1:T16 Arg2:T17	
+T18	Software-OS-Related 2082 2087	chmod
+T19	Software-OS-Related 2194 2199	ls –l
+T20	Software-OS-Related 2561 2573	root account
+T21	Software-OS-Related 2589 2600	permissions
+T22	Software-OS-Related 2608 2612	file
+T23	Software-OS-Related 2629 2633	 777
+A2	isSettingsChanged T23 true
+R2	SubPart Arg1:T23 Arg2:T21	
+T24	Software-OS-Related 2649 2654	chmod
+T25	Software-OS-Related 3014 3030	file permissions
+T26	Software-OS-Related 3034 3039	Linux

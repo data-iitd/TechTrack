@@ -1,0 +1,48 @@
+T1	Software-OS-Related 102 106	Boot
+T2	Software-OS-Related 117 147	Puppy Linux installation media
+T3	Software-OS-Related 411 415	Menu
+A1	isOpened T3 f->t
+T4	Software-OS-Related 498 503	Setup
+A2	isOpened T4 f->t
+T5	Software-OS-Related 580 595	Puppy Installer
+T6	Software-OS-Related 668 687	Universal installer
+A3	isOpened T5 f->t
+T8	Software-OS-Related 967 986	internal hard drive
+T7	Software-OS-Related 899 918	external hard drive
+T9	Software-OS-Related 757 778	installation location
+T10	Software-OS-Related 1130 1135	drive
+T11	Software-OS-Related 1148 1155	install
+T12	Software-OS-Related 1260 1269	partition
+A4	isOpened T10 f->t
+T13	Software-OS-Related 1683 1685	OK
+T14	Software-OS-Related 938 944	Frugal
+T15	Software-OS-Related 1305 1311	Frugal
+A5	isSettingsChanged T13 true
+R1	SubPart Arg1:T13 Arg2:T12	
+T16	Software-OS-Related 1784 1800	boot media files
+T17	Hardware-Other 870 879	USB media
+T18	Hardware-Other 881 892	flash drive
+T19	Software-OS-Related 1933 1939	Frugal
+T20	Software-OS-Related 1943 1960	Full installation
+T21	Software-OS-Related 2045 2050	drive
+T22	Software-OS-Related 2105 2111	Frugal
+A6	isSettingsChanged T22 true
+T23	Software-OS-Related 2131 2144	new partition
+T24	Software-OS-Related 2153 2157	Full
+A7	isSettingsChanged T24 true
+R2	SubPart Arg1:T22 Arg2:T21	
+R3	SubPart Arg1:T24 Arg2:T23	
+T26	Software-OS-Related 2444 2459	Frugal installs
+T25	Software-OS-Related 2727 2731	Menu
+A8	isOpened T25 f->t
+T27	Software-OS-Related 2734 2743	Shut Down
+A9	isOpened T27 f->t
+T28	Software-OS-Related 2746 2761	Reboot Computer
+T29	Software-OS-Related 2772 2776	SAVE
+T30	Software-OS-Related 2833 2835	OK
+T31	Software-OS-Related 2884 2886	OK
+T32	Software-OS-Related 2898 2904	Normal
+T33	Software-OS-Related 3065 3067	OK
+T34	Software-OS-Related 3153 3162	YES, SAVE
+A10	isSettingsChanged T34 true
+R4	SubPart Arg1:T34 Arg2:T26	

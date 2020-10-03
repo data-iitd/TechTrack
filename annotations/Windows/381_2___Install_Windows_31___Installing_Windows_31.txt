@@ -1,0 +1,67 @@
+Install Windows 3.1
+https://www.wikihow.com/Install-Windows-3.1
+
+0 - Installing Windows 3.1
+
+1 - When you see this screen, insert the Windows 3.1 setup floppy.
+When you see this screen, insert the Windows 3.1 setup floppy.
+
+2 - Type A and :.
+Type A and :. Then press ↵ Enter.
+
+3 - Type setup.
+Type setup. Then press ↵ Enter.
+
+4 - Press ↵ Enter.
+Press ↵ Enter.
+
+5 - Pick your setup mode.
+Pick your setup mode. It's a matter of personal preference but for this tutorial, we will use the "Express Setup".
+
+6 - Insert the "Microsoft Windows 3.1 Disk #2" floppy disk and press ↵ Enter.
+Insert the "Microsoft Windows 3.1 Disk #2" floppy disk and press ↵ Enter.
+
+7 - Insert the "Microsoft Windows 3.1 Disk #3" floppy disk and press ↵ Enter.
+Insert the "Microsoft Windows 3.1 Disk #3" floppy disk and press ↵ Enter.
+
+8 - Type in your name and press Continue.
+Type in your name and press Continue.
+- You can type in your company if you wish but it isn't essential to the installation process.
+
+9 - Check that your name and company correct and then click Continue.
+Check that your name and company correct and then click Continue.
+- If you have made a mistake, click change and correct the mistake.
+
+10 - Insert the "Microsoft Windows 3.1 Disk #4" floppy disk and click Continue.
+Insert the "Microsoft Windows 3.1 Disk #4" floppy disk and click Continue.
+
+11 - Insert the "Microsoft Windows 3.1 Disk #5" floppy disk and click Continue.
+Insert the "Microsoft Windows 3.1 Disk #5" floppy disk and click Continue.
+
+12 - Insert the "Microsoft Windows 3.1 Disk #6" floppy disk and click Continue.
+Insert the "Microsoft Windows 3.1 Disk #6" floppy disk and click Continue.
+
+13 - If you wish to install a printer, click your desired printed and click Install.
+If you wish to install a printer, click your desired printed and click Install.
+- For this tutorial, we will not be installing a printer so make sure "No Printer Attached" is highlighted and click install.
+
+14 - If you see this message, do the following:
+If you see this message, do the following:
+- Confirm that the message displays C:\DOS\EDIT.COM
+- Make sure that "MS-DOS Editor" is highlighted
+- Click OK.
+
+15 - Use "Run tutorial" if you are used to newer operating systems.
+Use "Run tutorial" if you are used to newer operating systems. Windows 3.1 is very different (it doesn't have a Start menu)!
+- For this article, "Skip Tutorial" was selected.
+
+16 - Remove all floppy disks from the computer and click Reboot.
+Remove all floppy disks from the computer and click Reboot.
+
+17 - Type in win and press ↵ Enter
+
+Type in win and press ↵ Enter
+
+18 - If the setup has ran correctly, you will see this screen and Windows 3.1 is up and running to use.
+If the setup has ran correctly, you will see this screen and Windows 3.1 is up and running to use.
+

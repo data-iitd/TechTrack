@@ -1,0 +1,10 @@
+T1	Software-Other 216 226	Subversion
+T2	Software-Other 146 155	SVN serve
+A1	isInstalled T2 start-F
+A2	isInstalled T1 start-F
+T3	Software-Other 533 539	server
+*	Equiv T3 T2
+A3	isInstalled T3 f->t
+T4	Software-Other 625 635	svn server
+T5	Software-Other 930 940	Subversion
+A4	isInstalled T5 f->t

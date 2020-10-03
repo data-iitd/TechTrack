@@ -1,0 +1,28 @@
+Map a Network Drive
+https://www.wikihow.com/Map-a-Network-Drive
+
+0 - On Mac
+
+1 - Open Finder.
+Open Finder. Click the blue, face-shaped icon in your Mac's Dock.
+
+2 - Click Go.
+Click Go. This tab is in the menu bar at the top of the screen. A drop-down menu will appear.
+
+3 - Click Connect to Server.
+Click Connect to Server. You'll find this option near the bottom of the drop-down menu. A new window will open.
+
+4 - Enter the address for the folder that you want to use.
+Enter the address for the folder that you want to use. For example, if the folder is named Pickles and it is inside of the Documents folder on a computer named Hal, you would type Hal/Documents/Pickles/ on the right side of the smb:// tag.
+- Depending on your network type, you may see ftp:// or something similar here instead of smb://.
+
+5 - Click +.
+Click +. It's to the right of the address bar. This will add the folder's address to your Mac.
+
+6 - Click Connect.
+Click Connect. This blue button is at the bottom of the window.
+
+7 - Enter your credentials when prompted.
+Enter your credentials when prompted. The login and password you need to enter here will vary depending on your network, so check with your system administrator if you don't know how to log in.
+- Once you log in, you should see the folder's drive icon appear on your desktop.
+

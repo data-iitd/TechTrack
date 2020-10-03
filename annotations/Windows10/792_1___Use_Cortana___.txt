@@ -1,0 +1,22 @@
+Use Cortana
+https://www.wikihow.com/Use-Cortana
+
+0 - 
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+3 - Click Cortana.
+Click Cortana. It's a circular icon at the bottom of the Settings page.
+
+4 - Click the Talk to Cortana tab.
+Click the Talk to Cortana tab. You'll see this in the upper-left side of the page.
+
+5 - Click the grey "Let Cortana respond to 'Hey Cortana'" switch .
+Click the grey "Let Cortana respond to 'Hey Cortana'" switch . It will change color . Cortana will now activate when you say "Hey, Cortana" near your computer.
+- If you don't want to enable "Hey Cortana", you can still give Cortana vocal commands by clicking the microphone button in the bottom-right corner of the Cortana window when it's open.
+- You can also set Cortana to respond to only your voice by clicking the Learn how I say "Hey Cortana" link and then following Cortana's prompts.
+

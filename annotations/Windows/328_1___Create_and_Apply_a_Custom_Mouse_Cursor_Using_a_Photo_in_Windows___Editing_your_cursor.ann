@@ -1,0 +1,15 @@
+T1	Software-Other 570 574	GIMP
+A1	isOpened T1 f->t
+T2	Software-Other 592 596	File
+A2	isOpened T2 f->t
+T3	Software-Other 598 601	New
+A3	isOpened T3 f->t
+T4	Software-Other 897 901	File
+A4	isOpened T4 f->t
+T5	Software-Other 903 917	Open as layers
+A5	isOpened T5 f->t
+T6	Software-Other 1220 1230	Scale Tool
+A6	isOpened T6 f->t
+T7	Software-Other 1751 1763	Dialogue box
+T8	Software-Other 1709 1719	Paint Tool
+A7	isOpened T8 f->t

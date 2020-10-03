@@ -1,0 +1,8 @@
+T1	Hardware-Devices 121 128	printer
+A1	isPowered T1 f->t
+T2	Hardware-Other 245 251	button
+T3	Hardware-Devices 326 333	printer
+A2	isConnected T3 f->t
+T4	Hardware-Other 592 608	printer's manual
+T5	Hardware-Devices 741 747	router
+T6	Hardware-Other 755 769	Ethernet cable

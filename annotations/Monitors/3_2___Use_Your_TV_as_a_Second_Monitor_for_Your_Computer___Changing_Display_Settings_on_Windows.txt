@@ -1,0 +1,31 @@
+Use Your TV as a Second Monitor for Your Computer
+https://www.wikihow.com/Use-Your-TV-as-a-Second-Monitor-for-Your-Computer
+
+0 - Changing Display Settings on Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will open.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the menu.
+
+3 - Click System.
+Click System. It's a computer-shaped icon in the Settings window.
+
+4 - Click the Display tab.
+Click the Display tab. This option is on the left side of the Display window.
+
+5 - Scroll down to the "Multiple displays" section.
+Scroll down to the "Multiple displays" section. It's near the bottom of the page.
+
+6 - Click the "Multiple displays" drop-down box.
+Click the "Multiple displays" drop-down box. Doing so prompts a drop-down menu.
+
+7 - Click Extend these displays.
+Click Extend these displays. It's an option in the drop-down box. This will ensure that your TV's screen acts as a continuation of your PC's screen (rather than just duplicating it).
+
+8 - Use your extended TV display.
+Use your extended TV display. Moving your mouse all the way to the right edge of your computer will move the mouse onto your TV's screen, where you can proceed to use the computer like usual.
+- Any content on your computer's screen will remain as it was before extending the display.
+- Think of the TV as a screen immediately to the right of your computer's screen.
+

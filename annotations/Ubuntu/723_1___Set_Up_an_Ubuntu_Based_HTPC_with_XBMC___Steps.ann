@@ -1,0 +1,54 @@
+T1	Software-Other 337 375	http://www.ubuntu.com/download/desktop
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 379 403	http://kodi.tv/download/
+A3	isOpened T2 f->t
+A4	isInstalled T2 start-F
+T3	Software-OS-Related 874 888	Install Ubuntu
+A5	isOpened T3 f->t
+T4	Software-OS-Related 1070 1078	Continue
+A6	isOpened T4 f->t
+T5	Software-OS-Related 1191 1220	Erase disk and install Ubuntu
+A7	isSettingsChanged T5 true
+T6	Software-OS-Related 1235 1246	Install Now
+A8	isOpened T6 f->t
+T7	Software-OS-Related 1329 1348	location/ time zone
+A9	isSettingsChanged T7 true
+T8	Software-OS-Related 1360 1375	Keyboard Layout
+A10	isSettingsChanged T8 true
+T9	Software-OS-Related 1464 1484	Log in automatically
+A11	isSettingsChanged T9 true
+T10	Software-OS-Related 1784 1792	continue
+A12	isOpened T10 f->t
+T11	Software-OS-Related 2012 2023	Restart Now
+A13	isOpened T11 f->t
+T12	Software-OS-Related 2314 2322	terminal
+A14	isOpened T12 f->t
+T13	Software-OS-Related 2539 2597	sudo apt-get install python-software-properties pkg-config
+A15	isSettingsChanged T13 true
+T14	Software-OS-Related 2601 2648	sudo apt-get install software-properties-common
+A16	isSettingsChanged T14 true
+T15	Software-OS-Related 2652 2693	sudo add-apt-repository ppa:team-xbmc/ppa
+A17	isSettingsChanged T15 true
+T16	Software-OS-Related 2697 2716	sudo apt-get update
+A18	isSettingsChanged T16 true
+T17	Software-OS-Related 2720 2745	sudo apt-get install xbmc
+A19	isOpened T17 f->t
+T18	Software-OS-Related 2964 2968	icon
+A20	isOpened T18 f->t
+T19	Software-OS-Related 3010 3014	XBMC
+A21	isSettingsChanged T19 true
+T20	Software-OS-Related 3021 3027	Log in
+A22	isOpened T20 f->t
+T21	Software-OS-Related 2776 2783	Log out
+A23	isOpened T21 t->f
+R1	SubPart Arg1:T5 Arg2:T3	
+R2	SubPart Arg1:T7 Arg2:T3	
+R3	SubPart Arg1:T8 Arg2:T3	
+R4	SubPart Arg1:T9 Arg2:T3	
+R5	SubPart Arg1:T13 Arg2:T12	
+R6	SubPart Arg1:T14 Arg2:T12	
+R7	SubPart Arg1:T15 Arg2:T12	
+R8	SubPart Arg1:T16 Arg2:T12	
+R9	SubPart Arg1:T17 Arg2:T12	
+R10	SubPart Arg1:T19 Arg2:T18	

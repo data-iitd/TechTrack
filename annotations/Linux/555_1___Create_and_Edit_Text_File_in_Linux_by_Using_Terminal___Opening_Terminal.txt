@@ -1,0 +1,29 @@
+Create and Edit Text File in Linux by Using Terminal
+https://www.wikihow.com/Create-and-Edit-Text-File-in-Linux-by-Using-Terminal
+
+0 - Opening Terminal
+
+1 - Open Terminal.
+Open Terminal. To do so, click Menu, then find the Terminal app--which resembles a black box with a white ">_" in it--and click on it. You'll typically find Terminal in a bar on the left side of the Menu window.
+- You can also click the search bar at the top of the Menu window and then type in terminal to search for it.
+- Most Linux Distros open the Terminal as well, when pressing Ctrl+Alt+T.
+- ;
+
+2 - Type ls into Terminal, then press ↵ Enter.
+Type ls into Terminal, then press ↵ Enter. Terminal opens to your home directory, but the ls command displays every folder in your current directory. To create a text file in one of these directories, you'll need to change the current directory.
+
+3 - Find a directory in which you wish to create a text file.
+Find a directory in which you wish to create a text file. Any directory name listed beneath the ls command (e.g., "Desktop") is a place to which you can navigate.
+- You CAN create and edit files outside of this directory, but be aware that this may cause fatal problems. If you're sure about doing so, use the command ls / to see and navigate through the root directory, and prefix your commands with sudo when opening the text editor. More on that later.
+
+4 - Type cd directory.
+Type cd directory. You'll replace "directory" with your preferred directory's name. This command changes Terminal's focus from the current directory to the one you name.
+- For example, you would type cd Desktop to shift Terminal's command location to the Desktop directory.
+- If you want to create a text file in a specific folder within your selected directory, you'll place a "/" after the directory and then type in the folder's name. For example: for a folder named "Misc" in the Documents directory, you'd type cd Documents/Misc.
+
+5 - Press ↵ Enter.
+Press ↵ Enter. Doing so will run your command, thereby shifting Terminal's target directory from your home directory to the one you specified.
+
+6 - Decide on a text editing program.
+Decide on a text editing program. You can create a simple text file quickly, or you can use either Vim or Emacs to create and edit an advanced file. Now that you're in the directory in which you wish to place your text file, it's time to proceed with actually creating it.
+

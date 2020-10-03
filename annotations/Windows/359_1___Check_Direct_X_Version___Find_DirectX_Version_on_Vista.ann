@@ -1,0 +1,8 @@
+T1	Software-OS-Related 128 140	Windows icon
+A1	isOpened T1 f->t
+T2	Software-Other 268 274	Dxdiag
+A2	isOpened T2 f->t
+T3	Software-Other 459 465	System
+A3	isOpened T3 f->t
+T4	Software-Other 683 701	System Information
+A4	isOpened T4 f->t

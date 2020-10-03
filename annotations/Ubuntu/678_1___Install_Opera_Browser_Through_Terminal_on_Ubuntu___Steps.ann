@@ -1,0 +1,28 @@
+T1	Software-OS-Related 304 312	Terminal
+A1	isOpened T1 f->t
+T2	Software-Other 385 456	sudo sh -c 'wget -O - http://deb.opera.com/archive.key | apt-key add -'
+A3	isOpened T2 f->t
+T3	Software-OS-Related 571 579	password
+A5	isOpened T3 f->t
+T4	Software-Other 777 822	sudo gedit /etc/apt/sources.list.d/opera.list
+A6	isSettingsChanged T4 true
+T5	Software-Other 950 997	deb http://deb.opera.com/opera/ stable non-free
+A7	isSettingsChanged T5 true
+T6	Software-Other 1015 1026	close Gedit
+A9	isOpened T6 t->f
+T7	Software-OS-Related 1236 1255	sudo apt-get update
+A10	isSettingsChanged T7 true
+T8	Software-Other 1427 1460	sudo apt-get install opera-stable
+A11	isInstalled T8 f->t
+T9	Software-Other 1624 1625	Y
+A12	isOpened T9 f->t
+T10	Software-OS-Related 1776 1784	Terminal
+A13	isOpened T10 t->f
+T11	Software-Other 2074 2078	icon
+A14	isOpened T11 f->t
+T12	Software-Other 2254 2285	I Agree' button with your mouse
+A15	isSettingsChanged T12 true
+R1	SubPart Arg1:T4 Arg2:T2	
+R2	SubPart Arg1:T5 Arg2:T2	
+R3	SubPart Arg1:T7 Arg2:T1	
+R4	SubPart Arg1:T12 Arg2:T11	

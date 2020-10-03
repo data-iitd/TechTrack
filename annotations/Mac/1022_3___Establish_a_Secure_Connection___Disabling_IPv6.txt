@@ -1,0 +1,29 @@
+Establish a Secure Connection
+https://www.wikihow.com/Establish-a-Secure-Connection
+
+0 - Disabling IPv6
+
+1 - Open System Preferences.
+Open System Preferences. You'll find this inside the Apple menu at the top left of your screen.
+
+2 - Click Network.
+Click Network. This is usually in the third row from the top with "iCloud."
+
+3 - Click to select your network.
+Click to select your network. You'll see a list of networks in the menu on the left. When you single-click your network, it will highlight in blue.
+
+4 - Click Advanced.
+Click Advanced. You'll find this in the lower right corner of the pop-up window.
+
+5 - Click the TCP_IP tab (if not already active).
+Click the TCP/IP tab (if not already active). You'll see this in the row of tabs with DNS, and Hardware.
+
+6 - Click {{MacButton|Automatically" next to "Configure IPv6.
+Click {{MacButton|Automatically" next to "Configure IPv6." A menu will drop-down.
+
+7 - Select Manually.
+Select Manually. This is usually the second listing in the drop-down menu.
+
+8 - Click OK and Apply to close all windows.
+Click OK and Apply to close all windows.
+

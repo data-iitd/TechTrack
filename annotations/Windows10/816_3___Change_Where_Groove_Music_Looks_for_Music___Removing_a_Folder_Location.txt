@@ -1,0 +1,22 @@
+Change Where Groove Music Looks for Music
+https://www.wikihow.com/Change-Where-Groove-Music-Looks-for-Music
+
+0 - Removing a Folder Location
+
+1 - Open Groove Music.
+Open Groove Music. Tap the Windows key on your keyboard and type in “groove.” A search should automatically start, and the top result should be the Groove Music app you’re looking for. It may be listed as “Music.” Click this to continue.
+
+2 - Open Groove Music Settings menu.
+Open Groove Music Settings menu. In the new redesign of the Groove Music app, there is a new way to access the Settings. In the lower left-hand corner of the app, you should see a gear icon. Click this to open the Settings menu.
+- Once the Settings menu is open, you should see a heading near the top that says “Music on this PC.” Under this you should see two options in blue, one of which says “Choose where we look for music.”
+
+3 - Select “Choose where we look for music.
+Select “Choose where we look for music.” A new little window should open up with all the current folders being used (local or networked) to search for music inside Groove Music. These should be listed inside little gray boxes for each one. In the upper right-hand corner of each one, you should see a little X.
+
+4 - Click the X to remove the folder from the app.
+Click the X to remove the folder from the app. You may be greeted with a new window asking if you would really like to remove the folder you have selected.
+- Please note that removing a folder from the Groove Music app does not delete the folder from the PC. It only removes the folder from the app.
+
+5 - Confirm removal.
+Confirm removal.
+

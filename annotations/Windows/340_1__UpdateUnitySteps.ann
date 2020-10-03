@@ -1,0 +1,13 @@
+T1	Software-Other 76 81	Unity
+A1	isOpened T1 f->t
+T3	Software-Other 416 436	Download new version
+A3	isOpened T3 f->t
+T2	Software-Other 179 183	Help
+A2	isOpened T2 f->t
+T4	Software-Other 188 205	Check for Updates
+A4	isOpened T4 f->t
+T5	Software-Other 1890 1896	Finish
+A5	isInstalled T5 f->t
+T6	Software-Other 1379 1384	Unity
+A6	isOpened T6 t->f
+R1	SubPart Arg1:T5 Arg2:T6	

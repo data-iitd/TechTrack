@@ -1,0 +1,9 @@
+T1	Software-OS-Related 145 150	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 374 386	Disk Cleanup
+A2	isOpened T2 f->t
+T3	Software-OS-Related 485 500	Clean up system
+A3	isOpened T3 f->t
+T4	Software-OS-Related 782 784	OK
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	

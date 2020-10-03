@@ -1,0 +1,14 @@
+T2	Software-OS-Related 283 291	Terminal
+T1	Software-OS-Related 182 191	Spotlight
+A1	isOpened T1 f->t
+T3	Software-OS-Related 222 232	Terminal  
+A2	isOpened T3 f->t
+T4	Software-OS-Related 399 410	hidden file
+T5	Software-OS-Related 414 420	folder
+T6	Software-OS-Related 426 434	Terminal
+T7	Software-OS-Related 732 738	hidden
+T8	Software-OS-Related 794 798	item
+A3	isOpened T8 f->t
+*	Equiv T4 T5
+T9	Software-OS-Related 261 277	chflags nohidden
+T10	Software-OS-Related 619 635	chflags nohidden

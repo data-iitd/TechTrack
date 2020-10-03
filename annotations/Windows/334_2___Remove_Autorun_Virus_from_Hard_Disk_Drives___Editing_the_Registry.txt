@@ -1,0 +1,53 @@
+Remove Autorun Virus from Hard Disk Drives
+https://www.wikihow.com/Remove-Autorun-Virus-from-Hard-Disk-Drives
+
+0 - Editing the Registry
+
+1 - Go to any folder.
+Go to any folder. In that on the top menu go to Tools--> Folder Options, which will be beside File, Edit, View, Favourites.
+
+2 - A window pops up after you click on folder options.
+A window pops up after you click on folder options. In that window go to View tab and select the option Show hidden files and folders. Now un-check the option Hide protected Operating system files. Click "OK".
+
+3 - Now open your drives (By right click and select Explore.
+Now open your drives (By right click and select Explore. Don't double click!) Delete autorun.inf and MS32DLL.dll.vbs or MS32DLL.dll (use Shift+Delete as it deletes files forever.) in all drives include Handy Drive and Floppy disk.
+
+4 - Open folder C:
+Open folder C:\WINDOWS to delete MS32DLL.dll.vbs or MS32DLL.dll (Use Shift+Delete )
+
+5 - Go to start --> Run --> Regedit and the Registry editor will open
+
+Go to start --> Run --> Regedit and the Registry editor will open
+
+6 - Now navigate in the left pane as follows:
+Now navigate in the left pane as follows: HKEY_LOCAL_MACHINE --> Software --> Microsoft --> Windows --> Current Version --> Run .Now delete the entry MS32DLL (Use Delete key on keyboard)
+
+7 - Go to HKEY_CURRENT_USER --> Software --> Microsoft --> Internet Explorer --> Main and delete the entry Window Title “Hacked by Godzilla”
+
+Go to HKEY_CURRENT_USER --> Software --> Microsoft --> Internet Explorer --> Main and delete the entry Window Title “Hacked by Godzilla”
+
+8 - Now open the group policy editor by typing gpedit.msc in Start --> run and pressing enter.
+Now open the group policy editor by typing gpedit.msc in Start --> run and pressing enter.
+
+9 - Go to User Configuration --> Administrative Templates --> System .
+Go to User Configuration --> Administrative Templates --> System . Double Click on entry Turn Off Autoplay then Turn Off Autoplay Properties will display.Do as follows:
+- Select Enabled
+- Select All drives
+- Click OK
+
+10 - Now go to start --> Run and type msconfig there and press Enter.A system configuration utility dialogue will open.
+Now go to start --> Run and type msconfig there and press Enter.A system configuration utility dialogue will open.
+
+11 - Go to startup tab in it and uncheck MS32DLL .Now click Ok and when the system configuration utility asks for restart ,click on exit without restart.
+Go to startup tab in it and uncheck MS32DLL .Now click Ok and when the system configuration utility asks for restart ,click on exit without restart.
+
+12 - Now go to Tools --> Folder Options on the top menu of some folder again and select the Do not show Hidden files and check Hide operating system files.
+Now go to Tools --> Folder Options on the top menu of some folder again and select the Do not show Hidden files and check Hide operating system files.
+
+13 - Go to your recyclable bin and empty it to prevent any possibility of MS322DLL.dll.vbs lying there.
+Go to your recyclable bin and empty it to prevent any possibility of MS322DLL.dll.vbs lying there.
+
+14 - Now restart your PC once and you can now open your hard disk drives by double clicking on them
+
+Now restart your PC once and you can now open your hard disk drives by double clicking on them
+

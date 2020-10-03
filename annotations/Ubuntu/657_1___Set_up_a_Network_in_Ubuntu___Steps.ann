@@ -1,0 +1,29 @@
+T1	Software-OS-Related 233 239	System
+A1	isOpened T1 f->t
+T2	Software-OS-Related 243 254	Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 267 286	Network Connections
+T4	Software-OS-Related 375 380	Wired
+A3	isOpened T4 f->t
+T5	Software-OS-Related 397 406	Auto eth0
+T6	Software-OS-Related 420 424	Edit
+T7	Software-OS-Related 475 488	IPV4 Settings
+A6	isOpened T7 f->t
+A5	isOpened T6 f->t
+T8	Software-OS-Related 506 522	Automatic (DHCP)
+A7	isSettingsChanged T8 true
+T9	Software-OS-Related 648 653	Apply
+A8	isSettingsChanged T9 true
+T10	Software-OS-Related 925 937	Applications
+A9	isOpened T10 f->t
+T11	Software-OS-Related 940 951	Accessories
+A10	isOpened T11 f->t
+T12	Software-OS-Related 964 972	Terminal
+A11	isOpened T12 f->t
+R1	SubPart Arg1:T9 Arg2:T3	
+R2	SubPart Arg1:T8 Arg2:T3	
+A12	isOpened T5 f->t
+R3	SubPart Arg1:T6 Arg2:T4	
+T13	Software-OS-Related 1067 1081	“sudo ifconfig
+A4	isSettingsChanged T13 true
+R4	SubPart Arg1:T13 Arg2:T12	

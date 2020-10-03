@@ -1,0 +1,21 @@
+Install WhatsApp on Ubuntu
+https://www.wikihow.com/Install-WhatsApp-on-Ubuntu
+
+0 - Steps
+
+1 - Download the Android Emulator.
+Download the Android Emulator. To download WhatsApp on your Ubuntu you must install the Android emulator by visiting https://dl.google.com/android/android-sdk_r16-linux.tgz. After successfully installing this on your computer, a screen will appear on your computer with several files. Among these files you have to click on ‘tools’ and then the ‘Android’ option. Finally, click on the ‘install package’ option and then ‘select all’ and it gets downloaded. This might take a few minutes and therefore, you must be patient.
+- ;
+
+2 - Select AVD.
+Select AVD. While the installation process goes on some promotional messages would pop up on screen related to Motorola, HTC, Sony or something else. Just cancel these windows. Go to the menu ‘tools’ next and select the ‘manage AVD’s’ option. Next, click on the ‘new’ option which requires filling of the data. Once the data is successfully filled, click on ‘create AVD’.
+
+3 - Choose the OS.
+Choose the OS. A new window will open where you are supposed to click on the ‘Ok’ option. You then need to return to the AVDs selection window and ‘Android 2.3’ has to be selected. After this click on ‘start’ and a window will appear. Click on ‘launch’ to create final defaults.
+
+4 - Search for WhatsApp.
+Search for WhatsApp. Once the emulator has been set up and you can search for the app called ‘Whatsapp for Ubuntu’ with the aid of the search icon. Follow the subsequent steps for downloading and installing the app. After the installation is complete, you can see the icon of ‘Whatsapp for Ubuntu’ on the menu of apps.
+
+5 - Click on the WhatsApp icon and fill up the required data.
+Click on the WhatsApp icon and fill up the required data. Either continue with your existing number or create a new account. So the process thereby stands complete of installing WhatsApp for Ubuntu and you can continue to enjoy using their services and the benefits that you do not get on your smartphones.
+

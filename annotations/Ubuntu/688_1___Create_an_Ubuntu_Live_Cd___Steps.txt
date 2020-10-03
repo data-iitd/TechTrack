@@ -1,0 +1,36 @@
+Create an Ubuntu Live Cd
+https://www.wikihow.com/Create-an-Ubuntu-Live-Cd
+
+0 - Steps
+
+1 - Click on this link to download the Ubuntu Live ISO.
+Click on this link to download the Ubuntu Live ISO.
+- ;
+
+2 - Select the latest version available.
+Select the latest version available.
+
+3 - Select 32-bit or 64-bit from the drop down menu below the version menu.
+Select 32-bit or 64-bit from the drop down menu below the version menu.
+
+4 - Click the big orange button with the words Start Download.
+Click the big orange button with the words Start Download.
+
+5 - Wait for the ISO file to finish downloading.
+Wait for the ISO file to finish downloading.
+
+6 - Download a freeware ISO Burner such as "Active@ ISO Burner".
+Download a freeware ISO Burner such as "Active@ ISO Burner".
+- If you are using Windows 7, you can use "Windows Disc Image Burner".
+- If you are using Windows XP, you can use ImgBurn.
+
+7 - Open up Active@ ISO Burner and select the ISO file in the file menu.
+Open up Active@ ISO Burner and select the ISO file in the file menu.
+- If using Windows Disc Image Burner, right click on the image file and hover over "open with" and select "Windows Disc Image Burner".
+
+8 - Insert a Blank CD in to the CD-R and wait for ISO Burner to ID the device.
+Insert a Blank CD in to the CD-R and wait for ISO Burner to ID the device.
+
+9 - Start burning the file.
+Start burning the file.
+

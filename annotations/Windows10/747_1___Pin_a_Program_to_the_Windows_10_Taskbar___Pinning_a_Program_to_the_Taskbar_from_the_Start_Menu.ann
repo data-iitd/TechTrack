@@ -1,0 +1,12 @@
+T2	Software-OS-Related 304 314	Start menu
+A2	isOpened T2 f->t
+T3	Software-OS-Related 491 499	All apps
+A3	isOpened T3 f->t
+T4	Software-OS-Related 718 725	program
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1054 1068	Pin to taskbar
+T6	Software-OS-Related 1189 1196	Taskbar
+R1	SubPart Arg1:T5 Arg2:T4	
+A5	isSettingsChanged T5 true
+T1	Software-OS-Related 182 187	Start
+A1	isOpened T1 f->t

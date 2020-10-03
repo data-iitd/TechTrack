@@ -1,0 +1,28 @@
+T1	Software-OS-Related 176 181	Linux
+T2	Hardware-Devices 109 115	camera
+T3	Hardware-Other 295 309	USB connection
+T4	Hardware-Other 350 362	memory cards
+T5	Hardware-Other 368 381	Compact Flash
+T6	Hardware-Other 385 387	SD
+T7	Software-OS-Related 480 483	Mac
+T8	Hardware-Other 570 578	computer
+T9	Hardware-Other 608 630	built - in card reader
+T11	Hardware-Devices 807 813	camera
+T10	Software-OS-Related 775 780	Linux
+T12	Software-OS-Related 947 960	camera folder
+T13	Software-OS-Related 969 975	photos
+T14	Software-OS-Related 989 997	bookmark
+A1	isSettingsChanged T14 true
+R1	SubPart Arg1:T14 Arg2:T12	
+T15	Software-OS-Related 1165 1171	photos
+T16	Software-OS-Related 1175 1186	sub-folders
+T17	Software-OS-Related 1449 1452	tag
+T18	Software-OS-Related 1458 1464	photos
+T19	Software-OS-Related 1621 1628	backups
+T20	Hardware-Other 1646 1656	hard drive
+T21	Software-Other 1772 1777	rsync
+T22	Software-OS-Related 1709 1714	Linux
+T23	Software-OS-Related 1843 1849	photos
+T24	Hardware-Other 1858 1879	external data storage
+T25	Software-Other 1991 1997	Flickr
+T26	Software-Other 2001 2012	Photobucket

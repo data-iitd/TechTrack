@@ -1,0 +1,44 @@
+Update Unity
+https://www.wikihow.com/Update-Unity
+
+0 - Steps
+
+1 - Open Unity.
+Open Unity. You can find this in your Start Menu or Applications folder.
+- ;
+
+2 - Click the Help and Check for Updates.
+Click the Help and Check for Updates. You'll find the Help tab along the top of the program window or along the top of your screen. When you click Check for Updates, a dialog window will pop up.
+
+3 - Click Download new version.
+Click Download new version. You won't see this button if you're running the current version of Unity.
+- Clicking the button will redirect you to a site where you can download the new version of Unity.[1]
+- X
+- Research source
+- 
+- 
+- You may be directed to a link to install Unity Hub instead, which is a manager for your Unity. It handles any Unity add-ons and updates.
+
+4 - Download and run the installer.
+Download and run the installer. You'll need to Save File when prompted.[2]
+- X
+- Research source
+
+5 - Double-click the saved file to launch the Installer.
+Double-click the saved file to launch the Installer. You’ll find this file in the Downloads folder of your file browser.
+
+6 - Follow the Download Assistant.
+Follow the Download Assistant. The Mac version of the installer includes the application’s icon for you to drag again into the Applications folder.
+- Read all agreements before continuing.
+
+7 - Close Unity.
+Close Unity. Before you finish the Download Assistant, you need to navigate to Unity and close the program.
+
+8 - Choose the components to download including Unity.
+Choose the components to download including Unity. The default configuration is OK to use.
+- You'll see the amount of space you need to complete the download. Make sure you have that space then click Next and the download will begin. This may take a few moments.
+- You may need to give the program permission to install.
+
+9 - Click Finish.
+Click Finish. When the download is complete, you will get a confirmation page. You can also choose to open Unity from here by checking the box next to "Launch Unity."
+

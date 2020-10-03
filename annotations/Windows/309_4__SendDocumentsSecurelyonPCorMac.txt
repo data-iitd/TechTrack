@@ -1,0 +1,44 @@
+Send Documents Securely on PC or Mac
+https://www.wikihow.com/Send-Documents-Securely-on-PC-or-Mac
+
+0 - 
+
+1 - Add the file you want to encrypt to a folder.
+Add the file you want to encrypt to a folder. If you’re not sure how to do this, see Make a New Folder on a Computer.
+
+2 - Click the Go menu.
+Click the Go menu. It’s at the top of the screen.
+
+3 - Click Utilities.
+Click Utilities. It’s near the bottom of the menu. A new Finder window will open.
+
+4 - Double-click Disk Utility.
+Double-click Disk Utility. This opens the Disk Utility app.
+
+5 - Click the File menu.
+Click the File menu. It’s in the menu bar at the top-left corner of the screen.
+
+6 - Hover the mouse over New.
+Hover the mouse over New. Another menu will expand.
+
+7 - Click Image from folder.
+Click Image from folder.
+
+8 - Select the folder you want to encrypt and click Choose.
+Select the folder you want to encrypt and click Choose.
+
+9 - Select 128-bit or 256-bit from the “encryption” drop-down menu.
+Select 128-bit or 256-bit from the “encryption” drop-down menu.
+
+10 - Create a password.
+Create a password. Enter a new password for the folder into the “Password” box, then again in the “Verify” box.
+
+11 - Click Choose.
+Click Choose.
+
+12 - Click Save.
+Click Save.
+
+13 - Click Done.
+Click Done. The files in the folder are now encrypted. Now you can upload the folder to a cloud drive like Google Drive, iCloud Drive, or Dropbox. Once uploaded, use the drive’s tools to share the files as you wish.
+

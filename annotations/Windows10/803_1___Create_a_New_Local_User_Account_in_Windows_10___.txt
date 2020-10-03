@@ -1,0 +1,36 @@
+Create a New Local User Account in Windows 10
+https://www.wikihow.com/Create-a-New-Local-User-Account-in-Windows-10
+
+0 - 
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button and select the settings gear .
+- ;
+
+2 - Go to the Accounts category.
+Go to the Accounts category.
+
+3 - Select Family & other people from the left pane.
+Select Family & other people from the left pane.
+
+4 - Click + Add someone else to this PC.
+Click + Add someone else to this PC. It's under the "Other people" category at the bottom, which means you might have to scroll down. Doing so will prompt a window to appear.
+
+5 - Wait a few seconds for the content to load.
+Wait a few seconds for the content to load.
+
+6 - Click "I don't have this person's sign-in information".
+Click "I don't have this person's sign-in information". It's the link at the bottom of the window that just appeared.
+
+7 - Click the "Add a user without a Microsoft account" link.
+Click the "Add a user without a Microsoft account" link.
+
+8 - Fill out the details.
+Fill out the details. Type a username and optionally, enter a password. If entering a password, you need to add a password hint.
+
+9 - Click the Next button.
+Click the Next button.
+
+10 - Finished.
+Finished. The account will appear under the "Other people" header.
+

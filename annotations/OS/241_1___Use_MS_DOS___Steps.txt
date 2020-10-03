@@ -1,0 +1,72 @@
+Use MS DOS
+https://www.wikihow.com/Use-MS-DOS
+
+0 - Steps
+
+1 - If you're on a computer that has DOS as an operating system, the command prompt should appear automatically when the computer is turned on.
+If you're on a computer that has DOS as an operating system, the command prompt should appear automatically when the computer is turned on. If you're using a Windows computer, you'll need to start the command prompt manually. For most computers, it should be located under 'Accessories' in the Start menu. It can also be accessed by typing "<windows button>" and "R". Then type in "cmd" without the quotes and you should be in DOS, also known as a Command Prompt.
+- ;
+
+2 - You should see a window with "C:
+You should see a window with "C:\>", "C:\DOCUMENTS AND SETTINGS\[your name]>", or something similar. This is called the command prompt, and it also serves the useful purpose of showing what directory you're currently in. At the end of this prompt, you type commands (think verbs) followed by arguments (think nouns -- when the verb needs a noun, that is), then press enter. Here are some sample commands:
+- 
+- C:\GAMES>ping nosound
+- 
+- 
+- 
+- C:\MY DOCUMENTS>edit essay.txt
+- WH.shared.addScrollLoadItem('e14958c0bc9e7158c5e6f596278f5202')
+
+3 - The most important thing you should be able to do is list the contents of directories, and navigate them.
+The most important thing you should be able to do is list the contents of directories, and navigate them. Use the dir command to list the contents of your hard disk or the directory (or "folder") that you're in.  Depending on where you are, you might get something like this:
+- .                 DIR
+- ..                DIR
+- DOS               DIR
+- GAMES             DIR
+- WINDOWS           DIR
+- AUTOEXEC         .BAT
+- ESSAY            .TXT
+
+4 - When used on its own, dir will show the contents of your current directory, but there are many useful arguments for the dir command.
+When used on its own, dir will show the contents of your current directory, but there are many useful arguments for the dir command. For example, typing the name of a directory after dir will give you the contents of that directory instead, and /p is useful for very long lists because it will stop and wait for you to press a key every time it reaches the end of the screen.  /p can also be used in most other commands that print on the screen.
+
+5 - If you want to enter a directory, type cd, then the path and name of the directory (ex.
+If you want to enter a directory, type cd, then the path and name of the directory (ex. cd C:\GAMES\GRAPE). If the directory is a subdirectory of the directory you're currently in, like if you were already in GAMES in the previous example, you could also just type cd GRAPE.  Here, ' cd ' is the command and the directory is the argument. The command prompt also shows the name of your current directory. So, typing
+- 
+- C:\> CD C:\GAMES\GRAPE 
+- 
+- 
+- Would change the command prompt to C:\GAMES\GRAPE>
+- WH.shared.addScrollLoadItem('640b2c29c458cf9f9e21ae69499cfa33')
+
+6 - Executing programs is exactly like commands.
+Executing programs is exactly like commands.  For example, if I wanted to start the game Mortar Mayhem, I would navigate to the directory it's in:
+- 
+- C:\> cd games\mortar
+- 
+- 
+- Then type the name of the EXE file, without the extension.
+- 
+- C:\GAMES\MORTAR> mortar
+- WH.shared.addScrollLoadItem('061580da09d0b7338f844abf31b67dd7')
+- 
+- And now the game would run.
+
+7 - Now that you know the basic syntax of DOS, here are some other useful commands.
+Now that you know the basic syntax of DOS, here are some other useful commands. The things in [brackets] are only examples.
+- 
+- del [countdown.txt]  -  Deletes a file. Does not remove directories, but does clear their contents.
+- 
+- 
+- 
+- move [countdown.txt] [c:\games\grape]  -  Moves a file or folder
+- WH.shared.addScrollLoadItem('d6e1aded42c19939c97d05c2af1d1a32')
+- 
+- 
+- md [grape]  -  Creates a subdirectory
+- WH.shared.addScrollLoadItem('b5178faa6c2ce24b1b048fc234365045')
+- 
+- 
+- rmdir [grape]  -  Removes a directory.
+- WH.shared.addScrollLoadItem('8b49df17531c8f7acb4270097206ae46')
+

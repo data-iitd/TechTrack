@@ -1,0 +1,36 @@
+Format a Dell Computer
+https://www.wikihow.com/Format-a-Dell-Computer
+
+0 - Using Windows Reset
+
+1 - Open Start WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');.
+Open Start WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');. Click the Windows logo in the bottom-left corner of the screen. The Start menu will open.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+3 - Click  Update & Security.
+Click  Update & Security. You'll see this icon near the bottom of the Settings window.
+
+4 - Click the Recovery tab.
+Click the Recovery tab. It's on the left side of the window.
+
+5 - Click Get started.
+Click Get started. This is below the "Reset this PC" heading at the top of the page.
+
+6 - Click Remove everything when prompted.
+Click Remove everything when prompted. It's at the top of the pop-up window.
+
+7 - Click Remove files and clean the drive.
+Click Remove files and clean the drive. This option deletes everything from your hard drive and then reinstalls Windows for you.
+- You may see a warning about not being able to roll back to a previous version of Windows here. If so, click Next before continuing.
+
+8 - Click Reset when prompted.
+Click Reset when prompted. Your computer will begin resetting itself.
+
+9 - Click Continue when prompted.
+Click Continue when prompted. Once your computer finishes resetting, you'll see this at the top of the page. Clicking it will take you to the setup page.
+
+10 - Follow the on-screen prompts.
+Follow the on-screen prompts. You'll select a language, connect to a Wi-Fi network, and perform other setup tasks to complete the Windows 10 reinstallation.
+

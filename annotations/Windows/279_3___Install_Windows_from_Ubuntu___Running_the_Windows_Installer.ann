@@ -1,0 +1,10 @@
+T1	Software-OS-Related 156 165	BIOS_UEFI
+A1	isOpened T1 f->t
+T2	Hardware-Other 481 490	USB drive
+T3	Software-OS-Related 877 886	BIOS_UEFI
+A2	isOpened T3 start-T
+T4	Software-OS-Related 1148 1179	Install Windows only (advanced)
+A3	isSettingsChanged T4 true
+T5	Software-OS-Related 1319 1328	Windows10
+A4	isOpened T5 f->t
+T6	Software-OS-Related 1708 1715	Windows

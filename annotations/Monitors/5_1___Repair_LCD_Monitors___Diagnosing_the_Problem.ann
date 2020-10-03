@@ -1,0 +1,41 @@
+T1	Hardware-Other 154 163	computers
+T2	Hardware-Other 399 421	power indicator lights
+T3	Hardware-Devices 466 473	monitor
+A1	isPowered T3 f->t
+T4	Hardware-Other 1014 1029	blown capacitor
+T5	Hardware-Devices 1077 1083	screen
+A2	isPowered T5 start-T
+T6	Hardware-Other 1367 1377	flashlight
+T7	Hardware-Devices 1385 1392	monitor
+A3	isPowered T7 start-T
+T8	Hardware-Devices 1734 1740	screen
+A4	isPowered T8 start-T
+T9	Hardware-Devices 1824 1831	monitor
+A5	isPowered T9 start-T
+T10	Hardware-Other 1868 1878	pencil tip
+T11	Hardware-Other 1935 1940	cloth
+T12	Software-Other 2072 2106	stuck pixel repair software online
+A6	isOpened T12 f->t
+T13	Hardware-Devices 2478 2485	monitor
+A8	isPowered T13 start-T
+T14	Hardware-Devices 2593 2599	screen
+T15	Hardware-Other 2720 2725	cloth
+T16	Hardware-Other 2873 2879	eraser
+T17	Hardware-Other 2966 2988	LCD scratch repair kit
+T18	Hardware-Devices 3059 3066	display
+T19	Hardware-Devices 3119 3130	LCD monitor
+T20	Hardware-Other 3302 3308	laptop
+T21	Hardware-Other 3360 3377	LCD display panel
+T22	Hardware-Devices 3844 3855	LCD monitor
+T23	Hardware-Other 4220 4243	AV (audio visual) board
+T24	Hardware-Other 4290 4303	circuit board
+T25	Hardware-Other 4321 4345	audio and visual cables.
+*	Equiv T23 T24
+T26	Hardware-Other 4386 4400	soldering iron
+T27	Hardware-Other 4468 4474	screws
+T28	Hardware-Other 4479 4492	ribbon cables
+T29	Hardware-Other 4506 4521	control buttons
+T30	Hardware-Other 4555 4568	metal cleaner
+T31	Hardware-Other 4573 4579	jostle
+T32	Hardware-Other 4755 4761	cables
+*	Equiv T13 T14

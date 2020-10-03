@@ -1,0 +1,28 @@
+T1	Software-Other 147 169	http://www.xubuntu.org
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 185 196	Get Xubuntu
+A3	isOpened T2 f->t
+T3	Software-Other 434 447	Download Now!
+A4	isOpened T3 f->t
+T4	Software-Other 539 561	torrent or mirror site
+A5	isOpened T4 f->t
+T5	Software-Other 749 756	country
+A6	isSettingsChanged T5 true
+T6	Software-Other 949 962	32bit torrent
+T7	Hardware-Other 1122 1135	bootable disk
+T9	Software-OS-Related 1362 1366	Bios
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1586 1595	boot menu
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1610 1625	removable media
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 1670 1674	exit
+A12	isOpened T12 f->t
+T13	Software-OS-Related 1734 1749	Install Xubuntu
+A13	isOpened T13 f->t
+R1	SubPart Arg1:T12 Arg2:T9	
+R2	SubPart Arg1:T6 Arg2:T2	
+A7	isSettingsChanged T6 true
+T8	Software-OS-Related 1268 1275	Restart
+A8	isOpened T8 f->t

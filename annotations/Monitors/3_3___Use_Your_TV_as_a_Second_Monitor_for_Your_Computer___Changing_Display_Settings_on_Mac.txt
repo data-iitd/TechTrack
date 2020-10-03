@@ -1,0 +1,40 @@
+Use Your TV as a Second Monitor for Your Computer
+https://www.wikihow.com/Use-Your-TV-as-a-Second-Monitor-for-Your-Computer
+
+0 - Changing Display Settings on Mac
+
+1 - Open the Apple menu .
+Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+2 - Click System Preferences….
+Click System Preferences…. It's near the top of the drop-down menu. Doing so opens the System Preferences window.
+
+3 - Click Displays.
+Click Displays. This computer monitor-shaped icon is in the middle of the System Preferences window.
+
+4 - Click the Displays tab.
+Click the Displays tab. It's in the upper-left corner of the window.
+
+5 - Change the TV's resolution.
+Change the TV's resolution. Check the "Scaled" box, then click a resolution.
+- You can't use a resolution that's higher than your TV's built-in resolution (e.g., 4K).
+
+6 - Change the screen scaling.
+Change the screen scaling. Click and drag the "Underscan" slider that's at the bottom of the page left to show more of your Mac's screen on the TV or right to zoom in the screen.
+- This will help you fit your Mac's screen to your TV if the image on the TV is too large or too small.
+
+7 - Click the Arrangement tab.
+Click the Arrangement tab. You'll find this option at the top of window.
+
+8 - Uncheck the "Mirror displays" box.
+Uncheck the "Mirror displays" box. This will prevent the TV from merely duplicating what you see on your Mac.
+- Skip this step if the box is unchecked.
+
+9 - Move the TV's screen icon if necessary.
+Move the TV's screen icon if necessary. The TV's screen icon, which is usually the larger rectangle at the top of the window, should be to the right of your Mac's screen icon. You can click and drag the TV's icon to the right if necessary.
+- The screen icon with the white bar at the top of it is your Mac's screen.
+
+10 - Use your extended TV display.
+Use your extended TV display. Moving your mouse all the way to the right edge of your computer will move the mouse onto your TV's screen, where you can proceed to use the computer like usual.
+- Any content on your computer's screen will remain as it was before extending the display.
+

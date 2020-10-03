@@ -1,0 +1,17 @@
+T1	Hardware-Devices 187 195	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 204 225	Administrator account
+A2	isOpened T2 f->t
+T3	Software-OS-Related 556 569	Control Panel
+A3	isOpened T3 f->t
+T4	Software-OS-Related 818 823	start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 844 875	User Accounts and Family Safety
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1114 1134	Remove user accounts
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1275 1288	Guest Account
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1487 1494	Turn On
+A8	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	

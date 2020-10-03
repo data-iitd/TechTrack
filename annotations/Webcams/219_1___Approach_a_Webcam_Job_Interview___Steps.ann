@@ -1,0 +1,19 @@
+T1	Hardware-Other 189 194	suits
+T2	Hardware-Other 239 244	shirt
+T3	Hardware-Other 249 252	tie
+T4	Hardware-Other 282 287	shoes
+T5	Hardware-Devices 308 314	camera
+T6	Hardware-Other 586 595	pant-suit
+T7	Hardware-Devices 871 877	camera
+T8	Hardware-Other 939 946	jewelry
+T9	Hardware-Devices 995 1007	mobile phone
+A1	isPowered T9 t->f
+T10	Hardware-Devices 1463 1469	camera
+T11	Hardware-Devices 2174 2180	camera
+T12	Hardware-Devices 2663 2669	webcam
+T13	Hardware-Devices 2854 2860	webcam
+T14	Hardware-Other 2865 2875	microphone
+A2	isSetup T5 true
+A3	isPowered T5 start-T
+A4	isConnected T5 start-T
+A5	isUsed T10 true

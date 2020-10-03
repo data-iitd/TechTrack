@@ -1,0 +1,29 @@
+Save Your Windows When you Quit an App on a Mac
+https://www.wikihow.com/Save-Your-Windows-When-you-Quit-an-App-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo at the far left corner of the main menu bar on your Mac.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "General" icon.
+Click the "General" icon. It's typically the first icon on the System Preferences window.
+- If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+
+4 - Click to uncheck the box next to "Close windows when quitting an app.
+Click to uncheck the box next to "Close windows when quitting an app." This check box is located under the fourth section of menu options.
+
+5 - Open a new document or web page.
+Open a new document or web page. Any document or web page will work, as the window will serve as a test for the restore feature.
+
+6 - Press ⌘ Cmd+Q to quit the application.
+Press ⌘ Cmd+Q to quit the application. Doing so will close any windows associated with that application.
+- Alternatively, you can click on the application name at the top left of the main menu bar, then click Quit at the bottom of the list.
+
+7 - Re-open the application.
+Re-open the application. All of your previously opened windows for that app will be restored.
+

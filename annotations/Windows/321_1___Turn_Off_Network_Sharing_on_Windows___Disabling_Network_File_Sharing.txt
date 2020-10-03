@@ -1,0 +1,35 @@
+Turn Off Network Sharing on Windows
+https://www.wikihow.com/Turn-Off-Network-Sharing-on-Windows
+
+0 - Disabling Network File Sharing
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the Windows search bar.
+- Use this method to prevent other people on your network from accessing the files on your computer.
+- ;
+
+2 - Type control panel.
+Type control panel. A list of results will appear.
+
+3 - Click Control Panel.
+Click Control Panel.
+
+4 - Click Network and Sharing Center.
+Click Network and Sharing Center.
+
+5 - Click Change advanced sharing settings.
+Click Change advanced sharing settings. It's the third link from the top of the left column.
+
+6 - Click the network profile that says “(current profile)” at the end.
+Click the network profile that says “(current profile)” at the end. This ensures that you're changing the sharing settings for your current connection. You'll see “(current profile)” next to one of the following options:
+- 
+- Private: This is for your private connections, such as when you're on your home network.
+- Guest or public: When you're connected to Wi-Fi in a public location, whether or not you have to enter a Wi-Fi password to log in.
+
+7 - Select Turn off file and printer sharing.
+Select Turn off file and printer sharing. A dot will appear in its corresponding circle. This means the item is selected.
+
+8 - Click Save changes.
+Click Save changes. It's the button at the bottom of the screen. You have disabled file sharing for the current connection.
+- To disable file sharing for the other connection type (the profile you're not logged into right now), click Changed advanced sharing settings again, click the other network profile, then select Turn off file and printer sharing. Remember to click Save changes when you're finished.
+

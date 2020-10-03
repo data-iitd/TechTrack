@@ -1,0 +1,22 @@
+Check Your Hard Disk Space on a Mac
+https://www.wikihow.com/Check-Your-Hard-Disk-Space-on-a-Mac
+
+0 - Steps
+
+1 - Click the Apple Menu .
+Click the Apple Menu . It's in the menu bar at the top-left of the screen.
+- ;
+
+2 - Click About This Mac.
+Click About This Mac. It's the first option at the top of the drop-down menu.
+
+3 - Click the Storage tab.
+Click the Storage tab. It's the tab in the center next to the "Displays" tab.
+
+4 - Check the description under your hard drive.
+Check the description under your hard drive. This will display how much free space is available on your hard drive in gigabytes (GB) under your hard drive's name (e.g "318.21 GB available of 499.42 GB").
+
+5 - Check the bar graph below.
+Check the bar graph below.  This will tell you how much hard drive space is currently being taken up by System files, Documents, Apps, and etc.
+- You can hover the mouse pointer over the different color-coded sections to see each label.
+

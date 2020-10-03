@@ -1,0 +1,30 @@
+T1	Software-OS-Related 171 184	Mac App Store
+A1	isOpened T1 f->t
+T2	Software-OS-Related 199 220	Mountain Lion button,
+A2	isOpened T2 f->t
+T3	Software-OS-Related 262 267	price
+A3	isOpened T3 f->t
+A4	isSettingsChanged T3 true
+T4	Software-OS-Related 444 447	Buy
+A5	isOpened T4 f->t
+T5	Software-OS-Related 610 619	Purchases
+T6	Software-OS-Related 1074 1104	Mountain Lion installer window
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1119 1127	continue
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1172 1177	Agree
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1229 1234	Agree
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1303 1310	Install
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1441 1455	Show All Disks
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 1469 1492	select the target drive
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1510 1517	Install
+A13	isOpened T13 f->t
+T14	Software-OS-Related 1604 1618	computer login
+A14	isOpened T14 f->t
+T15	Software-OS-Related 1807 1815	restart.
+A15	isOpened T15 f->t

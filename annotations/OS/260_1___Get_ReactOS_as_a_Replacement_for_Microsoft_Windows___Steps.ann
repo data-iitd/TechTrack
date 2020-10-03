@@ -1,0 +1,20 @@
+T1	Software-OS-Related 147 154	Back up
+T2	Software-OS-Related 210 216	photos
+T3	Software-OS-Related 218 227	documents
+T4	Software-OS-Related 229 238	favorites
+T5	Software-OS-Related 240 249	passwords
+T6	Software-OS-Related 254 262	settings
+T7	Software-Other 286 301	ReactOS website
+A1	isOpened T7 f->t
+T8	Software-Other 417 424	ReactOS
+T10	Software-OS-Related 672 678	Reboot
+T11	Hardware-Other 684 686	PC
+T12	Hardware-Other 696 698	CD
+T14	Software-OS-Related 747 751	boot
+T15	Software-OS-Related 755 762	ReactOS
+T16	Software-OS-Related 790 794	BIOS
+A2	isOpened T16 f->t
+T17	Software-OS-Related 824 836	CD/DVD drive
+A3	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T16	
+T18	Software-OS-Related 950 957	live CD

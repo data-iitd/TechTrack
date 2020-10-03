@@ -1,0 +1,35 @@
+Delete Temporary Files and Delete Prefetch Files from Your Computer
+https://www.wikihow.com/Delete-Temporary-Files-and-Delete-Prefetch-Files-from-Your-Computer
+
+0 - Deleting Prefetch Files
+
+1 - Press ⊞ Win+R to open the Run dialog.
+Press ⊞ Win+R to open the Run dialog. Another way to open the Run dialog is to type run into the Windows search bar and click Run in the results.
+- Prefetch files are automatically created to speed up the launch of certain applications and don't usually take up much space on your drive. There's no real reason to delete these files unless you need to free up a small amount of space.
+
+2 - Type prefetch into the "Run" box and press ↵ Enter.
+Type prefetch into the "Run" box and press ↵ Enter. This opens the Prefetch folder in the File Explorer.
+- Depending on your security settings, you may need to enter your admin password or confirm the action before you see the folder contents.
+
+3 - Enable the option to display hidden files and folders.
+Enable the option to display hidden files and folders. If you see a list of files in the Prefetch folder just skip to the next step. If the folder appears empty or you get an error that says you can't open it, follow these steps: 
+- If you were unable to open the folder with the Run dialog, press the Windows Key + E to open the File Explorer.
+- Click the View tab at the top of the File Explorer.[1]
+- X
+- Research source
+- 
+- If you're using Windows 7 or earlier, click Organize instead.
+- Click the Options button near the top-right corner.
+- Windows 7 and earlier: Click Folder and search options instead.
+- Click the View tab on the Folder Options window.
+- Select Show hidden files, folders, and drives.
+- Click OK to close the window.
+
+4 - Press Ctrl+A to select all Prefetch files.
+Press Ctrl+A to select all Prefetch files. This should highlight all of the files in the folder in the right panel. If not, click a blank area of the folder first to activate the panel.
+
+5 - Press the Del key.
+Press the Del key. This deletes the selected files from the folder.
+- If any of the files you try to delete are in use, you'll see an error that tells you it can't be deleted. Just click Skip on such messages—you won't be able to delete these files until you close whichever apps are using them.
+- The files will not be permanently deleted until you empty your Recycle Bin. You can do this by opening Recycle Bin and clicking Empty Recycle Bin at the top-left.
+

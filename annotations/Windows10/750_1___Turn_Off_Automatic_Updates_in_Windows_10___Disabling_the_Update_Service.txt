@@ -1,0 +1,42 @@
+Turn Off Automatic Updates in Windows 10
+https://www.wikihow.com/Turn-Off-Automatic-Updates-in-Windows-10
+
+0 - Disabling the Update Service
+
+1 - Understand the limitations of this method.
+Understand the limitations of this method. While disabling the automatic update service will temporarily halt any Windows 10 cumulative updates, the service will re-enable itself after a certain amount of time.
+- ;
+
+2 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+3 - Type in services.
+Type in services. This will search your computer for the Services program.
+
+4 - Click Services.
+Click Services. It's at the top of the Start menu, just right of a gear-shaped icon. Doing so will open the Services window.
+
+5 - Scroll down to the "Windows Update" option.
+Scroll down to the "Windows Update" option. You'll find this near the bottom of the window.
+
+6 - Double-click the "Windows Update" option.
+Double-click the "Windows Update" option. Doing so opens the Windows Update Properties window.
+
+7 - Click the "Startup type" drop-down box.
+Click the "Startup type" drop-down box. It's in the middle of the window. Clicking this option prompts a drop-down menu.
+- If you don't see this option, first make sure that you're on the right tab by clicking General at the top of the Properties window.
+
+8 - Click Disabled.
+Click Disabled. It's in the drop-down menu. This will prevent the Windows Update service from automatically starting itself for the time being.
+
+9 - Click Stop.
+Click Stop. You'll find this option near the bottom of the window. Clicking it prompts the Windows Update service to stop running.
+
+10 - Click Apply, then click OK.
+Click Apply, then click OK. Both options are at the bottom of the window. Doing so will apply your settings and close the Properties window. The Windows Update service should now be disabled.
+
+11 - Check the update service periodically.
+Check the update service periodically. Any time you restart your computer or go more than two days without shutting down, open Services and check the "Windows Update" status to ensure that it's still disabled. While the Windows Update service shouldn't turn itself back on often, it will occasionally do so.
+- If you see "Disabled" to the right of the "Windows Update" heading, Windows Update is still disabled.
+- If you see anything other than "Disabled" to the right of the "Windows Update" heading, disable the Windows Update again.
+

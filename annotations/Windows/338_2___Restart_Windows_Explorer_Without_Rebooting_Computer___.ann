@@ -1,0 +1,16 @@
+T1	Software-OS-Related 153 165	Task Manager
+A1	isOpened T1 f->t
+T3	Software-OS-Related 395 405	Image Name
+A3	isOpened T3 f->t
+T4	Software-OS-Related 577 589	explorer.exe
+A4	isOpened T4 f->t
+T2	Software-OS-Related 336 345	Processes
+A2	isOpened T2 f->t
+T5	Software-OS-Related 901 905	File
+A5	isOpened T5 f->t
+T6	Software-OS-Related 658 690	End the Windows Explorer process
+A6	isOpened T6 f->t
+T7	Software-OS-Related 980 995	New Task (Run…)
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1061 1081	Run Windows Explorer
+A8	isOpened T8 f->t

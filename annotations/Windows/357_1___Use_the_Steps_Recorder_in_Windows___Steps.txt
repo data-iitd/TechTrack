@@ -1,0 +1,26 @@
+Use the Steps Recorder in Windows
+https://www.wikihow.com/Use-the-Steps-Recorder-in-Windows
+
+0 - Steps
+
+1 - Open the 'Run' dialog box.
+Open the 'Run' dialog box. Go to the Start Menu and type run in the search box. Select 'Run' from the search results to open it.
+- You can also open it using the keyboard shortcut ⊞ Win+R
+- ;
+
+2 - Type the command to open Steps Recorder.
+Type the command to open Steps Recorder. Type psr and press ↵ Enter to open the Steps Recorder app.
+- Another way to open the app is by searching for Steps Recorder in the Start Menu (this doesn't work for everyone).
+
+3 - Start recording steps.
+Start recording steps. Select Start Record to start the recording. Make sure that you perform all the steps you want to demonstrate as precisely as possible. Since the app is recording your every move, make sure that you only do what you want others to see. Don't keep any sensitive information visible or minimized in the taskbar.
+
+4 - Add comments to your instructions.
+Add comments to your instructions. While recording your steps, if you want others to know more about something, you can use the comments feature of the app (skip this if not necessary).
+- Select Add Comment from the window; this will blur the screen and it will ask you to select the area where you want other's attention to be focused. Add your comment in the text box and click on OK to save it.
+
+5 - Save your recording.
+Save your recording. Once you're done with recording, select Stop Record so that it can generate a preview for you.
+- Once you're done checking the preview, select Save to save your work. A dialog box will open asking you to specify the location where you want the steps to be saved.
+- The steps are saved in HTML format which can be opened by any Windows system using popular Internet browsers like Microsoft Internet Explorer, Google Chrome, Safari, etc.
+

@@ -1,0 +1,15 @@
+T1	Hardware-Other 425 427	PC
+T2	Hardware-Other 366 371	Wi-Fi
+T3	Hardware-Other 373 382	Bluetooth
+T4	Hardware-Other 389 392	USB
+T5	Software-Other 581 594	Google Chrome
+A1	isOpened T5 f->t
+T6	Software-Other 675 683	settings
+A2	isOpened T6 f->t
+T7	Software-Other 832 849	Advanced Settings
+A3	isOpened T7 f->t
+T8	Software-Other 921 944	Cloud Printing services
+T9	Software-Other 1087 1102	manage printers
+A4	isOpened T9 f->t
+T10	Software-Other 1207 1247	https://www.google.com/cloudprint/learn/
+T11	Hardware-Devices 1168 1176	Printers

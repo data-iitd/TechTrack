@@ -1,0 +1,27 @@
+Change User Account Name in Windows 10
+https://www.wikihow.com/Change-User-Account-Name-in-Windows-10
+
+0 - Changing Your Microsoft Account Name
+
+1 - Open Settings.
+Open Settings. Click on the Windows icon on the left bottom, and then click on Settings.
+
+2 - Click on Accounts.
+Click on Accounts.
+
+3 - Click on Your info in the left panel.
+Click on Your info in the left panel. Then click on Manage my Microsoft account on the right panel.
+
+4 - Sign into your Microsoft account in the browser.
+Sign into your Microsoft account in the browser. Click on More actions, and then select Edit profile.
+- If it is the first time you’ve logged in with your Microsoft account you may need to enter your Microsoft account and password to sign into microsoft.com.
+
+5 - Click on Edit name under your user account.
+Click on Edit name under your user account.
+
+6 - Type in your new user name.
+Type in your new user name. Then click Save.
+
+7 - Restart your PC to the logon screen.
+Restart your PC to the logon screen. You will see your user account name has been changed.
+

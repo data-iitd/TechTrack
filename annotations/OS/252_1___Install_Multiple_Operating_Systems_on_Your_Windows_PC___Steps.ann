@@ -1,0 +1,28 @@
+T1	Software-Other 161 179	VMware Workstation
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 345 351	Ubuntu
+T3	Software-Other 471 482	Workstation
+A2	isOpened T3 f->t
+T4	Software-Other 511 515	file
+A3	isOpened T4 f->t
+T5	Software-Other 518 521	New
+A4	isOpened T5 f->t
+T6	Software-Other 524 539	Virtual Machine
+A5	isOpened T6 f->t
+T7	Software-Other 566 573	Typical
+T8	Software-Other 586 590	next
+T9	Software-Other 652 676	Installer disk file(iso)
+T11	Software-OS-Related 746 754	password
+T12	Software-OS-Related 856 864	OS (Mac)
+T13	Software-Other 948 959	Workstation
+A6	isOpened T13 f->t
+T14	Software-Other 987 991	file
+A7	isOpened T14 f->t
+T15	Software-Other 994 997	New
+A8	isOpened T15 f->t
+T16	Software-Other 1000 1015	Virtual Machine
+A9	isOpened T16 f->t
+T17	Software-Other 1030 1054	installer disk file(iso)
+T18	Software-OS-Related 1108 1114	Ubuntu
+T19	Software-OS-Related 1119 1140	Mac operating systems
+T20	Software-Other 1271 1274	run

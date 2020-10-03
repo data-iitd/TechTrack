@@ -1,0 +1,57 @@
+Assign an IP Address on a Linux Computer
+https://www.wikihow.com/Assign-an-IP-Address-on-a-Linux-Computer
+
+0 - On RPM-Based Linux
+
+1 - Verify your Linux version.
+Verify your Linux version. Popular RPM-based Linux distributions include CentOS, Red Hat, and Fedora versions.
+
+2 - Open Terminal.
+Open Terminal. This is the command line app that's the basis of all Linux distributions. Depending on your Linux version, you may have several ways of opening Terminal:
+- Press Ctrl+Alt+T or Ctrl+Alt+F1 (if you're on a Mac, substitute the ⌘ Command key for Ctrl.
+- Click the text box at the top or bottom of the screen if possible.
+- Open the Menu window and find the "Terminal" application, then click on it.
+
+3 - Switch to root.
+Switch to root. If you aren't already logged into the "root" user directory, type in su and press ↵ Enter, then type in your root user password when prompted and press ↵ Enter.
+- A "root" account is the Linux equivalent of an Administrator account on a Windows or Mac computer.
+
+4 - Bring up a list of your current Internet items.
+Bring up a list of your current Internet items. Type in ip a to view your network connections.
+
+5 - Find the network connection that you want to change.
+Find the network connection that you want to change. This will normally be the Ethernet or Wi-Fi connection, which has an IP address currently listed on the right side of the window.
+
+6 - Switch to the network scripts directory.
+Switch to the network scripts directory. Type in cd /etc/sysconfig/network-scripts and press ↵ Enter.
+
+7 - Display the network options.
+Display the network options. Type in ls and press ↵ Enter. You should see your current connection's name in the upper-left side of the network option results.
+
+8 - Open the network options for your connection.
+Open the network options for your connection. Type in vi ifcfg-network name and press ↵ Enter. Doing so will open the network's properties in your Vi editor.
+- For a network named "eno12345678", for example, you'd enter vi ifcfg-eno12345678 here.
+
+9 - Edit the network's information.
+Edit the network's information. Change the following values:
+- 
+- BOOTPROTO - Change dhcp to none
+- 
+- Any IPV6 entry - Delete any IPV6 entries entirely by moving the cursor to the I on the left and pressing Del.
+- ONBOOT - Change no to yes
+
+10 - Enter a new IP category.
+Enter a new IP category. Press ↵ Enter to jump down one line from the ONBOOT category, type in IPADDR= and enter the IP address that you want to use, and then press ↵ Enter.
+- For example: to use "192.168.2.23" as your IP address, you'd type in IPADDR=192.168.2.23 and press ↵ Enter.
+
+11 - Enter netmask, gateway, and DNS information.
+Enter netmask, gateway, and DNS information. To do so:[2]
+- X
+- Research source
+- 
+- Type in PREFIX=24 and press ↵ Enter. You can also enter NETMASK=255.255.255.0 here.
+- Type in GATEWAY=192.168.2.1 and press ↵ Enter. Substitute your preferred gateway address if different.
+
+12 - Save and exit the file.
+Save and exit the file. You can use the File menu to do this, or you can type in :wq and press ↵ Enter.
+

@@ -1,0 +1,13 @@
+T1	Software-OS-Related 173 183	Search box
+A1	isOpened T1 f->t
+T2	Software-OS-Related 575 596	Permissions & History
+A2	isOpened T2 f->t
+T3	Software-OS-Related 709 732	Clear my device history
+A3	isOpened T3 f->t
+T4	Software-OS-Related 869 883	Search history
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 1288 1302	Clear activity
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1638 1643	Clear
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T2	

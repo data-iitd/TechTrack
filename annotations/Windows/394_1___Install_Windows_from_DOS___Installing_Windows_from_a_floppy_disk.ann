@@ -1,0 +1,4 @@
+T1	Hardware-Other 296 307	floppy disk
+T2	Hardware-Devices 359 367	computer
+A1	isUsed T2 true
+T3	Software-OS-Related 333 349	operating system

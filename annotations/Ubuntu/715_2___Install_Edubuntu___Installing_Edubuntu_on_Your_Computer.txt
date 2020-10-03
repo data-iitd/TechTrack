@@ -1,0 +1,30 @@
+Install Edubuntu
+https://www.wikihow.com/Install-Edubuntu
+
+0 - Installing Edubuntu on Your Computer
+
+1 - Power off your computer.
+Power off your computer. Make sure your computer is completely off.  If you are reading this article on the computer you are trying to install Edubuntu on, get out another computer or device and open up this page.
+
+2 - If you unplugged your USB stick, plug it back in now.
+If you unplugged your USB stick, plug it back in now. Your USB stick will need to be plugged in for the entirety of the installation.
+
+3 - Turn the computer back on and quickly press the key to enter the Boot Menu.
+Turn the computer back on and quickly press the key to enter the Boot Menu. This key is usually F2, F12, Esc or Del. When the motherboard manufacturer splash-screen shows up, this key should be listed at the bottom of the screen. The Boot menu might be hidden in the BIOS menu as well.
+- You only get about a second or less to do this, so be quick! If you don't get to do it in time, that's OK. You can simply turn your computer off and try again.
+- Once you get to the Boot Menu, select your USB stick. This could be displayed as the name you have chosen for your USB or something along the lines of "USB Removable Disk" or "USB-[three letters representing the USB port]".
+
+4 - Once presented with the first screen, select "Install Edubuntu".
+Once presented with the first screen, select "Install Edubuntu". Optionally, you can try Edubuntu without installing to see whether it's your thing or not, check the disk for defects or test the memory.
+
+5 - Follow the rest of the installation process.
+Follow the rest of the installation process. The next part is as simple as selecting the options that are best fit for you and clicking the next button.
+- When you get to the "Preparing to install Edubuntu" section, select "Download updates while installing" and "Install third-party software" (requires an internet connection).
+- When you get to the "Disk Setup" section, click "Erase disk and install Edubuntu". If you want to dual-boot Edubuntu with another OS, then you will need to create and / or resize partitions.
+
+6 - Finish up and watch the installation slide show.
+Finish up and watch the installation slide show. The rest of the installation will be automated and it should take around 15 to 20 minutes to complete. The slide show will list some features of Edubuntu.
+
+7 - Reboot your computer and start using Edubuntu.
+Reboot your computer and start using Edubuntu. Now the installation is complete, and Edubuntu is installed on your system. You can reboot your computer and start using the new OS, your you can continue testing it from the USB.
+

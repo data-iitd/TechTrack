@@ -1,0 +1,15 @@
+T6	Software-OS-Related 874 879	Start
+A7	isOpened T6 f->t
+T7	Software-OS-Related 927 937	search bar
+A8	isOpened T7 f->t
+T16	Software-Other 1409 1417	programs
+T18	Software-Other 1646 1650	Save
+T21	Software-OS-Related 817 826	installed
+T22	Software-Other 1455 1460	email
+A1	isSettingsChanged T18 true
+T1	Software-Other 997 1002	Paint
+A2	isOpened T1 f->t
+T2	Software-Other 1797 1809	Save as type
+R1	SubPart Arg1:T18 Arg2:T1	
+A4	isSettingsChanged T2 true
+R2	SubPart Arg1:T2 Arg2:T1	

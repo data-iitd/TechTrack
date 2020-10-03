@@ -1,0 +1,24 @@
+Clear the Thumbnail Cache in Windows
+https://www.wikihow.com/Clear-the-Thumbnail-Cache-in-Windows
+
+0 - 
+
+1 - Open Disk Cleanup.
+Open Disk Cleanup. Click the Start  button, type disk cleanup, and then select the matching result. The Disk Cleanup application will open.
+- ;
+
+2 - Select the current hard drive that Windows is installed on, if prompted.
+Select the current hard drive that Windows is installed on, if prompted.
+
+3 - Wait for Disk Cleanup to analyze your computer.
+Wait for Disk Cleanup to analyze your computer. Your computer will be assessed for what type of files can be removed and the amounts of each file type on your computer.
+
+4 - Opt to remove the thumbnail cache.
+Opt to remove the thumbnail cache. Check the "Thumbnails" checkbox in the list.
+
+5 - Initiate Disk Cleanup.
+Initiate Disk Cleanup. Click the OK button at the bottom.
+
+6 - Confirm the warning.
+Confirm the warning. Click Delete Files in the warning message. Doing so will initiate the file cleanup process.
+

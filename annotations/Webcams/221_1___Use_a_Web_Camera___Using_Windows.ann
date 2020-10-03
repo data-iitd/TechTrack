@@ -1,0 +1,17 @@
+T2	Hardware-Other 134 143	computers
+T1	Hardware-Devices 99 105	webcam
+T3	Hardware-Other 243 247	lens
+T4	Hardware-Devices 200 206	screen
+A1	isPowered T4 start-T
+T5	Hardware-Other 382 390	USB port
+T13	Hardware-Devices 789 795	screen
+T14	Hardware-Devices 878 884	webcam
+A13	isPowered T14 f->t
+T22	Hardware-Devices 1652 1658	webcam
+T6	Software-OS-Related 503 521	Windows Start menu
+A2	isOpened T6 f->t
+T8	Software-OS-Related 729 739	camera app
+A3	isOpened T8 f->t
+A4	isPowered T1 start-F
+T7	Hardware-Devices 955 961	camera
+A5	isUsed T7 true

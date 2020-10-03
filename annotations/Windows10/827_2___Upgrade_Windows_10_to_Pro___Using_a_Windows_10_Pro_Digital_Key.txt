@@ -1,0 +1,29 @@
+Upgrade Windows 10 to Pro
+https://www.wikihow.com/Upgrade-Windows-10-to-Pro
+
+0 - Using a Windows 10 Pro Digital Key
+
+1 - Click on the Start button .
+Click on the Start button . This is the icon with for squares at the bottom left corner of your screen.
+
+2 - Click on Settings .
+Click on Settings .
+
+3 - Click on Update and Security.
+Click on Update and Security. You may have to scroll down a bit on your page to see this option.
+
+4 - Click on Activation.
+Click on Activation. You should find this option on the side panel of the pop up window.
+
+5 - Click on Go to the Store if you Windows 10 Home is activated.
+Click on Go to the Store if you Windows 10 Home is activated.
+- If you have a digital license for Windows 10 Pro, and Windows 10 Home is currently activated, select Go to Microsoft Store and you'll be prompted to upgrade to Windows 10 Pro for free.
+- If you have a digital license for Windows 10 Pro, but Windows 10 Home isn't activated, select Troubleshoot, and then follow the steps to upgrade to Windows 10 Pro.
+- If you don't have a digital license for Windows 10 Pro, Windows 10 Pro is available for purchase from the Microsoft Store.
+
+6 - Purchase the digital key from the Microsoft Store.
+Purchase the digital key from the Microsoft Store.
+
+7 - Follow along with the prompts to finish installation.
+Follow along with the prompts to finish installation. Your system may restart a number of times.
+

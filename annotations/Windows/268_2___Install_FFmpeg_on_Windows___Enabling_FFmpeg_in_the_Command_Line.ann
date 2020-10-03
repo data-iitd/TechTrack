@@ -1,0 +1,25 @@
+T1	Software-OS-Related 133 140	This PC
+A1	isOpened T1 f->t
+T6	Software-OS-Related 518 528	Properties
+A3	isOpened T6 f->t
+T8	Software-OS-Related 724 748	Advanced system settings
+T10	Software-OS-Related 849 870	Environment Variables
+A5	isOpened T10 f->t
+T12	Software-OS-Related 1043 1055	Advanced tab
+T13	Software-OS-Related 1106 1116	Path value
+T14	Software-OS-Related 1232 1238	window
+T15	Hardware-Other 1354 1359	mouse
+T16	Software-OS-Related 1375 1389	User variables
+T17	Hardware-Devices 1454 1462	computer
+T18	Software-OS-Related 1505 1521	System variables
+T19	Software-OS-Related 1575 1578	New
+A7	isOpened T19 f->t
+T20	Software-OS-Related 1622 1628	window
+T21	Software-OS-Related 1696 1700	path
+T22	Software-OS-Related 1818 1820	OK
+T23	Software-OS-Related 1862 1864	OK
+A8	isOpened T23 start-T
+T24	Software-OS-Related 1910 1917	windows
+A2	isOpened T8 f->t
+A4	isSettingsChanged T13 true
+A6	isSettingsChanged T12 true

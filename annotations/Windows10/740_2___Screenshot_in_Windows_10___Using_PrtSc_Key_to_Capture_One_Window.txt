@@ -1,0 +1,35 @@
+Screenshot in Windows 10
+https://www.wikihow.com/Screenshot-in-Windows-10
+
+0 - Using PrtSc Key to Capture One Window
+
+1 - Open the window you want to capture.
+Open the window you want to capture. If the window is already open, click its title bar at the top to make sure it's selected.
+
+2 - Press Alt+⎙ PrtScr together.
+Press Alt+⎙ PrtScr together. This copies a screenshot of the selected window to your clipboard.
+- The text on the key may vary by keyboard. For example, your key may say something like "PrScr" or "PrtScrn."
+- Some keyboards require you to press Alt+Fn+⎙ PrtScr together instead.
+
+3 - Open Paint.
+Open Paint. You can search for it using the search bar/icon on the taskbar.
+
+4 - Press Ctrl+V to paste the image.
+Press Ctrl+V to paste the image. The screenshot will appear on the Paint canvas.
+- If you want to trim anything from the image, click the Crop tool at the top of Paint and then select the part of the screenshot you want to keep.
+
+5 - Click the File menu and select Save.
+Click the File menu and select Save. This options the Save As dialog window.
+
+6 - Choose a save location.
+Choose a save location. If you'd like to keep your screenshots organized in a single folder, you can open the Pictures folder and double-click Screenshots.
+
+7 - Enter a file name.
+Enter a file name. If you'd like to change the name of the file, type a new name into the "File name" field at the bottom of the dialog window.
+
+8 - Select an image type from the "Save As Type" menu.
+Select an image type from the "Save As Type" menu. It's near the bottom of the window. The default file type is PNG, but you can choose any other file type you wish.
+
+9 - Click Save.
+Click Save. The screenshot is now saved to the selected location.
+

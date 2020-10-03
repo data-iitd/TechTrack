@@ -1,0 +1,23 @@
+3D Print an Object
+https://www.wikihow.com/3D-Print-an-Object
+
+0 - Making the Model
+
+1 - 
+Click on New, then model, then press OK after you name your file.
+- Save all your part files in the same folder.
+
+2 - Create a sketch on the XY plane of a circle, with a 10mm diameter.
+Create a sketch on the XY plane of a circle, with a 10mm diameter.
+
+3 - 
+Extrude out the circle in the positive Z direction to 150mm.
+- Press the Command Finder button on the top center and type in the command for quick access.
+
+4 - Save your model frequently.
+Save your model frequently.
+
+5 - Export your model as a STL file to your desktop.
+Export your model as a STL file to your desktop.
+- Then click OK for the next two prompts without changing anything.
+

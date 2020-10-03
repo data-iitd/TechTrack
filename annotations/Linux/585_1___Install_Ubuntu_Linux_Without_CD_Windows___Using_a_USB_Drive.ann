@@ -1,0 +1,103 @@
+T1	Software-OS-Related 152 167	available space
+T2	Hardware-Other 246 254	computer
+T3	Software-OS-Related 266 272	Ubuntu
+T4	Software-OS-Related 660 669	USB drive
+T5	Software-Other 929 951	Ubuntu Desktop website
+T6	Software-Other 1030 1057	ubuntu.com/download/desktop
+A1	isOpened T5 f->t
+A2	isOpened T6 f->t
+T7	Software-Other 1077 1085	Download
+T8	Software-Other 1674 1682	download
+T9	Software-Other 1662 1666	skip
+T10	Software-Other 1652 1658	Donate
+T11	Software-Other 1848 1880	Not now, take me to the download
+T12	Software-Other 1903 1911	download
+T13	Software-Other 1987 2002	Ubuntu ISO file
+T14	Software-Other 2134 2157	Universal USB Installer
+A3	isInstalled T14 f->t
+T15	Hardware-Other 2238 2247	USB drive
+T16	Software-OS-Related 2258 2282	Linux installation files
+T17	Software-Other 2380 2403	Universal USB Installer
+A4	isOpened T17 f->t
+T18	Software-Other 2564 2570	Ubuntu
+A5	isSettingsChanged T18 true
+R1	SubPart Arg1:T18 Arg2:T17	
+T19	Software-Other 2801 2807	Browse
+A6	isOpened T19 f->t
+T20	Software-Other 2843 2851	ISO file
+T21	Software-Other 2949 2958	Downloads
+T22	Software-Other 2987 2996	USB drive
+A7	isSettingsChanged T22 true
+R2	SubPart Arg1:T22 Arg2:T17	
+T23	Software-Other 3185 3191	Create
+A8	isSettingsChanged T23 true
+R3	SubPart Arg1:T23 Arg2:T17	
+T24	Software-OS-Related 3385 3391	Reboot
+T25	Software-Other 3397 3405	computer
+T27	Software-OS-Related 3617 3621	BIOS
+A9	isOpened T27 f->t
+T28	Software-OS-Related 3901 3910	Windows 8
+T29	Software-OS-Related 3840 3859	primary boot device
+T30	Software-OS-Related 3829 3832	USB
+A10	isSettingsChanged T30 true
+T31	Software-OS-Related 3793 3797	BOOT
+A11	isOpened T31 f->t
+R4	SubPart Arg1:T30 Arg2:T31	
+T32	Software-OS-Related 4098 4115	Update & security
+A12	isOpened T32 f->t
+T33	Software-OS-Related 4077 4085	Settings
+A13	isOpened T33 f->t
+T34	Software-OS-Related 4133 4141	Recovery
+A14	isOpened T34 f->t
+T35	Software-OS-Related 4160 4171	Restart now
+T36	Software-OS-Related 4216 4232	Advanced startup
+T37	Software-OS-Related 4247 4259	Troubleshoot
+A15	isOpened T37 f->t
+T38	Software-OS-Related 4271 4287	Advanced options
+A16	isOpened T38 f->t
+T39	Software-OS-Related 4298 4320	UEFI Firmware Settings
+T40	Software-OS-Related 4347 4351	BOOT
+T26	Software-OS-Related 4392 4401	USB drive
+A17	isSettingsChanged T26 true
+R5	SubPart Arg1:T26 Arg2:T40	
+T41	Software-OS-Related 4442 4448	Ubuntu
+T42	Software-OS-Related 4561 4570	USB drive
+T43	Software-OS-Related 4595 4609	Welcome screen
+A18	isOpened T43 f->t
+T44	Software-OS-Related 4936 4963	Preparing to install Ubuntu
+T45	Software-OS-Related 5051 5084	Download updates while installing
+T46	Software-OS-Related 5095 5128	Install this third-party software
+T47	Software-OS-Related 4629 4637	language
+T48	Software-OS-Related 4844 4853	installer
+A19	isOpened T48 f->t
+A20	isSettingsChanged T44 true
+A21	isSettingsChanged T45 true
+A22	isSettingsChanged T46 true
+R6	SubPart Arg1:T44 Arg2:T48	
+R7	SubPart Arg1:T45 Arg2:T48	
+R8	SubPart Arg1:T46 Arg2:T48	
+T49	Software-OS-Related 5286 5302	wireless network
+T50	Software-OS-Related 5273 5280	Connect
+T51	Software-OS-Related 5850 5857	Windows
+T52	Software-OS-Related 5869 5875	Ubuntu
+T53	Software-OS-Related 5413 5421	Ethernet
+T54	Hardware-Other 5530 5546	wireless adapter
+T55	Software-OS-Related 5634 5642	password
+T56	Software-OS-Related 5797 5805	Download
+T57	Software-OS-Related 6125 6130	files
+T58	Software-OS-Related 6141 6150	partition
+T59	Software-OS-Related 6388 6413	install alongside Windows
+T60	Software-OS-Related 6740 6748	location
+T61	Software-OS-Related 6753 6768	keyboard layout
+A23	isSettingsChanged T61 true
+T62	Software-OS-Related 6972 6994	Detect Keyboard Layout
+R9	SubPart Arg1:T61 Arg2:T48	
+T63	Software-OS-Related 7014 7026	user account
+T64	Software-OS-Related 7118 7126	username
+T65	Software-OS-Related 7164 7172	password
+T66	Software-OS-Related 7504 7510	Ubuntu
+T67	Software-OS-Related 7572 7579	account
+A24	isSettingsChanged T63 true
+R10	SubPart Arg1:T63 Arg2:T48	
+T68	Software-OS-Related 7705 7711	Ubuntu
+T69	Software-OS-Related 8233 8239	Ubuntu

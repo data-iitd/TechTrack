@@ -1,0 +1,80 @@
+Install Tomcat in Ubuntu
+https://www.wikihow.com/Install-Tomcat-in-Ubuntu
+
+0 - Setting Up Tomcat
+
+1 - Open a Terminal window on your Ubuntu machine.
+Open a Terminal window on your Ubuntu machine. Click the Dash icon on the top-left, and click Terminal on the app list to open the Terminal.
+- Alternatively, press Ctrl+Alt+T on your keyboard to open the Terminal.
+- ;
+
+2 - Type sudo apt-get update in Terminal.
+Type sudo apt-get update in Terminal. This command will update all your repositories, and make sure you have the latest software versions for new installations.
+
+3 - Press ↵ Enter or ⏎ Return on your keyboard.
+Press ↵ Enter or ⏎ Return on your keyboard. This will run the command, and update your repositories.
+
+4 - Run sudo apt-get install default-jdk in Terminal.
+Run sudo apt-get install default-jdk in Terminal. This will install the latest version of the official Java Development Kit on your computer.
+- Type or paste the command, and press ↵ Enter or ⏎ Return to run it. 
+- You'll need Java installed on your computer to install and set up Tomcat. 
+- If you already have Java installed, this will update it to the latest version. 
+- You can skip this step if you already have the latest Java version installed.
+
+5 - Run sudo useradd -r -m -U -d _opt_tomcat -s _bin_false tomcat in Terminal.
+Run sudo useradd -r -m -U -d /opt/tomcat -s /bin/false tomcat in Terminal. This will create a new system user, and group with home directory opt/tomcat to run the Tomcat service.
+- You cannot run the Tomcat service under the root user for your server's security purposes.
+
+6 - Open the Tomcat website in your internet browser.
+Open the Tomcat website in your internet browser. Type or paste http://tomcat.apache.org into your browser's address bar, and press ↵ Enter or ⏎ Return on your keyboard.
+
+7 - Click the Tomcat version you want under "Download" on the left sidebar.
+Click the Tomcat version you want under "Download" on the left sidebar. You'll find the available Tomcat version on a navigation menu on the left-hand side of the page. You can select Tomcat 9 or another version here.
+- If you want to see which versions are compatible with your system, click Which version? under the Download heading here.
+
+8 - Right-click the blue tar.gz link under the "Core" heading.
+Right-click the blue tar.gz link under the "Core" heading. This will open your right-click options on a drop-down menu.
+
+9 - Click Copy Link Address from the right-click menu.
+Click Copy Link Address from the right-click menu. You can directly install Tomcat with the TAR file's link address here.
+
+10 - Type wget <link address> into the Terminal.
+Type wget <link address> into the Terminal. This will allow you to download the latest version of Tomcat to your computer from the official download link.
+- Replace <link address> with the link address you copied from the official Apache Tomcat website. 
+- If you're located in the US, you can use https://www-us.apache.org/dist/tomcat/tomcat-9/v9.0.21/bin/apache-tomcat-9.0.21.tar.gz as the link address. 
+- If you're in Europe, you can use https://www-eu.apache.org/dist/tomcat/tomcat-9/v9.0.21/bin/apache-tomcat-9.0.21.tar.gz as the link address.
+
+11 - Press ↵ Enter or ⏎ Return.
+Press ↵ Enter or ⏎ Return. This will run the download command, and download Tomcat on your computer.
+
+12 - Run sudo tar xf _tmp_apache-tomcat-9*.tar.gz -C _opt_tomcat.
+Run sudo tar xf /tmp/apache-tomcat-9*.tar.gz -C /opt/tomcat. Once your download is complete, run this command to extract the downloaded TAR file's contents, and move the files to the opt/tomcat directory.
+- Make sure to replace the version number in "tomcat-9*.tar.gz" with the Tomcat version you download.
+
+13 - Run sudo nano _etc_systemd_system_tomcat.service.
+Run sudo nano /etc/systemd/system/tomcat.service. This will create a new file named "tomcat.service," and allow you to edit its contents with your default text editor.
+
+14 - Paste the following configuration into the tomcat.service file.
+Paste the following configuration into the tomcat.service file.
+- Make sure to set "JAVA_HOME" to your system's Java directory in the following code.
+- [Unit]
+- Description=Apache Tomcat Web Application Container
+- After=network.target
+- [Service]
+- Type=forking
+- Environment=JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64
+- Environment=CATALINA_PID=/opt/tomcat/temp/tomcat.pid
+- Environment=CATALINA_HOME=/opt/tomcat
+- Environment=CATALINA_BASE=/opt/tomcat
+- Environment='CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC'
+- Environment='JAVA_OPTS=-Djava.awt.headless=true -Djava.security.egd=file:/dev/./urandom'
+- ExecStart=/opt/tomcat/bin/startup.sh
+- ExecStop=/opt/tomcat/bin/shutdown.sh
+- User=tomcat
+- Group=tomcat
+- UMask=0007
+- RestartSec=10
+- Restart=always
+- [Install]
+- WantedBy=multi-user.target
+

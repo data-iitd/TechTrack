@@ -1,0 +1,79 @@
+Install Arch Linux
+https://www.wikihow.com/Install-Arch-Linux
+
+0 - Installing
+
+1 - Set up a Wi-Fi connection.
+Set up a Wi-Fi connection. If your computer is plugged into your router via ethernet, you can skip this step. Using ethernet is preferable to using Wi-Fi.[1]
+- X
+- Research source
+- 
+- 
+- Type ip link and press ↵ Enter to determine the interface name of your network adapter.
+- Type pacman -S iw wpa_supplicant and press ↵ Enter to install the necessary software.
+- Type pacman -S dialog and press ↵ Enter to install the Wi-Fi menu.
+- Type pacman -S wpa_actiond and press ↵ Enter to install the software that allows you to automatically connect to known networks.
+- Type systemctl enable netctl-auto@interfacename.service to turn on the auto-connection service for your wireless adapter.
+- Next time you reboot, type wifi-menu interfacename to access the wireless menu for your adapter. After you connect to the network for the first time, you will be automatically connected for subsequent boots. Do not enter this now, or you will lose access to your network.
+
+2 - Install the base system.
+Install the base system. Type in pacstrap /mnt base base-devel and press ↵ Enter. The system will begin installing onto your computer.
+- This process will usually take around 15-30 minutes depending on your Internet connection speed.
+
+3 - Open "chroot" access.
+Open "chroot" access. Type in arch-chroot /mnt and press ↵ Enter. This will allow you to change aspects of the root directory, including the password.
+
+4 - Set a password.
+Set a password. This is the password that you'll use to log into the root account. To do so:
+- Type in passwd and press ↵ Enter.
+- Type in a password and press ↵ Enter.
+- Retype your password and press ↵ Enter.
+
+5 - Set a language.
+Set a language. To do so:
+- Type in nano /etc/locale.gen and press ↵ Enter.
+- Scroll down to select your preferred language.
+- Select the letter directly in front of the "#" symbol behind your language and press Del.
+- Delete the "#" symbol from any other versions of your language (e.g., all versions of "en_US").
+- Press Ctrl+O (or ⌘ Command+O on a Mac), then press ↵ Enter.
+- Exit by pressing Ctrl+X or ⌘ Command+X.
+- Type in locale-gen and press ↵ Enter to finish setting up your language.
+
+6 - Select a time zone.
+Select a time zone. To do so:
+- Type in cd usr/share/zoneinfo and press ↵ Enter.
+- Type in ls and press ↵ Enter.
+- Find your country or region, then type in cd usr/share/zoneinfo/country (e.g., America) and press ↵ Enter.
+- Type in ls again and press ↵ Enter.
+- Find your preferred time zone, then type in ln -s /usr/share/zoneinfo/country/timezone /etc/localtime and press ↵ Enter.
+
+7 - Set a host name for your computer.
+Set a host name for your computer. To do so, type in echo name > /etc/hostname and press ↵ Enter.
+- To name your computer "Panda", for example, you'd enter echo Panda > /etc/hostname here.
+
+8 - Download the GRUB bootloader.
+Download the GRUB bootloader. This is the program that will install your Arch Linux for you. To do so:
+- Type in pacman -S grub-bios and press ↵ Enter.
+- Type in y and press ↵ Enter.
+- Wait for GRUB to finish downloading.
+
+9 - Install GRUB.
+Install GRUB. Make sure that when you do this, you install it on your actual hard drive (e.g., "sda"), not the partition (e.g., "sda1"). To install GRUB:
+- Type in grub-install /dev/drive name (e.g., grub-install /dev/sda and press ↵ Enter.
+
+10 - Create an "init" file.
+Create an "init" file. This file stores information about your computer's hardware, making it available for utilization by Linux. To do so, type in mkinitcpio -p linux and press ↵ Enter.
+
+11 - Create a configuration file for GRUB.
+Create a configuration file for GRUB. To do so, type in grub-mkconfig -o /boot/grub/grub.cfg and press ↵ Enter.
+
+12 - Create an "fstab" file.
+Create an "fstab" file. Type in genfstab /mnt >> /mnt/etc/fstab and press ↵ Enter. Doing so allows Arch Linux to identify your partition's file systems.
+
+13 - Reboot your computer.
+Reboot your computer. To do so, type in umount /mnt and press ↵ Enter, type in reboot, press ↵ Enter, remove your installation media, and wait for your system to finish rebooting.
+
+14 - Log into your account.
+Log into your account. Type root into the "login" field and press ↵ Enter, then type your password in and press ↵ Enter. You have successfully installed and opened Arch Linux on your computer.
+- If you want to install a graphical user interface (GUI) that allows you to use the mouse, try installing GNOME on your computer.
+

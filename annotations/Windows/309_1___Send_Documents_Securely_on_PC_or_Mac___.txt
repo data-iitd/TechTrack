@@ -1,0 +1,34 @@
+Send Documents Securely on PC or Mac
+https://www.wikihow.com/Send-Documents-Securely-on-PC-or-Mac
+
+0 - 
+
+1 - Open the document in Microsoft Word.
+Open the document in Microsoft Word. The quickest way to do this is to double-click its file name.
+- ;
+
+2 - Click the File menu.
+Click the File menu. It’s at the top-left corner of the window (or in the menu bar on a Mac).[1]
+- X
+- Research source
+
+3 - Click Info.
+Click Info.
+
+4 - Click Protect Document.
+Click Protect Document.
+
+5 - Click Encrypt with Password.
+Click Encrypt with Password.
+
+6 - Create and confirm the document password.
+Create and confirm the document password. Follow the on-screen instructions to type and confirm the password that will protect your document.
+
+7 - Save the file.
+Save the file. Click the File menu and select Save to save the new version of your document.
+
+8 - Share the document with others.
+Share the document with others. Now that the file is password protected, you can send it in a variety of ways:
+- Attach the document to an email message in Gmail, Outlook, or Mac Mail.
+- Add the file to a cloud drive like Google Drive, iCloud Drive, or Dropbox.
+

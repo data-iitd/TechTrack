@@ -1,0 +1,28 @@
+Set a Random Order Screensaver on a Mac
+https://www.wikihow.com/Set-a-Random-Order-Screensaver-on-a-Mac
+
+0 - Changing Screen Saver Sources
+
+1 - Open the Screen Saver menu.
+Open the Screen Saver menu. Follow the steps in the previous section to open the list of available screen savers.
+
+2 - Select any of the photo screen savers.
+Select any of the photo screen savers. All of the screen savers at the top of the list use photo sources. Changing one will change all of them.
+
+3 - Click the "Source" menu.
+Click the "Source" menu. You'll see several different option.
+
+4 - Click the source you want to use.
+Click the source you want to use. There are a few different choices:[2]
+- X
+- Research source
+- 
+- 
+- Your recent photo events will be listed at the top.
+- There are several premade collections you can choose from.
+- You can click "Choose Folder" to select a specific folder of photos.
+- Click "Photo Library" to browse all of your photo albums.
+
+5 - Check the "Shuffle slide order" box if you'd like.
+Check the "Shuffle slide order" box if you'd like. This will shuffle the photos from the source you selected.
+

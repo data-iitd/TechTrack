@@ -1,0 +1,29 @@
+Install Steam on Linux
+https://www.wikihow.com/Install-Steam-on-Linux
+
+0 - Installing via DEB Package
+
+1 - Open a terminal window.
+Open a terminal window. To do this, click the icon on the top-left, type "terminal," and hit ↵ Enter or ⏎ Return. You could also press the Ctrl+Alt+T keyboard shortcut.
+
+2 - Type sudo dpkg --add-architecture i386.
+Type sudo dpkg --add-architecture i386.
+
+3 - Press ↵ Enter or ⏎ Return.
+Press ↵ Enter or ⏎ Return. This will run your command.
+
+4 - Type sudo apt update.
+Type sudo apt update. This will complete all your latest updates for installation.
+- Press ↵ Enter or ⏎ Return to run the command.
+
+5 - Type and run sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386.
+Type and run sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386.
+
+6 - Type and run cd _tmp && wget http:__media.steampowered.com_client_installer_steam.deb.
+Type and run cd /tmp && wget http://media.steampowered.com/client/installer/steam.deb.
+- This will download the Steam DEB package to your computer.
+
+7 - Type and run sudo gdebi steam.deb.
+Type and run sudo gdebi steam.deb. This will install the Steam app from the official DEB package.
+- You can launch Steam on your computer as soon as the install is finished.
+

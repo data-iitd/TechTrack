@@ -1,0 +1,14 @@
+T1	Software-Other 228 244	GNOME Tweak Tool
+A1	isOpened T1 f->t
+T2	Software-OS-Related 254 271	Applications menu
+A2	isOpened T2 f->t
+T3	Software-Other 326 342	Shell Extensions
+A3	isOpened T3 f->t
+T4	Software-Other 506 527	User Themes Extension
+A4	isSettingsChanged T4 true
+T5	Software-Other 671 677	Themes
+A6	isOpened T5 f->t
+R1	SubPart Arg1:T4 Arg2:T1	
+T6	Software-Other 870 938	dropdown menu next to “Shell Theme” and choose a theme from the list
+A7	isSettingsChanged T6 true
+R2	SubPart Arg1:T6 Arg2:T5	

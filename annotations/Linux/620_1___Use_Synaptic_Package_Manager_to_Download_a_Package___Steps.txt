@@ -1,0 +1,27 @@
+Use Synaptic Package Manager to Download a Package
+https://www.wikihow.com/Use-Synaptic-Package-Manager-to-Download-a-Package
+
+0 - Steps
+
+1 - Open the Synaptic Package Manager.
+Open the Synaptic Package Manager. This can be done in Ubuntu in the Search Menu. In other distributions, it should be located under system menu. If you need to download it, here is the link. For Xubuntu and Kubuntu users, you can download this software from the Ubuntu Software Center.
+- ;
+
+2 - Search for the application you wish to download.
+Search for the application you wish to download. This can be done in the top-right corner, where you will see an entry for a quick search.
+
+3 - Mark your program for installation.
+Mark your program for installation. Right-click the entry you wish to install, and click Mark for Installation. You might be required to install several other packages that go with the one you wish to install.
+
+4 - Apply your changes.
+Apply your changes. In the top tool bar, you will see an Apply icon (with a return icon). Click it. A new window will pop up, displaying the list of items to install. Just click Apply.
+
+5 - Wait for Synaptic to download and install your item(s).
+Wait for Synaptic to download and install your item(s). You will need an internet connection during this step. Furthermore, you may want to check the box Automatically close after changes have been successfully applied.
+
+6 - After the changes have been applied, check your program entry again.
+After the changes have been applied, check your program entry again. The small box located at the left of the entry should be highlighted green.
+
+7 - Search for your new program.
+Search for your new program. It should be ready to use. Some programs may require a restart before using.
+

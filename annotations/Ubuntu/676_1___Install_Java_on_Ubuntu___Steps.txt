@@ -1,0 +1,49 @@
+Install Java on Ubuntu
+https://www.wikihow.com/Install-Java-on-Ubuntu
+
+0 - Steps
+
+1 - Open the Terminal.
+Open the Terminal. You can find it on your dashboard, or in the Accessories folder. You can also press Ctrl+Alt+T.
+- ;
+
+2 - Update your sources.
+Update your sources. Update your package manager to get the latest versions.
+- Type sudo apt-get update and press ↵ Enter.
+
+3 - Check if you have Java installed already.
+Check if you have Java installed already. You can see if you have an older version of Java already installed.
+- Type java -version and press ↵ Enter. If you're running Java 6 or earlier, you should proceed to install the newest version.
+
+4 - Install the Java Runtime Environment (JRE).
+Install the Java Runtime Environment (JRE). This is the software required to run Java applications. OpenJDK is one of the most widely-supported JREs.[1]
+- X
+- Research source
+- 
+- 
+- Type sudo apt-get install openjdk-7-jre and press ↵ Enter. This will install the OpenJDK 7, the latest available version.
+- If you need OpenJDK 6, you can type sudo apt-get install openjdk-6-jre instead. You should stick with OpenJDK 7 unless you explicitly require 6.
+
+5 - Install the "IcedTea" Java plugin.
+Install the "IcedTea" Java plugin. You need this plugin to use Java in web pages. This plugin works with Firefox, Chromium Chrome, Konqueror, and Epiphany.[2]
+- X
+- Research source
+- 
+- 
+- Type sudo apt-get install icedtea-7-plugin and press ↵ Enter. You'll need to restart your browser if it's currently running.
+- If you installed the OpenJDK 6 JRE, type sudo apt-get install icedtea-6-plugin instead.
+
+6 - Select which version of Java you want to use.
+Select which version of Java you want to use. If you have multiple versions of Java installed, you can tell Linux which one you want to use.
+- Type sudo update-alternatives --config java and press ↵ Enter. This will display a list of the versions of Java you have installed. Use the number keys to select the version you want. Press ↵ Enter to continue using the selected version.
+
+7 - Install Oracle Java 8 (optional).
+Install Oracle Java 8 (optional). If you want to use the latest version of Java provided by Oracle, you can install it yourself. Most users won't need to do this. OpenJDK 7 will handle virtually all normal Java operations. Oracle's Java is no longer included in the Ubuntu repository due to licensing issues, so you'll need to install it from another source. The OpenJDK version of Java 8 is not yet available without building it yourself.[3]
+- X
+- Research source
+- 
+- 
+- Type sudo add-apt-repository ppa:webupd8team/java and press ↵ Enter. This will add a repository from a reputable Linux website (webupd8.org). This is by far the easiest way to install Oracle Java 8.
+- Type sudo apt-get update and press ↵ Enter. This will update your package manager with the new repository.
+- Type sudo apt-get install oracle-java8-installer and press ↵ Enter. This will install the Java 8 runtime environment. You'll need to read and accept the license agreement.
+

@@ -1,0 +1,31 @@
+Cancel a Print Job on PC or Mac
+https://www.wikihow.com/Cancel-a-Print-Job-on-PC-or-Mac
+
+0 - Windows
+
+1 - Right-click the Start  menu.
+Right-click the Start  menu. It’s usually at the bottom-left corner of the screen. A menu will appear.
+- ;
+
+2 - Click Settings.
+Click Settings. It’s toward the bottom of the menu.
+
+3 - Click Devices.
+Click Devices. It’s in the top row of settings.
+
+4 - Click Printers & scanners.
+Click Printers & scanners. It’s near the top of the left panel. A list of printers will appear on the right panel.
+
+5 - Click the printer to which you sent the document.
+Click the printer to which you sent the document. A few buttons will appear below the printer’s name.
+
+6 - Click Open queue.
+Click Open queue. It’s the first button under the printer’s name. A list of all print jobs that haven’t yet been printed will appear.
+
+7 - Right-click your print job.
+Right-click your print job. A context menu will appear.
+- If your print job doesn’t show up here, this usually means the document has already printed.
+
+8 - Click Cancel.
+Click Cancel. This removes the print job from the queue.
+

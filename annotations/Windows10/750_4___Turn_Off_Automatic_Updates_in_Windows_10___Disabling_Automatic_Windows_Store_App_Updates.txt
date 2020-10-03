@@ -1,0 +1,23 @@
+Turn Off Automatic Updates in Windows 10
+https://www.wikihow.com/Turn-Off-Automatic-Updates-in-Windows-10
+
+0 - Disabling Automatic Windows Store App Updates
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+
+2 - Click  Microsoft Store.
+Click  Microsoft Store. You should usually see this option on the right side of the Start menu.
+- If you don't see the Store icon in the Start menu, type store into the search bar at the bottom of the menu and then click Store when it appears at the top of the menu.
+
+3 - Click ⋯.
+Click ⋯. It's in the top-right corner of the window. This will prompt a drop-down menu.
+- On older versions of Windows 10, you'll click your profile picture in the upper-left corner of the Windows Store.
+
+4 - Click Settings.
+Click Settings. This is in the drop-down menu.
+
+5 - Click the colored "Update apps automatically" switch .
+Click the colored "Update apps automatically" switch . Doing so will turn off the switch .
+- If this switch is off, updates for Windows apps are already disabled.
+

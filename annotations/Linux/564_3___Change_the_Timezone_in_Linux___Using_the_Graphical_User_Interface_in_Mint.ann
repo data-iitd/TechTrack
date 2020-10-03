@@ -1,0 +1,19 @@
+T1	Software-OS-Related 149 153	Menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 240 255	System Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 388 399	Date & Time
+A3	isOpened T3 f->t
+T4	Software-OS-Related 478 484	Unlock
+T5	Software-OS-Related 569 582	user password
+T6	Software-OS-Related 713 725	Authenticate
+T7	Software-OS-Related 803 819	Date & Time menu
+R1	SubPart Arg1:T6 Arg2:T7	
+T8	Software-OS-Related 837 846	time zone
+R2	SubPart Arg1:T8 Arg2:T7	
+T9	Software-OS-Related 1056 1060	Lock
+T10	Software-OS-Related 1169 1185	Date & Time menu
+R3	SubPart Arg1:T9 Arg2:T10	
+A5	isSettingsChanged T6 true
+A6	isSettingsChanged T8 true
+A7	isSettingsChanged T9 true

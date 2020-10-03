@@ -1,0 +1,30 @@
+Move from Windows to Linux
+https://www.wikihow.com/Move-from-Windows-to-Linux
+
+0 - Steps
+
+1 - Choose a Linux Distribution
+Choose a Linux Distribution. Research is key. Look into what distribution of GNU/Linux would be best for you. Everyone is different, and all Linux distributions are different, but there will probably be one (or two) that appeals to the most. If you're new to the operating system, it's probably best to go for something like Ubuntu, Debian, Fedora, OpenSuse, Mandriva, PCLinuxOS or Linux Mint -- these distributions of Linux are aimed at inexperienced users and will help you along the way. The Ubuntu distribution will no longer send you a CD free of charge, but there are sites on the internet which charge a small fee for postage. The quickest, and probably cheapest way to get Linux is to download an .iso image from the distribution website and burn it to a cd or make a bootable flash drive using a tool like Pendrivelinux. Ubuntu is currently the most popular distribution for users new to Linux and has active support forums.
+- ;
+
+2 - Try the "Live CD" versions first, assuming your computer will boot from the CD drive; most will.
+Try the "Live CD" versions first, assuming your computer will boot from the CD drive; most will. Most distributions offer Live CD ISOs on their website, which you can burn to CD. A Live CD means that Linux will run entirely from a CD and will not touch your Windows installation - this allows you to test out some of the functionality Linux offers without wiping your existing Windows install. If your computer will not boot to a Live CD on the first attempt, try looking at the Boot Order in your computer's BIOS, and setting CD-ROM to a higher priority than your Master Drive.
+
+3 - Use Linux applications that have been ported over to Windows or cross platform applications.
+Use Linux applications that have been ported over to Windows or cross platform applications. Good examples are Firefox, Audacity, VLC, Inkscape and the GIMP. Using these will get you used to the kind of applications available on Linux. Using open source applications will be a real boost when you actually switch over, as it will be relatively painless for, say, an XChat user to use XChat on his new system, rather than a mIRC (Or other Windows-only IRC client) user having to learn an entirely new program.
+
+4 - Back up your important data before you do anything else.
+Back up your important data before you do anything else. If you make a mistake while installing Linux, it's possible you'll have to format your hard drive to put things right. In which case, you will lose all data on it. It is very important you back up if you need to.
+
+5 - Get hold of a Linux install CD - when you boot from this, it will take you through the steps required to install Linux.
+Get hold of a Linux install CD - when you boot from this, it will take you through the steps required to install Linux.  Some distributions, like Ubuntu, actually install from the Live CD, so you do not need to download an additional CD image.
+
+6 - Choose which operating system to boot into when once the Linux installation has finished.
+Choose which operating system to boot into when once the Linux installation has finished. This is called dual-booting. It is wise to do this before completely converting to Linux to give you something to fall back on if something goes wrong.
+
+7 - Get comfortable with Linux.
+Get comfortable with Linux. As time goes on you will find you need to boot into Windows less and less. Using Linux is a learning experience, make sure you make the most of the "community" help which is available from most distributions of Linux. There is usually a wide community which you can ask questions and there will be people more than willing to help you out with any problems you've got. Make sure you use Google and the "search" functions on community websites because people may get irate at answering the same questions all the time in forums and on irc. Visit your distribution's support page or FAQ.
+
+8 - Wipe your Windows partition (devote your entire hard disk to Linux) once you're comfortable with Linux.
+Wipe your Windows partition (devote your entire hard disk to Linux) once you're comfortable with Linux. You'll probably never look back!
+

@@ -1,0 +1,44 @@
+Reset Windows 10
+https://www.wikihow.com/Reset-Windows-10
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. Press the Start  button which is located on the bottom-left of your screen and choose the settings gear .
+- ;
+
+2 - Select  Update & security from the list of categories.
+Select  Update & security from the list of categories.
+
+3 - Navigate to Recovery from the left pane.
+Navigate to Recovery from the left pane.
+
+4 - Start the reset process.
+Start the reset process. Under the "Reset this PC" heading at the top, click or tap on the Get started button.
+
+5 - Choose whether to keep your files or not.
+Choose whether to keep your files or not.  After the reset, you can sign in to your Microsoft account.  Any Windows Store apps purchased under this account will reinstall.
+- 
+- Keep my files removes your apps and settings, but keeps all of your personal files.
+- Remove everything erases your apps, settings, and personal files.  If you don't have a backed up copy of your files, you may want to press Cancel, back them up, and begin this process again.
+
+6 - Wait for the next part to load.
+Wait for the next part to load. This should take under 30 seconds.
+
+7 - If you've decided to remove everything, select whether to perform a secure erase of your files.
+If you've decided to remove everything, select whether to perform a secure erase of your files. This will only show if you selected "Remove everything" in the previous step.
+- Choose Just remove my files if you are keeping the computer.
+- Opt to Remove files and clean the drive if you are selling or getting rid of your PC.Note: This can extend the reset process by a few hours.
+
+8 - Click or tap Next if you are warned that you just upgraded to Windows 10 and won't be able to roll back to the previous operating system.
+Click or tap Next if you are warned that you just upgraded to Windows 10 and won't be able to roll back to the previous operating system.
+
+9 - Wait for the next part to load, which will usually take less than a minute.
+Wait for the next part to load, which will usually take less than a minute.
+
+10 - Read the overview and press Reset when you are ready to proceed.
+Read the overview and press Reset when you are ready to proceed.  Windows will prepare to reset your device. Simply wait until you're taken to a blue screen.
+
+11 - When "Choose an option" comes up, select → Continue.
+When "Choose an option" comes up, select → Continue. Windows will restart and begin resetting. Your PC may reboot several times as the reset is occurring.
+

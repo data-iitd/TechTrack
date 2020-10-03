@@ -1,0 +1,23 @@
+Directly Email a Scanned Document with an HP Deskjet 5525
+https://www.wikihow.com/Directly-Email-a-Scanned-Document-with-an-HP-Deskjet-5525
+
+0 - Scanning to Your E-mail
+
+1 - Register your printer with HP ePrint or HP Connected.
+Register your printer with HP ePrint or HP Connected. Your printer needs an identifiable e-mail address in order for the e-mail function to work. Register it first so it has an HP ePrint e-mail address.
+
+2 - Check your Internet connection.
+Check your Internet connection. For this to work, your home network should be connected to the Internet. The printer will need to connect to and use the ePrint server.
+
+3 - Select Scan to E-mail.
+Select Scan to E-mail. From the printer’s touch screen panel, start from the home screen and scroll right until you find Scan. Tap on "Scan" and select E-mail under Scan To.
+
+4 - Configure output settings.
+Configure output settings. Tap "Settings." Set the Scan Type to either Photo or Document, and set the Resolution.
+
+5 - Input recipient’s e-mail.
+Input recipient’s e-mail. Just like sending normal e-mails, input the recipient’s e-mail address in the "To" field.
+
+6 - Scan.
+Scan. Your photo or document will be scanned and automatically sent to the entered recipients.
+

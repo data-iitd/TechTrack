@@ -1,0 +1,34 @@
+Change Your IP Address (Windows)
+https://www.wikihow.com/Change-Your-IP-Address-(Windows)
+
+0 - Public IP
+
+1 - Unplug your router and modem.
+Unplug your router and modem. Most service providers assign dynamic IPs, which change from time to time. By disconnecting your modem for a long period of time, you are likely to get a new address assigned to you when you turn it back on.
+- You may want to check your current IP address before doing this.
+- Simply unplugging the router and modem from the wall will work.
+- ;
+
+2 - Disable your computer's Wi-Fi.
+Disable your computer's Wi-Fi. This will prevent it from reconnecting to the router when you plug it back in. To disable Wi-Fi:
+- Click  in the bottom-right corner of the screen.
+- Click Wi-Fi in the pop-up window.
+
+3 - Wait for five minutes.
+Wait for five minutes. Some ISPs will assign a new IP address in as little as five minutes; if doing this doesn't work, however, you may need to leave your router unplugged overnight (or for around eight hours).
+
+4 - Plug your router back in.
+Plug your router back in. As long as you have a different device (e.g., a phone, a gaming console, or another computer) connected to Wi-Fi, the router and the second device will claim the old IP address.
+
+5 - Re-enable Wi-Fi on your computer.
+Re-enable Wi-Fi on your computer. Doing so after the other devices have had a chance to establish their connections will most likely change your computer's public IP address.
+- You may want to check your IP address again to make sure it has changed.
+
+6 - Contact your ISP.
+Contact your ISP. In some rare cases, you may have a static IP address assigned by your internet service provider. In order to get this changed, you will need to contact their technical support directly. Oftentimes, this can only be changed once.[1]
+- X
+- Research source
+
+7 - Use a proxy network
+Use a proxy network. This will display a different IP address for your connection; often, it will be an address from a different part of the country or world. Reliable proxies and VPNs often require monthly subscriptions.
+

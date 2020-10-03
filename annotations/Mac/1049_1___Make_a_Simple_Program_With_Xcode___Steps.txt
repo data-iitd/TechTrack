@@ -1,0 +1,51 @@
+Make a Simple Program With Xcode
+https://www.wikihow.com/Make-a-Simple-Program-With-Xcode
+
+0 - Steps
+
+1 - Open Xcode.
+Open Xcode. You may not have Xcode on your system, in that case, install it with the developer tools CD that should have come with your computer.
+
+2 - Click File>new project.
+Click File>new project.
+
+3 - An assistant should open.
+An assistant should open. click "Applescript Application".
+
+4 - Name your project.
+Name your project. In this example, it is named "Talking Example".
+- Your project should appear.
+
+5 - Double click "Talking_ExampleAppDelegate.applescript".
+Double click "Talking_ExampleAppDelegate.applescript".
+
+6 - Type:
+Type:
+- on clicked the object
+- (say "hello")
+- end clicked
+
+7 - Then type Command+"B" to build.
+Then type Command+"B" to build.
+
+8 - Now double click "MainMenu.xib".
+Now double click "MainMenu.xib".
+- Interface builder should open.
+- A window should appear.
+
+9 - Drag a button from the palette, double-click it, and name it "Hello".
+Drag a button from the palette, double-click it, and name it "Hello".
+
+10 - Now, open the attribute editor by going to "tools" on the menu bar, and clicking the "attribute editor".
+Now, open the attribute editor by going to "tools" on the menu bar, and clicking the "attribute editor". Then, at the top of the attribute editor, you should see a little white scroll. Click it.
+- QUICK CHECK   does your screen look like this?
+
+11 - See the dropdown menu that says "script"?
+See the dropdown menu that says "script"? (blue circle) choose "talking example.applescript". Now, see the checkbox that says "action", and under it "clicked"? (red circle) check "clicked". This will make it so that when you click the button, talking example.applescript will activate, thus making it say "hello".
+
+12 - Now click file > save.
+Now click file > save. You may now quit interface builder.
+
+13 - In Xcode, press build and go at the top.
+In Xcode, press build and go at the top. Your application should run smoothly.
+

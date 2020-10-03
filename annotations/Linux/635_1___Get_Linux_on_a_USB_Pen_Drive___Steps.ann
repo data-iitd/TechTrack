@@ -1,0 +1,32 @@
+T1	Software-OS-Related 169 179	windows XP
+T2	Software-Other 335 343	internet
+A1	isOpened T2 f->t
+T3	Software-Other 351 357	Google
+A2	isOpened T3 f->t
+T4	Software-Other 371 381	unetbootin
+A3	isOpened T4 f->t
+T5	Software-Other 457 474	I'm feeling lucky
+A4	isOpened T5 f->t
+T6	Software-OS-Related 500 507	windows
+T7	Software-Other 531 544	Linux website
+A5	isOpened T7 f->t
+T8	Hardware-Other 1001 1005	PC's
+T9	Software-Other 1357 1367	Unetbootin
+A6	isOpened T9 f->t
+T10	Hardware-Other 1410 1419	USB stick
+T11	Software-Other 1489 1497	download
+T12	Software-Other 1514 1516	OS
+A7	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	
+T13	Software-Other 1776 1785	USB stick
+A8	isSettingsChanged T13 true
+T14	Software-Other 1915 1923	continue
+T15	Software-Other 1883 1896	USB pen drive
+R2	SubPart Arg1:T13 Arg2:T9	
+T16	Software-OS-Related 2257 2263	reboot
+T17	Software-Other 2269 2271	PC
+T18	Software-OS-Related 2311 2320	boot menu
+A9	isOpened T18 f->t
+T19	Software-OS-Related 2535 2544	USB stick
+A10	isSettingsChanged T19 true
+R3	SubPart Arg1:T19 Arg2:T18	

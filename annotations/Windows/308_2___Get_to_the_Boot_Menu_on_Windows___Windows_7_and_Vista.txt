@@ -1,0 +1,21 @@
+Get to the Boot Menu on Windows
+https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows
+
+0 - Windows 7 and Vista
+
+1 - Press Alt+F4.
+Press Alt+F4.
+
+2 - Click the drop-down menu.
+Click the drop-down menu.
+
+3 - Select Restart.
+Select Restart.
+
+4 - Click OK.
+Click OK. The computer will now shut down and restart. As soon as the computer restarts, you will need to act quickly—be ready.
+
+5 - Press and hold F8 as soon as the computer restarts.
+Press and hold F8 as soon as the computer restarts. You’ll need to press it before the Windows logo appears. Continue holding this key until you see the Advanced Boot Options menu.
+- If Windows boots to the desktop, repeat this process to try again.
+

@@ -1,0 +1,14 @@
+T1	Software-OS-Related 127 132	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 262 270	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 338 345	Devices
+A3	isOpened T3 f->t
+T4	Software-OS-Related 409 428	Printers & scanners
+A4	isOpened T4 f->t
+T5	Hardware-Other 563 570	printer
+T6	Software-OS-Related 719 729	Open queue
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1067 1073	Cancel
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T4	

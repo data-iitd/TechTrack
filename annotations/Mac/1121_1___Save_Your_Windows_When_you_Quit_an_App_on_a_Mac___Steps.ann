@@ -1,0 +1,9 @@
+T1	Software-OS-Related 180 190	Apple icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 314 332	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 379 385	Genera
+A3	isOpened T3 f->t
+T4	Software-OS-Related 707 768	uncheck the box next to "Close windows when quitting an app."
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	

@@ -1,0 +1,4 @@
+T1	Software-OS-Related 305 319	Command Prompt
+A1	isOpened T1 f->t
+T2	Software-Other 413 430	installation file
+T3	Software-OS-Related 907 912	paste

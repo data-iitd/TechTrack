@@ -1,0 +1,22 @@
+Change Where Groove Music Looks for Music
+https://www.wikihow.com/Change-Where-Groove-Music-Looks-for-Music
+
+0 - Adding a Local Folder
+
+1 - Open Groove Music.
+Open Groove Music. Tap the Windows key on your keyboard and type in “groove.” A search should automatically start, and the top result should be the Groove Music app you’re looking for. It may be listed as “Music.” Click this to continue.
+- ;
+
+2 - Open Groove Music Settings menu.
+Open Groove Music Settings menu. In the new redesign of the Groove Music app, there is a new way to access the Settings. In the lower left-hand corner of the app, you should see a gear icon. Click this to open the Settings menu.
+- Once the Settings menu is open, you should see a heading near the top that says “Music on this PC.” Under this you should see two options in blue, one of which says “Choose where we look for music.”
+
+3 - Select “Choose where we look for music.
+Select “Choose where we look for music.” A small window should open that has one current location and a + icon inside a button to the left.
+
+4 - Click the + button to open a file browser.
+Click the + button to open a file browser. Take a moment to look for the different folders that you would like to add to your list.
+
+5 - Add the new folder where Groove Music will look for music.
+Add the new folder where Groove Music will look for music. Select the folder you would like to add and then click the “Add this folder to Music” button in the lower right-hand corner of the file browser window. From now on, Groove Music will include this folder when searching for music files.
+

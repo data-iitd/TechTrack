@@ -1,0 +1,32 @@
+T1	Software-Other 828 838	Wubi files
+T2	Software-Other 1038 1070	cdimage.ubuntu.com/wubi/current/
+T4	Software-Other 1289 1303	Wubi installer
+T8	Software-Other 1673 1687	Wubi installer
+A2	isOpened T8 f->t
+T11	Software-Other 2225 2233	username
+T12	Software-Other 2238 2246	password
+T13	Software-Other 2465 2472	Install
+T14	Software-OS-Related 2494 2500	Ubuntu
+T15	Software-OS-Related 2712 2718	Ubuntu
+T17	Software-OS-Related 3509 3515	Ubuntu
+T18	Software-Other 2962 2968	Ubuntu
+T19	Software-Other 236 252	Windows installe
+A4	isInstalled T19 start-F
+T20	Software-Other 337 346	installer
+*	Equiv T20 T19
+A5	isInstalled T1 start-F
+T21	Software-Other 878 887	installer
+*	Equiv T21 T1 T4
+A6	isOpened T2 f->t
+A7	isInstalled T2 start-F
+T3	Software-Other 1485 1489	7-Zi
+A8	isOpened T3 f->t
+A9	isInstalled T3 f->t
+T5	Software-Other 1703 1712	installer
+*	Equiv T5 T8
+R2	SubPart Arg1:T13 Arg2:T5	
+A1	isInstalled T13 f->t
+T6	Software-Other 265 271	Ubuntu
+A10	isInstalled T6 start-F
+A11	isInstalled T18 f->t
+A12	isOpened T17 f->t

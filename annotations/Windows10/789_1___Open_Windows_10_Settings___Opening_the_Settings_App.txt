@@ -1,0 +1,29 @@
+Open Windows 10 Settings
+https://www.wikihow.com/Open-Windows-10-Settings
+
+0 - Opening the Settings App
+
+1 - Use the Start menu.
+Use the Start menu.  Click or tap the Start button and select the settings gear in the lower left corner.
+- ;
+
+2 - Press the ⊞ Win+I keyboard keys at the same time.
+Press the ⊞ Win+I keyboard keys at the same time.  This is a very quick and convenient way to open Settings.
+
+3 - Use Cortana
+Use Cortana/search.  Type settings and hit ↵ Enter or select the matching result.
+- If you're in a country where Cortana is supported, then you can ask her to open Settings for you.  Press the microphone icon and say "open settings" or just "settings".
+- You can also use Cortana/search to look for and open specific settings.  For example, you can type color settings or ask Cortana to "open color settings".
+
+4 - Use the All settings quick action in the Action Center.
+Use the All settings quick action in the Action Center.  The Action Center is where you can view any notifications on your device and perform actions through tiles at the bottom called quick actions.
+- Press the speech bubble/notification icon at the lower right corner of your screen to open Action Center.  Click or tap All settings.  If you only see four tiles, click the "Expand" link to show the rest of them.
+
+5 - Use File Explorer.
+Use File Explorer.  First, open File Explorer.
+- Make sure This PC is selected from the left pane.  From the ribbon at the top, make sure the Computer tab is selected and then click or tap Open Settings.
+- Alternatively, select your local drive that Windows is installed on.  Navigate to "Windows\ImmersiveControlPanel" and then open "SystemSettings" or "SystemSettings.exe".
+
+6 - Enter start ms-settings:
+Enter start ms-settings: into Command Prompt or Windows Powershell and hit ↵ Enter.
+

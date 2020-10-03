@@ -1,0 +1,23 @@
+Fix Microsoft Store Downloading Problems
+https://www.wikihow.com/Fix-Microsoft-Store-Downloading-Problems
+
+0 - Updating Your Current Apps
+
+1 - Open the Microsoft Store.
+Open the Microsoft Store.
+
+2 - Click your profile icon.
+Click your profile icon. You can find this to the left of the search bar.
+
+3 - Click "Downloads and Updates".
+Click "Downloads and Updates".
+
+4 - Click the "Check for Updates" button.
+Click the "Check for Updates" button. This should be in the top right corner of your app store.
+
+5 - Wait for the updates to apply.
+Wait for the updates to apply. Depending on how many apps you have in need of updates, this may take a few minutes.
+
+6 - Return to the app download page.
+Return to the app download page. If your current apps were backing up the download process, these apps should now be downloading.
+

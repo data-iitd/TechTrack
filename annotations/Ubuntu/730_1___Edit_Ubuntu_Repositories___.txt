@@ -1,0 +1,27 @@
+Edit Ubuntu Repositories
+https://www.wikihow.com/Edit-Ubuntu-Repositories
+
+0 - 
+
+1 - Click "Other Software" to open the "Other Software" section
+
+Click "Other Software" to open the "Other Software" section
+
+2 - Tick the check box next to a repository to enable the respective repository, and Vice Versa (uncheck the box to disable the repository).
+Tick the check box next to a repository to enable the respective repository, and Vice Versa (uncheck the box to disable the repository).
+
+3 - To remove a repository, click it's entry in the list and then click the button labeled "Remove".
+To remove a repository, click it's entry in the list and then click the button labeled "Remove".
+
+4 - To add a CD, click "Add Volume.
+To add a CD, click "Add Volume..." and Ubuntu will add the inserted disk. To add a regular repository click "Add..." and Paste or type in the APT Line into the text box. Then Press enter. After adding a repository, the Ubuntu Software Centre will start updating your local cache of software.
+
+5 - You can Edit an entry, but we recommend Removing it and then Adding it with the new details.However, if you really want to, click the entry and click "Edit.
+You can Edit an entry, but we recommend Removing it and then Adding it with the new details.However, if you really want to, click the entry and click "Edit...". You will then be greeted with a prompt to enter the Repository information.
+
+6 - If you need to add a Signing Key, click on "Authentication".
+If you need to add a Signing Key, click on "Authentication". Then click on "Import Key File..." and select the file.
+
+7 - When you are done, click Close.
+When you are done, click Close.
+

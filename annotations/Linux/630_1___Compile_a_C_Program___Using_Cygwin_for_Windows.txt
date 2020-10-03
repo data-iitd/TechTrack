@@ -1,0 +1,64 @@
+Compile a C Program
+https://www.wikihow.com/Compile-a-C-Program
+
+0 - Using Cygwin for Windows
+
+1 - Go to https:__cygwin.com_install.html.
+Go to https://cygwin.com/install.html. Cygwin is a free Windows tool that allows you to use the GCC C compiler from a Unix command line.
+- ;
+
+2 - Click the setup-x86.exe file for your Windows version.
+Click the setup-x86.exe file for your Windows version. If you're using the 64-bit version of Windows, download setup-x86_64.exe. If you have the 32-bit version, download setup-x86.exe.
+
+3 - Run the installer.
+Run the installer. Double-click the downloaded file to open the setup wizard. Downloaded files usually save to the Downloads folder.
+- If prompted to give permission for the installer to run, click Yes.
+
+4 - Click Next on the first screen.
+Click Next on the first screen.
+
+5 - Select Install from Internet and click Next.
+Select Install from Internet and click Next.
+
+6 - Choose where to install the app and click Next.
+Choose where to install the app and click Next.
+
+7 - Select local package directory and click Next.
+Select local package directory and click Next. This is where packages you download will be saved.
+
+8 - Choose your internet settings and click Next.
+Choose your internet settings and click Next. The installer will connect to the internet and then display a list of download sites.
+
+9 - Select a download site and click Next.
+Select a download site and click Next. These sites all host the same files. This downloads the installation files to your computer.
+- If there's a problem with one site, try another on the list.
+
+10 - Select packages to install.
+Select packages to install. Follow these steps to ensure the C compiler is installed:
+- Click the + next to "Devel" to expand the options.
+- Scroll down and click the down-arrow next to gcc core.
+- Click the most recent (highest) version number.
+
+11 - Click Next.
+Click Next. It's at the bottom-right corner. A confirmation message will appear.
+
+12 - Click Next to start the installation.
+Click Next to start the installation. Cygwin will now download all selected tools and install them on your computer. Follow the on-screen instructions to complete the installation.
+
+13 - Open Cygwin.
+Open Cygwin. It'll be in the Start menu (called either Cygwin64 or Cygwin32, depending on your version).
+
+14 - Use the cd command to navigate to the location of your C code.
+Use the cd command to navigate to the location of your C code. You're looking for the file you coded with ".c" at the end. For example, if your code is located in your Documents folder, you would type cd c:\Users\(yourusername)\Documents and press ↵ Enter.[1]
+- X
+- Research source
+- 
+- A quick way to find the full path to your file: Press ⊞ Win+E to open the File Explorer, go to the folder that contains your file, click the file once to select it, then click Copy Path at the top of the screen. Now you can right-click the Cygwin command line and select Paste.
+
+15 - Type gcc yourcode.c –o yourcode.exe and press ↵ Enter.
+Type gcc yourcode.c –o yourcode.exe and press ↵ Enter. Replace "yourcode.c" with the name of the file, and "yourcode.exe" with the name of your program.[2]
+- X
+- Research source
+- 
+-  Your code is now compiled.
+

@@ -1,0 +1,7 @@
+T1	Software-OS-Related 131 136	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 420 424	docx
+A2	isOpened T2 f->t
+T3	Software-OS-Related 984 1002	Open file location
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T3 Arg2:T2	

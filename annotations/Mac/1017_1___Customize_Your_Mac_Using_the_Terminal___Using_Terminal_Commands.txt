@@ -1,0 +1,73 @@
+Customize Your Mac Using the Terminal
+https://www.wikihow.com/Customize-Your-Mac-Using-the-Terminal
+
+0 - Using Terminal Commands
+
+1 - Add a message to your login screen.
+Add a message to your login screen. You can add a message to your login screen by typing:
+- 
+- sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "If this laptop is lost, please call 555-555-5555. Cash reward."
+- 
+- Then press ⏎ Return. Replace the message in the quotation marks with a message of your own. This will display this text in your login screen at startup.
+
+2 - Add blank spaces to your dock.
+Add blank spaces to your dock. You can add blank spaces to the application dock by typing:
+- 
+- defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
+- killall Dock
+- 
+- Press ⏎ Return. This will add a blank space to the dock each time you enter this command. You can click and drag the space to move it around in the dock, creating a divider for organization.
+- If you're prompted to enter your password, type your password and press ⏎ Return.
+- To delete a blank space from the dock, simply drag the space out of the dock until it says "Remove" then let it go.[1]
+- X
+- Research source
+
+3 - Prevent your Mac from going to sleep.
+Prevent your Mac from going to sleep. To prevent your Mac from going to sleep, simply type:
+- 
+- caffeinate
+- 
+- Press ⏎ Return. This will keep the Mac from going to sleep or logging you out from inactivity.
+- To allow the Mac to sleep again, press Control+C into Terminal to end the "caffeinate" task.
+
+4 - Hide a Folder.
+Hide a Folder. If you created a folder on your desktop called "HiddenFolder", and your Mac username was "Steve", you could hide that folder by typing:
+- 
+- chflags hidden "/Users/Steve/Desktop/HiddenFolder"
+- 
+- Then press ⏎ Return. Replace "Steve" with your own username and replace "HiddenFolder" with your folder's name.
+- You can also just type chflags hidden then drag and drop your folder directly  into the Terminal window, then press ⏎ Return.
+- On the Desktop or in any Finder window, you can toggle between showing and not-showing hidden files by pressing ⌘ Command+⇧ Shift+..
+
+5 - Unhide a folder.
+Unhide a folder. To unhide the same folder in the previous step, you would type:
+- 
+- chflags nohidden "/Users/Steve/Desktop/HiddenFolder"
+- 
+- Press ⏎ Return. This will make the folder a normal folder that is always shown.
+
+6 - Change the location of your screenshots.
+Change the location of your screenshots. By default, screenshots are saved directly on the Desktop. So if you wanted the screenshots to be saved in a folder on the Desktop called "Screenshots" you would type:
+- 
+- defaults write com.apple.screencapture location "/Users/Steve/Desktop/Screenshots"
+- killall SystemUIServer
+- 
+- Then press ⏎ Return. Replace "Steve" with your own username and replace "Screenshots" with the folder name you created.
+- You'll need to create the folder first for this will work properly , otherwise the screenshots will end up on the desktop by default.
+
+7 - Add a recent or favorite items stack to the dock.
+Add a recent or favorite items stack to the dock. You can add a recent or favorite items stack that you can customize in your dock by typing: 
+- 
+- defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'; killall Dock
+- 
+- Press ⏎ Return. The new stack will appear next to the trash can. You can then right-click (Control+click) to change the stack to be recent applications, documents, servers, or even favorite volumes or items. 
+- To remove the stack from the dock, right-click (Control+click) and select "Remove from Dock".
+
+8 - Disable the Dashboard completely.
+Disable the Dashboard completely. If you don't use the dashboard on your Mac and don't want it to use of any system resources, you can turn it off entirely by typing:
+- 
+- defaults write com.apple.dashboard mcx-disabled -boolean yes; killall Dock
+- 
+- Press ⏎ Return.
+- To re-enable the Dashboard, you can repeat the same command but change the "yes" to "no".
+

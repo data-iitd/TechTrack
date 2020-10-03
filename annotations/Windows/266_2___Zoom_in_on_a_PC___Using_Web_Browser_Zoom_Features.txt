@@ -1,0 +1,25 @@
+Zoom in on a PC
+https://www.wikihow.com/Zoom-in-on-a-PC
+
+0 - Using Web Browser Zoom Features
+
+1 - Open a web browser.
+Open a web browser. All web browsers, including Chrome, Firefox, and Edge, have their own built-in zoom options that can be accessed from different menus.
+
+2 - Open the web browser's menu.
+Open the web browser's menu. The location of nearly all browser menus is at the upper-right corner of the application.
+- Microsoft Edge: Three horizontal dots
+- Google Chrome: Three vertical dots
+- Mozilla Firefox: There horizontal lines
+- Internet Explorer: If you're using this browser, click the View menu at the top and select the Zoom menu to access the zoom controls.
+
+3 - Click the + to zoom in.
+Click the + to zoom in. You'll see a "Zoom" option on the menu of nearly all web browsers. Clicking the + to the left of the word "Zoom" in the menu will zoom in on the entire web page.
+- The magnification level (e.g., 125%) will update as you continue to click the button.
+
+4 - Click the - to zoom out.
+Click the - to zoom out. It's to the right of "Zoom." This makes the items on each page smaller.
+
+5 - Press ctl + "0" to return the screen to default magnification.
+Press ctl + "0" to return the screen to default magnification.
+

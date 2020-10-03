@@ -1,0 +1,49 @@
+Print Brochures
+https://www.wikihow.com/Print-Brochures
+
+0 - Using Adobe Acrobat
+
+1 - Open the brochure in Acrobat.
+Open the brochure in Acrobat. If Adobe Acrobat is your computer's default document reader, simply double-click the brochure; otherwise, do the following:
+- 
+- Windows - Right-click the brochure, select Open with, and click Adobe Acrobat in the menu.
+- Mac - Click the PDF, click File, select Open With, and click Adobe Acrobat or Acrobat in the menu.
+
+2 - Click File.
+Click File. It's either in the top-left corner of the Acrobat window (Windows) or in the top-left corner of the screen (Mac). A drop-down menu will appear.
+
+3 - Click Print.
+Click Print. You'll find this option in the drop-down menu. This will prompt the "Print" window to open.
+
+4 - Select a printer.
+Select a printer. Click the "Printer" drop-down box at the top of the window, then click a printer in the drop-down menu.
+
+5 - Check the "Pages" box.
+Check the "Pages" box. It's near the top of the Acrobat Print page.
+
+6 - Make sure that the "Pages" box has a 1 in it.
+Make sure that the "Pages" box has a 1 in it. This will prompt the printer to print the first page in the brochure (e.g., one side of the brochure) but not the second page.
+
+7 - Check the "Landscape" box.
+Check the "Landscape" box. It's on the left side of the page. Doing so orients your brochure sideways so that the whole piece of paper is used.
+
+8 - Click Print.
+Click Print. This option is at the bottom of the page. The brochure should now print.
+
+9 - Reinsert the paper.
+Reinsert the paper. Place the printed paper face-up with the left-most part of the brochure going into the printer first. Now that one side of the brochure printed, it's time to print the other side.
+- If the paper printed face-up, place the printed paper face-down here instead.
+
+10 - Re-open the "Print" window.
+Re-open the "Print" window. Click File, click Print, and make sure that your settings are the same.
+
+11 - Change the "Pages" number to 2.
+Change the "Pages" number to 2. This will ignore the first page (which you already printed) and print only the second page of the brochure.
+
+12 - Click Print.
+Click Print.
+
+13 - Make sure that your brochure printed correctly.
+Make sure that your brochure printed correctly. If your brochure is properly printed on both sides, you can repeat this process with multiple brochures.
+- If the brochure doesn't print properly, try inserting the paper in different directions until the second page of the brochure prints properly.
+

@@ -1,0 +1,11 @@
+T1	Software-Other 129 141	Groove Music
+A1	isOpened T1 f->t
+T2	Software-Other 407 415	Settings
+A2	isOpened T2 f->t
+T3	Software-Other 869 899	Choose where we look for music
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1134 1141	Network
+A4	isOpened T4 f->t
+T5	Software-Other 1624 1648	Add this folder to Music
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T1	

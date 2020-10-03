@@ -1,0 +1,45 @@
+T1	Hardware-Other 82 90	computer
+T2	Software-OS-Related 100 103	DOS
+T3	Software-OS-Related 132 146	command prompt
+A1	isOpened T3 f->t
+T4	Software-OS-Related 366 373	Windows
+T5	Software-OS-Related 482 493	Accessories
+A2	isOpened T5 f->t
+T6	Software-OS-Related 590 593	cmd
+T8	Software-OS-Related 701 707	window
+T7	Software-OS-Related 756 794	C:\DOCUMENTS AND SETTINGS\[your name]>
+T9	Software-OS-Related 838 852	command prompt
+T10	Software-OS-Related 1130 1151	C:\GAMES>ping nosound
+T11	Software-OS-Related 1167 1197	C:\MY DOCUMENTS>edit essay.txt
+T12	Software-OS-Related 1346 1357	directories
+T13	Software-OS-Related 1493 1496	dir
+T14	Hardware-Other 1534 1543	hard disk
+T15	Software-OS-Related 1566 1572	folder
+*	Equiv T15 T12
+T16	Software-OS-Related 1658 1679	.                 DIR
+T17	Software-OS-Related 1683 1704	..                DIR
+T18	Software-OS-Related 1708 1729	DOS               DIR
+T19	Software-OS-Related 1733 1754	GAMES             DIR
+T20	Software-OS-Related 1758 1779	WINDOWS           DIR
+T21	Software-OS-Related 1783 1804	AUTOEXEC         .BAT
+T22	Software-OS-Related 1808 1829	ESSAY            .TXT
+T23	Software-OS-Related 1859 1862	dir
+T24	Software-OS-Related 1902 1911	directory
+T25	Software-OS-Related 2216 2218	/p
+T26	Software-OS-Related 2447 2456	directory
+T27	Software-OS-Related 2463 2465	cd
+T28	Software-OS-Related 2601 2618	cd C:\GAMES\GRAPE
+T29	Software-Other 3231 3244	Mortar Mayhem
+T30	Software-OS-Related 3296 3316	C:\> cd games\mortar
+T31	Software-OS-Related 3565 3568	DOS
+T32	Software-OS-Related 3739 3758	del [countdown.txt]
+T33	Software-OS-Related 3795 3806	directories
+T34	Software-OS-Related 3854 3891	move [countdown.txt] [c:\games\grape]
+T35	Software-OS-Related 3773 3777	file
+A3	isSettingsChanged T32 true
+R1	SubPart Arg1:T32 Arg2:T35	
+R2	SubPart Arg1:T34 Arg2:T35	
+T36	Software-OS-Related 3997 4007	md [grape]
+T37	Software-OS-Related 4113 4126	rmdir [grape]
+A4	isSettingsChanged T37 true
+R3	SubPart Arg1:T37 Arg2:T35	

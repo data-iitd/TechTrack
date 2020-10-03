@@ -1,0 +1,33 @@
+Change Your Desktop Background in Windows
+https://www.wikihow.com/Change-Your-Desktop-Background-in-Windows
+
+0 - Using Windows 7 and 8
+
+1 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. Doing so will prompt a drop-down menu.
+
+2 - Click Personalize.
+Click Personalize. This option is at the bottom of the drop-down menu.
+
+3 - Click "Desktop Background".
+Click "Desktop Background". This link should be in the bottom-left corner of the window.
+
+4 - Click a picture.
+Click a picture. Doing so will select it as your desktop background.
+- You can also click the Windows Desktop Backgrounds dropdown menu near the top of the window to pick a different pictures folder (e.g., "Pictures").
+- If you want to look for a specific picture, click Browse.
+- Clicking the checkbox in the top-left corner of two or more pictures will place them on a slideshow rotation. You can change the default time between photos and transition style from the bottom of the window.
+
+5 - Click the box beneath the "Picture position" heading.
+Click the box beneath the "Picture position" heading. You'll see options for displaying your picture here. A few common options include:
+- 
+- Fill - Your picture will take up the whole screen.
+- Tile - Multiple thumbnails of your picture will display in a grid on your desktop.
+- Center - Your picture will be centered in the middle of your screen with a black border.
+
+6 - Click a picture position option.
+Click a picture position option.
+
+7 - Click Save changes.
+Click Save changes. It's at the bottom of the "Desktop Background" window. Your changes will be applied.
+

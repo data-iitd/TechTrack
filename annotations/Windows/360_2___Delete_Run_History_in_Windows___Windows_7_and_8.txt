@@ -1,0 +1,25 @@
+Delete Run History in Windows
+https://www.wikihow.com/Delete-Run-History-in-Windows
+
+0 - Windows 7 and 8
+
+1 - Right-click the taskbar.
+Right-click the taskbar. This bar is at the bottom of the screen, though you may need to hover your mouse at the bottom of the screen in order to display it.
+- On a laptop that has a trackpad and no mouse buttons, use two fingers to click instead of right-clicking.
+
+2 - Click Properties.
+Click Properties. It's at the bottom of the right-click drop-down menu.
+
+3 - Click Start Menu.
+Click Start Menu. This tab is at the top of the Properties window.
+- On Windows 8, click the Jump Lists tab instead.
+
+4 - Uncheck the "Store recently opened programs" box.
+Uncheck the "Store recently opened programs" box. To do so, click the checkbox to the left of the "Store recently opened programs" line of text. You should see the checkmark there disappear.
+
+5 - Click Apply.
+Click Apply. It's at the bottom of the window.
+
+6 - Re-check the "Store recently opened programs" box.
+Re-check the "Store recently opened programs" box. Simply click the checkbox again to re-check it. Your Run history should now be empty.
+

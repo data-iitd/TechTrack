@@ -1,0 +1,46 @@
+Format a Hard Drive
+https://www.wikihow.com/Format-a-Hard-Drive
+
+0 - Using a Mac
+
+1 - Click Go.
+Click Go. It's in your Mac's menu bar at the top of the screen.
+- If you don't see Go, click the desktop or Finder to make it appear.
+
+2 - Click Utilities.
+Click Utilities. This is at the bottom of the Go drop-down menu.
+
+3 - Double-click Disk Utility.
+Double-click Disk Utility. It's the icon resembling a hard drive with a stethoscope. This will open the Disk Utility program.
+
+4 - Select your hard drive.
+Select your hard drive. Click your Mac's hard drive in the upper-left side of the Disk Utility window. It's under the "Internal" heading.
+
+5 - Click Partition.
+Click Partition. This tab is at the top of the window.
+
+6 - Click +.
+Click +. It's below the hard drive circle. Doing so will open a set of options for your partition.
+
+7 - Determine your partition's size.
+Determine your partition's size. Click and drag the knob at the bottom of the hard drive circle counter-clockwise to increase the partition's size, or clockwise to reduce it.
+- You can also type a number in gigabytes (GB) into the "Size:" field to set your partition's size.
+
+8 - Format your partition.
+Format your partition. Click the File format drop-down box, then select one of the following formats:
+- 
+- Mac OS Extended (Journaled) - Basic Mac format. Only works on Mac.
+- Mac OS Extended (Journaled, Encrypted) - Encrypted version of the basic Mac format.
+- Mac OS Extended (Case-sensitive, Journaled) - Basic Mac format that treats files differently based on upper/lower-case differences (e.g., "file.txt" and "File.txt").
+- Mac OS Extended (Case-sensitive, Journaled, Encrypted) - A combination of the three above formatting options for the Mac format.
+- MS-DOS (FAT) - Works on both Windows and Mac computers. Has a file size limit of 4 gigabytes.
+- ExFAT - Works on both Windows and Mac computers. Has no storage limit.
+
+9 - Click Apply.
+Click Apply. It's in the bottom-right corner of the page. Your Mac will begin creating the partition.
+- This process will take some time, so be patient.
+
+10 - Click Done when prompted.
+Click Done when prompted. Your Mac's partition has successfully been created. You'll see this partition listed as a hard drive in the Finder.
+- If you ever need to reformat the drive, you can change the partition's format the same way in which you would change a flash drive's format.
+

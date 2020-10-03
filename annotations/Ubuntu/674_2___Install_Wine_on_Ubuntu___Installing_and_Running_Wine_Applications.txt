@@ -1,0 +1,37 @@
+Install Wine on Ubuntu
+https://www.wikihow.com/Install-Wine-on-Ubuntu
+
+0 - Installing and Running Wine Applications
+
+1 - Download the Windows application, or insert the installation disc.
+Download the Windows application, or insert the installation disc. You can install any Windows application as if you were using Windows. If you're downloading an installer, place it somewhere on your computer that's easily accessible.
+
+2 - Open the Terminal and navigate to the folder that contains the installer.
+Open the Terminal and navigate to the folder that contains the installer. If you are installing from a disc, see the next step.
+
+3 - Run the installer by typing .
+Run the installer by typing .wine programname.extension. For example, if you downloaded a file named "itunes_installer.exe", you would type wine itunes_installer.exe and press ↵ Enter. This will run the program as if you were using Windows.
+- If you want to install a program from a disc, make sure that the disc drive has a drive letter assigned in Wine and then type the following command: wine start 'D:\setup.exe'. Change the filename to whatever the actual filename is.
+
+4 - Follow any prompts to install the program.
+Follow any prompts to install the program. The installation will proceed just as if you were installing it in Windows. If you are asked for an installation location, select C:\Program Files.
+
+5 - Look for the installed application in your Ubuntu Applications menu or on your desktop.
+Look for the installed application in your Ubuntu Applications menu or on your desktop. Many Windows applications will create a shortcut much like they would in Windows, allowing you to easily start them by double-clicking.
+
+6 - Run the installed application through the Terminal if you can't find a shortcut.
+Run the installed application through the Terminal if you can't find a shortcut. If installing the program didn't create a shortcut, you can use the Terminal to start it up.[2]
+- X
+- Research source
+- 
+- 
+- Navigate to the location of the program's executable file. For example: /home/user/.wine/drive_c/Program Files/Apple.
+- Type {{kbd|wine progamname.extension and press ↵ Enter to start the program. For example: wine itunes.exe
+
+7 - Create a shortcut to a Wine program.
+Create a shortcut to a Wine program. If you'd rather not type in the Wine command into the Terminal each time you want to start it, you can create a shortcut on your desktop.
+- Right-click on your desktop and select "Create launcher".
+- Select an icon from the list or add your own.
+- In the "Command" field, type wine progam-location/program.extension. The location is where the program's executable file is located. For example: wine /home/user/.wine/drive_c/Program Files/itunes.exe.
+- Uncheck the "Run in terminal" box.
+

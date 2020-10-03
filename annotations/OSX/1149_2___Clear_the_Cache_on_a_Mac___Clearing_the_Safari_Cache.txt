@@ -1,0 +1,28 @@
+Clear the Cache on a Mac
+https://www.wikihow.com/Clear-the-Cache-on-a-Mac
+
+0 - Clearing the Safari Cache
+
+1 - Open Safari.
+Open Safari. The Safari app icon resembles a blue compass, and can usually be found in your Mac's Dock at the bottom of the screen.
+
+2 - Click Safari.
+Click Safari. It's a menu item in the top-left corner of the screen. A drop-down menu will appear.
+- If you see a Develop menu item in the bar at the top of the screen, click it instead, then skip ahead to the "Click Empty Caches" step.
+
+3 - Click Preferences….
+Click Preferences…. It's near the top of the Safari drop-down menu. A new window will open.
+
+4 - Click the Advanced tab.
+Click the Advanced tab. You'll find it on the far right side of the Preferences window.
+
+5 - Check the "Show Develop menu in menu bar" box.
+Check the "Show Develop menu in menu bar" box. It's at the bottom of the Preferences window. This adds the Develop tab to the menu bar for Safari.
+
+6 - Click Develop.
+Click Develop. It's an option in the menu bar at the top of the screen. A drop-down menu will appear.
+
+7 - Click Empty Caches.
+Click Empty Caches. You'll see it in the Develop drop-down menu. Doing so will automatically clear your Mac's Safari cache.
+- You won't see a pop-up window or a confirmation notice when the cache is cleared.
+

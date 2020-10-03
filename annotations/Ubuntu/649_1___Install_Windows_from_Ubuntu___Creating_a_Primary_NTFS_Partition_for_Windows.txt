@@ -1,0 +1,40 @@
+Install Windows from Ubuntu
+https://www.wikihow.com/Install-Windows-from-Ubuntu
+
+0 - Creating a Primary NTFS Partition for Windows
+
+1 - Install Gparted if you haven't already.
+Install Gparted if you haven't already. Gparted is a free partition tool with a graphical user interface that's pretty easy to use. You can download it from the Software Center or by running sudo apt-get install gparted from the command line.
+- If you've already created a partition for Windows but it's not a Primary Partition, you'll have to create a new one.[1]
+- X
+- Research source
+- 
+- 
+- ;
+
+2 - Open Gparted.
+Open Gparted. You'll see a list of all drives and partitions.
+
+3 - Right-click the partition or drive you want to edit and select Resize_Move.
+Right-click the partition or drive you want to edit and select Resize/Move. This allows you to create a new partition from an existing one.
+
+4 - Enter the new partition size (in MB) into the "Free space following" blank.
+Enter the new partition size (in MB) into the "Free space following" blank. You should allocate at least 20 GB (20000 MB) for Windows 10. If you plan to install apps and use Windows regularly, you'll probably want to increase that amount.[2]
+- X
+- Research source
+
+5 - Select Primary Partition from the "Create as" menu.
+Select Primary Partition from the "Create as" menu. It's on the right side of the window.
+
+6 - Select ntfs from the "File System" menu.
+Select ntfs from the "File System" menu. It's on the right side of the window.
+
+7 - Type Windows10 into the "Label" field.
+Type Windows10 into the "Label" field. This is just so you can easily identify the partition.
+
+8 - Click Add.
+Click Add. It's at the bottom-right corner of the window.
+
+9 - Click the green check mark button.
+Click the green check mark button. It's in the toolbar at the top of Gparted. This creates the partition, which may take a little while. When the partition is ready, click Close at the bottom-right corner of the window.
+

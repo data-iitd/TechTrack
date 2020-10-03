@@ -1,0 +1,27 @@
+T1	Software-Other 152 162	VirtualBox
+A1	isInstalled T1 start-F
+T2	Software-Other 346 356	VirtualBox
+A2	isOpened T2 f->t
+T3	Software-Other 446 449	New
+A3	isOpened T3 f->t
+T4	Software-OS-Related 857 861	Type
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 996 1003	Version
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1212 1216	Next
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1694 1698	Next
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1993 1999	Create
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2009 2013	Next
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 2023 2027	Next
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 2074 2080	Create
+A11	isOpened T11 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+T12	Software-OS-Related 619 634	virtual machine
+A12	isSettingsChanged T12 true
+R2	SubPart Arg1:T5 Arg2:T12	
+R3	SubPart Arg1:T4 Arg2:T12	

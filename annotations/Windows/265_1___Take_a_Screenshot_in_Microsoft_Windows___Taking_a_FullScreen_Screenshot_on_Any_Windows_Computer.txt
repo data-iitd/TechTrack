@@ -1,0 +1,32 @@
+Take a Screenshot in Microsoft Windows
+https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows
+
+0 - Taking a Full-Screen Screenshot on Any Windows Computer
+
+1 - Go to the screen that you want to screenshot.
+Go to the screen that you want to screenshot. Before you can take a screenshot, you must make sure that the screen which you want to screenshot is up with no distractions (e.g., open windows or programs).;
+
+2 - Press the ⎙ Print Screen key.
+Press the ⎙ Print Screen key. It's typically found in the upper-right side of the keyboard, just right of the row of "Function" keys (e.g., F12) at the top of the keyboard. Pressing the Print Screen key will take a picture of the entire screen's contents.
+- The Print Screen key may be entitled "PrtSc" or something similar.
+- If your computer has an Fn key in the lower-left side of the keyboard, you might need to press Fn and ⎙ Print Screen at the same time.
+
+3 - Open Paint.
+Open Paint. This program comes installed on all Windows computers. To open it:;
+- Open Start 
+- On Windows 8, open Search
+- 
+- Click the search bar at the bottom of the Start menu.
+- Type in paint
+- Click Paint at the top of the Start window.
+- On Windows 8, Paint will be in the Search results.
+- For a Windows XP computer, click Start, select Programs, select Accessories, and click Paint.
+
+4 - Paste in the screenshot.
+Paste in the screenshot. Once the Paint window opens, press Ctrl+V to paste in the screenshot. You should see the screenshot appear in the Paint window.;
+
+5 - Save the screenshot.
+Save the screenshot. Press Ctrl+S, then enter a name for your screenshot, select a save folder on the left side of the window, and click Save.;
+- You can change the screenshot's file type by clicking the "Save as type" drop-down box at the bottom of the window and then clicking a different format (e.g., JPEG) in the drop-down menu.
+- The most common file types are JPG and PNG. The recommended format for screenshots is PNG, due to the high quality and small file size.
+

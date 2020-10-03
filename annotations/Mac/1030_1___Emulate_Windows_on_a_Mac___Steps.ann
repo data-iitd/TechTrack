@@ -1,0 +1,24 @@
+T1	Software-OS-Related 170 184	about this mac
+A1	isOpened T1 f->t
+T2	Software-Other 367 376	Apple.com
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-OS-Related 585 606	bootcampassistant.pkg
+A4	isOpened T3 f->t
+T4	Software-OS-Related 736 756	Boot Camp to install
+A5	isSettingsChanged T4 true
+T5	Software-OS-Related 1050 1081	Burn a Macintosh Drivers CD now
+A6	isOpened T5 f->t
+T6	Software-OS-Related 1018 1037	Boot Camp Assistant
+A7	isOpened T6 f->t
+T7	Software-OS-Related 1396 1406	Windows OS
+A8	isSettingsChanged T7 true
+T8	Software-OS-Related 1418 1436	Start Installation
+A9	isOpened T8 f->t
+T9	Hardware-Other 1996 2008	Windows disk
+T10	Hardware-Other 2057 2070	Mac Driver CD
+T11	Software-OS-Related 2529 2549	reboot your computer
+A10	isSettingsChanged T11 true
+R1	SubPart Arg1:T8 Arg2:T7	
+R2	SubPart Arg1:T5 Arg2:T6	
+R3	SubPart Arg1:T4 Arg2:T3	

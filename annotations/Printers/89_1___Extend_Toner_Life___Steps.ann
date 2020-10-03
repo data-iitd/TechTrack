@@ -1,0 +1,14 @@
+T1	Hardware-Devices 97 104	printer
+T2	Hardware-Other 261 268	chassis
+T3	Hardware-Devices 465 472	printer
+T4	Hardware-Devices 764 771	printer
+T5	Hardware-Other 592 600	computer
+T6	Hardware-Other 1045 1068	suggested type of paper
+T7	Hardware-Devices 1653 1660	printer
+T8	Hardware-Devices 2008 2015	printer
+T9	Hardware-Devices 2365 2372	printer
+T10	Hardware-Other 2505 2515	cartridges
+T11	Hardware-Other 2671 2686	toner cartridge
+T12	Hardware-Other 3043 3048	toner
+T13	Hardware-Other 2849 2859	paper clip
+T14	Hardware-Devices 3119 3126	printer

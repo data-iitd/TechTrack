@@ -1,0 +1,37 @@
+Add a Preferred Language on a Mac
+https://www.wikihow.com/Add-a-Preferred-Language-on-a-Mac
+
+0 - Steps
+
+1 - Click the Apple menu.
+Click the Apple menu. This is in the upper-left corner of the screen.
+- ;
+
+2 - Click the "System Preferences" option.
+Click the "System Preferences" option. If a menu other than the main System Preferences menu opens, click the "Show All" button at the top of the window. The button is a grid of 12 dots.
+
+3 - Click "Language & Region."
+Click "Language & Region."
+
+4 - Click "+" underneath the "Preferred languages" list.
+Click "+" underneath the "Preferred languages" list.
+
+5 - Click the language that you want to add.
+Click the language that you want to add.
+- Languages below the line in the list are not fully supported by macOS, and may not show in all menus and apps.
+
+6 - Click the "Add" button.
+Click the "Add" button.
+
+7 - Click the language you want to use as your primary.
+Click the language you want to use as your primary. You can choose to continue using your original language or select the new language.
+
+8 - Click "Add Input Source" if new input sources are available.
+Click "Add Input Source" if new input sources are available. If you added a language that uses a different keyboard layout than your own, you'll be asked if you want to add it to your input sources. You can skip this if you don't plan on typing in that language.
+
+9 - Click and drag a language to change the primary language.
+Click and drag a language to change the primary language. Moving a language to the top of the "Preferred languages" list will make it the default language.
+
+10 - Restart your Mac for your changes to take effect.
+Restart your Mac for your changes to take effect. Your language settings won't change in most menus and apps until your restart your computer.
+

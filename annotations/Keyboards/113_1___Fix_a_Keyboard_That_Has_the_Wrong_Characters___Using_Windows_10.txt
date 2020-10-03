@@ -1,0 +1,60 @@
+Fix a Keyboard That Has the Wrong Characters
+https://www.wikihow.com/Fix-a-Keyboard-That-Has-the-Wrong-Characters
+
+0 - Using Windows 10
+
+1 - Check the NumLock and Fn+NumLock keys.
+Check the NumLock and Fn+NumLock keys. Many laptops will convert a good chunk of the keyboard into a number pad if NumLock is enabled. Press "NumLock" or press "FN" + "NumLock" keys to make sure that it is disabled. Try typing again to see if your keys are fixed.[1]
+- X
+- Research source
+- 
+-  If this doesn't fix your problem, you may have the wrong language selected.
+- ;
+
+2 - Switch between your active keyboard layouts.
+Switch between your active keyboard layouts. If you have more than one keyboard layout installed, and you need more than one installed, you can change on the fly. There are two different ways to do this:
+- Click the Language button in your System Tray.  It has an abbreviation for your current language and keyboard layout. Then click the language you want to use. This only appears when you have more than one language or keyboard installed.
+- Press and hold the Windows button and press the Spacebar to cycle between your installed languages and keyboards.
+- If you need to install a different language, continue with this method.
+
+3 - Open your Windows Settings .
+Open your Windows Settings . You can do this by clicking Settings or the gear icon in the Start menu.
+
+4 - Click Time & language.
+Click Time & language. It's next to an icon that has a clock a character and a capital "A".  This opens the region settings menu for your computer.
+
+5 - Click Language.
+Click Language. It's in the sidebar to the left of the Time & Language menu.  It's next to an icon with a capital "A" and a character.  This opens the Language menu.  This allows you to set the languages installed on your computer from this menu.
+
+6 - Click the + icon.
+Click the + icon.  It's below "Preferred Languages" in the Language menu. This opens the Language installer.
+
+7 - Type your language in the search bar.
+Type your language in the search bar.  The search bar is at the top of the "Choose a language to install" window.  This displays all languages that match your search result.
+- Some may language may have more that one option for different regions.
+
+8 - Select a language and click Next.
+Select a language and click Next.  Click the language of your choice to select it and then click Next in the lower-right corner of the window.
+
+9 - Click Install.
+Click Install.  It's in the lower-right corner of the window.  This installs the language pack you chose.
+
+10 - Click your preferred default language.
+Click your preferred default language. If you have more than one language here, the incorrect one may be selected, causing your keyboard to perform incorrectly. Select the language you want to use as your default language and click the "Set as default" button.
+- Your display language will change to your new default language when you sign out and sign in.
+
+11 - Click your preferred language.
+Click your preferred language. All installed languages are listed below "Preferred Languages" in the Language menu.
+
+12 - Click the Up Arrow icon ↑ to move your language to the top of the list.
+Click the Up Arrow icon ↑ to move your language to the top of the list.  This moves your preferred language up in the list of languages.  The language at the top of the list below "Languages" is your default language.
+- Alternatively, you can click any languages you don't want to use and click Remove to uninstall them.
+
+13 - Click the Options button.
+Click the Options button. This will load the additional options for your installed language.  Here you can adjust the keyboard settings.
+
+14 - Click + and select your preferred keyboard layout.
+Click + and select your preferred keyboard layout. If your regular keyboard layout isn't listed, click the icon with a plus (+) sign below "Keyboards" in the sidebar to the left. Then click the keyboard layout you want to use. This adds the keyboard layout to your list of available keyboard layouts.  You can change active keyboard layouts by clicking the language icon in the taskbar (See Step 2.)
+- Keyboards that use a layout other than "QWERTY" will result in the wrong characters appearing when you hit the key for English languages.
+- Additionally, you can click a keyboard layout below "Keyboards" in the sidebar to the left and remove any keyboards you don't want to use.
+

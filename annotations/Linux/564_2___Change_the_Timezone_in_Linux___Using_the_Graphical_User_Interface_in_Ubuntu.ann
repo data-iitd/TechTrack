@@ -1,0 +1,18 @@
+T1	Software-OS-Related 153 164	System Menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 353 361	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 559 566	Details
+A3	isOpened T3 f->t
+T4	Software-OS-Related 761 772	Date & Time
+A4	isOpened T4 f->t
+T5	Software-OS-Related 863 882	Automatic Time Zone
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1072 1081	Time Zone
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1188 1197	time zone
+R2	SubPart Arg1:T7 Arg2:T6	
+T8	Software-OS-Related 1367 1373	window
+A8	isOpened T8 t->f
+A7	isSettingsChanged T5 true
+A5	isSettingsChanged T7 true

@@ -1,0 +1,46 @@
+Rename the User Folder on Windows
+https://www.wikihow.com/Rename-the-User-Folder-on-Windows
+
+0 - Editing the Profile Image Path
+
+1 - Open the Run window.
+Open the Run window. You can find and click Run on the Start menu, or press the ⊞ Win+R shortcut on your keyboard to open it.
+
+2 - Enter regedit in the Run window.
+Enter regedit in the Run window. Click the text field next to "Open:" in order to type.
+
+3 - Click OK in the Run window.
+Click OK in the Run window. This will open your Registry Editor in a new window.
+
+4 - Find and click the  icon next to HKEY_LOCAL_MACHINE on the left panel.
+Find and click the  icon next to HKEY_LOCAL_MACHINE on the left panel. It will reveal a list of all of this folder's sub-folders.
+
+5 - Click the  icon next to SOFTWARE.
+Click the  icon next to SOFTWARE.
+
+6 - Click the  icon next to Microsoft.
+Click the  icon next to Microsoft.
+
+7 - Click the  icon next to Windows NT.
+Click the  icon next to Windows NT.
+
+8 - Click the  icon next to CurrentVersion.
+Click the  icon next to CurrentVersion.
+
+9 - Click the  icon next to ProfileList.
+Click the  icon next to ProfileList. This folder contains a different sub-folder for each user account saved on your computer.
+
+10 - Find the correct sub-folder for the user you want to rename.
+Find the correct sub-folder for the user you want to rename. Open a sub-folder under ProfileList, and check the Data column next to ProfileImagePath. The Data column should indicate the folder directory for your user folder.
+- For example, if your user account's name is USER1 and your system files are stored on your C: drive, the Data column should read C:\Users\USER1.
+
+11 - Double-click the ProfileImagePath file.
+Double-click the ProfileImagePath file. This will open a new window titled Edit String.
+
+12 - Click and edit the username under the Value data heading.
+Click and edit the username under the Value data heading. The user account name here should match the new name of the user folder on your system drive.
+- For example, if you changed your user folder's name from USER1 to USER0, the directory here will still read C:\Users\USER1. Change it to C:/Users/USER0.
+
+13 - Click OK.
+Click OK. This will save your changes. You can now log out of this account, and log into your original user account with your new account name.
+

@@ -1,0 +1,30 @@
+T1	Software-OS-Related 122 132	calculator
+A1	isOpened T1 f->t
+T2	Hardware-Other 246 257	numeric pad
+T3	Hardware-Other 354 361	NumLock
+T4	Hardware-Other 376 387	numeric pad
+T5	Hardware-Other 472 473	8
+T6	Hardware-Other 475 476	4
+T7	Hardware-Other 478 479	6
+T8	Hardware-Other 485 486	2
+T9	Hardware-Other 487 491	keys
+T10	Hardware-Other 544 550	keypad
+T11	Hardware-Other 560 566	laptop
+T12	Hardware-Other 655 657	Fn
+T13	Hardware-Devices 779 787	keyboard
+T14	Hardware-Other 793 804	numeric pad
+T15	Hardware-Other 833 834	5
+T16	Hardware-Other 883 884	F
+T17	Hardware-Other 889 890	J
+T18	Hardware-Other 891 895	keys
+T19	Hardware-Other 988 989	4
+T20	Hardware-Other 1031 1032	6
+T21	Hardware-Other 1060 1061	0
+T22	Hardware-Other 1091 1092	↵
+T23	Hardware-Other 1179 1183	keys
+T24	Software-OS-Related 1224 1234	calculator
+T25	Hardware-Other 1408 1419	numeric pad
+T26	Hardware-Other 1455 1459	keys
+T27	Hardware-Other 1483 1484	/
+T28	Hardware-Other 1497 1498	*
+T29	Hardware-Other 1511 1512	-

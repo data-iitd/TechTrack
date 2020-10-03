@@ -1,0 +1,6 @@
+T1	Software-OS-Related 154 162	Settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 494 512	Wallet & Apple Pay
+A2	isOpened T2 f->t
+T3	Software-OS-Related 924 951	Add a Credit or Debit Card.
+A3	isSettingsChanged T3 true

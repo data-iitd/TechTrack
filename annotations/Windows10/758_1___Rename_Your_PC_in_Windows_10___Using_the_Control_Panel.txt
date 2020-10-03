@@ -1,0 +1,24 @@
+Rename Your PC in Windows 10
+https://www.wikihow.com/Rename-Your-PC-in-Windows-10
+
+0 - Using the Control Panel
+
+1 - Open the Control Panel.
+Open the Control Panel. Press and hold the Windows key and hit R. A small box will open in the lower left-hand corner of your screen. There should be an input box inside it. Type in control and hit Enter on your keyboard.
+
+2 - Open the System settings.
+Open the System settings. You should now be looking at the Control Panel and a series of 8 different options. Click the System and Security option in the upper left-hand corner of the window to open the System settings.
+
+3 - View the current PC name.
+View the current PC name. You should now be looking at a series of 11 or so different menu options. The third option down should be System, and under it, in blue, should be an option that says See the name of this computer. Click this and a new page should appear. On this page there is basic information about the PC split up into four different subheadings.
+
+4 - Look for Computer name, domain, and workgroup settings.
+Look for Computer name, domain, and workgroup settings. The very first option under the heading should say Computer name: and display the current name of the PC to the right of it. To the left of the name of the PC there should be a blue Change settings button. Click this to continue.
+
+5 - Rename the PC.
+Rename the PC. There should be a small window that opens with a series of five different tabs at the top. The current tab that is open is the one you want. There should be a button labeled Change inside the white box at the very bottom. Click this button. Another, even smaller, window will pop up with the top input box highlighted. The title above the input box will say Computer name. Enter a new name for your PC inside this box. Once you are done, click the OK button in the lower right-hand corner of the window.
+
+6 - Restart the PC.
+Restart the PC. You will be told that you will need to restart the PC before changes can take effect, and that you should save and close all programs before the restart begins. Click OK, then click the Close button in the other window. You will then be given two different buttons to choose from. Select Restart Now to restart, and after restarting, the PC will be renamed.
+- You can select Restart Later if you want to continue what you’re doing for now.
+

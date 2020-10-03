@@ -1,0 +1,53 @@
+Change Your Keyboard from US to UK (Windows XP)
+https://www.wikihow.com/Change-Your-Keyboard-from-US-to-UK-(Windows-XP)
+
+0 - Steps
+
+1 - Click the Start menu.
+Click the Start menu. It's usually at the bottom-left corner of the screen.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Click Run….
+Click Run…. It's near the bottom of the menu. The "Run" box will appear.
+
+3 - Type intl.cpl into the box and press ↵ Enter.
+Type intl.cpl into the box and press ↵ Enter. This opens the "Regional and Language Options" window.
+
+4 - Click the Languages tab.
+Click the Languages tab. It's the second tab at the top of the window.
+
+5 - Click Details.
+Click Details. This opens the "Text Services and Input Languages" window.
+
+6 - Click Add.
+Click Add. It's on the right side of the "Installed Services" list.[2]
+- X
+- Research source
+- 
+- "
+
+7 - Select English (United Kingdom) from the "Input language" menu.
+Select English (United Kingdom) from the "Input language" menu.
+
+8 - Select United Kingdom from the "Keyboard layout/IME" menu.
+Select United Kingdom from the "Keyboard layout/IME" menu.
+
+9 - Click OK.
+Click OK. This returns you to the "Text Services and Input Languages" window.
+
+10 - Select English (United Kingdom) from the "Default input language" menu.
+Select English (United Kingdom) from the "Default input language" menu. It's at the top of the window.
+
+11 - Click OK and then OK again.
+Click OK and then OK again. This saves your changes and adds the Language Bar to the taskbar, which says "EN."
+
+12 - Click the Language Bar.
+Click the Language Bar. It's the "EN" on the taskbar. A list of installed languages will appear.
+
+13 - Click English (United Kingdom).
+Click English (United Kingdom). You have now switched from US English to UK English.
+- Hover your mouse cursor over the Language Bar at any time to see which language you're using.
+

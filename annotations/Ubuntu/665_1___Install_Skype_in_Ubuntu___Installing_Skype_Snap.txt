@@ -1,0 +1,27 @@
+Install Skype in Ubuntu
+https://www.wikihow.com/Install-Skype-in-Ubuntu
+
+0 - Installing Skype Snap
+
+1 - Open Ubuntu Software.
+Open Ubuntu Software. On Ubuntu 16.04 and above it's super easy to install Skype from Ubuntu Software - the app store shipped in Ubuntu. On 14.04 you will need to use the terminal which is covered below.
+- ;
+
+2 - Search for Skype.
+Search for Skype. In Ubuntu Software, click the search icon in the top right, then type "Skype" in the search box.
+
+3 - Click Skype in the results.
+Click Skype in the results. A list of applications will appear. Click the familiar Skype icon.
+
+4 - Install the snap.
+Install the snap. Click the "Install" button at the top of the window. You may get prompted to type your password, because Ubuntu Software is making changes to your system.
+
+5 - Wait for the install to complete.
+Wait for the install to complete. Depending on your network connection, this may take a few moments. Wait for it to finish.
+
+6 - Launch Skype in Ubuntu Software.
+Launch Skype in Ubuntu Software. Once installed, you can launch Skype immediately from Ubuntu Software by clicking the "Launch" button.
+
+7 - Launch Skype.
+Launch Skype. Once you close Ubuntu Software, you should find Skype in the Ubuntu launcher.
+

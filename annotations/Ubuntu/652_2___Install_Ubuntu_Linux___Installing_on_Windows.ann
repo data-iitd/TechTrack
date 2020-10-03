@@ -1,0 +1,53 @@
+T1	Software-OS-Related 122 127	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 222 227	Power
+A2	isOpened T2 f->t
+T3	Software-OS-Related 346 353	Restart
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 548 583	Linux installation window to appear
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1218 1226	language
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1239 1247	Continue
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1385 1399	Install Ubuntu
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1532 1559	Preparing to install Ubuntu
+T9	Software-OS-Related 1578 1618	Download updates while installing Ubuntu
+A8	isSettingsChanged T9 true
+T10	Software-OS-Related 1633 1677	Install third-party software for graphics...
+A9	isSettingsChanged T10 true
+T11	Software-OS-Related 1741 1749	Continue
+A10	isOpened T11 f->t
+T12	Software-OS-Related 1864 1893	Erase disk and install Ubuntu
+A11	isSettingsChanged T12 true
+T13	Software-OS-Related 1975 1986	Install Now
+A12	isOpened T13 f->t
+T14	Software-OS-Related 2066 2074	Continue
+A13	isOpened T14 f->t
+T15	Software-OS-Related 2190 2205	Select a region
+A14	isSettingsChanged T15 true
+T16	Software-OS-Related 2218 2226	Continue
+A15	isOpened T16 f->t
+T17	Software-OS-Related 2412 2420	language
+A16	isSettingsChanged T17 true
+T18	Software-OS-Related 2382 2390	Continue
+A17	isOpened T18 f->t
+T19	Software-OS-Related 2558 2585	Enter your user information
+A18	isSettingsChanged T19 true
+T20	Software-OS-Related 3040 3061	Select a login option
+A19	isSettingsChanged T20 true
+T21	Software-OS-Related 3192 3200	Continue
+A20	isOpened T21 f->t
+T22	Software-OS-Related 3250 3257	Restart
+A21	isOpened T22 f->t
+T23	Software-OS-Related 3434 3447	Select Ubuntu
+A22	isOpened T23 f->t
+R4	SubPart Arg1:T8 Arg2:T7	
+R5	SubPart Arg1:T9 Arg2:T8	
+R6	SubPart Arg1:T10 Arg2:T8	
+R7	SubPart Arg1:T13 Arg2:T12	
+R8	SubPart Arg1:T12 Arg2:T7	
+R9	SubPart Arg1:T15 Arg2:T7	
+R10	SubPart Arg1:T19 Arg2:T7	
+R11	SubPart Arg1:T20 Arg2:T19	

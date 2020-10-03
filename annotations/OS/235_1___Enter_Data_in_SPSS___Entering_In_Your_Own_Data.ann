@@ -1,0 +1,27 @@
+T1	Software-Other 179 183	SPSS
+T2	Software-Other 271 280	Data View
+A1	isOpened T2 f->t
+T3	Software-Other 461 469	variable
+T4	Software-Other 767 775	variable
+T5	Software-Other 1048 1054	Active
+T6	Software-Other 1061 1067	Former
+T7	Software-Other 1117 1123	Labels
+A2	isOpened T7 f->t
+T8	Software-Other 1139 1154	Define Variable
+T9	Software-Other 1486 1496	empty cell
+T10	Software-Other 1574 1582	variable
+T11	Software-Other 1597 1601	cell
+T12	Software-Other 1827 1836	variables
+T13	Software-Other 1888 1898	empty cell
+T14	Software-Other 1944 1949	value
+T15	Software-Other 2369 2374	cases
+T16	Software-Other 2459 2462	row
+T17	Software-Other 2529 2537	variable
+T18	Software-Other 2612 2623	open column
+A3	isOpened T18 f->t
+T19	Software-Other 2670 2674	data
+T20	Software-Other 2783 2787	SPSS
+T21	Software-Other 2856 2880	Create a frequency table
+T22	Software-Other 2884 2909	Run a regression analysis
+T23	Software-Other 2913 2940	Run an analysis of variance
+T24	Software-Other 2944 2971	Create a scatter plot graph

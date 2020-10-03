@@ -1,0 +1,31 @@
+Speed Up a Slow Windows Computer for Free
+https://www.wikihow.com/Speed-Up-a-Slow-Windows-Computer-for-Free
+
+0 - Enable Fast Startup in Windows 10
+
+1 - Open Control Panel.
+Open Control Panel. Search for it in the Search bar, located near the bottom right corner of your screen.
+- Fast startup is a new Windows 10 feature, which speeds up the startup time on your computer.[2]
+- X
+- Research source
+
+2 - Click on "Power Options"
+
+Click on "Power Options"
+
+3 - Click on "Choose what the power buttons do"
+
+Click on "Choose what the power buttons do"
+
+4 - Click on "Change settings that are currently unavailable"
+
+Click on "Change settings that are currently unavailable"
+
+5 - Next scroll down to the Shutdown settings screen and check the "Turn on fast startup" option
+
+Next scroll down to the Shutdown settings screen and check the "Turn on fast startup" option
+
+6 - Now click on Save Changes
+
+Now click on Save Changes
+

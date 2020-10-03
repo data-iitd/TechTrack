@@ -1,0 +1,44 @@
+T1	Hardware-Other 176 181	mouse
+T2	Hardware-Devices 186 194	keyboard
+T3	Hardware-Other 583 588	mouse
+T4	Hardware-Devices 590 598	keyboard
+T5	Hardware-Other 607 615	computer
+T6	Hardware-Other 1064 1073	batteries
+T7	Hardware-Other 1218 1223	mouse
+T8	Hardware-Devices 1228 1236	keyboard
+T9	Hardware-Other 1439 1446	charger
+T10	Hardware-Other 1832 1840	USB chip
+T11	Hardware-Other 1862 1870	computer
+T12	Hardware-Other 1997 2002	mouse
+T13	Hardware-Devices 2011 2019	keyboard
+T14	Hardware-Other 2094 2097	USB
+T15	Hardware-Other 2114 2122	computer
+T16	Hardware-Devices 2259 2266	printer
+T17	Hardware-Other 2268 2279	flash drive
+T18	Hardware-Other 2281 2295	external drive
+T19	Hardware-Other 2395 2400	mouse
+T20	Hardware-Devices 2405 2413	keyboard
+T21	Software-OS-Related 2486 2503	operating systems
+T22	Hardware-Other 2614 2619	mouse
+T23	Hardware-Devices 2621 2629	keyboard
+T24	Hardware-Other 2635 2643	receiver
+T25	Hardware-Other 1711 1719	receiver
+T26	Hardware-Other 3171 3179	computer
+T27	Hardware-Other 3488 3497	USB ports
+T28	Hardware-Other 3563 3570	battery
+T29	Hardware-Other 3677 3689	USB receiver
+T30	Hardware-Devices 3710 3718	keyboard
+T31	Hardware-Other 3722 3727	mouse
+T32	Hardware-Other 4097 4102	cable
+T33	Hardware-Other 4241 4251	USB dongle
+T34	Hardware-Other 4270 4278	receiver
+T35	Hardware-Other 4357 4362	cable
+T36	Hardware-Other 4402 4407	mouse
+T37	Hardware-Devices 4411 4419	keyboard
+T38	Hardware-Other 4486 4491	plugs
+T39	Hardware-Other 4535 4543	computer
+T40	Hardware-Devices 4725 4733	keyboard
+T41	Hardware-Other 4737 4742	mouse
+T42	Hardware-Other 4976 4979	USB
+T43	Hardware-Other 5206 5211	mouse
+T44	Hardware-Devices 5216 5224	keyboard

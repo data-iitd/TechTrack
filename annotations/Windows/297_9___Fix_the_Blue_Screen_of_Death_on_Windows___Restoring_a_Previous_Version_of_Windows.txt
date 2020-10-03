@@ -1,0 +1,40 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Restoring a Previous Version of Windows
+
+1 - Restart your computer to the "Startup Options" screen.
+Restart your computer to the "Startup Options" screen. Click Start , click Power , and hold down ⇧ Shift while clicking Restart.
+- If you're already at this screen because your computer attempted and failed to restart several times, skip this step.
+
+2 - Click Troubleshoot.
+Click Troubleshoot. It's an image of a screwdriver and a wrench.
+
+3 - Click Advanced options.
+Click Advanced options. You'll find this on the "Troubleshoot" page.
+
+4 - Click System Restore.
+Click System Restore. It's on the left side of the "Advanced Options" page.
+
+5 - Wait for your computer to finish restarting.
+Wait for your computer to finish restarting. This may take several minutes.
+- You may need to log into your computer before proceeding.
+
+6 - Click Next.
+Click Next. It's at the bottom of the System Restore pop-up window.
+
+7 - Select a restore point.
+Select a restore point. Click a restore point that's set before today (e.g., before the Blue Screen of Death incident) to select it.
+- System restore points are usually created when you update or install a significant piece of software or hardware.
+- If you've never backed up your computer and you don't see a restore point here, try resetting Windows instead.
+
+8 - Click Next.
+Click Next.
+
+9 - Click Finish.
+Click Finish. It's at the bottom of the window. Doing so will prompt your computer to begin restoring the selected backup.
+
+10 - Wait for your computer to finish restoring.
+Wait for your computer to finish restoring. Once it does, you can resume using your computer as usual.
+- If the Blue Screen of Death reappears, you may need to restore an earlier backup.
+

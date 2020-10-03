@@ -1,0 +1,38 @@
+Install Ubuntu on VirtualBox
+https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
+
+0 - Installing Ubuntu
+
+1 - Double-click your virtual machine's name.
+Double-click your virtual machine's name. It's on the left side of the VirtualBox window. Doing so will open a menu.
+
+2 - Click the folder-shaped icon.
+Click the folder-shaped icon. This icon is in the lower-right side of the menu. A new window in which you can select the Ubuntu ISO will open.
+
+3 - Select your Ubuntu ISO.
+Select your Ubuntu ISO. Go to the folder into which the Ubuntu ISO file downloaded (e.g., Desktop), then click the ISO file to select it.
+
+4 - Click Open.
+Click Open. It's in the bottom-right corner of the window. Doing so opens the Ubuntu ISO file in VirtualBox.
+
+5 - Click Start.
+Click Start. This option is at the bottom of the menu. Ubuntu will begin running.
+
+6 - Click Install Ubuntu.
+Click Install Ubuntu. It's on the right side of the VirtualBox window.
+
+7 - Check both boxes on the "Preparing to install Ubuntu" page.
+Check both boxes on the "Preparing to install Ubuntu" page. This will ensure that everything Ubuntu needs to run will be installed.
+
+8 - Click Continue.
+Click Continue. It's in the bottom-right corner of the page.
+
+9 - Check the "Erase disk and install Ubuntu" box.
+Check the "Erase disk and install Ubuntu" box. This may sound scary, but don't worry—nothing on your computer will be erased.
+
+10 - Click Install Now.
+Click Install Now. It's in the bottom-right corner of the page.
+
+11 - Click Continue when prompted.
+Click Continue when prompted. This confirms that you understand that the virtual machine's virtual drive will be "erased" (there's nothing on it anyway) and begins the Ubuntu installation process.
+

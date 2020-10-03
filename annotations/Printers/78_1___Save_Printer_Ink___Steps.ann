@@ -1,0 +1,7 @@
+T1	Software-Other 229 237	document
+T2	Software-OS-Related 412 440	Fast Draft/EconoFast setting
+T3	Hardware-Devices 1359 1366	printer
+A1	isPowered T3 t->f
+A2	isUsed T3 true
+T4	Hardware-Other 1833 1836	ink
+T5	Hardware-Other 1840 1845	toner

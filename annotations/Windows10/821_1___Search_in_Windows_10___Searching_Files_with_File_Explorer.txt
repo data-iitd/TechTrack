@@ -1,0 +1,30 @@
+Search in Windows 10
+https://www.wikihow.com/Search-in-Windows-10
+
+0 - Searching Files with File Explorer
+
+1 - Press ⊞ Win+E to open the File Explorer.
+Press ⊞ Win+E to open the File Explorer. If you want to search your computer for  a specific file by title, date, size, or type, you can do so in the File Explorer.
+
+2 - Click This PC.
+Click This PC. It’s in the left panel. You may have to scroll down to find it.
+
+3 - Click the Search This PC box.
+Click the Search This PC box. It’s at the top-right corner of the File Explorer. The ″Search″ tab will now appear at the top of the app.
+
+4 - Select your search options.
+Select your search options. You can tell the File Explorer which files to search and which results to display by selecting your preferences on the Search tab.
+- If you want to find a file based on file type, date modified, size, or other properties, choose your desired options from the ″Refine″ panel near the center of the ″Search″ tab.
+- The File Explorer searches the Start menu, apps and app data, and your personal files by default. This is usually enough for most people. If you’re an advanced user and want to add additional folders to search, click Advanced options on the ″Options″ panel, click Change indexed locations at the top of the menu, and then click Modify. You can then choose other folders or drives to search.
+
+5 - Type your search word(s).
+Type your search word(s). Now that you’ve set your options, type what you’re looking for into the search bar near the top-right corner of the File Explorer. The search will start immediately.
+- Depending on the number of indexed files and what you’re searching for, it may take several minutes for all results to appear.
+
+6 - Sort your results.
+Sort your results. If you have a lot of search results, it can be helpful to view the results in a more detailed format. Click the View tab at the top of the File Explorer, and then click Details in the ″Layout″ tab (near the top-center).
+- To re-order the results based on name, date modified, size, or other information, click the column headers (Name, Date Modified, etc) above each column in the results.
+
+7 - Double-click a file in the results to open it.
+Double-click a file in the results to open it. Clicking a file will open it in the default file viewer or editor
+

@@ -1,0 +1,31 @@
+Do a System Restore
+https://www.wikihow.com/Do-a-System-Restore
+
+0 - Creating a Restore Point
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Type system restore into Start.
+Type system restore into Start. Doing so searches your computer for the restore point menu.
+
+3 - Click Create a restore point.
+Click Create a restore point. It's the monitor-shaped icon at the top of the window.
+
+4 - Click Create….
+Click Create…. This option is in the lower-right side of the System Restore window. A new window will open.
+
+5 - Enter a restore point name.
+Enter a restore point name. Click the text box in the middle of the window, then type in your restore point's name.
+- You don't have to enter a date or time, as System Restore will note the date and time at which the point is created.
+
+6 - Click Create.
+Click Create. It's below the text box. This will create your restore point, though the restore point may take a couple of minutes to create.
+
+7 - Click Close when prompted.
+Click Close when prompted. This is at the bottom of the window.
+
+8 - Click OK.
+Click OK. It's at the bottom of the System Restore window. Doing so will close the System Restore window. You can now proceed with restoring your computer whenever need be.
+

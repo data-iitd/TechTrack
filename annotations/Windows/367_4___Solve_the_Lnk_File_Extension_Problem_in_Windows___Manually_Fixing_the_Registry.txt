@@ -1,0 +1,69 @@
+Solve the Lnk File Extension Problem in Windows
+https://www.wikihow.com/Solve-the-Lnk-File-Extension-Problem-in-Windows
+
+0 - Manually Fixing the Registry
+
+1 - Click Start.
+Click Start. You can fix the problem either by restoring the registry key from another computer, or by manually replacing it on your own computer. To manually edit your registry, do the following:
+- Note that Windows 8 does not support the Start Menu feature. Here are tips on restoring the Start button in your Windows 8 PC.
+
+2 - Type “Regedt32.exe” into the search box.
+Type “Regedt32.exe” into the search box. This will bring up a list of files in the search menu.
+
+3 - Click on executable file.
+Click on executable file. This will open the file. Alternatively, right-click the program and then click “Open”.
+
+4 - Start the Registry Editor.
+Start the Registry Editor. Click Yes to start working with the registry editor.
+
+5 - Go to the subkey, HKEY_CLASSES_ROOT\.lnk.
+Go to the subkey, HKEY_CLASSES_ROOT\.lnk. Find the root file first. The .lnk folder will be listed under it.
+
+6 - Edit the existing file.
+Edit the existing file. Go to the Edit Menu.
+- To edit your registry via a different computer, click on the Edit menu.
+- Locate the .lnk file. Then click Delete. This will remove it.
+- Save your changes. Click the Registry menu. Hit the Save key to save your changes.
+- Copy the file onto a disk. Once you are done saving the changes, copy this entire file onto a disk or pen drive.
+- On your computer, recreate the registry key. Go to HKEY_CLASSES_ROOT, following the above-mentioned steps on your computer.
+
+7 - Click Add Key.
+Click Add Key.
+
+8 - Name the new key.
+Name the new key. Now type “.lnk” (without quotation marks) as the key name. Make sure to leave the Class box blank.
+
+9 - Edit the Add Value box.
+Edit the Add Value box. On the Edit menu, click Add Value. Leave the Value Name box blank.
+
+10 - Type “command” (without quotation marks).
+Type “command” (without quotation marks).
+
+11 - In the Data Type list, click REG_SZ.
+In the Data Type list, click REG_SZ.
+
+12 - In the String Editor box, type “lnkfile” (without quotation marks).
+In the String Editor box, type “lnkfile” (without quotation marks).
+
+13 - Click OK.
+Click OK.
+
+14 - Type “ShellNew” (without quotation marks).
+Type “ShellNew” (without quotation marks).  On the Edit menu, click Add Key. Then type “ShellNew”.
+- Make sure to leave the Class box empty.
+
+15 - Click REG_SZ in the Data name box.
+Click REG_SZ in the Data name box.
+
+16 - Type “RunDLL32 AppWiz.Cpl,NewLinkHere %1” (without quotation marks) as the string value.
+Type “RunDLL32 AppWiz.Cpl,NewLinkHere %1” (without quotation marks) as the string value.
+
+17 - Restore the registry.
+Restore the registry. Select the new key. Click Restore from the Registry. Then select the file that you saved on your disk or pen drive.
+
+18 - Restart your computer.
+Restart your computer. Press the “X” button on your Registry Editor. You will quit the program. Then reboot your computer to put your changes into effect.
+
+19 - Test your changes.
+Test your changes. Test a program menu or shortcut. If it works properly, your changes have been made successfully.
+

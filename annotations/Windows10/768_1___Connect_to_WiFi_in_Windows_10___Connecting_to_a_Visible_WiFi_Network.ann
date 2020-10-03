@@ -1,0 +1,15 @@
+T1	Hardware-Other 149 155	router
+T2	Software-OS-Related 1065 1070	Wi-Fi
+T3	Software-OS-Related 919 927	Settings
+A1	isOpened T3 f->t
+T4	Software-OS-Related 930 948	Network & Internet
+A2	isOpened T4 f->t
+T5	Software-OS-Related 951 956	Wi-Fi
+T6	Software-OS-Related 959 982	Show available networks
+T7	Software-OS-Related 1253 1265	network name
+T8	Software-OS-Related 1609 1623	Connect button
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1826 1830	Next
+A3	isOpened T9 f->t
+T10	Software-OS-Related 2539 2549	Disconnect
+A5	isSettingsChanged T10 true

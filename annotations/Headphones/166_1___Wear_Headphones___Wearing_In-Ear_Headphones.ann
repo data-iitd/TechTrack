@@ -1,0 +1,16 @@
+T1	Hardware-Devices 213 223	headphones
+T2	Hardware-Devices 240 248	ear buds
+T3	Hardware-Other 580 587	earlobe
+T4	Hardware-Other 606 609	tip
+T5	Hardware-Other 835 846	squishy tip
+*	Equiv T4 T5
+T6	Hardware-Other 863 870	speaker
+T7	Hardware-Other 1020 1027	earlobe
+T8	Hardware-Other 1115 1122	speaker
+T9	Hardware-Other 1699 1703	lobe
+T11	Hardware-Other 2039 2042	tip
+T13	Hardware-Other 2161 2172	rubber tips
+T15	Hardware-Other 2509 2513	foam
+T16	Hardware-Other 115 118	tip
+T18	Hardware-Other 1719 1726	speaker
+T14	Hardware-Devices 2193 2202	earphones

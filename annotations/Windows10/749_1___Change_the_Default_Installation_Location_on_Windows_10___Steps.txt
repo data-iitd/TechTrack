@@ -1,0 +1,26 @@
+Change the Default Installation Location on Windows 10
+https://www.wikihow.com/Change-the-Default-Installation-Location-on-Windows-10
+
+0 - Steps
+
+1 - Go to the Settings panel.
+Go to the Settings panel. Open the Start menu by clicking on the Windows icon and hit the Settings gear icon from the left side.
+- Alternatively, press ⊞ Win+I to quickly launch the Settings panel.
+- ;
+
+2 - Click on the System settings.
+Click on the System settings. It's the first option with a laptop icon.
+
+3 - Select the Storage option from the left panel.
+Select the Storage option from the left panel. It will be the sixth option in there.
+
+4 - Navigate to the “More storage settings” section.
+Navigate to the “More storage settings” section. Click on the Change where new content is saved option, under the More storage settings title.
+
+5 - Select a drive from the New apps will save to box.
+Select a drive from the New apps will save to box. Click on the This PC (C:) box and choose a drive from the list.
+- Make sure that your drive has the essential storage to install new apps in the future.
+
+6 - Click on the Apply button to save your changes.
+Click on the Apply button to save your changes. Now you can install Windows Store apps on your desired hard drive. Finished!
+

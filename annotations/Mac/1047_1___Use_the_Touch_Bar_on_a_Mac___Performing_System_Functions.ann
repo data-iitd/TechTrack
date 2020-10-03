@@ -1,0 +1,10 @@
+T1	Software-OS-Related 358 375	Brightness button
+T2	Software-OS-Related 537 550	volume button
+T3	Software-OS-Related 723 734	Mute button
+T4	Software-OS-Related 828 839	Siri button
+T5	Software-OS-Related 980 981	<
+A1	isSettingsChanged T1 true
+A2	isSettingsChanged T2 true
+A3	isSettingsChanged T3 true
+A4	isOpened T4 f->t
+A5	isOpened T5 f->t

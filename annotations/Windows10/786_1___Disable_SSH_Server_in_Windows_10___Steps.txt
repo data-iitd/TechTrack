@@ -1,0 +1,27 @@
+Disable SSH Server in Windows 10
+https://www.wikihow.com/Disable-SSH-Server-in-Windows-10
+
+0 - Steps
+
+1 - While on the desktop of your PC, press the Start key and 'R' at the same time.
+While on the desktop of your PC, press the Start key and 'R' at the same time.
+- ;
+
+2 - Wait for a run box to appear.
+Wait for a run box to appear. In the run box type services.msc and press ↵ Enter.
+
+3 - Wait for the run box to disappear and leave you with a window titled 'Services'.
+Wait for the run box to disappear and leave you with a window titled 'Services'.
+
+4 - In the Services window, scroll down the list until you see 'SSH Server Broker' and 'SSH Server Proxy.
+In the Services window, scroll down the list until you see 'SSH Server Broker' and 'SSH Server Proxy.' They are toward the end of the list.
+
+5 - Right click on 'SSH Server Broker' and then navigate to and click on Stop.
+Right click on 'SSH Server Broker' and then navigate to and click on Stop.
+
+6 - Wait for a small window to appear, asking you to select 'Yes' or 'No'.
+Wait for a small window to appear, asking you to select 'Yes' or 'No'. Click Yes.
+
+7 - Finished!
+Finished! Both 'SSH Server Broker' and 'SSH Server Proxy' should both be disabled. Now, your PC is no longer hosting a SSH Server.
+

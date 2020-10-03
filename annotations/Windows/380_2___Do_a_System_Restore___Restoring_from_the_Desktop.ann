@@ -1,0 +1,10 @@
+T1	Software-OS-Related 111 116	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 333 341	Recovery
+A2	isOpened T2 f->t
+T3	Software-OS-Related 482 501	Open System Restore
+A3	isOpened T3 f->t
+T4	Software-OS-Related 705 718	restore point
+T5	Software-OS-Related 964 970	Finish
+A4	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T3	

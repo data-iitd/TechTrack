@@ -1,0 +1,16 @@
+T1	Software-Other 175 202	samba file system utilities
+A1	isInstalled T1 f->t
+T2	Software-Other 438 482	Create a directory to use as the mount point
+T3	Software-Other 577 634	Edit the file system table to include the new mount point
+A3	isSettingsChanged T3 true
+T4	Software-Other 719 770	Append the following snippet to the end of the file
+A4	isSettingsChanged T4 true
+T5	Software-Other 1026 1039	Save and exit
+A5	isSettingsChanged T5 true
+T6	Software-Other 1247 1268	Reload the fstab file
+A6	isOpened T6 f->t
+R1	SubPart Arg1:T4 Arg2:T1	
+R2	SubPart Arg1:T2 Arg2:T1	
+R3	SubPart Arg1:T3 Arg2:T1	
+R4	SubPart Arg1:T5 Arg2:T1	
+A2	isSettingsChanged T2 true

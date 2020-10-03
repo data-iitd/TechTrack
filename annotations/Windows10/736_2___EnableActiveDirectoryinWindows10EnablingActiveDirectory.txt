@@ -1,0 +1,26 @@
+Enable Active Directory in Windows 10
+https://www.wikihow.com/Enable-Active-Directory-in-Windows-10
+
+0 - Enabling Active Directory
+
+1 - Open the Control Panel.
+Open the Control Panel. To do this, type control panel into the search bar, then click Control Panel in the search results.
+
+2 - Click Programs.
+Click Programs.
+
+3 - Click Turn Windows features on or off.
+Click Turn Windows features on or off. A dialog box will appear.
+
+4 - Scroll down and click + next to “Remote Server Administration Tools.
+Scroll down and click + next to “Remote Server Administration Tools.” A list of tools will expand.
+
+5 - Click the + next to “Role Administration Tools.
+Click the + next to “Role Administration Tools.”
+
+6 - Check the box next to “AD DS Tools.
+Check the box next to “AD DS Tools.” Windows will install some files and then prompt you to restart the computer.
+
+7 - Click Restart now.
+Click Restart now. The computer will turn off and then turn back on. When the computer comes back up, Active Directory tools will be accessible through the Windows Administrative Tools in the Start menu.
+

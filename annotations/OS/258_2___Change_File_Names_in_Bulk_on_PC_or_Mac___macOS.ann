@@ -1,0 +1,17 @@
+T1	Software-OS-Related 128 136	Finder  
+A1	isOpened T1 f->t
+T2	Software-OS-Related 144 147	Mac
+T3	Software-OS-Related 235 241	folder
+T4	Software-OS-Related 251 256	files
+T5	Software-OS-Related 347 352	files
+A2	isOpened T3 f->t
+T6	Software-OS-Related 566 572	folder
+T7	Software-OS-Related 646 652	Action
+T8	Software-OS-Related 710 723	Finder window
+A3	isOpened T7 f->t
+T9	Software-OS-Related 738 744	Rename
+T10	Software-OS-Related 810 816	Format
+T11	Software-OS-Related 1154 1167	Custom Format
+T12	Software-OS-Related 1576 1582	Rename
+A4	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T6	

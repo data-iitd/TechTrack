@@ -1,0 +1,28 @@
+T1	Software-OS-Related 580 587	Regedit
+A1	isOpened T1 f->t
+T2	Software-OS-Related 770 779	WPAEvents
+A2	isOpened T2 f->t
+T3	Software-OS-Related 475 478	Run
+A3	isOpened T3 f->t
+T4	Software-OS-Related 430 435	start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1023 1029	Modify
+A5	isOpened T5 f->t
+T6	Software-OS-Related 978 987	OOBETimer
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1215 1220	start
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1243 1246	Run
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1701 1719	Change Product Key
+A9	isOpened T9 f->t
+T10	Hardware-Devices 1999 2007	computer
+A10	isUsed T10 true
+T11	Software-OS-Related 2057 2062	start
+A11	isOpened T11 f->t
+T12	Software-OS-Related 2090 2093	Run
+A12	isOpened T12 f->t
+T13	Software-OS-Related 2419 2421	OK
+A13	isOpened T13 f->t
+T14	Software-Other 2478 2496	Windows XP Service
+A14	isInstalled T14 f->t

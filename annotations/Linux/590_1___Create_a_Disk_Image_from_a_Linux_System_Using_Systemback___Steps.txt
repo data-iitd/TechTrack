@@ -1,0 +1,44 @@
+Create a Disk Image from a Linux System Using Systemback
+https://www.wikihow.com/Create-a-Disk-Image-from-a-Linux-System-Using-Systemback
+
+0 - Steps
+
+1 - Install Systemback to your Linux system.
+Install Systemback to your Linux system. This can only be done by using the terminal, so open it up. The keyboard shortcut is Ctrl+Alt+T. Then copy the following commands into the space provided. You may be required to type in an administrative password.
+- 
+- sudo add-apt-repository ppa:nemh/systemback This command receives the repository of the software.
+- sudo apt-get update This command updates the repository list.
+- sudo apt-get install systemback This command downloads and installs your program.
+- ;
+
+2 - Launch Systemback.
+Launch Systemback. In the screenshot above, we are using Application Finder to launch Systemback.
+
+3 - Select Live system create.
+Select Live system create. If you wish to create a restore point before continuing, you can do that using Systemback.
+
+4 - Customize your image.
+Customize your image. In this window, you can select a custom name for your new “distribution”. You can also change the directory (where the file will be stored) in this window. When you have finished customizing, click Create new.
+
+5 - Try not to use programs and modify any system settings.
+Try not to use programs and modify any system settings. The process of creating your system image has begun. Depending on the size of your system, this process could take hours to complete.
+
+6 - Wait for your Live system creation to finish.
+Wait for your Live system creation to finish. When it does, the notification above will be displayed. Click OK to continue.
+
+7 - Convert your sblive file to an ISO.
+Convert your sblive file to an ISO. In the upper-right box, select the Live file you just created, and then click Convert to ISO.
+- This process will convert the sblive file to an ISO. Depending on the sblive file size, this process could take a while, but this process is much faster than creating the Live system itself.
+
+8 - After the conversion, exit Systemback.
+After the conversion, exit Systemback. Then open your file manager and open up your File System (Computer) → home. Your image file will be located here if you did not change the directory in step four.
+
+9 - Write your image file to a USB or DVD.
+Write your image file to a USB or DVD. In the screenshot above, I am using UNetbootin.
+- 
+- This article will guide you in writing your image to a USB.
+- This article will guide you in writing your image to a DVD.
+
+10 - Restart your system.
+Restart your system. When the bootscreen appears, repeatedly press F12, then select from the menu Boot From USB.
+

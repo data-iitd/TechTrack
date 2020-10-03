@@ -1,0 +1,5 @@
+T1	Software-OS-Related 208 214	Photos
+A1	isOpened T1 f->t
+T2	Software-OS-Related 899 906	folder.
+T3	Software-OS-Related 1673 1678	Apply
+A2	isSettingsChanged T3 true

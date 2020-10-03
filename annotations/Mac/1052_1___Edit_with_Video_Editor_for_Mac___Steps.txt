@@ -1,0 +1,27 @@
+Edit with Video Editor for Mac
+https://www.wikihow.com/Edit-with-Video-Editor-for-Mac
+
+0 - Steps
+
+1 - Add the Video File.
+Add the Video File. Click "Add File" button on the toolbar or "File> Add File" to load files.
+- ;
+
+2 - Edit the Video.
+Edit the Video. Trim video or Audio freely by setting the start time and end time, set segment length flexibly by just inputting duration time. You can trim audio clips from videos and save them to your phone as ringtones.
+
+3 - Crop the Video.
+Crop the Video. Remove black edge of your movie and get any playing area of the video by using its “Crop” function. set the screen size by keeping original, Full screen, 16:9, 4:3, etc.
+
+4 - Adjust Video Effect.
+Adjust Video Effect. Adjust the brightness, saturation and contrast of the video, or add some artistic effects like old film , Gray, Emboss, etc. to personalize your video. You can preview the changes when settings are done.
+
+5 - Merge:
+Merge: click "Merge into on file" checkbox on the bottom of main interface.
+
+6 - Choose format for saving output files.
+Choose format for saving output files. Choose the file, click the "Profile" drop-down button to choose the formats you need, you can also select the format according to your device, then click "Browse" to choose destination folder for saving the output files. If you want to customize the output quality, click the “Settings” button to open the advanced settings window, where you can set resolution, frame rate, video bit rate, audio bit rate, sample, etc.
+
+7 - Exporting(Saving the edited videos).
+Exporting(Saving the edited videos). When you are ready to save the edited videos, you only need to click "Start" button on the bottom of main interface to complete the editing task.
+

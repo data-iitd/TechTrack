@@ -1,0 +1,17 @@
+T1	Software-OS-Related 192 210	System Preferences
+A1	isOpened T1 f->t
+T2	Software-OS-Related 226 236	apple menu
+A2	isOpened T2 f->t
+T3	Software-OS-Related 322 334	Sharing icon
+A3	isOpened T3 f->t
+T4	Software-OS-Related 587 592	Start
+A4	isOpened T4 f->t
+T5	Software-OS-Related 835 852	Access Privileges
+A5	isOpened T5 f->t
+T7	Software-OS-Related 891 944	Check on VNC viewers may control screen with password
+A7	isSettingsChanged T7 true
+T6	Software-OS-Related 949 966	define a password
+A6	isSettingsChanged T6 true
+T8	Software-OS-Related 1032 1050	System Preferences
+A8	isOpened T8 t->f
+R1	SubPart Arg1:T7 Arg2:T3	

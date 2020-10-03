@@ -1,0 +1,26 @@
+T1	Software-OS-Related 142 152	Apple menu
+A1	isOpened T1 f->t
+T3	Hardware-Devices 229 236	screen.
+A3	isPowered T3 start-T
+T4	Software-OS-Related 280 298	System Preferences
+A4	isOpened T4 f->t
+T6	Software-OS-Related 536 544	Displays
+A6	isOpened T6 f->t
+T9	Software-OS-Related 665 673	Displays
+T11	Software-OS-Related 767 787	monitor's resolution
+A11	isSettingsChanged T11 true
+T12	Hardware-Devices 926 933	monitor
+T13	Software-OS-Related 1050 1059	Underscan
+A14	isSettingsChanged T13 true
+T14	Hardware-Devices 1147 1154	monitor
+T15	Hardware-Devices 1179 1185	screen
+*	Equiv T14 T15
+T17	Hardware-Devices 1404 1411	monitor
+T18	Software-OS-Related 1511 1526	Arrangement tab
+A20	isOpened T18 f->t
+T20	Software-OS-Related 1574 1589	Mirror Displays
+A22	isSettingsChanged T20 true
+R1	SubPart Arg1:T11 Arg2:T6	
+T2	Hardware-Devices 1326 1332	screen
+R2	SubPart Arg1:T20 Arg2:T18	
+R3	SubPart Arg1:T13 Arg2:T6	

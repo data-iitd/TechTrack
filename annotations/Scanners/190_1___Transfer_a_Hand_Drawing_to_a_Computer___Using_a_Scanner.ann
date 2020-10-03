@@ -1,0 +1,28 @@
+T1	Hardware-Devices 138 145	scanner
+T2	Hardware-Devices 230 238	printers
+A1	isPowered T1 start-T
+T3	Hardware-Other 360 367	drawing
+T4	Hardware-Devices 375 382	scanner
+T6	Hardware-Other 567 583	connection point
+T8	Hardware-Other 702 705	USB
+T11	Software-Other 755 767	Google Drive
+T13	Hardware-Other 786 793	drawing
+T15	Software-OS-Related 934 947	Image Capture
+T17	Software-OS-Related 960 964	Scan
+T19	Software-Other 1102 1108	google
+T20	Software-OS-Related 1326 1331	Color
+T21	Software-OS-Related 1387 1390	DPI
+T22	Software-OS-Related 1629 1640	File format
+T28	Software-Other 2068 2072	Gimp
+T9	Hardware-Other 707 711	WiFi
+A4	isOpened T15 start-T
+A5	isOpened T17 start-T
+A6	isSettingsChanged T20 true
+A7	isSettingsChanged T21 true
+A8	isSettingsChanged T22 true
+R1	SubPart Arg1:T20 Arg2:T15	
+R2	SubPart Arg1:T21 Arg2:T15	
+R3	SubPart Arg1:T22 Arg2:T15	
+*	Equiv T15 T17
+A3	isOpened T28 start-T
+A9	isInstalled T28 start-T

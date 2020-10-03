@@ -1,0 +1,27 @@
+Use Force Touch on a Mac
+https://www.wikihow.com/Use-Force-Touch-on-a-Mac
+
+0 - Enabling Force Click
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Trackpad.
+Click on Trackpad. It's in the center of the preferences window.
+
+4 - Click on Point & Click.
+Click on Point & Click. It's near the top of the dialog box.
+
+5 - Click on the checkbox next to "Look up & data detectors."
+Click on the checkbox next to "Look up & data detectors." Make sure the box is blue and contains a checkmark.
+
+6 - Click on the drop-down below the checkbox.
+Click on the drop-down below the checkbox.
+
+7 - Click on "Force click with one finger."
+Click on "Force click with one finger." You've now enabled Force Click on your Mac.
+

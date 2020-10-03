@@ -1,0 +1,27 @@
+Install the JDK (Java Development Kit) on a Mac
+https://www.wikihow.com/Install-the-JDK-(Java-Development-Kit)-on-a-Mac
+
+0 - Installing JDK
+
+1 - Visit the JDK download page.
+Visit the JDK download page. Open your web browser and visit oracle.com/downloads/index.html.
+- ;
+
+2 - Download the JDK installer.
+Download the JDK installer. Once you're on the Downloads page, you'll need to navigate to the installer files:
+- Click the "Java" option.
+- Click "Java SE."
+- Click the "Download" button next to "JDK 8 with NetBeans."
+- Select "Accept License Agreement" and then click the download link for "Mac OS X" in the top section. This is the most recent release of the Java SDK with the NetBeans development environment.
+
+3 - Double-click the downloaded installer.
+Double-click the downloaded installer. The installer is in .dmg format. Double-clicking it will open the installation interface.
+
+4 - Follow the prompts to install the JDK.
+Follow the prompts to install the JDK. You'll be asked to enter your administrator password before installation can proceed.
+
+5 - Delete the DMG file after installation (optional).
+Delete the DMG file after installation (optional). This will help you save on disk space, since you don't need it after the JDK has been installed.[1]
+- X
+- Research source
+

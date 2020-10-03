@@ -1,0 +1,24 @@
+Enable Developer Mode in Windows 10
+https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10
+
+0 - Enabling Developer Mode
+
+1 - Open the Settings app.
+Open the Settings app. Click the Start  button and select the  gear.
+
+2 - Navigate to the  Update & security category.
+Navigate to the  Update & security category.
+
+3 - Choose For developers from the left sidebar.
+Choose For developers from the left sidebar. This section offers exclusive development-based settings for software developers.
+
+4 - Switch to Developer mode".
+Switch to Developer mode". Choose the radio button next to "Developer mode".
+
+5 - Confirm the warning.
+Confirm the warning. A pop-up warning that says that enabling Developer mode and installing third-party apps from outside the Windows Store could expose personal information and device to security risks.
+- Do so by clicking the Yes button in the blue pop-up window.
+
+6 - Finished.
+Finished.
+

@@ -1,0 +1,20 @@
+T6	Hardware-Devices 624 634	headphones
+T11	Software-OS-Related 1236 1243	YouTube
+T12	Software-OS-Related 1694 1703	playlists
+A11	isOpened T12 f->t
+T16	Hardware-Other 2411 2416	phone
+T17	Software-Other 2478 2484	iTunes
+T15	Software-Other 2375 2386	burn-in app
+T18	Software-Other 2489 2500	Google Play
+T22	Hardware-Other 1359 1367	computer
+T23	Hardware-Devices 1529 1539	headphones
+A16	isPowered T23 start-T
+T3	Software-Other 938 952	audio software
+A1	isInstalled T3 start-T
+T1	Software-Other 1110 1117	YouTube
+A2	isOpened T1 f->t
+A3	isInstalled T1 start-F
+A4	isInstalled T15 start-F
+T2	Hardware-Devices 2707 2712	phone
+A5	isInstalled T17 start-T
+A6	isInstalled T18 start-T

@@ -1,0 +1,6 @@
+T1	Software-Other 120 127	DirectX
+A1	isOpened T1 f->t
+T2	Software-Other 542 549	DirectX
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1426 1445	video card’s driver
+A3	isSettingsChanged T3 true

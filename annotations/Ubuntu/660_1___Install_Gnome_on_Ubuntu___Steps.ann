@@ -1,0 +1,18 @@
+T1	Software-OS-Related 274 282	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 414 433	sudo apt-get update
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 863 904	sudo apt-get install ubuntu-gnome-desktop
+T4	Software-OS-Related 1877 1878	y
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 2101 2105	gdm3
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 2110 2117	lightDM
+A6	isSettingsChanged T6 true
+R1	SubPart Arg1:T2 Arg2:T1	
+A3	isOpened T3 f->t
+R2	SubPart Arg1:T4 Arg2:T3	
+R3	SubPart Arg1:T5 Arg2:T3	
+R4	SubPart Arg1:T6 Arg2:T3	
+T7	Software-OS-Related 2382 2389	Restart
+A7	isOpened T7 f->t

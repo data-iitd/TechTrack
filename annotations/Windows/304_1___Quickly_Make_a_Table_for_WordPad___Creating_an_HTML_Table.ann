@@ -1,0 +1,9 @@
+T1	Software-Other 140 147	WordPad
+A1	isOpened T1 f->t
+T2	Software-Other 1730 1734	File
+A2	isOpened T2 f->t
+T3	Software-Other 1747 1754	Save as
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 2414 2425	web browser
+A4	isOpened T4 f->t

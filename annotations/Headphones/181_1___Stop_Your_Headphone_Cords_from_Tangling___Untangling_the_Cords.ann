@@ -1,0 +1,11 @@
+T1	Hardware-Devices 152 162	headphones
+A1	isPowered T1 t->f
+T2	Hardware-Other 300 304	cord
+T3	Hardware-Other 415 422	earbuds
+T4	Hardware-Other 478 482	cord
+T5	Hardware-Other 636 639	pen
+T6	Hardware-Other 643 649	pencil
+T7	Hardware-Other 951 955	cord
+T8	Hardware-Other 1027 1030	tip
+T9	Hardware-Other 1208 1212	cord
+T10	Hardware-Other 1652 1656	cord

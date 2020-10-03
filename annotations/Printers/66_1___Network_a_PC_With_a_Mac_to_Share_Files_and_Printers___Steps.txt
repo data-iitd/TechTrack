@@ -1,0 +1,34 @@
+Network a PC With a Mac to Share Files and Printers
+https://www.wikihow.com/Network-a-PC-With-a-Mac-to-Share-Files-and-Printers
+
+0 - Steps
+
+1 - Before you proceed make sure you have IP setup in both windows PC and MAC system  and note down.
+Before you proceed make sure you have IP setup in both windows PC and MAC system  and note down.
+- ;
+
+2 - Make sure you have password set for windows system.
+Make sure you have password set for windows system.
+
+3 - Put the MAC and Windows PC in same work-group.
+Put the MAC and Windows PC in same work-group.
+
+4 - To setup work-group in MAC:
+To setup work-group in MAC: go to System preferences > network  and select the network adaptor. Click on advanced button on right pane, than select wins tab and type the same workgroup name as using in windows.
+
+5 - Create a folder in windows PC, to say "SHARED".
+Create a folder in windows PC, to say "SHARED".
+
+6 - Next part is to share a folder in MAC system
+
+Next part is to share a folder in MAC system
+
+7 - Open "System Preferences" by using Applications > System Preferences.
+Open "System Preferences" by using Applications > System Preferences.
+
+8 - Go to "Sharing" under "Internet & Network", and check the "File sharing".
+Go to "Sharing" under "Internet & Network", and check the "File sharing".
+
+9 - Under options of File sharing check "Share file and folder using SMB (Windows)".
+Under options of File sharing check "Share file and folder using SMB (Windows)".
+

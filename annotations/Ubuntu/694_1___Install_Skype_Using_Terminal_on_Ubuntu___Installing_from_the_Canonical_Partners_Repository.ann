@@ -1,0 +1,12 @@
+T1	Software-OS-Related 444 452	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 510 544	Enable Multiarch for 64-bit Ubuntu
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 829 876	Add the Canonical Partners repository to Ubuntu
+A3	isSettingsChanged T3 true
+T4	Software-Other 1284 1328	Skype from the Canonical Partners Repository
+A4	isInstalled T4 f->t
+T5	Software-Other 1738 1743	skype
+A6	isOpened T5 f->t
+R1	SubPart Arg1:T3 Arg2:T1	
+R2	SubPart Arg1:T2 Arg2:T1	

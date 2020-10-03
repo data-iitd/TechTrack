@@ -1,0 +1,47 @@
+Install Android on Ubuntu Linux with Eclipse IDE
+https://www.wikihow.com/Install-Android-on-Ubuntu-Linux-with-Eclipse-IDE
+
+0 - 
+
+1 - Download the Android SDK
+Download the Android SDK, click on the Linux tarball, android-sdk_r22-linux.tgz and save it to your  /home/"your_user_name"/Downloads directory, open up a terminal and run the following commands:
+- 
+- Type/Copy/Paste: cd /home/"your_user_name"/Downloads
+- this will change you into your Downloads directory
+- 
+- Type/Copy/Paste: sudo cp -r android-sdk_r22-linux.tgz  /opt
+- this will copy the android sdk to /opt
+- 
+- Type/Copy/Paste: cd /opt
+- this will change you into the Android working directory
+- 
+- Type/Copy/Paste: sudo tar xvzf android-sdk_r22-linux.tgz
+- this will unpack your Android SDK
+- 
+- Type/Copy/Paste: sudo -s chmod -R 755 /opt/android-sdk-linux
+- this will make the /opt directory and the Android SDK writable and executable for all users on the system.
+
+2 - When these steps are complete you will have Android SDK located at:
+When these steps are complete you will have Android SDK located at:/opt/android-sdk-linux on your Ubuntu Linux system.
+
+3 - Also, open up a terminal and add Android SDK to your system wide PATH on Ubuntu Linux
+
+Also, open up a terminal and add Android SDK to your system wide PATH on Ubuntu Linux
+- 
+- Type/Copy/Paste: sudo nano /etc/profile
+- or
+- Type/Copy/Paste: sudo gedit /etc/profile
+-  Add the following lines below to the end of the system PATH file
+- Type/Copy/Paste: export PATH=${PATH}:/opt/android-sdk-linux/tools
+- Type/Copy/Paste: export PATH=${PATH}:/opt/android-sdk-linux/platform-tools
+
+4 - Save the _etc_profile file and exit
+
+Save the /etc/profile file and exit
+
+5 - Reload your system PATH _etc_profile by issuing the following command
+
+Reload your system PATH /etc/profile by issuing the following command
+- Type/Copy/Paste: . /etc/profile
+- this informs the Linux system of the location of the Android SDK development tools
+

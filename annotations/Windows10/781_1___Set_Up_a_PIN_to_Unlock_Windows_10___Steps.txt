@@ -1,0 +1,40 @@
+Set Up a PIN to Unlock Windows 10
+https://www.wikihow.com/Set-Up-a-PIN-to-Unlock-Windows-10
+
+0 - Steps
+
+1 - Launch the Start menu.
+Launch the Start menu. Click the Start  button.
+- ;
+
+2 - Click your user profile icon.
+Click your user profile icon. It's on the left side of start, towards the bottom above the File Explorer  icon.
+
+3 - Choose Change account settings from the dropdown that appears.
+Choose Change account settings from the dropdown that appears. It's located at the top of the dropdown.
+- You can also go to "Settings > Accounts > Your info".
+
+4 - Select Sign-in options from the left pane.
+Select Sign-in options from the left pane.
+
+5 - Open the PIN creation window.
+Open the PIN creation window. Click the Add button under the "PIN" header. The window may take a few seconds to open.
+- You'll need to set an account password before using a PIN. This can be done by clicking the Add button under the "Password" header.
+
+6 - Confirm your account password and continue.
+Confirm your account password and continue. Type the current password used to unlock the account for your Windows device. Once complete, click the blue Sign in button towards the lower-right corner.
+
+7 - Wait to be signed in.
+Wait to be signed in. This may take a few seconds.
+
+8 - Set the PIN.
+Set the PIN. Enter the desired PIN into the top text box in the new window that just popped up. Confirm it by typing the same exact pin in the "Confirm PIN" text box.
+- Click the "PIN requirements" link to see what your PIN must conform to.
+- Make sure that you choose a PIN that you are going to remember.
+
+9 - Click the OK button.
+Click the OK button. It's to the left at the bottom of the window.
+
+10 - Finished.
+Finished.
+

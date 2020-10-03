@@ -1,0 +1,33 @@
+Turn Off Windows Defender in Windows 10
+https://www.wikihow.com/Turn-Off-Windows-Defender-in-Windows-10
+
+0 - Turning Off Windows Defender
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+- ;
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped Settings icon in the lower-left side of the Start menu. Doing so opens the Settings window.
+
+3 - Click  Update & Security.
+Click  Update & Security. It's in the bottom row of Settings options.
+
+4 - Click Windows Security.
+Click Windows Security. This tab is in the upper-left side of the window.
+
+5 - Click Virus & threat protection.
+Click Virus & threat protection. It's the first option below the "Protection areas" heading near the top of the page. Doing so opens the Windows Defender window.
+
+6 - Click Virus & threat protection settings.
+Click Virus & threat protection settings. You'll find this option in the middle of the page.
+
+7 - Disable Windows Defender's real-time scanning.
+Disable Windows Defender's real-time scanning. Click the blue "On" switch  below the "Real-time protection" heading, then click Yes when prompted. This will turn off the real-time scanning feature of Windows Defender.[1]
+- X
+- Research source
+- 
+- 
+- You can also disable Windows Defender's cloud-based protection by clicking the blue "On" switch below the "Cloud-delivered protection" heading and then clicking Yes when prompted.
+- Windows Defender will turn itself back on the next time you restart your computer.
+

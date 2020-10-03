@@ -1,0 +1,53 @@
+T1	Software-OS-Related 104 111	Back up
+T2	Hardware-Other 117 125	computer
+T3	Software-Other 339 362	Arch installation image
+T4	Software-OS-Related 403 413	Arch Linux
+T5	Software-Other 599 609	BitTorrent
+A1	isInstalled T5 start-T
+T6	Software-Other 642 677	https://www.archlinux.org/download/
+T7	Software-Other 613 621	uTorrent
+A2	isInstalled T7 start-T
+T8	Software-OS-Related 881 885	Burn
+T9	Software-Other 890 895	image
+T10	Hardware-Other 903 912	blank DVD
+T11	Hardware-Other 1303 1311	computer
+T12	Software-OS-Related 1343 1348	Start
+T13	Software-OS-Related 1357 1362	Power
+T14	Software-OS-Related 1375 1382	Restart
+A3	isOpened T12 f->t
+A4	isOpened T13 f->t
+T15	Software-OS-Related 1404 1407	Mac
+T16	Software-OS-Related 1434 1444	Apple menu
+A5	isOpened T16 f->t
+T17	Software-OS-Related 1453 1474	System Preferences...
+A6	isOpened T17 f->t
+T18	Software-OS-Related 1482 1489	Startup
+A7	isOpened T18 f->t
+T19	Software-OS-Related 1497 1511	External Drive
+A8	isOpened T19 f->t
+T20	Software-OS-Related 1542 1552	Restart...
+T21	Software-Other 708 720	Torrent link
+T22	Software-Other 776 783	torrent
+A9	isOpened T22 f->t
+T23	Software-Other 827 850	Arch Linux torrent file
+T24	Software-OS-Related 1658 1668	boot order
+T25	Hardware-Other 1624 1627	key
+T26	Software-OS-Related 2006 2024	primary boot drive
+T27	Software-OS-Related 1980 1998	installation drive
+T28	Software-OS-Related 2107 2116	DVD Drive
+T29	Software-OS-Related 2122 2132	Disk Drive
+T30	Software-OS-Related 2339 2347	Advanced
+A10	isOpened T30 f->t
+T31	Software-OS-Related 2366 2378	Boot Options
+A11	isOpened T31 f->t
+T32	Hardware-Other 2303 2306	PCs
+T33	Software-Other 2154 2168	Arch Linux DVD
+T34	Software-OS-Related 2415 2427	Boot Options
+A13	isOpened T34 t->f
+A12	isSettingsChanged T27 true
+R1	SubPart Arg1:T27 Arg2:T34	
+T35	Software-OS-Related 2691 2706	Boot Arch Linux
+T36	Software-OS-Related 2790 2810	Arch Linux installer
+A14	isOpened T36 f->t
+T37	Software-OS-Related 2848 2860	partitioning
+T38	Software-OS-Related 2866 2876	hard drive

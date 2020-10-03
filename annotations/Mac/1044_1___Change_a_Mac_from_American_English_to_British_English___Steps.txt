@@ -1,0 +1,28 @@
+Change a Mac from American English to British English
+https://www.wikihow.com/Change-a-Mac-from-American-English-to-British-English
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Language & Region.
+Click on Language & Region.
+
+4 - Click on +.
+Click on +. It's below the "Preferred Languages" window on the left side of the dialog box.
+
+5 - Click on English (U.K.).
+Click on English (U.K.).
+
+6 - Click on Add.
+Click on Add.
+
+7 - Click on Use English (U.K.).
+Click on Use English (U.K.). British English is now the primary language on your Mac.
+- If English (U.K.) already appears in the "Preferred Languages" window, simply drag it to the top of the list to make it your Mac's primary language.
+

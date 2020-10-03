@@ -1,0 +1,38 @@
+Adjust Colors on an LCD Monitor
+https://www.wikihow.com/Adjust-Colors-on-an-LCD-Monitor
+
+0 - Calibrate the LCD Color Monitor
+
+1 - Move the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, then select "Control Panel.
+Move the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, then select "Control Panel."
+
+2 - Click Appearance and Personalization>Display>Calibrate Color.
+Click Appearance and Personalization>Display>Calibrate Color.
+
+3 - Click "Next" when "Display Color Calibration" window appears.
+Click "Next" when "Display Color Calibration" window appears.
+
+4 - Follow the steps on the screen to adjust gamma, brightness, contrast, and color balance.
+Follow the steps on the screen to adjust gamma, brightness, contrast, and color balance. After modifying each item, select "Next" until every step is completed.
+
+5 - View the "You've successfully created a new calibration" page.
+View the "You've successfully created a new calibration" page.
+
+6 - Click the "Previous Calibration" button to view the screen before calibration.
+Click the "Previous Calibration" button to view the screen before calibration.
+
+7 - Click the "Current Calibration" button to view the screen with changes.
+Click the "Current Calibration" button to view the screen with changes.
+
+8 - Compare both calibrations and determine the option with the best appearance.
+Compare both calibrations and determine the option with the best appearance.
+
+9 - Select the "Finish" option to adopt the new calibration.
+Select the "Finish" option to adopt the new calibration.
+
+10 - Select "Cancel" to revert back to the old calibration.
+Select "Cancel" to revert back to the old calibration.
+
+11 - Finished.
+Finished.
+

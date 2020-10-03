@@ -1,0 +1,21 @@
+Install Ubuntu on VirtualBox
+https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
+
+0 - Downloading Ubuntu
+
+1 - Open the Ubuntu website.
+Open the Ubuntu website. Go to https://www.ubuntu.com/download/desktop in your computer's web browser. You can download the Ubuntu disk image (also known as an ISO file) here.
+- ;
+
+2 - Scroll down to the latest version of Ubuntu.
+Scroll down to the latest version of Ubuntu. You'll find it near the bottom of the page.
+
+3 - Click Download.
+Click Download. It's a green button to the right of your selected version of Ubuntu. Doing so takes you to the support page.
+
+4 - Scroll down and click Download Now.
+Scroll down and click Download Now. This link is in the bottom-left corner of the page.
+
+5 - Make sure that Ubuntu begins downloading.
+Make sure that Ubuntu begins downloading. The Ubuntu ISO should begin downloading immediately, but if it doesn't, you can click the download now link at the top of the page. While the Ubuntu ISO downloads, you'll have plenty of time to set up your virtual machine in VirtualBox.
+

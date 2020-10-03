@@ -1,0 +1,59 @@
+Block a Program with Windows Firewall
+https://www.wikihow.com/Block-a-Program-with-Windows-Firewall
+
+0 - Blocking a Program
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Open Firewall.
+Open Firewall. Type in Windows Defender Firewall, then click Windows Defender Firewall at the top of the Start window.
+
+3 - Click Advanced settings.
+Click Advanced settings. It's a link in the upper-left corner of the Windows Firewall window.
+
+4 - Click Outbound Rules.
+Click Outbound Rules. This tab is on the left side of the window.
+
+5 - Click New Rule….
+Click New Rule…. It's in the upper-right corner of the window. Doing so opens a new window in which you'll create your Firewall rule.
+
+6 - Check the "Program" box.
+Check the "Program" box. You'll find this option at the top of the page.
+
+7 - Click Next.
+Click Next. It's at the bottom of the window.
+
+8 - Select a program.
+Select a program. Before you can block a program, you'll need to select the program in order to find its path:
+- Check the "This program path" box and click Browse....
+- Click This PC on the left side of the window.
+- Scroll down and double-click your hard drive's name (e.g., OS (C:)).
+- Double-click the Program Files folder.
+- If the program you want to block is elsewhere, go to the program's folder instead.
+- Find the folder for your program, then double-click the folder.
+- Select the program file by clicking it once.
+
+9 - Copy the program's path.
+Copy the program's path. Click the address bar at the top of the window to select the path there, then press Ctrl+C to copy the path.
+- This is necessary because Windows will restructure the path to the file once you open the file in Firewall, thus breaking your outbound rule. You can bypass this problem by manually pasting in the path to the file.
+
+10 - Click Open.
+Click Open. It's in the bottom-right corner of the window.
+
+11 - Replace the path before the app's name with your copied one.
+Replace the path before the app's name with your copied one. Highlight the path in the "This program path" text box all the way up to the last backslash before the app's name, then press Ctrl+V to paste in your copied path.
+- For example, if you wanted to block Chrome in the path "C:\Program Files\Google\Application\chrome.exe", you would select all but the "\chrome.exe" section and replace it with your copied text.
+- Leaving the app's name and extension at the end of the path is crucial, as failing to do so will leave you with a rule that doesn't block anything.
+
+12 - Click Next three times.
+Click Next three times. This button is in the lower-right side of the window on each page. Doing so takes you to the final page.
+
+13 - Enter a name for your rule.
+Enter a name for your rule. Type whatever you want to name your rule into the top text box on the page.
+- For example, if you're blocking Google Chrome on your computer, you might name your rule "Chrome Block" here.
+
+14 - Click Finish.
+Click Finish. It's at the bottom of the window. Doing so saves and applies your rule; from now until you delete or disable the rule, your program will not be able to access the Internet.
+

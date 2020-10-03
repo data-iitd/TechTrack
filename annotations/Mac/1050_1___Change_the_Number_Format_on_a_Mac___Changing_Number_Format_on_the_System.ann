@@ -1,0 +1,23 @@
+T1	Software-OS-Related 183 193	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 314 332	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 379 396	Language & Region
+A3	isOpened T3 f->t
+T4	Software-OS-Related 578 586	Advanced
+A4	isOpened T4 f->t
+T5	Software-OS-Related 689 722	drop-down menu next to "Grouping.
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 765 774	separator
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 977 1008	drop-down menu next to "Decimal
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1052 1061	separator
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1239 1281	drop-down menu next to "Measurement Units.
+T10	Software-OS-Related 1337 1358	system of measurement
+A9	isSettingsChanged T9 true
+A11	isSettingsChanged T10 true
+R1	SubPart Arg1:T9 Arg2:T3	
+R2	SubPart Arg1:T7 Arg2:T3	
+R3	SubPart Arg1:T5 Arg2:T3	

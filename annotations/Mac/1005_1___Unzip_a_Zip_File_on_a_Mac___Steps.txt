@@ -1,0 +1,25 @@
+Unzip a .Zip File on a Mac
+https://www.wikihow.com/Unzip-a-.Zip-File-on-a-Mac
+
+0 - Steps
+
+1 - Open Spotlight Search by clicking on the magnifying glass on the top right corner.
+Open Spotlight Search by clicking on the magnifying glass on the top right corner.
+- ;
+
+2 - Drag the .zip file to your desktop.
+Drag the .zip file to your desktop.
+
+3 - Type in "Terminal" and open the application.
+Type in "Terminal" and open the application.
+
+4 - Type in "cd desktop" and click Enter.
+Type in "cd desktop" and click Enter.
+
+5 - Type in "unzip file name" and click enter again.
+Type in "unzip file name" and click enter again. Where the template say file name, type the full file name including the .zip
+- For example, if the file is titled "file.zip", type in cd desktop, click enter, type in unzip file.zip and click enter again.
+
+6 - A new unzipped file will appear on your desktop.
+A new unzipped file will appear on your desktop. Open it to explore.
+

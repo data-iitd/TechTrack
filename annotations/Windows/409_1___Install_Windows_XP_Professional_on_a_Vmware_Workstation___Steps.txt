@@ -1,0 +1,36 @@
+Install Windows XP Professional on a Vmware Workstation
+https://www.wikihow.com/Install-Windows-XP-Professional-on-a-Vmware-Workstation
+
+0 - Steps
+
+1 - Open VMware, left click on Add New Virtual Machine to bring up the new virtual machine wizard to start the process.
+Open VMware, left click on Add New Virtual Machine to bring up the new virtual machine wizard to start the process.
+- ;
+
+2 - Left click on the typical (recommended) install option's radio button.
+Left click on the typical (recommended) install option's radio button. Left click on the next button.
+
+3 - Left click on the Install Disc Image (ISO) radio button.
+Left click on the Install Disc Image (ISO) radio button. Left click on the browse button. Locate your Windows XP Professional ISO file and insert it in the option field.  Left click the next button.
+
+4 - Enter your Windows XP Product key.
+Enter your Windows XP Product key. Enter a password if you would like, though it is optional. Left click on the next button.
+
+5 - Name your virtual machine whatever you would like in the Virtual Machine Name Field.
+Name your virtual machine whatever you would like in the Virtual Machine Name Field. Left click the next button.
+
+6 - Specify the amount of hard drive space you want to give to the Virtual Machine.
+Specify the amount of hard drive space you want to give to the Virtual Machine. *40 gigabytes is the recommended size* Left click the next button.
+
+7 - Review the list of specifications for your virtual machine.
+Review the list of specifications for your virtual machine. Left click on the finish button. The machine will start the install.
+
+8 - Let the installation run and the installation will boot up to the windows desktop.
+Let the installation run and the installation will boot up to the windows desktop. Windows will prompt you to activate windows. Left click the "no" radio button.
+
+9 - Your Windows XP machine will restart to complete the installation.
+Your Windows XP machine will restart to complete the installation.
+
+10 - The machine will boot up to the user login screen if you provided a password, or directly to the windows desktop screen.
+The machine will boot up to the user login screen if you provided a password, or directly to the windows desktop screen. At this point you are ready to explore windows without fear of damaging your system.
+

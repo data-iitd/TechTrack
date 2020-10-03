@@ -1,0 +1,21 @@
+Set Up VNC on Mac OS X
+https://www.wikihow.com/Set-Up-VNC-on-Mac-OS-X
+
+0 - Mac OS X 10.5 - iChat Method
+
+1 - Open iChat using a .Mac account or Bonjour if both computers are on the same network.
+Open iChat using a .Mac account or Bonjour if both computers are on the same network.
+
+2 - Select your buddy in the main buddies list.
+Select your buddy in the main buddies list.
+
+3 - At the bottom of iChat is a Screen Sharing button that looks like two squares one over the other.
+At the bottom of iChat is a Screen Sharing button that looks like two squares one over the other.
+
+4 - Select either Share My Screen With <buddy> or Ask to Share <buddy>'s Screen.
+Select either Share My Screen With <buddy> or Ask to Share <buddy>'s Screen.
+
+5 - iChat takes care of the rest.
+iChat takes care of the rest.
+- To end the session press [Command]+[Esc] on either computer.
+

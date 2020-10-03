@@ -1,0 +1,20 @@
+Pin a Program to the Windows 10 Taskbar
+https://www.wikihow.com/Pin-a-Program-to-the-Windows-10-Taskbar
+
+0 - Pinning a Program to the Taskbar from the Start Menu
+
+1 - Click the Start button.
+Click the Start button. It is located at the bottom of the left side of your Desktop. Click it to open the Start menu.
+
+2 - Locate the program you want to pin.
+Locate the program you want to pin. If the program you want is not on the Most Used list or the Recently Added list, click or tap “All apps” at the bottom of the left pane of the Start menu. When you click “All apps,” a directory tree appears with an alphabetical list of all available programs or program folders.
+
+3 - Right-click (or press and hold) the program you want.
+Right-click (or press and hold) the program you want. When you right-click on a program, a context menu appears beside the program which gives five options: “Pin to Start” (or “Unpin from Start” if the app is already set up as a tile), “More” and “Uninstall,”
+
+4 - Hover over More.
+Hover over More.
+
+5 - Choose “Pin to taskbar” from the context menu.
+Choose “Pin to taskbar” from the context menu. The icon on the program will then appear in the Taskbar. You can now launch the program quickly by clicking/tapping the pinned icon on the Taskbar.
+

@@ -1,0 +1,30 @@
+T1	Hardware-Other 157 165	document
+T2	Hardware-Other 261 265	tray
+T3	Hardware-Devices 308 315	scanner
+A1	isPowered T3 start-T
+T4	Hardware-Other 337 340	lid
+T5	Hardware-Other 356 361	paper
+T6	Hardware-Other 369 374	glass
+T7	Hardware-Other 420 426	manual
+T8	Hardware-Other 508 516	document
+T10	Hardware-Other 570 581	Scan button
+T11	Hardware-Devices 599 606	scanner
+T12	Hardware-Other 631 639	computer
+T15	Software-Device-Drivers 842 858	Control Center 3
+T18	Hardware-Other 992 1005	scanner glass
+T19	Hardware-Other 1013 1044	automatic document feeder (ADF)
+T21	Hardware-Other 1135 1138	ADF
+T22	Hardware-Other 1189 1197	document
+T23	Hardware-Other 1205 1230	automatic document feeder
+*	Equiv T21 T23
+T24	Hardware-Other 1350 1354	page
+T25	Hardware-Other 1362 1375	scanner glass
+T26	Hardware-Other 1401 1404	ADF
+T27	Hardware-Other 1498 1501	lid
+T28	Hardware-Devices 1724 1734	HP scanner
+T30	Software-Other 1940 1956	add another page
+T31	Software-Other 1964 1976	scan preview
+T32	Hardware-Devices 2031 2039	scanners
+T33	Hardware-Other 2103 2111	document
+T34	Hardware-Other 2119 2124	glass
+A2	isInstalled T15 start-T

@@ -1,0 +1,106 @@
+Transfer OS to SSD on PC or Mac
+https://www.wikihow.com/Transfer-OS-to-SSD-on-PC-or-Mac
+
+0 - On Windows
+
+1 - Back up your old hard drive.
+Back up your old hard drive.  Before you begin the process of transferring your Windows installation to a new SSD, it's recommended that you backup your hard drive.  This protects your files in case something goes wrong.  You may also need to remove some files from your current hard drive so that it fits on a new SSD.  Read "How to Back Up A Computer" to learn more about how to back up the files on your computer.
+- ;
+
+2 - Install your SSD.
+Install your SSD.  The way you install a new hard drive varies depending on the make and model of your computer.  Read "How to Install an SSD into a Desktop Computer" or "How to Install an SSD in Your Laptop" to learn more about how to install an SSD.
+- If your computer doesn't have space for two hard drives, you will need to purchase a kit that allows you to connect your SSD externally.
+
+3 - Remove files from your current drive (if needed).
+Remove files from your current drive (if needed).  SSDs often have much smaller storage space than traditional hard disk drives (HDD).  In order to clone your current hard drive to an SSD, it may be necessary to remove files so that the contents of your current hard drive can fit on your new SSD.  If you backed up your old hard drive, you can transfer files you remove back to your old hard drive after the cloning process is complete.
+
+4 - Defrag your old hard drive (optional).
+Defrag your old hard drive (optional).  Defragging your hard drive makes it easier for your computer to read your hard drive.  This can speed up the cloning process.  Read "How to Defragment a Disk on a Windows Computer" to learn how to defrag your hard drive.
+
+5 - Go to https:__www.macrium.com_reflectfree.
+Go to https://www.macrium.com/reflectfree.  Macrium Reflect is a tool you can download to help you clone your hard drive.  It's free for home use.
+
+6 - Download and Install Macrium Reflect.
+Download and Install Macrium Reflect.  Use the following steps to download Macrium Reflect.
+- Click Home Use on the webpage.
+- Click the "ReflectDLHF.exe" file in your web browser or Downloads folder.
+- Click Download in the install wizard
+- Click Yes to allow Macrium to make changes to your device.
+- Click Next.
+- Click "I agree to the terms in the License Agreement" and click Next
+- Click Home and click Next.
+- Type your name and email and click Next.
+- Click Next.
+- Click Install.
+- Click Finish.
+
+7 - Open Macrium Reflect.
+Open Macrium Reflect.  Macrium Reflect will open automatically after the installation finishes.  If you need to open it at a later date, it's the app that has a white circle icon with two blue curved arrows.
+- If asked to create a rescue media, click No if you already backed up your hard drive.  If you have not backed up your hard drive, click Yes and follow the instructions.
+
+8 - Click the checkbox  next to the hard drive with your Windows Installation.
+Click the checkbox  next to the hard drive with your Windows Installation.  Macrium Reflect displays all the hard drives you have installed on your computer.  All drive partitions are listed in the same row.  Click the checkbox to the left of the row to select all partitions for the hard drive.
+
+9 - Click Clone this disk.
+Click Clone this disk.  It's below the hard drive you selected and to the right.  This opens another window that will assist you in cloning the drive.
+
+10 - Click Select a disk to clone to.
+Click Select a disk to clone to.  The Clone window displays the source drive in the box at the top.  You can click the checkbox in each partition to select which partitions you want to include in the clone.  The box on the bottom is for the destination drive.  Click "Select a disk to clone to" to open a list of drives to select as your destination drive.
+
+11 - Select the your new SSD and click Next.
+Select the your new SSD and click Next.    Your new SSD should be listed as a blank drive.  If your not sure which drive is the new drive, check how much hard drive space your new SSD has and click the drive with roughly the same amount of hard drive space.  Click Next when you are ready to continue.
+
+12 - Add a schedule, or click Next.
+Add a schedule, or click Next.  Since Cloning a hard drive can take a while, Macrium Reflect gives you the option to schedule a time for you to clone your drive.  If you wish to do this, click Add Schedule and follow the directions to create a schedule.  Otherwise, click Next to proceed immediately.
+
+13 - Click Finish.
+Click Finish.  This screen displays all the partitions that are going to be copied over to the new SSD.  Click Finish at the bottom of Macrium Reflect to proceed.
+
+14 - Click Ok.
+Click Ok.  This begins the cloning process.  This may take several hours to complete.[1]
+- X
+- Research source
+
+15 - Restart your computer.
+Restart your computer.  After you finish cloning your hard drive, you will need to change the boot drive order in the BIOS.  That way your computer will boot off the new SSD, instead of the old hard drive.  Restart your computer to boot into the BIOS. Use the following steps to restart your computer.
+- Click the Windows Start button.
+- Click the icon that has a circle with a line through the top.
+- Click Restart.
+
+16 - Boot into the BIOS.
+Boot into the BIOS. Enter your computer BIOS while your computer boots up by pressing the BIOS key during the startup process.  Typically your hold "ESC" or hold one of the Function (F of Fn) keys while your computer boots up.  Check online, or consult your computer's manual to learn how to enter the BIOS for your computer.  Read How To Change Computer BIOS Settings to learn more.
+
+17 - Access the "Boot" section of the BIOS.
+Access the "Boot" section of the BIOS. Select the "Boot" or "Boot Order" section of the BIOS menu. If you don't have mouse capability, use the arrow keys on your keyboard to navigate to the Boot section of the BIOS menu and press "Enter".
+- If you see a Boot menu, select <Enter Setup> and press "Enter".[2]
+- X
+- Research source
+
+18 - Move the new SSD above the old hard drive.
+Move the new SSD above the old hard drive.  This tells your computer to boot off the new SSD before booting off the old hard drive.  To change the boot order, navigate to the SSD in the list of drives, and press the + button to move it up in the list of drives.  Place the new SSD above the old hard drive, but below the USB and CD-Rom drives.
+
+19 - Press F10.
+Press F10.  This saves the configuration and reboots your computer.  When your computer restarts, you will have two drives with identical contents.
+- Note:  The BIOS menu may look different from one computer to another.  Look for on-screen instructions and menus to properly navigate the BIOS menu.
+
+20 - Right-click the Windows Start .
+Right-click the Windows Start .  This displays a pop-up menu next to the Start menu.
+
+21 - Click Disk Management.
+Click Disk Management.  This opens the Disk Management app.  This displays all hard drives installed on your computer.  You should see both the new SSD and old hard drive with identical contents.
+
+22 - Right-click the old hard drive.
+Right-click the old hard drive.  This displays a pop-up menu next to the hard drive.
+
+23 - Click Format.
+Click Format.  This will erase everything on the hard drive so you can use the entire drive as storage space.
+
+24 - Type a new label for the drive (optional).
+Type a new label for the drive (optional).  If you want to assign a new label to the hard drive, type it in the box labeled "Volume label:".  For example, you could name it "Data Drive" or "Storage Space"
+
+25 - Click Ok.
+Click Ok.  This displays a confirmation pop-up telling you that this will erase the entire drive.
+
+26 - Click Ok.
+Click Ok.  This erases the entire drive and leaves you with a new SSD with your Windows installation, and your old hard drive as a back up drive for storage space.
+

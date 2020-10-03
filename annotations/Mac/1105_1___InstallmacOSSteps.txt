@@ -1,0 +1,48 @@
+Install macOS
+https://www.wikihow.com/Install-macOS
+
+0 - Steps
+
+1 - Turn on or reboot your Mac.
+Turn on or reboot your Mac. You will access recovery utility this way.
+- Your computer needs access to the internet if you do not have a local copy of macOS.[1]
+- X
+- Research source
+- 
+- 
+- ;
+
+2 - Press and hold ⌘ Cmd+R right away.
+Press and hold ⌘ Cmd+R right away. This key combination tells your Mac to reinstall the same version of macOS that was already installed. If you're hoping for a different version, check out these alternatives:
+- To upgrade your macOS to the most current OS that is compatible with your Mac, press ⌥ Opt+⌘ Cmd+R. For example, a Mac from early 2012 will not be compatible with macOS 10.15, Catalina.[2]
+- X
+- Research source
+- 
+- 
+- To install the macOS your Mac came with, no matter how out-dated, press ⇧ Shift+⌥ Opt+⌘ Cmd+R. If you didn't have 10.12.14, Sierra, this key combination will not work.
+- If you've never installed 10.12.14 (Sierra), using ⌘ Cmd+R will install the OS without tying it to your Apple ID. Use this key combination to erase your drive before giving it to someone else.[3]
+- X
+- Research source
+
+3 - Release the keys when you see the Apple logo .
+Release the keys when you see the Apple logo . You might see a spinning globe or a prompt for you to enter a firmware password.[4]
+- X
+- Research source
+
+4 - Choose if you want to erase your disk.
+Choose if you want to erase your disk. Be warned that this will erase your disk and you will lose all information on your computer. You can also opt to "Restore from Time Machine Backup" if you don't want to lose everything.[5]
+- X
+- Research source
+
+5 - Click to select Reinstall macOS.
+Click to select Reinstall macOS. This will reinstall the macOS but will keep your files and user settings intact.
+
+6 - Click Continue.
+Click Continue. You will start the process of reinstalling macOS.
+
+7 - Follow the on-screen instructions to install macOS.
+Follow the on-screen instructions to install macOS. This includes selecting where to install the OS.
+- Please do not put your Mac to sleep or close its lid during the installation process. You might see your Mac restart a few times, show a blank screen, and show a few progress bars, but that does not mean installation is done.[6]
+- X
+- Research source
+

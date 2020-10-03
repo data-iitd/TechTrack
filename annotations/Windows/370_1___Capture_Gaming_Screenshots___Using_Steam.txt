@@ -1,0 +1,39 @@
+Capture Gaming Screenshots
+https://www.wikihow.com/Capture-Gaming-Screenshots
+
+0 - Using Steam
+
+1 - Start Steam.
+Start Steam. Using Steam to take screenshots is the easiest way if you're already playing the game on Steam. Steam has a built-in screenshot function that you can use for any Steam game. If you don't use Steam to play games, see the method for using MSI Afterburner.
+- You can find Steam in the All Apps section of your Start menu or screen in Windows. On Mac computers, you'll find Steam in the Applications folder. In most Linux distributions, Steam will be listed in the Applications menu.
+- ;
+
+2 - Click the "Steam" menu and select "Settings."
+Click the "Steam" menu and select "Settings." This will display the Steam settings menu.
+
+3 - Click the "In-Game" tab.
+Click the "In-Game" tab. This will display settings for the Steam overlay.
+
+4 - Click the "Screenshot shortcut keys" field.
+Click the "Screenshot shortcut keys" field. This will allow you to set a new key for screenshots. By default, it is F12.
+
+5 - Press the key or combination you want to use.
+Press the key or combination you want to use. You can press a single key, or hold Ctrl/⌘ Command, Alt/⌥ Opt, or ⇧ Shift and then press a key to create a combination.
+
+6 - Click the "Screenshot Folder" button.
+Click the "Screenshot Folder" button. This will let you change the location that your screenshots are saved. Select the folder that you want to use.
+
+7 - Choose your other screenshot options.
+Choose your other screenshot options. You can have Steam show a notification, play a sound, and save an uncompressed copy. The uncompressed copy will be an exact replica of your screen in the game, but the file size will be much larger.
+
+8 - Click "OK" to save your changes.
+Click "OK" to save your changes. You'll be able to take screenshots with your new settings.
+
+9 - Start the game you want to take screenshots of.
+Start the game you want to take screenshots of. You can use the screenshot key for any of the games you play in Steam.
+
+10 - Take a screenshot while you're playing.
+Take a screenshot while you're playing. Press the key or combination you set to take your screenshot. If you enabled notifications, you'll hear or see it immediately.[1]
+- X
+- Research source
+

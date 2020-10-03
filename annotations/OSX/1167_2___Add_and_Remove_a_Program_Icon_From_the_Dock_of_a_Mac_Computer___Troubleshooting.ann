@@ -1,0 +1,63 @@
+T1	Software-OS-Related 203 224	Restart your computer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 675 687	Applications
+A2	isOpened T2 f->t
+T3	Software-OS-Related 690 699	Utilities
+A3	isOpened T3 f->t
+T4	Software-OS-Related 709 725	Activity Monitor
+A4	isOpened T4 f->t
+T5	Software-OS-Related 847 851	name
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 868 871	"X"
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1240 1258	System Preferences
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1302 1309	account
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 1355 1359	lock
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1451 1456	Other
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1475 1511	Prevent the Dock from being modified
+A11	isSettingsChanged T11 true
+T12	Software-OS-Related 1517 1551	Allow this user to modify the Dock
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 1032 1049	parental controls
+R1	SubPart Arg1:T11 Arg2:T13	
+R2	SubPart Arg1:T12 Arg2:T13	
+R3	SubPart Arg1:T6 Arg2:T4	
+T14	Software-OS-Related 1980 1992	Applications
+A13	isOpened T14 f->t
+T15	Software-OS-Related 1995 2004	Utilities
+A14	isOpened T15 f->t
+T16	Software-OS-Related 2014 2026	Disk Utility
+A15	isOpened T16 f->t
+T17	Software-OS-Related 2043 2053	hard drive
+A16	isSettingsChanged T17 true
+T18	Software-OS-Related 2085 2094	First Aid
+A17	isOpened T18 f->t
+T19	Software-OS-Related 2146 2162	Disk Permissions
+A18	isSettingsChanged T19 true
+R4	SubPart Arg1:T19 Arg2:T16	
+T20	Software-OS-Related 2577 2589	Applications
+A19	isOpened T20 f->t
+T21	Software-OS-Related 2592 2601	Utilities
+A20	isOpened T21 f->t
+T22	Software-OS-Related 2611 2619	Terminal
+A21	isOpened T22 f->t
+T23	Software-OS-Related 2689 2747	com.apple.dock contents-immutable -bool false;killall Dock
+A22	isSettingsChanged T23 true
+T24	Software-OS-Related 3071 3083	Applications
+A23	isOpened T24 f->t
+T25	Software-OS-Related 3086 3095	Utilities
+A24	isOpened T25 f->t
+T26	Software-OS-Related 3105 3113	Terminal
+A25	isOpened T26 f->t
+T27	Software-OS-Related 3157 3201	defaults delete com.apple.dock; killall Dock
+A26	isSettingsChanged T27 true
+T28	Software-Other 3413 3431	antivirus software
+A27	isInstalled T28 f->t
+T29	Software-Other 3451 3461	hard drive
+A28	isSettingsChanged T29 true
+T30	Software-Other 3490 3517	malware causing the problem
+A29	isSettingsChanged T30 true

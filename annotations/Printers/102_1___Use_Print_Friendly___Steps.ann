@@ -1,0 +1,6 @@
+T1	Software-Other 363 380	printfriendly.com
+T2	Software-Other 547 560	print preview
+A1	isOpened T2 f->t
+T3	Software-Other 1253 1257	undo
+T4	Software-Other 1279 1292	remove images
+T5	Hardware-Devices 1449 1457	computer

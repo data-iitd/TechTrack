@@ -1,0 +1,43 @@
+Make Your Computer Welcome You
+https://www.wikihow.com/Make-Your-Computer-Welcome-You
+
+0 - Steps
+
+1 - Press 'Windows+R' from your keyboard.
+Press 'Windows+R' from your keyboard. It'll open 'Run' window.
+- ;
+
+2 - Type notepad without the quote, and press the 'Enter' key.
+Type notepad without the quote, and press the 'Enter' key. It'll open a 'Notepad' window.
+
+3 - Type these lines shown in the image below carefully.
+
+
+3 - Type these lines shown in the image below carefully.
+
+
+5 - In the 2nd line, i.e.
+In the 2nd line, i.e. "speaks=" Type whatever you want your computer to speak" ".
+
+6 - Type the rest all as shown in the image.
+Type the rest all as shown in the image.
+
+7 - Save the file under any name, but make sure to put in '.vbs' followed by the file name (just like filename.vbs.
+Save the file under any name, but make sure to put in '.vbs' followed by the file name (just like filename.vbs.)
+- For example, if you write "abc.vbs", 'abc' will be the name of the file.
+
+8 - Click 'windows start button', and then 'all programs'.
+Click 'windows start button', and then 'all programs'. Scroll down,and look for a folder with a name that says 'Startup'. (This step won't work in Windows XP.)
+
+9 - Right click 'Startup' and click open.
+Right click 'Startup' and click open. It'll open this folder window for you.
+
+10 - Place that file 'abc.vbs' in this folder.
+Place that file 'abc.vbs' in this folder. Simple cut/copy and paste here.
+
+11 - Close the folder.
+Close the folder.
+
+12 - Turn off or restart your computer.
+Turn off or restart your computer. If you followed the same steps without any mistake, your computer will speak whatever you typed.
+

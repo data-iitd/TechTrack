@@ -1,0 +1,40 @@
+T1	Software-OS-Related 220 227	AV Menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 244 256	File Manager
+A2	isOpened T2 f->t
+T3	Software-OS-Related 274 285	File System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 322 326	_etc
+T5	Software-OS-Related 379 388	slim.conf
+T6	Software-OS-Related 473 482	slim.conf
+T7	Software-OS-Related 498 505	Scripts
+A4	isOpened T7 f->t
+T8	Software-OS-Related 518 532	Browse as root
+A5	isOpened T8 f->t
+T9	Software-OS-Related 651 674	administrative password
+T10	Software-OS-Related 712 716	_etc
+A6	isOpened T10 f->t
+T11	Software-OS-Related 842 851	slim.conf
+A7	isOpened T11 f->t
+T12	Software-OS-Related 948 952	file
+T13	Software-OS-Related 1061 1075	# default_user
+T14	Software-OS-Related 1095 1096	#
+T15	Software-OS-Related 1266 1292	default_user YOUR USERNAME
+T16	Software-OS-Related 1348 1353	login
+T17	Software-OS-Related 1397 1405	password
+A8	isSettingsChanged T14 true
+R1	SubPart Arg1:T14 Arg2:T11	
+T18	Software-OS-Related 1559 1574	# auto_login no
+T19	Software-OS-Related 1594 1595	#
+T20	Software-OS-Related 1617 1620	yes
+A9	isSettingsChanged T20 true
+A10	isSettingsChanged T19 true
+T21	Software-OS-Related 1611 1613	no
+R2	SubPart Arg1:T19 Arg2:T11	
+R3	SubPart Arg1:T20 Arg2:T11	
+T22	Software-OS-Related 1700 1714	auto_login yes
+T23	Software-OS-Related 1733 1742	slim.conf
+T24	Software-OS-Related 1723 1727	Save
+A11	isOpened T23 t->f
+T25	Software-OS-Related 1853 1859	reboot
+T26	Software-OS-Related 1865 1875	auto-login

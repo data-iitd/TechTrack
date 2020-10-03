@@ -1,0 +1,40 @@
+Format a PC
+https://www.wikihow.com/Format-a-PC
+
+0 - Formatting Your Primary Drive
+
+1 - Backup any important data.
+Backup any important data. Formatting your drive will delete all of the data on it and remove the operating system. Make sure that you have any important files backed up to another location, such as an external drive or the cloud.
+- If you're trying to securely erase the data on a drive before disposing of it, see the Securely Formatting a Drive section of this article instead.
+- ;
+
+2 - Insert your Windows installation disc.
+Insert your Windows installation disc. You'll be using your Windows installation disc to format your drive. This is the easiest way to format the primary drive, as you cannot do this from within Windows itself. You don't need to use your own installation disc, as you won't actually be entering a product key (unless you proceed with reinstalling Windows). If you can't find your installation disc, you may still have options depending on your version of Windows:
+- Windows 7 - You can download an ISO file for Windows 7 be entering your product key here. You'll then be transferring this ISO file to a blank DVD or USB drive using the Windows 7 USB/DVD Download Tool which you can download here.
+- Windows 8 - You can download the Windows 8 Media Creation tool from Microsoft here. This program will download and create Windows installation media on either a blank DVD or USB drive (4GB or larger). Run the tool and follow the prompts to create the installation media.
+- Windows 10 - You can download the Windows 10 Media Creation tool from Microsoft here. Run this program to download and create your Windows 10 installation disk on either a blank DVD or USB drive. Most users should download the 64-bit version of the tool. If you aren't sure, see How to Check if Windows is 32-Bits or 64-Bits.
+
+3 - Set your computer to boot from the installation drive.
+Set your computer to boot from the installation drive. In order to run the installer and format the drive, you'll need to set your computer to boot from that drive (DVD or USB) instead of your hard drive. The process for this varies depending on whether your computer came with Windows 7 (or older), or if your computer came with Windows 8 (or newer).
+- Windows 7 (and older) - Reboot your computer and press the BIOS, SETUP, or BOOT key that is displayed when the computer first starts. The most common keys are F2, F11, F12, and Del. In the BOOT menu, set your installation drive as the primary boot device.
+- Windows 8 (and newer) - Click the Power button in the Start screen or menu. Hold ⇧ Shift and click Restart to reboot into the "Advanced startup" menu. Select the "Troubleshoot" option and then "Advanced options". Click "UEFI Firmware Settings" and then open the BOOT menu. Set your installation drive as the primary boot device.
+
+4 - Start the setup process.
+Start the setup process. Windows will load the setup files and then start the installation process. You'll be asked to select your language and accept the terms before you proceed.
+
+5 - Select a "Custom" installation.
+Select a "Custom" installation. This will allow you to format your hard drive during the installation.
+
+6 - Select the partition you want to format.
+Select the partition you want to format. After proceeding through the initial installation screens, you'll be shown all of the hard drives and their partitions. You will typically have several partitions on your computer, one for your operating system, one recovery partition, and any additional partitions you may have created or drives you may have installed.
+- You can delete partitions on the same drive to combine them all into a single unallocated partition. This will delete any data on the partitions. Click the "Drive options" button to see the "Delete" option for partitions.
+- If you delete all of your partitions, you'll need to create a new one before it can be formatted. Select the unallocated space and click "New" to create a new partition. You'll be able to set the size of the partition out of the available free space. Note that you typically cannot create more than four partitions on a single drive.
+
+7 - Format the selected partition.
+Format the selected partition. Click the "Format" button after selecting the partition or drive. If you don't see the Format button, click the "Drive options" button to reveal it. You will be warned that the format process will delete all data on the partition. Once you agree, the format will happen automatically. This may take a few moments to complete.[1]
+- X
+- Research source
+
+8 - Install your operating system.
+Install your operating system. Formatting your primary removes the operating system, so you won't be able to use the PC until you install an operating system again. You can proceed with the Windows installation after formatting the drive, or you can install a different operating system such as Linux. To install Windows, follow the rest of the prompts in the setup program after formatting. To install Linux, you'll need Linux installation media. See How to Install Linux for instructions on installing a variety of different Linux versions.
+

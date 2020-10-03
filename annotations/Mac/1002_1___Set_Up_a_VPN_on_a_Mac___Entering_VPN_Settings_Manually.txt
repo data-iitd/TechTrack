@@ -1,0 +1,85 @@
+Set Up a VPN on a Mac
+https://www.wikihow.com/Set-Up-a-VPN-on-a-Mac
+
+0 - Entering VPN Settings Manually
+
+1 - Click the Apple menu.
+Click the Apple menu. Once you enter the VPN settings into the Network panel of System Preferences, it’ll be easy to connect to the VPN. These settings are provided by your admin or service provider.
+- As of macOS Sierra, the native VPN app no longer supports PPTP VPN.[1]
+- X
+- Research source
+- 
+-  If you have Sierra and your service requires PPTP, see Using Shimo on macOS Sierra.
+- ;
+
+2 - Select “System Preferences.
+Select “System Preferences.”
+
+3 - Click the “Network” icon.
+Click the “Network” icon.
+
+4 - Click the + beneath the left panel.
+Click the + beneath the left panel.
+
+5 - Click the button next to the “Interface” menu.
+Click the button next to the “Interface” menu. The button is blue and has two arrows, and will expand a brief menu.
+
+6 - Select “VPN.
+Select “VPN.”
+
+7 - Click the button next to the “VPN Type” menu.
+Click the button next to the “VPN Type” menu.
+
+8 - Select the type of VPN.
+Select the type of VPN. Your VPN provider should specify this in their instructions.[2]
+- X
+- Research source
+- 
+- If you haven’t yet signed up for VPN service, see Getting a VPN for tips on selecting a provider.
+
+9 - Type a name for this VPN.
+Type a name for this VPN. Type it into the “Service Name” field. This will be the nickname for this connection.
+
+10 - Click Create.
+Click Create. Now you’ll see the VPN settings for this new connection in the right panel.
+
+11 - Enter the IP address for the server.
+Enter the IP address for the server. Type this into the “Server Address” field.
+
+12 - Enter your VPN account user name.
+Enter your VPN account user name. This goes into the “Account Name” field.
+
+13 - Place a check next to “Show VPN status in the menu bar”.
+Place a check next to “Show VPN status in the menu bar”.
+
+14 - Click Authentication Settings.
+Click Authentication Settings.
+
+15 - Select an authentication method.
+Select an authentication method. Use the instructions from your VPN provider to determine the correct choice.[3]
+- X
+- Research source
+- 
+- If you connect with a regular username and password, try selecting “Password” and then enter your password into the blank.
+
+16 - Click OK.
+Click OK.
+
+17 - Click Advanced.
+Click Advanced.
+
+18 - Make sure there’s a check next to “Send all traffic over VPN connection”.
+Make sure there’s a check next to “Send all traffic over VPN connection”.
+
+19 - Click OK.
+Click OK.
+
+20 - Click Apply.
+Click Apply. Now you should see a new icon in the menu bar at the top of the screen (near the clock). This is the VPN status icon, and you can use it to connect and disconnect from the VPN.
+
+21 - Click the VPN status icon.
+Click the VPN status icon.
+
+22 - Select “Connect [your VPN name]”.
+Select “Connect [your VPN name]”. The system will now connect and authenticate to the VPN server.
+

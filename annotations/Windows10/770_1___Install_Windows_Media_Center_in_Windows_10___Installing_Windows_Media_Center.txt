@@ -1,0 +1,29 @@
+Install Windows Media Center in Windows 10
+https://www.wikihow.com/Install-Windows-Media-Center-in-Windows-10
+
+0 - Installing Windows Media Center
+
+1 - Open File Explorer
+Open File Explorer. This can be done by clicking the taskbar icon .
+
+2 - Navigate to the save location.
+Navigate to the save location. Go to where you downloaded the application files.
+
+3 - Open the 7z file
+Open the 7z file. Right-click on the downloaded file and choose the option equivalent to Extract Here. It may be hidden under the submenu for your file extractor, such as 7-Zip.
+- You'll need software that can extract .7z files. One option is 7-Zip, available for download at http://www.7-zip.org.
+
+4 - Review through the readme file (optional).
+Review through the readme file (optional). Open the "_ReadMe" text file.
+
+5 - Run "_TestRights.cmd" as administrator.
+Run "_TestRights.cmd" as administrator. Right-click the file and choose Run as administrator. If prompted, confirm the User Account Control window and provide the necessary authentication.
+- If another command prompt window is opened, then close it and proceed
+- If no Command Prompt window opened, repeat this step a few more times.
+- If after two or more times no Command Prompt window opened, then you need to restart Windows 10 and repeat this step.
+
+6 - Run "Installer.cmd" as administrator.
+Run "Installer.cmd" as administrator. Right-click the file and choose Run as administrator.
+- Wait until the process completes—it may take a few minutes.
+- Don’t close the window until you see a message stating "Press any key to exit".
+

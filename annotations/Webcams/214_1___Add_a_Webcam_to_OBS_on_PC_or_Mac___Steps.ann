@@ -1,0 +1,23 @@
+T1	Hardware-Devices 123 129	webcam
+A1	isConnected T1 f->t
+T2	Hardware-Other 138 140	PC
+T3	Hardware-Other 144 147	Mac
+T4	Software-Other 265 275	OBS Studio
+A2	isOpened T4 f->t
+A3	isInstalled T4 start-T
+T11	Software-Other 536 556	Video Capture Device
+T13	Hardware-Devices 694 700	webcam
+T14	Software-Other 749 759	Create New
+T15	Software-Other 804 806	OK
+A19	isSettingsChanged T15 true
+T16	Hardware-Devices 871 877	webcam
+T17	Software-Other 888 894	Device
+T18	Software-Other 1014 1016	OK
+T19	Hardware-Devices 1068 1074	webcam
+T20	Software-Other 1091 1101	OBS Studio
+A22	isSettingsChanged T20 true
+T23	Software-Other 823 838	Properties menu
+A6	isOpened T23 f->t
+R2	SubPart Arg1:T18 Arg2:T20	
+A4	isOpened T11 f->t
+R1	SubPart Arg1:T15 Arg2:T4	

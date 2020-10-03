@@ -1,0 +1,13 @@
+T1	Software-OS-Related 131 136	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 246 260	Windows System
+A2	isOpened T2 f->t
+T3	Software-OS-Related 366 378	Task Manager
+A3	isOpened T3 f->t
+T4	Software-OS-Related 477 484	Startup
+A4	isOpened T4 f->t
+T5	Software-OS-Related 589 596	Disable
+A5	isSettingsChanged T5 true
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Hardware-Devices 1170 1178	computer
+A6	isUsed T6 true

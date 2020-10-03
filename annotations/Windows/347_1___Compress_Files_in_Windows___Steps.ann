@@ -1,0 +1,11 @@
+T1	Software-Other 212 233	Install Winzip_Winrar
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 326 340	Add to archive
+A2	isOpened T2 f->t
+T3	Software-OS-Related 483 485	OK
+A3	isSettingsChanged T3 true
+T4	Software-Other 724 736	Extract Here
+A4	isSettingsChanged T4 true
+T5	Software-Other 106 112	Winzip
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T4 Arg2:T1	

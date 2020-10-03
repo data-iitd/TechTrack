@@ -1,0 +1,14 @@
+T1	Software-OS-Related 137 142	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 236 244	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 337 343	System
+A3	isOpened T3 f->t
+T4	Software-OS-Related 403 416	Power & sleep
+A4	isOpened T4 f->t
+T5	Software-OS-Related 495 520	Additional power settings
+A5	isOpened T5 f->t
+T6	Software-OS-Related 619 651	Choose what the power buttons do
+A6	isOpened T6 f->t
+T7	Hardware-Devices 1155 1163	computer
+A7	isUsed T7 true

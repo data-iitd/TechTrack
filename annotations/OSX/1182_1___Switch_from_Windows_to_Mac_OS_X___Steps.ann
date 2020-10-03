@@ -1,0 +1,9 @@
+T1	Software-OS-Related 134 138	dock
+T2	Software-OS-Related 186 205	Windows' Start Menu
+A1	isOpened T1 start-F
+T3	Software-OS-Related 1554 1560	Finder
+A2	isOpened T3 start-F
+T4	Software-OS-Related 1842 1852	Apple Menu
+A3	isOpened T4 start-F
+T5	Software-OS-Related 3044 3061	System Preference
+A4	isOpened T5 f->t

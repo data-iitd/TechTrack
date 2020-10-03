@@ -1,0 +1,47 @@
+Install Ubuntu Linux Without CD (Windows)
+https://www.wikihow.com/Install-Ubuntu-Linux-Without-CD-(Windows)
+
+0 - Using the Desktop Installer
+
+1 - Understand the process.
+Understand the process. Ubuntu no longer supports using the Windows installer to install Ubuntu from within Windows, but you can still use it if you prefer. The installer will not work in Windows 8 or newer; you must be using Windows XP, Vista, or 7. The installer can also lead to problems that could be avoided by installing with a USB drive, even on supported machines. It is recommended that you use the USB method above unless absolutely necessary.
+- You can only use the installer to install Ubuntu alongside Windows. You can't use it to replace Windows. If you want to replace Windows with Ubuntu, use the USB method above.
+
+2 - Download the Wubi files.
+Download the Wubi files. This is the installer for Ubuntu that allows you to install Ubuntu within the Windows environment, just like you would any Windows program. You can download the files from cdimage.ubuntu.com/wubi/current/.
+- Click the link for the "i386.tar.xz" file if you aren't sure which one applies to you. If you know that you meet the processor requirements for the 64-bit version, select "amd64.tar.xz" instead.
+
+3 - Extract the Wubi installer.
+Extract the Wubi installer. You'll need a program that supports GZIP in order to extract the files from the "tar.xz" file you downloaded. One of the most popular free programs is 7-Zip, which you can download from 7-zip.org. Once you've installed 7-Zip, use it to open the "tar.xz" file that you downloaded. Extract the files inside into a new folder.
+
+4 - Run the Wubi installer.
+Run the Wubi installer. There are only a few settings you'll need to change before running the installer, and they are all on the same menu.
+
+5 - Select how much space you want to allocate for Ubuntu.
+Select how much space you want to allocate for Ubuntu. Ubuntu will create its own partition out of your available free space to install itself on. Use the drop-down menu to select how large you want this partition to be. Ubuntu needs at least 7 GB of space, more if you want to install programs and download files.
+
+6 - Create a username and password.
+Create a username and password. You'll need to create a user before you can install Ubuntu. You'll be able to create additional users after installing. Enter a password to keep your account secure.
+
+7 - Click the "Install" button and wait for Ubuntu to install.
+Click the "Install" button and wait for Ubuntu to install. The installer will download the necessary Ubuntu files, and then you will be prompted to reboot.[3]
+- X
+- Research source
+
+8 - Select "Ubuntu" when rebooting.
+Select "Ubuntu" when rebooting. You'll see a new menu when your computer reboots, allowing you to select the operating system you want to use. Select Ubuntu to continue the installation process.
+
+9 - Continue to wait while Ubuntu installs.
+Continue to wait while Ubuntu installs. After Ubuntu boots up, it will continue installing for another 15 minutes or so. After the installation is complete, the computer will reboot again.
+
+10 - Use the menu when starting your computer to select your operating system.
+Use the menu when starting your computer to select your operating system. Once Ubuntu is installed, you'll be prompted to select your operating system every time you start your computer. This is how you switch between operating systems.
+
+11 - Start using Ubuntu.
+Start using Ubuntu. You can start using Ubuntu as soon as you log in. There are a few wikiHow articles that can help you get comfortable:
+- 
+- Click here to set up a network connection in Ubuntu.
+- Click here to install graphics card drivers.
+- Click here for a guide on learning how to use the Terminal.
+- Click here to learn how to install Ubuntu software.
+

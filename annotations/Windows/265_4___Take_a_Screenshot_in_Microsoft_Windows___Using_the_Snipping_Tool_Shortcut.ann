@@ -1,0 +1,13 @@
+T1	Software-OS-Related 248 255	program
+A1	isOpened T1 f->t
+T6	Hardware-Devices 900 906	screen
+A3	isPowered T6 start-T
+T2	Software-OS-Related 1486 1490	Save
+A2	isSettingsChanged T2 true
+T4	Hardware-Other 927 939	mouse button
+T3	Software-Other 1245 1250	Paint
+T5	Software-Other 1252 1256	Word
+A4	isOpened T3 f->t
+A5	isInstalled T3 start-T
+A6	isOpened T5 f->t
+A7	isInstalled T5 start-T

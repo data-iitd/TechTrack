@@ -1,0 +1,6 @@
+T1	Software-OS-Related 223 229	Finder
+A1	isOpened T1 f->t
+T2	Software-Other 334 339	files
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 692 717	New Folder with Selection
+A3	isOpened T3 f->t

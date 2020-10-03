@@ -1,0 +1,46 @@
+Repair LCD Monitors
+https://www.wikihow.com/Repair-LCD-Monitors
+
+0 - Diagnosing the Problem
+
+1 - Check your warranty.
+Check your warranty. Most new computers come with at least a year of warranty. If your warranty is still active, contact the manufacturer to have it repaired for free or for a reduced price. Attempting the repair yourself will likely void the warranty.
+- ;
+
+2 - Check the power indicator lights.
+Check the power indicator lights. If your monitor won't display an image, turn it on and watch the lights at the edge of the monitor. If one or more lights turn on, continue to the next step. If the lights won't light up, the power supply is broken (or one of the attachments leading to the power supply). This is usually caused by a blown capacitor. You may repair it yourself, but be aware that the power supply includes dangerous, high voltage components. Unless you have significant electronics repair experience, take your monitor to a professional repair service.
+- Other signs of a blown capacitor include a loud humming noise, lines across the screen, and multiple images.
+- The power supply unit is one of the most expensive components in the monitor. If the problem is more serious than a blown capacitor, the price of repair could be considerable. A replacement may be a better idea if your monitor is getting old.
+
+3 - Shine a flashlight on the monitor.
+Shine a flashlight on the monitor. Try this if your monitor just displays a black screen, but the power indicator light does come on. If you can see the image when you point a light at the screen, the monitor's backlight is at fault. Follow these instructions to replace it.
+
+4 - Repair stuck pixels
+Repair stuck pixels. If most of the screen works but a few pixels are "stuck" at one color, the fix is usually easy. Keep the monitor on and try the following:
+- Wrap a pencil tip (or other blunt, narrow object) in a damp, non-abrasive cloth. Rub very gently over the stuck pixel. Rubbing too hard can cause further damage.[1]
+- X
+- Research source
+- 
+- 
+- Search for stuck pixel repair software online. These conduct rapid color changes to jolt the pixel into working again.
+- Purchase hardware designed to plug into your monitor and repair dead pixels.
+- If none of the above works, you may need to replace your screen.
+
+5 - Attempt to fix spiderweb cracks or black splotches.
+Attempt to fix spiderweb cracks or black splotches. These are signs of physical damage. A monitor at this stage is often beyond repair, and attempts to fix it can end up causing more harm. However, if the screen is not usable in its current state, there's no harm in trying a repair before you look for a replacement:
+- Run a soft cloth or other object over the screen. If you feel any broken glass, do not attempt repair. Replace the monitor instead.
+- Rub the scratch with a clean eraser, as gently as you can. Wipe off the eraser whenever residue builds up.
+- Purchase an LCD scratch repair kit.
+- Read this article for more homemade solutions.
+
+6 - Replace the display.
+Replace the display. If you're using a standalone LCD monitor, consider purchasing a replacement. This may be more cost-effective than having new components installed in an old monitor with a shorter lifespan. However, if you have a laptop or a relatively new device, purchase a replacement LCD display panel. Hire a professional to install it.
+- The panel serial number should be displayed somewhere on the device, usually on the back. Use this to order a new panel from the manufacturer.
+- While you can attempt to replace the panel yourself, the process is difficult and can expose you to dangerously high voltages. Follow a guide devoted to your specific model, to maximize safety and success rates.
+
+7 - Try other repairs.
+Try other repairs. There are many ways an LCD monitor can go wrong, but the diagnostics above cover the most common problems. Try the suggested fix that matches your problem first. If your problem is not described above, or if the monitor still won't work after the attempted fix, consider these issues as well:
+- If the picture responds to input but displays a messy image, such as jumbled multicolored squares, the AV (audio visual) board may be damaged. This is usually a rectangular circuit board located near the audio and visual cables. Replace obviously damaged parts using a soldering iron, or order a replacement board and carefully install it to the same screws and ribbon cables.
+- The main control buttons may be faulty. Clean them with a metal cleaner, or jostle to attach a loose connection. If necessary, locate the circuit board they are attached to and re-solder any broken connections.
+- Check input cables for damage, or try other cables of the same type. If necessary, inspect the circuit board they are attached to and re-solder damaged connections.
+

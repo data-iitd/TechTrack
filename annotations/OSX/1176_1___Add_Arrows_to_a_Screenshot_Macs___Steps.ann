@@ -1,0 +1,10 @@
+T1	Software-OS-Related 159 178	screenshot you took
+A1	isOpened T1 f->t
+T2	Software-OS-Related 297 314	small pencil icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 550 574	small arrow or line icon
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1622 1639	pencil icon again
+A4	isSettingsChanged T4 false
+T5	Software-OS-Related 1705 1725	Save your screenshot
+A5	isSettingsChanged T5 true

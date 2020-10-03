@@ -1,0 +1,44 @@
+T1	Software-Other 120 134	Oracle website
+A1	isOpened T1 f->t
+T2	Software-Other 433 444	Top Actions
+T3	Software-Other 407 416	Downloads
+A2	isOpened T3 f->t
+T4	Software-Other 676 683	Java SE
+A3	isOpened T4 f->t
+T5	Software-Other 878 886	DOWNLOAD
+T6	Software-Other 910 920	Oracle JDK
+A4	isOpened T6 f->t
+T7	Software-Other 2594 2598	Next
+A5	isOpened T7 f->t
+T8	Software-Other 1171 1195	Accept License Agreement
+T9	Software-Other 1987 2005	JDK installer file
+A6	isOpened T9 f->t
+T10	Hardware-Devices 2014 2022	computer
+A7	isUsed T10 true
+T11	Software-Other 2814 2819	Close
+A8	isOpened T11 t->f
+T12	Hardware-Devices 2987 2995	computer
+A9	isUsed T12 true
+T13	Software-Other 3307 3310	jdk
+A10	isOpened T13 f->t
+T14	Software-Other 3429 3433	Java
+A11	isOpened T14 f->t
+T15	Software-Other 3921 3931	Properties
+A12	isOpened T15 f->t
+T16	Software-OS-Related 3733 3740	This PC
+A13	isOpened T16 f->t
+T17	Software-OS-Related 4070 4085	Advanced system
+A14	isOpened T17 f->t
+T18	Software-OS-Related 4305 4313	Advanced
+A15	isOpened T18 f->t
+T19	Software-OS-Related 4443 4464	Environment Variables
+T20	Software-OS-Related 4624 4627	New
+A16	isOpened T20 f->t
+T21	Software-OS-Related 5508 5512	Edit
+A17	isOpened T21 f->t
+T22	Software-OS-Related 5254 5256	OK
+T23	Software-OS-Related 5644 5647	New
+A18	isOpened T23 f->t
+T24	Software-OS-Related 6212 6214	OK
+A19	isSettingsChanged T24 true
+R1	SubPart Arg1:T24 Arg2:T18	

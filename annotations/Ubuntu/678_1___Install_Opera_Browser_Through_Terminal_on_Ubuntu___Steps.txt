@@ -1,0 +1,39 @@
+Install Opera Browser Through Terminal on Ubuntu
+https://www.wikihow.com/Install-Opera-Browser-Through-Terminal-on-Ubuntu
+
+0 - Steps
+
+1 - To add Opera’s public key, first press Ctrl+Alt+T on your keyboard to open Terminal.
+To add Opera’s public key, first press Ctrl+Alt+T on your keyboard to open Terminal. When it opens, type or use copy/paste method to add following command: sudo sh -c 'wget -O - http://deb.opera.com/archive.key | apt-key add -' and hit Enter.
+- ;
+
+2 - When it asks password, type password and hit Enter again.
+When it asks password, type password and hit Enter again.
+
+3 - Now to add Opera repository type or use copy_paste method to add following command:
+Now to add Opera repository type or use copy/paste method to add following command: sudo gedit /etc/apt/sources.list.d/opera.list and hit Enter.
+
+4 - When Gedit show's up, copy this line to Opera list:
+When Gedit show's up, copy this line to Opera list: deb http://deb.opera.com/opera/ stable non-free then save it and close Gedit.
+
+5 - After you close Gedit, type or copy_paste following command to the Terminal, to update your system:
+After you close Gedit, type or copy/paste following command to the Terminal, to update your system: sudo apt-get update and hit Enter.
+
+6 - To install Opera, type or use copy_paste method to add following command:
+To install Opera, type or use copy/paste method to add following command: sudo apt-get install opera-stable and hit Enter.
+
+7 - When it asks you that do you want to continue, type 'Y' to the Terminal and hit Enter.
+When it asks you that do you want to continue, type 'Y' to the Terminal and hit Enter.
+
+8 - After Opera browser are installed, now close your Terminal.
+After Opera browser are installed, now close your Terminal.
+
+9 - To run Opera browser, press window key (key beside Alt key) to open Dash and type 'op' to search function, then click with your mouse on icon.
+To run Opera browser, press window key (key beside Alt key) to open Dash and type 'op' to search function, then click with your mouse on icon.
+
+10 - If you want, read Opera Software End-User License, then click on 'I Agree' button with your mouse.
+If you want, read Opera Software End-User License, then click on 'I Agree' button with your mouse.
+
+11 - Now, you're ready to use Opera 56 browser.
+Now, you're ready to use Opera 56 browser.
+

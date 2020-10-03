@@ -1,0 +1,11 @@
+T1	Software-OS-Related 218 222	Sudo
+T2	Software-OS-Related 226 230	root
+A1	isOpened T2 f->t
+T3	Software-OS-Related 308 319	config file
+A2	isOpened T3 f->t
+T4	Software-OS-Related 414 418	file
+T5	Software-OS-Related 328 334	banner
+T6	Software-OS-Related 500 507	message
+T7	Software-OS-Related 632 636	file
+T8	Software-OS-Related 725 729	file
+A3	isOpened T8 t->f

@@ -1,0 +1,23 @@
+T1	Software-OS-Related 399 404	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 503 517	Command Prompt
+A2	isOpened T2 f->t
+T3	Software-OS-Related 811 831	Run as administrator
+A3	isOpened T3 f->t
+T4	Software-OS-Related 786 800	Command Prompt
+A4	isOpened T4 f->t
+T5	Software-Other 2118 2125	Notepad
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1855 1862	desktop
+A6	isOpened T6 start-T
+T7	Software-Other 2275 2279	Edit
+A7	isOpened T7 f->t
+T8	Software-Other 3116 3120	Edit
+A8	isOpened T8 f->t
+T9	Software-Other 3131 3138	Replace
+A9	isOpened T9 f->t
+T10	Software-Other 3279 3290	Replace All
+A10	isSettingsChanged T10 true
+T11	Software-Other 3346 3353	Notepad
+T12	Software-OS-Related 3926 3940	Command Prompt
+A11	isOpened T12 t->f

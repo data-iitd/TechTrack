@@ -1,0 +1,63 @@
+Clear a Paper Jam in an Epson Laser Printer
+https://www.wikihow.com/Clear-a-Paper-Jam-in-an-Epson-Laser-Printer
+
+0 - Steps
+
+1 - Turn the printer off.
+Turn the printer off. Wait a few moments, then turn it back on again. Sometimes a printer will clear the jam itself during its start-up cycle. Sometimes, resetting a printer will get it to recheck the paper path and stop detecting a jam that is no longer there.
+- ;
+
+2 - Look at the readout, if there is one.
+Look at the readout, if there is one. Many printers have a small screen that displays a line or two of text. When jammed, such printers may try to give you an idea of where the jam is and what to do next. If not, proceed to find the jam yourself.
+
+3 - If you can see the paper, gently tug it out the top.
+If you can see the paper, gently tug it out the top. If not, or if the printer is still jammed, begin opening the printer. As you open the different trays and covers, look carefully inside for paper where it should not be.
+
+4 - When you find paper out of place, gently tug the paper out of the printer.
+When you find paper out of place, gently tug the paper out of the printer. If you have a choice, tug from the end with the most paper sticking out.
+
+5 - Open the paper trays.
+Open the paper trays. If they are drawer-style trays, see if you can release them and slide them all the way out. Set them aside, and look inside where the paper tray was, and see if you can see any paper that was lifted but not yet fed all the way through. Pull out any you can reach.
+
+6 - Make sure the trays are loaded, but not overloaded, with paper.
+Make sure the trays are loaded, but not overloaded, with paper. Sometimes too much or too little paper will cause a jam, or simply register as a jam.
+
+7 - Open the front and/or top covers.
+Open the front and/or top covers. Most open simply by lifting or pulling gently, but you may need to release a lever or latch. If it does not open easily, never force it.
+
+8 - Pull out the print cartridge(s).
+Pull out the print cartridge(s). In a laser printer, one of the front or top covers will usually expose the print cartridge. If you have not yet found the paper, pull out the cartridge carefully. Most just pull out. A few may require disengaging a latch or a pair of latches.
+
+9 - Open any back or side covers.
+Open any back or side covers. Also check inside any manual feed trays. Check for and remove any paper or other obstructions. It may help to use a mirror when checking trays in the back, and you may need to move the printer away from nearby walls to open covers all the way and reach what is underneath them.
+
+10 - Clean any dirty parts inside the printer, if needed.
+Clean any dirty parts inside the printer, if needed. Refer to the owner's manual when doing so. It is more likely that you will need to remove paper than clean parts.
+
+11 - Reinstall any print cartridges and paper trays you removed, and close the lid of the printer.
+Reinstall any print cartridges and paper trays you removed, and close the lid of the printer. You can replace most items by noticing how you removed them and putting them back in the reverse order.
+
+12 - Turn the printer back on, if it was turned off.
+Turn the printer back on, if it was turned off.
+
+13 - Give the printer time to warm up if it has a start-up cycle.
+Give the printer time to warm up if it has a start-up cycle.
+
+14 - Check that the printer is online.
+Check that the printer is online.
+
+15 - You may need to turn the power off and back on again to reset the printer once the jam is cleared.
+You may need to turn the power off and back on again to reset the printer once the jam is cleared.
+
+16 - You may need to open and close the top or front cover, if you did not yet open it in order to clear the jam.
+You may need to open and close the top or front cover, if you did not yet open it in order to clear the jam.
+
+17 - You may need to push a button (often a large, green button labeled "Ready", "Start", or "Go") to bring it back online.
+You may need to push a button (often a large, green button labeled "Ready", "Start", or "Go") to bring it back online.
+
+18 - The readout, if there is one, will read "Online" if the printer is online.
+The readout, if there is one, will read "Online" if the printer is online. If the printer is not online, the readout may tell you why. #*If there is no readout, you will probably see a green light when the printer is online, and a red light or no light if the printer is not yet online. Your user manual (or a web search on your model of printer) can tell you more about reading error codes for your printer.
+
+19 - Try the print job again.
+Try the print job again. Some printers remember an unfinished job and try again automatically. For others, you may have to send the job again.
+

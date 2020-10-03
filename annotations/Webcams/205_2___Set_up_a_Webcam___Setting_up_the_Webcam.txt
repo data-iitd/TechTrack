@@ -1,0 +1,23 @@
+Set up a Webcam
+https://www.wikihow.com/Set-up-a-Webcam
+
+0 - Setting up the Webcam
+
+1 - Open the webcam's program.
+Open the webcam's program. If the webcam's program didn't automatically open upon completion of installation, you'll need to look up the program and open it manually.
+- The webcam's program will usually have the webcam company's name in it, so try searching for the company (e.g., "youcam") in Start  (Windows) or Spotlight  (Mac).
+
+2 - Mount the webcam.
+Mount the webcam. Many webcams have a clip on the base that allows the webcam to latch onto the top of a computer monitor. If your webcam doesn't have such a clip, look for a flat, elevated space in which to place the webcam.
+
+3 - Adjust the webcam as needed.
+Adjust the webcam as needed. In the middle of your webcam program's window, you should see real-time footage from your webcam. Using the footage as a reference, adjust your webcam to point at your face from your preferred angle.
+
+4 - Test the webcam's sound.
+Test the webcam's sound. While speaking into the webcam, look for spikes in activity next to the "Audio" (or similarly titled) section in the webcam's window. If you don't see any activity here, your webcam's microphone isn't working and might need to be enabled from the webcam's or computer's settings.
+- Check your webcam's manual to see specific instructions on how to address lack of audio input.
+
+5 - Change your webcam's settings if necessary.
+Change your webcam's settings if necessary. Most webcam programs will have a Settings section (or a gear-shaped icon) somewhere in the window. You can click on this section to view and change settings like contrast, low-light response, and so on.
+- The settings location and options will vary from webcam to webcam. Consult your webcam's manual if you can't find the settings section.
+

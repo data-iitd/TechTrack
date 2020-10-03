@@ -1,0 +1,25 @@
+Install Windows NT 4.0 Workstation
+https://www.wikihow.com/Install-Windows-NT-4.0-Workstation
+
+0 - Checking Your Installation
+
+1 - Make sure your date, time and time zone is correct and then click close.
+Make sure your date, time and time zone is correct and then click close.
+
+2 - Ensure your display settings are correct and click OK.
+Ensure your display settings are correct and click OK.
+- Unless there is a real issue with the display, leave these settings alone.
+
+3 - Remove all floppy disks and CDs and then click restart computer.
+Remove all floppy disks and CDs and then click restart computer.
+
+4 - Press Ctrl+Alt+Delete keys in order.
+Press Ctrl+Alt+Delete keys in order.
+
+5 - Type in your password and press OK.
+Type in your password and press OK.
+- The Administrator is the main account on the computer and can change critical settings of the computer. You can always create another account if you want to keep the Administrator account separate.
+
+6 - Once you are presented with this screen, Windows NT 4.0 has been fully installed!
+Once you are presented with this screen, Windows NT 4.0 has been fully installed!
+

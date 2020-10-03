@@ -1,0 +1,35 @@
+Connect to WiFi in Windows 10
+https://www.wikihow.com/Connect-to-WiFi-in-Windows-10
+
+0 - Connecting to a Hidden Wi-Fi Network
+
+1 - Open Settings
+Open Settings. Click the Start  button and select the settings  gear in the lower left corner.
+
+2 - Go to the Network & Internet category.
+Go to the Network & Internet category.
+
+3 - Select Wi-Fi from the left pane.
+Select Wi-Fi from the left pane.
+
+4 - Click or tap "Manage known networks".
+Click or tap "Manage known networks".
+
+5 - Click or tap + Add a new network.
+Click or tap + Add a new network.
+
+6 - Type the network's name (SSID_service set identifier[1]).
+Type the network's name (SSID/service set identifier[1]).
+
+7 - Select the security type and authentication options_enter password.
+Select the security type and authentication options/enter password.
+
+8 - Decide whether to always connect to the network automatically when it's in range.
+Decide whether to always connect to the network automatically when it's in range. Either check  or uncheck  the box next to "Connect automatically".
+
+9 - Choose if you wish to "Connect even if this network is not broadcasting".
+Choose if you wish to "Connect even if this network is not broadcasting". Simply check the box next to it if you want to.
+
+10 - Press Save.
+Press Save.
+

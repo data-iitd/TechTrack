@@ -1,0 +1,48 @@
+Open EXE Files
+https://www.wikihow.com/Open-EXE-Files
+
+0 - 
+
+1 - Double-click an EXE file to run it.
+Double-click an EXE file to run it. EXE files are Windows executable files, and are designed to be run as programs. Double-clicking any EXE file will start it.
+- If the EXE file was downloaded from the internet, you'll be asked to confirm that you want to run it. Be wary when running EXE files from unknown sources, as this is the easiest way to get infected with a virus. Never open an EXE file downloaded as an email attachment, even if you know the sender.
+- EXE files may not run properly if they were designed for an outdated version of Windows. You can try adjusting the compatibility settings by right-clicking on the file, selecting "Properties", and then clicking the Compatibility tab. You can set what version of Windows you want run the EXE file as, but this is not guaranteed to solve the problem.
+- ;
+
+2 - Open the Registry Editor if you can't run EXE files.
+Open the Registry Editor if you can't run EXE files. If you get error messages when you try to run an EXE file or nothing happens, there may be a problem with your Windows registry settings. Editing your registry may seem a little daunting, but it should only take a few minutes.[1]
+- X
+- Research source
+- 
+- To open the Registry Editor, press the Windows key + R and type regedit.
+
+3 - Navigate to .
+Navigate to .HKEY_CLASSES_ROOT\.exe. Use the navigation tree on the left to open this directory.
+
+4 - Right-click on the "(Default)" entry and select "Modify".
+Right-click on the "(Default)" entry and select "Modify". This will open a new window.
+
+5 - Type .
+Type .exefile into the "Value data" field. Click OK to save the changes.
+
+6 - Navigate to .
+Navigate to .HKEY_CLASSES_ROOT\exefile. Use the navigation tree on the left to open this directory.
+
+7 - Right-click on the "(Default)" entry and select "Modify".
+Right-click on the "(Default)" entry and select "Modify". This will open a new window.
+
+8 - Enter .
+Enter ."%1" %* into the "Value data" field. Click OK to save the changes.
+
+9 - Navigate to .
+Navigate to .KEY_CLASSES_ROOT\exefile\shell\open. Use the navigation tree on the left to open this directory.
+
+10 - Right-click on the "(Default)" entry and select "Modify".
+Right-click on the "(Default)" entry and select "Modify". This will open a new window.
+
+11 - Enter .
+Enter ."%1" %* into the "Value data" field. Click OK to save the changes.
+
+12 - Reboot your computer.
+Reboot your computer. After editing the three entries above, close the Registry Editor and reboot your computer. You should be able to open EXE files again. It is highly recommended that you try to track down what caused this problem in the first place. You may have a virus or malware infection, which could cause the same problem again in the future. Click here for instructions on finding and removing viruses.
+

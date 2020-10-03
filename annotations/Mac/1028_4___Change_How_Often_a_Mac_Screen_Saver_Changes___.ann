@@ -1,0 +1,12 @@
+T1	Software-OS-Related 192 202	Apple logo
+A1	isOpened T1 f->t
+T2	Software-OS-Related 264 271	Restart
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 480 489	Utilities
+A3	isOpened T3 f->t
+T4	Software-OS-Related 589 597	Terminal
+A4	isOpened T4 f->t
+T5	Software-OS-Related 739 749	Apple logo
+A5	isOpened T5 f->t
+T6	Software-OS-Related 818 825	Restart
+A6	isSettingsChanged T6 true

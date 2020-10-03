@@ -1,0 +1,38 @@
+Screenshot in Windows 10
+https://www.wikihow.com/Screenshot-in-Windows-10
+
+0 - Using the Snipping Tool
+
+1 - Open the Snipping Tool.
+Open the Snipping Tool. The Snipping Tool is set to be discontinued in a future version of Windows 10. You can still use the tool as of July 2019, but it's a good idea to switch to the Snip & Sketch tool instead. To open the tool, type Snipping Tool in the Search box and click Snipping Tool.
+- See the Using Snip & Sketch method to get started with the new tool.
+
+2 - Click the drop-down arrow next to the "Mode" button.
+Click the drop-down arrow next to the "Mode" button. You will see four options to capture the screen:  '"Free-form Snip"', "'Rectangular Snip'", "Window Snip" and "'Full-screen Snip'".
+
+3 - Click the type of screenshot you want to capture.
+Click the type of screenshot you want to capture. Here's what each option does:
+- 
+- Free-form snip: Lets you capture any part of the screen in any shape by tracing freehand.
+- Rectangular snip: Lets you capture a section of the screen by drawing a rectangle around it.
+- Window snip: Use this tool if you want to capture a single window. After clicking the button, you'll be shown a list of windows you can capture at the bottom of the screen. Click the desired window to take the photo and view the preview.
+- Full-screen snip: Captures the entire screen and displays a preview in the tool.
+
+4 - Click the New button.
+Click the New button. It's near the top-left corner of the tool. Depending on the mode you selected, you'll experience different results:
+- If you chose Free-form or Rectangle, the cursor will turn into a +. Drag the cursor to select the part of the screen you want to capture. When you lift your finger from the mouse, a preview will appear.
+- If you choose Full-screen, the whole screen will be captured and a preview will appear.
+- If you chose Window, click the window you want to capture to take the photo and view the preview.
+
+5 - Edit the screenshot (optional).
+Edit the screenshot (optional). Several editing tools appear at the top of the screen:
+- Click the down-arrow next to the pen icon to choose a pen color, then draw your desired text or shape on the screen. Use the eraser tool to erase any mistakes.
+- Click the highlighter icon to use a yellow highlighter to select certain text or areas.
+- Click the rainbow bubble icon to open the screenshot in Paint 3D for more advanced jobs.
+
+6 - Click the disk icon to save your screenshot.
+Click the disk icon to save your screenshot. It's in the icon bar at the top of the Snipping Tool.
+
+7 - Select a save location and click Save.
+Select a save location and click Save. If you'd like to select a specific folder and specify a file name, you can do that before clicking Save. Your screenshot will be saved to the folder you select.
+

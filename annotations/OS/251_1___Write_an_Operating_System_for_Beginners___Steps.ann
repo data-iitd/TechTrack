@@ -1,0 +1,21 @@
+T1	Software-Other 178 218	Microsoft Visual C# 2008 Express Edition
+T2	Software-Other 227 242	Cosmos User Kit
+T3	Software-Other 261 293	http://www.microsoft.com/express
+T4	Software-Other 325 385	http://www.codeplex.com/Cosmos/Release/ProjectReleases.aspx.
+T5	Software-Other 466 479	Visual Studio
+A1	isInstalled T5 f->t
+T6	Software-Other 598 613	Cosmos User Kit
+A2	isInstalled T6 f->t
+T7	Software-Other 526 529	VCS
+*	Equiv T7 T5
+T8	Software-OS-Related 805 821	operating system
+T9	Software-Other 878 881	VCS
+T10	Software-Other 894 898	File
+A3	isOpened T10 f->t
+T11	Software-Other 900 911	New Project
+A4	isOpened T11 f->t
+T12	Software-Other 926 936	CosmosBoot
+T13	Software-OS-Related 1217 1221	burn
+T14	Hardware-Other 1230 1232	CD
+T15	Software-Other 1244 1253	ISO Image
+T16	Software-Other 1283 1290	YouTube

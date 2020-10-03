@@ -1,0 +1,30 @@
+Uninstall Drivers on Windows
+https://www.wikihow.com/Uninstall-Drivers-on-Windows
+
+0 - Steps
+
+1 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the search bar.
+- ;
+
+2 - Type device manager.
+Type device manager. A list of search suggestions will appear.
+
+3 - Click Device Manager.
+Click Device Manager. It’s usually the first result. You’ll now see the Device Manager, which displays a list of hardware categories (e.g. Monitors, Display adapters).
+
+4 - Locate the device with the driver you want to remove.
+Locate the device with the driver you want to remove. To find the right device, click the arrow next to the name of the category under which it falls.
+- For example, if you want to uninstall a driver for a wireless card, click the arrow next to “Network adapters.”
+- To find a video/graphics card, click the arrow beside “Display adapters.”
+- Touchscreen drivers are in the “Human Interface Devices” category.
+
+5 - Right-click the device.
+Right-click the device. A menu will appear.
+
+6 - Click Uninstall device.
+Click Uninstall device. A confirmation message will appear.
+
+7 - Click Uninstall.
+Click Uninstall. The device and its driver are now removed from your Windows PC.
+

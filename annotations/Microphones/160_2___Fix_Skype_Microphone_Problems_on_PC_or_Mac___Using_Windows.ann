@@ -1,0 +1,19 @@
+T1	Software-Other 144 149	Skype
+A1	isOpened T1 f->t
+T2	Hardware-Other 158 166	computer
+T3	Software-OS-Related 260 270	Start menu
+A2	isOpened T3 f->t
+T4	Software-Other 423 428	Skype
+A3	isOpened T4 f->t
+T5	Software-Other 564 571	Profile
+A4	isOpened T5 f->t
+T8	Software-Other 725 739	sound settings
+A7	isOpened T8 f->t
+T9	Software-Other 770 784	Audio settings
+A8	isOpened T9 f->t
+T11	Software-Other 927 937	microphone
+A9	isSettingsChanged T11 true
+T12	Hardware-Devices 1160 1170	microphone
+A10	isUsed T12 true
+A6	isInstalled T1 start-T
+R2	SubPart Arg1:T11 Arg2:T9	

@@ -1,0 +1,21 @@
+T1	Software-Other 197 235	https://www.ubuntu.com/download/server
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 303 311	Download
+A3	isOpened T2 f->t
+T3	Software-Other 505 527	https://rufus.akeo.ie/
+A4	isOpened T3 f->t
+A5	isInstalled T3 start-F
+T4	Software-Other 650 659	Rufus 3.1
+A6	isOpened T4 f->t
+T5	Hardware-Other 780 791	flash drive
+T6	Software-Other 1160 1169	Run Rufus
+A7	isOpened T6 f->t
+T8	Software-Other 1407 1426	downloaded ISO file
+A9	isOpened T8 f->t
+T9	Software-Other 1269 1275	SELECT
+A10	isSettingsChanged T9 true
+T7	Software-Other 1543 1548	START
+A8	isSettingsChanged T7 true
+R3	SubPart Arg1:T9 Arg2:T6	
+R1	SubPart Arg1:T7 Arg2:T8	

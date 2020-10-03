@@ -1,0 +1,14 @@
+T1	Software-Other 135 149	Microsoft Word
+A1	isOpened T1 f->t
+T2	Software-Other 240 244	file
+A2	isOpened T2 f->t
+T3	Software-Other 273 282	File menu
+A3	isOpened T3 f->t
+T4	Software-OS-Related 419 423	Info
+A4	isOpened T4 f->t
+T5	Software-OS-Related 451 467	Protect Document
+A5	isOpened T5 f->t
+T6	Software-OS-Related 507 528	Encrypt with Password
+A6	isOpened T6 f->t
+T7	Software-OS-Related 759 772	Save the file
+A7	isOpened T7 f->t

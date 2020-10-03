@@ -1,0 +1,7 @@
+T1	Software-Other 685 689	MAME
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1710 1714	MAME
+T3	Software-OS-Related 1637 1641	roms
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 2029 2048	Open Command Window
+A2	isOpened T4 f->t

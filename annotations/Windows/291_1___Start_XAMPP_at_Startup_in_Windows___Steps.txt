@@ -1,0 +1,45 @@
+Start XAMPP at Startup in Windows
+https://www.wikihow.com/Start-XAMPP-at-Startup-in-Windows
+
+0 - Steps
+
+1 - Open the XAMPP Control Panel.
+Open the XAMPP Control Panel. It's in the root of the folder in which you installed XAMPP, which is usually C:\xampp. The file itself is called xampp-control.exe. If you didn't change the installation directory, follow these steps to launch the app:
+- Press ⊞ Win+R to open the Run dialog.
+- Type or paste C:\xampp\xampp-control.exe into the field.
+- Click OK.
+- ;
+
+2 - Click Config.
+Click Config. It's the button with a wrench at the top-right corner of the XAMPP Control Panel.[1]
+- X
+- Research source
+
+3 - Select items to launch at startup.
+Select items to launch at startup. Click the box next to any of the modules in the "Autostart of modules" area to select it for automatic startup. If a box contains a checkmark, it means the module will start when you launch the XAMPP Control Panel.
+
+4 - Click Save.
+Click Save. It's the button with a green checkmark at the bottom-right corner of the window.
+
+5 - Open the Windows File Explorer.
+Open the Windows File Explorer. One way to do this is to right-click the Start menu and select File Explorer. You could also press ⊞ Win+E to launch it with the keyboard.
+
+6 - Navigate to your xampp directory.
+Navigate to your xampp directory. The location is typically C:\xampp, and you can usually get there by expanding the This PC or Computer menu in the left panel, selecting the C: drive, and then clicking xampp. The contents of the directory will appear in the main panel.
+
+7 - Right-click xampp-control.exe and select Create Shortcut.
+Right-click xampp-control.exe and select Create Shortcut. A new file will appear just below called xampp-control.exe – Shortcut.
+- Just leave this window open for now, as you'll need it in a few moments.
+
+8 - Press ⊞ Win+R.
+Press ⊞ Win+R. This opens the Run dialog.
+
+9 - Type shell:startup and click OK.
+Type shell:startup and click OK. This opens the Windows Startup folder in a new File Explorer window.[2]
+- X
+- Research source
+
+10 - Drag xampp-control.exe – Shortcut to the Windows Startup folder.
+Drag xampp-control.exe – Shortcut to the Windows Startup folder. Once you've added the shortcut to the Startup folder, Windows will know to open the XAMPP Control when the PC boots. The modules you selected to run automatically will activate as soon as the XAMPP Control Panel starts.
+- If you can't see both windows on the screen at once, you can right-click the taskbar (the bar that usually runs along the bottom of the screen) and select Show windows side by side.
+

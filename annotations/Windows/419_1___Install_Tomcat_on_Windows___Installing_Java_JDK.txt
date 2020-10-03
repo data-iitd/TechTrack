@@ -1,0 +1,103 @@
+Install Tomcat on Windows
+https://www.wikihow.com/Install-Tomcat-on-Windows
+
+0 - Installing Java JDK
+
+1 - Open the Oracle website.
+Open the Oracle website. Type or paste https://www.oracle.com into the address bar, and press ↵ Enter or ⏎ Return on your keyboard.
+- You will have to download, install, and configure JDK (Java Development Kit) in order to install and run Tomcat.
+- ;
+
+2 - Click the Downloads button next to "Top Actions.
+Click the Downloads button next to "Top Actions." This button looks like a white, downward arrow in a blue circle on a quick menu bar. You can find it below the main showcase box on the welcome page.
+
+3 - Scroll down and click Java SE in the Java section.
+Scroll down and click Java SE in the Java section. You can find all the Java Standard Edition downloads here, including JDK, JRE, and Server JRE versions.
+
+4 - Click the DOWNLOAD button below "JDK" or "Oracle JDK.
+Click the DOWNLOAD button below "JDK" or "Oracle JDK." This is a blue button on the right-hand side. It will open the available download versions.
+- The newest release version will show up at the top of the "Java SE Downloads" page.
+
+5 - Select Accept License Agreement at the top of the download links.
+Select Accept License Agreement at the top of the download links. All the download versions are listed at the bottom of the page. You can find the license agreement option at the top of this list.
+- You'll have to accept the license agreement here in order to download a file.
+
+6 - Click the blue download link next to your Windows version.
+Click the blue download link next to your Windows version. This will download the installer file to your default Downloads folder.
+- Some of the latest Oracle JDK versions only have 64-bit (x64) support for Windows.
+- If you're using Windows in 32-bit version (x86), you may have to check several JDK/Oracle JDK versions on the Java SE page, and find one that's compatible with your system.
+
+7 - Launch the JDK installer file on your computer.
+Launch the JDK installer file on your computer. Find the installer file you just downloaded in your Downloads folder, and double-click on it to run the installer.
+
+8 - Click Next in the installer window.
+Click Next in the installer window. This will take you to the installation preferences on the next step.
+- Make sure to note down the folder directory of the installation location here. You can find it near the bottom-left corner.
+- The installation location is usually "C:\Program Files\Java\jdk1.8.*" with the latest version and release number.
+
+9 - Click Next.
+Click Next. This will start your installation, and install Java Development Kit (JDK) on your computer.
+- If you're prompted during the install, click Next to confirm the installation location.
+
+10 - Click the Close button.
+Click the Close button. At the end of your installation, click this button to close the installer window.
+
+11 - Open the Java installation location on your computer.
+Open the Java installation location on your computer. Double-click This PC on your desktop or Start menu, and find the Java folder in your Program Files.
+- If you install JDK to a different location, make sure to open the same location as your install location from the installation wizard.
+
+12 - Open the jdk folder in your files.
+Open the jdk folder in your files. You will usually have two folders named jdk and jre in your Java folder. Double-click the JDK folder to open it.
+
+13 - Copy the folder directory for the JDK folder.
+Copy the folder directory for the JDK folder. Select the directory from the address bar at the top of the File Explorer window, right-click on it, and select Copy on the menu.
+
+14 - Right-click This PC on your desktop.
+Right-click This PC on your desktop. The "This PC" icon looks like a desktop computer. This will open your right-click options on a drop-down menu.
+
+15 - Click Properties on the right-click menu.
+Click Properties on the right-click menu. This will open your system information in a new window.
+
+16 - Click Advanced system settings on the left-menu.
+Click Advanced system settings on the left-menu. This is a blue link on the left-hand side of the System window. It will open a new dialogue box titled "System Properties."
+
+17 - Click the Advanced tab.
+Click the Advanced tab. You can change your performance, user profile, and other advanced settings here.
+
+18 - Click the Environment Variables button.
+Click the Environment Variables button. This button is near the bottom-right corner of the dialogue box. It will open a new window.
+
+19 - Click the New button under the "System variables" section.
+Click the New button under the "System variables" section. This section is the second box at the bottom of the Environment Variables window. You can create a new system variable here.
+
+20 - Type JAVA_HOME into the "Variable name" field.
+Type JAVA_HOME into the "Variable name" field. This will be the name of your new system variable.
+
+21 - Paste the copied folder directory into the "Variable value" field.
+Paste the copied folder directory into the "Variable value" field. Right-click the bottom field, and select paste to paste the copied folder directory.
+
+22 - Click OK.
+Click OK. This will add your new system variable.
+
+23 - Select Path in the "System variables" section.
+Select Path in the "System variables" section. Scroll down the variable list in the bottom box, and click Path to select it.
+
+24 - Click the Edit button.
+Click the Edit button. This will allow you to edit the contents of the Path variable in a new dialogue box.
+
+25 - Click New in the new dialogue box.
+Click New in the new dialogue box. It's in the upper-right corner of the window. This will add a new entry at the bottom of the list.
+
+26 - Type %JAVA_HOME%\bin into the new entry field.
+Type %JAVA_HOME%\bin into the new entry field. This will be added to the Path variable in your system.
+
+27 - Click OK.
+Click OK. This will save the new contents of the Path variable.
+
+28 - Click OK in the Environment Variables window.
+Click OK in the Environment Variables window. This will save your new environment variables.
+
+29 - Click OK in the System Properties window.
+Click OK in the System Properties window. This will save and apply all your new settings.
+- You are now ready to download and install the Tomcat files on your computer.
+

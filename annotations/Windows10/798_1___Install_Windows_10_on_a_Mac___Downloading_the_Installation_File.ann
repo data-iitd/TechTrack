@@ -1,0 +1,7 @@
+T1	Software-Other 905 915	Windows 10
+T2	Software-Other 1248 1255	Confirm
+T3	Software-Other 1270 1285	64-bit Download
+T4	Software-OS-Related 284 289	Apple
+T5	Software-Other 668 727	https://www.microsoft.com/en-us/software-download/windows10
+A1	isOpened T2 f->t
+A2	isOpened T1 f->t

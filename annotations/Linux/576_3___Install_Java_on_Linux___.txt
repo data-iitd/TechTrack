@@ -1,0 +1,22 @@
+Install Java on Linux
+https://www.wikihow.com/Install-Java-on-Linux
+
+0 - 
+
+1 - Open the command line.
+Open the command line. Press Ctrl+Alt+T on the keyboard, or click the black box icon with a white ">_" on it on the left side of the screen.
+
+2 - Enter the update command.
+Enter the update command. Type in sudo apt-get update && sudo apt-get upgrade -y and press ↵ Enter. This will refresh the package list and install all available updates for you.
+
+3 - Enter your password if prompted.
+Enter your password if prompted. If asked for your user password, type it in and press ↵ Enter.
+
+4 - Make sure that you don't have Java already installed.
+Make sure that you don't have Java already installed. Type in java -version and press ↵ Enter. If you see a line that says "The program 'java' can be found in the following packages" appear, Java is not installed on your computer.
+- If Java is installed, you'll see a line that reports the current version of Java instead.
+
+5 - Type in the installation command.
+Type in the installation command. Type sudo apt-get install default-jre into the command line, then press ↵ Enter. This will install Java on your Ubuntu computer in the default directory.
+- If this doesn't work, try entering sudo apt-get install openjdk-8-jdk instead
+

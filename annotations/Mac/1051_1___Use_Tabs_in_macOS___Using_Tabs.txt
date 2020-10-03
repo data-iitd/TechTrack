@@ -1,0 +1,42 @@
+Use Tabs in macOS
+https://www.wikihow.com/Use-Tabs-in-macOS
+
+0 - Using Tabs
+
+1 - Open an application on your Mac.
+Open an application on your Mac. Tabs in macOS Sierra work on all web browsers (Safari, Google Chrome, Mozilla Firefox, Microsoft Edge), but they now also work in several other Apple and third-party apps. Some apps that you can open to use tabs on macOS Sierra include:
+- Mail
+- Maps
+- TextEdit
+- Keynote
+- Numbers
+- Pages
+- Microsoft Word
+- ;
+
+2 - Press ⌘ Command+T to open a new tab.
+Press ⌘ Command+T to open a new tab. The tab will open to the right of your first tab, just underneath the window's options.
+- On a web browser, you can also click on the "+" button in the upper-right corner of the window.
+
+3 - Press ⌘ Command+N to open a new window.
+Press ⌘ Command+N to open a new window. This time, a new window will open on top of the current one you're working in.
+
+4 - Press ⌘ Command+W to close a window.
+Press ⌘ Command+W to close a window. The window you currently have open at the front of your screen will close.
+
+5 - Click on a tab at the top of the window.
+Click on a tab at the top of the window. The slightly brighter tab indicates your current tab. To navigate between tabs, click on a tab that displays as darker.
+
+6 - Drag a tab out of its current window to create a new one.
+Drag a tab out of its current window to create a new one. If you would like to separate your tabs by having different windows to work in, you can click and hold your mouse over a particular tab and drag it off onto your desktop to create a new window.
+
+7 - Merge all of your windows.
+Merge all of your windows. If you have separate windows that you'd like to combine, you can merge them into one window with multiple tabs:
+- Click on Window at the top of your computer screen.
+- Click "Merge All Windows" in the menu that drops down.
+
+8 - Bring all of the application's windows to the front of the screen.
+Bring all of the application's windows to the front of the screen. If you have multiple applications open and you'd like to see all of your work stations for the current application, you can bring them to the front of your screen:
+- Click on "Window" at the top of your screen. Do this with the application in question open.
+- Click "Bring all to Front". Each window will appear in front of any other apps you have open.
+

@@ -1,0 +1,37 @@
+Make Your PC a Kiosk
+https://www.wikihow.com/Make-Your-PC-a-Kiosk
+
+0 - Steps
+
+1 - Open Settings
+Open Settings. To do so, click on WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered'); Start and click on the  Settings gear.
+
+2 - Click on "Accounts" > Family & Other Users.
+Click on "Accounts" > Family & Other Users. This is where you will find the settings regarding other user accounts.
+
+3 - Click on Assigned Access.
+Click on Assigned Access. This is where you will be able to make your PC a kiosk.
+
+4 - Click on Get started.
+Click on Get started. This will start the process of creating a kiosk account.
+
+5 - Enter a name for the kiosk.
+Enter a name for the kiosk. By default, it is "Kiosk". You can also bind an existing account to the kiosk account. Then click on Next.
+
+6 - Click on the only app it can use.
+Click on the only app it can use. Click on Next.
+- If you chose Microsoft Edge, there are a few additional steps. Otherwise, you are done!
+
+7 - Choose how you want Microsoft Edge to run.
+Choose how you want Microsoft Edge to run. You can run it as an interactive display (useful for kiosks) or as a public web browser (useful for libraries and Internet cafes)
+
+8 - Choose the home URL.
+Choose the home URL. This will be the page that is loaded after inactivity or after the user clicks "End session". When Microsoft Edge is a public web browser, the user will also see the home URL when they click the home button.
+
+9 - Configure the idle time.
+Configure the idle time. After this time, the browser will delete all the data and reopen.
+
+10 - Restart your computer.
+Restart your computer. After restart, you will see the kiosk.
+- To exit assigned access, press Ctrl+Alt+Del.
+

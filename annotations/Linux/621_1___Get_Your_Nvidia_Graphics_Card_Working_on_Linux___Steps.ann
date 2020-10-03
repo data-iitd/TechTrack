@@ -1,0 +1,35 @@
+T1	Hardware-Other 146 166	NVidia graphics card
+T2	Software-Other 295 333	http:__www.nvidia.com_object_unix.html
+A1	isOpened T2 f->t
+T3	Software-OS-Related 338 346	download
+T4	Hardware-Other 377 385	computer
+T5	Software-Device-Drivers 351 355	file
+T6	Software-Device-Drivers 771 777	driver
+T7	Hardware-Other 819 827	computer
+T8	Software-OS-Related 1096 1112	virtual terminal
+A2	isOpened T8 f->t
+T9	Software-OS-Related 1124 1128	root
+T10	Software-OS-Related 1114 1120	Log in
+T11	Software-OS-Related 1150 1159	killall 5
+A3	isSettingsChanged T11 true
+T12	Software-OS-Related 969 976	XServer
+R1	SubPart Arg1:T11 Arg2:T12	
+T13	Software-OS-Related 1304 1310	backup
+T14	Software-OS-Related 1316 1331	X configuration
+T15	Software-OS-Related 1429 1481	Type cp /etc/X11/xorg.conf /etc/X11/xorg.conf.backup
+A4	isSettingsChanged T15 true
+R2	SubPart Arg1:T15 Arg2:T14	
+T16	Software-OS-Related 1502 1509	XServer
+T17	Software-Device-Drivers 1537 1543	driver
+T18	Software-OS-Related 1612 1620	terminal
+T19	Software-OS-Related 1632 1641	directory
+A5	isOpened T19 f->t
+T20	Software-OS-Related 1703 1718	chmod a+x *.run
+A6	isOpened T20 f->t
+T21	Software-OS-Related 1815 1823	sh *.run
+A7	isOpened T21 f->t
+T22	Software-OS-Related 1939 1958	installation screen
+A8	isOpened T22 f->t
+T23	Software-Device-Drivers 2299 2305	driver
+A9	isInstalled T23 f->t
+T24	Software-OS-Related 2337 2343	reboot

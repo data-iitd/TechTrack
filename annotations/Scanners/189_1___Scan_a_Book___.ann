@@ -1,0 +1,89 @@
+T1	Hardware-Devices 73 80	scanner
+T2	Hardware-Devices 140 155	flatbed scanner
+T3	Hardware-Devices 162 180	sheet feed scanner
+T4	Hardware-Other 511 516	glass
+T5	Hardware-Other 527 532	paper
+T6	Hardware-Other 533 542	documents
+T7	Hardware-Other 586 591	books
+T8	Hardware-Other 651 655	page
+T9	Hardware-Devices 1393 1400	scanner
+T10	Hardware-Devices 1476 1494	sheet feed scanner
+T11	Hardware-Other 2181 2185	book
+T12	Hardware-Other 2202 2207	pages
+T13	Hardware-Devices 2288 2306	sheet feed scanner
+T14	Hardware-Devices 2315 2330	flatbed scanner
+T16	Hardware-Devices 2428 2435	scanner
+T17	Hardware-Other 2880 2884	book
+T18	Hardware-Other 3017 3026	paperback
+T19	Hardware-Other 3056 3061	knife
+T20	Hardware-Other 2996 3010	hardcover book
+T21	Hardware-Other 3073 3078	paper
+T22	Hardware-Other 3160 3166	sponge
+T23	Hardware-Other 3216 3226	blow-drier
+T24	Hardware-Other 3417 3422	knife
+T25	Hardware-Other 3434 3439	pages
+T26	Hardware-Other 3603 3607	book
+T27	Hardware-Other 3788 3793	paper
+T28	Hardware-Other 3808 3813	knife
+T29	Hardware-Other 3823 3840	industrial shears
+T30	Hardware-Other 4127 4140	rotary cutter
+T31	Software-Other 4537 4549	Windows Live
+T32	Hardware-Devices 4693 4700	scanner
+T33	Hardware-Other 4672 4676	page
+T34	Hardware-Other 4789 4806	industrial shears
+T35	Hardware-Other 4812 4825	rotary cutter
+T36	Hardware-Other 5062 5072	glass lens
+T37	Hardware-Other 5016 5030	scanned images
+T38	Hardware-Other 5152 5157	cloth
+T39	Hardware-Other 5181 5188	alcohol
+T40	Hardware-Other 5192 5205	glass cleaner
+T41	Hardware-Other 5244 5249	pages
+T42	Software-Other 5455 5465	Paper Port
+T48	Software-Other 5927 5939	Windows Live
+T49	Software-Other 6261 6277	straighten image
+T50	Software-Other 6284 6292	cropping
+T52	Hardware-Other 6502 6506	book
+T53	Hardware-Other 6538 6543	pages
+T54	Software-Other 7011 7023	Adobe Reader
+T55	Hardware-Devices 7098 7109	home scanne
+T56	Hardware-Devices 7275 7282	scanner
+T57	Hardware-Other 7134 7138	page
+T58	Software-Other 7342 7352	Paper Port
+T59	Hardware-Devices 7651 7658	scanner
+T60	Hardware-Other 7841 7845	page
+T61	Software-Other 8379 8389	Paper Port
+T62	Hardware-Other 8660 8668	computer
+T63	Software-Other 8691 8702	color scans
+T64	Software-Other 8898 8910	DPI settings
+T65	Hardware-Other 8749 8754	pages
+T66	Software-Other 9431 9457	Windows Live Photo Gallery
+T67	Software-Other 9528 9543	adjust exposure
+T69	Software-Other 9926 9952	Windows Live Photo Gallery
+T71	Software-Other 9994 10004	highlights
+A8	isSettingsChanged T71 true
+T72	Hardware-Devices 10289 10296	scanner
+T76	Software-Other 10719 10729	Paper Port
+T78	Software-OS-Related 11386 11389	PDF
+T79	Software-OS-Related 11376 11382	images
+T80	Software-Other 11495 11505	Paper Port
+T81	Hardware-Other 11709 11719	hard drive
+T82	Hardware-Other 11729 11743	external drive
+T83	Hardware-Other 11845 11853	computer
+T86	Hardware-Other 12208 12213	pages
+T87	Hardware-Other 12306 12310	book
+T88	Hardware-Other 12652 12660	computer
+T15	Software-Other 4510 4531	photo editing program
+A1	isInstalled T15 start-T
+A2	isSettingsChanged T49 true
+A3	isSettingsChanged T50 true
+R3	SubPart Arg1:T49 Arg2:T48	
+R4	SubPart Arg1:T50 Arg2:T48	
+A4	isInstalled T54 start-T
+A5	isSettingsChanged T63 true
+A6	isSettingsChanged T64 true
+R5	SubPart Arg1:T63 Arg2:T61	
+R6	SubPart Arg1:T64 Arg2:T61	
+A9	isInstalled T66 start-T
+A10	isOpened T66 f->t
+A11	isSettingsChanged T66 true
+R1	SubPart Arg1:T71 Arg2:T69	

@@ -1,0 +1,53 @@
+Extend Toner Life
+https://www.wikihow.com/Extend-Toner-Life
+
+0 - Steps
+
+1 - Perform regular printer cleanings.
+Perform regular printer cleanings.
+- Dust the exterior of the printer at least once a week to keep particles from entering the interior of the chassis.
+- Open the printer and spray compressed air into the crevices inside. This prevents dust, hair and other debris from getting into the ink cartridges and gumming it up.
+- ;
+
+2 - Make sure the printer heads are properly aligned.
+Make sure the printer heads are properly aligned.
+- Locate your printer's folder on your computer and find the option to run an alignment test. Aligning the heads prevents you from having to reprint copies with streaking and coloring mistakes.
+
+3 - Clean the printer heads.
+Clean the printer heads.
+- Check if your printer has a self-cleaning option under the printer folder on your computer. If not, research how to clean the printer heads of your specific model of printer.
+- Perform a deep clean at least once a month.
+
+4 - Use the suggested type of paper.
+Use the suggested type of paper.
+- Make use of paper that is the least absorbent. Do not use thicker paper than your printer manual suggests. Using the wrong kind of printer paper can cause jams and use up more ink than necessary.
+
+5 - Store unused printer cartridges properly.
+Store unused printer cartridges properly.
+- Place unopened toner boxes in a room-temperature location. Make sure the area is dry and will be undisturbed by pests. Do not open the package until you plan to use it. An opened printer cartridge reduces the shelf life by more than half.
+
+6 - Set your printer to draft mode.
+Set your printer to draft mode.
+- Change your printing resolution from the highest quality (which tends to be the default) to the lowest quality when quality does not matter. The lowest quality option is often called draft mode. Even in draft mode, though, the quality is acceptable if you have a good printer.
+
+7 - Utilize the printer frequently.
+Utilize the printer frequently.
+- Use the printer often to keep the ink nozzles wet and in working order. Not using your printer often causes the interior of the nozzles to dry out and prevent ink from traveling through them.
+- Print a test page every couple of weeks if you have no need to use the printer regularly.
+
+8 - Turn the printer off when it is not in use.
+Turn the printer off when it is not in use.
+- Shutting off the printer using its "off" button caps the cartridges to prevent them from drying out or being clogged by dirt and debris.
+
+9 - Reset the cartridge memory.
+Reset the cartridge memory.
+- Remove the "empty" toner cartridge from the printer according to the manufacturer's instructions.
+- Find the circuit board on the cartridge and look around for a small hole.
+- Stick the end of a paper clip inside the pinhole to reset the memory and continue using the ink cartridge. Often the printer reports the cartridge "empty" when it really has more life in it.
+
+10 - Tape over the toner window.
+Tape over the toner window.
+- Remove the cartridge from the printer.
+- Locate the 2 windows that display the amount of ink left.
+- Place electrical tape over the windows to trick the printer into thinking there is more toner left to use. In many cases, you will be able to use the cartridge for another 100 or so pages.
+

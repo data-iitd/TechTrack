@@ -1,0 +1,26 @@
+T5	Software-Other 299 305	Gboard
+A6	isInstalled T5 start-T
+T6	Software-OS-Related 470 477	General
+A7	isOpened T6 f->t
+T7	Software-OS-Related 480 488	Keyboard
+T8	Software-OS-Related 533 542	Keyboards
+T9	Software-Other 624 630	Gboard
+A10	isSettingsChanged T9 true
+T10	Software-OS-Related 692 696	Edit
+T11	Software-OS-Related 765 769	Done
+T12	Software-OS-Related 881 898	text replacements
+T13	Software-OS-Related 936 953	keyboard settings
+T14	Software-OS-Related 1049 1050	+
+T15	Software-OS-Related 1106 1110	Save
+T16	Software-OS-Related 1141 1144	iOS
+T17	Software-Other 1160 1163	omw
+T18	Software-Other 1200 1210	On my way!
+*	Equiv T17 T18
+T19	Software-Other 1262 1268	Gboard
+T1	Software-OS-Related 149 172	iPhone or iPad settings
+A1	isOpened T1 f->t
+T2	Software-OS-Related 239 248	keyboards
+T3	Software-OS-Related 417 434	keyboard settings
+T4	Software-OS-Related 643 651	keyboard
+R1	SubPart Arg1:T15 Arg2:T12	
+A3	isSettingsChanged T15 true

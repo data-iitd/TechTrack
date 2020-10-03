@@ -1,0 +1,51 @@
+Use Enlightenment in Linux
+https://www.wikihow.com/Use-Enlightenment-in-Linux
+
+0 - Steps
+
+1 - Install it.
+Install it.
+- ;
+
+2 - Entrance.
+Entrance. You may encounter Entrance the login manager for Enlightenment.
+
+3 - On first start, the menus will be generated, be patient until a window pops up at the top left saying they are complete, then click OK.
+On first start, the menus will be generated, be patient until a window pops up at the top left saying they are complete, then click OK. You can click on User Documentation in the opened window at this point, or click Next through the whole guided tour.
+- 
+- User menu. Left-clicking on the desktop will bring up the menu. Sub-menus are brought up by moving the mouse pointer over them, holding the left-mouse button will open sub-menus and launch the application selected when the mouse button is released.
+- 
+- 
+- 
+- Settings menu. Right-clicking on the desktop (or holding down the Win key and left-clicking) will bring up settings.
+- WH.shared.addScrollLoadItem('7229475d1ccf262308a5520ad3f70b57')
+- 
+- 
+- Just leaving your mouse pointer on the desktop will bring up tips.
+- The Pager. The box at the bottom-left of your screen is called the Pager and includes your four virtual (or more accurately multiple) desktops (also accessible as a list by holding down the Ctrl key and clicking the middle mouse button).
+- The icon box. The box at the bottom-right of your screen is called the Iconbox and is your taskbar (also accessible as a list by holding down the Alt key and clicking the middle mouse button). When you minimize (or Iconify an application, it goes here.
+- Holding down Ctrl and left-clicking (or just middle-clicking) brings up the root Enlightenment menu (where the main menu and settings menu can both be accessed.
+
+4 - To change the wallpaper, put it in a _~_.enlightenment_backgrounds directory (within your home directory) then restart Enlightenment (Ctrl+Alt+End).
+To change the wallpaper, put it in a /~/.enlightenment/backgrounds directory (within your home directory) then restart Enlightenment (Ctrl+Alt+End). Then go to the Settings menu, then Desktop Background Settings.
+
+5 - The drag bar is found at the top of your screen and manages the order of virtual desktops.
+The drag bar is found at the top of your screen and manages the order of virtual desktops. Switching between these virtual desktops appears to slide between them.
+- Middle-mouse-button-click on the dragbar to bring up the task list.
+- Right-click on the dragbar to bring up the task list sorted by virtual desktop.
+
+6 - On your active window, double-click the title bar to shade_unshade the window.
+On your active window, double-click the title bar to shade/unshade the window.
+
+7 - "Throw" the mouse pointer rapidly to the edge of the screen to switch desktop.
+"Throw" the mouse pointer rapidly to the edge of the screen to switch desktop.
+
+8 - Install a launcher such as iBar if you wish.
+Install a launcher such as iBar if you wish.
+
+9 - Widgets.
+Widgets. "Epplets" are small programs which can display widgets (also known as widgets, gadgets or modules) on your desktop such as a clock, battery power, calendar, CPU usage, hard disk usage, network connections and traffic.
+
+10 - Themes.
+Themes. Customize the desktop by downloading new themes. Put it in a /~/.enlightenment/themes directory (within your home directory) then restart Enlightenment (Ctrl+Alt+End). Then go to the Enlightenment root menu, then Themes.
+

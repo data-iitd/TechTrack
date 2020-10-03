@@ -1,0 +1,29 @@
+Check for and Install Updates on a Mac Computer
+https://www.wikihow.com/Check-for-and-Install-Updates-on-a-Mac-Computer
+
+0 - Upgrading to a Newer OS X Version
+
+1 - Open the App Store.
+Open the App Store. Upgrades to the latest release of OS X are free, and are generally recommended for access to new features and higher security. You can download these upgrades from the App Store on your Mac.
+
+2 - Find the page in the App Store for the latest version of OS X.
+Find the page in the App Store for the latest version of OS X. This will usually appear at the very top of the "Featured" tab if you aren't currently running that version. If it's not, you'll find it at the top of the "Quick Links" section on the right side of the Featured page. You can also search for the release name.[3]
+- X
+- Research source
+- 
+- The latest release at the time of this writing is "Catalina."
+
+3 - Click the "Download" button to begin downloading the upgrade.
+Click the "Download" button to begin downloading the upgrade. New releases of OS X are quite large, and the download may take several hours to complete.
+- If you don't have a high-speed internet connection, or don't want to exceed your bandwidth cap, you can take your Mac to any Apple Store and upgrade it for free in-store.
+
+4 - Run the "Install OS X Name" program in your Applications directory.
+Run the "Install OS X Name" program in your Applications directory. If the installation didn't begin automatically after downloading, you can run this program that will appear in your Applications directory. This will begin the upgrade process.
+
+5 - Follow the prompts to install the upgrade.
+Follow the prompts to install the upgrade. You'll be taken through a few screens before installation begins, such as the terms and conditions. Most users can simply proceed through these screens without changing any information.
+- The upgrade will not affect any of your personal files or programs.
+
+6 - Wait for the installation to finish.
+Wait for the installation to finish. The upgrade process will usually take 20-30 minutes to finish, and your Mac will reboot once it's complete. You should still be able to find all of your files and programs in their original locations after installing the upgrade.
+

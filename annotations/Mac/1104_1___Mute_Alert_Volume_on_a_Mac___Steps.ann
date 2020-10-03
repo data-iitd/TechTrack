@@ -1,0 +1,13 @@
+T1	Software-OS-Related 138 148	Apple icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 271 289	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 340 345	Sound
+A3	isOpened T3 f->t
+T4	Software-OS-Related 575 588	Sound Effects
+A4	isOpened T4 f->t
+T5	Software-OS-Related 684 696	Alert volume
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 904 905	x
+A6	isOpened T6 t->f
+R1	SubPart Arg1:T5 Arg2:T3	

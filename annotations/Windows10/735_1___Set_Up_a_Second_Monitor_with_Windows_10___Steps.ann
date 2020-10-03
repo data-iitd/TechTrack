@@ -1,0 +1,35 @@
+T1	Hardware-Devices 812 816	HDMI
+T2	Hardware-Devices 818 829	DisplayPort
+T3	Hardware-Devices 834 839	USB-C
+T4	Hardware-Devices 163 177	second monitor
+T5	Software-OS-Related 240 252	Windows 10's
+T7	Software-OS-Related 1127 1141	VGA connector,
+T8	Software-OS-Related 1162 1185	trapezoid-shaped output
+T9	Hardware-Devices 1513 1527	second monitor
+T12	Hardware-Devices 1867 1875	computer
+T14	Hardware-Devices 2358 2363	Power
+T15	Software-OS-Related 2395 2400	Start
+A3	isOpened T15 f->t
+T16	Software-OS-Related 2427 2439	Windows logo
+T17	Software-OS-Related 2514 2522	Settings
+T18	Software-OS-Related 2552 2563	gear-shaped
+T19	Software-OS-Related 2626 2632	System
+T20	Software-OS-Related 2656 2669	laptop-shaped
+T21	Software-OS-Related 2716 2723	Display
+T22	Software-OS-Related 2833 2850	Multiple displays
+T23	Software-OS-Related 2964 2971	display
+T24	Software-OS-Related 3042 3048	Extend
+T25	Software-OS-Related 3490 3505	primary monitor
+A4	isSettingsChanged T25 true
+A5	isOpened T25 t->f
+T26	Hardware-Devices 3332 3338	screen
+T27	Software-OS-Related 3382 3392	Blacks out
+T28	Software-OS-Related 3598 3616	additional options
+T29	Software-OS-Related 3676 3681	Apply
+T30	Software-OS-Related 3694 3706	Keep changes
+T31	Software-OS-Related 3631 3635	Save
+T32	Software-OS-Related 3813 3816	Use
+A6	isOpened T17 f->t
+A7	isOpened T19 f->t
+A8	isSettingsChanged T30 true
+A9	isOpened T29 f->t

@@ -1,0 +1,17 @@
+T1	Software-OS-Related 97 99	Go
+A1	isOpened T1 f->t
+T2	Software-OS-Related 250 259	Utilities
+A2	isOpened T2 f->t
+T3	Software-OS-Related 347 359	Disk Utility
+A3	isOpened T3 f->t
+T4	Software-OS-Related 507 517	hard drive
+T5	Software-OS-Related 639 647	Internal
+T6	Software-OS-Related 671 680	Partition
+A4	isOpened T6 f->t
+T9	Software-OS-Related 1178 1184	Format
+T10	Software-OS-Related 1190 1199	partition
+T11	Software-OS-Related 1235 1246	File format
+A5	isOpened T11 f->t
+T12	Software-OS-Related 1950 1955	Apply
+A6	isSettingsChanged T12 true
+T13	Software-OS-Related 2126 2130	Done

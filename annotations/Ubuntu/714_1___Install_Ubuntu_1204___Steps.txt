@@ -1,0 +1,52 @@
+Install Ubuntu 12.04
+https://www.wikihow.com/Install-Ubuntu-12.04
+
+0 - Steps
+
+1 - Download the Ubuntu image.
+Download the Ubuntu image. Ubuntu is available for free from the Ubuntu website. It is downloaded in ISO format, which needs to be burned to a CD or DVD before you can use it. Most newer computers (built after 2011) will use the 64-bit version, while older computers will need the 32-bit version.
+- ;
+
+2 - Burn the image to a disc.
+Burn the image to a disc. There are a variety of free image burning programs available, and Windows 7, 8 and Mac OS X all have image burning capabilities built-in.
+- In Windows 7 and 8, navigate to the downloaded ISO file and double-click on it. Insert a blank disc into your burner, and follow the on-screen instructions to burn the disc
+- In Mac OS X, open the Disk Utility. This is located in the Utilities folder, in your Applications folder. Insert your blank disc into your disc drive. Drag and drop the ISO file into the left frame of Disk Utility. Select the ISO file in the frame and click Burn.
+
+3 - Set your computer to boot from the CD_DVD drive.
+Set your computer to boot from the CD/DVD drive. In order to install Ubuntu, you will need to set your computer to boot from discs. This is because the installation has to occur before your existing operating system is loaded from the hard disk.
+- When you reboot your computer, press the BIOS setup key to enter your BIOS menu. In the Boot section, select your CD/DVD drive as the primary boot device. Once you have it set, save and exit the BIOS. Your computer will reset again.
+- In Windows 8, hold the Shift key while clicking Restart in the Power menu. This will reboot the computer into the Advanced Startup Options. From here, you can choose to boot from a CD or DVD.
+
+4 - Try Ubuntu before you install.
+Try Ubuntu before you install. If you'd like to take Ubuntu for a test drive before you commit to installing it, you can run Ubuntu directly from the installation CD without making any changes to your computer. Click the “Try Ubuntu” button to test it out.
+
+5 - Start the installation process.
+Start the installation process. Click the Install Ubuntu button to begin the installation. If you are trying out Ubuntu before installing, you can start the installation by opening the Install file on the test desktop.
+- You will need around 5 GB of free space on your computer to install Ubuntu.
+- Installation works best if you are connected to the internet. The easiest way to do this is to plug an Ethernet cable directly into your computer from the router.
+- You can also connect to a wireless network if Ubuntu recognizes your wireless adapter.
+
+6 - Check the boxes in the “Preparing to install Ubuntu” window.
+Check the boxes in the “Preparing to install Ubuntu” window. Ubuntu can automatically download updates during the installation, and can install software that will allow you to play MP3 files and Flash video (YouTube). Installing these updates and software during installation will save you a significant amount of time and headaches when the operating system is installed.
+
+7 - Choose your installation type.
+Choose your installation type. You can choose to install Ubuntu alongside your existing operating system, you can replace your existing operating system, or you can create new partitions yourself. If you choose to install alongside your existing operating system, you will be given the option to set how much space is allocated for each operating system.
+- If your computer doesn't have an operating system installed yet, you will need to select “Something else” and create a partition to install Ubuntu on. Make sure that the partition is formatted as Ext4.
+- If you install Ubuntu alongside your existing operating system, you will be given the option to choose your operating system every time your computer is rebooted.
+- If you replace your existing operating system with Ubuntu, you will lose all of your files and programs. Make sure that you have everything backed up that you want to save.
+
+8 - Select your user options.
+Select your user options. Ubuntu will ask for your location in order to set the correct timezone. If you are connected to the internet, this should happen automatically. You will also need to select your keyboard layout, which is typically automatically picked for you.
+
+9 - Select a username and password.
+Select a username and password. In the “Who are you?” window, you will need to enter your name, your computer's name, and a username and password that you will use to log in. You will need the password when making administrative changes to the computer as well.
+
+10 - Wait for the installation to complete.
+Wait for the installation to complete. Once you have set your options, Ubuntu will begin to install. This can take 30 minutes or more depending on your computer's speed. Tips for using Ubuntu will be displayed above the progress bar. Once the installation is complete, you will be prompted to reboot your computer. Ubuntu is ready to use.[1]
+- X
+- Research source
+- 
+- 
+- If you have multiple operating systems installed, you will be given the option to choose the one you want to load when your computer starts.
+- If you don't have any other operating systems installed, Ubuntu will begin automatically.
+

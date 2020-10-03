@@ -1,0 +1,36 @@
+Improve Image Quality on an LCD Monitor
+https://www.wikihow.com/Improve-Image-Quality-on-an-LCD-Monitor
+
+0 - Steps
+
+1 - Verify that your video card and LCD monitor have DVI connectors.
+Verify that your video card and LCD monitor have DVI connectors. It is typically a white rectangular connector with holes for pins and a thin slot.
+- ;
+
+2 - Buy a DVI Male-to-Male connector from your local electronics store.
+Buy a DVI Male-to-Male connector from your local electronics store. Typically 3 to 6 feet (0.9 to 1.8 m) long will do. (The DVI Male-to-Female connector is just to extend an existing cable).
+
+3 - Plug one end into the video card DVI connector and the other into the LCD monitor DVI connector.
+Plug one end into the video card DVI connector and the other into the LCD monitor DVI connector.
+
+4 - Turn on your LCD Monitor and PC.
+Turn on your LCD Monitor and PC.
+
+5 - Read your LCD monitor manual to see what you need to do to set the monitor to read the DVI input.
+Read your LCD monitor manual to see what you need to do to set the monitor to read the DVI input. Generally it is typically a button on the front that chooses input. Press it until you see a signal.
+
+6 - You will probably need to set the resolution on the PC to match the optimal rate of the monitor (which should be stated in the Monitor manual).
+You will probably need to set the resolution on the PC to match the optimal rate of the monitor (which should be stated in the Monitor manual).
+
+7 - In Windows XP, just right click on a clear part of the desktop and click Properties to bring up the Display window.
+In Windows XP, just right click on a clear part of the desktop and click Properties to bring up the Display window.
+
+8 - Click the Settings tab at the top.
+Click the Settings tab at the top.
+
+9 - Drag the slider in the "screen resolution" field right to set the resolution to the highest setting.
+Drag the slider in the "screen resolution" field right to set the resolution to the highest setting. (Keep moving one to the left if the resolution turns out to be larger than your monitor; Eg. if the desktop space goes off screen.)
+
+10 - Click OK and then the LCD monitor will start using that new resolution.
+Click OK and then the LCD monitor will start using that new resolution. (If it asks whether you want to keep the new resolution, click Yes) You'll notice items like text fonts and pictures look a thousand times sharper when shown at the optimal resolution of your LCD monitor especially with a DVI cable.
+

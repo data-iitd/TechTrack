@@ -1,0 +1,37 @@
+Change File Names in Bulk on PC or Mac
+https://www.wikihow.com/Change-File-Names-in-Bulk-on-PC-or-Mac
+
+0 - macOS
+
+1 - Open Finder  on your Mac.
+Open Finder  on your Mac. You’ll usually find this icon on the Dock.
+
+2 - Open the folder with the files you want to change.
+Open the folder with the files you want to change.
+
+3 - Select the files.
+Select the files. To select more than one file at a time, hold ⌘ Command as you click each file. If you prefer, you can click and drag a box around the files you want to edit.
+- To select all of the files in a folder, click somewhere in the folder, then press ⌘ Command+A.
+
+4 - Click the Action button.
+Click the Action button. It’s at the top of the Finder window.
+
+5 - Click Rename [number of] Items.
+Click Rename [number of] Items.
+
+6 - Click Format from the drop-down menu.
+Click Format from the drop-down menu. It’s the menu at the top of the set of rename tools.
+
+7 - Select a name format for the style format.
+Select a name format for the style format. Select Name and Index, Name and Counter, or Name and Date depending on your needs.
+
+8 - Type a name for the files into the “Custom Format” box.
+Type a name for the files into the “Custom Format” box. This is the name that will appear at the beginning of each file name.
+- For example, if you type “Cat” and selected “Name and Counter” as your format, the files will be called Cat-1, Cat-2, etc.
+
+9 - Enter a starting number.
+Enter a starting number. If you’re numbering the files, you can start with 1, 2, or any other number.
+
+10 - Click Rename.
+Click Rename. The selected files are now renamed sequentially using the formatting you entered.
+

@@ -1,0 +1,24 @@
+Control Your Mac from Your iPhone
+https://www.wikihow.com/Control-Your-Mac-from-Your-iPhone
+
+0 - Install VNC Viewer on iPhone or iPad
+
+1 - On your iPhone, open the App Store .
+On your iPhone, open the App Store .  It's the app with a blue icon and a white capital "A".
+
+2 - Tap Search .
+Tap Search .  It's the magnifying glass icon on the bottom-right corner of the screen.
+
+3 - Type VNC Viewer in the search bar.
+Type VNC Viewer in the search bar.  Tap the grey bar at the top and type a search entry.
+
+4 - Tap the VNC Viewer app in the search results.
+Tap the VNC Viewer app in the search results.  It's a blue icon that has "vnc" in curvy white letters.
+
+5 - Tap GET.
+Tap GET.  It's the blue button under the "VNC Viewer - Remote Desktop" title at the top of the page. This will start downloading and installing the VNC remote desktop app on your iPhone.
+- Use your Touch ID or enter you Passcode if prompted before downloading the app.
+
+6 - Tap OPEN.
+Tap OPEN.  The "Get" button will change to "Open" once app is installed.  This launches the VNC Viewer app on your phone.
+

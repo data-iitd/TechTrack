@@ -1,0 +1,10 @@
+T1	Hardware-Devices 528 532	Scan
+T2	Hardware-Other 302 311	USB drive
+T3	Hardware-Other 227 230	USB
+T4	Hardware-Devices 125 147	multi-function printer
+A2	isPowered T4 f->t
+T5	Hardware-Other 631 639	computer
+T6	Hardware-Other 597 600	USB
+T7	Hardware-Other 779 788	USB drive
+T8	Hardware-Other 884 893	USB drive
+T9	Hardware-Other 904 912	computer

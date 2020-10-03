@@ -1,0 +1,36 @@
+Create an ISO Image from a Folder in Ubuntu
+https://www.wikihow.com/Create-an-ISO-Image-from-a-Folder-in-Ubuntu
+
+0 - Steps
+
+1 - You can download ISO Creator script from this site:
+You can download ISO Creator script from this site: http://gnomefiles.org/content/show.php/ISO+Creator?content=134892
+- ;
+
+2 - Open Gedit text editor and copy_paste the script.
+Open Gedit text editor and copy/paste the script.
+
+3 - Then, save it under the name of ISO Creator.
+Then, save it under the name of ISO Creator.
+
+4 - After you save the script, it looks like the picture shown.
+After you save the script, it looks like the picture shown. Now, close Gedit.
+
+5 - Open the Home folder and press Ctrl+H key combination to show the hidden folders and files in Nautilus.
+Open the Home folder and press Ctrl+H key combination to show the hidden folders and files in Nautilus.
+
+6 - Navigate to gnome2 folder then nautilus-scripts.
+Navigate to gnome2 folder then nautilus-scripts. Now,copy/paste the script or just drag to the folder.
+
+7 - Now , right click on the script and click on Properties option.
+Now , right click on the script and click on Properties option. The under Permissions tab, click on 'Allow executing file as program' to make the script working. After that, close Nautilus.
+
+8 - To create ISO image, right click on the desired folder.
+To create ISO image, right click on the desired folder. Then, click on Scripts -> ISO Creator.
+
+9 - ISO Creator will start to create ISO image.
+ISO Creator will start to create ISO image.
+
+10 - Now, you're ready to use ISO image.
+Now, you're ready to use ISO image.
+

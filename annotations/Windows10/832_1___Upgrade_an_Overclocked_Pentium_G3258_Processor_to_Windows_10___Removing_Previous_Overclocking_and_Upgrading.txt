@@ -1,0 +1,25 @@
+Upgrade an Overclocked Pentium G3258 Processor to Windows 10
+https://www.wikihow.com/Upgrade-an-Overclocked-Pentium-G3258-Processor-to-Windows-10
+
+0 - Removing Previous Overclocking and Upgrading
+
+1 - Before installing Windows 10, go to your UEFI_BIOS.
+Before installing Windows 10, go to your UEFI/BIOS. Make your way to the overclocking section (varies for each motherboard manufacturer). Once here, remove all previous overclocking and return to the original stock speed. In this instance it's 3.2Ghz.
+- ;
+
+2 - Install and boot your Windows 10
+Install and boot your Windows 10. This should work fine, but one massive issue still reigns. Due to an ill-informed update by Microsoft, you will be unable to overclock your Pentium G3258 again, unless you complete this method first.
+
+3 - Navigate to C:\Windows\System32
+Navigate to C:\Windows\System32.
+
+4 - Locate the file named 'mcupdate_GenuineIntel.dll'.
+Locate the file named 'mcupdate_GenuineIntel.dll'.
+- When you try deleting this file, access will be denied. To bypass these little hiccup, gain permission to have access to this file with the steps in How to Delete Files That Cannot Be Deleted or How to Delete a File or Folder Showing Error "Access Is Denied". Once you have deleted/renamed this file, you are set to go.
+
+5 - Head over to the UEFI_BIOS once again.
+Head over to the UEFI/BIOS once again. Reverse any changes you had previously made
+
+6 - Once you've finished all your changes, Windows 10 should boot without any issues.
+Once you've finished all your changes, Windows 10 should boot without any issues.
+

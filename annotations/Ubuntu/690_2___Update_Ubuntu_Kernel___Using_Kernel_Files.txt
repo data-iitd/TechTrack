@@ -1,0 +1,47 @@
+Update Ubuntu Kernel
+https://www.wikihow.com/Update-Ubuntu-Kernel
+
+0 - Using Kernel Files
+
+1 - Open the Ubuntu kernel list.
+Open the Ubuntu kernel list. Go to http://kernel.ubuntu.com/~kernel-ppa/mainline/ in your computer's web browser.
+
+2 - Select a kernel version.
+Select a kernel version. Scroll down until you find the link to the kernel version number you want to install, then click it to open its page.
+- As of August 2018, the newest kernel is version 4.18. You can find it at the very bottom of the page under the v4.18 link.
+
+3 - Find the kernel for your computer.
+Find the kernel for your computer. Usually the top list of kernel (.deb) files will work for your computer, but if you see a heading that contains files which seem better suited to your computer than the top heading, you may want to use its files instead.
+- Each heading on the page should say "Build for [architecture] succeeded" where "architecture" refers to your computer's system architecture (32-bit or 64-bit).
+
+4 - Download the kernel files.
+Download the kernel files. Click each kernel file's link to do so . You'll need the "headers" file marked for all versions, the "image" file with "generic" in its name (avoid the "low latency" versions of these files), and the "modules" file with "generic" in its name. For example, to download the necessary files for kernel 4.18, you would click the following links:
+- linux-headers-4.18.0-041800_4.18.0-041800.201808122131_all.deb
+- linux-image-unsigned-4.18.0-041800-generic_4.18.0-041800.201808122131_amd64.deb
+- linux-modules-4.18.0-041800-generic_4.18.0-041800.201808122131_amd64.deb
+
+5 - Open Terminal.
+Open Terminal. Click the black Terminal icon on the left side of the screen. This will open the Terminal window.
+- You can also press Ctrl+Alt+T to open Terminal.
+
+6 - Switch to your default "Downloads" directory.
+Switch to your default "Downloads" directory. Type in cd Downloads and press ↵ Enter. If your default "Downloads" location for your web browser differs from the "Downloads" folder, replace "Downloads" with the path to the folder into which your kernel files downloaded.
+- If you have any .deb files not related to the kernel installation in this directory, either move them or delete them before proceeding.
+
+7 - Prompt Ubuntu to open the .deb files.
+Prompt Ubuntu to open the .deb files. Type in sudo dpkg -i *.deb and press ↵ Enter.
+
+8 - Enter your password when asked.
+Enter your password when asked. Type in the password you use to log into your computer, then press ↵ Enter.
+- You won't see any characters or stars appear while typing.
+
+9 - Wait for Ubuntu to finish installing the kernel.
+Wait for Ubuntu to finish installing the kernel. This may take a few minutes. Once you see the "Downloads" directory tag reappear next to your name at the bottom of the window, you can proceed.
+
+10 - Reboot your computer.
+Reboot your computer. Click the "Menu"  icon in the top-right corner of the screen, then click the "Power"  icon and click Restart in the resulting pop-up window.
+
+11 - Check your current kernel.
+Check your current kernel. You can double-check that Ubuntu's installation of your kernel was successful by opening Terminal and entering uname -sr. If this command shows you a number that matches the version number of the kernel you downloaded, your kernel has successfully updated.
+- If you don't see the correct kernel number here, you may have downloaded the wrong files for your computer. Delete the .deb files from your "Downloads" folder, then go back to the list of kernel files and try downloading them from under a different heading.
+

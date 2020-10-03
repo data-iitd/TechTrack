@@ -1,0 +1,98 @@
+T1	Hardware-Devices 122 130	keyboard
+T2	Hardware-Other 231 241	number pad
+T3	Hardware-Other 317 321	keys
+T4	Hardware-Devices 483 491	keyboard
+A1	isConnected T4 t->f
+T5	Hardware-Other 501 509	computer
+T6	Hardware-Devices 965 973	keyboard
+T7	Hardware-Other 1003 1011	computer
+T8	Hardware-Other 1110 1117	plastic
+T9	Hardware-Other 1407 1413	vacuum
+T10	Hardware-Other 1535 1541	vacuum
+T11	Hardware-Devices 1665 1673	keyboard
+T12	Hardware-Other 1683 1690	plastic
+T13	Hardware-Other 1713 1719	blower
+T14	Hardware-Other 1774 1777	key
+T15	Hardware-Other 1790 1793	saw
+T16	Hardware-Other 1798 1809	screwdriver
+T17	Hardware-Other 1824 1830	screws
+T18	Hardware-Other 1868 1874	gloves
+T19	Hardware-Other 1887 1894	glasses
+T20	Hardware-Devices 2314 2322	keyboard
+T21	Hardware-Other 2416 2426	number pad
+T22	Hardware-Other 2614 2622	circuits
+T23	Hardware-Other 2817 2823	screws
+T24	Hardware-Other 2994 3006	plastic case
+T25	Hardware-Other 3072 3079	sticker
+T26	Hardware-Other 3293 3298	knife
+T27	Hardware-Other 3197 3208	screwdriver
+T28	Hardware-Other 3843 3851	spacebar
+T29	Hardware-Devices 3874 3906	Microsoft Natural Ergonomic 4000
+T30	Hardware-Devices 4113 4121	keyboard
+T31	Hardware-Other 4179 4183	keys
+T32	Hardware-Other 4701 4711	number pad
+T33	Hardware-Other 4824 4830	screws
+T34	Hardware-Other 5116 5123	circuit
+T35	Hardware-Other 5691 5699	membrane
+T36	Hardware-Other 5811 5820	USB cable
+T37	Hardware-Devices 6000 6032	Microsoft Natural Elite keyboard
+T38	Hardware-Other 6101 6111	rubber pad
+T39	Hardware-Other 6269 6275	sheets
+T40	Hardware-Other 6279 6292	dome switches
+T41	Hardware-Other 6869 6875	blower
+T42	Hardware-Other 6925 6935	dishwasher
+T43	Hardware-Other 8048 8056	Num Lock
+T44	Hardware-Other 8058 8067	Caps Lock
+T45	Hardware-Other 8073 8084	Scroll Lock
+T46	Hardware-Other 8526 8530	Cord
+T47	Hardware-Other 8920 8928	Spacebar
+T48	Hardware-Devices 9368 9376	keyboard
+T49	Hardware-Other 9455 9460	Screw
+T50	Hardware-Other 9530 9545	navigation keys
+T51	Hardware-Other 9550 9560	number pad
+T52	Hardware-Devices 9674 9682	keyboard
+T53	Hardware-Other 9894 9904	number pad
+T54	Hardware-Other 9953 9957	tape
+T55	Hardware-Other 10299 10306	plastic
+T56	Hardware-Other 11934 11947	keyboard case
+T57	Hardware-Other 11989 11996	plastic
+T58	Hardware-Other 12097 12104	hacksaw
+T59	Hardware-Other 12110 12117	backsaw
+T60	Hardware-Devices 12522 12530	keyboard
+T61	Hardware-Other 12730 12736	Dremel
+T62	Hardware-Other 12759 12763	tape
+T63	Hardware-Other 13039 13043	book
+T64	Hardware-Other 13239 13248	sandpaper
+T65	Hardware-Other 14075 14085	number pad
+T66	Hardware-Devices 14205 14237	Microsoft Natural Elite keyboard
+T67	Hardware-Other 14294 14309	navigation keys
+T68	Hardware-Other 14706 14713	plastic
+T69	Hardware-Other 14940 14950	number pad
+T70	Hardware-Other 14951 14964	dome switches
+T71	Hardware-Other 14986 14991	sheet
+T72	Hardware-Other 15225 15229	keys
+T73	Hardware-Other 15751 15768	keyboard membrane
+T74	Hardware-Other 15910 15917	circuit
+T75	Hardware-Other 15979 15989	number pad
+T76	Hardware-Devices 16042 16050	keyboard
+T77	Hardware-Devices 16075 16083	keyboard
+T78	Hardware-Other 16367 16371	keys
+T79	Hardware-Other 16384 16397	dome switches
+T80	Hardware-Other 16410 16418	membrane
+T81	Hardware-Other 16332 16353	electronic controller
+T82	Hardware-Other 16355 16361	lights
+T83	Hardware-Devices 16460 16492	Microsoft Natural Elite keyboard
+T84	Hardware-Other 16654 16659	Screw
+T85	Hardware-Devices 17027 17035	keyboard
+A3	isPowered T85 f->t
+T86	Hardware-Other 17231 17239	computer
+T87	Hardware-Other 17568 17578	number pad
+T88	Hardware-Other 17593 17601	membrane
+T89	Hardware-Devices 17737 17745	keyboard
+T90	Hardware-Other 17789 17793	tape
+T91	Hardware-Other 17978 17984	drawer
+T92	Hardware-Other 18254 18261	plastic
+T93	Hardware-Other 18905 18920	navigation keys
+T94	Hardware-Other 19919 19925	screws
+T95	Hardware-Other 21694 21700	cement
+T96	Hardware-Other 21680 21684	glue

@@ -1,0 +1,45 @@
+Create Text Abbreviations on a Mac
+https://www.wikihow.com/Create-Text-Abbreviations-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo in the top left corner of the menu screen.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Keyboard" icon.
+Click the "Keyboard" icon.
+
+4 - Click Text.
+Click Text.
+
+5 - Click +.
+Click +. It's near the bottom left corner of the Keyboard window.
+
+6 - Type in the abbreviation.
+Type in the abbreviation. Your abbreviation will be used to indicate what your Mac will replace the text with.
+- Make sure you pick a unique abbreviation, meaning that it should be different from any other abbreviations registered on your Mac.
+
+7 - Press Tab ↹.
+Press Tab ↹.
+
+8 - Type in the replacement text.
+Type in the replacement text. The replacement text is what your Mac will automatically fill in for you when you type it's corresponding abbreviation.
+- For example, if your abbreviation is "omg," and your replacement text is "oh my goodness," every time you type in "omg," your Mac will fill it in as "oh my goodness."
+
+9 - Click the red "X" button.
+Click the red "X" button. Each time you type in the abbreviated text, your Mac will substitute it with the replacement text.
+- Certain apps, such as Google Chrome, are not compatible with this feature.[1]
+- X
+- Research source
+- 
+- 
+- Many applications will require you to enable this feature manually. To work around changing each app's settings individually, open Terminal.
+- Type in "defaults write -g WebAutomaticTextReplacementEnabled -bool true"
+- Press ↵ Enter. This enables all compatible apps to use text abbreviations.[2]
+- X
+- Research source
+

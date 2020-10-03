@@ -1,0 +1,15 @@
+T3	Software-OS-Related 247 280	sudo nano /etc/network/interfaces
+T2	Software-OS-Related 166 184	configuration file
+A2	isOpened T2 f->t
+T4	Software-OS-Related 535 550	default gateway
+T5	Software-OS-Related 596 600	eth0
+T6	Software-OS-Related 620 639	.gateway IP Address
+T7	Software-OS-Related 674 695	gateway 192.168.1.254
+T8	Software-OS-Related 746 750	Save
+A4	isSettingsChanged T8 true
+T9	Software-OS-Related 865 872	Restart
+T10	Software-OS-Related 941 976	sudo /etc/init.d/networking restart
+T11	Software-Other 305 316	nano editor
+R1	SubPart Arg1:T7 Arg2:T2	
+R2	SubPart Arg1:T8 Arg2:T2	
+A3	isSettingsChanged T7 true

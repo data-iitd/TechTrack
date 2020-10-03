@@ -1,0 +1,42 @@
+Open Windows Services
+https://www.wikihow.com/Open-Windows-Services
+
+0 - Steps
+
+1 - Use the Start menu_screen.
+Use the Start menu/screen.
+- Press the Start ( or ) button.
+- Type services.
+- Click or tap the matching result.
+- ;
+
+2 - Use the Run dialog.
+Use the Run dialog.
+- Press the ⊞ Win+R keys simultaneously.
+- Type services.msc.
+- Press OK or hit ↵ Enter.
+
+3 - Use the Command Prompt.
+Use the Command Prompt.
+- 
+- Open the Command Prompt. Press the Start ( or ) button and type command prompt. Click or tap on the matching result.
+- In the Command Prompt window, type services.msc and hit ↵ Enter.
+
+4 - Use File Explorer.
+Use File Explorer.
+- 
+- Open File Explorer or Windows Explorer (Windows 7 and earlier).
+- Navigate to the drive that Windows is installed on.
+- Go to the "Windows" folder.
+- Go to "System32".
+- Look for "services" or "services.msc".
+- Open it. Right-click (press down and release for touchscreen devices) the listing and choose Open from the context menu that appears.
+
+5 - Begin using Services.
+Begin using Services. Right-click (press down and release for touchscreen devices) on a specific service to show a context menu with a bunch of options. Here are a few options explained:
+- Start/stop: starts or stops the service
+- Pause/resume: pauses or unpauses the specified service
+- Refresh: refreshes the list of all services
+- Properties: change advanced settings for the selected service.
+- Help: get help using Windows Services
+

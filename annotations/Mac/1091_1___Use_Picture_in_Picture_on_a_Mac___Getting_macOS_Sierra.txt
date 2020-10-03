@@ -1,0 +1,59 @@
+Use Picture in Picture on a Mac
+https://www.wikihow.com/Use-Picture-in-Picture-on-a-Mac
+
+0 - Getting macOS Sierra
+
+1 - Go to http:__beta.apple.com_sp_betaprogram_.
+Go to http://beta.apple.com/sp/betaprogram/. As of August, 2016, macOS Sierra is only available to the public in its beta version. You can download that version from the Apple website.
+- ;
+
+2 - Click "Sign Up".
+Click "Sign Up". You'll be brought to a login page.
+
+3 - Log in with your Apple ID.
+Log in with your Apple ID. Enter your Apple ID and Password. Then, click
+
+4 - Accept the terms of agreement.
+Accept the terms of agreement. Read the licensing agreement that appears on your screen, scroll to the bottom of the page, and click "Accept."
+
+5 - Copy your redeem code.
+Copy your redeem code. Although the download will begin automatically, you'll also be shown a code that you can use as proof of your entitlement to the beta software. Copy this code so that it's safe, just in case.
+- To copy the cody, click and drag your mouse over it so it highlights blue. Then, press command+c.
+
+6 - Click "Download the macOS Sierra Public Beta.
+Click "Download the macOS Sierra Public Beta."
+
+7 - Open the App Store.
+Open the App Store. On your Mac, click on the magnifying glass in the top-right corner of your screen to open Spotlight's search function. Type "App Store" into the search bar, and click on the "App Store" result.
+
+8 - Click on the "Featured" tab at the top of the window.
+Click on the "Featured" tab at the top of the window.
+
+9 - Click "Redeem" in the sidebar on the right.
+Click "Redeem" in the sidebar on the right.
+
+10 - Enter your Redeem code.
+Enter your Redeem code. Hit enter when you are done, and the download will begin automatically.
+- Given that macOS Sierra is a large program, it may take a number of hours to download. You can check the progress of the download by opening the application "Launchpad" in your Finder.
+
+11 - Open Launchpad.
+Open Launchpad. When the download is complete, use Spotlight to search for and open the application called "Launchpad". In your Launchpad, you'll now see an icon labelled macOS Sierra.
+
+12 - Click "Install" to launch the macOS Sierra Public Beta app.
+Click "Install" to launch the macOS Sierra Public Beta app. Then, click "Continue" on the window that appears.
+
+13 - Backup your computer.
+Backup your computer. If you haven't backed up your computer recently, click Continue in the dropdown menu that appears. If you have recently backed up your computer or don't care to, click Cancel.
+
+14 - Accept the licensing terms.
+Accept the licensing terms. Click "Accept" at the bottom of the window that appears to do so. Click "Agree" again to confirm the download.
+
+15 - Click Install.
+Click Install. The installation will default to your Macintosh hard drive.
+
+16 - Enter your administrator password and click OK.
+Enter your administrator password and click OK.
+
+17 - Restart your computer.
+Restart your computer. The update will occur while the computer is restarting.
+

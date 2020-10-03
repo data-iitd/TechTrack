@@ -1,0 +1,37 @@
+Use the Touch Bar on a Mac
+https://www.wikihow.com/Use-the-Touch-Bar-on-a-Mac
+
+0 - Setting Up Touch ID
+
+1 - Click the Apple menu.
+Click the Apple menu. You'll find this in the upper-left corner of the screen.
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click Touch ID.
+Click Touch ID. If you don't see this option, click the Show All button at the top of the window. The icon is a grid with 12 dots.
+
+4 - Click Add a fingerprint.
+Click Add a fingerprint.
+
+5 - Type your account password.
+Type your account password.
+
+6 - Place your finger on the Touch ID sensor when prompted.
+Place your finger on the Touch ID sensor when prompted.
+
+7 - Lift and place again in a slightly different position.
+Lift and place again in a slightly different position.
+
+8 - Repeat placing your finger until the scan is complete.
+Repeat placing your finger until the scan is complete. Make sure you move your finger slightly each time so that the scanner can read all angles.
+
+9 - Click the checkboxes for the services you want to use.
+Click the checkboxes for the services you want to use. You can use your fingerprint to unlock your Mac, enable Apple Pay in Safari, and authorize purchases in the iTunes and App Stores.
+
+10 - Unlock your Mac with your fingerprint.
+Unlock your Mac with your fingerprint. Once enabled, you can unlock your Mac from the login screen by simply placing your finger on the Touch ID sensor.[3]
+- X
+- Research source
+

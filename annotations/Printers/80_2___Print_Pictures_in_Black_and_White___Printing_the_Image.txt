@@ -1,0 +1,25 @@
+Print Pictures in Black and White
+https://www.wikihow.com/Print-Pictures-in-Black-and-White
+
+0 - Printing the Image
+
+1 - Open the image.
+Open the image. You can open the image in any image editor or preview program.
+
+2 - Open the Print window.
+Open the Print window. You can usually find this in the file menu or toolbar, or you can press ⌘ Cmd/Ctrl+P.
+
+3 - Open the Printer Properties window and select "Black and White" or "Grayscale".
+Open the Printer Properties window and select "Black and White" or "Grayscale". For most programs, you'll need to open the Printer Properties or Preferences window in order to select black and white or grayscale. The options you get when printing vary from printer to printer and in different programs. For example, in the Windows Photo Viewer program, you'll need to click the "Options" link in the Print window, and then the "Printer properties" link.
+- This is not necessary if you've already converted your image into black and white using the method outlined above.
+
+4 - Insert and select the proper paper.
+Insert and select the proper paper. Some printers support photo paper that can make your printed picture look like an actual developed photo. The method for inserting this paper varies depending on your printer, so refer to your printer's documentation and indicators on the printer itself.
+- The method for selecting the proper paper size depends on what program you are using to print. In the Windows Photo Viewer, for example, you can use the "Paper size" drop-down menu to select the size of the paper you inserted in your printer.
+
+5 - Print the photo.
+Print the photo. If your photo is color, make sure you've selected the black and white or grayscale option. If you've already converted your image, you can just print it. Photos take a lot longer to print than text, but black and white photos are a little faster.
+
+6 - Finished.
+Finished.
+

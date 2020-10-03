@@ -1,0 +1,36 @@
+Rotate Images Using the Trackpad on a Mac
+https://www.wikihow.com/Rotate-Images-Using-the-Trackpad-on-a-Mac
+
+0 - Rotating an Image Using the Trackpad
+
+1 - Find the image you want to open.
+Find the image you want to open. You can locate an image using the Finder.
+- ;
+
+2 - Press Control + click the mouse button to right click on the image.
+Press Control + click the mouse button to right click on the image.
+- If you have two-finger or corner secondary click enabled, you can use those methods to call up the right click menu as well.
+
+3 - Click Open with.
+Click Open with.
+
+4 - Click Preview from the drop down list.
+Click Preview from the drop down list.
+- Note that not every app supports the rotation trackpad gesture. For the best results, open your photo using the Preview or Adobe Photoshop apps.
+- You cannot use the rotation gesture in the Photos app.[1]
+- X
+- Research source
+
+5 - Hover your cursor over the image.
+Hover your cursor over the image.
+
+6 - Place two fingers on the trackpad.
+Place two fingers on the trackpad.
+
+7 - Rotate one finger around the other.
+Rotate one finger around the other.
+- For example, if you place your thumb and pointer finger on the trackpad, drag your pointer finger around your thumb in a clockwise or counterclockwise motion.
+
+8 - Take your fingers off the trackpad's surface.
+Take your fingers off the trackpad's surface. Your image will be rotated!
+

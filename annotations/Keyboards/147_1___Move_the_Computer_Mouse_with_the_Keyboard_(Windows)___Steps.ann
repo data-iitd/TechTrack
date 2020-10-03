@@ -1,0 +1,39 @@
+T1	Software-OS-Related 158 163	Start
+A1	isOpened T1 f->t
+T2	Hardware-Devices 217 225	keyboard
+A2	isPowered T2 start-T
+T3	Hardware-Other 242 243	⊞
+T4	Hardware-Other 312 313	↑
+T5	Hardware-Other 313 314	↓
+T6	Hardware-Other 314 315	←
+T7	Hardware-Other 315 316	→
+T8	Hardware-Other 317 321	keys
+T9	Hardware-Devices 329 337	keyboard
+T10	Hardware-Other 401 402	↹
+T11	Software-OS-Related 417 430	Control Panel
+T12	Hardware-Other 532 533	↵
+T13	Hardware-Other 615 622	⊞ Win+R
+T14	Software-OS-Related 784 798	Ease Of Access
+T15	Software-OS-Related 835 848	control panel
+T16	Software-OS-Related 852 861	windows 7
+T17	Hardware-Other 994 995	↹
+T18	Hardware-Other 1036 1037	↵
+T19	Hardware-Other 1066 1067	↹
+T20	Software-OS-Related 1131 1158	change how your mouse works
+T21	Software-OS-Related 1185 1206	Ease of Access Center
+T22	Hardware-Other 1215 1216	↵
+T23	Hardware-Other 1258 1259	↹
+T24	Hardware-Other 1260 1263	key
+T25	Software-OS-Related 1291 1309	turn on mouse keys
+T26	Hardware-Other 1387 1395	Spacebar
+T27	Software-OS-Related 1515 1532	Set up Mouse Keys
+T28	Hardware-Other 1662 1663	↹
+T29	Software-OS-Related 1686 1688	OK
+T30	Hardware-Other 1700 1701	↵
+T31	Hardware-Other 1791 1805	numeric keypad
+T32	Hardware-Devices 1843 1851	keyboard
+T33	Software-OS-Related 1887 1893	cursor
+T34	Hardware-Devices 1905 1911	screen
+A9	isPowered T34 start-T
+T35	Hardware-Other 1947 1951	Ctrl
+T36	Hardware-Other 1955 1956	⇧

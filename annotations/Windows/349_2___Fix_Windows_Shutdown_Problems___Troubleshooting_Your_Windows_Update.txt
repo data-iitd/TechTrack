@@ -1,0 +1,33 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - Troubleshooting Your Windows Update
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- You must be using an account with administrator privileges in order to troubleshoot the windows update.
+
+2 - Scroll down and click Windows System.
+Scroll down and click Windows System. It's a folder in the "W" section of the Start menu.
+
+3 - Click Control Panel.
+Click Control Panel. It's near the middle of the Windows System folder.
+
+4 - Click Troubleshooting.
+Click Troubleshooting. This icon resembles a blue computer monitor inside of a computer window.
+- If you don't see this option, click the option next to "View by:" in the top-right corner of the window and select Large icons or Small icons.
+
+5 - Click Fix problems with Windows Update.
+Click Fix problems with Windows Update. This link is below the "System and Security" heading.
+
+6 - Click Next.
+Click Next. It's in the bottom-right corner of the window.
+
+7 - Click Try troubleshooting as an administrator.
+Click Try troubleshooting as an administrator. This option will appear at the top of the window. If you aren't using an administrator account, you won't be able to complete this process.
+
+8 - Follow the on-screen instructions.
+Follow the on-screen instructions. If there are any problems with your Windows update, follow the instructions provided to fix them.
+- In most cases, you'll click Apply fix when prompted and wait for the fix to be applied.
+- You may need to reboot your computer for the changes to take effect, which means you'll have to hold down your computer's power button to turn it off.
+

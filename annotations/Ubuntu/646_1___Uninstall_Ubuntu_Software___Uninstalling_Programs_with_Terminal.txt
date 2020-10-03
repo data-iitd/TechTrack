@@ -1,0 +1,26 @@
+Uninstall Ubuntu Software
+https://www.wikihow.com/Uninstall-Ubuntu-Software
+
+0 - Uninstalling Programs with Terminal
+
+1 - Open  Terminal.
+Open  Terminal. You should see the Terminal app icon on the left side of the screen; if not, click the Ubuntu icon in the top-left corner of the screen, type terminal into the search bar, and click Terminal when it appears.
+- ;
+
+2 - Open a list of your currently installed programs.
+Open a list of your currently installed programs. Type dpkg --list into Terminal, then press ↵ Enter.
+
+3 - Find the program that you want to uninstall.
+Find the program that you want to uninstall. You'll need to note the official name of the program file rather than the name of the program itself (e.g., "avg.exe" rather than AVG Antivirus).
+
+4 - Enter the "apt-get" command.
+Enter the "apt-get" command. Type sudo apt-get --purge remove program into Terminal—making sure to use the program's actual name instead of "program"—and press ↵ Enter.
+
+5 - Enter your root password.
+Enter your root password. Type in your superuser password, then press ↵ Enter.
+
+6 - Confirm the deletion.
+Confirm the deletion. Type in y and press ↵ Enter. Your program will begin to uninstall itself. Once it finishes, you can close Terminal.
+- This process may take a while to complete depending on the size of the program.
+- If your program isn't properly removed using the apt-get command, try using sudo aptitude remove program instead.
+

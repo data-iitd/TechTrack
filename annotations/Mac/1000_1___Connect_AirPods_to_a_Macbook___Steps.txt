@@ -1,0 +1,33 @@
+Connect AirPods to a Macbook
+https://www.wikihow.com/Connect-AirPods-to-a-Macbook
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the  icon in the upper-left corner of the screen.;
+
+2 - Click on System Preferences….
+Click on System Preferences…. It's near the top of the drop-down menu.
+
+3 - Click on Bluetooth.
+Click on Bluetooth. It's near the center of the window.
+
+4 - Click on Turn Bluetooth On.
+Click on Turn Bluetooth On. It's on the left side of the dialog box.
+
+5 - Hold the AirPods case near your Mac.
+Hold the AirPods case near your Mac. The AirPods must be in the case and the lid closed.
+
+6 - Open the lid on the AirPods case.
+Open the lid on the AirPods case.
+
+7 - Press and hold the "Setup" button.
+Press and hold the "Setup" button. It's a small, round button on the back of the AirPods case. Hold the button until the status light flashes white.
+
+8 - Click on AirPods.
+Click on AirPods. It will appear in the "Devices" section on the right side of your Mac's Bluetooth dialog box.
+
+9 - Click on Pair.
+Click on Pair. Your AirPods will now pair with your Mac.
+- Check "Show Bluetooth in menu bar" at the bottom of the dialog box to enable a drop-down menu that will allow you to quickly switch your Mac's audio output to AirPods without going through "System Preferences."
+

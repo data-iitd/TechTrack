@@ -1,0 +1,40 @@
+Back Up a Windows Computer
+https://www.wikihow.com/Back-Up-a-Windows-Computer
+
+0 - Creating a System Image
+
+1 - Connect another hard drive or flash drive to the computer.
+Connect another hard drive or flash drive to the computer. This method will help you back up the entire system to another location. If you’re backing up to an external or flash drive, make sure it’s connected to the computer before you begin.
+
+2 - Press ⊞ Win+S.
+Press ⊞ Win+S. This opens the search bar.
+
+3 - Type control panel.
+Type control panel.
+
+4 - Click Control Panel.
+Click Control Panel.
+
+5 - Type file history into the search field.
+Type file history into the search field. It’s at the top-right corner of the Control Panel.[1]
+- X
+- Research source
+
+6 - Click the File History title.
+Click the File History title.
+
+7 - Click System Image Backup.
+Click System Image Backup. It’s at the bottom-left corner of the window.
+
+8 - Click Create a system image.
+Click Create a system image. It’s in the left panel.
+
+9 - Select where you want to save your backup.
+Select where you want to save your backup. You can back up to another drive, network location, or series of DVDs.
+
+10 - Click Next.
+Click Next. Now you’ll see a summary of what’s about to be backed up.
+
+11 - Click Start backup.
+Click Start backup. An image of your computer in its current state will be copied to the selected location. Depending on the amount of data and backup location, this may take a long time.
+

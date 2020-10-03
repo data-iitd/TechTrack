@@ -1,0 +1,39 @@
+Change Audio Output on Windows
+https://www.wikihow.com/Change-Audio-Output-on-Windows
+
+0 - Steps
+
+1 - Click the Windows Start  button.
+Click the Windows Start  button.  It's the button that has the Windows logo in the lower-left corner in the taskbar.  This displays the Windows Start menu.
+- ;
+
+2 - Type Control Panel.
+Type Control Panel.  This displays the Control Panel at the top of the Windows Start menu.
+
+3 - Click the Control Panel.
+Click the Control Panel.  The Control Panel is the app that has an icon that resembles a blue screen with graphs.
+
+4 - Click Hardware and Sound.
+Click Hardware and Sound.  It's the green text next to an image of a printer.
+
+5 - Click Sound.
+Click Sound.  It's next to the icon that resembles a speaker.  This displays the Sound options window.
+
+6 - Click the Playback tab.
+Click the Playback tab.  The Playback tab is the first tab at the top of the Sound options window.  This displays a list of available audio devices.
+
+7 - Click the audio device you want.
+Click the audio device you want.  This may include internal speakers, monitor speakers, a USB device, or Bluetooth speakers/headphones.
+- Read "How To Connect a Bluetooth Speaker to a Laptop" to learn more about how to connect a Bluetooth audio device to a Windows computer.
+
+8 - Click Set Default.
+Click Set Default.  It's the button below the list of devices in the sound options.  It's has a downward facing arrow next to it.  This sets the audio device as the default audio device.[1]
+- X
+- Research source
+
+9 - Click Ok.
+Click Ok.  It's in the lower-right corner of the Sound options window.  This closes the Sound options window.
+- You can also click the speaker icon in the taskbar.  This displays the volume bar.  Click the up arrow to the right above the volume bar.  Then select the device you want to use for your audio output.[2]
+- X
+- Research source
+

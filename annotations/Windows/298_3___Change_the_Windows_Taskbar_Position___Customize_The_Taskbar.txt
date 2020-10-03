@@ -1,0 +1,28 @@
+Change the Windows Taskbar Position
+https://www.wikihow.com/Change-the-Windows-Taskbar-Position
+
+0 - Customize The Taskbar
+
+1 - Change the color of the taskbar.
+Change the color of the taskbar. Click the "Start" button on the taskbar. [4]
+- X
+- Research source
+
+2 - Type "taskbar" in the "Search the web and Windows" box.
+Type "taskbar" in the "Search the web and Windows" box. Select "Apply color to Start, taskbar, and Action Center" in the menu.
+
+3 - Choose a color.
+Choose a color. Highlight the color of choice by clicking one of the colored squares.
+
+4 - Apply to taskbar.
+Apply to taskbar. Turn on "Show color on Start, taskbar, action center, and title bar" setting. Turn off "Make Start, taskbar, and action center transparent". Close the settings window.
+
+5 - Add or remove taskbar features.
+Add or remove taskbar features. Right-click the taskbar, select "Properties" from the menu.
+
+6 - Turn taskbar features on or off.
+Turn taskbar features on or off. On the "Taskbar" tab you can choose to lock the taskbar, auto-hide the taskbar, use small taskbar buttons, or combine task bar buttons.
+
+7 - Select toolbars to add to the taskbar.
+Select toolbars to add to the taskbar. On the "Toolbars" tab you can add a web address toolbar, links, battery, or a desktop toolbar to the taskbar. Click "Apply" to save changes, and "Ok" to close.
+

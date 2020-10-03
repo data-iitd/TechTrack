@@ -1,0 +1,26 @@
+Change the Taskbar Color in Windows
+https://www.wikihow.com/Change-the-Taskbar-Color-in-Windows
+
+0 - Steps
+
+1 - Open Settings.
+Open Settings. You can open settings by clicking the Start Menu icon, then clicking the gear icon.
+- ;
+
+2 - Click Personalization.
+Click Personalization. This should be located near the bottom of the first column next to an icon of a paintbrush and desktop.
+
+3 - Click Colors.
+Click Colors. You'll see this on the left side of the menu.
+
+4 - Click to pick a color.
+Click to pick a color. You can click the box to opt to let Windows use an accent color from your background or pick a color from the "Recent colors" and "Windows colors" selections.
+- You can also click the plus sign to use a custom color.
+
+5 - Click the box to select it  next to "Start, taskbar, and action center.
+Click the box to select it  next to "Start, taskbar, and action center." This is under the "Show accent color on the following surfaces" header.[1]
+- X
+- Research source
+- 
+- As you click these options, you will see it automatically applied. If you don't like the color, click another color swatch to change it.
+

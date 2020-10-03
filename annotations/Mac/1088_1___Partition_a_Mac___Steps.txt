@@ -1,0 +1,60 @@
+Partition a Mac
+https://www.wikihow.com/Partition-a-Mac
+
+0 - Steps
+
+1 - Back up your current data on your Mac using either the Time Machine or Carbon Copy Cloner programs.
+Back up your current data on your Mac using either the Time Machine or Carbon Copy Cloner programs.
+- ;
+
+2 - Remove all external USB drives:
+Remove all external USB drives: external HDDs and flash sticks.
+
+3 - Insert Mac OSX installation disk into your Mac.
+Insert Mac OSX installation disk into your Mac. Restart your computer.
+
+4 - While Welcome Mac Music plays, press and hold "C" key on Mac keyboard to ensure your Mac will start from DVD drive.
+While Welcome Mac Music plays, press and hold "C" key on Mac keyboard to ensure your Mac will start from DVD drive.
+
+5 - Wait till Mac OSX installation will load.
+Wait till Mac OSX installation will load.
+
+6 - Select your language and click "Next" button on the installation screen.
+Select your language and click "Next" button on the installation screen.
+
+7 - Accept the license terms.
+Accept the license terms.
+
+8 - Go to Utilities on the top menu and select Disk Utility.
+Go to Utilities on the top menu and select Disk Utility. The Disk Utility will start. On the top of left side of Disk Utility you will see your Mac's disk.
+
+9 - Select that disk by clicking on it with mouse pointer.
+Select that disk by clicking on it with mouse pointer. On the right side there will appear five tabs: 'First Aid', 'Erase', 'Partition', 'RAID', 'Restore'. Select the 'Partition' tab.
+
+10 - On the 'Partition' tab you will see "Volume Scheme'.
+On the 'Partition' tab you will see "Volume Scheme'. It shows how many volumes your Mac's disk have. Normally, all Macs have just one volume and that is very big problem for the end user! Here's why: if your Mac crashes, it can happen that you will not be able to restore your private data (never forget Murphy's Law). It happens not so often compared with Windows, but when it happens you may lose your data forever: email settings, pictures, Garageband songs, iWork documents, iChat and calendar history, and so on. To avoid your data loss, it is recommended that you make two partitions on your Mac: one for OSX system, the other one for your private data.
+- On that "Volume Scheme' select two partitions. Mac will divide the disk to two volumes, both of equal size.
+- Move the slider up between the partitions. Leave 80 Gb of the disk capacity for the system and the rest for your files.
+
+11 - Click on that upper volume; that will be the OSX System volume.
+Click on that upper volume; that will be the OSX System volume.
+- On 'Volume Information' name your system disk like Mac, or Quark.
+
+12 - Select from Format drop-down menu "Mac OS Extended (Journaled)".
+Select from Format drop-down menu "Mac OS Extended (Journaled)".
+
+13 - Click the lower volume on the 'Volume Scheme".
+Click the lower volume on the 'Volume Scheme". Name your volume like "My safe box", "Data wardrobe", whatever you wish.
+
+14 - Select from Format drop-down menu "Mac OS Extended (Journaled)".
+Select from Format drop-down menu "Mac OS Extended (Journaled)".
+
+15 - Until this moment you still have your data on your Mac.
+Until this moment you still have your data on your Mac. Are you sure you backed up your data? If 100% YES, then... click "Apply" button. The Disk Utility will ask something like "if you will proceed you will lose all your data", click OK. You will lose your data for sure.
+
+16 - Wait until formatting has ended.
+Wait until formatting has ended. When it ends, on the left side of the Disk Utility you will see now two empty new volumes: the upper one is for system, the lower one for your data.
+
+17 - If everything is OK, Select "Disk Utility" on the top menu and click "Quit Disk Utility".
+If everything is OK, Select "Disk Utility" on the top menu and click "Quit Disk Utility".
+

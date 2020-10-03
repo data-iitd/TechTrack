@@ -1,0 +1,16 @@
+T1	Software-OS-Related 146 156	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 255 273	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 305 313	Touch ID
+A3	isOpened T3 f->t
+T4	Software-OS-Related 469 486	Add a fingerprint
+A4	isOpened T4 f->t
+T5	Hardware-Devices 641 656	Touch ID sensor
+A5	isUsed T5 true
+A6	isConnected T5 start-T
+T6	Software-OS-Related 1072 1082	checkboxes
+A7	isSettingsChanged T6 true
+T7	Software-OS-Related 534 550	account password
+A8	isSettingsChanged T7 true
+R1	SubPart Arg1:T6 Arg2:T3	

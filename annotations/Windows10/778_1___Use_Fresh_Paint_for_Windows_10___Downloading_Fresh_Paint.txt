@@ -1,0 +1,31 @@
+Use Fresh Paint for Windows 10
+https://www.wikihow.com/Use-Fresh-Paint-for-Windows-10
+
+0 - Downloading Fresh Paint
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+- ;
+
+2 - Type in store.
+Type in store. This will search your computer for the Store app.
+
+3 - Click  Microsoft Store.
+Click  Microsoft Store. It's at the top of the menu. Doing so opens the Store app.
+
+4 - Click the "Search" text box.
+Click the "Search" text box. You'll find it in the upper-right side of the Store window.
+
+5 - Type in fresh paint.
+Type in fresh paint. This will prompt several matching results to appear below the text box in a drop-down menu.
+
+6 - Click Fresh Paint.
+Click Fresh Paint. It's in the resulting drop-down menu below the text box. Doing so takes you to the Fresh Paint app page.
+
+7 - Click Get.
+Click Get. This blue button is in the upper-left side of the page. Fresh Paint will begin to install; once it finishes, you'll receive a notification in the lower-right side of the screen.
+
+8 - Click Launch when prompted.
+Click Launch when prompted. It's a button on the notification that Fresh Paint was successfully installed. This will open Fresh Paint, at which point you're ready to begin using the program.
+- You can also click Launch in the Microsoft Store once Fresh Paint is installed, or you can type fresh paint into Start and then click the Fresh Paint result.
+

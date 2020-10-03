@@ -1,0 +1,22 @@
+Use Radio Tray on Linux
+https://www.wikihow.com/Use-Radio-Tray-on-Linux
+
+0 - Playing Radio Stations
+
+1 - Open Radio Tray so click on the Linux "Start" button.
+Open Radio Tray so click on the Linux "Start" button.
+
+2 - Navigate to Sound & Video, then click Radio Tray.
+Navigate to Sound & Video, then click Radio Tray.
+- You will see this icon if the program has launched successfully.
+
+3 - Browse the list of genres to choose from.
+Browse the list of genres to choose from.
+
+4 - Hover your cursor over a genre then click on the radio station you want to listen to.
+Hover your cursor over a genre then click on the radio station you want to listen to.
+- In this tutorial, we will choose the Oldies genre and then click Antioch OTR AM 1710.
+
+5 - Wait for a notification in the top right corner of the screen.
+Wait for a notification in the top right corner of the screen.
+

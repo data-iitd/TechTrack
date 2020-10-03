@@ -1,0 +1,67 @@
+T3	Hardware-Other 647 652	knife
+T4	Hardware-Other 1174 1188	circuit board.
+T5	Hardware-Other 619 624	blade
+T6	Hardware-Other 625 636	screwdriver
+T9	Hardware-Devices 985 992	earbuds
+T10	Hardware-Other 1090 1102	copper wires
+T12	Hardware-Other 330 336	wiring
+T13	Hardware-Other 1208 1213	wires
+T15	Hardware-Devices 1595 1602	earbuds
+T16	Hardware-Other 1570 1574	wire
+T17	Hardware-Other 1625 1630	plugs
+T20	Hardware-Other 2284 2298	soldering iron
+T21	Hardware-Other 2219 2223	wire
+T24	Hardware-Other 2879 2884	wires
+T26	Hardware-Other 3110 3124	soldering iron
+T27	Hardware-Other 3602 3611	soldering
+T28	Hardware-Devices 3728 3735	earbuds
+T25	Hardware-Other 3741 3752	copper wire
+T29	Hardware-Other 3618 3623	wires
+T18	Hardware-Other 1722 1729	plastic
+T32	Hardware-Other 1648 1654	laptop
+T33	Hardware-Other 1659 1669	car stereo
+T34	Hardware-Other 408 412	jack
+T35	Hardware-Other 469 476	housing
+T8	Hardware-Other 906 910	glue
+T36	Hardware-Other 997 1010	faulty wiring
+T37	Hardware-Other 1132 1140	terminal
+T38	Hardware-Other 1393 1397	cord
+T39	Hardware-Other 1407 1411	jack
+T40	Hardware-Other 1755 1769	rubber coating
+T42	Hardware-Other 1867 1873	solder
+T43	Hardware-Other 461 468	plastic
+T2	Hardware-Other 598 603	tool,
+T44	Hardware-Other 1431 1437	barrel
+T14	Hardware-Other 1447 1451	jack
+T41	Hardware-Other 2057 2063	solder
+T45	Hardware-Other 2154 2171	desoldering braid
+T47	Hardware-Other 2744 2748	wire
+T49	Hardware-Other 2812 2817	wires
+T50	Hardware-Other 2830 2839	terminals
+T53	Hardware-Other 3798 3806	red wire
+T54	Hardware-Other 3850 3860	green wire
+T55	Hardware-Other 4115 4120	coded
+T56	Hardware-Other 4474 4478	Plug
+T59	Hardware-Other 4739 4745	solder
+T61	Hardware-Other 4976 4980	cord
+T62	Hardware-Other 3317 3330	circuit board
+T63	Hardware-Other 3049 3067	electronics solder
+*	Equiv T63 T26
+T31	Hardware-Other 1641 1646	phone
+T1	Hardware-Devices 171 178	earbuds
+A1	isPowered T1 start-T
+A2	isConnected T1 start-T
+T7	Hardware-Devices 846 853	earbuds
+T19	Hardware-Devices 1931 1940	headphone
+T23	Hardware-Devices 2102 2109	earbuds
+T22	Hardware-Other 2508 2525	desoldering wicks
+*	Equiv T45 T22
+T46	Hardware-Devices 2851 2858	earbuds
+T48	Hardware-Other 3356 3367	table clamp
+T51	Hardware-Other 3379 3385	pliers
+T57	Hardware-Other 3398 3402	cord
+T64	Hardware-Other 3467 3479	colored wire
+T30	Hardware-Other 3518 3522	jack
+T52	Hardware-Devices 4487 4494	earbuds
+A4	isConnected T52 f->t
+T58	Hardware-Other 4790 4803	colored wires

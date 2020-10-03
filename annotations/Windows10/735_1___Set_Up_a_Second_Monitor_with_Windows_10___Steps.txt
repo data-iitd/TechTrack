@@ -1,0 +1,60 @@
+Set Up a Second Monitor with Windows 10
+https://www.wikihow.com/Set-Up-a-Second-Monitor-with-Windows-10
+
+0 - Steps
+
+1 - Make sure your computer can support a second monitor.
+Make sure your computer can support a second monitor. While Windows 10's settings allow for multiple displays, not all graphics cards support more than one monitor at a time. You can quickly determine whether your desktop or laptop supports a second monitor by looking at the video output connections:[1]
+- X
+- Research source
+- 
+- 
+- Desktop — On the back of the desktop's tower, look for a free video output port. If you see one next to or directly above the port that's currently being used to connect your desktop to the primary monitor, you can use a second monitor.
+- Laptop — Any laptop with a video output port (e.g., HDMI, DisplayPort, or USB-C) can support a second monitor.
+- ;
+
+2 - Determine the connection needed for the second monitor.
+Determine the connection needed for the second monitor. Most modern computers and monitors use either HDMI or DisplayPort cables. If you have an older computer or monitor, you may find a VGA connector, which is a colored, trapezoid-shaped output.
+- If you have a free video output connection which matches a connection on the back of your second monitor, it's best to use a cable that fits both connections.
+- If your computer uses a different connection than your monitor, you can buy an adapter cable (e.g., USB-C to HDMI) or unit (e.g., VGA to HDMI).
+
+3 - Place the second monitor.
+Place the second monitor. If you want to extend your primary monitor to use your second monitor as extra screen space, you'll want to place your second monitor to the right of your primary one.
+- If you're duplicating your primary monitor, it doesn't matter where you place your second monitor.
+
+4 - Attach the second monitor to your computer.
+Attach the second monitor to your computer. Plug one end of your video cable (e.g., HDMI) into your computer's video output slot, then plug the other end of the cable into your second monitor's video input slot.
+- If you're using an adapter unit, you may need to plug both cables into the adapter and/or plug the adapter into a power source before you can connect the monitor to your computer.
+
+5 - Turn on the second monitor.
+Turn on the second monitor. Press the monitor's "Power"  button to do so.
+
+6 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of your computer's primary monitor.
+
+7 - Open Settings .
+Open Settings . Click the gear-shaped icon in the lower-left side of the Start window.
+
+8 - Click System.
+Click System. It's a laptop-shaped icon in the Settings window.
+
+9 - Click the Display tab.
+Click the Display tab. You'll find this in the upper-left side of the Display page.
+
+10 - Click the "Multiple displays" drop-down box.
+Click the "Multiple displays" drop-down box. It's near the bottom of the page.
+
+11 - Select a display option.
+Select a display option. In most cases, you'll want to click Extend these displays to use the second monitor as an extension of your computer's main display, thus adding more room to the right side of your desktop. You can also select one of the following options if need be:
+- 
+- Duplicate these displays — Copies what's on your computer's primary screen to the second monitor.
+- Show only on 1 — Blacks out the second monitor and displays only on your primary monitor.
+- Show only on 2 — Turns off your primary monitor and displays only on your second monitor.
+- Depending on your second monitor, you may have additional options here.
+
+12 - Save your changes.
+Save your changes. Click Apply, then click Keep changes when prompted. Doing so will prompt your computer to begin using the second display as indicated.
+
+13 - Use your second monitor.
+Use your second monitor. If you're extending your display, pushing your mouse to the far-right side of your primary display and then continuing to push right will cause the mouse to appear on the second display.
+

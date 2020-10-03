@@ -1,0 +1,60 @@
+Fix a Crashed Computer in Windows
+https://www.wikihow.com/Fix-a-Crashed-Computer-in-Windows
+
+0 - Steps
+
+1 - Check your connections.
+Check your connections. If the system stops responding, make sure all the necessary connections are still working. 
+- If it's a desktop, the problem could be as simple as a cable coming loose.
+- If it's a laptop, perhaps the battery is no longer seated correctly. Don't panic until after you've tightened some wires.
+- ;
+
+2 - Use Safe Mode.
+Use Safe Mode. If your PC is in a "soft crashed" state, there are various options to consider. The simplest is Safe Mode, a diagnostic mode found in the Windows and Mac OSes.
+- The Windows Safe Mode loads the operating system with minimal options. This works without loading external or installed drivers.
+- Restart your computer.
+- Press the F8 key, while it boots, to get to the Boot menu.
+- Choose Safe Mode from the Windows Advanced Options Menu.
+- If you're on a Mac, power your system down completely.
+- Hit the start button; after the first start-up tone, hold the ⇧ Shift key until you see the Apple icon. You're now in Safe Mode.
+- Booting into Safe Mode and performing a clean shutdown--or a restart--will help.
+
+3 - Use the last known good configuration.
+Use the last known good configuration. This is another possible option after new hardware and drivers install (even though it worked fine the last time you turned it on).
+- This option is available on the Boot menu you'll see after hitting F8. The full text is Last Known Good Configuration (your most recent settings that worked). This will start the PC using the last working version of the Windows registry. It doesn't delete anything.
+
+4 - Do a System Restore.
+Do a System Restore. The Windows built-in restoration feature is much better than it was in Windows XP's early days. Use this wiki guide to perform a proper restore.
+- Use System Restore to roll-back Windows to an earlier time when everything worked properly, to reverse the effects of bad software or drivers
+- Set a System Restore point when things are working well. In Windows, by default, one is created for every installation.
+- Create a new restore point manually before you install anything or make major changes to your PC.
+- Type "create a restore point" in the search box on the Start menu. Click the Create button at the bottom of the dialog box. Give the restore point a name and wait a few seconds as it's created.
+- For actual restoration, go to the System Restore via the Control Panel. Pick a point and start the rollback.
+- 
+- 
+- Note that this doesn't impact your data, such as documents, music, photos, etc. This is all about getting your software, drivers, and OS back in a working state.
+- WH.shared.addScrollLoadItem('04b762f94101c9688a8cd452608fb31d')
+- 
+- 
+- However, you can right click on a file or folder and select "Restore previous versions." There's a chance something might get restored if it was part of the System Restore shadow copy.
+
+5 - Do System Recovery.
+Do System Recovery. In Windows XP/2000, there is a tool called Recovery Console. You can run it from a command line to replace or repair files. The typical way to access it is to use the original CD you have for installing XP. 
+- From Windows Vista, Microsoft got rid of the Recovery Console and replaced it with the System Recovery Options menu.
+- 
+- 
+- Reboot using the CD and select "Repair your computer" to get to the toolbox of options.
+
+6 - Use Boot Disks.
+Use Boot Disks. It's a method of storing system files in storage media(CD or DVD or USB), other than your hard drive to boot your computer. They get you into a diagnostic mode and help you with a problem.
+- There are some other outside options that do similar job. NeoSmart's Windows 7 System Recovery Disks (If you're still using XP, look at Build an XP SP3 Recovery Disc).
+- There are also a number of Live CDs. Basically, these are Linux installation discs. The OS can run from the disc itself, or from a USB flash drive. Use a Live CD for a distro like Ubuntu or Knoppix to gain access to your hard drive when Windows goes down, so you can, hopefully, recover files.
+
+7 - Try Antivirus Rescue CDs.
+Try Antivirus Rescue CDs. Most of them are free. These not only fight malware, but also clean the registry and check disc integrity.
+- These free versions, which usually use some version of Linux to boot into tools, are better than nothing when faced with a particularly virulent payload.
+
+8 - Use Data Recovery Software.
+Use Data Recovery Software. You've tried every solution to get Windows back, but sometimes it's just doesn't happen. Luckily, you've made backups, right? So you can just reinstall the operating system. Right?
+- The safest and cheapest is to invest in some data recovery software. There are plenty of options: GetDataBack, Stellar Phoenix Windows Data Recovery, EASEUS Data Recovery Wizard, and many more. Many of these programs are great for getting deleted files back from the dead.
+

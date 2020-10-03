@@ -1,0 +1,50 @@
+Clear the Thumbnail Cache in Windows
+https://www.wikihow.com/Clear-the-Thumbnail-Cache-in-Windows
+
+0 - Manually Clearing in Windows XP
+
+1 - Show all hidden files and folders.
+Show all hidden files and folders.
+- 
+- Open Windows Explorer. Click the start button at the bottom-left and then click "My Computer".
+- 
+- 
+- Click the "Tools" menu at the top of the window.
+- WH.shared.addScrollLoadItem('d0e13af372dbc079de15a986a5350f3b')
+- 
+- 
+- Go to the View tab.
+- WH.shared.addScrollLoadItem('3adf948c66ffb90a4f4472c581110a32')
+- 
+- 
+- Enable viewing of hidden items. Click the radio button next to "Show hidden files and folders".
+- WH.shared.addScrollLoadItem('43e0309464db2a48b089efb70ab8aaf5')
+- 
+- 
+- Show protected operating system files. Uncheck the box next to "Hide protected operating system files".
+- WH.shared.addScrollLoadItem('3dc7816c361ee291aaed411b9498b647')
+- 
+- 
+- Confirm the warning prompt. Click the Yes button.
+- WH.shared.addScrollLoadItem('14bfa8346980b5ab198a2f765d7e1b05')
+- 
+- 
+- Save your changes. Click the OK button to close the Folder Options box and save your new file viewing settings.
+- WH.shared.addScrollLoadItem('905fa3f708ab7bdcdba153f953db4604')
+
+2 - Launch the search feature.
+Launch the search feature. Click the start button at the bottom-left and click "Search". It has a magnifying glass icon to the left of it.
+
+3 - Click the "All files and folders" option.
+Click the "All files and folders" option. This is under the "Search Companion" section in the left pane.
+
+4 - Search for Thumbs.db.
+Search for Thumbs.db. Type Thumbs.db and click the Search button to begin the file search.
+
+5 - Select all items.
+Select all items. Click the "Edit" menu at the top and then click "Select All".
+
+6 - Delete all of the selected files.
+Delete all of the selected files. Click on the "File" menu at the top-left and click "Delete".
+- The files will be sent to the Recycle Bin based on your deletion settings. Make sure to check it and empty it if the files have been moved there.
+

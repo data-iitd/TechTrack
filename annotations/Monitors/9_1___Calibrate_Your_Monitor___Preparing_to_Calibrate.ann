@@ -1,0 +1,51 @@
+T1	Hardware-Devices 129 136	monitor
+T2	Hardware-Other 272 279	desktop
+T3	Hardware-Devices 393 399	screen
+T4	Hardware-Other 699 706	laptops
+T5	Hardware-Devices 878 885	monitor
+T6	Hardware-Devices 1054 1061	monitor
+A1	isPowered T5 start-F
+T7	Hardware-Devices 1366 1373	monitor
+T8	Hardware-Other 1395 1400	cable
+T9	Hardware-Other 1509 1517	computer
+T10	Hardware-Other 1526 1543	DisplayPort cable
+T11	Hardware-Other 1563 1573	HDMI cable
+T12	Hardware-Other 1657 1660	DVI
+T13	Hardware-Other 1662 1665	VGA
+T14	Hardware-Other 1670 1685	lower connector
+T15	Hardware-Devices 1707 1714	monitor
+A4	isPowered T15 f->t
+T16	Hardware-Other 1920 1928	computer
+T17	Software-OS-Related 1958 1969	screensaver
+T18	Software-OS-Related 1939 1948	hibernate
+T19	Hardware-Other 1980 1985	mouse
+T20	Hardware-Devices 2017 2023	screen
+T21	Hardware-Devices 2061 2068	monitor
+T23	Software-OS-Related 2310 2315	Start
+A9	isOpened T23 f->t
+T24	Software-OS-Related 2324 2332	Settings
+A10	isOpened T24 f->t
+T25	Software-OS-Related 2341 2347	System
+A11	isOpened T25 f->t
+T26	Software-OS-Related 2355 2362	Display
+A12	isOpened T26 f->t
+T27	Software-OS-Related 2375 2385	Resolution
+A13	isOpened T27 f->t
+T28	Software-OS-Related 2417 2428	Recommended
+A14	isSettingsChanged T28 true
+R1	SubPart Arg1:T28 Arg2:T27	
+T29	Software-OS-Related 2479 2482	Mac
+A16	isOpened T29 start-T
+T30	Software-OS-Related 2494 2504	Apple menu
+A17	isOpened T30 f->t
+T31	Software-OS-Related 2513 2534	System Preferences...
+A18	isOpened T31 f->t
+T32	Software-OS-Related 2542 2550	Displays
+A19	isOpened T32 f->t
+T33	Software-OS-Related 2562 2573	Display tab
+A20	isOpened T33 f->t
+T36	Software-OS-Related 2663 2682	Default for display
+A23	isSettingsChanged T36 true
+T22	Software-OS-Related 2295 2302	Windows
+A2	isOpened T22 start-T
+R2	SubPart Arg1:T36 Arg2:T33	

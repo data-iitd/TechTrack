@@ -1,0 +1,16 @@
+T1	Hardware-Other 127 139	power source
+T2	Hardware-Devices 170 177	printer
+A1	isPowered T2 f->t
+T3	Hardware-Other 342 345	Mac
+T4	Hardware-Other 431 439	computer
+T5	Hardware-Other 444 447	USB
+T6	Software-OS-Related 1130 1134	menu
+A2	isOpened T6 f->t
+T7	Software-OS-Related 1300 1318	System Preferences
+A3	isOpened T7 f->t
+T8	Software-OS-Related 1526 1527	+
+A4	isOpened T8 f->t
+T9	Hardware-Devices 1664 1671	printer
+T10	Software-OS-Related 1795 1798	Add
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T7	

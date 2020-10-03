@@ -1,0 +1,23 @@
+T1	Software-OS-Related 158 168	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 289 307	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 346 355	Bluetooth
+A3	isOpened T3 f->t
+T4	Software-OS-Related 501 518	Turn Bluetooth On
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 549 550	<
+A5	isOpened T5 f->t
+T6	Software-OS-Related 742 750	discover
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 855 863	Trackpad
+A7	isOpened T7 f->t
+T8	Software-OS-Related 964 989	Set Up Bluetooth Trackpad
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1103 1111	trackpad
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1175 1183	Continue
+A10	isSettingsChanged T10 true
+R1	SubPart Arg1:T8 Arg2:T7	
+R2	SubPart Arg1:T4 Arg2:T3	
+R3	SubPart Arg1:T6 Arg2:T3	

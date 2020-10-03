@@ -1,0 +1,87 @@
+Quickly Make a Table for WordPad
+https://www.wikihow.com/Quickly-Make-a-Table-for-WordPad
+
+0 - Creating an HTML Table
+
+1 - Start a new WordPad document.
+Start a new WordPad document. You can use WordPad to create a table in HTML that can be open and displayed in any web browser.
+- ;
+
+2 - Add the table tags.
+Add the table tags. These are the tags that your table code will be enclosed in.
+- <table>
+- </table>
+
+3 - Add the first row to your table.
+Add the first row to your table. This will be the header row for your table.
+- <table>
+- <tr>
+- </tr>
+- </table>
+
+4 - Add the table headings to the first row.
+Add the table headings to the first row. Use the table heading tags to add as many columns as you would like.
+- <table>
+- <tr>
+- <th>Column 1</th>
+- <th>Column 2</th>
+- <th>Column 3</th>
+- <th>Column 4</th>
+- </tr>
+- </table>
+
+5 - Add another row beneath the headers.
+Add another row beneath the headers. Now that you have your column headings, you can add your first row of data.
+- <table>
+- <tr>
+- <th>Column 1</th>
+- <th>Column 2</th>
+- <th>Column 3</th>
+- <th>Column 4</th>
+- </tr>
+- <tr>
+- <td>Data 1</td>
+- <td>Data 2</td>
+- <td>Data 3</td>
+- <td>Data 4</td>
+- </tr>
+- </table>
+
+6 - Continue adding rows.
+Continue adding rows. You can use the  tags to continue adding rows of data to your table. Make sure that you close each one with a  tag.
+- <table>
+- <tr>
+- <th>Column 1</th>
+- <th>Column 2</th>
+- <th>Column 3</th>
+- <th>Column 4</th>
+- </tr>
+- <tr>
+- <td>Data 1</td>
+- <td>Data 2</td>
+- <td>Data 3</td>
+- <td>Data 4</td>
+- </tr>
+- <tr>
+- <td>Data 5</td>
+- <td>Data 6</td>
+- <td>Data 7</td>
+- <td>Data 8</td>
+- </tr>
+- </table>
+
+7 - Click File and select "Save as."
+Click File and select "Save as." This will allow you to save the document as an HTML file. It needs to be in HTML format so that you can see the table when you load it in a web browser.
+
+8 - Select "Text" from the "Save as type" menu.
+Select "Text" from the "Save as type" menu. This lets you change the extension.
+
+9 - Change the extension at the end of the file name to .html.
+Change the extension at the end of the file name to .html. This will change the format to HTML format.
+
+10 - Save the file.
+Save the file. You can now name and save the file as whatever you'd like. Make sure that it has the .html extension.
+
+11 - Open the file in a web browser.
+Open the file in a web browser. Double-click the newly-created HTML file to load it in your default web browser. Your table will appear in the browser window.
+

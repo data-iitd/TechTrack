@@ -1,0 +1,50 @@
+T1	Software-Other 117 127	VirtualBox
+A1	isInstalled T1 f->t
+T2	Software-Other 689 712	macOS High Sierra Final
+T3	Software-OS-Related 896 903	Extract
+A2	isOpened T3 f->t
+T4	Software-Other 1137 1147	VirtualBox
+A3	isOpened T4 f->t
+T5	Software-Other 1235 1238	New
+A4	isOpened T5 f->t
+T6	Software-Other 1531 1563	macOS 10.13 High Sierra (64-bit)
+T7	Software-Other 1427 1435	Mac OS X
+T8	Software-Other 1446 1450	Type
+A5	isOpened T8 f->t
+T9	Software-Other 1590 1597	Version
+A6	isOpened T9 f->t
+T10	Software-Other 2187 2196	hard disk
+T11	Software-Other 2260 2299	Use an existing virtual hard disk drive
+A7	isSettingsChanged T11 true
+R1	SubPart Arg1:T11 Arg2:T10	
+T12	Software-Other 2444 2452	Settings
+A8	isOpened T12 f->t
+T13	Software-Other 2631 2637	System
+A9	isSettingsChanged T13 true
+T14	Software-Other 2707 2714	Chipset
+T15	Software-Other 2692 2696	ICH9
+A10	isSettingsChanged T15 true
+R2	SubPart Arg1:T15 Arg2:T13	
+T16	Software-OS-Related 3158 3172	command prompt
+A11	isOpened T16 f->t
+T17	Software-OS-Related 3353 3373	Run as administrator
+A12	isOpened T17 f->t
+T18	Software-Other 4512 4522	VirtualBox
+A13	isOpened T18 f->t
+T19	Software-Other 4615 4620	Start
+A14	isOpened T19 f->t
+T20	Software-Other 4717 4728	virtual Mac
+T21	Software-Other 4980 4989	App Store
+A15	isOpened T21 f->t
+T22	Software-Other 5079 5084	Xcode
+A16	isOpened T22 f->t
+T23	Software-Other 5210 5215	Xcode
+A17	isOpened T23 f->t
+T24	Software-Other 5324 5327	Get
+A18	isOpened T24 f->t
+T25	Software-Other 5436 5443	Install
+A19	isInstalled T25 f->t
+T26	Software-Other 5565 5569	Open
+A20	isOpened T26 f->t
+T27	Software-Other 5630 5635	Agree
+A21	isOpened T27 f->t

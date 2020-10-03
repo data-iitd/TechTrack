@@ -1,0 +1,33 @@
+Unlock a Mac Using the Apple Watch
+https://www.wikihow.com/Unlock-a-Mac-Using-the-Apple-Watch
+
+0 - Enabling Two-Factor Authentication
+
+1 - Click the Apple menu on your Mac and select "System Preferences."
+Click the Apple menu on your Mac and select "System Preferences."  You'll need Two-Factor Authentication enabled for your account in order to be able to unlock with your Apple Watch. You can enable it in the System Preferences menu.
+- To set up Two-Factor on your iPhone instead, open the Settings app and select "iCloud." Tap your Apple ID and enter your password. Tap "Password & Security" and then tap "Set Up Two-Factor Authentication."[1]
+- X
+- Research source
+- 
+- 
+- ;
+
+2 - Select "iCloud" and then click "Account Details."
+Select "iCloud" and then click "Account Details." You'll be prompted to enter your Apple ID password.
+
+3 - Click the "Security" tab.
+Click the "Security" tab. This will display the security settings for your Apple ID account.
+
+4 - Click the "Set Up Two-Factor Authentication" button.
+Click the "Set Up Two-Factor Authentication" button. This will start the Two-Factor setup process.
+- If you have devices that aren't running iOS 9+ or OS X 10.11+, you'll be warned that those devices will require a special password in order to use them.
+
+5 - Answer your security questions.
+Answer your security questions. You'll need to answer both questions before you can proceed.
+
+6 - Enter a verification phone number.
+Enter a verification phone number. This phone number will be able to receive SMS codes in case you don't have access to your trusted devices when trying to log in.
+- A valid credit card attached to your account can help you recover access if you get locked out when Two-Factor is activated. You can add one by logging into appleid.apple.com and adding your card in the "Payment Method" section.[2]
+- X
+- Research source
+

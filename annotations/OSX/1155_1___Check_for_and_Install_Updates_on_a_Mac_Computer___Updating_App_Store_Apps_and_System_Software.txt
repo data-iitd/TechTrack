@@ -1,0 +1,25 @@
+Check for and Install Updates on a Mac Computer
+https://www.wikihow.com/Check-for-and-Install-Updates-on-a-Mac-Computer
+
+0 - Updating App Store Apps and System Software
+
+1 - Click the Apple menu and select "App Store."
+Click the Apple menu and select "App Store." The Apple menu is in the upper-left corner of the screen. You can now use the App Store to check for the latest versions of your App Store apps, as well as install any security and stability updates for OS X. These changes were made in OS X Yosemite, so if you're running an older version of OS X, see the Installing Updates in Legacy OS X Versions section below.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Click the "Updates" tab.
+Click the "Updates" tab. You'll find this at the top of the App Store window. The button display a number showing how many updates are available.
+
+3 - Click "Update" next to any available update to install it.
+Click "Update" next to any available update to install it. The update will begin downloading immediately, and will install as soon as it finishes downloading.
+- You'll see both app updates and system updates in the list of available updates (if any are available).
+
+4 - Click "Update All" to download and install every available update.
+Click "Update All" to download and install every available update. If you have a lot of updates available, click the "Update All" to download and install all of them at once.
+
+5 - Check for updates after installing the updates you had available.
+Check for updates after installing the updates you had available. Some updates will only appear after an older update has been installed. Open the Updates tab again after you've installed all available updates to see if more are now available.
+

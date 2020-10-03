@@ -1,0 +1,23 @@
+Resolve No Sound on Windows Computer
+https://www.wikihow.com/Resolve-No-Sound-on-Windows-Computer
+
+0 - Running the Audio Troubleshooter
+
+1 - Right-click the Start  menu and select System.
+Right-click the Start  menu and select System. This opens your computer's settings.
+- The Audio Troubleshooter will walk you through multiple steps to fix sound problems. You may be asked to adjust certain enhancements, enable/disable features, and/or allow some volume changes. The troubleshooter should be able to resolve most sound issue.[1]
+- X
+- Research source
+
+2 - Click Sound.
+Click Sound. It's near the top of the left column.
+
+3 - Click Troubleshoot.
+Click Troubleshoot. It's below the volume slider near the top of the right panel. Windows will now try to detect sound issues.
+
+4 - Select the audio device you want to troubleshoot.
+Select the audio device you want to troubleshoot. If you have more than one sound output, you'll be asked to check each separately. Choose the output that's built-in to your computer to continue.
+
+5 - Follow the on-screen instructions to complete the troubleshooter.
+Follow the on-screen instructions to complete the troubleshooter. If the troubleshooter does not resolve your sound issue, try another method.
+

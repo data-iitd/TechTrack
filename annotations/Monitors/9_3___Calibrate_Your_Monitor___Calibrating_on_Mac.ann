@@ -1,0 +1,18 @@
+T1	Software-OS-Related 113 123	Apple menu
+A1	isOpened T1 f->t
+T3	Hardware-Devices 200 206	screen
+A3	isPowered T3 start-T
+T4	Software-OS-Related 251 269	System Preferences
+A5	isOpened T4 f->t
+T6	Software-OS-Related 387 395	Displays
+A7	isOpened T6 f->t
+T7	Software-OS-Related 436 461	System Preferences window
+T8	Software-OS-Related 503 508	Color
+A9	isOpened T8 f->t
+T9	Software-OS-Related 563 578	Displays window
+T10	Software-OS-Related 593 602	Calibrate
+A11	isOpened T10 f->t
+T12	Hardware-Devices 841 848	monitor
+T15	Software-OS-Related 1004 1025	password entry prompt
+A18	isOpened T15 f->t
+T20	Hardware-Devices 1271 1278	monitor

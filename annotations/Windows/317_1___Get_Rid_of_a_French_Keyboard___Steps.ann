@@ -1,0 +1,8 @@
+T1	Hardware-Devices 480 496	English keyboard
+A1	isPowered T1 start-T
+A2	isConnected T1 start-T
+T2	Hardware-Devices 693 708	French keyboard
+A3	isPowered T2 start-T
+A4	isConnected T2 start-T
+T3	Hardware-Devices 1117 1133	French keyboards
+A5	isUsed T3 true

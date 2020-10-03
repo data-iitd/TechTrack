@@ -1,0 +1,21 @@
+Move Multiple Files Into a New Folder on a Mac
+https://www.wikihow.com/Move-Multiple-Files-Into-a-New-Folder-on-a-Mac
+
+0 - Steps
+
+1 - Launch Finder and navigate to the files you want to move into a new folder.
+Launch Finder and navigate to the files you want to move into a new folder.
+- ;
+
+2 - Select the files.
+Select the files. You can hold “shift” and click the first and last file to select a group of files, or hold “command” and click to select individual files. Alternatively, press “command + A” to select all files.
+
+3 - Right click any of the select files.
+Right click any of the select files.
+
+4 - Select “New Folder with Selection” from the context menu.
+Select “New Folder with Selection” from the context menu.
+
+5 - All selected files will be moved in the created folder.
+All selected files will be moved in the created folder.
+

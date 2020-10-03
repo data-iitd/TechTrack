@@ -1,0 +1,17 @@
+T1	Software-OS-Related 145 163	System Preferences
+A1	isOpened T1 f->t
+T2	Software-OS-Related 265 272	Network
+A2	isOpened T2 f->t
+T3	Software-OS-Related 551 559	Advanced
+A3	isOpened T3 f->t
+T4	Software-OS-Related 690 700	TCP/IP tab
+A4	isSettingsChanged T4 true
+T6	Software-OS-Related 965 973	Manually
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1088 1090	OK
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 857 883	{{MacButton|Automatically"
+A5	isSettingsChanged T8 true
+R4	SubPart Arg1:T6 Arg2:T8	
+R5	SubPart Arg1:T8 Arg2:T4	
+R1	SubPart Arg1:T4 Arg2:T2	

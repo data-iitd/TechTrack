@@ -1,0 +1,20 @@
+Enable the Windows Subsystem for Linux
+https://www.wikihow.com/Enable-the-Windows-Subsystem-for-Linux
+
+0 - Turning on Windows Subsystem for Linux
+
+1 - Navigate to the "Turn Windows Features On or Off" window.
+Navigate to the "Turn Windows Features On or Off" window. It can easily be accessed by typing in turn windows in the search bar.
+
+2 - Wait for the list to load.
+Wait for the list to load.
+
+3 - Check the box  next to "Windows Subsystem for Linux (Beta)".
+Check the box  next to "Windows Subsystem for Linux (Beta)". Scroll down to the bottom of the list to find it.
+
+4 - Click on the OK button.
+Click on the OK button. Windows 10 will now start to download a bunch of files.
+
+5 - When prompted, restart the computer.
+When prompted, restart the computer. Your computer will display a screen indicating that it's updating. This is actually Windows 10 setting up the Windows Subsystem for Linux.
+

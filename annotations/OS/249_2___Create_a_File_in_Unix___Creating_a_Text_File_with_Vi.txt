@@ -1,0 +1,39 @@
+Create a File in Unix
+https://www.wikihow.com/Create-a-File-in-Unix
+
+0 - Creating a Text File with Vi
+
+1 - Open a terminal window.
+Open a terminal window. If you're using a window manager, you can usually press Ctrl+Alt+T to open a new terminal window. If not, log into the system on which you want to create a file through the console.
+
+2 - Use cd to change to the desired directory.
+Use cd to change to the desired directory. You'll want to be in the directory where you'd like to store your new file before opening the text editor.
+
+3 - Type vi and press ↵ Enter.
+Type vi and press ↵ Enter. This opens the Vi (or Vim, depending on the version of Unix you're using) text editor.
+- To edit a specific text file with Vi, type vi filename' instead.
+
+4 - Press i to enter input mode.
+Press i to enter input mode. Vi has two modes—insert mode and command mode. You must be in input mode to type text into the new file.
+
+5 - Type some text (optional).
+Type some text (optional). If you want to create a blank file you can just skip this step. Otherwise, type any text you wish to add now.
+- You can't use your mouse or the arrow keys in Vi. If you make a mistake when typing, you'll need to run a command in command mode. Press Esc to make the arrow keys available, use them to move the cursor to the location of the mistake, and then use any of these commands:
+- 
+- x deletes the character under the cursor.
+- dw deletes the current word.
+- dd deletes the entire line.
+- r replaces the letter under the cursor with the next one you type. This will automatically put you back into input mode after use.
+- See How to Learn Vi to learn about more Vi commands.
+
+6 - Press Esc when you're ready to save the file.
+Press Esc when you're ready to save the file. This places you into command mode.
+
+7 - Type :w newfilename and press ↵ Enter.
+Type :w newfilename and press ↵ Enter. Replace newfilename with the name of the file. This saves the file to the current directory.
+- If you want to keep editing the file, press i to go back into input mode.
+- The next time you want to save the file, you can just type :w in command mode (no file name necessary).
+
+8 - Press q and press ↵ Enter to quit Vi.
+Press q and press ↵ Enter to quit Vi. This returns you to the command line.
+

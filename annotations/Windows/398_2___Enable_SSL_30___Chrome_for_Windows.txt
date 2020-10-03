@@ -1,0 +1,32 @@
+Enable SSL 3.0
+https://www.wikihow.com/Enable-SSL-3.0
+
+0 - Chrome for Windows
+
+1 - Open Chrome on your PC.
+Open Chrome on your PC. You'll usually find it in the All Apps area of the Start menu.
+- This method will only work on a PC.
+
+2 - Click ⁝.
+Click ⁝. It's at the top-right corner of Chrome.
+
+3 - Click Settings.
+Click Settings. It's near the bottom of the menu.
+
+4 - Scroll down and click Open proxy settings.
+Scroll down and click Open proxy settings. The Internet Properties screen will appear.[1]
+- X
+- Research source
+
+5 - Click the Advanced tab.
+Click the Advanced tab.
+
+6 - Scroll down and check the box next to “Use SSL 3.0.
+Scroll down and check the box next to “Use SSL 3.0.” It's toward the bottom of the list.
+
+7 - Click OK.
+Click OK.
+
+8 - Restart your PC when prompted.
+Restart your PC when prompted. Once Windows starts back up, SSL 3.0 will be supported in Chrome.
+

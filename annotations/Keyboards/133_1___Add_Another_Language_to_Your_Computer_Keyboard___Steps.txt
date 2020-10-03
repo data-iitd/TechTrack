@@ -1,0 +1,33 @@
+Add Another Language to Your Computer Keyboard
+https://www.wikihow.com/Add-Another-Language-to-Your-Computer-Keyboard
+
+0 - Steps
+
+1 - Click start.
+Click start. Navigate to and open the control panel.
+- ;
+
+2 - Open the date, time, language, and regional window.
+Open the date, time, language, and regional window. Navigate to the regional and language options tab.
+
+3 - Click the languages tab.
+Click the languages tab. There should be a section labeled text services and input methods.
+
+4 - Click on the details button.
+Click on the details button. This will open another box with default input language and below that installed services. It's the option under installed services that you want.
+
+5 - Select the language you want from the menu.
+Select the language you want from the menu. Click 'Add'. (Here you can also remove keyboards that you have previously installed, if you no longer wish to have them on your PC, by clicking on them and selecting 'remove').
+
+6 - Accept the installation of the language keyboard settings.
+Accept the installation of the language keyboard settings. Check that you have picked the language you want and click OK.
+
+7 - Click okay again.
+Click okay again. This is important for the change to be saved.
+
+8 - Check that the keyboard was added.
+Check that the keyboard was added. Locate (on an English/American keyboard) on the bottom right-hand-side the 'EN' symbol.
+
+9 - Click the EN symbol.
+Click the EN symbol. Select the language you have just installed. You should now be able to type in that language.
+

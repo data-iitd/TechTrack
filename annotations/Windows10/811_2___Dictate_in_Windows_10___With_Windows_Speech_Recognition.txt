@@ -1,0 +1,22 @@
+Dictate in Windows 10
+https://www.wikihow.com/Dictate-in-Windows-10
+
+0 - With Windows Speech Recognition
+
+1 - Set up Windows Speech Recognition first.
+Set up Windows Speech Recognition first.  Click on the search box, type "Windows Speech Recognition", and complete the wizard.
+- Speech Recognition settings are very difficult to change after setup.  Determine whether you want to stick with the current settings upon setup.
+
+2 - Click on the microphone.
+Click on the microphone.  The output will change from "Off" or "Sleeping..." to "Listening...", allowing you to control your computer using your speech.
+
+3 - Select a text field.
+Select a text field.  It is pointless to try and dictate outside of a text field, as nothing will be written.
+
+4 - Say what you want to type.
+Say what you want to type.  For example, you can say, "The quick brown fox jumps over the lazy dog" and Speech Recognition will place the text you said into the text field.
+
+5 - Click on the microphone again to stop dictating.
+Click on the microphone again to stop dictating.  Speech Recognition will stop picking up text, and you will be able to speak normally without other input getting picked up.
+- You can also say "Stop listening", click the X in the corner, or right-click and choose "Off" to stop dictating.
+

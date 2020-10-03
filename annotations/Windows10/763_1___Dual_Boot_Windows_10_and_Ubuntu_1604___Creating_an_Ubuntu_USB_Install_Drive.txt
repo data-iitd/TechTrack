@@ -1,0 +1,38 @@
+Dual Boot Windows 10 and Ubuntu 16.04
+https://www.wikihow.com/Dual-Boot-Windows-10-and-Ubuntu-16.04
+
+0 - Creating an Ubuntu USB Install Drive
+
+1 - Navigate to http:__www.ubuntu.com_download_desktop using a web browser.
+Navigate to http://www.ubuntu.com/download/desktop using a web browser. Here you can download the latest version of Ubuntu.
+- ;
+
+2 - Click Download below the version of Ubuntu you want to install.
+Click Download below the version of Ubuntu you want to install. You can download version 18.04.3 LTS which has long-term security and updates until April 2023, or you can download 19.10 which has security and updates until July 2020. It may take several minutes for the download to finish.
+
+3 - Download Rufus.
+Download Rufus. Rufus is a free program to create a USB install drive, which you will need to install Ubuntu. Use the following steps to download Rufus.
+- Open your internet browser and navigate to https://rufus.akeo.ie/
+- Download the newest version of the Rufus.
+- Click the "Rufus.exe" file in your downloads folder and follow the instructions to install Rufus.
+
+4 - Insert a USB drive.
+Insert a USB drive. Insert a blank USB drive into a free USB port on your PC.
+
+5 - Open Rufus.
+Open Rufus. Rufus has an icon that resembles a USB drive. Click the Rufus icon in your Windows start menu to open Rufus.
+
+6 - Select your USB drive.
+Select your USB drive. Use the drop-down menu below "Devices" to select your USB drive.
+
+7 - Select the Ubuntu ISO image.
+Select the Ubuntu ISO image. Use the following steps to select your Ubuntu ISO image file.
+- Click Select to the right of the drop-down menu labeled "Boot Selection"
+- Click the Ubuntu ISO file you downloaded.
+- Click Open.
+
+8 - Click Start.
+Click Start. This begins the process of writing your Ubuntu USB install drive.  When it is finished writing the ISO file to the USB drive, you can boot from the USB flash drive and try Ubuntu before installing it.
+- Click Ok if you receive an alert that says "HybridISO image detected".
+- Click Ok to acknowledge that all data on the USB drive will be written over.
+

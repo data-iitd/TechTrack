@@ -1,0 +1,30 @@
+T1	Software-Other 230 241	web browser
+T2	Software-Other 316 322	Set Up
+A1	isOpened T2 f->t
+T4	Software-Other 444 446	Go
+A3	isOpened T4 f->t
+T3	Software-Other 637 645	Download
+A2	isInstalled T3 f->t
+T5	Software-Other 1119 1123	.exe
+T6	Software-Other 1137 1141	.dmg
+T7	Software-Other 1316 1327	Start Setup
+A4	isOpened T7 f->t
+T8	Software-Other 1623 1627	Next
+A5	isOpened T8 f->t
+T9	Software-Other 1794 1797	Yes
+A6	isOpened T9 f->t
+T10	Software-Other 3490 3494	Exit
+A7	isOpened T10 t->f
+T11	Software-Other 3304 3308	Next
+A8	isSettingsChanged T11 true
+T12	Hardware-Devices 3132 3139	printer
+T13	Hardware-Other 3144 3152	computer
+T14	Software-Other 3069 3073	Next
+A9	isOpened T14 f->t
+T15	Software-Other 2671 2674	Yes
+A10	isOpened T15 f->t
+T16	Software-Other 1881 1886	Agree
+T17	Software-Other 2146 2166	Deactivate the block
+T18	Software-Other 2260 2264	Next
+A11	isOpened T18 f->t
+R1	SubPart Arg1:T11 Arg2:T7	

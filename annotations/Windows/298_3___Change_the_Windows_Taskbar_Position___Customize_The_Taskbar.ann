@@ -1,0 +1,13 @@
+T1	Software-OS-Related 211 216	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 282 289	taskbar
+A2	isOpened T2 f->t
+T3	Software-OS-Related 476 481	color
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1356 1358	Ok
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 996 1003	Taskbar
+A5	isOpened T5 start-T
+R1	SubPart Arg1:T4 Arg2:T5	
+T6	Software-OS-Related 586 593	taskbar
+A6	isOpened T6 start-T

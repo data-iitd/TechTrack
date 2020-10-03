@@ -1,0 +1,29 @@
+Download Lightroom on Mac
+https://www.wikihow.com/Download-Lightroom-on-Mac
+
+0 - Steps
+
+1 - Open the Adobe Lightroom download page in your internet browser.
+Open the Adobe Lightroom download page in your internet browser.
+- If you're automatically signed in to Adobe, your download will start immediately. This will download Lightroom with a 7-day free trial license.
+- If you're not automatically signed in, you'll be prompted to sign in with your Adobe ID.
+- After the 7-day trial, you can compare full-access plans, and purchase a monthly subscription from here.
+- ;
+
+2 - Click the Sign in button.
+Click the Sign in button. This will open the sign-in form, and allow you to sign in with your Adobe ID.
+- If you don't have an Adobe account, you can click the Sign up button here to create a new account.
+- Alternatively, you can sign in with your Facebook or Google account. Just click the button at the bottom of the page.
+
+3 - Select your skill level with Lightroom.
+Select your skill level with Lightroom. Click the drop-down, and select Beginner, Intermediate or Advanced to indicate your skill level.
+- Your selection will not affect your download.
+
+4 - Click the blue Continue button.
+Click the blue Continue button. This will confirm your selection, and take you to the download page.
+- Your browser will automatically prompt you to confirm and start the download in a pop-up.
+
+5 - Click the Open Adobe Application button in the confirmation pop-up.
+Click the Open Adobe Application button in the confirmation pop-up. This will start your download, and prompt the Creative Cloud desktop app to install the Lightroom app.
+- You can find Lightroom in your Applications folder when the download is finished.
+

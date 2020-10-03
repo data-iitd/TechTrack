@@ -1,0 +1,48 @@
+Download YouTube Videos on a Mac
+https://www.wikihow.com/Download-YouTube-Videos-on-a-Mac
+
+0 - Using VLC Media Player
+
+1 - Install VLC Media Player on your Mac.
+Install VLC Media Player on your Mac. If you don't already have this popular media player installed, you can download it now from https://www.videolan.org/vlc/download-macosx.html. To download the file:[3]
+- X
+- Research source
+- 
+- 
+- Click the Download VLC button and save the DMG file to your Mac.
+- Double-click the downloaded DMG file in your Downloads folder.
+- Drag the VLC icon (the orange-and-white cone) to the Applications folder.
+
+2 - Copy the address of the YouTube video you want to download.
+Copy the address of the YouTube video you want to download. If you haven't already done so, bring up the video in your favorite web browser now. To copy the URL, click the address bar to highlight it, and then press ⌘ Command+C to copy.
+
+3 - Open VLC Player.
+Open VLC Player. You'll find it in the Applications folder once it's installed.
+- You may have to provide permission for the app to run for the first time.
+
+4 - Click the File menu.
+Click the File menu. It's at the top-left corner of the screen in the menu bar.
+
+5 - Click Open Network.
+Click Open Network. This opens the "Open Source" window.[4]
+- X
+- Research source
+
+6 - Click the "URL" box and press ⌘ Command+V.
+Click the "URL" box and press ⌘ Command+V. This pastes the YouTube URL into the box.
+
+7 - Click the Open button.
+Click the Open button. It's at the bottom-right corner of the window. This adds the video to your VLC playlist.
+
+8 - Right-click the video on the playlist and select Media Information.
+Right-click the video on the playlist and select Media Information. If the video starts playing, just right-click the video and select Media Information there instead.
+
+9 - Highlight the "Location" URL and press ⌘ Command+C.
+Highlight the "Location" URL and press ⌘ Command+C. It's the URL at the bottom of the window. This copies the URL to your clipboard.
+
+10 - Paste the copied URL into your browser and press ⏎ Return.
+Paste the copied URL into your browser and press ⏎ Return. To paste the URL, return to your web browser, click the address bar, press ⌘ Command+V, and then press ⏎ Return. The video will begin to play on your browser.
+
+11 - Right-click the video and select Save Video as to save.
+Right-click the video and select Save Video as to save. You can name the video anything you wish. Once you've saved the video, it will begin to download from YouTube. The downloaded video will then be playing on your Mac whether you are on or offline.
+

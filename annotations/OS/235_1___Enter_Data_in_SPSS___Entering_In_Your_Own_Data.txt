@@ -1,0 +1,47 @@
+Enter Data in SPSS
+https://www.wikihow.com/Enter-Data-in-SPSS
+
+0 - Entering In Your Own Data
+
+1 - Define your variables.
+Define your variables. In order to enter data using SPSS, you need to have some variables. These are the columns of the spreadsheet when using "Data View", and each one will contain data that is all the same format.
+- To define your variables, double-click a column heading "Data View" A menu will appear, allowing you to define the variable.
+- When entering a variable Name, it must begin with a letter and capitalization is ignored.
+- When choosing the Type, you can choose between "String" (characters) and a variety of numerical formats.
+- See this guide for more details on defining variables.
+- ;
+
+2 - Create a multiple choice variable.
+Create a multiple choice variable. If you are defining a variable that has two or more set possibilities, you can set labels for the values. For example, if one of your variables is whether or not an employee is active, your only two options for that variable might be "Active" and "Former".[1]
+- X
+- Research source
+- 
+- 
+- Open the Labels section of the Define Variable menu, and create a numbered value for each possibility (e.g. "1", "2", etc.).
+- For each value, give it a corresponding label (e.g. "Active", "Former").
+- When you enter in the data for that variable, you only have to type "1" or "2" to select the option you want.
+
+3 - Enter your first case.
+Enter your first case. Click the empty cell directly underneath the leftmost column. Enter in the value that matches the variable type into the cell. For example, if the column is "name", you might enter in an employee's name.[2]
+- X
+- Research source
+- 
+- Each row is one "case", which is referred to as a record in other database programs.
+
+4 - Continue filling out variables.
+Continue filling out variables. Move to the next empty cell to to the right and fill out the appropriate value. Always fill out one complete record at a time. For example, if you are entering employee records, you would enter a single employee's name, address, phone number, and salary before moving on to the next employee.
+- Make sure that the values you enter match the Type format. For example, entering a dollar value in a Date-formatted column will cause an error.[3]
+- X
+- Research source
+
+5 - Finish filling out your cases.
+Finish filling out your cases. After each case is finished, move down to the next row and enter in the next. Make sure each case has an entry for every variable.
+- If you decide you need to add another variable, double-click the next open column header and create one.
+
+6 - Manipulate your data.
+Manipulate your data. Once you have finished entering all of your data, you can use the tools built-in to SPSS to start manipulating your data. Some possible examples include:
+- Create a frequency table
+- Run a regression analysis
+- Run an analysis of variance
+- Create a scatter plot graph
+

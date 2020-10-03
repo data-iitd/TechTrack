@@ -1,0 +1,43 @@
+Fix an "External Hard Drive Not Detected" Error on PC or Mac
+https://www.wikihow.com/Fix-an-%22External-Hard-Drive-Not-Detected%22-Error-on-PC-or-Mac
+
+0 - Troubleshooting with Disk Management on Windows
+
+1 - Right-click the Windows Start button.
+Right-click the Windows Start button.  It's the button in the lower-left corner of the task bar.  Right-clicking the Start button displays a list of managers you can use to troubleshoot issues on your computer.
+
+2 - Click Disk Management.
+Click Disk Management.  This opens the Disk Management program on your computer.
+
+3 - Right-click the external hard drive (if displayed).
+Right-click the external hard drive (if displayed).  If the external hard drive is displayed in Disk Management, right-click it to display a pop-up window.
+
+4 - Click Change Drive Letter and Paths.
+Click Change Drive Letter and Paths.  This displays a box that allows you to change the drive letter for the device.
+
+5 - Click Change.
+Click Change.  This allows you to change the drive letter.
+
+6 - Select a new drive letter and click Ok.
+Select a new drive letter and click Ok.  Use the drop-down menu next to "Assign the following drive letter" to select a new drive letter for the external hard drive.  Click Ok when you are finished.  Changing the drive letter may force Windows to recognize the hard drive.
+
+7 - Right-click any unallocated space.
+Right-click any unallocated space.  If there is any unallocated space on the hard drive, it needs to be initialized in order to be recognized by Windows.
+
+8 - Click Initialize Disk.
+Click Initialize Disk.  This opens a window that allows you to initialize the Disk.
+
+9 - Click Ok.
+Click Ok.  This initializes the disk so that it is recognized by Windows.
+- By default, the disk will be initialized as a "MBR (Master Boot Record)".  If the external hard drive is larger than 2 terabytes, select "GPT (GUIT Partition Table}.[2]
+- X
+- Research source
+
+10 - Format the drive.
+Format the drive.  If the external hard drive was formatted on another computer platform, such as Mac or Linux, it may not be recognized by Windows.  If all else fails, you can reformat the drive for Windows.  If you plan on using the external hard drive only on Windows, select NTFS as the file system.  If you plan on using it with other devices, select FAT32 as the file system.  Warning:  Formatting the external hard drive will permanently erase all the data on the external hard drive.  Use this step as a last resort.  If possible, try to backup any files you want to keep to another computer.  Use the following steps to format the hard drive.
+- Right-click the external hard drive in Disk Management.
+- Click Format.
+- Type a name for the drive.
+- Select NTFS or FAT32 next to "File System".
+- Click Ok.
+

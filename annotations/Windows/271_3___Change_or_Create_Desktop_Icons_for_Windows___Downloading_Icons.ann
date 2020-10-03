@@ -1,0 +1,23 @@
+T1	Software-Other 154 161	browser
+T4	Software-OS-Related 622 627	icons
+A1	isOpened T4 f->t
+T7	Software-OS-Related 931 946	File Explorer .
+T8	Software-OS-Related 996 1001	Start
+A2	isOpened T8 f->t
+T9	Software-OS-Related 1031 1038	Desktop
+T12	Software-OS-Related 1124 1129	icons
+T13	Software-OS-Related 1259 1263	Home
+T18	Software-OS-Related 1481 1489	Pictures
+A7	isOpened T18 f->t
+T22	Software-OS-Related 1783 1797	program's icon
+A10	isOpened T22 f->t
+A13	isOpened T1 f->t
+A14	isOpened T7 f->t
+A16	isOpened T9 f->t
+A3	isOpened T12 f->t
+A4	isOpened T13 f->t
+T3	Software-OS-Related 1357 1364	Move to
+A17	isOpened T3 f->t
+T5	Software-OS-Related 1672 1676	Move
+A6	isSettingsChanged T5 true
+R1	SubPart Arg1:T22 Arg2:T4	

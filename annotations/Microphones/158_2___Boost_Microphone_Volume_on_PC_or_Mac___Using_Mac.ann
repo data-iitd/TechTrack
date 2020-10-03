@@ -1,0 +1,16 @@
+T2	Software-OS-Related 329 347	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 469 474	Sound
+A3	isOpened T3 f->t
+T5	Software-OS-Related 666 675	Input tab
+A4	isOpened T5 f->t
+T4	Software-OS-Related 806 816	microphone
+A5	isOpened T4 f->t
+T6	Hardware-Other 946 954	computer
+T7	Software-OS-Related 1035 1047	Input volume
+A6	isSettingsChanged T7 true
+T8	Hardware-Devices 1226 1236	microphone
+A7	isUsed T8 true
+T1	Software-OS-Related 300 314	drop-down menu
+A1	isOpened T1 f->t
+R1	SubPart Arg1:T7 Arg2:T3	

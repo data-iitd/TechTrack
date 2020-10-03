@@ -1,0 +1,34 @@
+T1	Software-OS-Related 267 289	Ubuntu virtual machine
+A1	isOpened T1 f->t
+T2	Software-OS-Related 609 617	language
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 622 636	install Ubuntu
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1184 1192	Continue
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1790 1799	time zone
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1815 1823	Continue
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1965 1987	name for your computer
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 2001 2009	username
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2014 2022	password
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 2049 2057	Continue
+A10	isOpened T10 f->t
+T11	Software-OS-Related 2784 2787	New
+T12	Software-OS-Related 2803 2811	Shortcut
+A12	isSettingsChanged T12 true
+A13	isOpened T11 f->t
+T13	Software-OS-Related 3106 3110	Next
+A14	isOpened T13 f->t
+T14	Software-OS-Related 3160 3166	Finish
+A15	isSettingsChanged T14 true
+R1	SubPart Arg1:T2 Arg2:T1	
+R4	SubPart Arg1:T5 Arg2:T1	
+R2	SubPart Arg1:T7 Arg2:T1	
+R3	SubPart Arg1:T8 Arg2:T1	
+R5	SubPart Arg1:T9 Arg2:T1	
+R6	SubPart Arg1:T12 Arg2:T11	

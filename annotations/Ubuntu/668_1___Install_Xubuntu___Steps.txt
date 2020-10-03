@@ -1,0 +1,32 @@
+Install Xubuntu
+https://www.wikihow.com/Install-Xubuntu
+
+0 - Steps
+
+1 - Go to http:__www.xubuntu.org and click the “Get Xubuntu” menu.
+Go to http://www.xubuntu.org and click the “Get Xubuntu” menu. Click on “System requirements" and make sure you have the right hardware to run Xubuntu.
+- ;
+
+2 - Click the Get Xubuntu button again but this time select “Download Now!
+Click the Get Xubuntu button again but this time select “Download Now!”
+
+3 - Select a torrent or mirror site to download the installation image from.
+Select a torrent or mirror site to download the installation image from.
+- If you are familiar with torrents, Xubuntu.org recommends that you use them if you do not know how or are unable to use torrent files select a country from the mirror list close to you.
+
+4 - Select an image to download based on your system hardware.
+Select an image to download based on your system hardware. If you are not sure select the 32bit torrent or the latest release ending in “i386.iso” from the mirror site since the 32 bit version will run on 64 bit machines.
+
+5 - Create a bootable disk.
+Create a bootable disk. For a USB drive try using Unetbootin; for optical drives use your favorite burner such as ImgBurn.
+
+6 - Restart your computer
+
+Restart your computer
+
+7 - Enter your Bios by following the prompt during boot.
+Enter your Bios by following the prompt during boot. This is different for every computer but most machines display directions while they boot like “press del for setup” or “F2 to enter Bios”. Once you are in the Bios Menu, go to your boot menu and make sure removable media is first on the boot list. Save changes and exit.
+
+8 - Select Install Xubuntu from the boot menu.
+Select Install Xubuntu from the boot menu. From there follow the on screen instructions for installing Xubuntu.
+

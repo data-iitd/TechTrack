@@ -1,0 +1,63 @@
+Remove Windows Genuine Advantage Notifications
+https://www.wikihow.com/Remove-Windows-Genuine-Advantage-Notifications
+
+0 - Disabling Genuine Advantage in Windows 7
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Click the search bar.
+Click the search bar. It's at the bottom of the Start window.
+
+3 - Type in task manager.
+Type in task manager. This will search your computer for the Task Manager application.
+
+4 - Click Task Manager.
+Click Task Manager. It's at the top of the Start window.
+
+5 - Open the Run window.
+Open the Run window. Press ⊞ Win+R at the same time to do so.
+- If this doesn't work, re-open Start, type in run, and click Run.
+
+6 - Type in system32.
+Type in system32. System32 is a folder that contains many of your computer's sensitive files.
+
+7 - Click OK.
+Click OK. It's at the bottom of the Run window. This will open the system32 folder.
+
+8 - Enable viewing for hidden files and file extensions.
+Enable viewing for hidden files and file extensions. To do so:
+- Click the View tab.
+- Check the "Hidden items" box.
+- Check the "File name extensions" box.
+
+9 - Find the "WgaLogon.dll" file.
+Find the "WgaLogon.dll" file. The easiest way to do this is by typing wga into the search bar that's in the upper-right side of the window and then waiting for the "WgaLogon.dll" file to appear.
+
+10 - Rename the "WgaLogon.dll" file.
+Rename the "WgaLogon.dll" file. Right-click the file, click Rename, and type .bak at the end of the file name and extension, then press ↵ Enter.
+- The file should now read "WgaLogon.dll.bak" instead.
+- You may be prompted to confirm this choice. If so, click Yes or OK.
+
+11 - Create an empty copy of the "WgaLogon.dll" file.
+Create an empty copy of the "WgaLogon.dll" file. To do so:
+- Right click on a blank space in the system32 window.
+- Select New
+- Click Text Document
+- Type in WgaLogon as the file's name.
+- Replace the .txt with .dll
+- Press ↵ Enter, then click Yes if prompted.
+
+12 - Find the "WgaTray.exe" file in both system32 and Task Manager.
+Find the "WgaTray.exe" file in both system32 and Task Manager. Since you'll need to delete both entries within 5 seconds of each other, you'll want to find them now. To do so:
+- 
+- system32 - You should see "WgaTray.exe" in the window if "wga" is still typed into the search bar.
+- Task Manager - Click the Processes tab, scroll down until you find the "WgaTray.exe" option, and click it.
+
+13 - Delete both "WgaTray.exe" files.
+Delete both "WgaTray.exe" files. Select the system32 "WgaTray.exe" file and press the Del key, then switch to Task Manager and click End process or End task in the lower-right corner of the window.
+
+14 - Restart your computer when finished.
+Restart your computer when finished. Once your computer finishes rebooting, your Genuine Advantage notifications should be gone.
+- You may have to repeat this process at some point, since Genuine Advantage notifications often return with critical updates.
+

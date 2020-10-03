@@ -1,0 +1,21 @@
+Install Skype in Ubuntu
+https://www.wikihow.com/Install-Skype-in-Ubuntu
+
+0 - Install Skype Snap in a Terminal
+
+1 - Open your Terminal.
+Open your Terminal. In Ubuntu 14.04 and above, you can use the terminal to install the Skype snap. This only requires a couple of commands and a few moments to do.
+- You can quickly open the Terminal by pressing Ctrl+Alt+T or by searching for "terminal" in the dash
+
+2 - Update the package list.
+Update the package list. The first command refreshes the list of packages available. Type sudo apt-get update. Enter your password if prompted.
+
+3 - Install snapd.
+Install snapd. In order to install snaps, you need to install the "Snap Daemon" which manages the installation & upgrades of snaps. In Ubuntu 14.04 it needs installing manually. In later releases of Ubuntu (from 16.04 onwards) it's already installed. Type sudo apt-get install snapd. Enter your password if prompted. Press "Y" when asked if you want to continue.
+
+4 - Install Skype snap.
+Install Skype snap. Finally, in the terminal, type sudo snap install skype --classic which will install the Skype snap. Once finished, close the terminal window.
+
+5 - Launch Skype.
+Launch Skype. Click the Ubuntu button (or press the 'Super/Windows' key on the keyboard) and search for Skype. Click the familiar Skype icon when found.
+

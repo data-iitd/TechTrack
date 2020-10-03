@@ -1,0 +1,20 @@
+T1	Software-Other 205 216	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 439 459	What’s on your mind?
+T3	Software-Other 721 737	smiley face icon
+T5	Software-Other 1284 1307	Feeling/Activity button
+T6	Software-Other 1748 1752	Post
+T7	Software-Other 175 199	https://www.facebook.com
+A2	isOpened T7 f->t
+A3	isInstalled T7 start-F
+T8	Software-Other 347 353	Log In
+A4	isSettingsChanged T8 true
+A5	isOpened T8 f->t
+A6	isSettingsChanged T3 true
+A7	isSettingsChanged T6 true
+T9	Software-Other 555 568	status update
+A8	isSettingsChanged T9 true
+A9	isOpened T9 f->t
+R1	SubPart Arg1:T2 Arg2:T9	
+A10	isSettingsChanged T5 true
+A11	isOpened T5 f->t

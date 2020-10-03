@@ -1,0 +1,13 @@
+T1	Software-OS-Related 166 175	time zone
+A1	isOpened T1 f->t
+T2	Software-OS-Related 202 207	close
+A2	isOpened T2 t->f
+T3	Software-OS-Related 302 318	display settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 341 343	OK
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T3	
+T5	Hardware-Other 497 509	floppy disks
+T6	Hardware-Other 514 516	CD
+T7	Hardware-Devices 541 549	computer
+A5	isUsed T7 true

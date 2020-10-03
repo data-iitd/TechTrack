@@ -1,0 +1,9 @@
+T1	Software-Other 366 369	VLC
+A1	isOpened T1 f->t
+T2	Software-Other 498 503	Media
+A2	isOpened T2 f->t
+T3	Software-Other 623 632	Open Disc
+A3	isOpened T3 f->t
+T4	Software-Other 781 785	Play
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	

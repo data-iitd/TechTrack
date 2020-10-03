@@ -1,0 +1,27 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing Internet History on Chrome
+
+1 - Open  Google Chrome.
+Open  Google Chrome. Click or double-click the Chrome app icon, which resembles a red, green, yellow, and blue sphere.
+
+2 - Click ⋮.
+Click ⋮. This icon is in the top-right corner of the Chrome window. Clicking it will prompt a drop-down menu.
+
+3 - Select More tools.
+Select More tools. It's near the bottom of the drop-down menu. Selecting it opens a pop-out menu.
+
+4 - Click Clear browsing data….
+Click Clear browsing data…. It's near the top of the pop-out menu. Your browsing history page will open.
+
+5 - Select a time range to clear.
+Select a time range to clear. Click the "Time range" drop-down box at the top of the menu, then click a time (e.g., Last hour for which you want to delete your browsing history.
+- Selecting the beginning of time will delete all the recorded browsing history.
+
+6 - Make sure "Browsing history" and "Download history" are checked.
+Make sure "Browsing history" and "Download history" are checked. Both of these categories make up your browsing history.
+
+7 - Click CLEAR DATA.
+Click CLEAR DATA. This is a blue button at the bottom of the window. Clicking it will promptly clear your browsing and download history.
+

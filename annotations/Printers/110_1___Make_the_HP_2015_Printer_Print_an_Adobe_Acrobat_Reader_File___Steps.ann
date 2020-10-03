@@ -1,0 +1,13 @@
+T1	Software-Other 201 215	Acrobat Reader
+T2	Software-OS-Related 381 394	system-reboot
+T3	Hardware-Devices 601 616	HP 2015 printer
+T4	Software-Other 1041 1051	HP website
+T5	Hardware-Devices 1088 1098	HP printer
+T6	Software-OS-Related 1577 1583	Reboot
+A1	isOpened T6 f->t
+T7	Hardware-Other 1589 1591	PC
+T8	Software-Other 1755 1769	Acrobat Reader
+A2	isInstalled T8 f->t
+T9	Software-Device-Drivers 1214 1220	driver
+A3	isInstalled T9 f->t
+T10	Hardware-Other 1409 1417	computer

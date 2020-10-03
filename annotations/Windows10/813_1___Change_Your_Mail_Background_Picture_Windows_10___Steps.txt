@@ -1,0 +1,26 @@
+Change Your Mail Background Picture (Windows 10)
+https://www.wikihow.com/Change-Your-Mail-Background-Picture-(Windows-10)
+
+0 - Steps
+
+1 - Open the Mail app.
+Open the Mail app. Click “Start” and type “mail.”  A small window should automatically appear, and the Mail app should appear at the top of the list. Click it once to open and continue.
+- You can also right-click on the Mail app and select “Pin to Start” to add it to your Start menu tiles. This way, you don’t have to search for the app every time you want to use it.
+- ;
+
+2 - Open the Settings menu.
+Open the Settings menu. If you opened the Mail app in fullscreen mode, you should see a picture of clouds on the right-hand side of the app. This is where the background image will appear once you have chosen it. In the lower left-hand corner you should see a little gear icon. Click this and a menu should pop out on the right-hand side of the app.
+
+3 - Go to Background settings.
+Go to Background settings. From the Settings menu, select “Background Picture”; it should be the second one down.
+
+4 - Browse through some pictures.
+Browse through some pictures. You should now see the picture of the clouds that appears as your current Mail background, with a “Browse…” button under it. Click this button to open a browse box. As of right now, there is no way to actually crop the specific picture you choose within the Mail app itself, so when you are choosing a picture, note that only part of the picture will be visible (based on the size of the picture being used). Most HD pictures will be cut off in some way, whereas smaller non-HD pictures may fit perfectly.
+
+5 - Select the picture to use as background.
+Select the picture to use as background. Now navigate through your folders and select (click on) the image you will use as your background image.
+- In Windows 10, there is an additional option inside the browse box that allows users to access the Photos that are taken on other Windows 10 devices. Once the browse box is open look at the bottom left hand side of the window, and your should see the Photos options. This should not be confused for the Pictures library, as it is a completely separate application. Once you click “Photos,” you can select a picture from the list.
+
+6 - Set the picture as the background.
+Set the picture as the background. Once you have it selected, just click the “Open” button in the lower right-hand corner of the browse box. The picture will be set as the background for your Mail app.
+

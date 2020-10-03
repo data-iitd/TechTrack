@@ -1,0 +1,35 @@
+T1	Software-Other 111 130	XAMPP download page
+A1	isOpened T1 f->t
+T2	Software-Other 218 240	computer's web browser
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-T
+T3	Software-Other 169 209	https://www.apachefriends.org/index.html
+T4	Software-Other 306 321	XAMPP for Linux
+T5	Software-Other 448 456	computer
+T6	Hardware-Other 701 709	computer
+T7	Software-OS-Related 740 748	Terminal
+A5	isOpened T7 f->t
+T8	Software-OS-Related 951 960	Downloads
+T9	Software-OS-Related 1024 1036	cd Downloads
+A6	isOpened T8 f->t
+T10	Software-OS-Related 1303 1350	chmod +x xampp-linux-x64-7.2.9-0-installer.run﻿
+T12	Software-OS-Related 1609 1654	sudo ./xampp-linux-x64-7.2.9-0-installer.run﻿
+T13	Software-OS-Related 1692 1700	password
+T14	Hardware-Other 1798 1806	computer
+T15	Software-Other 1832 1851	installation window
+A7	isOpened T15 f->t
+T16	Software-Other 1949 1969	installation prompts
+T17	Software-Other 2070 2074	Next
+T18	Software-Other 2104 2138	Learn more about Bitnami for XAMPP
+T19	Software-Other 2230 2242	Launch XAMPP
+A4	isSettingsChanged T19 true
+T20	Software-Other 2490 2496	Finish
+A9	isSettingsChanged T18 true
+T21	Software-Other 2344 2349	XAMPP
+T22	Software-Other 2637 2642	XAMPP
+A10	isInstalled T22 f->t
+T23	Software-Other 508 517	Downloads
+T24	Software-Other 483 492	Save File
+A8	isSettingsChanged T10 true
+R1	SubPart Arg1:T18 Arg2:T16	
+R2	SubPart Arg1:T19 Arg2:T16	

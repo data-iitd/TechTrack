@@ -1,0 +1,29 @@
+Set up a Wireless Network in Puppy Linux
+https://www.wikihow.com/Set-up-a-Wireless-Network-in-Puppy-Linux
+
+0 - Connecting to a network
+
+1 - Under "Interfaces", click on the newly detected wireless adapter.
+Under "Interfaces", click on the newly detected wireless adapter.
+
+2 - Click on the "Wireless" button.
+Click on the "Wireless" button.
+
+3 - Click on "Scan" (this may take a number of attempts), choose your own network (find your manufacturer and model), then click OK.
+Click on "Scan" (this may take a number of attempts), choose your own network (find your manufacturer and model), then click OK.
+
+4 - Choose your "Encryption" by clicking on "WEP" or "WPA_skip, then enter your passkey where it says "Provide a key".
+Choose your "Encryption" by clicking on "WEP" or "WPA/skip, then enter your passkey where it says "Provide a key".
+
+5 - Click "Use This Profile".
+Click "Use This Profile".
+
+6 - Click "Auto DHCP" (or "Static IP" and enter the IP addresses manually if "Auto DHCP" doesn't work) then you are connected.
+Click "Auto DHCP" (or "Static IP" and enter the IP addresses manually if "Auto DHCP" doesn't work) then you are connected.
+
+7 - Click "Save" and this connection will be launched at every boot.
+Click "Save" and this connection will be launched at every boot.
+
+8 - If everything works, and you can check by opening Google in a browser, then click Done.
+If everything works, and you can check by opening Google in a browser, then click Done.
+

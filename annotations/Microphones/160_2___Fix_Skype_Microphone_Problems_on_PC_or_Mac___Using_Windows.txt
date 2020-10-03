@@ -1,0 +1,28 @@
+Fix Skype Microphone Problems on PC or Mac
+https://www.wikihow.com/Fix-Skype-Microphone-Problems-on-PC-or-Mac
+
+0 - Using Windows
+
+1 - Open Skype on your computer.
+Open Skype on your computer. The Skype app looks like a white "S" in a blue circle on your Start menu.
+- If you're not automatically logged in, tap the Sign In button, and sign in with your Skype Name, email or phone and your password.
+
+2 - Click the Skype tab.
+Click the Skype tab. This button is in the upper-left corner of the app window. It will open a drop-down menu.
+
+3 - Hover over Profile on the Skype menu.
+Hover over Profile on the Skype menu. A sub-menu will pop out.
+
+4 - Click Change Sounds.
+Click Change Sounds. This will open your sound settings in a new window.
+
+5 - Click Audio settings on the left sidebar.
+Click Audio settings on the left sidebar. This option is located above Sounds on the left-hand side.
+
+6 - Select your microphone.
+Select your microphone. Click the drop-down menu next to Microphone and select your default microphone.
+- Here, a green bar indicates your microphone's sound input level. If the green bar is rising when you speak, your microphone is working.
+
+7 - Click the blue Save button.
+Click the blue Save button. This will save your new microphone settings.
+

@@ -1,0 +1,29 @@
+T1	Software-Other 109 116	l GnuPG
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 155 163	terminal
+A2	isOpened T2 f->t
+T3	Software-OS-Related 186 208	sudo apt install gnupg
+T4	Software-OS-Related 275 281	folder
+T5	Software-OS-Related 302 306	file
+T6	Software-OS-Related 329 336	encrypt
+T7	Software-OS-Related 446 454	Terminal
+A3	isOpened T7 f->t
+T8	Software-Other 499 515	gpg -c file1.txt
+T9	Software-OS-Related 654 661	encrypt
+T10	Software-Other 680 690	passphrase
+A4	isOpened T8 f->t
+T11	Software-Other 876 880	file
+T12	Software-Other 903 915	rm file1.txt
+A5	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	
+T13	Software-Other 1030 1044	encrypted file
+T14	Software-OS-Related 1099 1108	directory
+T15	Software-Other 1117 1123	Reload
+T16	Software-Other 1164 1169	GnuPG
+T17	Software-Other 1186 1196	passphrase
+T18	Software-Other 1175 1180	cache
+T19	Software-Other 1217 1224	decrypt
+T20	Software-Other 1229 1233	file
+T21	Software-Other 1289 1324	 gpg-connect-agent reloadagent /bye
+A6	isSettingsChanged T21 true
+R2	SubPart Arg1:T21 Arg2:T16	

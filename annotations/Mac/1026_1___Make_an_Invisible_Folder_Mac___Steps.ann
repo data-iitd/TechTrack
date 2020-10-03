@@ -1,0 +1,15 @@
+T1	Software-OS-Related 484 491	preview
+A1	isOpened T1 f->t
+T2	Software-OS-Related 623 630	toolbar
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 658 671	Instant Alpha
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 1363 1378	select Get Info
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1489 1500	Folder Icon
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+R2	SubPart Arg1:T3 Arg2:T2	
+R3	SubPart Arg1:T2 Arg2:T1	
+T6	Software-OS-Related 1229 1236	Preview
+A6	isOpened T6 t->f

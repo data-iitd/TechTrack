@@ -1,0 +1,20 @@
+Make a Monitor 256 Color
+https://www.wikihow.com/Make-a-Monitor-256-Color
+
+0 - Program Specific Change
+
+1 - Find the program you wish to run in 256 color mode in the Start menu.
+Find the program you wish to run in 256 color mode in the Start menu.
+
+2 - Right click the icon, and click Properties.
+Right click the icon, and click Properties.
+
+3 - Go to the Compatibility tab.
+Go to the Compatibility tab.
+
+4 - Choose Run in 256 Colors.
+Choose Run in 256 Colors.
+
+5 - Apply the changes to run your program in 256 color mode.
+Apply the changes to run your program in 256 color mode.
+

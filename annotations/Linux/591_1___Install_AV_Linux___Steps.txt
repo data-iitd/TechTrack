@@ -1,0 +1,72 @@
+Install AV Linux
+https://www.wikihow.com/Install-AV-Linux
+
+0 - Steps
+
+1 - Download the AV Linux ISO file from here.
+Download the AV Linux ISO file from here. The total file size is approximately 3.5 GB, so it might take a while to download. A good way to download it is to leave your computer on the entire night while you sleep, and when you wake up the file should be about finished.
+- ;
+
+2 - Make your ISO file bootable.
+Make your ISO file bootable. You can install the ISO on a USB, or burn it to a disk. After doing following one of the steps below, restart your computer and boot off your media device.
+- 
+- Install via DVD. Download the image burning software of your choice and burn your ISO.
+- Install via USB. Download a program to create a live bootable USB drive in Linux. Here is a tutorial on how to do that.
+
+3 - Launch the AV Linux Live Installer.
+Launch the AV Linux Live Installer. You can find a live installer shortcut directly on the desktop, or you can click the AV Linux system menu, then under the System tab, select Live Installer.
+
+4 - Confirm that you want to install AV Linux.
+Confirm that you want to install AV Linux. A window will appear, asking you whether you would like to proceed in the installation. Just click Yes.
+
+5 - Select your locale.
+Select your locale. AV Linux can offer you a different locale instead of English. However, to keep this tutorial short, we will just skip the locale selection and use English as the default locale. Click No. A new window will appear, notifying you that you need to create 1 root partition and one linux-swap partition. At this moment, if you wish to install AV Linux on a removable media device, it would be wise to attach it now. Then just click OK to continue.
+
+6 - Select which hard disk you wish to install AV Linux into.
+Select which hard disk you wish to install AV Linux into. A list of hard drives will be displayed. It might be difficult to identify the exact hard drive you wish to use, so just determine the size of the hard disk you wish to use, then select the hard disk displayed with the same size (sizes are displayed as MBs). Then click OK.
+
+7 - Determine the size of your root partition.
+Determine the size of your root partition. This is where the main system will be installed. You might need to unmount and delete the hard disk first. After doing so, right click the disk and create a new partition. You can drag the box's side toward the right or left to set the main partition size. Also, select the format of the new partition to be ext2 and feel free to give your partition a label. Don't forget to leave at least 1 GB for the linux-swap partition. Then click +Add.
+
+8 - Apply your changes.
+Apply your changes. Near the top of the window, click the Apply icon in the toolbar and confirm. Depending on the size of your partition and hard disk, this process could take several minutes.
+
+9 - After all operations have completed, another window will appear, notifying you about it.
+After all operations have completed, another window will appear, notifying you about it. If you wish, you can save the details; if not, then just click Close.
+
+10 - Create a linux-swap partition.
+Create a linux-swap partition. Right click the 1 GB empty space you previously saved in step 8 and create another partition. Select the format to be linux-swap, then click +Add and confirm your change. Repeat step 9 and apply the changes you made on the linux-swap partition. Then close the GParted software window.
+
+11 - Choose where to install the root system.
+Choose where to install the root system. A new window should appear, asking you to select the partition in which to install the root system. If you followed the above steps correctly, then you should see your disk you previously partitioned. Double click it.
+
+12 - Choose where to install the linux-swap.
+Choose where to install the linux-swap. If you follow step 11 correctly, you should see your 1 GB partition. Double click it too.
+
+13 - Select the filesystem type for the root partition.
+Select the filesystem type for the root partition. If you are using a newer computer, an ext4 filesystem will be best; if you are using an older computer (2005 and before), an ext2 filesystem will probably be best.
+
+14 - Select the partition to install _home to.
+Select the partition to install /home to. If you're a newbie and just trying this out, then double-click the first option.
+
+15 - Fill in your personal information.
+Fill in your personal information. The information includes a root password, which is need to modify the deepest parts of AV Linux. Also, fill in a password for your user. You will be required to type in a username and password when logging into AV Linux.  of this information can be left blank. When you're done, click OK.
+
+16 - Select where to install GRUB.
+Select where to install GRUB. Again, if you're just a newbie trying out AV Linux, then just double click the first option.
+
+17 - Determine whether you're machine is set to the right time.
+Determine whether you're machine is set to the right time. In this case, click No.
+
+18 - Select your time zone.
+Select your time zone. If you're having difficulty finding your city, first locate which zone you're in, then search for your city. Everything is arranged in Alphabetical order.
+
+19 - Verify your information.
+Verify your information. A last window will be displayed before the installation process. Read it carefully and check for mistakes. If you don't see any, continue with the installation.
+
+20 - Wait for AV Linux to install.
+Wait for AV Linux to install. Depending on your computer speed, the installation could take as little as 20 minutes or as long as several hours.
+
+21 - Congratulations!
+Congratulations! You have successfully install AV Linux. Reboot your computer before you begin to use it.
+

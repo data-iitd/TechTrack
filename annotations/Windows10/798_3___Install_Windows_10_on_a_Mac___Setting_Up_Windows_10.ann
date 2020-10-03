@@ -1,0 +1,17 @@
+T1	Software-OS-Related 158 162	Next
+A1	isOpened T1 f->t
+T2	Software-OS-Related 471 481	Windows 10
+T3	Software-OS-Related 502 506	Next
+A2	isOpened T3 f->t
+T4	Software-OS-Related 626 633	I agree
+T5	Software-OS-Related 711 715	Next
+A3	isOpened T5 f->t
+T6	Software-Other 939 948	Customize
+T7	Software-OS-Related 956 972	Express settings
+T8	Software-OS-Related 1415 1419	Next
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1575 1582	Cortana
+A5	isOpened T9 f->t
+T10	Software-OS-Related 1871 1881	Windows 10
+T11	Software-OS-Related 1892 1901	rebooting
+A6	isOpened T11 f->t

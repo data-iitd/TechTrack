@@ -1,0 +1,28 @@
+Compress a File to .Zip in Ubuntu
+https://www.wikihow.com/Compress-a-File-to-.Zip-in-Ubuntu
+
+0 - Steps
+
+1 - Right click on the file you wish to compress and archive.
+Right click on the file you wish to compress and archive.
+- ;
+
+2 - Click on Compress.
+Click on Compress.
+
+3 - Rename the file if you want.
+Rename the file if you want.
+
+4 - Select the ·zip file extension from the file format list.
+Select the ·zip file extension from the file format list.
+- Optionally, you can set a password on the .zip file you are about to create. Just press the Show more button which will reveal a drop down list of options, then type your password, being careful to save the password in a safe place.
+
+5 - Select the path to the folder where the file will be created and stored.
+Select the path to the folder where the file will be created and stored.
+
+6 - Click the Create button.
+Click the Create button. This action will set the process in motion.
+
+7 - You've just created your own .zip file.
+You've just created your own .zip file.
+

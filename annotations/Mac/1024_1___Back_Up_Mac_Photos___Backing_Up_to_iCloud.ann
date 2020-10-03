@@ -1,0 +1,17 @@
+T1	Software-OS-Related 141 151	Photos app
+A1	isOpened T1 f->t
+T2	Hardware-Devices 160 163	Mac
+A2	isPowered T2 start-T
+T3	Software-OS-Related 340 350	Photos tab
+A3	isSettingsChanged T3 true
+T4	Software-OS-Related 524 535	Preferences
+A4	isOpened T4 f->t
+T5	Software-OS-Related 653 663	iCloud tab
+A5	isOpened T5 f->t
+T6	Software-OS-Related 822 842	iCloud Photo Library
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1126 1163	Download Originals to this Mac option
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	
+R2	SubPart Arg1:T6 Arg2:T5	
+R3	SubPart Arg1:T4 Arg2:T3	

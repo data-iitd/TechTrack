@@ -1,0 +1,10 @@
+T1	Software-Other 110 121	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 295 308	web browser's
+A2	isOpened T2 f->t
+T4	Software-OS-Related 763 769	"Zoom"
+T5	Software-Other 803 815	web browsers
+T3	Software-OS-Related 716 723	zoom in
+A3	isSettingsChanged T3 true
+T6	Software-OS-Related 1023 1031	zoom out
+A4	isSettingsChanged T6 true

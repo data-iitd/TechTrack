@@ -1,0 +1,18 @@
+T1	Software-Other 138 150	Game Bar app
+T2	Software-OS-Related 223 233	Start menu
+T4	Software-OS-Related 1016 1026	Start menu
+A2	isOpened T4 f->t
+T6	Software-Other 1056 1062	Gaming
+T7	Software-Other 1073 1081	Game Bar
+T8	Software-Other 1457 1467	microphone
+T10	Software-Other 1538 1544	square
+A5	isOpened T6 f->t
+A6	isOpened T7 f->t
+A7	isSettingsChanged T8 true
+A9	isSettingsChanged T10 true
+T3	Software-Other 1248 1261	Xbox Game Bar
+*	Equiv T7 T3
+T5	Software-OS-Related 1037 1045	Settings
+A1	isOpened T5 f->t
+R1	SubPart Arg1:T8 Arg2:T6	
+R2	SubPart Arg1:T10 Arg2:T6	

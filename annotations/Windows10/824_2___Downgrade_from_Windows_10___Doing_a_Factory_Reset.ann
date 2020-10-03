@@ -1,0 +1,16 @@
+T1	Software-OS-Related 122 127	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 424 432	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 500 519	Update and Security
+A3	isOpened T3 f->t
+T4	Software-OS-Related 650 658	Recovery
+A4	isOpened T4 f->t
+T5	Software-OS-Related 733 746	Reset this PC
+A5	isOpened T5 f->t
+T6	Software-OS-Related 845 869	Restore Factory Settings
+A6	isOpened T6 f->t
+T7	Hardware-Devices 1058 1060	PC
+A7	isUsed T7 true
+A8	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T3	

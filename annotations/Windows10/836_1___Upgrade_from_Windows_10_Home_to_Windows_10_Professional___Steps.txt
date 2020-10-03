@@ -1,0 +1,25 @@
+Upgrade from Windows 10 Home to Windows 10 Professional
+https://www.wikihow.com/Upgrade-from-Windows-10-Home-to-Windows-10-Professional
+
+0 - Steps
+
+1 - Open the Windows Settings app on your computer.
+Open the Windows Settings app on your computer. Click the Windows icon on the bottom-left corner of your desktop, and select the gear icon on the menu to open your settings.
+- ;
+
+2 - Click Update & Security in the Windows Settings window.
+Click Update & Security in the Windows Settings window. This menu will allow you to update your Windows software to the Professional version.
+
+3 - Click the Activation button.
+Click the Activation button. This will allow you to see the details of your current Windows version, and update it to Professional.
+- You can see your current Windows 10 version on the right-hand side of your window.
+
+4 - Click the Go to Store link on the Activation menu.
+Click the Go to Store link on the Activation menu. This will open the Windows store, and allow you to purchase the Windows 10 Professional version.
+- If you've already purchased the Professional upgrade and have the product key ready, click Change product key instead of Go to Store. This will allow you to enter your product key, and update your Windows version.
+
+5 - Click the $99.99 button to purchase the Professional upgrade.
+Click the $99.99 button to purchase the Professional upgrade. This will allow you to use your saved, primary method of payment to purchase Windows 10 Professional, and start the upgrade installation.
+- If you don't have a saved method of payment on your account, you'll be asked to provide your payment and billing details here.
+- Your primary method of payment will be charged $99.99 for this purchase.
+

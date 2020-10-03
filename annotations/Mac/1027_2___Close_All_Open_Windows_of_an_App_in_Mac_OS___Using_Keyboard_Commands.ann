@@ -1,0 +1,11 @@
+T1	Software-OS-Related 188 204	multiple windows
+A1	isOpened T1 f->t
+T2	Hardware-Devices 514 530	⌘ Command button
+A2	isUsed T2 true
+A3	isConnected T2 start-T
+T3	Hardware-Devices 716 721	Tab ↹
+A4	isUsed T3 true
+T4	Hardware-Devices 736 745	⌘ Command
+A5	isUsed T4 true
+T5	Hardware-Devices 1199 1219	⌥ Option+⌘ Command+W
+A6	isUsed T5 true

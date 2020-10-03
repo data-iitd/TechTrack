@@ -1,0 +1,25 @@
+T1	Software-OS-Related 131 142	text editor
+A1	isOpened T1 f->t
+T2	Software-OS-Related 417 424	cmd.exe
+A2	isOpened T2 f->t
+T3	Software-OS-Related 477 484	windows
+T4	Software-OS-Related 733 742	@echo off
+T5	Software-OS-Related 906 942	: echo Welcome to the Backup Script!
+T6	Software-OS-Related 1152 1159	: echo.
+T7	Software-OS-Related 1508 1599	: choice /C:FNQ /N Select [F]ull Backup or [N]ew files only. Press [Q] or [CTRL-Z] to exit.
+T8	Software-OS-Related 2006 2032	: IF errorlevel 3 goto end
+T9	Software-OS-Related 2036 2071	: IF errorlevel 2 goto small_backup
+T10	Software-OS-Related 2075 2109	: IF errorlevel 1 goto full_backup
+T11	Software-OS-Related 1745 1748	end
+T12	Software-OS-Related 1815 1827	small_backup
+T13	Software-OS-Related 1887 1898	full_backup
+A3	isSettingsChanged T8 true
+A4	isSettingsChanged T9 true
+A5	isSettingsChanged T10 true
+T15	Software-OS-Related 2762 2773	directories
+T16	Software-OS-Related 2959 2963	Save
+T17	Software-OS-Related 2976 2983	Notepad
+T18	Software-OS-Related 2988 2999	mybackup.ba
+T19	Software-OS-Related 2968 2972	file
+T20	Software-OS-Related 3074 3078	file
+A6	isOpened T20 f->t

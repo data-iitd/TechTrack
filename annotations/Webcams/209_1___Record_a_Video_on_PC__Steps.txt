@@ -1,0 +1,38 @@
+Record a Video on PC
+https://www.wikihow.com/Record-a-Video-on-PC
+
+0 - Steps
+
+1 - Connect your webcam to your Windows PC.
+Connect your webcam to your Windows PC. Connect the USB cable to an available port on your PC, and then install its software when prompted.
+- If you're using a built-in webcam on a laptop or monitor, you can skip this step.
+- ;
+
+2 - Click the  menu.
+Click the  menu. It’s usually at the bottom-left corner of the screen.
+
+3 - Type camera into the search bar.
+Type camera into the search bar. You may have to click a circle or magnifying glass icon to open the search bar first.
+
+4 - Click Camera.
+Click Camera. The camera app will open on the screen. This should automatically start your webcam.
+- If asked to allow the app permission to access your webcam, be sure to give all requested permissions.
+
+5 - Click .
+Click . It’s at the top-right corner of the camera preview screen.
+
+6 - Select a video recording speed.
+Select a video recording speed. Scroll down the right column to the “Videos” header, and then select your desired resolution from the drop-down menu. The higher the resolution, the better the quality (and the larger the file size).
+
+7 - Click anywhere else on the video.
+Click anywhere else on the video. This closes the settings menu.
+
+8 - Click the video icon.
+Click the video icon. It’s the outline of a video camera on the right side of the window. This switches the camera to video mode.
+
+9 - Click the video icon to start recording.
+Click the video icon to start recording. It’s the large white version of the video camera on the left side of the window. The time count at the bottom-center part of the preview screen will increase as you continue to record.
+
+10 - Click the stop button to stop recording.
+Click the stop button to stop recording. It’s the red square on the right side of the window. The video will stop recording immediately. The finished video will be saved to the “Camera Roll” folder inside your “Photos” folder.
+

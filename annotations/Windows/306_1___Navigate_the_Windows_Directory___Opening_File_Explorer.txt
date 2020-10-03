@@ -1,0 +1,26 @@
+Navigate the Windows Directory
+https://www.wikihow.com/Navigate-the-Windows-Directory
+
+0 - Opening File Explorer
+
+1 - Click the Start button.
+Click the Start button. This button can be found in the lower-left corner of the screen, and may just be a Windows logo.
+- ;
+
+2 - Click the Computer or File Explorer button.
+Click the Computer or File Explorer button. In Windows 10, this looks like a folder and can be found on the left side of the menu, or in your Windows task bar at the bottom of the screen.
+
+3 - Click This PC in the left sidebar (Window 10).
+Click This PC in the left sidebar (Window 10). This will display the drives connected to your computer.
+
+4 - Find your hard drive.
+Find your hard drive. Your computer's main hard drive will be listed in the "Hard disk drives" or "Devices and drives" section. The hard drive with Windows installed on it will have the Windows logo on the drive icon, and is typically the C: drive.
+
+5 - Find your other drives and devices.
+Find your other drives and devices. If you have any other hard drives installed, they'll also appear in the "Hard Disk Drives" or "Devices and drives" section. If you have any USB devices or drives connected, you'll find them listed in the "Devices with Removable Storage" or "Devices and drives" section.
+- You can also expand the "Computer" or "This PC" entry in the left sidebar to see all of your connected drives and devices.
+
+6 - Access your user folders.
+Access your user folders. Your user folders will appear at the top of the window in Windows 10 and 8. These folders include your Documents, Pictures, Downloads, and more.
+- The majority of the files and folders you'll be dealing with on a day-to-day basis can likely be found in these user folders.
+

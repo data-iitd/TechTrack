@@ -1,0 +1,15 @@
+T1	Software-Other 242 252	Ubuntu.com
+A1	isOpened T1 f->t
+A2	isInstalled T1 start-F
+T2	Software-Other 438 445	Desktop
+A3	isOpened T2 f->t
+T3	Software-Other 521 547	Get Ubuntu Desktop Edition
+A4	isOpened T3 f->t
+T4	Software-Other 633 647	Make a Request
+A5	isSettingsChanged T4 true
+T5	Software-Other 693 708	Desktop Edition
+A6	isOpened T5 f->t
+T6	Software-Other 769 795	Create a Launchpad account
+R2	SubPart Arg1:T4 Arg2:T1	
+R3	SubPart Arg1:T6 Arg2:T1	
+A7	isSettingsChanged T6 true

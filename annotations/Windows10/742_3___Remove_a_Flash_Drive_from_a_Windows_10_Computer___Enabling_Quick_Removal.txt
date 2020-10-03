@@ -1,0 +1,34 @@
+Remove a Flash Drive from a Windows 10 Computer
+https://www.wikihow.com/Remove-a-Flash-Drive-from-a-Windows-10-Computer
+
+0 - Enabling Quick Removal
+
+1 - Make sure your flash drive is attached to your computer.
+Make sure your flash drive is attached to your computer. Quick Removal is a Windows service that formats your flash drive for a no-eject removal, meaning you can simply unplug the flash drive when you're done with it. To enable Quick Removal, your flash drive must currently be plugged in.
+- You can't set up Quick Removal for an SD card.
+
+2 - Right-click the Start button.
+Right-click the Start button. It's the Windows logo in the bottom-left corner of the screen. Doing so will invoke a pop-up menu.
+- You can also hold down ⊞ Win and tap X to bring up the pop-up menu.
+
+3 - Click Device Manager.
+Click Device Manager. This option is toward the top of the pop-up menu.
+
+4 - Click the > to the left of "Disk Drives".
+Click the > to the left of "Disk Drives". The Disk Drives section is toward the top of the Device Manager window. Clicking the arrow to the left of it reveals the list of your computer's disk drives, which happens to include your currently attached flash drive.
+
+5 - Right-click your flash drive's name.
+Right-click your flash drive's name. The flash drive's name will vary, but you will usually see "USB" in its title.
+
+6 - Click Properties.
+Click Properties. This option is at the bottom of the right-click drop-down menu.
+
+7 - Click Policies.
+Click Policies. It's a tab at the top of the "Properties" window.
+
+8 - Click the Quick removal option.
+Click the Quick removal option. It's near the top of this window.
+
+9 - Click OK.
+Click OK. This will enable Quick Removal for this specific flash drive. When you're done using the flash drive, you can physically remove it from your computer without going through the "Eject" process.
+

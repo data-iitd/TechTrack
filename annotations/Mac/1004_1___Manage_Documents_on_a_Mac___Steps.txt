@@ -1,0 +1,21 @@
+Manage Documents on a Mac
+https://www.wikihow.com/Manage-Documents-on-a-Mac
+
+0 - Steps
+
+1 - Have a central location that you store your documents.
+Have a central location that you store your documents. Where do you store your documents and files? It's easy to save a file on the desktop, or any other folders within reach, however, it will be a nightmare if you're regaining the files next time. So, the very first thing is to store documents in one place where you will always store the documents. Even it costs few more clicks. By doing that, you established the foundation of manage document on Mac.
+- ;
+
+2 - Be able to retrieve them.
+Be able to retrieve them. Mark and retrieval, the second factor of manage document on Mac. In order to make sure you can find your files whenever you need it, to make a symbol is essential, well, for the Mac users, 'Spotlight' is easy enough to find everything, like titles, file created date, etc. What's more, the 'Meta data' helps a lot. The 'Meta data' contains plenty of the information of the document, like subject, authors, type, time, size or ISBN, etc. For those Meta information, you can use for find references by using the Document management software. By using the 'DMS' and the 'Meta data', you can find your files by subject, type, size, date, or even any keywords in the contents! Just as easy as using spotlight!
+
+3 - Have Security.
+Have Security. How to ensure your creation or your personal files been pirated, or published everywhere in the Internet? There are two methods can do that. You can change the privilege under file's usage. Or you can easily put this in the Security folder of the document management software, which the folder can only be opened by your personal password.
+
+4 - Have a method of distribution.
+Have a method of distribution. The 'Distribution', as today's business or project, we can't just keep our creations in our Mac, we need to publish or send the documents to other relatives. How to delivery our work to others safely and correctly is one of the important aspect in the document management system. Usually, there are three different methods: 1).Print; 2).network; 3).hard copy. And the most convenient, fastest and environmentally friendly way is to share your doc is by network. There are many famous and free Internet doc sharing services, like Google doc, and slideshare.com. What's more, to share the files within a local or office network is needed as well. Normally, with a Smart sharing list in good document management software supports all output means and methods.
+
+5 - Be able to track your documents.
+Be able to track your documents. The 'Traceability', it's important for you to record all the browsing history of your shared documents, like who and when it's been viewed by your teammate, and colleagues. By check the browsing record in the document management software, you'll see all the related figures of all activities about your documents.
+

@@ -1,0 +1,36 @@
+Install Ubuntu in Windows
+https://www.wikihow.com/Install-Ubuntu-in-Windows
+
+0 - Installing Ubuntu
+
+1 - Select a language.
+Select a language. Click the language you want to use in the left-hand sidebar.
+
+2 - Click Install Ubuntu.
+Click Install Ubuntu. It's a button on the far-right side of the window.
+
+3 - Click Continue twice.
+Click Continue twice. This option will be at the bottom of the window.
+
+4 - Click Install Now.
+Click Install Now. It's in the bottom-right corner of the window.
+
+5 - Click Continue when prompted.
+Click Continue when prompted. This confirms that you want to install Ubuntu without creating a separate partition for it (since you're using VirtualBox, this won't harm your computer).
+
+6 - Select a time zone.
+Select a time zone. Click a point near your current city, then click Continue.
+
+7 - Create your user account.
+Create your user account. Type your name into the "Your name" text box, then enter a password into the "Choose a password" and "Confirm your password" text boxes.
+
+8 - Click Continue.
+Click Continue. It's at the bottom of the window. Doing so prompts Ubuntu to begin installing to VirtualBox.
+
+9 - Allow Ubuntu to install.
+Allow Ubuntu to install. Ubuntu may take anywhere from a few minutes to well over half an hour to install.
+
+10 - Click Restart Now when prompted.
+Click Restart Now when prompted. Doing so will cause Ubuntu to restart inside of the VirtualBox window. Once it finishes restarting, you're free to use Ubuntu as you please.
+- If prompted to "remove the installation media and press ENTER", just press ↵ Enter until Ubuntu restarts again.
+

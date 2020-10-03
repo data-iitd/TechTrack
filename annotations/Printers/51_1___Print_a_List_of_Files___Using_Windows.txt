@@ -1,0 +1,30 @@
+Print a List of Files
+https://www.wikihow.com/Print-a-List-of-Files
+
+0 - Using Windows
+
+1 - Browse to the folder on your computer that contains the files you would like listed in your printed file list.
+Browse to the folder on your computer that contains the files you would like listed in your printed file list.
+- This may be your "My Documents" folder or any subfolder contained within it.
+- ;
+
+2 - Change the View option to "List" and enlarge the active window until all of the files are shown.
+Change the View option to "List" and enlarge the active window until all of the files are shown.
+- You can repeat these procedures if you cannot make the window large enough for all of the files to be shown on the screen.
+
+3 - Press the Print Screen button.
+Press the Print Screen button.
+- The text on this button may be abbreviated, depending upon the keyboard model you are using. It may be Prt Scn or some other shortened description.
+
+4 - Launch the Paint application, located in the Accessories section of the Program listing in the Start menu.
+Launch the Paint application, located in the Accessories section of the Program listing in the Start menu.
+
+5 - Click the Edit option in the toolbar and choose "Paste.
+Click the Edit option in the toolbar and choose "Paste."
+
+6 - Crop the image of screen by using the Crop utility under the Image selection in the toolbar.
+Crop the image of screen by using the Crop utility under the Image selection in the toolbar.
+
+7 - Print the image by using Ctrl+P, the Printer shortcut button, or by selecting "Print" in the File menu.
+Print the image by using Ctrl+P, the Printer shortcut button, or by selecting "Print" in the File menu. This will create a printed file list.
+

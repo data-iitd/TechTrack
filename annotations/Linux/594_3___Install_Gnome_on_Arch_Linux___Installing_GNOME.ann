@@ -1,0 +1,25 @@
+T1	Software-Other 122 133	DejaVu font
+T2	Software-Other 222 237	X Window System
+T3	Software-OS-Related 264 289	sudo pacman -S ttf-dejavu
+T4	Software-OS-Related 354 367	root password
+T5	Software-OS-Related 476 484	download
+T6	Software-OS-Related 517 518	y
+T7	Software-Other 558 562	font
+A1	isInstalled T7 f->t
+T8	Software-Other 680 685	GNOME
+T9	Software-OS-Related 747 767	sudo pacman -S gnome
+T10	Software-OS-Related 806 814	download
+T11	Software-OS-Related 862 863	y
+T12	Software-OS-Related 1160 1170	Arch Linux
+T13	Software-Other 1105 1110	GNOME
+T14	Software-OS-Related 1053 1065	command line
+T15	Software-OS-Related 1244 1269	sudo pacman -S lxterminal
+T16	Software-OS-Related 1303 1316	root password
+T17	Software-OS-Related 1343 1344	y
+T18	Software-OS-Related 1382 1397	display manager
+T19	Software-OS-Related 1436 1469	sudo systemctl enable gdm.service
+A2	isSettingsChanged T19 true
+R1	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 1507 1515	password
+T21	Software-OS-Related 1767 1773	Reboot
+T22	Hardware-Other 1779 1787	computer

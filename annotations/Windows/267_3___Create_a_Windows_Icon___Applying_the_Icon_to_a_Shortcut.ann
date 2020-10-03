@@ -1,0 +1,28 @@
+T1	Software-OS-Related 149 153	icon
+A1	isOpened T1 f->t
+T5	Software-OS-Related 407 414	This PC
+T6	Software-OS-Related 662 677	shortcut's icon
+A2	isOpened T6 f->t
+T7	Software-OS-Related 744 748	menu
+T8	Software-OS-Related 763 773	Properties
+A3	isOpened T8 f->t
+T9	Software-OS-Related 830 834	menu
+T11	Software-OS-Related 961 972	Change Icon
+T12	Software-Other 1040 1046	window
+T13	Software-OS-Related 1149 1155	Browse
+A5	isOpened T13 f->t
+T14	Software-Other 1219 1225	window
+T15	Software-Other 1244 1257	File Explorer
+A6	isOpened T15 f->t
+T16	Software-OS-Related 1285 1294	icon file
+T17	Software-OS-Related 1407 1411	Open
+A8	isOpened T17 f->t
+T18	Software-OS-Related 1486 1488	OK
+A9	isOpened T18 f->t
+T19	Software-OS-Related 1551 1556	Apply
+T20	Software-OS-Related 1569 1571	OK
+T21	Software-OS-Related 1652 1656	icon
+T22	Software-OS-Related 1673 1681	shortcut
+A4	isOpened T11 f->t
+A7	isSettingsChanged T19 true
+R1	SubPart Arg1:T19 Arg2:T11	

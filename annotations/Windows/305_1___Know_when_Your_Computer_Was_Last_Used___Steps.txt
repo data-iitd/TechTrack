@@ -1,0 +1,24 @@
+Know when Your Computer Was Last Used
+https://www.wikihow.com/Know-when-Your-Computer-Was-Last-Used
+
+0 - Steps
+
+1 - If you just want the basics, Start > Run or press the Windows Key +R.
+If you just want the basics, Start > Run or press the Windows Key +R. Then type cmd and press Enter. That will bring up the Command Window. In the Command Window, type systeminfo and press Enter. After a few moments you'll see a list of information; scroll through it to find System Boot Time. Or, if you really want to dig into the gory details, do the following.
+- ;
+
+2 - Go to Start > Run or press Window Keys + R.
+Go to Start > Run or press Window Keys + R.  If you are running a version later than XP, you may need to type the following in smart search in the start menu.
+
+3 - Type 'eventvwr.msc' and press Enter.
+Type 'eventvwr.msc' and press Enter.
+
+4 - The Event Viewer should come up (if you are using Windows Vista and UAC pops up, choose Continue).
+The Event Viewer should come up (if you are using Windows Vista and UAC pops up, choose Continue).
+
+5 - Open the System Log.
+Open the System Log.
+
+6 - This is a log of everything that has happened recently on your computer with dates and times.
+This is a log of everything that has happened recently on your computer with dates and times.  You can use this data to find out when your computer was last used.
+

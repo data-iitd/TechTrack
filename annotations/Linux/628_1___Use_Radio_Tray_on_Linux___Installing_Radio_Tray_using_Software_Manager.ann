@@ -1,0 +1,9 @@
+T1	Software-OS-Related 145 161	Software Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 220 228	password
+T3	Software-OS-Related 240 242	OK
+T4	Software-OS-Related 296 306	search bar
+T5	Software-OS-Related 314 323	RadioTray
+T6	Software-OS-Related 517 526	RadioTray
+A2	isOpened T6 f->t
+T7	Software-OS-Related 583 590	Install

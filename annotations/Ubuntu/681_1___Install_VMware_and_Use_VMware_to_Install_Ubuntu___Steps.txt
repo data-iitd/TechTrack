@@ -1,0 +1,58 @@
+Install VMware and Use VMware to Install Ubuntu
+https://www.wikihow.com/Install-VMware-and-Use-VMware-to-Install-Ubuntu
+
+0 - Steps
+
+1 - If you don't have a VMware Workstation, go to http:__downloads.vmware.com_d_info_desktop_downloads_vmware_workstation_6_0 to download it.
+If you don't have a VMware Workstation, go to http://downloads.vmware.com/d/info/desktop_downloads/vmware_workstation/6_0 to download it. However, the VMware requires to register before downloading it. Plus, if don't have an Ubuntu software, go to this website: https://ubuntu.com/download to download it for free (Ubuntu 16.04 is the latest one).
+- ;
+
+2 - They have some different version of Workstations such Workstation 6.0, 6.5 and 7.0 for Windows.
+They have some different version of Workstations such Workstation 6.0, 6.5 and 7.0 for Windows. Pick one of these which fits for your computer.
+
+3 - Double click on the VMware software application if you have already or downloaded, then run it.
+Double click on the VMware software application if you have already or downloaded, then run it.
+
+4 - Click "Next" to install.
+Click "Next" to install.
+
+5 - Keep pressing “Next” until  you see this screen.
+Keep pressing “Next” until  you see this screen. It means the program is installing.
+
+6 - It will run until this screen appears, and then click “Finish”.
+It will run until this screen appears, and then click “Finish”.
+
+7 - After that, double click on the Icon which is named VMware Workstation.It is located on the desktop.
+After that, double click on the Icon which is named VMware Workstation.It is located on the desktop. Clicking on File --> New --> Virtual Machine… this screen will appear, then choose Typical --> Next.
+
+8 - If you have software in DVD which contained software that you want to create, choose Install disc.
+If you have software in DVD which contained software that you want to create, choose Install disc. Otherwise, Choosing the Installer Disc image file (ISO) software application with extension ISO.
+
+9 - Keep pressing “Next” to continue, you see the screen mentions about browsing directory Ubuntu will be stored in.
+Keep pressing “Next” to continue, you see the screen mentions about browsing directory Ubuntu will be stored in. You can change it on your accord. Click “Next”.
+
+10 - Setting maximum disk size (GB) as 8 and choose the option “Store virtual disk as a single file”, then hit "Next"
+
+Setting maximum disk size (GB) as 8 and choose the option “Store virtual disk as a single file”, then hit "Next"
+
+11 - Requesting username and password in Ubuntu.
+Requesting username and password in Ubuntu.
+
+12 - Keep pressing "Next" until you see the picture.
+Keep pressing "Next" until you see the picture.
+
+13 - Hit Finish to end the creating of new Virtual Machine.
+Hit Finish to end the creating of new Virtual Machine.
+
+14 - It will automatically reboot and take you go to this screen.
+It will automatically reboot and take you go to this screen. Next, it will run an Ubuntu application as well (the one input "Ubuntu.ISO" above step).
+
+15 - The installing screen will appear and run as the picture.
+The installing screen will appear and run as the picture. Being patient to wait.
+
+16 - After finish running the installation, it will bring you go to this following screen.
+After finish running the installation, it will bring you go to this following screen. Type the username and password which is created before.
+
+17 - Finally, you have done setting Ubuntu Operating System.
+Finally, you have done setting Ubuntu Operating System.
+

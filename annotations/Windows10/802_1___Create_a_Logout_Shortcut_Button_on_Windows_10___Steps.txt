@@ -1,0 +1,20 @@
+Create a Logout Shortcut Button on Windows 10
+https://www.wikihow.com/Create-a-Logout-Shortcut-Button-on-Windows-10
+
+0 - Steps
+
+1 - Log into the user account.
+Log into the user account. Make sure it's the one where you'd like to add this logout button.;
+
+2 - Right-click the desktop and click New.
+Right-click the desktop and click New. Select Shortcut, which should be near the top of the drop-down list.
+
+3 - Type the shortcut of the address into the box.
+Type the shortcut of the address into the box. Use Shutdown.exe -L and click the Next button to continue.
+
+4 - Change the button title text_name as desired.
+Change the button title text/name as desired. You'll probably want it to read either "Logout" or "Sign out". Then click the Finish button.
+
+5 - Try it out.
+Try it out. Find it on your desktop and click to sign out. If it signs you out correctly, you should be okay to use that button whenever you need to log out. Make sure to save all unsaved work in all programs you're using before trying out the button.
+

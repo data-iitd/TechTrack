@@ -1,0 +1,20 @@
+Open Windows Task Manager
+https://www.wikihow.com/Open-Windows-Task-Manager
+
+0 - 
+
+1 - Open Command Prompt or Windows PowerShell.
+Open Command Prompt or Windows PowerShell. This can be done by searching for the respective application and selecting it from the results.
+
+2 - Wait for the app to fully load.
+Wait for the app to fully load. You should see copyright text at the top and your user folder path.
+
+3 - Type taskmgr.
+Type taskmgr.
+
+4 - Submit the command.
+Submit the command. Hit the ↵ Enter key.
+
+5 - Finished.
+Finished.
+

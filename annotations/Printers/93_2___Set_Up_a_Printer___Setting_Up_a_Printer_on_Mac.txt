@@ -1,0 +1,35 @@
+Set Up a Printer
+https://www.wikihow.com/Set-Up-a-Printer
+
+0 - Setting Up a Printer on Mac
+
+1 - Connect your printer to a power source and turn it on.
+Connect your printer to a power source and turn it on. Before doing anything else, it's important to make sure your printer is plugged in and ready.
+
+2 - Connect your printer to your Mac.
+Connect your printer to your Mac. Most printers have the option of connecting to a computer via USB or wirelessly (Bluetooth, installation CD, or a wireless detection setting), so be sure your printer is set to connect before proceeding with the rest of the steps.
+- Make sure your Mac's software is up-to-date by going into the Apple menu, selecting System Preferences, and choosing Software Update to ensure your Mac is updated to the latest software.
+
+3 - Download installation software.
+Download installation software. Once you've connected your printer to your Mac, you may be prompted to download software that will help with installing the printer.
+- Once downloaded, follow the on-screen instructions to start the printer's installation process.
+
+4 - Open the Apple  menu.
+Open the Apple  menu. This will pull up system options, which you'll need to navigate through to complete the installation process for your printer.
+
+5 - Select System Preferences.
+Select System Preferences.
+
+6 - Select Printers & Scanners.
+Select Printers & Scanners. This is where you'll find the settings for adding new printers or devices to your Mac's network.
+
+7 - Click Add +.
+Click Add +. This will pull up a dialog box for your Mac to search for the printer through USB or WiFi connection.
+
+8 - Select your printer.
+Select your printer. Once the scan is complete, you should see your printer in a list of available devices.
+
+9 - Click Add.
+Click Add. This will complete the process of setting up your printer with your Mac and will now let you connect to that printer on your Mac.
+- If prompted to install any software, do so and follow any on-screen instructions to finish the installation process.
+

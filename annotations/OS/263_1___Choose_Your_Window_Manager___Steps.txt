@@ -1,0 +1,32 @@
+Choose Your Window Manager
+https://www.wikihow.com/Choose-Your-Window-Manager
+
+0 - Steps
+
+1 - Determine your operating system.
+Determine your operating system. Microsoft Windows can support LiteStep, SharpE, Blackbox and KDE 4. Unix-like systems (Linux, BSD etc.) can support FVWM, Blackbox, Enlightenment, KDE and GNOME.
+- ;
+
+2 - Determine your computer's available resources.
+Determine your computer's available resources. The simpler (lighter) a window manager, the less resources it consumes. But the lighter the window manager, often the less "eye candy" and appeal there is in its appearance.
+- For computers with little memory available, a light window manager like Fluxbox, Enlightenment (Unix-like systems only) or FVWM (Unix-like systems only) would be ideal.
+- For computers with a lot of resources and that aren't running memory-intensive programs or tasks, something bigger like KDE or GNOME (Unix-like systems only) would be better for looks.
+
+3 - Consider your level of computer expertise.
+Consider your level of computer expertise. Power users may want something lighter and faster, while the senior citizen might want something easy to navigate such as Ubuntu Netbook Launcher.
+
+4 - Ponder how you want your desktop to look.
+Ponder how you want your desktop to look. If you want it to look good, then you want something with a lot of eye candy (Enlightenment or Compiz or KDE 4 with its new plasma interface will satisfy) but if you want something extremely plain and basic you want something like Blackbox.
+
+5 - Ask yourself if there are any special programs you plan to run.
+Ask yourself if there are any special programs you plan to run. Larger window managers like KDE and GNOME come with applications like office suites, CD Burners, and media players. But these added features can add a lot of weight to the desktop. Remember that some programs (e.g. Amarok, Konqueror, KOffice, Kontact, digiKam, K3b) only work if a certain window manager is installed.
+
+6 - Determine if speed is a factor.
+Determine if speed is a factor. A larger window managing system consumes more memory, resulting in slower execution time. But a lighter system will launch the program somewhat faster.
+
+7 - Figure out whether or not there is a specific theme that you want.
+Figure out whether or not there is a specific theme that you want. Themes may be specific to certain window managers.
+
+8 - Decide if you want a floating window manager (the kind used by most people).
+Decide if you want a floating window manager (the kind used by most people). A tiny few expert users may want a tiling window manager such as AwesomeWM or one with support for multiple key bindings or one based around the keyboard like Ratpoison.
+

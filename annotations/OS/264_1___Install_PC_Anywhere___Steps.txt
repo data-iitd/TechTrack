@@ -1,0 +1,38 @@
+Install PC Anywhere
+https://www.wikihow.com/Install-PC-Anywhere
+
+0 - Steps
+
+1 - Review the computer system requirements.
+Review the computer system requirements. Check the system requirements for each computer before you install PC Anywhere to ensure compatibility.
+- Some minimum requirements include having Windows 98, Mac OS 10.4.3 or later versions of these. The product also recommends having Internet Explorer 6, Firefox 1.5 or later versions of these.
+
+2 - Choose the installation options.
+Choose the installation options. Pick the full-system installation or customize your software installation. Full-system installation comes with all the features, tools and functions, while the customized option allows you to choose the specific features that you want.
+
+3 - Scan for earlier versions of the software.
+Scan for earlier versions of the software. PC Anywhere automatically checks your computer(s) for earlier versions of its software.
+- If you have an earlier version of PC Anywhere, then you may choose to keep saved configuration data and install the new software.
+- Uninstall PC Anywhere versions older than 10.x before installing the upgraded version. You cannot save versions of PC Anywhere prior to 10.x.
+
+4 - Place the product CD into your computer's CD_DVD-ROM drive and wait for the PC Anywhere window to appear on the screen.
+Place the product CD into your computer's CD/DVD-ROM drive and wait for the PC Anywhere window to appear on the screen. Click "Install Symantec PCAnywhere," then "Next." Two setup panels will appear on the screen: "Destination Folder" and "Custom Setup."
+- Choose "Next" to install the software in the "Destination Folder." If you prefer to specify the folder where you want to store the program, choose "Custom Setup" before hitting "Next."
+
+5 - Go to the "Ready to Install the Program" panel after it opens.
+Go to the "Ready to Install the Program" panel after it opens. Select work-related or other programs that you want displayed as desktop shortcuts on your computer.
+- During the installation process, the software will automatically place the PC Anywhere shortcut on your desktop.
+
+6 - Choose "Install.
+Choose "Install." Follow the prompts on the screen to complete the process. Select "Finish" when you are done.
+- You may need to restart your computer to update files and ensure that PC Anywhere functions properly.
+
+7 - Insert the PC Anywhere CD into your computer's disk drive.
+Insert the PC Anywhere CD into your computer's disk drive. Wait for the installation panel window to open, and then press "View Other Installation Options."
+
+8 - Select "View Custom Installation Packages" in the next menu.
+Select "View Custom Installation Packages" in the next menu.
+
+9 - Follow the software's instructions for customizing and finalizing the installation.
+Follow the software's instructions for customizing and finalizing the installation. Pick "OK" to finish installing PC Anywhere.
+

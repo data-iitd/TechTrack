@@ -1,0 +1,15 @@
+T1	Software-OS-Related 143 149	Finder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 240 242	Go
+A2	isOpened T2 f->t
+T3	Software-OS-Related 343 351	Computer
+A3	isOpened T3 f->t
+T4	Software-OS-Related 579 591	Macintosh HD
+A4	isOpened T4 f->t
+T5	Software-OS-Related 666 680	hidden folders
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 689 705	Mac's hard drive
+R1	SubPart Arg1:T5 Arg2:T6	
+T7	Software-OS-Related 1447 1459	hidden files
+A6	isSettingsChanged T7 true
+R2	SubPart Arg1:T7 Arg2:T6	

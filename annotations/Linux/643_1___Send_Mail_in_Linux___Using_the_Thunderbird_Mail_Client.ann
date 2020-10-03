@@ -1,0 +1,26 @@
+T1	Software-OS-Related 441 449	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 466 485	sudo apt-get update
+T3	Software-OS-Related 519 532	root password
+T4	Software-OS-Related 556 588	sudo apt-get install thunderbird
+T5	Software-Other 119 130	Thunderbird
+A2	isInstalled T5 f->t
+T6	Software-Other 663 674	thunderbird
+A3	isOpened T6 f->t
+T7	Software-Other 953 961	Continue
+T8	Software-Other 1041 1045	name
+T9	Software-Other 1047 1060	email address
+T10	Software-Other 1066 1080	email password
+T11	Software-Other 1082 1093	Thunderbird
+T12	Software-Other 1198 1212	email provider
+T13	Software-Other 1242 1256	email settings
+T14	Software-Other 1405 1410	Gmail
+T15	Software-Other 1412 1423	Thunderbird
+T16	Software-Other 1485 1498	Manual config
+T17	Software-Other 1552 1556	Done
+T18	Software-Other 1634 1647	mail settings
+R1	SubPart Arg1:T17 Arg2:T16	
+A4	isSettingsChanged T17 true
+T19	Software-Other 1824 1831	sign in
+T20	Software-Other 1877 1882	Write
+T21	Software-Other 2036 2040	Send

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 139 144	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 275 283	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 323 342	Update and Security
+A3	isOpened T3 f->t
+T4	Software-OS-Related 458 468	Activation
+A4	isOpened T4 f->t
+T5	Software-OS-Related 599 609	Windows 10
+T6	Software-Other 1214 1229	Microsoft Store

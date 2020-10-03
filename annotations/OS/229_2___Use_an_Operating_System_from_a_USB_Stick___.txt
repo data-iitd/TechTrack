@@ -1,0 +1,63 @@
+Use an Operating System from a USB Stick
+https://www.wikihow.com/Use-an-Operating-System-from-a-USB-Stick
+
+0 - 
+
+1 - Acquire an appropriate USB flash drive.
+Acquire an appropriate USB flash drive. To install a modern macOS/OSX operating system, you will want a flash drive with at least 16GB capacity. USB 2.0 will work, but the greater speed of USB 3.0 is highly preferable.
+- 32GB or greater is recommended if you want to fit anything beyond the operating system on the drive. The increase in capacity is relatively inexpensive (~$5 difference between 16 and 32 GB)!
+
+2 - Download the OS installer from the App Store.
+Download the OS installer from the App Store. Search for the version of macOS/OSX you want to install and press “Download”. The installer will appear in your Applications folder when when the download is complete.
+
+3 - Connect the USB flash drive to your computer.
+Connect the USB flash drive to your computer. The drive will mount automatically and appear on the desktop.
+
+4 - Go to “Applications > Utilities” and open the Disk Utility.
+Go to “Applications > Utilities” and open the Disk Utility. The Disk Utility is used to manage and modify your drives. Your flash drive will appear in the list of drives on the left.
+
+5 - Select your flash drive from the list and press “Partition”.
+Select your flash drive from the list and press “Partition”. Partitioning is a way to split your drive’s storage into separate spaces. This button is one of the tabs listed below the menu bar. The tab contains options for formatting the USB drive and setting it up to be bootable.
+
+6 - Open the Partition Layout menu and select “1 Partition”.
+Open the Partition Layout menu and select “1 Partition”. A single partition will maximize the space for your portable operating system.
+
+7 - Open the Format menu and select “Mac OS Extended (Journaled)".
+Open the Format menu and select “Mac OS Extended (Journaled)". This format is necessary to run the operating system.
+- Note: Formatting the USB drive will erase ALL content. If you have any data on your USB flash drive you want to save, copy it to your computer first to save it.
+
+8 - Press “Options…”.
+Press “Options…”. This button is below the partition table and opens up a menu of options for the selected partition.
+
+9 - Select “GUID partition table” and press “OK”.
+Select “GUID partition table” and press “OK”. This partition scheme is necessary to make the partition bootable.
+- Other options are used for making a drive bootable to PowerPC or Windows computers, but a modern macOS/OSX will not function properly on most non-Mac hardware.
+
+10 - Press “Apply” then “Partition” from the popup alert.
+Press “Apply” then “Partition” from the popup alert. A progress bar will appear indicating the formatting and partitioning progress. This process may take a few minutes. When complete, the progress bar will disappear.
+
+11 - Open the macOS_OSX installer.
+Open the macOS/OSX installer. The installer is located in your Applications folder.
+
+12 - Press “Continue” to begin the installation process.
+Press “Continue” to begin the installation process.
+
+13 - Press “Agree” and then “Agree” a second time in the popup.
+Press “Agree” and then “Agree” a second time in the popup. Clicking this button agrees to the licensing information displayed in the installer window.
+
+14 - Press “Show All Disks”.
+Press “Show All Disks”. This will let you select which disk to install the operating system to.
+
+15 - Select your flash drive from the list of disks and press “Install”.
+Select your flash drive from the list of disks and press “Install”. The installation will begin and will probably take around 30 or more minutes. When installation is complete you will be prompted to setup the new OS.
+- You may be prompted to enter your computer’s login information after pressing install to verify the action.
+
+16 - Enter the OS initialization information.
+Enter the OS initialization information. You will be prompted for information like username/password, location, and wifi info to configure your new OS installation. After you finish you will be booted into your portable drive.
+
+17 - Go to “Applications > System Settings” and open “Startup Disk”.
+Go to “Applications > System Settings” and open “Startup Disk”. You want to make sure to switch your default startup disk back to your computer’s hard drive to avoid problems after you remove the flash drive.
+
+18 - Select your computer’s hard drive and press “Restart”.
+Select your computer’s hard drive and press “Restart”. You will boot back into your computer’s hard drive and you can now safely eject your flash drive.
+

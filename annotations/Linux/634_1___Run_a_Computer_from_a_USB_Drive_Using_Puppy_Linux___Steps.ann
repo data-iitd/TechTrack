@@ -1,0 +1,19 @@
+T1	Software-Other 155 176	Puppy Linux home page
+A1	isOpened T1 f->t
+T2	Software-OS-Related 212 223	Puppy Linux
+T3	Software-OS-Related 441 445	Burn
+T4	Software-Other 451 454	iso
+T5	Software-OS-Related 461 467	CD ROM
+T6	Software-OS-Related 747 751	Boot
+T7	Software-OS-Related 421 427	CD ROM
+T8	Software-Other 362 365	iso
+T9	Hardware-Other 756 764	computer
+T10	Software-OS-Related 774 780	CD ROM
+T11	Software-OS-Related 984 995	Puppy Linux
+A2	isOpened T11 f->t
+T12	Software-OS-Related 1005 1011	CD ROM
+T13	Hardware-Other 1023 1038	USB flash drive
+T14	Software-OS-Related 1375 1382	Install
+T15	Software-OS-Related 1398 1405	desktop
+T16	Software-OS-Related 1492 1507	USB flash drive
+T17	Software-OS-Related 1531 1542	Puppy Linux

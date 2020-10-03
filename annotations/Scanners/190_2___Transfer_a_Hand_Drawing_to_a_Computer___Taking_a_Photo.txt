@@ -1,0 +1,22 @@
+Transfer a Hand Drawing to a Computer
+https://www.wikihow.com/Transfer-a-Hand-Drawing-to-a-Computer
+
+0 - Taking a Photo
+
+1 - Ensure optimal lighting.
+Ensure optimal lighting. A well-lit room as well as using sunlight are good ways to make sure the photo will show up clearly on the camera.
+
+2 - Take a photo of your drawing.
+Take a photo of your drawing. Allow the drawing to take up most of the space on the camera to ensure all the details in the photo are preserved. Typically, one can crop the photo right after taking it through the edit menu if your using a phone.
+- Make sure to eliminate as much background detail around the drawing as possible. Another layer of similar colored paper underneath can eliminate any transparency.
+
+3 - Transfer the photo to the computer.
+Transfer the photo to the computer. You can use whatever preferred method (email, text, a cable connect, Airdrop, etc) to transfer photos. The file format should be either JPEG or PNG.
+
+4 - Convert drawing to a vector using a tracing software.
+Convert drawing to a vector using a tracing software. A multitude of free tracing software programs exist online through a simple Google search. Vector magic is one software option.
+- A vector format is very useful when editing drawings, as it allows a crisp image in as many sizes as possible. Plus it's very easy to add a transparent background, if your into that kind of stuff.
+
+5 - Import to a free photo-editing software.
+Import to a free photo-editing software. This is just something to do if you want to take your drawing further. You can easily add color to a drawing using a paint bucket through software. Have fun with it!
+

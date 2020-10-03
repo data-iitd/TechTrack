@@ -1,0 +1,43 @@
+T1	Hardware-Other 96 108	bootable USB
+T2	Software-OS-Related 120 126	Deepin
+T3	Software-Other 183 191	ISO file
+T4	Software-Other 195 221	https://www.deepin.org/en/
+T5	Software-OS-Related 405 411	Reboot
+T6	Software-OS-Related 421 425	BIOS
+T7	Software-OS-Related 437 447	boot order
+A1	isOpened T7 f->t
+A2	isOpened T6 f->t
+T8	Software-OS-Related 461 464	USB
+A3	isSettingsChanged T8 true
+R1	SubPart Arg1:T8 Arg2:T7	
+T10	Software-OS-Related 899 908	boot menu
+T11	Software-OS-Related 787 809	UEFI Firmware Settings
+T12	Software-OS-Related 702 719	UEFI-based system
+T13	Software-OS-Related 767 774	Restart
+T9	Software-OS-Related 917 931	Install Deepin
+T14	Software-OS-Related 1214 1229	system language
+T15	Software-OS-Related 1240 1244	Next
+A4	isSettingsChanged T14 true
+R2	SubPart Arg1:T14 Arg2:T9	
+T16	Software-OS-Related 1552 1564	user account
+T17	Software-OS-Related 1583 1591	password
+T18	Software-OS-Related 1574 1578	name
+A5	isSettingsChanged T16 true
+R3	SubPart Arg1:T16 Arg2:T9	
+A6	isOpened T9 f->t
+T19	Software-OS-Related 1873 1877	disk
+T20	Software-OS-Related 1881 1890	partition
+T21	Software-OS-Related 1916 1922	Deepin
+T22	Software-OS-Related 2567 2575	Continue
+T23	Software-OS-Related 2925 2931	reboot
+T24	Software-OS-Related 3224 3228	Boot
+T25	Software-OS-Related 3238 3242	BIOS
+A7	isOpened T25 f->t
+T26	Software-OS-Related 3286 3296	hard drive
+T27	Software-OS-Related 3258 3268	boot order
+A8	isSettingsChanged T26 true
+R4	SubPart Arg1:T26 Arg2:T27	
+T28	Software-OS-Related 2881 2887	Deepin
+T29	Software-OS-Related 3414 3420	reboot
+T30	Software-OS-Related 3460 3466	Log in
+T31	Software-OS-Related 3470 3476	Deepin

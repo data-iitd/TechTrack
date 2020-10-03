@@ -1,0 +1,30 @@
+Turn Off BitLocker
+https://www.wikihow.com/Turn-Off-BitLocker
+
+0 - Using Control Panel
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen. The Start menu will pop up.
+- If you're on Windows 7, you'll click the multicolored  icon.
+
+2 - Search for BitLocker.
+Search for BitLocker. Type in bitlocker to do so. A list of matching search results will appear in the Start menu.
+- On Windows 7, you must first click the search bar at the bottom of the Start menu.
+
+3 - Click Manage BitLocker.
+Click Manage BitLocker. It should be at the top of the Start menu. Doing so opens the BitLocker Control Panel page.
+
+4 - Find the correct hard drive.
+Find the correct hard drive. Scroll down until you find the drive for which you want to disable BitLocker.
+- Skip this step if BitLocker is only encrypting one hard drive.
+
+5 - Click Turn Off BitLocker.
+Click Turn Off BitLocker. It's a link below and to the right of the BitLocker heading.
+
+6 - Click Turn Off BitLocker when prompted.
+Click Turn Off BitLocker when prompted. Doing so causes BitLocker to begin decrypting your drive. This can take several hours to complete.
+- You may be asked to enter your Administrator password or PIN before BitLocker will begin turning off.
+- On Windows 7, you'll click Decrypt Drive here.[2]
+- X
+- Research source
+

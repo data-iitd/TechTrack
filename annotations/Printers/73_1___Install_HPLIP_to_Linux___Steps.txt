@@ -1,0 +1,44 @@
+Install HPLIP to Linux
+https://www.wikihow.com/Install-HPLIP-to-Linux
+
+0 - Steps
+
+1 - Go to the Open Source website with the software.
+Go to the Open Source website with the software.
+- ;
+
+2 - Click on the Download link to go to the beginning of the process.
+Click on the Download link to go to the beginning of the process.
+
+3 - Click on the Download HPLIP button.
+Click on the Download HPLIP button. This will take you to a screen where you can choose all of the parameters of your computer; e.g. type of OS, which version of it, what you are looking for, to install, etc.
+
+4 - Download it.
+Download it.
+
+5 - Locate it.
+Locate it. If it is in your download folder, move it to your Desktop.
+
+6 - Open up the Terminal.
+Open up the Terminal. Do this by going to Applications >> Accessories >> Terminal.
+
+7 - Type in:
+Type in:
+- cd Desktop
+- 
+- 
+- sh hplip3.12.2.run (or whatever the file name is)
+- WH.shared.addScrollLoadItem('e88408585f414f8964853dcf82fd1e77')
+
+8 - Start answering the options as applicable.
+Start answering the options as applicable. You will be given a series of options to choose from.
+
+9 - Keep on answering.
+Keep on answering. There are a few screens that you will need to process to get your driver installed.
+
+10 - Continue this until you get to the dialog box.
+Continue this until you get to the dialog box.
+
+11 - If you don't know how to find it, use the Discovery Options.
+If you don't know how to find it, use the Discovery Options. In this screenshot, hp was typed in and that was enough to help find the printer.
+

@@ -1,0 +1,24 @@
+Find Your Internal IP in Ubuntu
+https://www.wikihow.com/Find-Your-Internal-IP-in-Ubuntu
+
+0 - Steps
+
+1 - From the command line, at the prompt, type the following command 'ifconfig'.
+From the command line, at the prompt, type the following command 'ifconfig'.
+- ;
+
+2 - This will list each network device on that computer.
+This will list each network device on that computer.
+
+3 - If the computer is connected to the network with a wire, the port you are interested in will be listed as "eth"[followed by something].
+If the computer is connected to the network with a wire, the port you are interested in will be listed as "eth"[followed by something].  If you are connected by wifi, it will be listed differently.
+
+4 - The 'lo' is the 'localhost' and should always be 127.0.0.1.
+The 'lo' is the 'localhost' and should always be 127.0.0.1.
+
+5 - Find the computer's IP address by looking for a line similar to this:
+Find the computer's IP address by looking for a line similar to this: inet addr:192.168.1.13
+
+6 - An IP address starting with 192.168.1.
+An IP address starting with 192.168.1. is an internal network.  If the first two sets of 3 numbers for your IP address are not 192.168, then you are more than likely looking at the actual IP address assigned to that computer by an 'internet' dns server.
+

@@ -1,0 +1,27 @@
+T1	Hardware-Devices 151 159	computer
+A1	isPowered T1 f->t
+T2	Hardware-Other 434 443	USB stick
+T3	Hardware-Devices 639 647	computer
+A2	isPowered T3 f->t
+T4	Software-OS-Related 695 704	Boot Menu
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1234 1252	USB Removable Disk
+A4	isSettingsChanged T5 true
+T6	Software-OS-Related 1425 1441	Install Edubuntu
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1812 1841	Preparing to install Edubuntu
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1860 1894	Download updates while installing"
+A7	isSettingsChanged T8 true
+T9	Software-OS-Related 1900 1928	Install third-party software
+A8	isSettingsChanged T9 true
+T10	Software-OS-Related 1989 1999	Disk Setup
+A9	isOpened T10 f->t
+T11	Software-OS-Related 2017 2048	Erase disk and install Edubuntu
+A10	isSettingsChanged T11 true
+A11	isOpened T11 f->t
+T12	Software-OS-Related 2475 2481	Reboot
+A12	isOpened T12 f->t
+R1	SubPart Arg1:T7 Arg2:T6	
+R2	SubPart Arg1:T10 Arg2:T6	
+R3	SubPart Arg1:T11 Arg2:T6	

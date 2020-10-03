@@ -1,0 +1,24 @@
+Encrypt Files in Linux
+https://www.wikihow.com/Encrypt-Files-in-Linux
+
+0 - Encrypting a File
+
+1 - Install GnuPG first.
+Install GnuPG first. Open the terminal and enter the command sudo apt install gnupg. The installation process will start.
+- ;
+
+2 - Navigate to the folder where you store the file that you are going to encrypt.
+Navigate to the folder where you store the file that you are going to encrypt. Right-click and choose Open Terminal from the menu.
+
+3 - Enter the the command gpg -c file1.txt, and press ↵ Enter.
+Enter the the command gpg -c file1.txt, and press ↵ Enter. Replace "file1.txt" with the name of the file you want to encrypt.
+
+4 - Enter the passphrase.
+Enter the passphrase. You can choose any suitable passphrase you want; it will as you to re-enter the phrase for the confirmation. Don't forget the phrase!
+
+5 - Remove the original file by typing the command rm file1.txt.
+Remove the original file by typing the command rm file1.txt. Replace "file1.txt" with the right file name. Your encrypted file will be created with the extension ".gpg" in the same directory.
+
+6 - Reload the agent.
+Reload the agent. Sometimes GnuPG will cache your passphrase, meaning anyone can decrypt the file without the passphrase. To avoid this, use the command  gpg-connect-agent reloadagent /bye.
+

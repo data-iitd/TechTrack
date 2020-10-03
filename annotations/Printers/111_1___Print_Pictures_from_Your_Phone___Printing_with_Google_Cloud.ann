@@ -1,0 +1,26 @@
+T1	Hardware-Devices 142 149	printer
+T2	Software-Other 518 529	Cloud Print
+T3	Software-Other 543 559	PrintCentral Pro
+T4	Software-Other 184 197	Google Chrome
+A1	isOpened T4 f->t
+T5	Software-Other 240 248	Settings
+A2	isOpened T5 f->t
+T6	Software-Other 251 259	Advanced
+A3	isOpened T6 f->t
+T7	Software-Other 264 282	Google Cloud Print
+A4	isOpened T7 f->t
+T8	Software-Other 285 311	Manage Cloud Print Devices
+A5	isOpened T8 f->t
+T9	Software-Other 314 326	Add printers
+A6	isOpened T9 f->t
+T10	Hardware-Other 684 698	Android phones
+T11	Hardware-Other 1105 1112	tablets
+T12	Software-Other 1507 1521	camera gallery
+T13	Software-Other 1525 1538	Google Photos
+T14	Software-Other 1988 1993	Print
+A7	isOpened T14 f->t
+T15	Software-Other 2141 2157	Select a printer
+A8	isOpened T15 f->t
+T16	Hardware-Devices 2241 2248	printer
+T17	Software-Other 2645 2647	OK
+A9	isOpened T17 f->t

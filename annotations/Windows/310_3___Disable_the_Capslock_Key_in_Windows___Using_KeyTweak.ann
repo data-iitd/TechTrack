@@ -1,0 +1,8 @@
+T1	Software-Other 139 147	KeyTweak
+A1	isOpened T1 f->t
+T2	Software-Other 1141 1152	Disable Key
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 1339 1345	Reboot
+A3	isSettingsChanged T3 true
+T4	Software-Other 1540 1546	enable
+A4	isSettingsChanged T4 true

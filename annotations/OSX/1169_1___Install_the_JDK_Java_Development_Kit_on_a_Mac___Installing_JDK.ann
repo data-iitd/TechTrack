@@ -1,0 +1,19 @@
+T1	Software-Other 219 230	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 241 272	oracle.com/downloads/index.html
+A2	isOpened T2 f->t
+A3	isInstalled T2 start-F
+T3	Software-Other 440 444	Java
+A4	isSettingsChanged T3 true
+T4	Software-Other 464 471	Java SE
+A5	isSettingsChanged T4 true
+T5	Software-Other 488 496	Download
+A6	isOpened T5 f->t
+T6	Software-Other 547 571	Accept License Agreement
+A7	isSettingsChanged T6 true
+T7	Software-Other 592 620	download link for "Mac OS X"
+A8	isOpened T7 f->t
+T8	Software-Other 838 849	.dmg format
+A9	isOpened T8 f->t
+T9	Software-Other 989 992	JDK
+A10	isInstalled T9 f->t

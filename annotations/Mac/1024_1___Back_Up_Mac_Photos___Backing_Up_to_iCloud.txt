@@ -1,0 +1,26 @@
+Back Up Mac Photos
+https://www.wikihow.com/Back-Up-Mac-Photos
+
+0 - Backing Up to iCloud
+
+1 - Open the Photos app on your Mac.
+Open the Photos app on your Mac. The Photos app looks like a colored pinwheel in a white circle icon. You can find it in your Applications folder.
+- ;
+
+2 - Click the Photos tab on the menu bar.
+Click the Photos tab on the menu bar. You can find it next to the Apple icon in the upper-left corner of your screen. It will open a drop-down menu.
+
+3 - Click Preferences on the menu.
+Click Preferences on the menu. This will open your Photos settings in a new window.
+
+4 - Click the iCloud tab at the top.
+Click the iCloud tab at the top. This button looks like a  icon at the top of the Preferences window.
+
+5 - Click and check the iCloud Photo Library option.
+Click and check the iCloud Photo Library option. It's at the top of the iCloud tab here.
+- When this option is checked, all your pictures are automatically uploaded and stored on your iCloud account. You can access all your pictures on all your devices.
+
+6 - Select the Download Originals to this Mac option.
+Select the Download Originals to this Mac option. You can find it under the iCloud Photo Library heading. This will store full-resolution versions of all your pictures on your Mac.
+- If you select Optimize Mac Storage, you'll download and store low-resolution versions of your pictures on your Mac. You can download the full-resolution version of a picture if you have enough storage space.
+

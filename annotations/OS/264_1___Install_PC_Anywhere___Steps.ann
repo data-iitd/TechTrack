@@ -1,0 +1,36 @@
+T1	Hardware-Other 207 215	computer
+T2	Software-Other 235 246	PC Anywhere
+T3	Software-Other 549 573	full-system installation
+T4	Software-Other 577 613	customize your software installation
+T5	Software-Other 870 881	PC Anywhere
+T6	Hardware-Other 1253 1263	product CD
+T7	Hardware-Other 1274 1301	computer's CD_DVD-ROM drive
+T8	Software-Other 1319 1337	PC Anywhere window
+A1	isOpened T8 f->t
+T9	Hardware-Other 908 916	computer
+T10	Software-Other 1491 1518	Install Symantec PCAnywhere
+T11	Software-Other 1527 1531	Next
+T12	Software-Other 1579 1597	Destination Folder
+T13	Software-Other 1604 1616	Custom Setup
+T14	Software-Other 1538 1550	setup panels
+A2	isOpened T14 f->t
+T15	Software-Other 1825 1853	Ready to Install the Program
+A3	isOpened T15 f->t
+T16	Hardware-Other 2032 2040	computer
+T17	Software-Other 2120 2131	PC Anywhere
+T18	Software-Other 2173 2180	Install
+T19	Software-Other 2267 2273	Finish
+T20	Hardware-Other 2326 2334	computer
+T21	Software-OS-Related 2313 2320	restart
+T22	Software-Other 2367 2378	PC Anywhere
+T23	Hardware-Other 2417 2431	PC Anywhere CD
+T24	Hardware-Other 2442 2463	computer's disk drive
+T25	Software-Other 2538 2563	installation panel window
+A5	isOpened T25 f->t
+T26	Software-Other 2589 2620	View Other Installation Options
+A6	isOpened T26 f->t
+T27	Software-Other 2638 2671	View Custom Installation Packages
+A7	isOpened T27 f->t
+T28	Software-Other 2935 2937	OK
+T29	Software-Other 2960 2971	PC Anywhere
+A4	isInstalled T29 f->t

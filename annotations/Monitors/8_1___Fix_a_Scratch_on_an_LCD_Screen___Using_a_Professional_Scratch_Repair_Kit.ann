@@ -1,0 +1,22 @@
+T1	Hardware-Other 180 199	Scratch repair kits
+T2	Hardware-Other 402 433	professional scratch repair kit
+T3	Hardware-Other 509 531	Displex Display Polish
+T4	Hardware-Other 538 558	Novus Plastic Polish
+*	Equiv T2 T3 T4
+T5	Hardware-Other 747 763	microfiber cloth
+T6	Hardware-Other 772 775	kit
+T7	Hardware-Other 879 891	paper towels
+T8	Hardware-Other 907 921	napkins/cloths
+T9	Hardware-Devices 942 948	screen
+T10	Hardware-Devices 1000 1017	TV/phone/computer
+A2	isPowered T10 t->f
+T11	Hardware-Devices 1098 1104	screen
+A3	isPowered T11 t->f
+T12	Hardware-Other 1131 1141	repair kit
+T13	Hardware-Other 1272 1280	solution
+T14	Hardware-Other 1364 1380	microfiber cloth
+T15	Hardware-Other 1417 1425	solution
+T16	Hardware-Devices 1548 1554	screen
+T17	Hardware-Other 1573 1589	microfiber cloth
+T18	Hardware-Other 1607 1615	solution
+T19	Hardware-Devices 1724 1730	screen

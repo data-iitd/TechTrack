@@ -1,0 +1,29 @@
+T1	Software-OS-Related 125 133	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 266 283	current time zone
+T3	Software-OS-Related 331 339	Terminal
+T4	Software-OS-Related 321 325	date
+T5	Software-OS-Related 658 680	cd /usr/share/zoneinfo
+T6	Software-OS-Related 713 721	tzselect
+T7	Software-OS-Related 872 881	continent
+T8	Software-OS-Related 885 890	ocean
+A2	isSettingsChanged T7 true
+A3	isSettingsChanged T8 true
+A4	isOpened T5 f->t
+A5	isOpened T4 f->t
+A6	isOpened T6 f->t
+T9	Software-OS-Related 1025 1032	country
+A7	isSettingsChanged T9 true
+A8	isOpened T7 f->t
+A9	isOpened T8 f->t
+T10	Software-OS-Related 1139 1148	time zone
+A10	isSettingsChanged T10 true
+T11	Software-OS-Related 1378 1388	local time
+T12	Software-OS-Related 1653 1662	time zone
+T13	Software-OS-Related 1929 1934	clock
+T14	Software-OS-Related 2308 2332	sudo apt install ntpdate
+T15	Software-OS-Related 2348 2400	sudo yum install ntpdatesudo /sbin/chkconfig ntpd on
+T16	Software-OS-Related 2423 2469	sudo yum install ntpdatesudo chkconfig ntpd on
+T17	Software-Other 2181 2199	NTP server package
+A14	isInstalled T17 f->t
+T18	Software-OS-Related 2479 2512	ntpdate server link && hwclock –w

@@ -1,0 +1,46 @@
+Use Wine on Linux
+https://www.wikihow.com/Use-Wine-on-Linux
+
+0 - Installing Wine
+
+1 - Open the Terminal.
+Open the Terminal. Select the Terminal application from your computer's Menu or Applications list to do so.
+- On most Linux versions, you can also open the Terminal by pressing Ctrl+Alt+T.
+- Some Linux versions also have a command line textbox at the top of the screen.
+- Some Linux installations go directly into command line. If that's the case, skip this step.
+- ;
+
+2 - Enable 32-bit architecture.
+Enable 32-bit architecture. If your computer uses a 64-bit processor, you'll need to enable 32-bit mode for your computer. To do so:
+- Type sudo dpkg --add-architecture i386 into Terminal and press ↵ Enter.
+- Type in your root password when prompted and press ↵ Enter.
+
+3 - Point your computer's downloader to the Wine website.
+Point your computer's downloader to the Wine website. This will allow your computer to find the proper download files. To do so:
+- Type in wget -nc https://dl.winehq.org/wine-builds/Release.key and press ↵ Enter.
+- Type in sudo apt-key add Release.key and press ↵ Enter.
+- Enter your root password if prompted.
+
+4 - Add the Wine repository to your library.
+Add the Wine repository to your library. Depending on your Linux version, you'll enter one of the following strings:
+- 
+- Ubuntu - sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+- 
+- Mint - sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'
+
+5 - Update the downloaded packages.
+Update the downloaded packages. Type in sudo apt-get update and press ↵ Enter.
+
+6 - Select a download.
+Select a download. As of March 2018, the stable release for Wine can be downloaded by typing in sudo apt-get install --install-recommends wine-stable and pressing ↵ Enter.[1]
+- X
+- Research source
+- 
+- There may be future Wine versions that support multiple different types of stable download.
+
+7 - Confirm the download.
+Confirm the download. Type in y and press ↵ Enter, then type back in your root password if prompted. Wine will begin downloading and installing onto your computer.
+
+8 - Wait for the download to finish.
+Wait for the download to finish. Wine will take upward of 10 minutes to finish installing on your computer. When it finishes downloading, you can proceed.
+

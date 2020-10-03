@@ -1,0 +1,35 @@
+Change Screensaver Settings in Windows
+https://www.wikihow.com/Change-Screensaver-Settings-in-Windows
+
+0 - Using Windows 10
+
+1 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. Doing so will invoke a context menu.;
+
+2 - Click "Personalize" from the context menu.
+Click "Personalize" from the context menu. The Windows Personalization settings will open.
+
+3 - Click "Lock screen" from the left pane.
+Click "Lock screen" from the left pane.
+
+4 - Click "Screen saver settings".
+Click "Screen saver settings". This is located at the bottom of the Lock Screen settings.
+
+5 - Click the bar beneath the "Screen Saver" text.
+Click the bar beneath the "Screen Saver" text. Doing so should prompt a drop-down menu with screen saver options. If you've never used a screen saver on Windows 10, this bar should say "()".
+
+6 - Select a screen saver.
+Select a screen saver. You can click any of the choices in this drop-down menu to set a Windows 10 screen saver; classic choices include the "Mystify", "3D Text", and "Photos" screen saver options.
+
+7 - Click "Options" to customize your screen saver.
+Click "Options" to customize your screen saver. Of the default Windows 10 screen savers, only "3D Text" and "Photos" have additional options available:
+- 3D Text - You can alter the text itself--e.g., what text is displayed--as well as its speed, the nature of its movement, and its graphical properties. You can also select "Time" to reflect your computer's clock.
+- Photos - You can change your photos' destination folder, as well as the slide show speed and whether or not your photos display in a random order (or "shuffle").
+
+8 - Determine when you'd like your screen saver to turn on.
+Determine when you'd like your screen saver to turn on. In the field next to "Wait", you should see the number "15"; this is the default number of minutes that must pass before your screen saver becomes active. You can change this value by clicking one of the arrows (up or down) to the right of the number to increase or decrease the wait time.
+- You can also check the "On resume, display logon screen" option to lock your computer whenever the screen saver activates. This is a good option for shared or work computers.
+
+9 - Click "OK" when you're done.
+Click "OK" when you're done. This will save your screen saver settings! If you leave your computer alone for your selected time, your screen saver should display.
+

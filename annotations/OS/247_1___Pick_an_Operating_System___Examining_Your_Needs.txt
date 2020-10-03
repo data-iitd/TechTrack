@@ -1,0 +1,40 @@
+Pick an Operating System
+https://www.wikihow.com/Pick-an-Operating-System
+
+0 - Examining Your Needs
+
+1 - Think about ease of use.
+Think about ease of use. Every operating system (OS) has a learning curve for those unfamiliar with it, but the curve might not be the same for all OSs. All operating systems tout ease-of-use, though OS X has made that their selling point over the years. Linux is traditionally the least easy-to-use, but modern distributions make working with Linux very similar to both Windows and OS X.;
+
+2 - Look at the software you use.
+Look at the software you use. Windows will generally have the most software compatibility, as the majority of commercial programs are designed for Windows. Macs have access to a large library of Mac-specific software, while the Linux community provides a vast number of free, open-source alternatives to commercial software.
+
+3 - Note what your coworkers, family, or school uses.
+Note what your coworkers, family, or school uses. If you're going to be sharing documents and files with a lot of other people, it may be easier to stick with the same operating system everyone else uses. This will make connecting to others a lot easier.
+
+4 - Investigate the security differences.
+Investigate the security differences. While all operating systems are at risk of infection, Windows has the most viruses because of its high market share.  Macs are also susceptible to malware designed for Mac, while Linux-based operating systems such as Ubuntu or Debian have the least number of viruses.
+
+5 - Consider the game selection.
+Consider the game selection. If you are an avid game player, your operating system choice will heavily dictate the number of games available to you. Windows is by far the market leader in video games, but more and more games are getting Mac and Linux releases.
+
+6 - Examine the editing tools.
+Examine the editing tools. If you do a lot of image, video, or audio editing, a Mac will most likely suit your needs best. Macs come packaged with powerful editing programs, and many prefer to use programs like Photoshop on a Mac.
+- Windows has lots of powerful options available as well. Linux has very few options with little support. Most editing programs on Linux are open-source alternatives that meet most of the functionality of popular paid programs, but are generally more difficult to use and not as powerful.
+
+7 - Compare programming tools.
+Compare programming tools. If you're a software developer, you'll want to compare coding options available on different platforms. Linux is one of the best places to program desktop software, while you will need a Mac computer to develop iOS apps. There are compilers and IDEs available for most other languages on all operating systems.
+- Due to the large amount of open-source code available for Linux, there are a lot more examples to look at when learning a language.
+
+8 - Think about your business needs.
+Think about your business needs. If you're running a business and are trying to decide what systems will be best for your workers, there are a couple of things to keep in mind. Windows machines will be far cheaper than the same number of OS X machines, but OS X machines are much better for content creation, such as writing, images, video, or audio.[1]
+- X
+- Research source
+- 
+- When stocking your business with computers, you'll generally want all of them to be running the same operating system for easy compatibility and networking.
+- Windows is cheaper and may be more familiar for your workers, but it is inherently less secure than OS X.
+
+9 - Choose between 32-bit and 64-bit.
+Choose between 32-bit and 64-bit. Most new computers should come with the 64-bit version of your chosen operating system installed. 64-bit operating systems allow for more processes and more efficient memory handling. Your hardware must support 64-bit in order to use a 64-bit operating system.
+- 32-bit programs should generally have no problem running on a 64-bit operating system.
+

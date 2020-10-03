@@ -1,0 +1,27 @@
+T1	Software-OS-Related 620 630	Start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 766 776	power icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 915 922	Restart
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Hardware-Devices 1013 1021	computer
+A4	isPowered T4 f->t
+T5	Software-OS-Related 1363 1367	BIOS
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1486 1490	Boot
+A6	isOpened T6 f->t
+T7	Hardware-Other 1776 1791	USB flash drive
+T8	Software-OS-Related 1869 1881	CD-ROM Drive
+T9	Software-OS-Related 1804 1821	Removable Devices
+A7	isSettingsChanged T9 true
+T10	Software-OS-Related 2008 2025	Removable Devices
+T11	Software-OS-Related 2029 2041	CD-ROM Drive
+T12	Hardware-Other 1839 1843	disc
+A8	isSettingsChanged T8 true
+R2	SubPart Arg1:T9 Arg2:T6	
+R3	SubPart Arg1:T8 Arg2:T6	
+T13	Hardware-Devices 2074 2082	computer
+T14	Hardware-Devices 2526 2534	computer
+T15	Hardware-Devices 2615 2623	computer
+A9	isPowered T15 f->t

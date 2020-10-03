@@ -1,0 +1,21 @@
+T1	Software-OS-Related 164 173	Automator
+A1	isOpened T1 f->t
+T2	Hardware-Other 205 207	F4
+T3	Software-OS-Related 243 248	Other
+T4	Software-OS-Related 330 342	Quick Action
+A3	isOpened T4 f->t
+T5	Software-OS-Related 362 380	Start Screen Saver
+A4	isOpened T5 f->t
+T6	Software-OS-Related 510 555	Workflow receives no input in any application
+T7	Software-OS-Related 701 704	Run
+T8	Software-OS-Related 787 799	screen saver
+A7	isOpened T8 f->t
+T9	Software-OS-Related 826 827	X
+T10	Software-OS-Related 848 852	Save
+T11	Software-OS-Related 894 912	Start Screen Saver
+T12	Software-OS-Related 1018 1036	System Preferences
+A2	isSettingsChanged T8 true
+A6	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T4	
+A5	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T5	

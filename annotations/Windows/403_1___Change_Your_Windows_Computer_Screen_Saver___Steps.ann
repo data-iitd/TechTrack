@@ -1,0 +1,19 @@
+T1	Software-OS-Related 139 146	Start  
+A1	isOpened T1 f->t
+T2	Software-OS-Related 321 331	Settings  
+A2	isOpened T2 f->t
+T3	Software-OS-Related 500 515	Personalization
+A3	isOpened T3 f->t
+T4	Software-OS-Related 701 712	Lock Screen
+A4	isOpened T4 f->t
+T5	Software-OS-Related 885 897	Screen saver
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1270 1282	screen saver
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1973 1979	Browse
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1607 1615	Settings
+T9	Software-OS-Related 3422 3427	Apply
+A8	isSettingsChanged T9 true
+T10	Software-OS-Related 1495 1516	Screen Saver Settings
+R1	SubPart Arg1:T9 Arg2:T10	

@@ -1,0 +1,61 @@
+Create Your First Java Program on Ubuntu Linux
+https://www.wikihow.com/Create-Your-First-Java-Program-on-Ubuntu-Linux
+
+0 - Steps
+
+1 - Open terminal on your system after installing Java on your system.
+Open terminal on your system after installing Java on your system.
+- ;
+
+2 - Create a directory to hold your Java programs.
+Create a directory to hold your Java programs. Open up a terminal on Ubuntu Linux and create your Java applications directory.
+
+3 - Type:
+Type: mkdir Java_Applications
+- This will create your Java_Applications directory.
+
+4 - Navigate to your Java_Applications directory.
+Navigate to your Java_Applications directory.  Type or copy/paste: cd Java_Applications
+- This will change you into your newly created Java_Applications directory.
+
+5 - Use a text editor such as nano or gedit to create a java file.
+Use a text editor such as nano or gedit to create a java file. In this example we will use the traditional first program known as “Hello world”. This will open up a blank Java text file to work with and now we will insert some text into our Java file.
+- So using nano or gedit we will issue the following command: 
+- Type: nano HelloWorld.java or type gedit HelloWorld.java
+
+6 -  Enter the following code below.
+Enter the following code below.
+- 
+- import javax.swing.*;
+- public class HelloWorld extends JFrame
+- {
+- public static void main(String[] args)
+- {
+- new HelloWorld();
+- }
+- public HelloWorld()
+- {
+- JPanel panel1 = new JPanel();
+- JLabel label1 = new JLabel("Hello, World, this is my first Java  program on Ubuntu Linux");
+- panel1.add(label1);
+- this.add(panel1);
+- this.setTitle("Hello World");
+- this.setSize(500,500);
+- this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+- this.setVisible(true);
+- }
+- }
+
+7 - Save the file as HelloWorld.java
+
+Save the file as HelloWorld.java
+
+8 - Compile the HelloWorld.java file into a Java class file by issuing the following command below.
+Compile the HelloWorld.java file into a Java class file by issuing the following command below.
+- Type javac HelloWorld.java
+-  (This will fail if you don't have javac installed, if it fails, either follow the instructions in the introduction or type on your command line: sudo apt-get install openjdk-7-jdk)
+
+9 - Run or execute your Java class file by issuing the following command.
+Run or execute your Java class file by issuing the following command.
+- Type: java HelloWorld
+

@@ -1,0 +1,17 @@
+T1	Software-OS-Related 152 159	Windows
+T2	Software-OS-Related 217 222	Start
+T3	Software-OS-Related 242 255	Control Panel
+A1	isOpened T3 f->t
+T4	Software-OS-Related 451 473	Add or Remove Programs
+T5	Software-OS-Related 678 686	software
+T6	Software-OS-Related 690 697	program
+T7	Software-OS-Related 931 937	Remove
+A2	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	
+T8	Hardware-Other 1145 1153	computer
+T9	Hardware-Other 907 915	computer
+T10	Software-OS-Related 1162 1171	uninstall
+T11	Hardware-Other 1281 1289	computer
+T12	Software-Other 1313 1346	anti-spyware_anti-malware program
+T13	Software-OS-Related 1467 1483	Windows Defender
+T14	Software-Other 1713 1721	computer

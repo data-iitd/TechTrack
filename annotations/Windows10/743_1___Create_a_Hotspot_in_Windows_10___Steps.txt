@@ -1,0 +1,26 @@
+Create a Hotspot in Windows 10
+https://www.wikihow.com/Create-a-Hotspot-in-Windows-10
+
+0 - Steps
+
+1 - Open Settings
+Open Settings.  Press the Start  button and then the Settings gear  on the lower-left hand side of the menu.
+- ;
+
+2 - Click or tap the  Network & Internet section.
+Click or tap the  Network & Internet section.
+
+3 - Select Mobile hotspot from the left pane.
+Select Mobile hotspot from the left pane.
+
+4 - Choose your settings.
+Choose your settings.
+- Select which connection you want to share under "Share my Internet connection from".
+- Press the Edit button to change the hotspot's name and password.
+- "Turn on remotely" automatically turns on the hotspot if both devices (PC and that device) are Bluetooth-enabled.[1]
+- X
+- Research source
+
+5 - Toggle on  the slider next to "Share my Internet connection with other devices".
+Toggle on  the slider next to "Share my Internet connection with other devices".  Other devices will now see your hotspot and connect to it provided the correct password is entered.
+

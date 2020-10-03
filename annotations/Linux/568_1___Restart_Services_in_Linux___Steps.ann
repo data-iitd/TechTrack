@@ -1,0 +1,8 @@
+T1	Software-OS-Related 176 180	Menu
+T3	Software-OS-Related 279 287	Terminal
+A2	isOpened T3 f->t
+T4	Software-OS-Related 844 858	ls /etc/init.d
+T5	Software-OS-Related 1024 1037	ls /etc/rc.d/
+T2	Software-OS-Related 1464 1494	sudo systemctl restart service
+T6	Software-OS-Related 1500 1508	Terminal
+T7	Software-OS-Related 1752 1760	password

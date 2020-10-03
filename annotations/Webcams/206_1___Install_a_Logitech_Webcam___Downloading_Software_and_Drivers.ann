@@ -1,0 +1,31 @@
+T1	Hardware-Devices 137 143	webcam
+T2	Hardware-Other 170 178	computer
+T4	Software-Other 288 351	http://support.logitech.com/en_us/category/webcams-and-security
+T3	Software-Other 260 284	Logitech Support website
+A5	isOpened T3 f->t
+*	Equiv T3 T4
+T5	Software-Other 480 487	Webcams
+T6	Software-Other 505 509	More
+T8	Hardware-Devices 693 699	webcam
+T10	Software-Other 754 770	operating system
+T15	Software-Device-Drivers 1097 1110	software file
+T16	Software-Device-Drivers 1181 1209	Logitech installation wizard
+T17	Hardware-Devices 1226 1232	screen
+T19	Software-Device-Drivers 1290 1310	software and drivers
+A38	isInstalled T19 f->t
+T20	Hardware-Devices 1328 1334	webcam
+T21	Hardware-Other 1343 1351	computer
+T22	Hardware-Devices 1545 1551	webcam
+A46	isConnected T22 f->t
+T23	Hardware-Other 1560 1568	computer
+T24	Hardware-Other 1573 1576	USB
+T25	Software-Device-Drivers 1601 1620	installation wizard
+T9	Software-Other 522 534	webcam model
+T27	Software-Other 780 793	dropdown menu
+R2	SubPart Arg1:T10 Arg2:T27	
+A2	isPowered T1 start-F
+A3	isConnected T1 start-F
+A4	isInstalled T3 start-F
+A1	isRelatedDeviceConnected T15 start-T
+*	Equiv T19 T15
+A6	isPowered T22 f->t

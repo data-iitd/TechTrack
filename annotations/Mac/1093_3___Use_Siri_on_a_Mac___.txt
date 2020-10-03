@@ -1,0 +1,32 @@
+Use Siri on a Mac
+https://www.wikihow.com/Use-Siri-on-a-Mac
+
+0 - 
+
+1 - Click the Apple logo in the top-left corner of your screen.
+Click the Apple logo in the top-left corner of your screen. A general menu will appear.
+
+2 - Click "System Preferences".
+Click "System Preferences". This is where you can edit your computer's front-end settings.
+
+3 - Click "Siri".
+Click "Siri". This should be in the bottom row of your System Preferences.
+- If you don't see a "Siri" option, click on the box of dots located at the top of the System Preferences window.
+
+4 - Turn Siri on_off.
+Turn Siri on/off. On the left half of the window, click the checkbox next to "Enable Siri" to allow Siri to be opened on your computer.
+- When Siri is disabled, this simply means that you will be prompted as to whether or not you would like to allow Siri to access your microphone when you open the app.
+
+5 - Change Siri's language.
+Change Siri's language. Click on the "Language" bar at the top of the screen to change the language that Siri will listen to and respond in when you use the app.
+
+6 - Change Siri's voice.
+Change Siri's voice. Click on the "Siri Voice" bar to change the gender and accent that Siri replicates when responding to your queries.
+
+7 - Change your input source.
+Change your input source. If you would like to address Siri using an input other than your computer's built-in microphone, click the box next to "Mic input" and select your preferred option from the list.
+- Siri will default to using your internal microphone to hear your voice. You will need to have another microphone plugged into your computer to change this option.
+
+8 - Set a keyboard shortcut to open Siri.
+Set a keyboard shortcut to open Siri. By default, Siri can be opened by holding command+spacebar. If you would like to change this option, click the "Keyboard Shortcut" bar and choose one of the options listed, or click "Customize..." to set your own shortcut.
+

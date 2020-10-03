@@ -1,0 +1,26 @@
+Activate Windows
+https://www.wikihow.com/Activate-Windows
+
+0 - Activating Via Telephone
+
+1 - Press ⊞ Win+R.
+Press ⊞ Win+R.  Type in slui 4.
+
+2 - Choose a language.
+Choose a language.  Click on Next.
+
+3 - Call the toll free number on-screen.
+Call the toll free number on-screen.  This will connect you to the Microsoft activation center.
+
+4 - Dial the CAPTCHA number provided.
+Dial the CAPTCHA number provided.  As a measure against spam, only human callers are allowed to proceed to activate Windows.
+
+5 - Enter the unique installation ID using the phone keypad.
+Enter the unique installation ID using the phone keypad.  To do this, you will have to enter one group at a time.  Each group is separated by spaces.
+
+6 - Click on Next.
+Click on Next.
+
+7 - Enter in the confirmation ID on your computer.
+Enter in the confirmation ID on your computer.  Then choose Activate Windows.  This will finish activation.
+

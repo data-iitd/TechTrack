@@ -1,0 +1,21 @@
+T1	Software-OS-Related 418 423	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 623 630	regedit
+A2	isOpened T2 f->t
+T3	Software-OS-Related 726 729	Yes
+A3	isOpened T3 f->t
+T4	Software-OS-Related 906 924	HKEY_LOCAL_MACHINE
+A4	isOpened T4 f->t
+T5	Software-OS-Related 965 973	SOFTWARE
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1120 1130	Activation
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1549 1555	Modify
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1151 1157	Manual
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1989 1995	Modify
+A9	isOpened T9 f->t
+T11	Software-OS-Related 1869 1889	NotificationDisabled
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1651 1661	value data

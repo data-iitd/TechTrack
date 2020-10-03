@@ -1,0 +1,19 @@
+T1	Software-OS-Related 133 141	Terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 365 368	top
+T3	Software-OS-Related 471 483	applications
+T4	Software-OS-Related 528 535	program
+T5	Software-OS-Related 831 847	PID (Process ID)
+T6	Software-OS-Related 1023 1024	q
+T7	Software-OS-Related 1065 1077	applications
+A2	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T7	
+T8	Software-OS-Related 1199 1209	PID Column
+T9	Software-OS-Related 1127 1135	kill ###
+T10	Software-OS-Related 1268 1274	iTunes
+T11	Software-OS-Related 1301 1316	PID number 3703
+T12	Software-OS-Related 1334 1343	kill 3703
+A3	isSettingsChanged T12 true
+R2	SubPart Arg1:T12 Arg2:T10	
+T13	Software-OS-Related 1480 1488	terminal
+A5	isOpened T13 t->f

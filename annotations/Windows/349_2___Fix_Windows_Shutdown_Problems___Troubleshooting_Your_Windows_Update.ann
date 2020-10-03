@@ -1,0 +1,14 @@
+T1	Software-OS-Related 140 145	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 362 376	Windows System
+A2	isOpened T2 f->t
+T3	Software-OS-Related 482 495	Control Panel
+A3	isOpened T3 f->t
+T4	Software-OS-Related 583 598	Troubleshooting
+A4	isOpened T4 f->t
+T5	Software-OS-Related 955 974	System and Security
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1077 1116	Try troubleshooting as an administrator
+A6	isOpened T6 f->t
+T7	Software-OS-Related 998 1002	Next
+A7	isOpened T7 f->t

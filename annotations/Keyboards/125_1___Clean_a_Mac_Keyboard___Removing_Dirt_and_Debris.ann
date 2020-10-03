@@ -1,0 +1,28 @@
+T1	Hardware-Other 121 127	laptop
+T2	Hardware-Devices 161 169	keyboard
+T3	Hardware-Devices 340 348	keyboard
+A2	isPowered T3 t->f
+T4	Hardware-Other 449 455	laptop
+T5	Hardware-Other 530 538	computer
+T6	Hardware-Other 551 557	tablet
+T7	Hardware-Other 629 637	trashcan
+T8	Hardware-Other 641 645	sink
+T9	Hardware-Devices 720 728	keyboard
+T10	Hardware-Other 879 883	keys
+T11	Hardware-Other 931 945	compressed air
+T12	Hardware-Devices 955 963	keyboard
+T13	Hardware-Other 969 976	MacBook
+T14	Hardware-Other 1303 1307	keys
+T15	Hardware-Other 1243 1248	straw
+T16	Hardware-Other 1683 1690	laptops
+T17	Hardware-Other 1752 1757	cloth
+T18	Hardware-Devices 1782 1790	keyboard
+T19	Hardware-Other 2003 2007	keys
+T20	Hardware-Other 2185 2189	swab
+T21	Hardware-Other 2210 2215	cloth
+T22	Hardware-Other 2303 2307	keys
+T23	Hardware-Devices 2311 2319	keyboard
+T24	Hardware-Other 2643 2651	spacebar
+T25	Hardware-Devices 2696 2704	keyboard
+T26	Hardware-Other 2740 2745	cloth
+T27	Hardware-Other 2835 2840	cloth

@@ -1,0 +1,47 @@
+Scan Documents Into PDF
+https://www.wikihow.com/Scan-Documents-Into-PDF
+
+0 - On Mac
+
+1 - Connect your scanner to your computer.
+Connect your scanner to your computer. Depending on your scanner, you can do this via the USB cable, or you can connect wirelessly using your home Wi-Fi if your scanner has that feature.
+- Every scanner is different, so consult the manufacturer's user guide for instructions on how to properly connect your scanner to your computer.
+
+2 - Place your document in the scanner.
+Place your document in the scanner. This should be the document you want to turn into a PDF.
+
+3 - Click Go.
+Click Go. This menu item is in row of options in the upper-left corner of your Mac's screen.
+- If you don't see Go, click your Mac's desktop or open a new Finder window.
+
+4 - Click Applications.
+Click Applications. It's near the bottom of the Go drop-down menu. Your Mac's Applications folder will open.
+
+5 - Double-click Image Capture.
+Double-click Image Capture. This program's icon resembles a camera. Image Capture will open.
+- You may have to scroll down to find Image Capture.
+
+6 - Select your scanner.
+Select your scanner. Click your scanner's name in the upper-left side of the window.[1]
+- X
+- Research source
+
+7 - Select a scanner type.
+Select a scanner type. Click the drop-down box next to "Scan Mode", then click one of the following:
+- 
+- Feeder - Select this option if your documents are fed into the scanner through a chute. Used for scanning multiple documents into one PDF.
+- Flatbed - Pick this option if your scanner has a lid that you lift up to place the documents.
+
+8 - Select a destination folder.
+Select a destination folder. Click the "Scan To" drop-down box, then click a folder (e.g., Desktop) to which you would like to send the PDF.
+
+9 - Click the Format drop-down box.
+Click the Format drop-down box. It's in the middle of the right side of the page.
+
+10 - Click PDF.
+Click PDF. This option is in the Format drop-down menu. Doing so ensures that your document will scan into PDF format.
+- If this isn't an option, use the default settings to scan your image into your computer as an image, then convert the image to a PDF.
+
+11 - Click Scan.
+Click Scan. It's in the bottom-right corner of the window. Clicking this option scans your document into your computer and saves it as a PDF in your specified location.
+

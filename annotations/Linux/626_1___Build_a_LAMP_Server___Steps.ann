@@ -1,0 +1,25 @@
+T1	Software-OS-Related 497 502	Linux
+T2	Software-Other 1032 1038	Apache
+A1	isInstalled T2 f->t
+T3	Software-Other 1444 1450	Apache
+T4	Software-Other 1628 1631	PHP
+A2	isInstalled T4 f->t
+T6	Software-Other 556 567	LAMP server
+T5	Software-Other 2012 2015	PHP
+T7	Software-OS-Related 2084 2091	Restart
+T8	Software-Other 2092 2098	Apache
+T9	Software-Other 2179 2182	PHP
+T10	Software-Other 2251 2271	Apache document root
+T11	Software-Other 2284 2293	test file
+T12	Software-OS-Related 2430 2434	Save
+T13	Software-Other 2439 2448	test file
+T14	Software-Other 2636 2645	test file
+T15	Software-Other 2746 2751	MySQL
+A3	isInstalled T15 f->t
+T16	Software-Other 3167 3175	password
+T17	Software-Other 3180 3185	MySQL
+A4	isSettingsChanged T16 true
+R1	SubPart Arg1:T16 Arg2:T17	
+T18	Software-Other 3551 3563	MySQL server
+A5	isOpened T18 f->t
+T19	Software-Other 3675 3685	LAMP serve

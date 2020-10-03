@@ -1,0 +1,36 @@
+T1	Hardware-Other 128 153	Windows installation disc
+T2	Hardware-Other 163 169	CD-ROM
+T3	Software-OS-Related 174 180	reboot
+T4	Hardware-Other 185 187	PC
+T5	Software-OS-Related 413 417	boot
+T6	Software-OS-Related 438 444	CD-ROM
+T7	Software-OS-Related 477 497	terms and conditions
+T8	Software-OS-Related 508 515	Windows
+T9	Software-OS-Related 289 296	Windows
+T10	Software-OS-Related 653 660	Windows
+T11	Software-OS-Related 900 910	partitions
+T12	Software-OS-Related 947 953	delete
+A1	isSettingsChanged T12 true
+R1	SubPart Arg1:T12 Arg2:T11	
+T13	Software-OS-Related 1068 1069	D
+*	Equiv T13 T12
+T14	Software-OS-Related 1103 1110	confirm
+T15	Software-OS-Related 1086 1087	L
+R2	SubPart Arg1:T14 Arg2:T15	
+A2	isSettingsChanged T14 true
+T16	Software-OS-Related 694 714	installation process
+R3	SubPart Arg1:T14 Arg2:T16	
+T17	Software-OS-Related 1293 1302	partition
+T18	Software-OS-Related 1314 1321	Windows
+T19	Software-OS-Related 1356 1375	Unpartitioned space
+A3	isSettingsChanged T19 true
+R4	SubPart Arg1:T19 Arg2:T17	
+T20	Software-OS-Related 1690 1694	NTFS
+T21	Software-OS-Related 1663 1674	file system
+A4	isSettingsChanged T20 true
+R5	SubPart Arg1:T20 Arg2:T21	
+T22	Software-OS-Related 1874 1879	FAT32
+A5	isSettingsChanged T22 true
+R6	SubPart Arg1:T22 Arg2:T21	
+T23	Software-OS-Related 1919 1926	Windows
+T24	Software-OS-Related 1938 1947	partition

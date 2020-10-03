@@ -1,0 +1,58 @@
+Repair Dodgy or Broken Headphones
+https://www.wikihow.com/Repair-Dodgy-or-Broken-Headphones
+
+0 - Fixing a Broken Plug
+
+1 - Purchase a new jack plug.
+Purchase a new jack plug. You can find these for cheap online or at an electronics store. Select a metal plug with stereo connection and a spring. Make sure it's the same size as your old plug, typically 3.5mm (1/8 inch).[7]
+- X
+- Research source
+- 
+- ;
+
+2 - Cut the old plug off.
+Cut the old plug off. Place your knife or scissors about an inch above the point where the cable connects to the plug, then slice through the cable.[8]
+- X
+- Research source
+- 
+- ;
+- While some cables will have a plug which can screw off, the bulk of plug issues you'll experience result from frayed wires inside of the cable.
+
+3 - Remove the shielding from an inch of the cable.
+Remove the shielding from an inch of the cable. With a pair of wire strippers, strip about an inch of the cable's cover from the end. You should see a wire for both the right and left earpieces, as well as at least one ground wire.;
+- If there are two ground wires, you'll need to solder them together later.
+
+4 - Sort the wires by color.
+Sort the wires by color. Typically, you'll find a red wire for the right earpiece, a white (or green) wire for the left earpiece, and one or two black or bare copper wires for the "ground" wire(s).
+
+5 - Strip the ends of the wires.
+Strip the ends of the wires. Remove the rubber coating from the bottom 1/3 of an inch from each wire if possible.;
+- If your wires are enamel-tipped, you may be able to skip this step.
+
+6 - Twist like-colored wires together.
+Twist like-colored wires together. If you have two ground wires, you'll need to twist together their ends before you can solder them.;
+- If all of the like-colored wires are distinct, just make sure that any frayed ends of the wires are twisted together.
+
+7 - Remove enamel from the end of the wires.
+Remove enamel from the end of the wires. If your wires are tipped in an enamel cap, you'll need to burn it off by touching the soldering iron to the end of each wire in order to expose the copper ends of the wires.[9]
+- X
+- Research source
+- 
+- ;
+- Skip this step if you can see the copper ends of the wires already.
+
+8 - Slip the headphone jack's sleeve onto the wire.
+Slip the headphone jack's sleeve onto the wire. It should fit with the portion which will screw into the plug facing the bottom of the wire.;
+- The plug base should have two pins sticking out of the end. If it only has one, then you have got a mono, not stereo, plug.
+
+9 - Add a drop of solder to each wire.
+Add a drop of solder to each wire. This is called "tinning" the wires, and it will ensure that your wires can connect to the headphone jack itself.;
+- You should allow the solder to cool fully before proceeding.
+
+10 - Attach the soldered wires to the headphone jack.
+Attach the soldered wires to the headphone jack. Use sandpaper to roughen the edges to make it easier to solder to metal, apply solder to a pin in the jack's housing, and heat the pin to melt the solder. You'll repeat this process for the other two wire connections.;
+
+11 - Reassemble the headphone jack.
+Reassemble the headphone jack. Rotate the jack's sleeve to screw it into the jack plug, making sure to tighten the sleeve as much as possible. You can test your headphones at this point.;
+- If you still have problems, most likely the wires are touching. Unscrew the cap and tug the wires apart.
+

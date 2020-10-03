@@ -1,0 +1,12 @@
+T1	Software-OS-Related 460 474	Device Manager
+A1	isOpened T1 f->t
+T2	Software-OS-Related 737 747	sound card
+A2	isOpened T2 f->t
+T3	Software-OS-Related 759 769	Properties
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 920 930	Driver tab
+A4	isOpened T4 f->t
+T5	Software-OS-Related 999 1012	Update driver
+A5	isOpened T5 f->t
+R2	SubPart Arg1:T5 Arg2:T4	

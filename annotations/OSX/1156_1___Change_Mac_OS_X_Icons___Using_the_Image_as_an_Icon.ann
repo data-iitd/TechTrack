@@ -1,0 +1,25 @@
+T1	Software-OS-Related 119 123	icon
+T2	Software-OS-Related 309 316	Options
+A1	isOpened T2 f->t
+T3	Software-OS-Related 319 333	Show in Finder
+A2	isOpened T3 f->t
+T4	Software-OS-Related 842 850	Get Info
+A3	isOpened T4 f->t
+T5	Software-OS-Related 769 773	file
+T6	Software-OS-Related 801 806	image
+T7	Software-OS-Related 1062 1067	image
+T8	Software-OS-Related 1124 1133	file icon
+T9	Software-OS-Related 1365 1369	Edit
+A4	isOpened T9 f->t
+T10	Software-OS-Related 1372 1377	Paste
+A5	isSettingsChanged T10 true
+T11	Software-OS-Related 1426 1435	file icon
+T12	Software-OS-Related 1260 1272	copied image
+R1	SubPart Arg1:T10 Arg2:T8	
+T14	Software-OS-Related 1893 1916	Sharing and Permissions
+A6	isOpened T14 f->t
+T15	Software-OS-Related 1947 1955	Get Info
+T16	Software-OS-Related 2014 2024	Read&Write
+A7	isSettingsChanged T16 true
+R2	SubPart Arg1:T16 Arg2:T14	
+T13	Software-OS-Related 1628 1636	password

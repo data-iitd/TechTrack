@@ -1,0 +1,11 @@
+T1	Software-OS-Related 145 153	Registry
+A1	isOpened T1 f->t
+T2	Software-OS-Related 652 658	Export
+A2	isOpened T2 f->t
+T3	Software-OS-Related 558 566	Computer
+A3	isOpened T3 f->t
+T4	Software-OS-Related 796 800	Save
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 358 365	regedit
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T4 Arg2:T5	

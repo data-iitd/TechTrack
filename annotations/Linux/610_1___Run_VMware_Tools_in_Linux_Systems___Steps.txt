@@ -1,0 +1,42 @@
+Run VMware Tools in Linux Systems
+https://www.wikihow.com/Run-VMware-Tools-in-Linux-Systems
+
+0 - Steps
+
+1 - Load VMware.
+Load VMware. Open the VMware application and power on your virtual machine with Linux operating system.
+- ;
+
+2 - Select VMware Tools.
+Select VMware Tools. To begin, open the "VM" tab of the VMware application itself (not Linux) and select "Install VMware tools."
+
+3 - Find a volume on your desktop named "VMware Tools".
+Find a volume on your desktop named "VMware Tools". Open this by double-clicking, and inside you should see 2 items. A "manifest.txt" and a .tar.gz file. Drag the .tar.gz file to your desktop for easy access. Your screen should now look like this.
+
+4 - Open the Working Directory.
+Open the Working Directory. Now, we will open the terminal (Applications > System Tools > Terminal). The following are commands to install VMware Tools and need to be typed accurately, so be careful. All commands will be put in quotations. Start with the command "cd Desktop" and press enter. This will make our working directory on the Desktop where we have the VMware tools volume.
+
+5 - Unpack it.
+Unpack it. Now type the command "tar -zxvf VM*" and press enter. You will see a lot of output on your screen, and it will run for a few seconds. Do not try to interrupt it, it is simply unpacking the VMware Tools files we need to continue.
+
+6 - Log in as Root User.
+Log in as Root User. Once your prompt returns (you see the $) type "su root" and press enter. This is logging us in as the root user, or superuser of the system. It will then ask you for the root password of the Linux system. The prompt won't display your the characters you type, so you may make a typo like seen in the visual. Enter your root password and press enter. You will then see your prompt return with a # instead of a $.
+
+7 - Run the Installation.
+Run the Installation. Now type "./vm*/vm*" and press enter. This runs the installation of VMware Tools. The prompt will ask you various questions. Accept the default (ENTER key) for all questions EXCEPT for the following two questions. Searching for GCC Would you like to change it? Answer NO. Searching for valid kernel header path Would you like to change it? Answer NO. Only press enter once and wait for a new question to come up, or you will end up pressing enter for more than you intended. If successful you should see the following on your prompt.
+
+8 - Clean Up.
+Clean Up. Once your prompt returns type "exit" and then press enter. Now type "rm -rf VM* vm*" and press enter. This will remove the installation files that you do not require any more. Now type "exit" again and press enter to close your terminal.
+
+9 - Go to the VMware application window and click View > Autofit Window > Autofit Guest.
+Go to the VMware application window and click View > Autofit Window > Autofit Guest.
+
+10 - Restart Linux.
+Restart Linux. Now, restart your Linux operating system using System > Shut down, not through closing the VMware application. Shutting down through the virtual machine first is the safest way to restart or end your session.
+
+11 - Check your work.
+Check your work. Now power on your virtual machine again and your screen will look the same as the picture below. i.e. fitted window. You will also notice the fluidity between the VMware interface and the virtual machine, such as the mouse and copy/pasting.
+
+12 - Congrats!
+Congrats! You have successfully installed VMware Tools.
+

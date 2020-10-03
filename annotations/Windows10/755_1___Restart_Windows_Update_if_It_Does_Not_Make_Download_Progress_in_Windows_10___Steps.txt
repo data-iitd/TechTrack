@@ -1,0 +1,36 @@
+Restart Windows Update if It Does Not Make Download Progress in Windows 10
+https://www.wikihow.com/Restart-Windows-Update-if-It-Does-Not-Make-Download-Progress-in-Windows-10
+
+0 - Steps
+
+1 - .
+Restart Windows 10. Click the Start button, then click Power, after, click Restart.
+- ;
+
+2 - Log into an administrator's account.
+Log into an administrator's account.
+
+3 - Open Windows Services
+Open Windows Services. Click the Start button, type services.msc, then press ↵ Enter after it finishes searching.
+
+4 - Stop the Background Intelligent Transfer Service service.
+Stop the Background Intelligent Transfer Service service. Find Background Intelligent Transfer Service, right click it, then click Stop.
+
+5 - Stop the Windows Update service.
+Stop the Windows Update service. Find Windows Update, right click it, then click Stop.
+
+6 - Open the Run dialog.
+Open the Run dialog. Press ⊞ Win+R.
+
+7 - Type %windir%\SoftwareDistribution and click OK.
+Type %windir%\SoftwareDistribution and click OK.
+
+8 - Delete everything
+Delete everything in the folder that opens. Press Ctrl+A to select all of the files in the folder, then press ⇧ Shift+Delete and click Yes to permanently delete the files.
+
+9 - Restart services previously stopped.
+Restart services previously stopped. In the Services.msc window, right click Background Intelligent Transfer Service and click Start, then right click Windows Update and click Start.
+
+10 - Download the updates again.
+Download the updates again. Open Windows Update then check for updates.
+

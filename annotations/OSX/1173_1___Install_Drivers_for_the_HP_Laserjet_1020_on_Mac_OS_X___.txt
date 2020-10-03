@@ -1,0 +1,27 @@
+Install Drivers for the HP Laserjet 1020 on Mac OS X
+https://www.wikihow.com/Install-Drivers-for-the-HP-Laserjet-1020-on-Mac-OS-X
+
+0 - 
+
+1 - Turn off and unplug the printer.
+Turn off and unplug the printer.
+- ;
+
+2 - Download and install the drivers.
+Download and install the drivers. See external links below. Note that the file is very large and will take some time to download. (If you take the time to look at the supported printer models, you'll notice that HP Laserjet 1020 isn't among them. Don't worry about that just yet.)
+
+3 - Restart your Mac computer.
+Restart your Mac computer.
+
+4 - Turn on and connect the printer.
+Turn on and connect the printer.
+
+5 - Go to System Preferences > Print and Fax.
+Go to System Preferences > Print and Fax.
+
+6 - Press + to add printer.
+Press + to add printer.
+
+7 - Open the driver list and select HP Laserjet 1022.
+Open the driver list and select HP Laserjet 1022. Make sure not to select the Gutenberg version.
+

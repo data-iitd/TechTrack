@@ -1,0 +1,32 @@
+Make a Video Game Stop Lagging on Windows
+https://www.wikihow.com/Make-a-Video-Game-Stop-Lagging-on-Windows
+
+0 - 
+
+1 - Check to see what graphics card or chip you have.
+Check to see what graphics card or chip you have. To do this, search "device manager" in the taskbar and click on the application that appears in the search menu. Then, look for a section called "Video Adapter" or "Display Adapter" and click the drop-down arrow next to it.
+
+2 - Download the "GeForce Experience" application from the Nvidia website.
+Download the "GeForce Experience" application from the Nvidia website.[3]
+- X
+- Research source
+
+3 - Once the application is installed, select the "games" tab.
+Once the application is installed, select the "games" tab. It will then scan your computer's system files and generate a list of the games you have installed.
+
+4 - Select the game that's lagging and click Optimize.
+Select the game that's lagging and click Optimize.
+
+5 - Right-click on the desktop screen and click on "Graphics Properties".
+Right-click on the desktop screen and click on "Graphics Properties".
+
+6 - Click on the "3D" option that appears.
+Click on the "3D" option that appears.
+
+7 - Do all of the following:
+Do all of the following:
+- Turn off MSAA.
+- Set CMAA to "Override".
+- Turn on Application Optimal Mode.
+- Set your general settings to "Performance", although be aware that this does chew up battery power.
+

@@ -1,0 +1,31 @@
+Reinstall Mac OS X (Leopard and Earlier)
+https://www.wikihow.com/Reinstall-Mac-OS-X-(Leopard-and-Earlier)
+
+0 - Installing OS X
+
+1 - Choose a language and start the installation.
+Choose a language and start the installation. Once your computer reboots, the installation process will start. You will be asked to choose your language, and then the Welcome screen will appear. Click the Continue button to start installing.
+
+2 - Choose your installation type.
+Choose your installation type. Click the Options... button on the "Select a Destination" screen. When reinstalling OS X, you will have two different installation options: "Archive and Install" and "Erase and Install". Choose the process that meets your needs and click the OK button.
+- "Archive and Install" will make a copy of your system files, and then installs a new copy. If you choose this, you can also choose to preserve your user and network settings. This is not recommended if you are experiencing issues with your current installation of OS X. Any programs you had will need to be reinstalled after choosing this method, or they may not work properly.
+- "Erase and Install" will delete everything on the disk and install a fresh copy of OS X. All data will be erased, so ensure that everything important is backed up. This is the recommended option as it will solve most issues you were experiencing, and gives the best performance.
+
+3 - Choose the destination.
+Choose the destination. If you have multiple hard drives or partitions installed in your computer, you can choose which one you want to install OS X on. The amount of space on the disk and the amount of space OS X requires will be displayed. Select the hard drive you want to install to and click Continue.[2]
+- X
+- Research source
+- 
+- 
+- Use the "Format disk as" drop-down menu to set the disk format to "Mac OS X Extended (Journaled)".
+- Make sure you don't install onto a Recovery or Storage drive.
+
+4 - Choose the software you want to install.
+Choose the software you want to install. The installer will display a list of all the extra software packages that will be installed with OS X. If you don't have a lot of hard disk space, you can deselect some of the less-important files by clicking the Customize... button.
+- Expand the "Print Drivers" section and deselect any of the print drivers you won't need.
+- Expand the "Language Translation" section and deselect any languages you won't be using.
+
+5 - Start the installation.
+Start the installation. Once you have chosen your extra software options, you can begin the installation of the operating system. Click the Install button to begin.
+- A progress bar will let you know how much time is left during the installation. The installation process is automatic once it begins. Your computer will reboot when the process is complete.
+

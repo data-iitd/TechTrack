@@ -1,0 +1,27 @@
+Compile a Program in Linux
+https://www.wikihow.com/Compile-a-Program-in-Linux
+
+0 - Steps
+
+1 - Download the source code for the program or driver from the Internet or other media.
+Download the source code for the program or driver from the Internet or other media. It will most likely be in the form of a "tarball" and have a file extension of .tar, .tar.bz2, or .tar.gz. Sometimes a .zip file will be used instead however.
+- ;
+
+2 - Unpack the downloaded code- for .zip files use "unzip your file", for .tgz or .tar.gz use "tar -zxvf yourfile"; for .bz2 use "tar -jxvf yourfile"; or extract your files graphically.
+Unpack the downloaded code- for .zip files use "unzip your file", for .tgz or .tar.gz use "tar -zxvf yourfile"; for .bz2 use "tar -jxvf yourfile"; or extract your files graphically.
+
+3 - In the terminal, move into the newly extracted directory.
+In the terminal, move into the newly extracted directory. You do this by typing cd followed by a space and then the name of the directory. (Remember that directory names in Linux are case sensitive).
+
+4 - Run the command ".
+Run the command "./configure" to configure the source code automatically. Arguments such as " --prefix=" can be used to control the install location. This checks that you have the right libraries and versions.
+
+5 - Once configured, run "make" which does the actual compiling (this can take anything from a few seconds to many hours).
+Once configured, run "make" which does the actual compiling (this can take anything from a few seconds to many hours). An executable for the program will be created in the bin directory inside the source code directory.
+
+6 - To install the program- run "make install".
+To install the program- run "make install".
+
+7 - You have compiled and installed the program source code.
+You have compiled and installed the program source code.
+

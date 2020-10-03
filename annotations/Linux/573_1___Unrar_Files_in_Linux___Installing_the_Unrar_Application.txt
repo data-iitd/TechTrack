@@ -1,0 +1,38 @@
+Unrar Files in Linux
+https://www.wikihow.com/Unrar-Files-in-Linux
+
+0 - Installing the Unrar Application
+
+1 - Make sure that your computer is connected to the Internet.
+Make sure that your computer is connected to the Internet.
+- ;
+
+2 - Open up the Linux shell if you are currently in the Linux GUI.
+Open up the Linux shell if you are currently in the Linux GUI.
+- The shell can be opened by using the following key combination: Control + ALT + F1.
+- You can also open a Terminal that acts as a shell from your System Tools folder.
+- All commands listed below can be entered at the command line in the Linux shell or Terminal.
+
+3 - Use the right command to download unrar into your Linux installation.
+Use the right command to download unrar into your Linux installation. The following commands require root privileges, so you should be logging in using su (or sudo). Type in your login and password to log as root.
+- Users of Debian Linux should type in the following command: “apt-get install unrar” or “apt-get install unrar-free”.
+- If you are using Fedora Core Linux, type in the following command: “yum install unrar”.
+- Arch Linux users should install from extra repository using "pacman -S unrar".
+- Users of OpenBSD type in this command: “pkg_add –v –r unrar”.
+- Suse10 users can enter “yast2 –i unrar”.
+- Suse11 users can enter “zipper install unrar”.
+
+4 - Download the binary package directly from rarlab if the above commands don’t work.
+Download the binary package directly from rarlab if the above commands don’t work.
+- Type “cd /tmp”.
+- Type “wget http://www.rarlab.com/rar/rarlinux-3.9.1.tar.gz ”.
+- Unrar the file with the following command: “tar -zxvf rarlinux-3.9.1.tar.gz”.
+
+5 - Locate the rar and unrar commands in the rar directory.
+Locate the rar and unrar commands in the rar directory.
+- Enter “cd rar”.
+- Type “./unrar”.
+
+6 - Copy the rar and unrar to the _usr_local_bin directory with the following command:
+Copy the rar and unrar to the /usr/local/bin directory with the following command: “cp rar unrar /usr/local/bin”. The unrar command is now available for use in your Linux installation.
+

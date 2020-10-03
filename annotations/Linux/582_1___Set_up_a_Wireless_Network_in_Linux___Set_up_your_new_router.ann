@@ -1,0 +1,24 @@
+T1	Hardware-Devices 142 148	router
+T2	Hardware-Other 159 174	internet socket
+T3	Software-OS-Related 201 209	internet
+T4	Hardware-Devices 313 319	router
+T5	Hardware-Other 330 332	PC
+T6	Hardware-Other 341 355	ethernet cable
+T8	Software-Other 369 376	browser
+A1	isOpened T8 f->t
+A2	isInstalled T8 start-T
+T9	Software-Other 402 420	http://192.168.0.1
+A3	isOpened T9 f->t
+T12	Software-Other 684 692	username
+T13	Software-Other 697 705	password
+T14	Hardware-Devices 716 722	router
+A4	isConnected T4 f->t
+T7	Software-Other 940 950	encryption
+T10	Software-Other 918 926	wireless
+T11	Software-Other 985 992	passkey
+A5	isSettingsChanged T10 true
+A6	isSettingsChanged T7 true
+A7	isSettingsChanged T11 true
+R1	SubPart Arg1:T10 Arg2:T9	
+R2	SubPart Arg1:T7 Arg2:T9	
+R3	SubPart Arg1:T11 Arg2:T9	

@@ -1,0 +1,13 @@
+T1	Hardware-Other 145 150	paper
+T2	Hardware-Other 152 158	labels
+T3	Hardware-Other 160 169	envelopes
+T4	Software-OS-Related 607 626	printer preferences
+A1	isOpened T4 f->t
+T5	Hardware-Other 685 694	Cardstock
+T6	Hardware-Other 700 711	Heavy Paper
+T7	Hardware-Other 1038 1047	cartridge
+T8	Hardware-Other 979 984	toner
+T9	Hardware-Other 1172 1177	toner
+T10	Hardware-Other 1232 1247	toner cartridge
+*	Equiv T10 T7
+T11	Hardware-Other 1453 1458	fuser

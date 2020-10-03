@@ -1,0 +1,23 @@
+T1	Hardware-Other 142 151	connector
+T2	Hardware-Other 219 230	Xbox dongle
+T3	Hardware-Devices 311 321	controller
+T4	Hardware-Other 494 503	connector
+T5	Hardware-Other 510 515	wires
+T6	Hardware-Other 636 639	USB
+T7	Hardware-Other 751 761	PC gamepad
+T8	Hardware-Other 855 861	tubing
+T9	Hardware-Other 964 970	solder
+T10	Hardware-Other 919 923	Slip
+T11	Hardware-Other 994 999	wires
+T12	Hardware-Other 1209 1224	electrical tape
+T13	Hardware-Other 1307 1312	wires
+T14	Hardware-Other 1351 1355	tape
+T15	Hardware-Other 1367 1372	wires
+*	Equiv T12 T14
+T16	Hardware-Other 1574 1576	PC
+T17	Software-Device-Drivers 1595 1615	xbcd driver software
+A1	isInstalled T17 f->t
+T19	Hardware-Devices 1737 1747	controller
+A2	isConnected T19 f->t
+T20	Hardware-Other 1872 1882	USB device
+A3	isPowered T3 start-F

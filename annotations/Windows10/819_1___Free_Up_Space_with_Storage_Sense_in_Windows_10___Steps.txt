@@ -1,0 +1,30 @@
+Free Up Space with Storage Sense in Windows 10
+https://www.wikihow.com/Free-Up-Space-with-Storage-Sense-in-Windows-10
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button and select the Settings  gear.
+- Alternatively, search your PC for storage and select the matching result.
+- The "storage sense" feature was introduced in the Windows 10 Creators Update (in April 2017)—also known as version 1703 or Redstone 2. See How to Check for Updates for Windows 10 to learn how.
+- ;
+
+2 - Click the System category.
+Click the System category.
+
+3 - Click the Storage subcategory.
+Click the Storage subcategory. It's in the left pane.
+
+4 - Scroll down to the "Storage sense" section and click the "Free up space now" link.
+Scroll down to the "Storage sense" section and click the "Free up space now" link.
+
+5 - Wait until storage sense finishes calculating.
+Wait until storage sense finishes calculating. Your PC will calculate the files that need to be deleted. It will take a couple of minutes, at the most.
+
+6 - Check the items that you want to delete.
+Check the items that you want to delete. There is a small snippet of text under each file type explaining what it is and what will happen if you delete them.
+- Not everything is selected by default. Ensure that you check off the items that you want to delete.
+
+7 - Click Remove files.
+Click Remove files. It's the button at the top of the list. Wait for storage sense to delete your files. Once completed, your PC will have more free space.
+

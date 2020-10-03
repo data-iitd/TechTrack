@@ -1,0 +1,5 @@
+T1	Hardware-Devices 118 126	Trackpad
+A1	isSetup T1 true
+A2	isPowered T1 start-T
+A3	isConnected T1 start-T
+T2	Hardware-Devices 366 374	trackpad

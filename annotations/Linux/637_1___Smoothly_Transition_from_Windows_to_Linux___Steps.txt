@@ -1,0 +1,33 @@
+Smoothly Transition from Windows to Linux
+https://www.wikihow.com/Smoothly-Transition-from-Windows-to-Linux
+
+0 - Steps
+
+1 - Move your files to another location so you can retrieve them when the installation is complete.
+Move your files to another location so you can retrieve them when the installation is complete. A cloud service would probably be the easiest.
+- ;
+
+2 - Install Linux.
+Install Linux. Linux can be installed by  creating the live medium. To do this, you will need to download the ISO file of the distribution you're interested in, or Kubuntu for the sake of this article. You can retrieve this file from the offical website.
+
+3 - Download a Windows logo icon and the default Windows wallpaper when you have finished installing Kubuntu.
+Download a Windows logo icon and the default Windows wallpaper when you have finished installing Kubuntu. These will be used in the customization process.
+
+4 - Begin the process of customizing the desktop to give it the Windows feel.
+Begin the process of customizing the desktop to give it the Windows feel. First, right-click your desktop and select "Desktop Settings".
+
+5 - Find the button in the Desktop Customization window that says "Open".
+Find the button in the Desktop Customization window that says "Open". Click it and find the Windows wallpaper you downloaded.
+
+6 - Click "OK" once you find the wallpaper.
+Click "OK" once you find the wallpaper. The Windows wallpaper should now appear in your wallpaper list. Select it and click "Apply".
+
+7 - Change the Application Launcher icon to a Windows icon.
+Change the Application Launcher icon to a Windows icon. Right-click on the Application Launcher, and click "Application Launcher Settings".
+
+8 - Click the icon button and find the Windows icon you downloaded.
+Click the icon button and find the Windows icon you downloaded. Select it, and click "OK". Click "Apply" in the Application Launcher Settings window.
+
+9 - Retrieve your files and enjoy a secure, free operating system.
+Retrieve your files and enjoy a secure, free operating system. Congratulations! Your desktop should now look like a Windows desktop.
+

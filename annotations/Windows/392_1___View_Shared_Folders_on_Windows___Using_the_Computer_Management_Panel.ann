@@ -1,0 +1,6 @@
+T1	Software-OS-Related 316 335	Computer Management
+A1	isOpened T1 f->t
+T2	Software-OS-Related 385 399	Shared Folders
+A2	isOpened T2 f->t
+T3	Software-OS-Related 539 545	Shares
+A3	isOpened T3 f->t

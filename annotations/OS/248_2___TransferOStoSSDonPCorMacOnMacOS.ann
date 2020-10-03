@@ -1,0 +1,52 @@
+T1	Hardware-Other 150 160	hard drive
+T2	Hardware-Other 169 172	Mac
+T3	Hardware-Other 629 642	SSD enclosure
+T4	Software-OS-Related 890 897	Back up
+T5	Software-OS-Related 903 917	old hard drive
+T6	Software-OS-Related 1390 1395	files
+T7	Software-OS-Related 1406 1420	old hard drive
+T8	Hardware-Other 1770 1773	SSD
+T9	Hardware-Other 1782 1785	Mac
+T10	Software-OS-Related 1925 1931	Finder
+A1	isOpened T10 f->t
+T11	Software-OS-Related 2074 2086	Disk Utility
+A2	isOpened T11 f->t
+T12	Software-OS-Related 2391 2394	SSD
+T13	Software-OS-Related 2554 2559	Erase
+T14	Software-OS-Related 2660 2670	hard drive
+T15	Software-OS-Related 2877 2881	Name
+T16	Software-OS-Related 2910 2937	Mac OS Extended (Journaled)
+A3	isSettingsChanged T16 true
+T17	Software-OS-Related 2900 2904	APFS
+A4	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T13	
+R2	SubPart Arg1:T16 Arg2:T13	
+T18	Software-OS-Related 3200 3205	Erase
+A5	isSettingsChanged T18 true
+R3	SubPart Arg1:T18 Arg2:T12	
+T19	Software-Other 3330 3370	https:__www.shirt-pocket.com_SuperDuper_
+T20	Software-Other 3376 3387	web browser
+T21	Software-Other 3559 3567	Download
+T22	Software-Other 3834 3849	SuperDuper!.dmg
+T23	Software-Other 3903 3908	Agree
+T24	Software-Other 3926 3941	SuperDuper!.app
+A7	isInstalled T24 f->t
+T25	Software-Other 4073 4084	Super Duper
+A6	isOpened T25 f->t
+T26	Software-Other 4301 4305	Copy
+T27	Software-Other 4269 4293	Mac's current hard drive
+T28	Software-Other 4470 4472	to
+T29	Software-Other 4457 4460	SSD
+A8	isSettingsChanged T29 true
+R4	SubPart Arg1:T29 Arg2:T28	
+A9	isSettingsChanged T27 true
+R5	SubPart Arg1:T27 Arg2:T26	
+T30	Software-Other 4577 4596	Back up - all files
+T31	Software-Other 4717 4725	Copy Now
+T32	Software-OS-Related 4883 4891	password
+T33	Software-Other 5027 5031	Copy
+A10	isSettingsChanged T33 true
+R6	SubPart Arg1:T33 Arg2:T25	
+T34	Software-Other 5197 5199	Ok
+T35	Software-OS-Related 5319 5322	SSD
+T36	Software-OS-Related 5331 5334	Mac

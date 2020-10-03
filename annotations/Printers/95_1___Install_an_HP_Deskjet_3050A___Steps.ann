@@ -1,0 +1,20 @@
+T1	Software-Other 2159 2163	Done
+A1	isSettingsChanged T1 true
+T2	Software-Other 1760 1764	file
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T1 Arg2:T2	
+T3	Hardware-Devices 2188 2212	HP Deskjet 3050A printer
+T4	Software-Other 136 285	http://support.hp.com/us-en/drivers/selfservice/HP-Deskjet-3050A-e-All-in-One-Printer-series---J6/4311836/model/5061081#Z7_3054ICK0KGTE30AQO5O3KA30R1
+A3	isOpened T4 f->t
+T5	Hardware-Devices 329 345	HP Deskjet 3050A
+T6	Hardware-Other 653 661	computer
+T7	Software-Other 957 965	Download
+A4	isOpened T7 f->t
+T8	Software-Other 823 827	Edit
+A5	isOpened T8 f->t
+T9	Software-Other 1152 1161	Save File
+A6	isSettingsChanged T9 true
+R2	SubPart Arg1:T9 Arg2:T4	
+T10	Software-OS-Related 1275 1282	Windows
+T11	Software-OS-Related 1286 1289	Mac
+T12	Hardware-Other 1290 1298	computer

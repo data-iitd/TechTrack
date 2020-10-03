@@ -1,0 +1,28 @@
+T1	Software-Other 137 164	samba file system utilities
+A1	isInstalled T1 f->t
+T3	Software-OS-Related 487 509	sudo mkdir /mnt/backup
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 400 409	directory
+R1	SubPart Arg1:T3 Arg2:T4	
+T5	Software-OS-Related 639 657	sudo vi /etc/fstab
+T2	Software-OS-Related 207 233	sudo apt-get install smbfs
+T6	Software-OS-Related 424 435	mount point
+T7	Software-OS-Related 563 574	mount point
+T8	Software-OS-Related 526 543	file system table
+T9	Software-OS-Related 712 716	file
+T10	Software-OS-Related 869 1002	//YOUR_SERVER/YOUR_SHARE     /mnt/backup     cifs    domain=YOUR_DOMAIN,username=YOUR_USERNAME,password=YOUR_PASSWORD       0       0
+T11	Software-OS-Related 1010 1014	Save
+T12	Software-OS-Related 1063 1072	edit mode
+A3	isOpened T12 t->f
+T13	Software-OS-Related 1147 1149	wq
+A4	isSettingsChanged T13 true
+T14	Software-OS-Related 1019 1023	exit
+T15	Software-OS-Related 1153 1158	write
+T16	Software-OS-Related 1163 1167	quit
+*	Equiv T16 T14
+*	Equiv T15 T11
+T17	Software-OS-Related 1215 1225	fstab file
+T18	Software-OS-Related 1229 1234	mount
+T19	Software-OS-Related 1292 1305	sudo mount -a
+T20	Software-OS-Related 1323 1328	mount
+T21	Software-OS-Related 1455 1469	ls /mnt/backup

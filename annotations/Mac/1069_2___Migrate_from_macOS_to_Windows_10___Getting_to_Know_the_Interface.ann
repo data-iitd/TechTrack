@@ -1,0 +1,34 @@
+T1	Software-OS-Related 851 862	Preferences
+T2	Software-OS-Related 880 893	Control Panel
+T3	Software-Other 902 908	Camera
+T4	Software-Other 920 931	Photo Booth
+A1	isInstalled T3 start-T
+A2	isInstalled T4 start-T
+T5	Software-Other 953 959	iTunes
+T6	Software-Other 965 977	Groove Music
+A3	isInstalled T5 start-T
+A4	isInstalled T6 start-T
+T7	Software-Other 1041 1055	Microsoft Edge
+T8	Software-Other 1067 1073	Safari
+A5	isInstalled T7 start-T
+A6	isInstalled T8 start-T
+T9	Software-Other 1098 1105	Notepad
+A7	isInstalled T9 start-T
+T10	Software-Other 1117 1125	TextEdit
+A8	isInstalled T10 start-T
+T11	Software-Other 1153 1159	Photos
+A9	isInstalled T11 start-T
+T12	Software-Other 1171 1177	iPhoto
+A10	isInstalled T12 start-T
+T13	Software-Other 1182 1188	iMovie
+A11	isInstalled T13 start-T
+T14	Software-OS-Related 1256 1263	taskbar
+T15	Software-OS-Related 1321 1325	dock
+T16	Software-OS-Related 1475 1480	Start
+T17	Software-OS-Related 1523 1532	Launchpad
+T18	Software-OS-Related 1541 1551	Apple menu
+T19	Software-OS-Related 1720 1727	Cortana
+T20	Software-OS-Related 1774 1778	Siri
+T21	Software-OS-Related 1783 1799	Spotlight Search
+T22	Software-OS-Related 2672 2684	Action Cente
+T23	Software-OS-Related 2836 2850	Control Center

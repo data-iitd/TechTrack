@@ -1,0 +1,23 @@
+Use Cortana
+https://www.wikihow.com/Use-Cortana
+
+0 - Viewing Cortana Information and Tasks
+
+1 - Open the Cortana window.
+Open the Cortana window. Click the Cortana icon or search box in your taskbar to open Cortana's window.
+
+2 - Click ☰.
+Click ☰. It's in the top-left corner of the window. A pop-out menu will appear on the left side of the window.
+
+3 - Click Notebook.
+Click Notebook. This option is in the upper-left side of the window. Doing so opens a list of categories.
+
+4 - Select a category.
+Select a category. There are usually over 20 categories of option here, so click the one that you want to view.
+- For example, to look at any reminders that you've scheduled, you would click Reminders.
+
+5 - Review your selected category.
+Review your selected category. If you have any tasks or settings in your selected category, you'll see them here.
+- Some categories contain options or allow you to add things like services (e.g., Spotify) or enable and disable features.
+- Click the "Back" button in the upper-left corner of the window to go back to the list of categories.
+

@@ -1,0 +1,13 @@
+T1	Software-OS-Related 207 224	public IP address
+T2	Software-Other 233 241	websites
+T3	Hardware-Other 290 298	computer
+T4	Software-OS-Related 455 463	Terminal
+A1	isOpened T4 f->t
+T5	Software-OS-Related 596 613	public IP command
+T6	Software-OS-Related 650 666	curl ifconfig.me
+T7	Software-OS-Related 721 738	public IP address
+T8	Software-Other 746 753	website
+T9	Software-OS-Related 698 705	command
+T10	Software-OS-Related 838 845	command
+T11	Software-OS-Related 868 885	public IP address
+A2	isOpened T11 f->t

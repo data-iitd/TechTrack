@@ -1,0 +1,23 @@
+Change Mac OS X Icons
+https://www.wikihow.com/Change-Mac-OS-X-Icons
+
+0 - Using the System Icons Folder
+
+1 - Know the risks.
+Know the risks. This method shows you how to access the folder where all system icons are stored. This lets you change the icons for special items such as Finder and Trash, or to change default icons for an entire file type. Overwriting important icons or making a mistake here can make your computer very confusing to use.
+
+2 - Log in to an administrator account.
+Log in to an administrator account. Only an administrator account can access this folder.
+
+3 - Open the Go to Folder window.
+Open the Go to Folder window. Click the Finder icon in your Dock, then use the ⌘ Command + ⇧ Shift + G command (or Go → Go to Folder in the top menu.
+
+4 - Enter the address of your system icons folder.
+Enter the address of your system icons folder. Copy-paste the following text into the window that appeared:
+- /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/
+
+5 - Explore the icons.
+Explore the icons. Replacing an icon with a new .icns file with the same name will change almost every instance of that icon on your computer. Making changes is not recommended unless you make copies of the file first. Save the copies in an easy-to-find folders. To undo your changes, return the copy to this system icons folder with the exact name it had before.
+- Alternatively, you can back up your computer and restore it if you make a mistake.
+- If you want to create your own file icons, create a transparent png image. The image should be square, and ideally 1024 x 1024 pixels. Once you have the image, you can use online programs to convert it to .icns format.
+

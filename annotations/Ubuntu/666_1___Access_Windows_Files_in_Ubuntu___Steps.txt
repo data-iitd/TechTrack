@@ -1,0 +1,27 @@
+Access Windows Files in Ubuntu
+https://www.wikihow.com/Access-Windows-Files-in-Ubuntu
+
+0 - Steps
+
+1 - Install gparted (System → Administration → Synaptics Package Manager → search for gparted, mark it for installation and, when it installs, run it from System → Partition Editor).
+Install gparted (System → Administration → Synaptics Package Manager → search for gparted, mark it for installation and, when it installs, run it from System → Partition Editor). Look for an NTFS partition – it is likely to be the one windows is on.
+- ;
+
+2 - Having located the partition, write down the name – it will look something like _dev_hda2 or _dev_sda2, depending if your drives are PATA, SCSI or SATA.
+Having located the partition, write down the name – it will look something like /dev/hda2 or /dev/sda2, depending if your drives are PATA, SCSI or SATA.  Do this carefully – Now check to see if this is the partition by manually mounting it and looking at the files.
+
+3 - Open a terminal (Application → Accessories → Terminal) and make yourself root by typing sudo -s and pressing enter.
+Open a terminal (Application → Accessories → Terminal) and make yourself root by typing sudo -s and pressing enter.  You will be prompted for the root password and will then become root. Being root assumes that you know what you are doing – you could easily cause disaster if you make a mistake, so concentrate. Carefully type this line at the prompt and press enter
+
+4 - Type the prompt.
+Type the prompt. mkdir /mnt/windows
+
+5 - Replace the name.
+Replace the name. You may replace /mnt/windows with /mnt/windrv or any other name you prefer.  Having created the directory that is going to hold your windows files, type the following command carefully at the prompt and press enter
+
+6 - Type the command.
+Type the command. mount -t ntfs /dev/sda2 /mnt/windows -o "umask=022"
+
+7 - Make sure you replace _dev_sda2 with the name of the windows partition you wrote down.
+Make sure you replace /dev/sda2 with the name of the windows partition you wrote down.  Now access the mounted drive and ensure that you can read the files by going to Places → Computer and navigating to /mnt/windows.  If you can see your files, you are all set.  If not, you've mounted the wrong drive, unmount it using umount /dev/sda2, making sure that you use the correct name for your drive.
+

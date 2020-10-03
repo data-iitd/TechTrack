@@ -1,0 +1,4 @@
+T1	Software-OS-Related 175 185	Start menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 225 228	cmd
+A2	isOpened T2 f->t

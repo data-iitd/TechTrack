@@ -1,0 +1,49 @@
+Boot from a Drive
+https://www.wikihow.com/Boot-from-a-Drive
+
+0 - Steps
+
+1 - Obtain Boot Up Software
+Obtain Boot Up Software;
+
+2 - In order to boot from a drive, you must have a physical device (CD_DVD, flash drive, etc.
+In order to boot from a drive, you must have a physical device (CD/DVD, flash drive, etc.) that contains the necessary files for a boot.
+- If you have your original Windows or Mac operating system CD, this will work. You will be able to use that disk to boot up after reading this article.
+- It is also possible to make a bootable USB drive. This is a separate process that requires downloaded software.
+- Once you have your boot device ready, you can begin the process.
+
+3 - Access Your Computer's Setup Framework (BIOS)
+Access Your Computer's Setup Framework (BIOS)
+
+4 - Every computer's motherboard (brain) has a control menu of sorts called a BIOS.
+Every computer's motherboard (brain) has a control menu of sorts called a BIOS. This menu is where you can change basic computer settings - including how the computer boots up.
+- When you first turn on your computer, the screen usually displays what key you can use to access the BIOS, usually Del or F2.
+- Once you know the key to press, restart your computer and repeatedly press that key as your computer comes to life.  The BIOS menu should appear. It will look much different than your desktop - usually a fairly simple full-screen options menu.
+- If you see the Windows Logo appear, you are too late; restart the computer and try again.
+
+5 - Change Boot Order in BIOS
+Change Boot Order in BIOS
+
+6 - Changing the boot order is pretty simple.
+Changing the boot order is pretty simple. You will essentially be telling your computer to read a CD or flash drive upon starting up, rather than accessing data in its hard drive. BIOS menus differ slightly from one to the other, but it is usually easy to find the boot-up options.
+- Navigate the menu using the arrow keys on the keyboard - your mouse will not usually work on this screen. If you are using a USB keyboard and can't navigate the menu, you will have to use a standard PS/2 keyboard.
+- In one of the tabs, there should be an option to specify your boot device.  Look for a setting that says Boot Order, First Boot Device, Boot Management, or something similar and select it.
+- The screen will show a list of devices that your computer can boot from. Change this setting so that the device of your choosing is at the top of the list.
+- Make sure you have the right drive prioritized. Some computers have multiple CD/DVD drives (usually named D: or E: or F:). The one you pick must be the drive you are using for your CD.
+
+7 - Insert Physical Boot Device
+Insert Physical Boot Device
+
+8 - Once you have changed the boot order, you must make sure whatever device you are going to boot from is inserted_connected.
+Once you have changed the boot order, you must make sure whatever device you are going to boot from is inserted/connected.
+- If using a CD/DVD, insert into the drive selected.
+- If using a USB drive, make sure it is plugged in to your computer.
+
+9 - Restart Your Computer
+Restart Your Computer
+
+10 - If you have successfully changed the boot order to the correct device, restarting your computer should cause it to boot from that device.
+If you have successfully changed the boot order to the correct device, restarting your computer should cause it to boot from that device.
+- If successful, you will be able to see the boot menu of respective operating system. Just follow the steps shown on the screen to boot your system.
+- If this isn't working, try entering the BIOS again and making sure the drive you are using is at the top of the priority list.
+

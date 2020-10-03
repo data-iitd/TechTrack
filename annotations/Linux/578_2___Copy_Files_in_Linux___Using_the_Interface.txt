@@ -1,0 +1,35 @@
+Copy Files in Linux
+https://www.wikihow.com/Copy-Files-in-Linux
+
+0 - Using the Interface
+
+1 - Consider using keyboard shortcuts.
+Consider using keyboard shortcuts. As with virtually all operating systems that have user interfaces, you can use keyboard shortcuts to copy and paste files on Linux:
+- Click the file you want to copy to select it, or drag your mouse across multiple files to select them all.
+- Press Ctrl+C to copy the files.
+- Go to the folder into which you want to copy the files.
+- Press Ctrl+V to paste in the files.
+
+2 - Find the file you want to copy.
+Find the file you want to copy. Go to the location in which the file is located.
+
+3 - Select the file.
+Select the file. Click once the file to do so.
+
+4 - Right-click the file.
+Right-click the file. Doing so will prompt a drop-down menu.
+- Some Linux versions will also display a menu bar at the top of the screen. If so, you can click Edit instead of right-clicking the selected file.
+
+5 - Click Copy.
+Click Copy. It's in the drop-down menu. This copies the selected file.
+- You may click Copy... or Copy File on some versions of Linux.
+
+6 - Go to the destination folder.
+Go to the destination folder. Find the folder into which you want to paste the file.
+
+7 - Right-click an empty space.
+Right-click an empty space. This will create a drop-down menu in the folder.
+
+8 - Click Paste.
+Click Paste. It's in the drop-down menu. Doing so pastes in your copied file.
+

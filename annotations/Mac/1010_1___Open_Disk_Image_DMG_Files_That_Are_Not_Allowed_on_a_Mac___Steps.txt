@@ -1,0 +1,27 @@
+Open Disk Image (DMG) Files That Are Not Allowed on a Mac
+https://www.wikihow.com/Open-Disk-Image-(DMG)-Files-That-Are-Not-Allowed-on-a-Mac
+
+0 - Steps
+
+1 - Download the file.
+Download the file.
+- ;
+
+2 - After it's finish, go to Disk Utility.
+After it's finish, go to Disk Utility.
+
+3 - Open the .dmg file with the Disk Utility still open.
+Open the .dmg file with the Disk Utility still open. You will see the .dmg file on the left of the Disk Utility screen.
+
+4 - Click the .dmg file (Not the USB as some files have).
+Click the .dmg file (Not the USB as some files have). Click "convert" on the upper part of Disk Utility. In newer versions of IOS it will be located in the "Images" menu, located at the top left bar on your desktop.
+
+5 - Rename it to something else to tell the difference between the old and new .dmg file.
+Rename it to something else to tell the difference between the old and new .dmg file. Example: helloworld becomes workinghelloworld.
+
+6 - Wait for the transfer.
+Wait for the transfer.
+
+7 - Open the file.
+Open the file. After it's finished, you should be able to open the contents in the .dmg file.
+

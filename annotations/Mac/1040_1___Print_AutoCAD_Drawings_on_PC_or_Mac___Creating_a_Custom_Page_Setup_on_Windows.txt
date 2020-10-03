@@ -1,0 +1,68 @@
+Print AutoCAD Drawings on PC or Mac
+https://www.wikihow.com/Print-AutoCAD-Drawings-on-PC-or-Mac
+
+0 - Creating a Custom Page Setup on Windows
+
+1 - Open an AutoCAD drawing.
+Open an AutoCAD drawing.  You must have AutoCAD installed on your computer in order to open an AutoCAD file.  You can open an AutoCAD file by double-clicking a .dwg or .dxf file, or use the following steps to open an AutoCAD file within AutoCAD.
+- Open AutoCAD.
+- Click File.
+- Click Open.
+- Browse and click a .dwg or .dxf file.
+- Click Open.
+- ;
+
+2 - Click Output.
+Click Output.  It's one of the tabs in the tab bar at the top of the screen.  This displays print options below the tab bar at the top of the screen.
+
+3 - Click Page Setup Manager.
+Click Page Setup Manager.  It's in the Output options at the top of the screen when you click the "Output" tab.
+
+4 - Click New.
+Click New.  It's to the right of the box that lists page setups.  There is always a default "Model" page setup in the window.  Click New to create a new page setup.
+
+5 - Type a name for the page setup and click Ok.
+Type a name for the page setup and click Ok.  Use the box labeled "New page setup name:" to type a name for your page setup.  You can name it after the project you are working on, or your own name, or anything you want.  Click Ok at the bottom of the dialogue box when you are finished.
+
+6 - Select a plotter.
+Select a plotter.  To select a plotter, click the drop-down menu next to "Name:" below "Printer/plotter".  This displays all the plotters and virtual plotters installed on your computer.  If you have a plotter installed on your computer that you wish to use, select it from the drop-down menu.  If you're not sure which plotter to select, click DWF to PDF.pc3.  This will output your AutoCAD drawing to PDF format.
+
+7 - Select paper size.
+Select paper size.  Use the drop-down menu below "Paper size" to select the page size you will be printing on.  Standard paper size is 8.5 x 11 inches (215.9 x 279.4 mm).  If you are using a different or custom page size, select it form the drop-down menu.
+
+8 - Select the area to plot.
+Select the area to plot.  To select what to plot, click the drop-down menu below "What to plot" in the "Plot Area" box.  There are four area types you can plot.
+- 
+- Display plots what is in the drawing area on your screen.
+- Extents plots everything in the drawing.  This includes unused space in the drawing area.
+- Limits plots what is within the limits of the drawing, if you set limits.
+- Window displays another button that says "Window" next to the drop-down menu.  Click this button and then drag a square over the drawing to select a specific area of the drawing you want to plot.
+
+9 - Click the checkbox  next to "Center the plot" (optional).
+Click the checkbox  next to "Center the plot" (optional).  To ensure the plot is centered on the page, click the checkbox next to "Center the plot" in the "Plot Offset" area.
+
+10 - Set a plot scale.
+Set a plot scale.  If you have units assigned to your drawing, you can select how many units per millimeter or inches on your page will be printed on the page.  If you don't know what to set, click the checkbox next to "Fit to paper" to ensure the entire plot area displays on the page.
+- Making the plot scale too big may result in the drawing not fitting on a single page.  Click Preview at the bottom of the Page Setup Manager to see a preview of the printed drawing at any time.
+
+11 - Select a plot style.
+Select a plot style.  Use the drop-down menu below "Plot style table" to select a plot style.  Selecting "" will print the drawing in full color, just as it appears on screen. To save ink, you can select one of the screening options.  This will use less ink, but result in a fainter drawing.  You can also select "Greyscale" to print a black and white drawing.
+
+12 - Select a shading style.
+Select a shading style.  If you are working with a 3D drawing, use the drop-down menu next to "Shade plot" to select how the 3D elements are shaded in the printed drawing.  You can select wireframe, realistic, shaded, shades of grey, x-ray, ect.
+
+13 - Select plot options.
+Select plot options.  Click the checkboxes in "Plot Options" to pick the plot options.  You can select whether or not you want to plot lineweights, transparencies, and plot styles.
+
+14 - Select paper orientation.
+Select paper orientation.  In the box labeled "Drawing Orientation", select whether you want to print the drawing horizontally (Landscape), or vertically (portrait).
+- You can also select "Plot upside down" to reverse the direction of the drawing on the printed page.
+
+15 - Click Ok.
+Click Ok.  This saves your page setup and adds it to the Page Setup Manager.
+
+16 - ClickClose.
+ClickClose.  This closes the Page Setup Manger.[1]
+- X
+- Research source
+

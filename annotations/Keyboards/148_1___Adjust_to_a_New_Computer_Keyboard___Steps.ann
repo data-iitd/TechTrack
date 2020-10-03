@@ -1,0 +1,25 @@
+T1	Hardware-Devices 126 134	keyboard
+T2	Hardware-Devices 703 712	keyboards
+T3	Hardware-Devices 1276 1285	keyboards
+T4	Software-OS-Related 1399 1406	Notepad
+A1	isOpened T4 f->t
+T5	Hardware-Devices 1582 1590	keyboard
+T6	Hardware-Other 1839 1843	book
+T7	Hardware-Other 1847 1855	textbook
+T8	Hardware-Other 2096 2103	buttons
+T9	Hardware-Other 2161 2164	Alt
+T10	Hardware-Other 2166 2170	Ctrl
+T11	Hardware-Other 2172 2177	Shift
+T12	Hardware-Other 2183 2188	Enter
+T13	Hardware-Other 2189 2193	keys
+T14	Hardware-Devices 2202 2210	keyboard
+T15	Hardware-Devices 2483 2491	keyboard
+T16	Software-Other 2830 2832	IM
+T17	Software-Other 2893 2896	AIM
+T18	Software-Other 2898 2903	Yahoo
+T19	Software-Other 2905 2910	GMAIL
+T20	Software-Other 2911 2914	AOL
+T21	Hardware-Devices 3096 3104	keyboard
+T22	Hardware-Devices 3284 3292	keyboard
+T23	Hardware-Other 3330 3336	laptop
+A2	isPowered T5 start-T

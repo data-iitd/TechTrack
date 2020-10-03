@@ -1,0 +1,13 @@
+T1	Hardware-Other 124 135	floppy disk
+T3	Hardware-Devices 199 207	computer
+A1	isUsed T3 true
+T4	Software-OS-Related 325 357	Configure unallocated disk space
+A2	isOpened T4 f->t
+T5	Software-Device-Drivers 898 912	install MS-DOS
+A3	isInstalled T5 f->t
+T2	Software-Device-Drivers 108 114	MS DOS
+A4	isInstalled T2 f->t
+T6	Hardware-Other 1046 1066	Setup #1 floppy disk
+T7	Hardware-Other 1082 1102	Setup #2 floppy disk
+T8	Hardware-Other 1288 1308	Setup #3 floppy disk
+T9	Hardware-Other 1459 1471	floppy disks

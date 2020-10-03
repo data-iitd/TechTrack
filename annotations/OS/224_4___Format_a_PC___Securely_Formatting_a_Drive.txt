@@ -1,0 +1,30 @@
+Format a PC
+https://www.wikihow.com/Format-a-PC
+
+0 - Securely Formatting a Drive
+
+1 - Download DBAN.
+Download DBAN. DBAN is a free hard drive formatting tool that can securely overwrite your data so that it cannot be recovered. You'll want to perform this if you are donating, selling, or recycling your computer or drive to prevent identity theft.
+- You can download DBAN from dban.org. The free version will be suitable for most users.
+- You cannot use DBAN to securely wipe solid state drives (SSDs). You'll need to use a paid program like Blancco instead.
+
+2 - Burn DBAN to a blank DVD or CD.
+Burn DBAN to a blank DVD or CD. DBAN is small, and will fit on a blank CD or DVD. If you are using Windows 7 or later, you can right-click on the downloaded ISO file and select "Burn to Disc" to burn it to a blank disc in your drive.
+
+3 - Set your computer to boot from the DBAN disc.
+Set your computer to boot from the DBAN disc. You'll need to set your computer to boot from your optical drive in order to launch DBAN.
+- Windows 7 (and older) - Reboot your computer and press the BIOS, SETUP, or BOOT key that is displayed at the manufacturer logo screen. The key is usually F2, F11, F12, or Del. Open the BOOT menu and set your optical drive as the primary boot device
+- Windows 8 (and newer) - Click the Power button in the Start screen or menu. Hold ⇧ Shift and click Restart to reboot into the "Advanced startup" menu. Select the "Troubleshoot" option and then "Advanced options". Click "UEFI Firmware Settings" and then navigate to the BOOT menu. Set your optical drive as the primary boot device.
+
+4 - Start DBAN.
+Start DBAN. After setting the boot order, reboot the computer to launch DBAN. Press ↵ Enter on the main DBAN screen to start the program.
+
+5 - Select the drive you want to wipe.
+Select the drive you want to wipe. Use the arrow keys to highlight select the hard drive that you want to erase, and then press Space to select it. Be careful selecting drives if you have data you want to keep, as there is no going back once you've started. You can easily erase your Windows installation if you aren't careful.
+
+6 - Press .
+Press .F10 to start the wipe. This will use DBAN's default settings which will securely wipe your data. It will be next to impossible to retrieve data after performing this wipe. The default DBAN wipe will likely take several hours to complete.
+- If you want to be extra sure that everything is absolutely erased, press M on your selected drive and select "DoD 5220.22-M" or "Gutmann Wipe". These will take a lot longer to complete, but the wipe will be even more secure.[2]
+- X
+- Research source
+

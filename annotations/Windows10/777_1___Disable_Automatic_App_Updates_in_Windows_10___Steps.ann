@@ -1,0 +1,16 @@
+T1	Software-OS-Related 145 158	Windows Store
+A1	isOpened T1 f->t
+T2	Software-OS-Related 291 301	Start menu
+A2	isOpened T2 f->t
+T4	Software-OS-Related 529 537	Settings
+T6	Software-OS-Related 671 682	blue switch
+T5	Software-OS-Related 1108 1114	window
+T3	Software-OS-Related 319 334	Microsoft store
+A3	isOpened T3 f->t
+T7	Software-OS-Related 436 448	account menu
+A4	isOpened T7 f->t
+R1	SubPart Arg1:T4 Arg2:T3	
+R2	SubPart Arg1:T6 Arg2:T3	
+R3	SubPart Arg1:T7 Arg2:T3	
+A5	isOpened T5 t->f
+*	Equiv T5 T3

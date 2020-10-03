@@ -1,0 +1,18 @@
+T3	Hardware-Other 156 164	speakers
+T4	Hardware-Other 292 299	laptops
+T5	Hardware-Other 479 490	color-coded
+T6	Hardware-Other 685 688	USB
+T7	Hardware-Other 714 718	Plug
+T8	Hardware-Devices 723 733	headphones
+A2	isConnected T8 f->t
+T10	Hardware-Other 1034 1041	adapter
+T11	Hardware-Other 1045 1055	sound card
+T12	Hardware-Other 1063 1072	amplifier
+T14	Hardware-Devices 1188 1198	headphones
+T16	Hardware-Other 1475 1485	sound card
+T20	Hardware-Other 1820 1826	cables
+T18	Hardware-Other 1632 1646	headphone jack
+T13	Hardware-Other 1113 1128	microphone jack
+T9	Hardware-Other 750 764	headphone jack
+T1	Hardware-Other 121 135	headphone jack
+T2	Hardware-Other 144 152	computer

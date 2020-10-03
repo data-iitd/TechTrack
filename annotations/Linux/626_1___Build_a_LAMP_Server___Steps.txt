@@ -1,0 +1,61 @@
+Build a LAMP Server
+https://www.wikihow.com/Build-a-LAMP-Server
+
+0 - Steps
+
+1 - Get the hardware requirements for your Server.
+Get the hardware requirements for your Server. More sophisticated sites need more power.
+- ;
+
+2 - Get the necessary upload speed from your service provider.
+Get the necessary upload speed from your service provider. A default home internet upload speed is only around 1mb per minute. This may be too slow for graphics, videos, etc.
+
+3 - Install a version of Linux.
+Install a version of Linux. Before you can build a LAMP server, you must have the Linux operating system. Visit distrowatch.com and select one you like.  They are mostly the same, but be sure to pick one with an interface (KDE, Cinnamon, etc.) pre-installed if you are not a usual terminal user.  Further, if the Linux version does not include a Windows installer, you will need to create a Live CD or USB flash drive (instructions in other wiki how articles). The following instructions work with Ubuntu Linux.
+
+4 - Install Apache on the server.
+Install Apache on the server. Apache is a free and open-source web server that is well-known for running on Unix operating systems. There are two ways of installing Apache. You can use your console or a terminal window session.
+- At the command prompt, type: sudo apt-get install apache2
+- In order to keep installing Apache, you will have to have your sudo password.
+
+5 - Verify that Apache is operating.
+Verify that Apache is operating. You’ll have to point your browser to the server’s IP address. This will let you know if Apache is running or not.
+
+6 - Install PHP on the server.
+Install PHP on the server. PHP is a scripting language that was originally used for creating dynamic web pages. However, developers use it to create individual graphical applications while network and system administrators use PHP for command line interface abilities.
+- At the command prompt, type: sudo apt-get install php5 libapache2-mod-php5
+
+7 - Make sure PHP is completely installed.
+Make sure PHP is completely installed.
+- Restart Apache by typing at the command prompt:sudo /etc/init.d/apache2 restart
+
+8 - Confirm PHP is working correctly.
+Confirm PHP is working correctly.
+- Use the Apache document root to create a test file. The root will be /var/www. Your test file name’s extension must end with a .php.
+- For the content, type: < ?php phpinfo(); ?>
+
+9 - Save the test file.
+Save the test file.
+- Then point your browser to the following address: http://IP_ADDRESS/test.php
+- Make sure you type your server’s IP address before /test.php.
+
+10 - Verify your test file.
+Verify your test file. The browser should display, “Test PHP Page” on the screen.
+
+11 - Install MySQL on the server.
+Install MySQL on the server. MySQL stands for “My Structured Query Language.” MySQL is a relational database program. This application operates as a server, in which multiple users can access many databases. There are many software applications that use MySQL, such as WordPress. Even Google and Facebook use MySQL.
+- At the command prompt, type: sudo apt-get install mysql-server
+
+12 - Create a password for MySQL.
+Create a password for MySQL.
+- In the command line, type: mysql -u root
+- You should then see a command prompt that will look like mysql>
+- At the command prompt, type: SET PASSWORD FOR 'root'@'localhost' = PASSWORD('YOURPASSWORD');
+- Enter your password where it shows YOURPASSWORD. This will be the one that you will use as a MySQL user.
+
+13 - Start your MySQL server.
+Start your MySQL server. Type the following command: /etc/init.d/mysql start
+
+14 - Start working with your LAMP server.
+Start working with your LAMP server.
+

@@ -1,0 +1,56 @@
+Make a Ringtone on a Mac Using Garageband
+https://www.wikihow.com/Make-a-Ringtone-on-a-Mac-Using-Garageband
+
+0 - Steps
+
+1 - Pick a song that you want to make into a ringtone.
+Pick a song that you want to make into a ringtone. Choose a song that you think describes you, that you like, and that would be deemed appropriate if someone heard your phone go off.
+- ;
+
+2 - Click and drag the song into GarageBand.
+Click and drag the song into GarageBand. Find where your song is located and click and drag. If the song is on a CD, open the CD in a Finder window, and then click and drag the song into GarageBand. If it is in iTunes, click and drag from iTunes. Let go of the song when you see a little green plus sign bubble in the GarageBand window.
+
+3 - Position the song.
+Position the song. If the song is not moved all the way to the left, drag it so that the beginning is as far left as possible.
+
+4 - Remove additional, unneeded tracks.
+Remove additional, unneeded tracks. If you opened GarageBand and made a new song, there might be a "grand piano track" or other instrument track in your song. Select the unneeded track and press "delete".
+
+5 - Edit out the unneeded parts of the song.
+Edit out the unneeded parts of the song. Select a small portion of the song you want to be your ringtone. The file has to be relatively small in order for it to be sent over to your phone, so choose anywhere from 10 seconds to 20 seconds worth of the song. To delete unneeded portions:
+- Click the "eye tool" on the bottom left
+- 
+- 
+- Highlight the part of the song you do not want
+- WH.shared.addScrollLoadItem('08cbec0dce80308cc72448af52369bff')
+- 
+- 
+- Delete the remaining unwanted parts by pressing "delete"
+- WH.shared.addScrollLoadItem('bfcf04214a5e23fe7a8d24cd0240bb5c')
+
+6 - Position your song one more time.
+Position your song one more time. If your song is not all the way to the left after editing out the unwanted parts, slide it to the left again.
+
+7 - Move the purple "end of song" arrow to the end of your song.
+Move the purple "end of song" arrow to the end of your song. If this is not moved, it could make the ringtone unnecessarily long and thus make it a bigger file. Depending upon the length of the original song that was dragged into GarageBand, it could take awhile for the play head to scroll right until the purple arrow can be seen. Once it is found, drag it until it lines up with the end of the song.
+
+8 - Import your song to iTunes.
+Import your song to iTunes. Select "Share" in the top menu bar, and then "Send Song To iTunes". Fill in the necessary information in the drop-down box. You may need to consider the file format, as well, if you are making a ringtone for a phone other than an iPhone. iPhones use MPEG-4, renamed to .m4r and other phones, such as the new Windows phones, like .mp3 or .wma. So, there may be more converting to be done.
+
+9 - Email the Song to your phone.
+Email the Song to your phone. Open up your email account and then compose a new email. Select whatever you want for the "Subject:" and "Message:" fields. In the  "To:" field, type in your ten digit phone number. Depending on what service you have select the proper ending for the email address:
+- AT & T: @mms.att.net
+- 
+- 
+- Sprint: @messaging.sprintpcs.com
+- T-Mobile: @tmomail.net
+- Verizon: @vzwpix.com or @vtext.com
+- If your carrier is not listed, send a picture or text message to your email address. This will give you an address so you can reply to your phone.
+- Your phone's email address should then look something like 1234567890@phonecompany.net
+
+10 - Your phone should then receive you message.
+Your phone should then receive you message. If it doesn't within a few minutes, check that you correctly typed in your phone number. Once the message is received, save it as a ringtone. Then, set your ringtone and you're ready to go!
+
+11 - As an alternative to emailing the ringtone to yourself, you could simply connect your phone to your computer using a cable and sync it appropriately.
+As an alternative to emailing the ringtone to yourself, you could simply connect your phone to your computer using a cable and sync it appropriately. Follow another article to help you drag-and-drop the ringtone into the appropriate "Ringtones" folder.
+

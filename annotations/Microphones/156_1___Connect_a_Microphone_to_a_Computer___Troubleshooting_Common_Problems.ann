@@ -1,0 +1,76 @@
+T1	Software-OS-Related 152 172	sound input settings
+T4	Hardware-Other 378 381	mac
+T6	Software-OS-Related 475 490	System Settings
+A3	isOpened T6 f->t
+T7	Software-OS-Related 505 510	Sound
+A4	isOpened T7 f->t
+T8	Software-OS-Related 526 531	Input
+A5	isOpened T8 f->t
+T9	Software-OS-Related 553 563	microphone
+T10	Hardware-Other 621 623	PC
+T11	Software-OS-Related 637 650	Control Panel
+A6	isOpened T11 f->t
+T12	Software-OS-Related 668 686	Hardware and Sound
+A7	isOpened T12 f->t
+T13	Software-OS-Related 704 709	Sound
+A8	isOpened T13 f->t
+T14	Software-OS-Related 770 779	recording
+A9	isOpened T14 f->t
+T16	Software-OS-Related 914 924	properties
+A11	isOpened T16 f->t
+T17	Software-OS-Related 977 992	Use this Device
+A12	isSettingsChanged T17 true
+T18	Hardware-Other 1061 1069	computer
+T20	Hardware-Other 1129 1138	computers
+T22	Hardware-Devices 1216 1220	mics
+T23	Hardware-Other 1428 1431	Mac
+T24	Hardware-Other 1496 1498	PC
+T25	Software-OS-Related 1456 1471	System Settings
+T26	Software-OS-Related 1520 1538	Hardware and Sound
+T27	Software-OS-Related 1480 1485	Sound
+T28	Hardware-Other 1574 1581	speaker
+T29	Hardware-Other 1586 1594	computer
+T30	Hardware-Other 1665 1673	speakers
+T31	Hardware-Devices 1683 1693	headphones
+A14	isConnected T31 f->t
+T32	Software-OS-Related 1806 1814	settings
+A15	isOpened T32 f->t
+T33	Software-OS-Related 1885 1893	settings
+T34	Hardware-Devices 1901 1911	microphone
+T35	Hardware-Devices 1989 1999	microphone
+A16	isPowered T35 start-T
+T36	Hardware-Other 2020 2025	cable
+T37	Software-OS-Related 2077 2085	settings
+T38	Hardware-Devices 2153 2157	mics
+*	Equiv T35 T38
+T39	Software-OS-Related 2214 2222	settings
+T42	Software-Other 2517 2542	audio processing programs
+T43	Software-Other 2566 2580	input settings
+T44	Software-OS-Related 2741 2756	system settings
+A17	isOpened T44 f->t
+T45	Software-Other 2619 2637	recording software
+T46	Hardware-Other 2701 2708	sources
+T47	Software-Other 2790 2795	Skype
+A18	isOpened T47 start-T
+T48	Software-OS-Related 2804 2809	Tools
+A19	isOpened T48 f->t
+T49	Software-OS-Related 2810 2817	Options
+A20	isOpened T49 f->t
+T50	Software-OS-Related 2818 2832	Audio settings
+A21	isOpened T50 f->t
+T51	Software-OS-Related 2850 2860	microphone
+A22	isOpened T51 f->t
+T53	Hardware-Other 3002 3010	computer
+T54	Software-Other 3079 3086	program
+A24	isOpened T54 t->f
+T55	Hardware-Other 3184 3192	hardware
+A2	isSettingsChanged T9 true
+T2	Software-OS-Related 268 282	sound settings
+A1	isSettingsChanged T2 true
+R1	SubPart Arg1:T9 Arg2:T7	
+R2	SubPart Arg1:T17 Arg2:T13	
+A10	isOpened T25 f->t
+A13	isOpened T27 f->t
+A23	isOpened T26 f->t
+T3	Software-OS-Related 1548 1553	Sound
+A25	isOpened T3 f->t

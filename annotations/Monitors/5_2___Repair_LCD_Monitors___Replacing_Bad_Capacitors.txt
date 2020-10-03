@@ -1,0 +1,74 @@
+Repair LCD Monitors
+https://www.wikihow.com/Repair-LCD-Monitors
+
+0 - Replacing Bad Capacitors
+
+1 - Understand the danger.
+Understand the danger. The capacitors may hold a major charge even after you disconnect the power. If you handle them improperly, you can receive a dangerous or even lethal electric shock. Take the following steps to protect yourself and your monitor's components:[2]
+- X
+- Research source
+- 
+- 
+- Be honest about your abilities. If you have never replaced a circuit board or handled electronic equipment before, hire a professional. This is not a good repair for beginners.
+- Wear static-free clothing and work in a static-free environment. Keep the area clear of wool, metal, paper, lint, dust, children, and pets.
+- Avoid working in dry or wet conditions. A humidity level between 35 and 50% is ideal.
+- Ground yourself before you begin. You can do this by touching the metal chassis of the monitor, while the monitor is off but plugged into a grounded outlet.
+- Stand on a low-friction surface. Before working on carpet, treat it with an anti-static spray.
+- Wear tight rubber gloves if you are still able to manipulate the components involved.
+
+2 - Disconnect the power.
+Disconnect the power. Unplug the monitor. If the monitor is attached to a laptop or other battery-powered device, remove the battery. These steps will reduce the chance of an electric shock.
+- Even if your laptop has a "non-removable" battery, you can usually remove it after opening up the device. Follow an online guide for your laptop model.
+- Some components inside the laptop will continue to hold charge. Use caution and do not touch any component until you have identified it.
+
+3 - Keep careful track of your progress.
+Keep careful track of your progress. Work on a large, flat surface cleared of all other objects. Use small containers to hold each screw and other removable components. Label each container with the name of the component the screw held down, or with the step number from this guide.
+- Consider photographing the monitor before you separate any connections. This will help you fit the monitor back together again.
+
+4 - Remove the case.
+Remove the case. Unscrew the plastic case at each corner, or wherever you see screws holding the back and front frames together. Pry it apart using a thin, flexible tool. A plastic putty knife works well.
+- Prying apart components with a metal object risks destroying them with chipping or an electrical short. A metal object is relatively safe for this initial step, but do not use it for any further steps.
+
+5 - Locate the power supply board.
+Locate the power supply board. This circuit board usually sits near the power socket. You may need to unscrew additional panels to find it. This circuit board is the one with several cylindrical capacitors, including one large one. However, these capacitors are usually located on the other side, and are not visible until you finish disconnecting the board.
+- If you are not sure which board is the power supply, search online for an image of your specific model.
+- Do not touch any of the metal pins on this board. They may deliver an electric shock.
+
+6 - Disconnect the circuit board.
+Disconnect the circuit board. Remove all screws and ribbon cables holding the circuit board in place. Always disconnect a cable by pulling directly out of the socket. If you pull a ribbon cable vertically when it is in a horizontal socket, you can easily break it.
+- Some ribbon cables have a small tab you can pull to disconnect them.
+
+7 - Locate and discharge the largest capacitors.
+Locate and discharge the largest capacitors. Carefully lift the board by the edges, without touching any metal pins or attached components. On the other side of the board, locate the cylindrical capacitors. Each one is attached to the board with two pins. Discharge the stored electricity to reduce the risk of harm, as follows:[3]
+- X
+- Research source
+- 
+- 
+- Purchase a resistor in the range of 1.8–2.2kΩ and 5–10 watts. This is much safer than using a screwdriver, which may create sparks or destroy the board.
+- Put on rubber gloves.
+- Locate the pins attached to the largest capacitor. Touch the two resistor leads to the pins for several seconds.
+- For best results, test the voltage between the pins with a multimeter. Use resistor again if significant voltage remains.
+- Repeat with each of the largest capacitors. The smaller cylinders cannot typically cause serious harm.
+
+8 - Identify and photograph broken capacitors.
+Identify and photograph broken capacitors. Look for a capacitor with a domed or bulging top, instead of a flat one. Check each capacitor for leaking fluid, or a crusty buildup of dried fluid. Before removal, photograph or record the position of each capacitor and the markings on its side. It's very important that you know which pin attaches to the negative side of the capacitor, and which to the positive. If you are removing more than one type of capacitor, make sure you know where each one goes.
+- If none of the capacitors look damaged, test each one with a multimeter set to resistance.
+- Some capacitors are shaped like small discs instead of cylinders. These rarely break, but check to make sure none are bulging outward.
+
+9 - Desolder broken capacitors
+Desolder broken capacitors. As described in the linked article, use a soldering iron and desoldering pump to remove the pins connecting faulty capacitors. Set aside the broken capacitors.
+
+10 - Purchase replacements.
+Purchase replacements. Any electronics supply store should sell capacitors at very low prices. Look for a capacitor with the following attributes:
+- Size — identical to the old capacitor
+- Voltage (V, WV, or WVDC) — equal to the old capacitor, or slightly higher
+- Capacitance (F or µF) — equal to the old capacitor
+
+11 - Solder the new capacitors
+Solder the new capacitors. Use your soldering iron to attach the new capacitors to the circuit board. Make sure to connect the negative (striped) side of each capacitor to the same pin that was attached to the negative side of the old capacitor. Check that all new connections are solidly connected.
+- Use soldering wire suitable for electronics.
+- If you've lost track of where the capacitors were located, look online for a diagram of your model's power supply board.
+
+12 - Fit back together and test.
+Fit back together and test. Reattach all cables, panels, and components exactly as they were before. You may test the monitor before screwing in the final plastic panel, as long as all other parts are connected. If it still doesn't work, you may need to hire a professional or buy a replacement.
+

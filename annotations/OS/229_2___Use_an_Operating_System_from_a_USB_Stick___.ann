@@ -1,0 +1,61 @@
+T1	Hardware-Other 145 160	USB flash drive
+T2	Software-OS-Related 223 232	macOS/OSX
+T3	Software-Other 596 608	OS installer
+T4	Software-OS-Related 618 627	App Store
+T5	Software-OS-Related 743 751	Download
+T6	Software-OS-Related 702 711	macOS/OSX
+T7	Hardware-Other 863 878	USB flash drive
+T8	Hardware-Other 887 895	computer
+T9	Software-OS-Related 1020 1032	Applications
+A1	isOpened T9 f->t
+T10	Software-OS-Related 1035 1044	Utilities
+A2	isOpened T10 f->t
+T11	Software-OS-Related 1059 1071	Disk Utility
+A3	isOpened T11 f->t
+T12	Software-OS-Related 1198 1209	flash drive
+T13	Software-OS-Related 1276 1287	flash drive
+A4	isOpened T13 f->t
+T14	Software-OS-Related 1313 1322	Partition
+T15	Software-OS-Related 1623 1639	Partition Layout
+A5	isOpened T15 f->t
+T16	Software-OS-Related 1657 1668	1 Partition
+T17	Software-OS-Related 1824 1830	Format
+A6	isOpened T17 f->t
+T18	Software-OS-Related 1848 1874	Mac OS Extended (Journaled
+T19	Hardware-Other 2020 2029	USB drive
+T20	Hardware-Other 2133 2141	computer
+T21	Software-OS-Related 2174 2182	Options…
+A7	isOpened T21 f->t
+T22	Software-OS-Related 2319 2339	GUID partition table
+T23	Software-OS-Related 2352 2354	OK
+A8	isSettingsChanged T23 true
+R1	SubPart Arg1:T23 Arg2:T21	
+T24	Software-OS-Related 2649 2654	Apply
+T25	Software-OS-Related 2662 2671	Partition
+A9	isSettingsChanged T25 true
+T26	Software-Other 2931 2950	macOS_OSX installer
+A10	isOpened T26 f->t
+T27	Software-Other 3052 3060	Continue
+T28	Software-Other 3165 3170	Agree
+T29	Software-Other 3182 3187	Agree
+T31	Software-OS-Related 3518 3529	flash drive
+T32	Software-Other 3564 3571	Install
+T30	Software-Other 3384 3398	Show All Disks
+A11	isOpened T30 f->t
+T33	Software-OS-Related 4037 4054	username/password
+T34	Software-OS-Related 4056 4064	location
+T35	Software-OS-Related 4070 4074	wifi
+T36	Software-OS-Related 4196 4208	Applications
+A12	isOpened T36 f->t
+T37	Software-OS-Related 4211 4226	System Settings
+A13	isOpened T37 f->t
+T38	Software-OS-Related 4238 4250	Startup Disk
+A14	isOpened T38 f->t
+T39	Hardware-Other 4450 4461	flash drive
+T40	Software-OS-Related 4389 4410	computer’s hard drive
+T41	Software-OS-Related 4363 4375	startup disk
+T42	Software-OS-Related 4483 4504	computer’s hard drive
+T43	Software-OS-Related 4516 4523	Restart
+A15	isSettingsChanged T43 true
+R2	SubPart Arg1:T43 Arg2:T38	
+T44	Hardware-Other 4667 4678	flash drive

@@ -1,0 +1,12 @@
+T1	Hardware-Devices 114 122	computer
+T2	Software-Other 701 720	media creation tool
+T3	Software-OS-Related 1135 1142	This PC
+A1	isOpened T3 f->t
+T4	Software-OS-Related 1172 1182	Properties
+T6	Software-Other 1255 1274	Media Creation Tool
+T7	Software-OS-Related 2160 2164	Burn
+A3	isSettingsChanged T7 true
+T9	Software-Other 2073 2088	Burn Disc Image
+T10	Software-OS-Related 2587 2597	Windows 10
+T12	Software-OS-Related 3269 3279	Windows 10
+A4	isInstalled T6 f->t

@@ -1,0 +1,56 @@
+Sync Your Mac Documents to Other Devices
+https://www.wikihow.com/Sync-Your-Mac-Documents-to-Other-Devices
+
+0 - Using iCloud
+
+1 - Click the Apple menu.
+Click the Apple menu. This is the upper left corner of the screen.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click iCloud.
+Click iCloud.
+
+4 - Sign in with your Apple ID.
+Sign in with your Apple ID.
+- If you do not have one yet, you can make one by clicking “Create a free Apple ID”.
+
+5 - Check the iCloud Drive checkbox.
+Check the iCloud Drive checkbox.
+
+6 - Click Options.
+Click Options.
+
+7 - Click Desktop and Document Folders.
+Click Desktop and Document Folders.
+- This option requires macOS Sierra and iOS 10 (if syncing to an iOS device). [1]
+- X
+- Research source
+- 
+-  Older versions of macOS can use the Documents option in the main iCloud menu.
+
+8 - Check all boxes in the window.
+Check all boxes in the window.
+
+9 - Click Done.
+Click Done.
+
+10 - Open the Settings app (iOS).
+Open the Settings app (iOS).
+- If you want to sync your documents to another Mac or Windows device, download iCloud Drive (if Windows) and repeat the previous steps.
+- iCloud is not supported for Android devices.
+
+11 - Tap iCloud.
+Tap iCloud.
+
+12 - Tap iCloud Drive.
+Tap iCloud Drive.
+
+13 - Tap the iCloud Drive slider to enable.
+Tap the iCloud Drive slider to enable.
+
+14 - Open the iCloud Drive App.
+Open the iCloud Drive App. The files synced from your Desktop and Document folders will appear in the iCloud Drive app interface.
+

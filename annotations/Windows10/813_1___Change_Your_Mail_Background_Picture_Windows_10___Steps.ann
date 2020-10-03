@@ -1,0 +1,15 @@
+T1	Software-Other 152 156	Mail
+A1	isOpened T1 f->t
+T2	Software-OS-Related 189 194	Start
+A2	isOpened T2 f->t
+T3	Software-Other 554 562	Settings
+A3	isOpened T3 f->t
+T4	Software-Other 933 952	Background settings
+A4	isOpened T4 f->t
+T5	Software-Other 1236 1242	Browse
+T6	Software-Other 1014 1032	Background Picture
+A5	isOpened T6 f->t
+T7	Software-Other 2392 2396	Open
+A6	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T1	
+T8	Software-Other 2222 2228	Photos

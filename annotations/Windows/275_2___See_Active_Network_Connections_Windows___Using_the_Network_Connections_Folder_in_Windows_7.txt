@@ -1,0 +1,25 @@
+See Active Network Connections (Windows)
+https://www.wikihow.com/See-Active-Network-Connections-(Windows)
+
+0 - Using the Network Connections Folder in Windows 7
+
+1 - Open the Start menu.
+Open the Start menu.
+
+2 - Search "ncpa.cpl" without the quotation marks in the search box.
+Search "ncpa.cpl" without the quotation marks in the search box.
+
+3 - Wait for the Network Connections Folder to display.
+Wait for the Network Connections Folder to display. This will show you all of the available connections on your network.
+
+4 - Right click on the connection you want.
+Right click on the connection you want.
+
+5 - Select Status in the drop down menu.
+Select Status in the drop down menu.
+
+6 - Wait for the Network Connection Status page to appear.
+Wait for the Network Connection Status page to appear. This is where you will be able to view the status of the network. You can select Details for more information.[3]
+- X
+- Research source
+

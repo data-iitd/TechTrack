@@ -1,0 +1,28 @@
+Connect a PC to a Mac
+https://www.wikihow.com/Connect-a-PC-to-a-Mac
+
+0 - Configuring the Mac
+
+1 - Click on “Go” on the menu bar at the upper left of the desktop.
+Click on “Go” on the menu bar at the upper left of the desktop.
+
+2 - Select “Connect to Server.
+Select “Connect to Server.”
+
+3 - Type in your PC’s network address on the Server Address field.
+Type in your PC’s network address on the Server Address field. Use the following format:
+- smb://username@computername/sharename – i.e.: smb://johnny@mypc/users.
+- If the above format won’t work, you can use the Windows PC’s IP address:  smb://IPaddress/sharename.
+
+4 - Click on the Plus (+) button to add it to the server list.
+Click on the Plus (+) button to add it to the server list.
+
+5 - Click on the Server Address you’ve just added, and click on “Connect.
+Click on the Server Address you’ve just added, and click on “Connect.”
+
+6 - Type in the password that you got from the Windows PC.
+Type in the password that you got from the Windows PC. Click on “Connect.”
+
+7 - Open your Mac’s Finder.
+Open your Mac’s Finder. The Windows PC’s name should now appear on the left panel under the Shared section.
+

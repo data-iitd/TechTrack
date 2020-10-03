@@ -1,0 +1,23 @@
+Check the IP Address in Linux
+https://www.wikihow.com/Check-the-IP-Address-in-Linux
+
+0 - Finding Your Public IP Address
+
+1 - Understand when to use this method.
+Understand when to use this method. The public IP address is what websites and services see when you access them from your computer. If you want to try to connect to your computer via a remote connection that isn't on the same network, you'll need the public IP address.
+- ;
+
+2 - Open Terminal.
+Open Terminal. Click or double-click the Terminal app icon, or press Ctrl+Alt+T to bring up the Terminal window.
+
+3 - Enter the public IP command.
+Enter the public IP command. Type curl ifconfig.me into the Terminal window. This command retrieves your public IP address from a website.[1]
+- X
+- Research source
+
+4 - Press ↵ Enter.
+Press ↵ Enter. Doing so runs the command.
+
+5 - Wait for your public IP address to appear.
+Wait for your public IP address to appear. The IP address that appears below the command you entered is the public IP address for your network.
+

@@ -1,0 +1,40 @@
+Start Screen Recording for Your Mac
+https://www.wikihow.com/Start-Screen-Recording-for-Your-Mac
+
+0 - Steps
+
+1 - Download a suitable screen recorder.
+Download a suitable screen recorder. The major ones include Screenium and iShowU. Others exist that have been made by companies making products for Macs. iShowU is an alternative Screenium, while Screenium can be better than iShowU; it's up to you to take your pick. And also, you need to register it to get out of the demo, although, if you want to, it is possible to use it for free (look at Tips section).
+- ;
+
+2 - After downloading, buy the screen recorder.
+After downloading, buy the screen recorder. iShowU and Screenium requires payment for the screen recorders to get out of the demo, but if you don't want to, you don't have to, but you can record only 30 seconds. After you purchase it, now, enter the registration key, you get from purchasing.
+
+3 - Decide what kind of type of recording method you want to choose. These include:
+Decide what kind of type of recording method you want to choose. These include:
+- Fixed Area - Chooses the area you want to record with.
+- 
+- 
+- Fullscreen - Records the whole entire Mac screen.
+- WH.shared.addScrollLoadItem('448b1729fc9249e3b5b972128b854211')
+- 
+- 
+- Mouse Area - Records your mouse cursor, close-up!
+- WH.shared.addScrollLoadItem('c5d4a9765379f4578ebc7f32a86b757a')
+- 
+- 
+- Single Window - Choose the window you want to record with, not multiple windows at a time!
+- WH.shared.addScrollLoadItem('d3f9fa1e4d443a813ba84d1d9be79850')
+
+4 - Check the audio devices you want to have, like Built-in microphone or System Audio from the speakers.
+Check the audio devices you want to have, like Built-in microphone or System Audio from the speakers. But, you don't have to check them if you want to make your video silent.
+
+5 - Skip camera settings, because the camera settings in default are fine and great settings for Screenium.
+Skip camera settings, because the camera settings in default are fine and great settings for Screenium.
+
+6 - Uncheck every check box at mouse settings, and leave mouse click color be, because, sometimes, the mouse settings checked may make your video distract and unwatchable.
+Uncheck every check box at mouse settings, and leave mouse click color be, because, sometimes, the mouse settings checked may make your video distract and unwatchable.
+
+7 - Skip the rest of the settings, and now start screen recording on Screenium or iShowU on Macintosh!
+Skip the rest of the settings, and now start screen recording on Screenium or iShowU on Macintosh!
+

@@ -1,0 +1,39 @@
+Install Ubuntu Server
+https://www.wikihow.com/Install-Ubuntu-Server
+
+0 - Creating an Installation Drive
+
+1 - Open the Ubuntu Server download page.
+Open the Ubuntu Server download page. Go to https://www.ubuntu.com/download/server in your computer's web browser.
+- ;
+
+2 - Click Download.
+Click Download. It's a green button on the right side of the page. Your Ubuntu Server disk image (ISO) will begin downloading onto your computer.
+
+3 - Open the Rufus website.
+Open the Rufus website. Go to https://rufus.akeo.ie/ in your computer's web browser.
+
+4 - Download Rufus.
+Download Rufus. Scroll down to the "Download" heading, then click Rufus 3.1 below the heading to prompt the launch file to begin downloading.
+
+5 - Plug a flash drive into your computer.
+Plug a flash drive into your computer. Insert a flash drive that has at least 4 GB of storage capacity on it into one of your computer's rectangular USB ports.
+- Keep in mind that the flash drive will be completely erased during the installation drive creation process. You may want to copy any existing files on the flash drive onto your computer before proceeding.
+
+6 - Run Rufus.
+Run Rufus. Double-click the downloaded Rufus file, then click Yes when prompted.
+
+7 - Click SELECT.
+Click SELECT. It's on the right side of the Rufus window. This will open a File Explorer window.
+
+8 - Open the downloaded ISO file.
+Open the downloaded ISO file. Go to the location of the Ubuntu Server file, then double-click it to open it in Rufus.
+
+9 - Click START.
+Click START. It's at the bottom of the Rufus window. Your ISO file will begin burning onto your flash drive.
+- You may have to click through a few prompts (e.g., click OK to begin the process) before your flash drive will begin burning.
+
+10 - Wait for the burning to finish.
+Wait for the burning to finish. This may take several minutes. Once your flash drive finishes burning, you can proceed to the next part.
+- Don't remove your flash drive once the burning completes. You'll need to keep your flash drive inserted throughout the installation process.
+

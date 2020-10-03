@@ -1,0 +1,29 @@
+Turn Off Windows Activation
+https://www.wikihow.com/Turn-Off-Windows-Activation
+
+0 - Activating Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the left-hand side of the Start window.
+
+3 - Click Update & security.
+Click Update & security. This circular arrow-shaped icon is at the bottom of the Settings window.
+
+4 - Click Activation.
+Click Activation. It's a tab on the left side of the window.
+
+5 - Activate your copy of Windows.
+Activate your copy of Windows. You can do this in one of two ways, depending on whether you have to buy a key or already upgraded for free on a different computer:[1]
+- X
+- Research source
+- 
+- 
+- Free Upgrade - Click Troubleshoot, enter your Microsoft email address and password if prompted, click Activate Windows, and click Activate when prompted.
+- Purchased Key - Click Go to store, click Buy below your preferred version of Windows, and enter your payment information.
+
+6 - Restart your computer.
+Restart your computer. Click Start , click Power , and click Restart. Once your computer finishes restarting, your version of Windows should be activated.
+

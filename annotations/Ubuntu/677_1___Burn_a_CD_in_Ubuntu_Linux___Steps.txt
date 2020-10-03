@@ -1,0 +1,25 @@
+Burn a CD in Ubuntu Linux
+https://www.wikihow.com/Burn-a-CD-in-Ubuntu-Linux
+
+0 - Steps
+
+1 - Download Brasero (a free Open-source CD burning_maker utility for GNOME).
+Download Brasero (a free Open-source CD burning/maker utility for GNOME). To do this click and open Ubuntu Software centre. It is included in recent versions of ubuntu. If not, you can download it.
+- ;
+
+2 - Type Brasero in search.
+Type Brasero in search.
+
+3 - You will find it in the list.
+You will find it in the list. Click on it and then click on Install Button to install it.
+
+4 - After the program is installed, open it by going in Dashboard and typing Brasero.
+After the program is installed, open it by going in Dashboard and typing Brasero.
+
+5 - When GnomeBaker opens you have a variety of options.
+When GnomeBaker opens you have a variety of options.
+- If you wish to make a Data CD, click Data CD near the bottom.
+- Add the files and click "Burn"
+- If you want to make an Audio CD, click Audio CD instead of Data CD. You may need to download some extra codecs and libraries for certain audio formats.
+- Add the music and hit "Burn".
+

@@ -1,0 +1,24 @@
+Hack an Xbox Controller Into a PC Gamepad
+https://www.wikihow.com/Hack-an-Xbox-Controller-Into-a-PC-Gamepad
+
+0 - Steps
+
+1 - Look for the connector.
+Look for the connector. It should be attached at the end of your Xbox dongle. Proceed by cutting it off. Do this very carefully. You don’t want to ruin your controller. (By the way, if you need to replace or put back the connector and make it Xbox dongle compatible, buy a new one. It can cost around $4.)
+- ;
+
+2 - Once you have cut the connector, four wires are going to be exposed.
+Once you have cut the connector, four wires are going to be exposed. They are compatible to a USB format (direct connectivity). Prepare to further expose the wires and then, match them up to the wires in your PC gamepad. Refer to the color codes of the wires to get the proper matching.
+
+3 - Get four pieces of tubing (shrink wrap).
+Get four pieces of tubing (shrink wrap). Slip one piece in every wire matching. Then, solder each piece so that the wires are successfully connected. Double check what you have done. See to it that the wires don’t separate when you pull them. Otherwise, solder again until the connection is firmer or stronger.
+
+4 - Bring out an electrical tape.
+Bring out an electrical tape. Use it to protect your new connections. Cover the wires that you have just soldered. Roll the tape around the wires. Do this evenly and tightly. This can make your control less intermittent and allow you to enjoy your game better. So, if the tape wrapping is lousy, you may need to redo everything.
+
+5 - Go to your PC and then get your xbcd driver software.
+Go to your PC and then get your xbcd driver software. Install the software in your PC. After that, set to connect your controller. If you have done everything accurately, Windows should be able to automatically recognize your controller as an acceptable USB device.
+
+6 - Finished.
+Finished.
+

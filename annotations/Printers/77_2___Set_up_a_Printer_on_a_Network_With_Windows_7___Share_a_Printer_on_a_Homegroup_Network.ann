@@ -1,0 +1,22 @@
+T1	Hardware-Other 178 186	computer
+T2	Software-OS-Related 484 497	Control Panel
+A1	isOpened T2 f->t
+T3	Hardware-Devices 197 204	printer
+A2	isUsed T3 true
+T4	Software-OS-Related 788 797	HomeGroup
+A3	isOpened T4 f->t
+T5	Software-OS-Related 1024 1032	Printers
+T6	Software-OS-Related 1091 1103	Save changes
+A4	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T4	
+A5	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T4	
+T7	Software-OS-Related 1367 1372	Start
+A6	isOpened T7 f->t
+T8	Software-OS-Related 1425 1438	Control Panel
+A7	isOpened T8 f->t
+T9	Software-OS-Related 1566 1575	HomeGroup
+A8	isOpened T9 f->t
+T10	Software-OS-Related 1679 1694	Install Printer
+T11	Software-OS-Related 1740 1754	Install driver
+A9	isOpened T11 f->t

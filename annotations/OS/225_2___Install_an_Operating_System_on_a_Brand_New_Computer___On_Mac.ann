@@ -1,0 +1,9 @@
+T1	Hardware-Other 163 166	Mac
+T2	Software-OS-Related 792 841	Starting Internet Recovery. This may take a while
+A1	isOpened T2 f->t
+T3	Software-OS-Related 994 1016	Mac's operating system
+T4	Software-OS-Related 1428 1449	installation location
+T5	Software-OS-Related 1526 1547	Mac's disk drive icon
+T6	Software-OS-Related 1609 1616	Install
+T7	Software-OS-Related 1699 1715	operating system
+T8	Hardware-Other 1843 1846	Mac

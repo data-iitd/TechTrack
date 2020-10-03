@@ -1,0 +1,42 @@
+Fix a Keyboard
+https://www.wikihow.com/Fix-a-Keyboard
+
+0 - Wiping the Circuits
+
+1 - Unscrew the back of the keyboard to separate the top and bottom.
+Unscrew the back of the keyboard to separate the top and bottom. Unplug your keyboard and flip it upside-down so you can see the bottom. Use either a Phillips-head or flathead screwdriver to loosen the screws on the bottom of the keyboard. Set the screws in a small container so you don’t lose them. Once you take off all of the screws, find the seam between the top and bottom pieces and gently pull them apart until they separate.[15]
+- X
+- Research source
+- 
+- Not all keyboards can be taken apart easily. If you can’t unscrew or pull your keyboard apart, then you may need to take it to a professional tech service to fix it.
+
+2 - Remove the rubber piece covering the circuits.
+Remove the rubber piece covering the circuits. Flip your keyboard over so it’s right-side up, and set the top piece with the keys attached to it aside for now since you don’t need it. The next layer under the keyboard will be a rubber sheet with raised bumps that helps protect the keys and the circuits. Lift the rubber piece up and out of the keyboard and set it face-up.[16]
+- X
+- Research source
+- 
+- If the rubber piece looks dirty, you can clean it with rubbing alcohol and a soft, microfiber cloth.
+
+3 - Separate the circuit sheets to clean between them.
+Separate the circuit sheets to clean between them. The circuits will be underneath the rubber piece, and they will come on 2 clear sheets that press against one another. Slide a fingernail around the edge of the circuit sheet to separate them from one another. Be careful not to scratch any of the lines on the circuit sheets since this could easily damage them.[17]
+- X
+- Research source
+- 
+- Don’t try to force the circuit sheets apart since they may be connected together in a corner of the keyboard.
+
+4 - Wipe the circuits with a soft microfiber cloth.
+Wipe the circuits with a soft microfiber cloth. Use a lint-free microfiber cloth between the circuit sheets and wipe away any dust or dirt you see between them. Focus on any areas of the circuit where there are marks or dirt on the lines, since it could cause keys to stop working since it interrupts the circuit’s connection. Continue wiping each side of both sheets until they’re clean.[18]
+- X
+- Research source
+- 
+- 
+- Don’t scratch the circuit, since you may leave a mark and damage it yourself.
+- If you notice certain keys aren’t working, then focus on the area of the circuit where those keys would line up with it.
+
+5 - Put the keyboard back together to test it.
+Put the keyboard back together to test it. Put the circuit sheets back together and set the rubber piece face-up on top. Set the top half of the keyboard with the keys on top and press it down to secure them in place. Before you put in the screws, you can plug in your keyboard and test it with your computer to see if it works. If it does, reattach the screws so you can use your keyboard again.[19]
+- X
+- Research source
+- 
+- If your keyboard still doesn’t work, then you can try cleaning it again or you may need to replace it.
+

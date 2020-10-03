@@ -1,0 +1,37 @@
+Get Movie Results on Spotlight Search for Mac
+https://www.wikihow.com/Get-Movie-Results-on-Spotlight-Search-for-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on Spotlight.
+Click on Spotlight. It's in the upper-right of the preferences window.
+- If you don't see all of the System Preferences icons, click on ⋮⋮⋮⋮ in the top bar of the dialog box.
+
+4 - Click on Search Results.
+Click on Search Results.
+
+5 - Check the box next to "Movies."
+Check the box next to "Movies." It's listed alphabetically in the "Search Results" pane. Make sure it's blue and displaying a checkmark.
+
+6 - Click on the Spotlight icon.
+Click on the Spotlight icon. It's the black magnifying glass on the menu bar in the upper-right corner of your screen.
+
+7 - Type the title of a movie into the search bar.
+Type the title of a movie into the search bar. Results will appear in the left pane as you type.
+
+8 - Click on the movie title.
+Click on the movie title. It should appear under the "Movies" subheading in the left pane of the dialog box.
+- If your Mac is set to U.K. English, the heading will be "Films."
+
+9 - Scroll down to review information about the movie.
+Scroll down to review information about the movie. Spotlight will display information about the movie, such as showtimes, rating and cast, in the right pane of the dialog box.
+- To purchase tickets online, click on a displayed showtime. This will launch Fandango in your default web browser.
+- To purchase or reserve a digital copy of the movie from iTunes, click on the Pre-Order/Buy from iTunes button at the top of the right pane.
+

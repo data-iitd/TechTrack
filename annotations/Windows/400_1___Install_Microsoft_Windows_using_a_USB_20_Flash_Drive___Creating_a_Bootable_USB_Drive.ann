@@ -1,0 +1,9 @@
+T1	Hardware-Other 189 200	flash drive
+T2	Software-Other 510 541	Windows 7 USB_DVD Download Tool
+T3	Software-OS-Related 1068 1078	USB device
+A1	isOpened T3 f->t
+T4	Hardware-Other 1145 1148	DVD
+T5	Hardware-Other 1161 1171	USB device
+T6	Software-OS-Related 1183 1193	USB Device
+A2	isOpened T6 f->t
+T7	Software-Other 935 946	Source file

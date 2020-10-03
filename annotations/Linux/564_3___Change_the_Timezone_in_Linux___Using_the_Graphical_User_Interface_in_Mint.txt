@@ -1,0 +1,29 @@
+Change the Timezone in Linux
+https://www.wikihow.com/Change-the-Timezone-in-Linux
+
+0 - Using the Graphical User Interface in Mint
+
+1 - Open the Menu.
+Open the Menu. Click Menu in the bottom-left corner of the screen.
+
+2 - Click the System Settings icon.
+Click the System Settings icon. It's made of two grey cogs. You'll find it on the left side of the Menu window.
+
+3 - Click Date & Time.
+Click Date & Time. It's in the "Preferences" group of options.
+
+4 - Click Unlock.
+Click Unlock. You'll find this on the right side of the window.
+
+5 - Enter your user password when prompted.
+Enter your user password when prompted. Type in the password that you use to log into your computer.
+
+6 - Click Authenticate.
+Click Authenticate. It's at the bottom of the prompt. Doing so unlocks the Date & Time menu.
+
+7 - Select a time zone.
+Select a time zone. Click a vertical slice of the map to pick that time zone. You should see the clock on the right side of the page immediately change to reflect the selected time zone's time.
+
+8 - Click Lock.
+Click Lock. It's on the right side of the window. Doing so saves your time zone preferences and locks the Date & Time menu.
+

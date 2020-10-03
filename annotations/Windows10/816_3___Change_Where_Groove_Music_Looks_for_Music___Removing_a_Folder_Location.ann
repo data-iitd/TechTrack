@@ -1,0 +1,9 @@
+T1	Software-Other 155 167	Groove Music
+A1	isOpened T1 f->t
+T2	Software-Other 433 441	Settings
+A2	isOpened T2 f->t
+T3	Software-Other 895 925	Choose where we look for music
+A3	isOpened T3 f->t
+T4	Software-Other 1602 1617	Confirm removal
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	

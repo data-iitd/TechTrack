@@ -1,0 +1,11 @@
+T1	Hardware-Other 132 142	hard drive
+T2	Software-Other 619 627	ProduKey
+A1	isOpened T2 f->t
+A2	isInstalled T2 f->t
+T3	Software-Other 740 744	File
+A3	isOpened T3 f->t
+T4	Software-OS-Related 864 870	Source
+A4	isOpened T4 f->t
+T5	Software-Other 1183 1189	Browse
+A5	isOpened T5 f->t
+T6	Hardware-Devices 1272 1282	hard drive

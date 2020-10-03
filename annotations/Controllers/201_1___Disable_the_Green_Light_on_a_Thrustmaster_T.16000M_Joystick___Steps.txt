@@ -1,0 +1,23 @@
+Disable the Green Light on a Thrustmaster T.16000M Joystick
+https://www.wikihow.com/Disable-the-Green-Light-on-a-Thrustmaster-T.16000M-Joystick
+
+0 - Steps
+
+1 - Using a Phillips screwdriver, remove the 6 black screws under the base of the joystick.
+Using a Phillips screwdriver, remove the 6 black screws under the base of the joystick.
+- ;
+
+2 - Remove the bottom lid.
+Remove the bottom lid.
+
+3 - The four leds are connected in a parallel circuit.
+The four leds are connected in a parallel circuit. The power wires are connected to the main board just under the right-handed / left-handed switch.
+
+4 - Cut the red wire.
+Cut the red wire.
+- Note: on the photo, the wire has been cut close to the board. If you plan on reversing the process by reconnecting the wires later, you may want to cut it a bit further away from the board.
+- Note: you can also put a SPST switch on this wire to allow re-enabling the light easily.
+
+5 - Replace the bottom lid and the 6 screws.
+Replace the bottom lid and the 6 screws.
+

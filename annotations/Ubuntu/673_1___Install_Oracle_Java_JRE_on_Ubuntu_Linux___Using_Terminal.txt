@@ -1,0 +1,34 @@
+Install Oracle Java JRE on Ubuntu Linux
+https://www.wikihow.com/Install-Oracle-Java-JRE-on-Ubuntu-Linux
+
+0 - Using Terminal
+
+1 - Open Terminal.
+Open Terminal. Click the Terminal app icon, which resembles a black box, in the bar on the left side of the screen.
+- You can also press Alt+Ctrl+T to bring up the Terminal window.
+- ;
+
+2 - Enter the Java install command.
+Enter the Java install command. Type in sudo apt install jre and press ↵ Enter. This command prompts Linux to begin searching for the JRE installation site.
+
+3 - Enter your password when prompted.
+Enter your password when prompted. Type in the password you use to log into your computer, then press ↵ Enter. The installation will commence.
+
+4 - Allow the JRE files to install.
+Allow the JRE files to install. This will take a few minutes. When you see the terms of use prompt appear, you may proceed.
+
+5 - Select <Yes> when prompted.
+Select <Yes> when prompted. Press the left arrow key, then press ↵ Enter. Java will resume installing.
+
+6 - Wait for Java to finish installing.
+Wait for Java to finish installing. Once you see your username appear at the bottom of Terminal, you can continue.
+
+7 - Check your Java version.
+Check your Java version. Type in java -version and press ↵ Enter, then wait for the Java version number to appear.
+- If doing this results in an error, Java didn't install correctly. You may need to try installing it manually.
+
+8 - Remove unnecessary files.
+Remove unnecessary files. You can get rid of temporary files installed by Java by doing the following:
+- Type in sudo apt autoremove and press ↵ Enter.
+- Type in y and press ↵ Enter.
+

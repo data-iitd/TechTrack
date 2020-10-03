@@ -1,0 +1,36 @@
+Rename the User Folder on Windows
+https://www.wikihow.com/Rename-the-User-Folder-on-Windows
+
+0 - Editing the Folder Name
+
+1 - Log into a different administrator user on your computer.
+Log into a different administrator user on your computer. You can't change the name of your user folder when you're logged in from the same account. You have to log in from a different admin account to change a user account's name.
+- ;
+
+2 - Open the Start menu.
+Open the Start menu. Find and click the Windows icon in the lower-left corner of your screen to open it.
+
+3 - Click This PC on the Start menu.
+Click This PC on the Start menu. This will open a list of all your connected drives and devices in a new window.
+- On some versions of Windows, this option may be named Computer or My Computer.
+- If you don't see this option, you can search the Start menu by typing in the search box here.
+
+4 - Double-click your system hard drive.
+Double-click your system hard drive. This is the hard drive that contains your Windows folder.
+- Your system hard drive is indicated by "C:" on most computers. However, if you have multiple internal storage drives or disk partitions, you may find your Windows folder on a different drive, such as "D:", "E:" or "F:".
+
+5 - Double-click the Users folder.
+Double-click the Users folder.
+
+6 - Right-click the user folder you want to rename.
+Right-click the user folder you want to rename. This will open a drop-down menu.
+
+7 - Select Rename.
+Select Rename. This option will let you edit, modify, or rewrite the name of this user folder.
+
+8 - Enter a new name for the user folder.
+Enter a new name for the user folder. You can modify this user's current name, or delete it and enter a new one
+
+9 - Press ↵ Enter on your keyboard.
+Press ↵ Enter on your keyboard. It will save this user folder's new name.
+

@@ -1,0 +1,29 @@
+Set up a Webcam
+https://www.wikihow.com/Set-up-a-Webcam
+
+0 - Installing the Webcam
+
+1 - Attach the webcam to your computer.
+Attach the webcam to your computer. Plug the webcam's USB cable into one of the rectangular USB ports on the side or back of your computer.
+- USB plugs can only be inserted one way. If the plug won't fit into the port, rotate the plug 180 degrees and try again.
+- If you're on a Mac, you'll most likely need to buy a USB to USB-C adapter in order to fit a normal webcam.
+- Make sure that you plug the webcam directly into your computer, not a USB hub. USB hubs are often too underpowered to operate a webcam.
+- ;
+
+2 - Insert the webcam's CD.
+Insert the webcam's CD. Place the CD that came with the webcam in your computer's CD tray, making sure that the logo is face-up in the process. Since most modern Macs don't come with CD drives, you will have to have a separate CD drive attached via USB cable if you're using a Mac.
+- If the webcam didn't come with a CD, skip this step.
+- You can usually find a copy of the webcam's software in the "Support" section of the webcam company's website.
+
+3 - Wait for the webcam's setup page to open.
+Wait for the webcam's setup page to open. Your webcam's setup page should open automatically. If your webcam didn't include a CD, plugging the webcam into your computer will most likely start the setup process.[1]
+- X
+- Research source
+
+4 - Follow any on-screen instructions.
+Follow any on-screen instructions. Your webcam's individual instructions will vary, but most setup processes will involve clicking through a series of preference windows before clicking an Install button.
+- Pay attention to the windows' information here. You'll most likely need to select certain preferences that will help the webcam work later.
+
+5 - Wait for your webcam to finish installing.
+Wait for your webcam to finish installing. Once the webcam has finished installing, its program should open, at which point you can begin setting up the webcam.
+

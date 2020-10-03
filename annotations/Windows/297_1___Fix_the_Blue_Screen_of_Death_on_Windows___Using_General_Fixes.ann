@@ -1,0 +1,24 @@
+T1	Software-OS-Related 914 925	Blue Screen
+T2	Software-OS-Related 1152 1157	Start
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1169 1177	Settings
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1189 1206	Update & Security
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1221 1233	Troubleshoot
+A5	isOpened T5 f->t
+T6	Software-Other 2487 2497	virus scan
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1248 1259	Blue Screen
+A1	isOpened T7 f->t
+T8	Hardware-Other 1453 1469	USB flash drives
+T9	Hardware-Other 1471 1479	Ethernet
+T10	Hardware-Other 1483 1494	HDMI cables
+T11	Hardware-Other 1496 1507	controllers
+T12	Hardware-Other 1509 1523	printer cables
+T13	Hardware-Other 1525 1533	SD cards
+T14	Hardware-Other 1793 1798	mouse
+T15	Hardware-Other 1803 1811	keyboard
+T16	Hardware-Devices 1570 1578	computer
+T17	Software-OS-Related 1270 1292	Run the troubleshooter
+A7	isOpened T17 f->t

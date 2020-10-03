@@ -1,0 +1,30 @@
+Use and Install a Live CD of Linux
+https://www.wikihow.com/Use-and-Install-a-Live-CD-of-Linux
+
+0 - Steps
+
+1 - Make sure your computer is booting from the CD drive.
+Make sure your computer is booting from the CD drive.
+- Either turn on or restart your computer. While doing this, hold the DELETE button to enter the BIOS. Use your left and right arrow keys to navigate to the BOOT tab. *Once on the BOOT tab use your down arrow keys to navigate to the "Boot Device priority" menu.
+- ;
+
+2 - Change the BOOT device priority.
+Change the BOOT device priority.
+- follow the onscreen instructions to set the device labeled "first boot device" as the CD drive.
+- Often you use your UP/DOWN arrow keys to select various boot devices. on the first boot device, hitting ENTER brings up a list of devices. Use your arrow keys again to select your CD drive. Hit ENTER to save your choice.
+
+3 - Save the BIOS settings.
+Save the BIOS settings.
+- Press F10 to save and exit the BIOS. (On some computers you may have to hit a function button labeled "fn" and then the F10 button )
+
+4 - Insert the Live CD
+
+Insert the Live CD
+- After you have saved the BIOS setting insert the CD into your CD Drive.
+
+5 - Boot From the Disk
+
+Boot From the Disk
+- While your computer is loading, insert the Live CD and your computer should boot from the CD drive.
+- If your computer does not load the CD, restart it with the CD still in the drive and try again.
+

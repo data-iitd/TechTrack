@@ -1,0 +1,37 @@
+Dual Boot
+https://www.wikihow.com/Dual-Boot
+
+0 - Dual Booting Windows and Linux
+
+1 - Gather your tools.
+Gather your tools. In order to dual boot Windows and Linux, you will need a Windows installation disk and a Linux distribution installation disk. You will also need to have at least 20 GB available for each operating system.
+- You can use any Linux distribution you'd like. Some of the most popular ones include Ubuntu and Mint.
+
+2 - Back up any important data.
+Back up any important data. This method will start with a fresh installation for both Windows and Linux, as this is the most foolproof way to successfully install both operating systems. Make sure all of your important documents, pictures, and other files are backed up on a separate drive or in the cloud. See this guide for more details on backing up your data.
+
+3 - Install Windows first.
+Install Windows first. Windows takes over the boot sequence, so you'll always want to install it first so that your boot sequence isn't messed up later. When installing Windows, you can make the entire hard drive a single partition. The Linux installation will let you split it up later. See these guides for instructions on installing Windows:[3]
+- X
+- Research source
+- 
+- 
+- Install Windows 10
+- Install Windows 8
+- Install Windows 7
+- Install Windows Vista
+
+4 - Start the Linux installation.
+Start the Linux installation. After Windows has finished installing, you can start the Linux part of the installation. Insert your Linux installation disc and reboot your computer. Boot to the disc and start the installation program. See these guides for detailed instructions for installing various Linux distributions:
+- Install Ubuntu Linux
+- Install Linux Mint
+
+5 - Set the partitions.
+Set the partitions. During the Linux installation, you will be asked if you want to install Linux alongside your Windows installation or replace your Windows installation. Make sure to install it alongside your existing Windows installation to allow dual booting.
+- Once you choose to install alongside, you will be allowed to set the size of your partition. Make sure that you allow at least 10 GB for the operating system files, as well as extra space for programs. Use the slider to adjust the Linux partition size.
+- Click the "advanced partitioning tool" link if you want to create a third partition that can act as storage for both operating systems. You can allocate most of your space to this partition to ensure that you have plenty of space to store your files.
+
+6 - Choose your operating system.
+Choose your operating system. After you finish installing Linux, your dual boot setup is complete. Whenever you reboot your computer, you will be given the option to choose which operating system you would like to boot.
+- You will need to reboot in order to change operating systems.
+

@@ -1,0 +1,16 @@
+T1	Software-Other 174 182	computer
+T2	Hardware-Other 296 306	hard drive
+T3	Software-OS-Related 310 315	Linux
+T4	Hardware-Other 438 445	Live CD
+T5	Hardware-Other 1013 1021	computer
+T6	Software-OS-Related 1273 1278	Linux
+T7	Software-OS-Related 1517 1529	dual-booting
+T8	Software-Other 1758 1766	software
+T9	Software-OS-Related 1994 2016	command-line interface
+T10	Software-OS-Related 2096 2104	Terminal
+T11	Software-OS-Related 2108 2123	terminal window
+T12	Software-OS-Related 2130 2135	shell
+*	Equiv T9 T10 T12 T11
+T13	Software-OS-Related 2638 2655	Linux file system
+T14	Software-OS-Related 3107 3121	Linux install.
+T15	Software-OS-Related 496 501	Linux

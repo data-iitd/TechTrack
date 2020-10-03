@@ -1,0 +1,38 @@
+T1	Software-OS-Related 2943 2950	Restart
+A1	isOpened T1 f->t
+T2	Hardware-Devices 2956 2964	computer
+T3	Software-OS-Related 2868 2870	OK
+A2	isSettingsChanged T3 true
+T4	Software-OS-Related 101 106	Start
+A3	isOpened T4 f->t
+T5	Software-OS-Related 226 233	Regedit
+T6	Software-OS-Related 427 434	regedit
+A4	isOpened T6 f->t
+T7	Software-OS-Related 759 777	HKEY_LOCAL_MACHINE
+A5	isOpened T7 f->t
+T8	Software-OS-Related 522 525	Yes
+A6	isSettingsChanged T8 true
+A7	isOpened T8 f->t
+R1	SubPart Arg1:T8 Arg2:T6	
+T9	Software-OS-Related 1008 1016	SOFTWARE
+A8	isOpened T9 f->t
+T10	Software-OS-Related 1123 1132	Microsoft
+A9	isOpened T10 f->t
+T11	Software-OS-Related 1241 1248	Windows
+A10	isOpened T11 f->t
+T12	Software-OS-Related 1393 1407	CurrentVersion
+A11	isOpened T12 f->t
+T13	Software-OS-Related 1514 1522	Explorer
+A12	isOpened T13 f->t
+T14	Software-OS-Related 1901 1904	New
+A13	isOpened T14 f->t
+T15	Software-OS-Related 1915 1918	Key
+A14	isOpened T15 f->t
+T16	Software-OS-Related 2045 2056	Shell Icons
+A15	isOpened T16 f->t
+T17	Software-OS-Related 2402 2405	New
+A16	isOpened T17 f->t
+T18	Software-OS-Related 2416 2428	String Value
+T19	Software-OS-Related 2559 2561	29
+A17	isOpened T19 f->t
+R2	SubPart Arg1:T19 Arg2:T16	

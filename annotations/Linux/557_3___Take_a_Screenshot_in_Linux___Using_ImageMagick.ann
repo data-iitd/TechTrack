@@ -1,0 +1,14 @@
+T1	Software-OS-Related 120 128	Terminal
+A1	isOpened T1 f->t
+T2	Software-Other 150 161	ImageMagick
+T3	Software-Other 486 497	ImageMagick
+A2	isInstalled T3 f->t
+T4	Hardware-Devices 847 853	screen
+A3	isPowered T4 start-T
+T5	Software-OS-Related 901 942	import -window root Pictures/fileName.png
+T8	Software-OS-Related 1119 1147	import Pictures/fileName.png
+T9	Software-OS-Related 1338 1343	delay
+T10	Software-OS-Related 1400 1450	import -window root -pause # Pictures/fileName.png
+A5	isSettingsChanged T5 true
+A4	isSettingsChanged T8 true
+A6	isSettingsChanged T10 true

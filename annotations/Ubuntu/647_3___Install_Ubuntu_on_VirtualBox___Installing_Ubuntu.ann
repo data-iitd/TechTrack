@@ -1,0 +1,26 @@
+T1	Software-Other 176 198	virtual machine's name
+A1	isOpened T1 f->t
+T2	Software-OS-Related 323 341	folder-shaped icon
+A2	isOpened T2 f->t
+T3	Software-OS-Related 500 510	Ubuntu ISO
+A3	isSettingsChanged T3 true
+A4	isOpened T3 f->t
+T4	Software-OS-Related 652 656	Open
+A5	isOpened T4 f->t
+T5	Software-OS-Related 782 787	Start
+A6	isOpened T5 f->t
+T6	Software-OS-Related 894 908	Install Ubuntu
+A7	isOpened T6 f->t
+T7	Software-OS-Related 1052 1079	Preparing to install Ubuntu
+A8	isSettingsChanged T7 true
+T8	Software-OS-Related 1189 1197	Continue
+A9	isSettingsChanged T8 true
+A10	isOpened T8 f->t
+T9	Software-OS-Related 1310 1339	Erase disk and install Ubuntu
+A11	isSettingsChanged T9 true
+T10	Software-OS-Related 1459 1470	Install Now
+A12	isOpened T10 f->t
+T11	Software-OS-Related 1562 1570	Continue
+A13	isSettingsChanged T11 true
+R2	SubPart Arg1:T9 Arg2:T6	
+R3	SubPart Arg1:T7 Arg2:T6	

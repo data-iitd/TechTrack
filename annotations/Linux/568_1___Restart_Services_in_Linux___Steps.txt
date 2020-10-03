@@ -1,0 +1,27 @@
+Restart Services in Linux
+https://www.wikihow.com/Restart-Services-in-Linux
+
+0 - Steps
+
+1 - Open the command line.
+Open the command line. Most Linux distributions have a Menu option in the lower-left corner of the screen, inside of which you'll find an application called "Terminal"; this is what you'll open to bring up the command line.
+- Since Linux distributions vary in appearance from release to release, you may have to look for the "Terminal" or command line app inside of a folder in the Menu.
+- You may find the "Terminal" app on the desktop or in the toolbar at the bottom of the screen instead of in the Menu.
+- Some Linux distributions have a command line bar at the top or bottom of the screen.
+- ;
+
+2 - Enter the command to show currently running services.
+Enter the command to show currently running services. Type ls /etc/init.d into Terminal and press ↵ Enter. This will bring up a list of currently running services and their corresponding command names.
+- If this command doesn't work, try ls /etc/rc.d/ instead.
+
+3 - Find the command name of the service that you want to restart.
+Find the command name of the service that you want to restart. You'll typically find the name of the service (e.g., "Apache") on the left side of the screen, while the command name (e.g., "httpd" or "apache2", depending on your Linux distribution) will appear on the right side.
+
+4 - Enter the restart command.
+Enter the restart command. Type sudo systemctl restart service into Terminal, making sure to replace the service part of the command with the command name of the service, and press ↵ Enter.
+- For example, to restart Apache on Ubuntu Linux, you would type sudo systemctl restart apache2 into Terminal.
+
+5 - Enter your password when prompted.
+Enter your password when prompted. Type in the password that you use for your superuser account, then press ↵ Enter. This should restart the process.
+- If the service doesn't restart after doing this, try typing in sudo systemctl stop service, pressing ↵ Enter, and then entering sudo systemctl start service.
+

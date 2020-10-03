@@ -1,0 +1,18 @@
+T1	Hardware-Other 212 214	PC
+T2	Hardware-Other 219 222	MAC
+T3	Software-Other 856 862	SHARED
+A1	isOpened T3 f->t
+T4	Software-OS-Related 633 651	System preferences
+A2	isOpened T4 f->t
+T5	Software-OS-Related 654 661	network
+A3	isOpened T5 f->t
+T6	Software-OS-Related 1027 1045	System Preferences
+A4	isOpened T6 f->t
+T7	Software-OS-Related 1056 1068	Applications
+A5	isOpened T7 f->t
+T8	Software-OS-Related 1176 1183	Sharing
+A6	isOpened T8 f->t
+T9	Software-OS-Related 1192 1210	Internet & Network
+A7	isOpened T9 f->t
+T10	Software-OS-Related 1228 1240	File sharing
+T11	Software-OS-Related 1362 1393	Share file and folder using SMB

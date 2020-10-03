@@ -1,0 +1,21 @@
+Download Themes for Windows 10
+https://www.wikihow.com/Download-Themes-for-Windows-10
+
+0 - Via the Online Theme Gallery
+
+1 - Open the Desktop Themes page.
+Open the Desktop Themes page. Open your web browser and visit https://support.microsoft.com/help/13768/desktop-themes-featured.
+
+2 - Browse the selection and look for a theme.
+Browse the selection and look for a theme. The page you will be taken to is the Featured themes section. You can browse through different types of themes by clicking through the different links running down the left-hand side of the page (such as Animals, Art, Games).
+
+3 - Download a theme.
+Download a theme. Once you find a theme that you are interested in downloading, click the blue "Download" link below the listing.
+
+4 - Choose where to save it, if prompted.
+Choose where to save it, if prompted.
+
+5 - Apply the new theme.
+Apply the new theme. Once the download finishes, open the file. Click a button named Open/Run or the file's name.
+- Theme didn't apply? Go to where it was downloaded (if you weren't prompted to save it, check your downloads folder). Double click on the name of the theme to apply it. Note that the file extension is .themepack)
+

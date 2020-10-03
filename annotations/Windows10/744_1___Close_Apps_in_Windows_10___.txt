@@ -1,0 +1,46 @@
+Close Apps in Windows 10
+https://www.wikihow.com/Close-Apps-in-Windows-10
+
+0 - 
+
+1 - Use the ✕ button window control.
+Use the ✕ button window control.
+- Move your mouse to the top-right. Be sure to hover over the ✕ button.
+- Watch for it to turn red. It should happen instantaneously.
+- Click it. The app will close.
+- ;
+
+2 - Right-click the taskbar icon.
+Right-click the taskbar icon.  Right-clicking the taskbar brings up a list of options, including the ability to close the window(s).
+- Locate the icon of the app you wish to close.
+- Right-click the app icon.
+- Click ✕ Close window. It's the option closest to the icon.
+- Note: The option will be listed as ✕ Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in "Settings > Personalization > Taskbar > "Combine taskbar buttons" dropdown".
+
+3 - Use the Task View window.
+Use the Task View window.
+- Click the taskbar task view  icon. It's to the right of the search bar/icon. Alternatively, press ⊞ Win+Tab ↹ together.
+- Locate the app you wish to close.
+- Move your pointer to the top-right of the app preview, parallel to the title.
+- Click the ✕ button. It'll turn red when highlighted.
+
+4 - End the task via Task Manager.
+End the task via Task Manager. Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x.[1]
+- X
+- Research source
+- 
+- 
+- Open Task Manager. Right-click an empty spot on the taskbar and click Task Manager.
+- Ensure you're in the advanced view. If so, you'll see a collection of tabs towards the top. If you find yourself in the simplified view, click "More details" at the bottom.
+- Ensure you're on the Processes tab.
+- Click an app from below the "Apps" header.
+- Click End task from the bottom-right. The app should close within a few seconds.
+
+5 - Use the title bar context menu.
+Use the title bar context menu.
+- Right-click the title bar of the app.
+- Choose × Close. It's at the bottom of the menu.
+
+6 - Use the Alt+F4 keys.
+Use the Alt+F4 keys. Pressing these two keys will close the currently selected app window. Unselected windows won't be affected.
+

@@ -1,0 +1,31 @@
+Use the NumLock Feature on Lenovo Thinkpads
+https://www.wikihow.com/Use-the-NumLock-Feature-on-Lenovo-Thinkpads
+
+0 - Laptops without a NumLock Key
+
+1 - Determine if your laptop should have a NumLock key.
+Determine if your laptop should have a NumLock key. Different laptop models have different numeric pad configurations.
+- If your U, I, and O keys have 4, 5, and 6 printed in the lower corner, you have an older laptop with an alternate numeric pad. See the next section for details on using it.
+- The ThinkPad line of laptops do not use an alternate numeric pad. You'll need to use the method in this section as a workaround. Some larger models have a dedicated numeric pad.
+- ;
+
+2 - Open the Start menu or Start screen on your computer.
+Open the Start menu or Start screen on your computer. Click the "Start" button in the lower-right corner of the desktop. In many versions of Windows, this is just a Windows icon. The Start menu will appear above the button.
+- If you are using Windows 8 and don't see the Start button, press ⊞ Win on the keyboard. This will open the Start screen.
+
+3 - Type "keyboard" in the Start menu.
+Type "keyboard" in the Start menu. You can start typing immediately when the Start menu or screen is open to begin searching. You'll see "On-Screen Keyboard" in the search results. If your Lenovo laptop does not have a NumLock key, you can use the Windows On-Screen Keyboard to access the numeric pad.
+
+4 - Open the On-Screen Keyboard.
+Open the On-Screen Keyboard. The On-Screen Keyboard will open in a new window.
+
+5 - Click the "Options" button in the On-Screen Keyboard.
+Click the "Options" button in the On-Screen Keyboard. You'll find this below the PrtScn button.
+
+6 - Check the "Turn on numeric keypad" box.
+Check the "Turn on numeric keypad" box. When you click OK, the numeric keypad will appear on the right side of the On-Screen Keyboard.
+
+7 - Click the keys in the on-screen numeric keypad to enter numbers.
+Click the keys in the on-screen numeric keypad to enter numbers. When you click one of the buttons, that number or symbol will be inserted wherever your typing cursor is.
+- You cannot use the On-Screen keyboard to type Alt codes, as it does not recognize more than on keypress at a time. If you need to enter special characters, open the Character Map by searching for "character map" in the Start menu.
+

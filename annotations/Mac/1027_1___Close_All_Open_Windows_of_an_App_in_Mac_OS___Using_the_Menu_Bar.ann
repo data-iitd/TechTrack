@@ -1,0 +1,14 @@
+T1	Software-OS-Related 533 541	app icon
+A1	isOpened T1 f->t
+T2	Software-OS-Related 549 553	Dock
+T3	Software-OS-Related 823 834	File button
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1381 1390	Close All
+A3	isSettingsChanged T4 true
+R1	SubPart Arg1:T1 Arg2:T2	
+T5	Software-OS-Related 842 850	menu bar
+R2	SubPart Arg1:T3 Arg2:T5	
+T6	Software-OS-Related 183 199	multiple windows
+A4	isOpened T6 f->t
+T7	Hardware-Devices 1047 1055	⌥ Option
+A5	isUsed T7 true

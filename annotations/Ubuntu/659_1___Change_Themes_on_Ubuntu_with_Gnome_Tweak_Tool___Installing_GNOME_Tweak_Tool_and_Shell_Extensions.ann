@@ -1,0 +1,12 @@
+T1	Software-OS-Related 291 299	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 468 505	sudo apt-get install gnome-tweak-tool
+A2	isInstalled T2 f->t
+T3	Software-Other 1112 1176	udo add-apt-repository ppa:webupd8team/gnome3 into the Terminal,
+A4	isOpened T3 f->t
+T4	Software-Other 1474 1493	sudo apt-get update
+A5	isOpened T4 f->t
+T5	Software-Other 1693 1748	sudo apt-get install gnome-shell-extensions-user-themes
+A7	isInstalled T5 f->t
+T6	Software-OS-Related 1965 1972	Restart
+A3	isOpened T6 f->t

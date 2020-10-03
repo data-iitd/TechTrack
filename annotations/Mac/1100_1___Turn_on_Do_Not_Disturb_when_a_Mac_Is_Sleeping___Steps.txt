@@ -1,0 +1,25 @@
+Turn on Do Not Disturb when a Mac Is Sleeping
+https://www.wikihow.com/Turn-on-Do-Not-Disturb-when-a-Mac-Is-Sleeping
+
+0 - Steps
+
+1 - Click the Apple icon.
+Click the Apple icon. It's the Apple logo at the top left corner of the menu bar.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Notifications" icon.
+Click the "Notifications" icon. It looks like a square with a red dot in the corner.
+- If you don't see the Notifications icon, click on ⋮⋮⋮⋮ at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+
+4 - Click Do Not Disturb on the left side of the window.
+Click Do Not Disturb on the left side of the window.
+
+5 - Click the "When the display is sleeping" check box.
+Click the "When the display is sleeping" check box. It's on the right side of the window next to the "Turn on Do Not Disturb" section.
+
+6 - Click the red "x" button.
+Click the red "x" button. Do Not Disturb will turn on whenever your Mac is sleeping!
+

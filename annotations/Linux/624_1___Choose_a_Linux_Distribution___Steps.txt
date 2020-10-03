@@ -1,0 +1,41 @@
+Choose a Linux Distribution
+https://www.wikihow.com/Choose-a-Linux-Distribution
+
+0 - Steps
+
+1 - Think about what you want out of your distro.
+Think about what you want out of your distro. Are you looking for an easy to use distro, paid support, community support, pre-installed codecs, a fast distro or a distro for older hardware? Do you want a distro with a large community, or do you want to join a smaller group?
+- ;
+
+2 - Consider using a tool to help you choose - or take all of these tests, as they all give a different perspective:
+Consider using a tool to help you choose - or take all of these tests, as they all give a different perspective: Zegenie Studios (most thorough, and multilingual) or (:^tuxs.org) (simple). These only give a very rough guide - so get LiveCDs and try the top few recommendations, and see which one recognizes the most of your hardware (especially networking/wireless) and which of those you like using.
+
+3 - Download, burn and use a LiveDistro (i.e.
+Download, burn and use a LiveDistro (i.e. a Live CD, which can run without installing to your hard disk) to test hardware compatibility such as if you can connect to the internet, display your graphics correctly and hear audio.
+
+4 - If you want community support, look for a distribution with active forums or popular on Distrowatch.
+If you want community support, look for a distribution with active forums or popular on Distrowatch. The most popular desktop distros long-term are Ubuntu, Debian, Fedora, OpenSUSE and Mandriva.
+
+5 - Optionally look for an errata page or release notes, and check that there's no conflicts with programs you want to run, or with your hardware.
+Optionally look for an errata page or release notes, and check that there's no conflicts with programs you want to run, or with your hardware. If this is difficult or confusing, just try on Live CD before installing. Important note: just because a distro worked for you doesn't mean the newer version of that distro will also work. Try it out on Live CD before you install.
+
+6 - If you want distros for older hardware two popular ones are Damn Small Linux (hard for new users) and Puppy Linux (which "runs as root" generally considered not good practice for security).
+If you want distros for older hardware two popular ones are Damn Small Linux (hard for new users) and Puppy Linux (which "runs as root" generally considered not good practice for security). Fluxbox is a window manager used by Damn Small Linux and Xfce is a desktop environment used by Xubuntu.
+
+7 - If you want eye candy try a distro with Enlightenment or Compiz (offered by many mainstream distros).
+If you want eye candy try a distro with Enlightenment or Compiz (offered by many mainstream distros). Be aware this will slow your computer down (which may be noticeable, depending on your machine and how you use it) and will increase power consumption.
+
+8 - If you want paid support you can consider Red Hat, Novell SuSE Linux Enterprise or Mandriva.
+If you want paid support you can consider Red Hat, Novell SuSE Linux Enterprise or Mandriva.
+
+9 - Assume that you'll have to try more than one distro before you find one that works and works the way you want.
+Assume that you'll have to try more than one distro before you find one that works and works the way you want. It can take a long time to find that perfect distro that "just works" for you.
+
+10 - When you install to hard disk, partition the hard disk.
+When you install to hard disk, partition the hard disk. Make at least two partitions, plus swap. Keeping the operating system separate makes things much easier if you want to try a different distro, as well as when it's time to upgrade to a newer version. Mandriva has a very easy automated partition manager - once you run this, it will be easier to install any distro using the partitions you have already created.
+
+11 - Keep the old Live CDs, especially for the distro that you install - they can be handy if you have a problem with your hardware, or if you need to reinstall.
+Keep the old Live CDs, especially for the distro that you install - they can be handy if you have a problem with your hardware, or if you need to reinstall.
+- If you want to help others set up Linux, the LiveDistros will come in handy - use them to demonstrate and give people choices, and see what works on their systems.
+- Linux LiveCDs can be especially useful if your computer fails, and you need to rescue your files. Simply boot from the LiveCD, and (if the hard drive is still intact) copy your files to a safe location, such as a flash drive or a network computer.
+

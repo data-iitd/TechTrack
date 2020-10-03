@@ -1,0 +1,27 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - Disabling Startup Programs
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Scroll down and click Windows System.
+Scroll down and click Windows System. It's a folder in the "W" section of the Start menu.
+
+3 - Click Task Manager.
+Click Task Manager. This option is toward the bottom of the Windows System folder.
+
+4 - Click Startup.
+Click Startup. This tab is at the top of the Task Manager window.
+
+5 - Select a program, then click Disable.
+Select a program, then click Disable. This will prevent the program from starting automatically when you turn on your computer. Too many programs attempting to start at once can cause your computer to crash, so doing this may fix related problems.
+
+6 - Disable any non-Windows startup programs.
+Disable any non-Windows startup programs. Any third-party programs such as antivirus utilities, chat rooms, or other apps should be disabled when you're through.
+- Don't disable Windows processes such as the graphics card or Windows Defender.
+
+7 - Try to shut down your computer.
+Try to shut down your computer. If the computer successfully shuts down, the problem was resolved. If not, you'll likely need to bring your computer into your local tech department.
+

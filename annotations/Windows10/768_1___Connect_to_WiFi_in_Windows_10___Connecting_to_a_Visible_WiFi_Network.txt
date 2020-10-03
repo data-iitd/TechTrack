@@ -1,0 +1,52 @@
+Connect to WiFi in Windows 10
+https://www.wikihow.com/Connect-to-WiFi-in-Windows-10
+
+0 - Connecting to a Visible Wi-Fi Network
+
+1 - Turn on the router if you own the network.
+Turn on the router if you own the network. The router acts like a man in the middle, connecting you to the internet. If it's off, then you won't be able to connect to that network.
+- ;
+
+2 - Select the network  icon from the notification area to open the network flyout.
+Select the network  icon from the notification area to open the network flyout. If your device is able to connect to a wireless network through a wireless adapter, then you'll see a signal/broadcast radio wave icon with a star above it.
+- If your device is wireless capable but the icon is missing, then go to "Settings > Personalization > Taskbar > Select which icons appear on the taskbar" and slide the switch next to "Network" to "On".
+- You can also go to "Settings > Network & Internet > Wi-Fi > Show available networks".
+
+3 - Make sure Wi-Fi is turned on.
+Make sure Wi-Fi is turned on. See if the "Wi-Fi" tile is colored at the bottom of the pane.
+
+4 - Click or tap the network name (SSID_service set identifier[1]
+X
+Research source
+
+
+) you want to connect to.
+Click or tap the network name (SSID/service set identifier[1]
+- X
+- Research source
+- 
+- ) you want to connect to.
+
+5 - Decide whether to always connect to the network automatically when it's in range.
+Decide whether to always connect to the network automatically when it's in range. Either check or uncheck the box next to "Connect automatically".
+
+6 - Press the Connect button.
+Press the Connect button.
+
+7 - Either enter the network password.
+Either enter the network password.
+- If the router is WPS enabled, press the button on the router to connect.
+
+8 - Click or tap Next.
+Click or tap Next.
+
+9 - Choose sharing settings.
+Choose sharing settings. You'll be asked "Do you want allow your PC to be discoverable by other PCs and devices on this network". Clicking away will choose the "No" option.
+- If on your home or workplace network, select Yes, otherwise choose No.
+
+10 - Begin using the network.
+Begin using the network. You might have to agree to the network Terms. To do this, open a browser and attempt to access a website. Complete the requirements and begin using the network.
+
+11 - To disconnect, simply open the Wi-Fi pane and select the network you're connected to.
+To disconnect, simply open the Wi-Fi pane and select the network you're connected to. Press Disconnect.
+

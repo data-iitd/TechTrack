@@ -1,0 +1,20 @@
+Install Windows from DOS
+https://www.wikihow.com/Install-Windows-from-DOS
+
+0 - Installing Windows from a floppy disk
+
+1 - Press ↵ Enter at this screen to restart the computer and boot into MS-DOS.
+Press ↵ Enter at this screen to restart the computer and boot into MS-DOS.
+
+2 - Insert the floppy disk for your desired Windows operating system into the computer.
+Insert the floppy disk for your desired Windows operating system into the computer.
+
+3 - Type without quotation marks "a:
+Type without quotation marks "a:" and press ↵ Enterto go into the 'A' drive.
+
+4 - Type without quotation marks "setup".
+Type without quotation marks "setup".
+
+5 - Follow the installation instructions for your operating system.
+Follow the installation instructions for your operating system.
+

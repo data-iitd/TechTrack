@@ -1,0 +1,22 @@
+Adjust, Tilt, and Turn Your Windows Screen
+https://www.wikihow.com/Adjust,-Tilt,-and-Turn-Your-Windows-Screen
+
+0 - 
+
+1 - Open a calibration image.
+Open a calibration image. There are lots of free calibration images available online. A calibration image will help serve as a reference point as you adjust your monitor's settings.
+
+2 - Open your monitor's menu.
+Open your monitor's menu. Most monitors have an onscreen menu that you can use to adjust the color, brightness, and contrast. If you do not have an onscreen monitor, you may have specific buttons for these functions.
+
+3 - Set your color temperature.
+Set your color temperature. Monitor calibration images will usually have blocks of bright color. Use these to find a color temperature that seems natural and allows you to distinctly see all of the shades.
+- 6500K is the standard for monitors, though some calibration images will ask you to turn it up to 9300K. Not all monitors will allow you to set a temperature value.
+
+4 - Set your brightness and contrast.
+Set your brightness and contrast. Use the brightness and contrast controls to adjust how well you can see the dark boxes on the calibration image. You typically want to be able to distinguish the later boxes, but the first few boxes should be indistinguishable. This will ensure that black and dark scenes in movies and games look good.
+
+5 - Adjust the screen position.
+Adjust the screen position. Sometimes the screen won't fit exactly right in the confines of your monitor, and you may notice that your mouse goes off the screen a little, or there may be noticeable black bars around the edge. You can adjust this from your monitor menu.
+- You can shift the screen horizontally and vertically, and you can stretch and squish it. use these controls to make the screen fit your monitor perfectly.
+

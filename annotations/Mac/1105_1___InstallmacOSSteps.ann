@@ -1,0 +1,7 @@
+T1	Software-OS-Related 1581 1614	"Restore from Time Machine Backup
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1731 1753	select Reinstall macOS
+A2	isOpened T2 f->t
+A3	isSettingsChanged T1 true
+T3	Software-OS-Related 1866 1874	Continue
+A4	isOpened T3 f->t

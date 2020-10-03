@@ -1,0 +1,32 @@
+Play DVDs on Your Windows PC for Free
+https://www.wikihow.com/Play-DVDs-on-Your-Windows-PC-for-Free
+
+0 - Installing VLC
+
+1 - Go to the VLC download page.
+Go to the VLC download page. Visit http://www.videolan.org/vlc/ in your browser.
+- ;
+
+2 - Click Download VLC.
+Click Download VLC. This orange button is on the right side of the page. Doing so prompts the latest version of VLC media player to download to your computer.
+- Depending on your browser, you may have to select a download location and/or click Save or Download before the file will actually download.
+
+3 - Double-click the VLC setup file.
+Double-click the VLC setup file. It resembles an orange and white traffic cone. You'll find this in your computer's default "Downloads" folder (e.g., the desktop).
+
+4 - Click Yes when prompted.
+Click Yes when prompted. Doing so opens the VLC setup window.
+
+5 - Select a language and click OK.
+Select a language and click OK. Click the drop-down box to select a language.
+
+6 - Click Next on each page.
+Click Next on each page. This will help install VLC media player with optimal settings.
+
+7 - Click Install.
+Click Install. You'll see it at the bottom of the installation page. Doing so will begin installing VLC media player on your PC.
+- You can view the installation progress by watching the green bar on the pop-up window.
+
+8 - Click Finish when prompted.
+Click Finish when prompted. This will complete the installation and close the installer window. VLC media player is now installed on your PC.
+

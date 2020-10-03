@@ -1,0 +1,6 @@
+T1	Hardware-Other 104 107	key
+T2	Hardware-Devices 919 927	keyboard
+A1	isSetup T2 true
+A2	isPowered T2 start-T
+A3	isUsed T2 true
+A4	isConnected T2 start-T

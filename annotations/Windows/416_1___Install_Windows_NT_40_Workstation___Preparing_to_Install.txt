@@ -1,0 +1,40 @@
+Install Windows NT 4.0 Workstation
+https://www.wikihow.com/Install-Windows-NT-4.0-Workstation
+
+0 - Preparing to Install
+
+1 - Enter the Windows NT 4.0 installation disc.
+Enter the Windows NT 4.0 installation disc.
+- ;
+
+2 - Press ↵ Enter to continue with the installation.
+Press ↵ Enter to continue with the installation.
+
+3 - Press the ⇟ PgDn key until you get to the bottom.
+Press the ⇟ PgDn key until you get to the bottom.
+- Lots of people don't bother to read the Terms and Conditions but it's advisable to read them so you know exactly what you're signing up for.
+
+4 - Press F8 to accept the terms and conditions.
+Press F8 to accept the terms and conditions.
+
+5 - Check to see that the above list matches the specifications of your computer.
+Check to see that the above list matches the specifications of your computer.
+
+6 - Select the partitioning of your hard drive that you want to install Windows NT 4.0 on and press ↵ Enter.
+Select the partitioning of your hard drive that you want to install Windows NT 4.0 on and press ↵ Enter. (The instructions will show you what to do on an unpartitioned hard drive).
+
+7 - Choose the file system you would like to partition your hard drive as.
+Choose the file system you would like to partition your hard drive as. For this tutorial, NTFS was used.
+- In general, NTFS is best if you use files larger than 4GB but cannot be used on floppy disks.
+
+8 - Wait for the process to complete.
+Wait for the process to complete.
+
+9 - Choose where you want the operating system's main files to be stored and press ↵ Enter when that's done.
+Choose where you want the operating system's main files to be stored and press ↵ Enter when that's done.
+- (Often just leaving it where the system recommends in best).
+
+10 - If all goes well you should see this screen.
+If all goes well you should see this screen. When you do press ↵ Enter.
+- Make sure though to boot from your hard drive from the boot menu (sometimes the F12 key) and not the disk (or else it will repeat the installation).
+

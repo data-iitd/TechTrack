@@ -1,0 +1,23 @@
+Print from an Android Phone or Tablet
+https://www.wikihow.com/Print-from-an-Android-Phone-or-Tablet
+
+0 - Printing on your Device
+
+1 - Download and install Cloud Print.
+Download and install Cloud Print. Cloud Print is the printing service by Google that enables you to print using the printer you just registered. On Android 4.4.2 and above, it is pre-installed and is available in the settings option.
+
+2 - Launch Cloud Print.
+Launch Cloud Print. Select your Google account and select OK. Note: This step can be skipped on Android 4.4.x or above.
+
+3 - Select the file you wish to print.
+Select the file you wish to print. This can be a photo from the gallery or a file from Dropbox or Google Drive, Docs, sheets, or a file from your file manager application. Long press on the file and click on the three dots in the upper right corner. Then select Print.
+
+4 - Choose a registered printer.
+Choose a registered printer. From the pop-up menu that appears, select a registered printer.
+
+5 - Select the printing options.
+Select the printing options. You can change if the final print is in color or Black and White, change the paper size, etc. Finally, select "Print".
+
+6 - Finished!
+Finished!
+

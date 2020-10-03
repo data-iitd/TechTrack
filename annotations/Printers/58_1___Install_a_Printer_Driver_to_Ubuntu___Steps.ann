@@ -1,0 +1,14 @@
+T1	Hardware-Devices 169 176	printer
+T2	Hardware-Devices 276 283	printer
+A1	isPowered T2 start-T
+A2	isConnected T2 f->t
+T3	Hardware-Other 324 326	PC
+T4	Software-OS-Related 453 468	System settings
+A3	isOpened T4 f->t
+T5	Software-OS-Related 472 480	Printers
+A4	isOpened T5 f->t
+T6	Software-OS-Related 583 586	Add
+A5	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T5	
+T7	Hardware-Devices 655 662	printer
+T8	Hardware-Devices 745 752	printer

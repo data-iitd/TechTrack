@@ -1,0 +1,29 @@
+Migrate from Windows to Ubuntu
+https://www.wikihow.com/Migrate-from-Windows-to-Ubuntu
+
+0 - Replace software in Ubuntu
+
+1 - Make a list over your most needed and beloved software you use in Windows and categorize them.
+Make a list over your most needed and beloved software you use in Windows and categorize them.
+
+2 - Try to find substitutes for the most vital software in Ubuntu's software center.
+Try to find substitutes for the most vital software in Ubuntu's software center. VLC Media Player is actually available for most Linux distros, just so you know it.
+
+3 - In Ubuntu 10.10, OpenOffice is pre-installed, and can open Word 2003_2007 documents.
+In Ubuntu 10.10, OpenOffice is pre-installed, and can open Word 2003/2007 documents.
+
+4 - To edit pictures, you may want to use Shotwell, which is pre-installed in Ubuntu 10.10.
+To edit pictures, you may want to use Shotwell, which is pre-installed in Ubuntu 10.10. Otherwise, you can use Sumo Paint, the online paint tool available for free. GIMP is also to find in the software center.
+
+5 - If you need to edit audio, you can do it with Audacity.
+If you need to edit audio, you can do it with Audacity. You can download via Ubuntu software center.
+
+6 - When it comes to video editing software, try out Pitivi, which is also pre-installed on Ubuntu 10.10, or download LIVES, kdenlive or Avidemux.
+When it comes to video editing software, try out Pitivi, which is also pre-installed on Ubuntu 10.10, or download LIVES, kdenlive or Avidemux.
+
+7 - If the available video editors fail to satisfy your needs, you could try to download and install a Virtual Machine software, like Virtualbox, and run Windows as guest OS.
+If the available video editors fail to satisfy your needs, you could try to download and install a Virtual Machine software, like Virtualbox, and run Windows as guest OS. To do so you will need a Windows disk image. If you have a Windows installation CD/DVD, you can create a disk image using k3b or Brasero in Ubuntu.
+
+8 - You could also try out Windows emulation software, like Wine.
+You could also try out Windows emulation software, like Wine. Windows emulation programs simply create a virtual "C" drive to run executable programs in. However, this solution does not support professional editing software like Sony Vegas or Cyberlink Powerdirector. Within Wine, your Linux disk is referred to as "Z".
+

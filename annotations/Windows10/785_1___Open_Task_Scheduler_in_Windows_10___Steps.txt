@@ -1,0 +1,35 @@
+Open Task Scheduler in Windows 10
+https://www.wikihow.com/Open-Task-Scheduler-in-Windows-10
+
+0 - Steps
+
+1 - Launch it via the Windows search.
+Launch it via the Windows search.
+- Click the search bar/icon on the taskbar. If it's missing, then click on the Start  button.
+- Type task scheduler.
+- Hit the ↵ Enter key or select the matching result.
+- ;
+
+2 - Run it via the Run dialog window.
+Run it via the Run dialog window.
+- Press the ⊞ Win+R keyboard keys at the same time.
+- Type taskschd.msc.
+- Hit the ↵ Enter key or click OK.
+
+3 - Use the All Apps list in the Start menu.
+Use the All Apps list in the Start menu. The Start menu contains a list of all software installed on your PC. Task Scheduler is hidden under the "Windows Administrative Tools" folder of the list.
+- Click on the Start  button.
+- Open the All apps list from the left of the Start menu (or scroll if you've configured it to show on the tiles page).
+- Click the "Windows Administrative Tools" folder.
+- Choose "Task Scheduler".
+
+4 - Start it from Control Panel.
+Start it from Control Panel. Press ⊞ Win+R together, type control admintools, and hit ↵ Enter. Open "Task Scheduler" from the list of tools.
+
+5 - Use Command Prompt
+Use Command Prompt. To launch Task Scheduler via the Command Prompt, follow these instructions:
+- 
+- Open Command Prompt. One way is to right-click the Start  button and click Command Prompt.
+- Type control schedtasks.
+- Hit ↵ Enter.
+

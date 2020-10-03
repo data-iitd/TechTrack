@@ -1,0 +1,24 @@
+T1	Software-OS-Related 181 186	Start
+A1	isOpened T1 f->t
+T3	Hardware-Devices 259 265	screen
+A3	isPowered T3 start-T
+T4	Software-OS-Related 305 313	Settings
+A4	isOpened T4 f->t
+T7	Software-OS-Related 409 415	System
+A7	isOpened T7 f->t
+T10	Software-OS-Related 501 512	Display tab
+A10	isOpened T10 f->t
+T11	Software-OS-Related 620 637	Multiple displays
+A11	isOpened T11 start-T
+T13	Software-OS-Related 877 898	Extend these displays
+A13	isSettingsChanged T13 true
+T14	Hardware-Devices 994 1005	TV's screen
+T15	Hardware-Devices 1037 1048	PC's screen
+T16	Hardware-Devices 1109 1119	TV display
+T17	Hardware-Other 1164 1169	mouse
+T18	Hardware-Other 1208 1216	computer
+T19	Hardware-Devices 1431 1437	screen
+A17	isUsed T16 true
+T2	Software-OS-Related 467 475	Settings
+R1	SubPart Arg1:T13 Arg2:T10	
+A2	isSetup T14 true

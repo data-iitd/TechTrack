@@ -1,0 +1,9 @@
+T1	Software-Other 235 246	web browser
+T4	Software-Other 552 560	Download
+A1	isOpened T1 f->t
+T2	Software-Other 794 798	Next
+A2	isOpened T2 f->t
+T3	Hardware-Devices 849 857	computer
+T5	Software-OS-Related 1010 1026	Downloads folder
+A3	isOpened T5 f->t
+T6	Software-Other 1123 1128	files

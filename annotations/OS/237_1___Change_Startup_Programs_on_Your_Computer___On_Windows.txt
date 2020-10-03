@@ -1,0 +1,28 @@
+Change Startup Programs on Your Computer
+https://www.wikihow.com/Change-Startup-Programs-on-Your-Computer
+
+0 - On Windows
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+- ;
+
+2 - Type task manager into Start.
+Type task manager into Start. This will search your computer for the Task Manager app.
+
+3 - Click Task Manager.
+Click Task Manager. It's the computer-shaped icon at the top of the Start window. Doing so will open Task Manager.
+- You can also press Ctrl+⇧ Shift+Del to open Task Manager directly.
+- Task Manager may take a few seconds to finish loading.
+
+4 - Click the Startup tab.
+Click the Startup tab. This tab is at the top of the Task Manager window.
+
+5 - Select a program.
+Select a program. Click the name of a program that you want to disable.
+- You can see a program's impact on your computer's startup speed to the right of the program's name (e.g., a high-impact program has "High" to the right of its name).
+
+6 - Click Disable.
+Click Disable. It's in the bottom-right corner of the window. Doing so will prevent the program from turning on the next time that you start your computer.
+- If you want to turn back on a disabled program, you can select it and then click Enable in the bottom-right corner instead.
+

@@ -1,0 +1,50 @@
+T1	Software-OS-Related 156 162	folder
+A1	isOpened T1 f->t
+T2	Software-OS-Related 975 980	start
+A2	isOpened T2 f->t
+T3	Software-OS-Related 985 988	Run
+A3	isOpened T3 f->t
+T4	Software-OS-Related 993 1000	Regedit
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1196 1214	HKEY_LOCAL_MACHINE
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1219 1227	Software
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1232 1241	Microsoft
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1246 1253	Windows
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1258 1273	Current Version
+A9	isOpened T9 f->t
+T10	Software-OS-Related 1278 1281	Run
+A10	isOpened T10 f->t
+T11	Software-OS-Related 1304 1311	MS32DLL
+A11	isOpened T11 f->t
+T12	Software-OS-Related 1354 1371	HKEY_CURRENT_USER
+A12	isOpened T12 f->t
+T13	Software-OS-Related 1376 1384	Software
+A13	isOpened T13 f->t
+T14	Software-OS-Related 1389 1398	Microsoft
+A14	isOpened T14 f->t
+T15	Software-Other 1403 1420	Internet Explorer
+A15	isOpened T15 f->t
+T16	Software-OS-Related 1828 1846	User Configuration
+A16	isOpened T16 f->t
+T17	Software-OS-Related 1851 1875	Administrative Templates
+A17	isOpened T17 f->t
+T18	Software-OS-Related 1880 1886	System
+A18	isOpened T18 f->t
+T19	Software-OS-Related 2107 2109	OK
+A19	isSettingsChanged T19 true
+R1	SubPart Arg1:T19 Arg2:T16	
+T20	Software-OS-Related 2128 2133	start
+A20	isOpened T20 f->t
+T21	Software-OS-Related 2138 2141	Run
+A21	isOpened T21 f->t
+T22	Software-OS-Related 2674 2679	Tools
+A22	isOpened T22 f->t
+T23	Software-OS-Related 2684 2698	Folder Options
+A23	isOpened T23 f->t
+T24	Software-OS-Related 3186 3193	restart
+A24	isSettingsChanged T24 true
+T25	Hardware-Other 3233 3242	hard disk

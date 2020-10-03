@@ -1,0 +1,6 @@
+T1	Software-OS-Related 193 203	search bar
+T2	Software-Other 561 570	Uninstall
+A1	isOpened T2 f->t
+T3	Software-Other 725 734	Uninstall
+A2	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	

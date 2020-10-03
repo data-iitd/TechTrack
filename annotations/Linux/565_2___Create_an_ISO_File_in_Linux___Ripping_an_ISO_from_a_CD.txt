@@ -1,0 +1,26 @@
+Create an ISO File in Linux
+https://www.wikihow.com/Create-an-ISO-File-in-Linux
+
+0 - Ripping an ISO from a CD
+
+1 - Insert the CD-RW that you want to rip.
+Insert the CD-RW that you want to rip. You cannot rip an ISO file from CDs with read/write protection (e.g., audio CDs or movie DVDs).
+
+2 - Open Terminal.
+Open Terminal. Open the Menu, then click Terminal to open it. The Terminal app is how you'll access the command line, which is similar to Command Prompt on Windows or Terminal on Mac.
+- Linux distributions vary in appearance, so you may have to look for the Terminal app inside of a folder in the Menu section.
+- You might also find Terminal on the desktop, or in a toolbar on the top or bottom of the screen.
+
+3 - Enter the "change directory" command.
+Enter the "change directory" command. Type in cd /home/username/, making sure to use your own username for the username section, and press ↵ Enter. This will change your current directory to the home folder.
+- For example, if your username is "teresa", you would type in cd /home/teresa/.
+
+4 - Enter the disk rip command.
+Enter the disk rip command. Type in dd if=/dev/cdrom of=/home/username/iso-name.iso, making sure to replace the "/dev/cdrom" section with with your CD's location and the "iso-name" section with your preferred ISO file name.
+- For example, you would type of=/home/username/pudding.iso to create an ISO file called "pudding" in the home directory.
+- If you have multiple CD drives attached to the computer, your CD drives will be labelled from 0 up (e.g., the first drive will be labelled something like "cd0", the second will be "cd1", and so on).
+
+5 - Press ↵ Enter.
+Press ↵ Enter. As long as your CD's directory is correct, your computer will create an ISO file from the CD's contents and place it in the home directory.
+- You may be prompted to enter your password before the ISO file is created. If so, type in your password and press ↵ Enter.
+

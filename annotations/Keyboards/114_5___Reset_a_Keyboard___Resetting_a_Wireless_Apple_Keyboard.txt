@@ -1,0 +1,30 @@
+Reset a Keyboard
+https://www.wikihow.com/Reset-a-Keyboard
+
+0 - Resetting a Wireless Apple Keyboard
+
+1 - Turn off your keyboard.
+Turn off your keyboard. Press and hold the Power button on the keyboard for at least three seconds.
+
+2 - Open your Mac's Apple menu .
+Open your Mac's Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear.
+
+3 - Click System Preferences.
+Click System Preferences. It's near the top of the drop-down menu.
+
+4 - Click Bluetooth.
+Click Bluetooth. This  icon is in the middle of the System Preferences window.
+- If Bluetooth isn't on, click Turn Bluetooth On on the left side of the window before continuing.
+
+5 - Press and hold your keyboard's Power button.
+Press and hold your keyboard's Power button. Don't release the button when the keyboard powers on.
+
+6 - Select the keyboard.
+Select the keyboard. While still holding down the power button, click the keyboard's name in the Bluetooth menu.
+
+7 - Release the Power button when prompted for a code.
+Release the Power button when prompted for a code. Once your Mac asks you to type in a pairing code, you can release the Power button.
+
+8 - Enter the pairing code.
+Enter the pairing code. Type in your keyboard's code, then press ⏎ Return. This will cause your freshly reset keyboard to pair with your Mac.
+

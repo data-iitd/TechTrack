@@ -1,0 +1,26 @@
+T1	Software-OS-Related 157 167	Start menu
+A1	isOpened T1 f->t
+T2	Hardware-Devices 268 274	screen
+A2	isPowered T2 start-T
+T3	Hardware-Other 295 296	⊞
+T5	Software-OS-Related 347 367	Devices and Printers
+A7	isOpened T5 f->t
+T6	Software-OS-Related 445 457	Start window
+T7	Software-OS-Related 474 487	Control Panel
+T8	Software-OS-Related 565 571	Search
+T9	Software-OS-Related 660 672	Add a device
+T10	Software-OS-Related 736 756	Devices and Printers
+T11	Hardware-Devices 785 793	keyboard
+A14	isPowered T11 f->t
+T12	Hardware-Other 1001 1010	batteries
+T13	Hardware-Other 1201 1208	charger
+T14	Software-OS-Related 1383 1392	Bluetooth
+T17	Hardware-Other 1646 1663	Bluetooth adapter
+T19	Software-OS-Related 1678 1682	Next
+T20	Software-OS-Related 1736 1742	window
+T21	Hardware-Devices 1765 1773	keyboard
+A23	isConnected T21 f->t
+T4	Hardware-Devices 313 332	computer's keyboard
+T22	Hardware-Other 855 868	On/Off switch
+T18	Software-OS-Related 1284 1299	keyboard's name
+T15	Hardware-Other 1565 1583	Windows 7 computer

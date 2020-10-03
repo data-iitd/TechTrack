@@ -1,0 +1,29 @@
+T1	Hardware-Devices 399 405	screen
+T2	Hardware-Other 525 533	computer
+T3	Hardware-Devices 538 548	LCD screen
+A2	isPowered T3 f->t
+T4	Hardware-Devices 808 811	LCD
+T5	Hardware-Other 875 881	object
+T6	Hardware-Other 966 972	marker
+T7	Hardware-Other 982 985	cap
+T8	Hardware-Other 1009 1015	pencil
+T9	Hardware-Other 1027 1033	stylus
+T10	Hardware-Other 1058 1063	brush
+T11	Hardware-Devices 1189 1196	monitor
+T12	Hardware-Other 1249 1255	object
+T13	Hardware-Other 1261 1266	cloth
+T14	Hardware-Devices 1381 1388	monitor
+T15	Hardware-Other 1522 1528	object
+T16	Hardware-Other 1808 1814	object
+T17	Hardware-Devices 2005 2012	monitor
+A6	isPowered T17 t->f
+T18	Hardware-Other 2081 2090	washcloth
+T19	Hardware-Other 2100 2105	water
+T20	Hardware-Other 2247 2256	container
+T21	Hardware-Other 2492 2501	washcloth
+T22	Hardware-Other 2524 2533	washcloth
+T23	Hardware-Other 2556 2559	bag
+T24	Hardware-Devices 2634 2641	monitor
+T25	Hardware-Other 2671 2675	seal
+T26	Hardware-Other 2715 2718	bag
+T27	Hardware-Devices 3181 3188	monitor

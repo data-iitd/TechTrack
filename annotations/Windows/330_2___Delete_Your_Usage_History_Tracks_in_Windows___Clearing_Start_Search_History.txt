@@ -1,0 +1,32 @@
+Delete Your Usage History Tracks in Windows
+https://www.wikihow.com/Delete-Your-Usage-History-Tracks-in-Windows
+
+0 - Clearing Start Search History
+
+1 - Click Cortana's Search box.
+Click Cortana's Search box. It's on the left side of the taskbar, just right of the Windows logo. The Cortana window will pop up.
+- If you don't see this option, right-click the taskbar, select Cortana, and click Show search box before you proceed.
+
+2 - Click .
+Click . It's on the left side of the Cortana window. Doing so will open Cortana's settings in the window.
+
+3 - Click the Permissions & History tab.
+Click the Permissions & History tab. You'll find this option on the left side of the window.
+
+4 - Click Clear my device history.
+Click Clear my device history. It's in the middle of the window. Doing so clears your computer's Cortana search history.
+
+5 - Click Search history settings.
+Click Search history settings. This link is below the "My search history" heading. Clicking this link opens a Bing page with all of your searches listed in chronological order.
+- You must be connected to the Internet in order to view this page.
+
+6 - Click View and delete search history.
+Click View and delete search history. It's a teal button near the top of the Bing page.
+
+7 - Click Clear activity.
+Click Clear activity. This link is on the far-right side of the page.
+- You may first have to sign into your Microsoft account by clicking Sign in in the top-right corner of the page and then entering your email address and password. If so, click the Activity history tab near the top of the window before you proceed.
+
+8 - Click Clear when prompted.
+Click Clear when prompted. Doing so will remove any web results from your Start search history.
+

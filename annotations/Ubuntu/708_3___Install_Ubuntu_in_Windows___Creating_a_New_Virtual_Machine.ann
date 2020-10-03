@@ -1,0 +1,31 @@
+T1	Software-Other 145 155	VirtualBox
+A1	isOpened T1 f->t
+T2	Software-Other 280 283	New
+A2	isOpened T2 f->t
+T3	Software-Other 574 593	Type" drop-down box
+A3	isOpened T3 f->t
+T4	Software-Other 692 698	Linux.
+A4	isSettingsChanged T4 true
+T5	Software-Other 1201 1205	Next
+A5	isOpened T5 f->t
+T6	Software-Other 1571 1575	Next
+A6	isOpened T6 f->t
+T7	Software-Other 1751 1786	Create a virtual hard disk now" box
+A7	isSettingsChanged T7 true
+T8	Software-Other 1797 1803	Create
+A8	isSettingsChanged T8 true
+T9	Software-Other 1814 1818	Next
+A9	isSettingsChanged T9 true
+A10	isOpened T9 f->t
+T10	Software-Other 1957 1963	Create
+A11	isSettingsChanged T10 true
+R1	SubPart Arg1:T4 Arg2:T1	
+T11	Software-Other 1291 1304	amount of RAM
+A12	isSettingsChanged T11 true
+R2	SubPart Arg1:T10 Arg2:T1	
+R3	SubPart Arg1:T11 Arg2:T1	
+T12	Software-Other 802 808	Ubuntu
+A13	isSettingsChanged T12 true
+R4	SubPart Arg1:T12 Arg2:T1	
+R5	SubPart Arg1:T7 Arg2:T1	
+R6	SubPart Arg1:T8 Arg2:T1	

@@ -1,0 +1,24 @@
+Make Windows 10 Start Up Faster
+https://www.wikihow.com/Make-Windows-10-Start-Up-Faster
+
+0 - Enabling Fast Startup
+
+1 - .
+Open the Control Panel. Launch the search feature, type control, and choose "Control Panel" from the search results.
+- ;
+
+2 - Click the "Hardware and Sound" header.
+Click the "Hardware and Sound" header.
+
+3 - Click "Change what the power buttons do".
+Click "Change what the power buttons do". This is below "Power Options".
+
+4 - Unlock the settings.
+Unlock the settings. Click "Change settings that are currently unavailable". This is towards the top of the page.
+
+5 - Check the box  next to "Turn on fast startup (recommended)".
+Check the box  next to "Turn on fast startup (recommended)". This is usually checked by default.
+
+6 - Click Save changes at the bottom.
+Click Save changes at the bottom.
+

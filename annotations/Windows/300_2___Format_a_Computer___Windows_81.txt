@@ -1,0 +1,48 @@
+Format a Computer
+https://www.wikihow.com/Format-a-Computer
+
+0 - Windows 8.1
+
+1 - Back up your data.
+Back up your data. Formatting your PC will erase all of your applications, data, and personal files. If you want to save your data, see How to Back Up a Windows Computer to learn how.
+- If your PC came with Windows 8 instead of Windows 8.1, formatting and resetting will revert you back to that version.[2]
+- X
+- Research source
+- 
+-  Once you reinstall Windows 8, you'll be prompted to upgrade once again to 8.1.
+
+2 - Hold the mouse cursor at the bottom-right corner of the screen.
+Hold the mouse cursor at the bottom-right corner of the screen. This opens the Charms menu.
+
+3 - Click Settings .
+Click Settings . It's the gear icon on the Charms menu.
+
+4 - Click Change PC Settings.
+Click Change PC Settings. It's at the bottom of the menu.[3]
+- X
+- Research source
+
+5 - Click the Update and recovery tab.
+Click the Update and recovery tab. It's near the bottom of the left panel.
+
+6 - Click Recovery.
+Click Recovery. It's in the right panel.
+
+7 - Click Get started under "Remove everything and reinstall Windows.
+Click Get started under "Remove everything and reinstall Windows." It's in the middle of the right panel. Make sure you don't accidentally "Get started" under a different option, as there are several.
+
+8 - Click Next.
+Click Next. This confirms that you want to delete all of your personal files, apps, and settings from this PC.
+
+9 - Select which drive(s) you want to format.
+Select which drive(s) you want to format. If you only want to format the drive on which Windows 8 is installed, select Only the drive where Windows is installed. To format all drives on the computer, select All drives.
+
+10 - Click Fully clean the drive.
+Click Fully clean the drive. This option (the second one) ensures that the drive is completely formatted.
+- If you're planning to keep the PC and aren't worried about people accessing your deleted files, you can click Just remove my files. This won't format the drive, though.
+
+11 - Click Reset to format your PC.
+Click Reset to format your PC. Depending on the size and speed of your hard drive, this part can take a while (anywhere from several minutes to several hours).
+- If you're using a laptop, make sure you plug it into a power source so the formatting is not interrupted.
+- Once the PC is formatted, it will reboot and prompt you to reinstall Windows. Follow the on-screen instructions if you'd like to do so.
+

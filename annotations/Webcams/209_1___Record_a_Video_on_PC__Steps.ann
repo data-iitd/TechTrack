@@ -1,0 +1,27 @@
+T1	Hardware-Devices 100 106	webcam
+A2	isConnected T1 f->t
+T2	Hardware-Other 115 125	Windows PC
+T3	Hardware-Other 180 189	USB cable
+T4	Hardware-Other 310 316	laptop
+T5	Hardware-Other 320 327	monitor
+T6	Software-OS-Related 376 380	menu
+T9	Software-OS-Related 482 492	search bar
+T12	Hardware-Devices 727 733	webcam
+A12	isPowered T12 f->t
+T15	Software-OS-Related 1288 1296	settings
+A18	isOpened T15 t->f
+T17	Software-OS-Related 1480 1490	video icon
+T19	Software-OS-Related 1756 1760	stop
+T20	Software-OS-Related 1500 1509	recording
+R2	SubPart Arg1:T20 Arg2:T17	
+A1	isOpened T6 f->t
+A3	isOpened T9 f->t
+T7	Software-OS-Related 654 664	camera app
+A4	isOpened T7 f->t
+T8	Software-OS-Related 973 994	video recording speed
+R4	SubPart Arg1:T8 Arg2:T7	
+T10	Software-OS-Related 1320 1329	video ico
+A5	isOpened T10 f->t
+T11	Hardware-Devices 1589 1600	video camer
+A6	isUsed T11 true
+*	Equiv T11 T12

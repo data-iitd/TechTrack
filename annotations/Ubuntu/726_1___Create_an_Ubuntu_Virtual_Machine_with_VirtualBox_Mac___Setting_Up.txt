@@ -1,0 +1,47 @@
+Create an Ubuntu Virtual Machine with VirtualBox (Mac)
+https://www.wikihow.com/Create-an-Ubuntu-Virtual-Machine-with-VirtualBox-(Mac)
+
+0 - Setting Up
+
+1 - Select the VirtualBox icon to open the program.
+Select the VirtualBox icon to open the program.
+
+2 - Click the “New” button.
+Click the “New” button.  Select the type as “Linux.”  Type your name and select the Ubuntu (64 bit) option.  Next, click “Continue.”
+
+3 - Select the 512 MB memory size for everyday use.
+Select the 512 MB memory size for everyday use.  If you plan on downloading additional applications within the machine, select 2048 MB.  For large projects, select 4096 MB.  Click “Continue.”
+
+4 - On the next page, select the “Create a virtual hard drive now” radio button.
+On the next page, select the “Create a virtual hard drive now” radio button.  Select “Create.”
+
+5 - Select the “VDI (VirtualBox Disk Image)” option as the hard drive file type.
+Select the “VDI (VirtualBox Disk Image)” option as the hard drive file type.  Click “Continue.”
+
+6 - On the “Storage and physical hard drive” page, leave the option on “Dynamically Allocated” and click “Continue.
+On the “Storage and physical hard drive” page, leave the option on “Dynamically Allocated” and click “Continue.”
+
+7 - To choose the file location and size, type in the name of the new virtual hard drive and keep the 8 GB option.
+To choose the file location and size, type in the name of the new virtual hard drive and keep the 8 GB option.
+
+8 - Select the name of the machine that you just created, and then click the green “Start” arrow.
+Select the name of the machine that you just created, and then click the green “Start” arrow.
+
+9 - On the next page, click the yellow folder icon.
+On the next page, click the yellow folder icon.
+
+10 - Search for the .iso file that you downloaded previously.
+Search for the .iso file that you downloaded previously.  Open the file.
+
+11 - Click on “Install Ubuntu.
+Click on “Install Ubuntu.”
+
+12 - Do not select either of the two options to “Download updates while installing” and “Install this third-party software.
+Do not select either of the two options to “Download updates while installing” and “Install this third-party software.” Click “Continue.”
+
+13 - Make sure “Erase disk and install Ubuntu” is selected.
+Make sure “Erase disk and install Ubuntu” is selected.  Click “Continue.”
+
+14 - Follow instructions to select the region where you live, language preferences, and your username and password.
+Follow instructions to select the region where you live, language preferences, and your username and password.  Finally, select “Log in later.” The computer will now install the Ubuntu Operating System.  This process could take up to 20 minutes, but requires no effort on your part.  When it is done you will have a fully-function Ubuntu Virtual Machine.
+

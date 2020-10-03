@@ -1,0 +1,12 @@
+T1	Hardware-Devices 117 123	iSight
+A3	isConnected T1 f->t
+T2	Hardware-Other 132 135	Mac
+T3	Software-OS-Related 213 219	iMovie
+A4	isOpened T3 f->t
+T4	Software-OS-Related 286 298	video camera
+T5	Software-OS-Related 246 252	iMovie
+A1	isPowered T1 f->t
+A2	isOpened T4 f->t
+R1	SubPart Arg1:T4 Arg2:T5	
+T6	Hardware-Devices 414 420	iSight
+A5	isUsed T6 true

@@ -1,0 +1,37 @@
+Set up an FTP Server in Ubuntu Linux
+https://www.wikihow.com/Set-up-an-FTP-Server-in-Ubuntu-Linux
+
+0 - Installing the FTP Framework
+
+1 - Make sure that Ubuntu is up-to-date.
+Make sure that Ubuntu is up-to-date. Ubuntu versions 17.10 and up have vastly different file paths than previous versions, so you'll need to upgrade to the latest version of Ubuntu if you haven't already done so:[1]
+- X
+- Research source
+- 
+- 
+- Open Terminal
+- Type in sudo apt-get upgrade and press ↵ Enter.
+- Type in your password and press ↵ Enter.
+- Type in y when prompted, then press ↵ Enter.
+- Wait for the upgrades to finish installing, then restart your computer if prompted.
+- ;
+
+2 - Open Terminal.
+Open Terminal. Click the Applications menu ⋮⋮⋮, scroll down, and click the black-and-white Terminal icon to do so.
+- You can also just press Alt+Ctrl+T to open Terminal.
+
+3 - Enter the VSFTPD install command.
+Enter the VSFTPD install command. Type sudo apt-get install vsftpd into Terminal, then press ↵ Enter.
+
+4 - Enter your password.
+Enter your password. Type in the password that you use to log into your computer, then press ↵ Enter.
+
+5 - Wait for VSFTPD to install.
+Wait for VSFTPD to install. This will take anywhere from 5 minutes to 20 minutes depending on your current FTP settings and your Internet connection, so be patient.
+
+6 - Install FileZilla.
+Install FileZilla. This is the program that you'll use to access and upload to your server. To install it:
+- Type in sudo apt-get install filezilla
+- Enter your password again if prompted.
+- Wait for the installation to complete.
+

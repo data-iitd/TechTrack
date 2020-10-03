@@ -1,0 +1,20 @@
+Migrate from Windows to Ubuntu
+https://www.wikihow.com/Migrate-from-Windows-to-Ubuntu
+
+0 - Install Ubuntu on the computer
+
+1 - Start up your computer and enter the boot menu if possible and choose the media to boot the operative system from.
+Start up your computer and enter the boot menu if possible and choose the media to boot the operative system from. If you cannot access the boot menu, follow the steps below. If you are able to choose what unit to boot from, start the installation process.
+
+2 - Start up the machine and enter the BIOS by hitting the button the instruction manual for your motherboard_computer refers to, which is usually F1, F2, F10 or DEL, but it varies with the brand and model.
+Start up the machine and enter the BIOS by hitting the button the instruction manual for your motherboard/computer refers to, which is usually F1, F2, F10 or DEL, but it varies with the brand and model. Make sure your bootable drive (the CD/DVD or USB stick which Linux will boot from) is properly inserted.
+
+3 - Change the boot order and set CD_DVD or USB before your primary hard drive.
+Change the boot order and set CD/DVD or USB before your primary hard drive.
+
+4 - Save and exit the BIOS.
+Save and exit the BIOS. You should manage to do it with the F10 button, but you can access this option via the main menu.
+
+5 - Turn off the computer when you are done with the backup your stuff and turn it back on again to boot Ubuntu and start "wubi", the installation program.
+Turn off the computer when you are done with the backup your stuff and turn it back on again to boot Ubuntu and start "wubi", the installation program. The installation for version 10.10 is quite simple and the configuration is done on a visual interface.
+

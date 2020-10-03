@@ -1,0 +1,42 @@
+Install Netbeans on a Linux
+https://www.wikihow.com/Install-Netbeans-on-a-Linux
+
+0 - Installing NetBeans
+
+1 - Download NetBeans.
+Download NetBeans. Get the latest NetBeans IDE installer from this site: https://netbeans.org/features/index.html. Click the “Download” button and the browser will start downloading the installer file to your computer.
+
+2 - Run the NetBeans installer.
+Run the NetBeans installer. Open your Linux computer’s command terminal by pressing CTRL + ALT + T keys on your keyboard. Once the command terminal is up, type in the following command: “chmod +x filename”.
+- The “filename” in the command refers to the name of the NetBeans installer file you downloaded.
+- The NetBeans setup window will then appear.
+- Note: If the installer doesn't appear, it may work if this is typed instead: /home/"username"/Downloads/"filename"
+- Insert your profile name instead of "username" and the NetBeans file instead of "filename".
+
+3 - Start the setup.
+Start the setup. Click “Next” on the Welcome page of the NetBeans setup to begin.
+
+4 - Agree to the License Agreement.
+Agree to the License Agreement. The next page will show the licensing agreement for the NetBeans application. Read the agreement, put a checkmark on the Accept section and click “Next” to proceed.
+
+5 - Install JUnit.
+Install JUnit. If you’d like to install the JUnit package with NetBeans, agree with the license agreement and click “Next.” Otherwise, you can simply skip this step and not install the JUnit package.
+
+6 - Choose the installation directory.
+Choose the installation directory. On the next window you’ll be asked where you want to install the NetBeans application. If you wish to set your own, click on “Browse” and navigate to the directory of your choice. If you’d like to use the default location (recommended), then just click on “Next” to continue.
+
+7 - Choose the default JDK to install.
+Choose the default JDK to install. Next, you’ll be asked which JDK you want to install with NetBeans. If you’d like to install a specific JDK package, click the drop-down list and choose which one from the list you’d like to get. Otherwise, if you want to go with the recommended JDK package to install, just hit “Next” again to go to the next step.
+
+8 - Install GlassFish Server Open Source Edition.
+Install GlassFish Server Open Source Edition. If this step appears on your setup process, you can choose either to install it on a specific location on your computer by clicking “Browse” or accepting the default installation directory by clicking “Next”.
+
+9 - Install Apache Tomcat.
+Install Apache Tomcat. If this step appears on your setup process, you can choose either to install it on a specific location on your computer by clicking “Browse” or accepting the default installation directory by clicking “Next”.
+
+10 - View the summary.
+View the summary. On the Summary page of the setup you’ll be able to check that all needed components to be installed are selected and if your computer has enough memory to accommodate the application. Click the “Install” button to begin once you’re done checking the summary page.
+
+11 - Finalize setup.
+Finalize setup. Once the installation process is complete, click the “Finish” button and you’re done installing NetBeans on Linux.
+

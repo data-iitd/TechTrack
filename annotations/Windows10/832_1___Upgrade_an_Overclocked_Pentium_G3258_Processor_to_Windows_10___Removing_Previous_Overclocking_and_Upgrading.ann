@@ -1,0 +1,12 @@
+T1	Software-Other 224 234	Windows 10
+T2	Software-OS-Related 247 256	UEFI_BIOS
+T3	Software-Other 545 555	Windows 10
+T6	Software-OS-Related 1321 1330	UEFI_BIOS
+T7	Software-Other 1473 1483	Windows 10
+A1	isOpened T2 f->t
+A2	isSettingsChanged T2 true
+A3	isInstalled T3 f->t
+T4	Software-OS-Related 821 829	System32
+A4	isOpened T4 f->t
+A5	isSettingsChanged T6 true
+A6	isOpened T6 f->t

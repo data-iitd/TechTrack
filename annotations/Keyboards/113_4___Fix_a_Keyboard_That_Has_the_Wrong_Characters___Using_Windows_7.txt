@@ -1,0 +1,49 @@
+Fix a Keyboard That Has the Wrong Characters
+https://www.wikihow.com/Fix-a-Keyboard-That-Has-the-Wrong-Characters
+
+0 - Using Windows 7
+
+1 - Check the NumLock and Fn+NumLock keys.
+Check the NumLock and Fn+NumLock keys. Many laptops will convert a good chunk of the keyboard into a number pad if NumLock is enabled. Press "NumLock" or press "FN" + "NumLock" keys to make sure that it is disabled. Try typing again to see if your keys are fixed.  If this doesn't fix your problem, you may have the wrong language selected.
+
+2 - Switch between your installed keyboards.
+Switch between your installed keyboards. If you have multiple keyboards installed that you want to switch between, there are a couple of ways that you can do it:
+- Click the icon that resembles a keyboard in the taskbar in the lower-right corner. This can be found next to the System Tray. If you don't see it, right-click the taskbar and select "Toolbars" → "Language bar."
+- Press and hold the Windows button and press the Spacebar to cycle between your installed languages.
+
+3 - Click the Windows Start menu .
+Click the Windows Start menu .  It's the button with the Windows logo.  It's in the lower-right corner by default.
+
+4 - Click Control Panel.
+Click Control Panel.  It's to the left in the Start menu.  This launches the Control Panel. You can use the Control Panel to remove keyboards you don't use or install ones that you need.
+
+5 - Click Change keyboards or other input methods.
+Click Change keyboards or other input methods.  It's below "Clock, Language & Region" in the Control Panel.  It's next to an icon that resembles a clock and a globe.
+
+6 - Click the Keyboards and Languages tab.
+Click the Keyboards and Languages tab. It's at the top of the "Region and Languages" window.  This will open your keyboard options.
+
+7 - Click Change keyboards.
+Click Change keyboards.  It's near the top of the menu. This will open a list of your installed keyboards in a new window.
+
+8 - Click the Add button.
+Click the Add button.. If your preferred input language isn't listed, clicking the "Add" will allow you to browse through all of the available input languages.
+
+9 - Click your preferred language and check your preferred keyboard layout.
+Click your preferred language and check your preferred keyboard layout.  Click your language in the list of languages to display a list of available regions and keyboard layouts.  Click the checkbox next to your preferred keyboard layout.
+
+10 - Click Ok.
+Click Ok.  This adds your preferred language and layout method.
+
+11 - Select the preferred keyboard layout.
+Select the preferred keyboard layout.  Use the drop-down menu below "Default input language" to select your preferred language and keyboard input.[5]
+- X
+- Research source
+- 
+- 
+- Additionally, you can click any languages and keyboard methods you don't use in the "Installed services" list and click Remove to the right to uninstall those languages and keyboard inputs.
+- Click your preferred keyboard input in the list before "Installed Services" and click Move Up until your preferred list is at the top of the list.
+
+12 - Click Apply.
+Click Apply.  This applies your language and keyboard settings.  You can change between your preferred keyboard inputs by clicking the keyboard icon in the system tray at the bottom of the screen (See Step 2.).
+

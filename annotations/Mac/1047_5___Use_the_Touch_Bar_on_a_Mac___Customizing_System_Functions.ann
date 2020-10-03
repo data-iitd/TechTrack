@@ -1,0 +1,8 @@
+T1	Software-OS-Related 155 165	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 264 282	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 314 322	Keyboard
+A3	isOpened T3 f->t
+T4	Software-OS-Related 425 448	Customize Control Strip
+A4	isOpened T4 f->t

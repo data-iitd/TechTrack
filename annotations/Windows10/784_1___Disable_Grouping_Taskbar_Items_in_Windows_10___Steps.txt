@@ -1,0 +1,22 @@
+Disable Grouping Taskbar Items in Windows 10
+https://www.wikihow.com/Disable-Grouping-Taskbar-Items-in-Windows-10
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button and select the settings gear .
+- ;
+
+2 - Navigate to the Personalization category.
+Navigate to the Personalization category.
+
+3 - Select Taskbar from the left pane.
+Select Taskbar from the left pane.
+
+4 - Click the dropdown under "Combine taskbar buttons".
+Click the dropdown under "Combine taskbar buttons". It's towards the bottom, so you might have to scroll down.
+
+5 - Choose Never.
+Choose Never. Selecting this setting will make app icons list their name in the taskbar. They won't combine, and it will take up more space and might cut off the text of other open apps from the taskbar.
+- You can choose to combine when the taskbar is full by selecting When taskbar is full. The option is in the center of the dropdown.
+

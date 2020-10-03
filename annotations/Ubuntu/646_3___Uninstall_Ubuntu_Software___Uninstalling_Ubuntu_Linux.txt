@@ -1,0 +1,50 @@
+Uninstall Ubuntu Software
+https://www.wikihow.com/Uninstall-Ubuntu-Software
+
+0 - Uninstalling Ubuntu Linux
+
+1 - Make sure that you have a Windows CD or USB drive.
+Make sure that you have a Windows CD or USB drive. On a computer that's only running Linux, the easiest way to uninstall Ubuntu is by reformatting your computer using an installation CD.
+- Ubuntu typically isn't installed as the only operating system on a Mac.
+- To create a Windows CD on Ubuntu: insert the CD into your computer, download the ISO from the Windows download site, right-click the ISO, click Write to Disc..., select your disc, and click Create Image.
+
+2 - Insert the CD into the computer.
+Insert the CD into the computer. Make sure that the CD's logo is facing up when you do so.
+- Skip this step if you created a Windows CD in the previous step.
+
+3 - Restart your computer.
+Restart your computer. Click the Settings  gear in the top-right corner of the screen, click Shut Down... at the bottom of the resulting drop-down menu, and click the Restart icon in the pop-up menu.
+
+4 - Boot from the CD.
+Boot from the CD. On most computers, you can press any key on your keyboard to do so.
+- If your computer isn't set to boot from the disc drive, you may have to press a "Boot Options" key during the restart screen, or select your Windows DVD as the boot option from the GRUB menu.
+
+5 - Select a time and language, then click Next.
+Select a time and language, then click Next. You'll use the drop-down menus in the middle of the Windows Setup window to select your preferred language and time zone.
+
+6 - Click Install now.
+Click Install now. It's in the middle of the window.
+
+7 - Enter your Windows 10 product key, then click Next.
+Enter your Windows 10 product key, then click Next. Type your product key into the text field near the bottom of the window.
+- You can also click the I don't have a product key link here if you'd like to enter the product key later. If you do this, you'll need to select a version of Windows before proceeding.
+
+8 - Check the "I accept" box, then click Next.
+Check the "I accept" box, then click Next. Doing so will accept Microsoft's terms of use and take you to the next page.
+
+9 - Click the Custom option.
+Click the Custom option. It's in the middle of the page.
+
+10 - Select the Ubuntu drive.
+Select the Ubuntu drive. Click the hard drive on which Ubuntu Linux is installed.
+
+11 - Delete the Ubuntu drive.
+Delete the Ubuntu drive. Click Delete, then click OK when prompted. This will delete Ubuntu from the drive and reformat the drive for NTFS, which is the file system used by Windows.
+- You may first have to click Drive options below the drive window.
+
+12 - Click Next.
+Click Next. This indicates that you'd like to install Windows on the selected drive.
+
+13 - Follow the on-screen instructions.
+Follow the on-screen instructions. Once Windows finishes installing, you'll be prompted to set up your preferences (e.g., language, date, time, accessibility, and so on). Ubuntu is now gone from your computer.
+

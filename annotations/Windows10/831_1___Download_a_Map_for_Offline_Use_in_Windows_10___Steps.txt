@@ -1,0 +1,32 @@
+Download a Map for Offline Use in Windows 10
+https://www.wikihow.com/Download-a-Map-for-Offline-Use-in-Windows-10
+
+0 - Steps
+
+1 - Open the Start  menu.
+Open the Start  menu. Tap or click on it in the lower-left corner of the screen, or press the Windows key on your keyboard.
+- ;
+
+2 - Click on the Settings gear .
+Click on the Settings gear .
+
+3 - Click on Apps.
+Click on Apps.
+
+4 - Click on Offline maps.
+Click on Offline maps. It's in the left pane of the window.
+
+5 - Click on + next to Download maps.
+Click on + next to Download maps. It's under "Maps" in the right pane of the window.
+
+6 - Click on a continent.
+Click on a continent.
+
+7 - Click on a country.
+Click on a country.
+
+8 - Click on the region (the state, province, or territory) if prompted.
+Click on the region (the state, province, or territory) if prompted. If you want to download the entire map of a larger country, tap or click on All regions.
+- Slide Map updates to the "On" position if you'd like your offline maps to be updated automatically.
+- Your offline maps are available in the Windows 10 Maps app.
+

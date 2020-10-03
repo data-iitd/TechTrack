@@ -1,0 +1,25 @@
+T1	Software-OS-Related 499 504	Start
+A1	isOpened T1 f->t
+T2	Hardware-Other 345 354	USB drive
+T3	Hardware-Other 370 373	DVD
+T4	Hardware-Other 331 341	hard drive
+T5	Hardware-Devices 186 194	computer
+A2	isUsed T5 true
+T6	Software-OS-Related 739 747	settings
+A3	isOpened T6 f->t
+T7	Software-OS-Related 769 786	Update & Security
+A4	isOpened T7 f->t
+T8	Software-OS-Related 905 913	Recovery
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1027 1038	Get Started
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1122 1139	Remove Everything
+A7	isOpened T10 f->t
+T11	Software-OS-Related 1565 1597	Remove files and clean the drive
+A8	isOpened T11 f->t
+T12	Software-OS-Related 1839 1843	Next
+A9	isOpened T12 f->t
+T13	Software-OS-Related 1976 1981	Reset
+A10	isOpened T13 f->t
+A11	isSettingsChanged T13 true
+R1	SubPart Arg1:T13 Arg2:T8	

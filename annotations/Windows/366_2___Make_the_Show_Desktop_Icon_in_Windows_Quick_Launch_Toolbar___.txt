@@ -1,0 +1,23 @@
+Make the Show Desktop Icon in Windows Quick Launch Toolbar
+https://www.wikihow.com/Make-the-Show-Desktop-Icon-in-Windows-Quick-Launch-Toolbar
+
+0 - 
+
+1 - Right-click the shortcut.
+Right-click the shortcut. A drop-down menu will appear.
+- If your mouse doesn't have a right-click button, click the right side of the mouse, or use two fingers to click the mouse.
+- If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad.
+
+2 - Click Properties.
+Click Properties. It's at the bottom of the drop-down menu. This opens the Properties window.
+
+3 - Click Change Icon….
+Click Change Icon…. This option is at the bottom of the window. Doing so opens a pop-up window.
+- If you don't see this option, make sure you're on the correct tab by clicking Shortcut at the top of the window.
+
+4 - Click the "Show Desktop" icon.
+Click the "Show Desktop" icon. It's a blue-and-white rectangle with a pencil on it. Clicking this icon selects it.
+
+5 - Click OK on both open windows.
+Click OK on both open windows. Doing so confirms your icon choice and closes the Properties window. Your "Show Desktop" shortcut should now resemble the shortcut from Windows XP.
+

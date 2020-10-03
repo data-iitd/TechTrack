@@ -1,0 +1,26 @@
+Print from an Android Phone or Tablet
+https://www.wikihow.com/Print-from-an-Android-Phone-or-Tablet
+
+0 - Registering Your Printer
+
+1 - Determine your printer type.
+Determine your printer type. Modern printers are broadly of two types:
+- Classic printers: Printers that do not have the ability to connect to the internet. They may connect to other devices via Wi-Fi, Bluetooth, or a USB connection. They will require a PC or a laptop for the initial setup.
+- Cloud Ready Printers: Printers that can connect to the internet and do not require a PC to setup.
+- ;
+
+2 - Open Google Chrome.
+Open Google Chrome. Sign in to Chrome using your Google Account. Click on the settings button with the three short lines near the top right corner of your browser. Click on settings and scroll down to the bottom. Once there, click on "Advanced Settings".
+
+3 - Find Cloud Printing services under "Advanced Settings".
+Find Cloud Printing services under "Advanced Settings".
+
+4 - Manage your printers.
+Manage your printers. Under the cloud print section in "Advanced Settings", click on manage printers to add or remove printers.
+
+5 - Click Add Printers.
+Click Add Printers. Alternatively, you can visit https://www.google.com/cloudprint/learn/ to add any type of printer you may have.
+
+6 - Finish registration.
+Finish registration.
+

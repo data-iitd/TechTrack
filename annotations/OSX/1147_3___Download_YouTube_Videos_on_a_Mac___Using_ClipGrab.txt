@@ -1,0 +1,36 @@
+Download YouTube Videos on a Mac
+https://www.wikihow.com/Download-YouTube-Videos-on-a-Mac
+
+0 - Using ClipGrab
+
+1 - Go to https:__clipgrab.org and click Free Download.
+Go to https://clipgrab.org and click Free Download. ClipGrab is a free Mac app that lets you save YouTube videos to your computer.[5]
+- X
+- Research source
+- 
+-  ClipGrab is a good alternative to QuickTime because you won't have to sit through the video while it records—you'll just enter the URL and the app does the work.
+
+2 - Open the ClipGrab installer.
+Open the ClipGrab installer. You should be able to click its name at the bottom of your browser. If you don't see it, double-click the installer in your Downloads folder.
+
+3 - Drag the ClipGrab icon to the Applications folder to install.
+Drag the ClipGrab icon to the Applications folder to install.
+
+4 - Open ClipGrab once the installation is finished.
+Open ClipGrab once the installation is finished. It'll be in the Applications folder.
+
+5 - Click the Downloads tab in ClipGrab.
+Click the Downloads tab in ClipGrab. It's near the top of the window.
+
+6 - Copy the address of the YouTube video you want to download.
+Copy the address of the YouTube video you want to download. If you haven't already done so, bring up the video in your favorite web browser now. To copy the URL, click the address bar to highlight it, and then press ⌘ Command+C to copy.
+
+7 - Paste the copied URL into ClipGrab.
+Paste the copied URL into ClipGrab. To do this, click back over to ClipGrab, click the typing area, and then press ⌘ Command+V to paste.
+
+8 - Select MPEG4 from the "Format" menu.
+Select MPEG4 from the "Format" menu. If you have a different video file preference, choose that instead.
+
+9 - Click Grab this clip.
+Click Grab this clip. It's below the URL you pasted into the blank. ClipGrab will download the YouTube video to your computer's default Downloads folder.
+

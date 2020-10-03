@@ -1,0 +1,18 @@
+T1	Software-OS-Related 123 128	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 226 239	File Explorer
+A2	isOpened T2 f->t
+T3	Software-OS-Related 351 358	This PC
+A3	isOpened T3 f->t
+T4	Software-OS-Related 518 526	Computer
+A4	isOpened T4 f->t
+T5	Software-OS-Related 705 724	Map network drive ▼
+A5	isOpened T5 f->t
+T6	Software-OS-Related 767 774	Network
+T7	Software-OS-Related 791 798	toolbar
+T8	Software-OS-Related 980 1004	Disconnect network drive
+A6	isOpened T8 f->t
+T9	Software-OS-Related 1193 1206	network drive
+T10	Software-OS-Related 1294 1296	OK
+A7	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T8	

@@ -1,0 +1,23 @@
+Fix Skype Microphone Problems on Android
+https://www.wikihow.com/Fix-Skype-Microphone-Problems-on-Android
+
+0 - Testing Your Microphone
+
+1 - Open the Skype app.
+Open the Skype app. The Skype app looks like an "S" in a blue icon. Find and tap it on your Apps menu to open the app.
+
+2 - Tap the Search Skype field.
+Tap the Search Skype field. You can find the search field at the top of the Chats page.
+
+3 - Type Echo into the search field.
+Type Echo into the search field. Skype's automated sound test service "Echo" will show up at the top of the search results.
+
+4 - Tap Echo / Sound Test Service in the search results.
+Tap Echo / Sound Test Service in the search results. This will open a chat conversation between you and Echo.
+
+5 - Tap the  button.
+Tap the  button. This icon is in the upper-right corner of your chat conversation. It will start a voice call with Echo.
+
+6 - Follow Echo's instructions to test your microphone.
+Follow Echo's instructions to test your microphone. Echo will guide you through the sound testing process with voice instructions.
+

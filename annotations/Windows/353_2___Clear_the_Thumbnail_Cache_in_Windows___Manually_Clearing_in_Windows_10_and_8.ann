@@ -1,0 +1,10 @@
+T1	Software-OS-Related 156 169	File Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 276 280	View
+A2	isOpened T2 f->t
+T3	Software-OS-Related 450 462	Hidden items
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-OS-Related 899 909	thumbcache
+T5	Software-OS-Related 1478 1489	Recycle Bin
+A4	isOpened T5 f->t

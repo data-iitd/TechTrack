@@ -1,0 +1,24 @@
+Change Your Default Apps in Windows 10
+https://www.wikihow.com/Change-Your-Default-Apps-in-Windows-10
+
+0 - Steps
+
+1 - Open the Settings app
+Open the Settings app. Click the Start  button at the bottom-left and select the settings gear .
+- ;
+
+2 - Click Apps.
+Click Apps. This icon resembles a column of horizontal lines.
+- If you don't have this option, click System instead. You're probably running an older version of Windows 10.
+
+3 - Click Default apps.
+Click Default apps. It's a tab on the left side of the window. Doing so opens a list of your default apps.
+
+4 - Scroll down to an app you want to change, then click it.
+Scroll down to an app you want to change, then click it. You'll see different headings on this page (e.g., "Email", "Maps", "Music player", "Web browser"); the app displayed below a heading is the current default app for that feature. Click the app below a heading to begin.
+- If your selected feature doesn't have an app assigned to it, you'll see a + icon below the heading instead.
+
+5 - Click an app from the drop-down menu.
+Click an app from the drop-down menu. Apps that are compatible with your selected feature will display in a drop-down menu near your selected heading. Clicking the app you want to use will set it as the new default.
+- If you don't see any options outside of the Windows 10 default app, click  Look for an app in the Store to view a list of downloadable apps that work with the selected feature.
+

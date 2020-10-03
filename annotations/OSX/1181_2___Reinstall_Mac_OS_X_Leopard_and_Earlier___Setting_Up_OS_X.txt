@@ -1,0 +1,36 @@
+Reinstall Mac OS X (Leopard and Earlier)
+https://www.wikihow.com/Reinstall-Mac-OS-X-(Leopard-and-Earlier)
+
+0 - Setting Up OS X
+
+1 - Set up the keyboard.
+Set up the keyboard. The first thing you will be asked to do after the computer restarts is to set up the keyboard. Follow the on-screen prompts to detect and setup the keyboard.
+
+2 - Set your region and keyboard layout.
+Set your region and keyboard layout. After the keyboard has been detected, you will be asked to set your region and choose your keyboard layout. If you take the computer traveling often, set the region to your home region.
+
+3 - Choose whether or not you want to transfer data.
+Choose whether or not you want to transfer data. Since you performed a clean installation, there will be no data to import. You will be copying your old backed-up files over later. Choose "Do not transfer my information now" and click Continue.
+
+4 - Enter your Apple ID.
+Enter your Apple ID. If you have an Apple ID, you can use it to log in. This will sync your settings with your other Apple devices. See this guide for details on creating an Apple ID. Entering an Apple ID is optional.
+- You can also choose whether or not you want to register your software with Apple. This can help you if you need to get official support.
+
+5 - Create an administrator account.
+Create an administrator account. The administrator account is the account that has permission to change system settings and install software. If the computer is yours, enter your name in the "Name" field, and a nickname in the "Short Name" field. Oftentimes users will simply use a lowercase version of their name in the "Short Name" field.
+- Your Short Name is used to label your Home directory.
+- It is very difficult to change your Short Name later, so make sure you're happy with it.
+- The administrator account needs a password. You can add a password hint if you'd like as well.
+
+6 - Start using OS X.
+Start using OS X. Once the Setup Assistant has finished, you're ready to begin using your newly-installed operating system. You will need to reinstall any programs you had before, and you can copy back your old backed-up files to your User folders.
+
+7 - Install any available updates.
+Install any available updates. After OS X has finished installing, you'll want to install all the available updates as quickly as possible. these help secure your system and can improve performance. You will need to download the updates from Apple, so your computer will need to be connected to the internet.[3]
+- X
+- Research source
+- 
+- 
+- To get the latest updates, click the Apple menu and select "Software Update...". The tool will check for any available updates and then display them. Select all of the updates you want to install and click Install button. The updates will be downloaded from the Apple servers and then installed. You will need to reboot after installation has finished.
+- Repeat the process. Some updates only become available after other updates have been installed. Keep checking for and installing updates until there are none left.
+

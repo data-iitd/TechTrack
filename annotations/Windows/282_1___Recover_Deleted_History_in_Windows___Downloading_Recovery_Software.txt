@@ -1,0 +1,24 @@
+Recover Deleted History in Windows
+https://www.wikihow.com/Recover-Deleted-History-in-Windows
+
+0 - Downloading Recovery Software
+
+1 - Search for reliable recovery software.
+Search for reliable recovery software. A recommended option is Recuva or Data Recovery Wizard. Once you have downloaded the free software, start the program. In this tutorial, we will walk through using Recuva but most of the software can be navigated in similar ways.[2]
+- X
+- Research source
+
+2 - Click “Next” on the Welcome to the Recuva Wizard page.
+Click “Next” on the Welcome to the Recuva Wizard page. If this page does not appear after you start the software, go to “Options” and then select “Show Wizard at Startup.”
+
+3 - Select the type of files you are trying to recover.
+Select the type of files you are trying to recover. In this case, deleted Internet history. Once you have done so, hit “Next.” This will prompt the File Location Page to appear.
+
+4 - Select the location where you want the software to run its search.
+Select the location where you want the software to run its search. Click “Start” and then wait for the scan to complete. This may take a few moments.
+
+5 - Select “Recover.
+Select “Recover.” Once the scan is complete, you will have the option to recover the files and choose a destination for them on your computer. After you have chosen their location, select “OK.”[3]
+- X
+- Research source
+

@@ -1,0 +1,25 @@
+Fix Microsoft Store Downloading Problems
+https://www.wikihow.com/Fix-Microsoft-Store-Downloading-Problems
+
+0 - 
+
+1 - Close your Microsoft_Windows store app.
+Close your Microsoft/Windows store app.
+
+2 - Hold down the ⊞ Win key and tap R.
+Hold down the ⊞ Win key and tap R. This will open the "Run" app.
+
+3 - Type "wsreset" into Run.
+Type "wsreset" into Run. You can also type this into the Start menu's search bar to access the "Windows Store Reset" program.
+
+4 - Click "OK".
+Click "OK".
+
+5 - Wait for the Command Prompt window to close.
+Wait for the Command Prompt window to close. Once it does so, your store app should open with a clean cache.[3]
+- X
+- Research source
+
+6 - Check your downloads tab.
+Check your downloads tab. If the cache was the issue, your downloads should have resumed!
+

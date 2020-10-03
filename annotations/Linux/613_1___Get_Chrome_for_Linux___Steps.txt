@@ -1,0 +1,22 @@
+Get Chrome for Linux
+https://www.wikihow.com/Get-Chrome-for-Linux
+
+0 - Steps
+
+1 - Visit the Chrome website.
+Visit the Chrome website.
+- ;
+
+2 - Click "Download Chrome.
+Click "Download Chrome."
+
+3 - Select the download package associated with your currently installed version of Linux.
+Select the download package associated with your currently installed version of Linux.
+- Linux users other than Debian/Ubuntu or Fedora/openSUSE? can check for a community distributed version by clicking the supplied link.
+
+4 - Click “Accept and Install”.
+Click “Accept and Install”.
+
+5 - To launch Google Chrome navigate to your System Menu> Applications>Internet>Google Chrome.
+To launch Google Chrome navigate to your System Menu> Applications>Internet>Google Chrome.
+

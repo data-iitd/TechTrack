@@ -1,0 +1,27 @@
+Install a New Operating System on Your Computer
+https://www.wikihow.com/Install-a-New-Operating-System-on-Your-Computer
+
+0 - Determining Which Operating System to Install
+
+1 - Check the system requirements.
+Check the system requirements. If you've decided that you want to install a new operating system, you'll first need to figure out which one you want to use. Operating systems have varying system requirements, so if you have an older computer, make sure that you can handle a newer operating system.
+- Most Windows installations require at least 1 GB of RAM, and at least 15-20 GB of hard disk space. Also, your CPU needs to be powerful enough to run the OS you want to run. Make sure that your computer can accommodate this. If not, you may need to install an older operating system, such as Windows XP.
+- Linux operating systems typically don't require as much space and computing power as Windows operating systems. The requirements vary depending on the distribution you choose (Ubuntu, Fedora, Mint, etc.).
+- ;
+
+2 - Decide whether to purchase or download.
+Decide whether to purchase or download. Windows licenses need to be purchased. Each license comes with a key good for one installation. Most Linux distributions are free to download and install as much as you'd like, though some Enterprise versions are closed and require purchase (Red Hat, SUSE, etc.).
+
+3 - Research your software compatibility.
+Research your software compatibility. Make sure that the operating system you want to install supports the programs that you want to use. If you use Microsoft Office for work, you won't be able to install it on a Linux machine. There are substitute programs available, but the functionality may be limited.
+- Many games that work on Windows will not work on Linux. The number of supported titles is growing, but be aware that if you are an avid gamer your library might not transfer over smoothly.
+
+4 - Obtain your new operating system.
+Obtain your new operating system. If you've purchased a copy of Windows from a store, you should have received an installation disc along with your product code. If you don't have the disc but have a valid code, you can download a copy of the disc online. If you are installing Linux, you can download an ISO of the distribution from the developer's website.
+- An ISO file is a disc image that needs to be burned to a disc or copied to a bootable USB drive
+
+5 - Backup your data.
+Backup your data. When you are installing a new operating system, you are most likely going to be wiping the hard drive in the process. This means that you will lose all of your files on the computer unless you back them up. Always make sure that any important files are copied to a backup location before starting the installation process. Use an external hard drive or burn the data to DVDs.
+- If you are installing the operating system alongside your existing one, you most likely will not have to delete any data. It is still wise to backup important files just in case.
+- You cannot backup programs; they will need to be reinstalled once you have finished installing your new operating system.
+

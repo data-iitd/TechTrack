@@ -1,0 +1,21 @@
+Switch Monitors 1 and 2 on a PC
+https://www.wikihow.com/Switch-Monitors-1-and-2-on-a-PC
+
+0 - Steps
+
+1 - Right-click any blank space on your desktop.
+Right-click any blank space on your desktop.  Right-click any part of your main desktop that doesn't have any apps, programs, or icons.  This will display a menu.
+- ;
+
+2 - Click Display Settings.
+Click Display Settings.  it's towards the bottom of the right-click menu, next to the icon of a monitor.  This will open the display settings.
+
+3 - Click and drag Display 1 to the other side of Display 2.
+Click and drag Display 1 to the other side of Display 2.  At the top of the display settings menu, there is a visual display of your dual-monitor setup, with one display designated "1" and the other labeled "2."  Click and drag the monitor on the right to the left of the second monitor (or vice versa) to switch the order.
+
+4 - Click the checkbox for "Make this my main display".
+Click the checkbox for "Make this my main display".  The checkbox is below the pull-down menu under the "Customize Your Display" heading.
+
+5 - Click Apply.
+Click Apply.  This is the below the checkbox.  This will apply the new display settings and swap the monitors.
+

@@ -1,0 +1,39 @@
+Install Ubuntu Linux
+https://www.wikihow.com/Install-Ubuntu-Linux
+
+0 - Preparing to Install
+
+1 - Make sure that your computer can run Linux.
+Make sure that your computer can run Linux. Your computer must meet the following system requirements:[1]
+- X
+- Research source
+- 
+- 
+- 2 GHz dual core processor
+- 2 gigabytes of RAM (system memory)
+- 25 gigabytes of hard drive space
+- A DVD drive or USB port on your computer
+- ;
+
+2 - Find a blank DVD disc or a flash drive.
+Find a blank DVD disc or a flash drive. To install Ubuntu Linux on your computer, you'll first need to create an installer by placing the Ubuntu ISO file on a disc or flash drive.
+- If you use a DVD, a standard 4.5GB disc will be plenty.
+- If you choose to use a flash drive, make sure it is at least 2GB.
+
+3 - Download the Ubuntu Linux ISO file.
+Download the Ubuntu Linux ISO file. To do so:
+- Go to https://www.ubuntu.com/download/desktop
+- Scroll down and click Download to the right of your preferred version, the latest LTS release is 18.10.
+- Scroll down and click the Not now, take me to the download link.
+- Wait for the download to start or click the download now link.
+
+4 - Burn the ISO file onto a DVD
+Burn the ISO file onto a DVD. You can also use a flash drive, but you'll need to format it for either FAT32 (Windows) or MS-DOS (FAT) (Mac) and then use UNetBootin or Rufus (recommended) to make the flash drive recognizable by your computer's operating system.
+
+5 - Partition your computer's hard drive
+Partition your computer's hard drive. Creating a partition sections off a determined part of your hard drive, allowing that part to function as a separate hard drive. This is what you'll install Linux onto, so your partition will need to be at least five gigabytes in size.
+- The Ubuntu support page recommends at least 25 gigabytes of free space.
+
+6 - Make sure that your installer is inserted.
+Make sure that your installer is inserted. Your DVD or flash drive should be inserted into or attached to your computer. Once you're certain that the installer is connected and you've performed the rest of the steps in this section, you can proceed to installing Ubuntu Linux on your Windows or Mac computer.
+

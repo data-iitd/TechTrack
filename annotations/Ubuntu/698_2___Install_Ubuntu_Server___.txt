@@ -1,0 +1,39 @@
+Install Ubuntu Server
+https://www.wikihow.com/Install-Ubuntu-Server
+
+0 - 
+
+1 - Find your computer's BIOS key.
+Find your computer's BIOS key. Each computer has a specific key that, when pressed repeatedly while the computer is starting up, opens the BIOS menu. This key varies from computer to computer, but you can usually find your computer's specific key by looking up your computer's model and manufacturer followed by "BIOS key".
+- You may also be able to find the BIOS key in your computer's manual.
+- The BIOS key is usually one of the function keys (e.g., F12), the Del key, or the Esc key.
+
+2 - Turn off your computer.
+Turn off your computer. Click Start , click the Power  icon, and click Shut Down.
+- You can only change your computer's boot order from the BIOS, which is a menu that can only be opened during a narrow window of time while your computer starts.
+
+3 - Turn on your computer.
+Turn on your computer. You'll need to proceed to the next step as soon as you press your computer's Power switch.
+
+4 - Begin pressing the BIOS key.
+Begin pressing the BIOS key. As soon as your computer begins to turn back on, begin pressing rapidly the key your computer uses to open the BIOS. You can stop pressing the key once the BIOS page opens.
+- If your computer completes the restart cycle, you'll need to turn it off and try again.
+
+5 - Find the "Boot Order" section.
+Find the "Boot Order" section. Using the left and right arrow keys, scroll through the BIOS tabs until you find a list of boot items.
+- You may have to select Boot Order (or similar) and press ↵ Enter to open the menu.
+- Every computer has a unique BIOS, so check your computer's manual or online documentation if you can't find the "Boot Order" menu.
+
+6 - Select your flash drive's name.
+Select your flash drive's name. Press the "Down" arrow key until you've selected the USB flash drive's name.
+- The flash drive might be named "Removable Disk" or something similar.
+
+7 - Move the flash drive to the top of the list.
+Move the flash drive to the top of the list. In most cases, you'll press the + key until the flash drive's name is at the top.
+- If pressing the + key doesn't work, consult the key legend at the bottom (or side) of the BIOS screen for the correct key.
+
+8 - Save and exit.
+Save and exit. Press the "Save and Exit" key that's listed in the key legend. Doing so will save your changes to the BIOS and then exit the BIOS screen.
+- You may have to confirm your choice by pressing another key before you can proceed.
+- If your computer finishes restarting into Windows, you'll need to restart your computer one more time before continuing.
+

@@ -1,0 +1,43 @@
+Mark Up Image Attachments in macOS Notes
+https://www.wikihow.com/Mark-Up-Image-Attachments-in-macOS-Notes
+
+0 - Steps
+
+1 - Open the Notes app on your Mac.
+Open the Notes app on your Mac. The Notes icon looks like a white-and-yellow, ruled notepad in your Applications folder.
+- ;
+
+2 - Click on a note with an image in it.
+Click on a note with an image in it. The Notes app will show you a list of all your notes on the left-hand side of the app window. Notes with images in them will have an image thumbnail on the list.
+
+3 - Hover over the image in the note.
+Hover over the image in the note. Use your mouse or touchpad to move your cursor on the image. A downward-facing arrow icon will appear in the upper-right corner of the image.
+
+4 - Click the downward-facing arrow icon.
+Click the downward-facing arrow icon. This button appears in the upper-right corner of the image when you hover over it. It will open a drop-down menu.
+
+5 - Click Markup.
+Click Markup. This option is listed next to a toolbox icon at the top of the drop-down menu. It will open your image in Markup editor.
+
+6 - Select the Markup tool you want to use.
+Select the Markup tool you want to use. You will have a handful of options on the toolbar at the top of the image.
+- Click one of the Sketch or Draw icons if you want to use your mouse to draw a line on the image.  They're in the upper-left corner of the Markup window.
+- Click the Shapes icon if you want to add a geometric shape or a straight line. You will be able to select a shape from a drop-down menu.
+- Click the T icon if you want to add a text box. You can use your keyboard to type in text in a text box, and place it anywhere on the image.
+- Click the Sign icon if you want to add your signature on the image. You will be able to use your trackpad to sign your name, or use your camera to scan your signature.
+
+7 - Click the three horizontal lines icon on the toolbar.
+Click the three horizontal lines icon on the toolbar. It's the Shape Style button. This button will allow you to select a border thickness for the Sketch, Draw, and Shapes tools.
+
+8 - Click the empty square icon next to the Shape Style button.
+Click the empty square icon next to the Shape Style button. It's the Border Color button. This button will let you select a color for your Sketch and Draw lines. It will also change the border colors of Shapes.
+
+9 - Click the filled square icon.
+Click the filled square icon. It's the Fill Color button. It will let you select a color to fill up the inside of Shapes.
+
+10 - Click the "A" letter icon.
+Click the "A" letter icon. It's the Text Style button. This button will allow you to customize the text in a text box by changing its font, size, color, style, and alignment.
+
+11 - Tap Done.
+Tap Done. It's in the upper-right corner of the image. It will save your edits and quit the Markup editor.
+

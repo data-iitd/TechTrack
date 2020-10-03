@@ -1,0 +1,17 @@
+T1	Hardware-Devices 142 155	soldering gun
+T2	Hardware-Devices 200 213	soldering gun
+T3	Hardware-Devices 257 263	screen
+A1	isPowered T3 start-F
+T4	Hardware-Devices 481 484	gun
+*	Equiv T2 T4
+T5	Hardware-Devices 506 512	screen
+T6	Hardware-Devices 820 826	screen
+T7	Hardware-Devices 945 948	gun
+T8	Hardware-Devices 1243 1246	gun
+T9	Hardware-Devices 1289 1296	monitor
+T10	Software-Other 1724 1731	MSPaint
+T11	Software-Other 1851 1862	Accessories
+A2	isPowered T1 start-F
+A3	isPowered T4 f->t
+A4	isUsed T7 true
+A5	isUsed T8 true

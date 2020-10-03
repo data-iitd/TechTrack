@@ -1,0 +1,7 @@
+T1	Software-OS-Related 1080 1093	File Explorer
+A1	isOpened T1 f->t
+T2	Software-OS-Related 1984 1991	Restart
+T3	Software-OS-Related 628 645	Advanced settings
+A2	isOpened T3 f->t
+T4	Software-OS-Related 181 186	Start
+A3	isOpened T4 f->t

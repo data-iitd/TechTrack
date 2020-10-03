@@ -1,0 +1,20 @@
+Connect a Laptop to a Monitor
+https://www.wikihow.com/Connect-a-Laptop-to-a-Monitor
+
+0 - Detecting a Display in Windows
+
+1 - Click the Windows Start menu .
+Click the Windows Start menu .  It's the button that has a Windows logo in the taskbar.  By default, it is usually in the lower-left corner of the screen.  This displays the Start menu.
+
+2 - Click the Settings icon .
+Click the Settings icon .  It has an icon that resembles a gear.  It's on the left side of the Windows Start menu.  This opens Windows Settings.
+
+3 - Click System.
+Click System.  It's the first option in the Windows Settings menu.  It's next to an icon that resembles a laptop computer.
+
+4 - Click Display.
+Click Display.  It's the first option in the sidebar menu to the left.  This opens the Display menu.
+
+5 - Scroll down and click Detect.
+Scroll down and click Detect.  It's the grey button below "Multiple Displays" at the bottom of the screen.  This makes Windows detect your displays.
+

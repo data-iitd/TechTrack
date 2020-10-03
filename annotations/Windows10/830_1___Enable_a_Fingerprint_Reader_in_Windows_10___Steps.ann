@@ -1,0 +1,17 @@
+T1	Hardware-Other 151 169	fingerprint reader
+T2	Hardware-Devices 178 186	computer
+T3	Hardware-Devices 380 388	USB port
+T4	Hardware-Devices 346 354	keyboard
+T5	Software-OS-Related 809 814	Start
+A1	isOpened T5 f->t
+T6	Software-OS-Related 876 884	Settings
+A2	isOpened T6 f->t
+T7	Software-OS-Related 916 924	Accounts
+A3	isOpened T7 f->t
+T8	Software-OS-Related 1064 1079	Sign-in options
+A4	isOpened T8 f->t
+T9	Software-OS-Related 1182 1207	Windows Hello Fingerprint
+A5	isOpened T9 f->t
+T10	Software-OS-Related 1280 1286	Set up
+A6	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T7	

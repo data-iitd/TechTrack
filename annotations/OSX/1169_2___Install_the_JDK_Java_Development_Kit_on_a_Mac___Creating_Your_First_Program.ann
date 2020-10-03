@@ -1,0 +1,20 @@
+T1	Software-Other 213 221	NetBeans
+A1	isOpened T1 f->t
+T2	Software-Other 402 406	File
+A2	isOpened T2 f->t
+T3	Software-Other 419 430	New Project
+A3	isOpened T3 f->t
+T4	Software-Other 559 563	Java
+A4	isSettingsChanged T4 true
+T5	Software-Other 583 599	Java Application
+A5	isSettingsChanged T5 true
+T6	Software-Other 759 765	Finish
+A6	isSettingsChanged T6 true
+A7	isOpened T6 f->t
+T7	Software-Other 939 973	// TODO code application goes here
+A8	isSettingsChanged T7 true
+T8	Software-Other 1258 1293	System.out.println("Hello World!");
+A9	isSettingsChanged T8 true
+T9	Software-Other 1345 1356	Run Project
+A10	isSettingsChanged T9 true
+R1	SubPart Arg1:T9 Arg2:T1	

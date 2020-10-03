@@ -1,0 +1,15 @@
+T1	Software-OS-Related 139 147	terminal
+A1	isOpened T1 f->t
+T2	Software-OS-Related 291 337	sudo add-apt-repository ppa:linuxuprising_java
+T3	Software-OS-Related 443 468	Linux Uprising repository
+T4	Software-OS-Related 509 524	sudo apt update
+T5	Software-Other 645 648	JDK
+T6	Software-OS-Related 598 608	repository
+T7	Software-OS-Related 662 702	sudo apt install oracle-java12-installer
+T8	Software-Other 788 791	JDK
+A2	isInstalled T8 f->t
+T9	Software-OS-Related 822 864	sudo apt install oracle-java12-set-default
+T10	Software-Other 962 969	Java 12
+T11	Software-Other 977 997	default Java version
+A3	isSettingsChanged T9 true
+T12	Software-OS-Related 1044 1058	java --version

@@ -1,0 +1,10 @@
+T1	Software-Other 160 171	Cloud Print
+T2	Software-Other 422 433	Cloud Print
+A1	isOpened T2 f->t
+T3	Software-Other 468 482	Google account
+T4	Software-Other 494 496	OK
+T5	Software-Other 574 578	file
+T6	Hardware-Devices 895 902	printer
+T7	Software-Other 1175 1180	Print
+A2	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T2	

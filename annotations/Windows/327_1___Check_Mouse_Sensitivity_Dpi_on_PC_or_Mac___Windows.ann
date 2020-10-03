@@ -1,0 +1,8 @@
+T1	Software-OS-Related 150 160	search bar
+A1	isOpened T1 f->t
+T2	Software-OS-Related 403 428	Mouse & touchpad settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 554 578	Additional mouse options
+A3	isOpened T3 f->t
+T4	Software-OS-Related 685 700	Pointer Options
+A4	isOpened T4 f->t

@@ -1,0 +1,10 @@
+T1	Software-OS-Related 109 114	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 858 866	All Apps
+T3	Software-OS-Related 2350 2365	Personalization
+A2	isOpened T3 f->t
+T4	Software-OS-Related 1927 1928	≡
+T5	Software-OS-Related 2496 2501	Start
+A3	isOpened T5 f->t
+R1	SubPart Arg1:T5 Arg2:T3	
+A4	isSettingsChanged T5 true

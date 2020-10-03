@@ -1,0 +1,9 @@
+T1	Software-Other 168 182	 Google Chrome
+A1	isOpened T1 f->t
+T2	Software-Other 445 455	More tools
+A2	isOpened T2 f->t
+T3	Software-Other 569 589	Clear browsing data…
+A3	isOpened T3 f->t
+T4	Software-Other 1202 1212	CLEAR DATA
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T1	

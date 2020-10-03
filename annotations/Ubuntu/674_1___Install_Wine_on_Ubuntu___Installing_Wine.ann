@@ -1,0 +1,12 @@
+T1	Software-OS-Related 137 152	Software Center
+A1	isOpened T1 f->t
+T2	Software-Other 601 605	wine
+A2	isOpened T2 f->t
+T3	Software-Other 758 765	Install
+A3	isInstalled T3 f->t
+T4	Software-OS-Related 906 914	Terminal
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1171 1179	.winecfg
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1458 1497	Windows emulation configuration options
+A6	isOpened T6 f->t

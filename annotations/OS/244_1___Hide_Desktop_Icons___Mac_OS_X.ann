@@ -1,0 +1,50 @@
+T1	Software-OS-Related 154 157	Mac
+T2	Software-OS-Related 189 196	Windows
+T3	Software-OS-Related 387 394	desktop
+T4	Software-OS-Related 405 411	Finder
+A1	isOpened T4 f->t
+T5	Software-OS-Related 423 434	Preferences
+A2	isOpened T5 f->t
+T6	Software-OS-Related 300 311	hard drives
+T7	Software-OS-Related 313 327	inserted discs
+T8	Software-OS-Related 333 340	servers
+T9	Software-OS-Related 517 524	General
+A3	isOpened T9 f->t
+T11	Software-OS-Related 628 636	Terminal
+A5	isOpened T11 f->t
+A4	isSettingsChanged T6 true
+R1	SubPart Arg1:T6 Arg2:T9	
+A6	isSettingsChanged T7 true
+R2	SubPart Arg1:T7 Arg2:T9	
+A7	isSettingsChanged T8 true
+R3	SubPart Arg1:T8 Arg2:T9	
+T10	Software-OS-Related 767 769	Go
+A8	isOpened T10 f->t
+T12	Software-OS-Related 781 790	Utilities
+A9	isOpened T12 f->t
+T13	Software-OS-Related 837 844	desktop
+T14	Software-OS-Related 942 1009	defaults write com.apple.finder CreateDesktop false; killall Finder
+T16	Software-OS-Related 1026 1031	icons
+T18	Software-OS-Related 1404 1413	Automator
+A11	isOpened T18 f->t
+T19	Software-OS-Related 1423 1435	Applications
+T20	Software-OS-Related 1459 1466	Service
+A12	isOpened T20 f->t
+T21	Software-OS-Related 1511 1517	Finder
+T22	Software-OS-Related 1551 1559	no input
+T23	Software-OS-Related 1587 1602	Run AppleScript
+T27	Software-OS-Related 1812 1835	if toggle = "true" then
+T28	Software-OS-Related 1839 1908	do shell script "defaults write com.apple.finder CreateDesktop false"
+T29	Software-OS-Related 1912 1941	else if toggle = "false" then
+T31	Software-OS-Related 2018 2024	end if
+T32	Software-OS-Related 2028 2035	end try
+T33	Software-OS-Related 2039 2071	do shell script "killall Finder"
+T34	Software-OS-Related 2075 2084	delay 0.5
+T35	Software-OS-Related 2088 2117	activate application "Finder"
+T36	Software-OS-Related 2284 2290	Finder
+T37	Software-OS-Related 2293 2301	Services
+T38	Software-OS-Related 2585 2592	desktop
+T39	Software-Other 2754 2764	Camouflage
+T40	Software-Other 2768 2780	Hide Desktop
+T17	Software-OS-Related 91 103	system icons
+T41	Software-OS-Related 86 90	Hide

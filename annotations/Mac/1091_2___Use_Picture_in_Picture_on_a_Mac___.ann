@@ -1,0 +1,8 @@
+T1	Software-Other 148 159	web browser
+A1	isOpened T1 f->t
+T2	Software-Other 606 630	Enter Picture-in-Picture
+A2	isSettingsChanged T2 true
+T3	Software-Other 1085 1100	new application
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1320 1334	desktop window
+A4	isSettingsChanged T4 true

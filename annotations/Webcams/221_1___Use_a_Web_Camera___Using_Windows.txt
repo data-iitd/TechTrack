@@ -1,0 +1,30 @@
+Use a Web Camera
+https://www.wikihow.com/Use-a-Web-Camera
+
+0 - Using Windows
+
+1 - Locate your webcam.
+Locate your webcam.  Most computers have a webcam built-in.  It's usually located above the screen in the center.  Look for a pin-hole lens in the center above the screen.
+- If your computer does not have a built-in webcam, you can purchase one and connect it using a free USB port on your computer.
+- ;
+
+2 - Click the Windows Start icon .
+Click the Windows Start icon .  This displays the Windows Start menu.  It's in the lower-left corner in the taskbar.
+
+3 - Type Camera.
+Type Camera.  This displays the Camera app that comes with Windows in the Start menu.
+
+4 - Click Camera.
+Click Camera.  This opens the camera app.  You will see your camera feed displayed on the screen.
+- When your webcam is turned on, you will usually see a green light next to the webcam.
+
+5 - Click one of the camera icons to the right.
+Click one of the camera icons to the right.  The front-facing camera is used to take photos.  The side-facing camera takes videos.  Click the camera icon that corresponds to the mode you want to use.
+
+6 - Click the white button on the right.
+Click the white button on the right.  If you are in photo mode, this takes a still picture.  If you are in video mode, this starts filming a video.
+
+7 - Click the Stop button.
+Click the Stop button.  The stop button is the white button with the red square on the side.  This stops filming.  By default, you can find the images and videos you shoot by opening the Finder and navigating to "Pictures" followed by "Camera Roll".
+- There are many apps you can use your webcam with, including Skype, and Zoom.  You can also do video chats using Messenger apps like Facebook Messenger, Whatsapp, and Viber.  These apps should automatically recognize your webcam.  If not, you can select it in the Settings.
+

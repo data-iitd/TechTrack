@@ -1,0 +1,13 @@
+T1	Software-OS-Related 144 158	word processor
+A1	isOpened T1 f->t
+T2	Software-OS-Related 195 205	Page Setup
+A2	isOpened T2 f->t
+T3	Software-OS-Related 311 321	Paper Size
+A3	isOpened T3 f->t
+T4	Software-OS-Related 614 616	Ok
+A4	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T2	
+T5	Software-OS-Related 794 799	Print
+A5	isOpened T5 f->t
+A6	isSettingsChanged T5 true
+R2	SubPart Arg1:T5 Arg2:T2	

@@ -1,0 +1,40 @@
+Create a Windows Icon
+https://www.wikihow.com/Create-a-Windows-Icon
+
+0 - Creating an Icon in ICO Convert
+
+1 - Open the ICO Convert website.
+Open the ICO Convert website. Go to http://icoconvert.com/ in your computer's web browser.
+- This website allows you to create an icon out of any image file on your computer.
+- ;
+
+2 - Click Choose file.
+Click Choose file. It's a grey button near the top of the page. A File Explorer window will open.
+
+3 - Select a picture.
+Select a picture. Go to the location of the picture you want to use as your Windows icon, then click the picture to select it.
+
+4 - Click Open.
+Click Open. It's in the bottom-right corner of the window. Doing so will prompt the picture to upload to ICO Convert.
+
+5 - Click Upload.
+Click Upload. This option is in the middle of the ICO Convert window. Your picture will appear on the page after a few seconds.
+
+6 - Crop your photo.
+Crop your photo. Click and drag across the area of your photo that you want to use as the icon.
+- The area selected area will always be square.
+- You can move the entire crop selection by clicking and dragging the middle of it, or you can enlarge or shrink the crop selection by clicking and dragging one of its corners.
+
+7 - Scroll down and click Select None.
+Scroll down and click Select . It's a link below the photo. This will prevent the icon from taking on a different shape, which can cause compatibility issues on some computers.
+
+8 - Make sure you're using the ICO format.
+Make sure you're using the ICO format. Scroll down and check the "ICO for Windows 7, Windows 8, Vista and XP" box.
+
+9 - Scroll down and click Convert ICO.
+Scroll down and click Convert ICO. You'll find this option near the bottom of the page.
+
+10 - Click Download your icon(s).
+Click Download your icon(s). Once this option appears at the bottom of the page, clicking it will cause your icon file to download. Once it finishes downloading, you can proceed with applying the icon to a shortcut.
+- It's a good idea to place the icon file in a folder where it won't be deleted or moved (for example, the Pictures folder) before applying it to a shortcut.
+

@@ -1,0 +1,41 @@
+Format a Computer
+https://www.wikihow.com/Format-a-Computer
+
+0 - Windows 10
+
+1 - Back up your data.
+Back up your data. When you format your PC, you will lose all of your applications, data, and personal files. See How to Back Up Your Files in Windows 10 to learn how to create a backup.
+- You can use DVDs, CDs, external hard drives, flash drives, or the cloud, depending on how much data you have to back up.
+- ;
+
+2 - Open your Windows Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');.
+Open your Windows Settings WH.performance.clearMarks('image1_rendered'); WH.performance.mark('image1_rendered');. You'll find this gear icon on the Start menu.
+
+3 - Click Update & Security.
+Click Update & Security. It's the icon of two curved arrows.
+
+4 - Click Recovery.
+Click Recovery. It's in the left panel.
+
+5 - Click the Get started button under "Reset this PC.
+Click the Get started button under "Reset this PC." It's the first button at the top of the right panel.
+
+6 - Click Remove everything.
+Click Remove everything. It's the second option on the blue screen.
+
+7 - Click Remove files and clean the drive.
+Click Remove files and clean the drive. It's the second option. This option is the one you'll need to format the hard drive—the other option simply erases your files and reinstalls the operating system.
+- If you're planning to keep the PC and aren't worried about people accessing your deleted files, you can click Just remove my files. This won't format the drive, though.
+
+8 - Click Next on the Warning screen.
+Click Next on the Warning screen. If you see a message that says the PC was upgraded to Windows 10, it means that reinstalling Windows makes it so you cannot go back to the previous version of Windows.[1]
+- X
+- Research source
+
+9 - Click Reset to format your PC.
+Click Reset to format your PC. Depending on the size and speed of your hard drive, this part can take a while (anywhere from several minutes to several hours).
+- If you're using a laptop, make sure you plug it into a power source so the formatting is not interrupted.
+
+10 - Click Continue when the format is complete.
+Click Continue when the format is complete. Your PC is now formatted. If you'd like to reinstall Windows, follow the on-screen instructions to do so.
+

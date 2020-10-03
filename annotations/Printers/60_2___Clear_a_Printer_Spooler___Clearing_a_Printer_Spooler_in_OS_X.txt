@@ -1,0 +1,50 @@
+Clear a Printer Spooler
+https://www.wikihow.com/Clear-a-Printer-Spooler
+
+0 - Clearing a Printer Spooler in OS X
+
+1 - Open the Apple menu.
+Open the Apple menu. To open the menu, click on the Apple menu icon on your screen. The menu icon is a small picture of a shaded-in apple.[6]
+- X
+- Research source
+
+2 - Click on “System preferences.
+Click on “System preferences.” Look for “System preferences” near the top of the Apple menu.[7]
+- X
+- Research source
+
+3 - Click on “Printers and scanners” in the window that pops up.
+Click on “Printers and scanners” in the window that pops up. It may say “Print and scan” or “Print and fax” instead. If you're having trouble finding it, look for the icon that looks like a printer and click on it.[8]
+- X
+- Research source
+
+4 - Select your printer from the printer list.
+Select your printer from the printer list. The printer list is located on the left side of the “Printers and scanners” window. If you're not sure what your printer is called, check the outside of your printer for a name and model number. Then, find that name and number in the list of printers and click on it so it's highlighted in blue.[9]
+- X
+- Research source
+
+5 - Click the minus button at the bottom of the printer list.
+Click the minus button at the bottom of the printer list. The minus button looks like a minus sign. After you click on it, your selected printer should be deleted from the printer list. This will clear any print jobs that have been sent to the printer.[10]
+- X
+- Research source
+
+6 - Click on the plus button at the bottom of the printer list.
+Click on the plus button at the bottom of the printer list. The plus button looks like a plus sign. After you click on it, a new window that says “Add” at the top should pop up.[11]
+- X
+- Research source
+
+7 - Select your printer from the list of printers in the “Add” window.
+Select your printer from the list of printers in the “Add” window. You may need to scroll through the list of other nearby printers to find yours. Once you find it, click on it so it's highlighted in blue.[12]
+- X
+- Research source
+
+8 - Click the “Add” button in the bottom right corner of the window.
+Click the “Add” button in the bottom right corner of the window. This will add your printer back to the printers list. Close out of the “Add” window after you add your printer back to the list.[13]
+- X
+- Research source
+
+9 - Try printing again.
+Try printing again. Go into the program you're working in and click the “Print” button. Select your printer from the list of options and print your document. It should now print.[14]
+- X
+- Research source
+

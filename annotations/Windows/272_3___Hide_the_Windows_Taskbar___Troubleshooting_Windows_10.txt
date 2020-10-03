@@ -1,0 +1,23 @@
+Hide the Windows Taskbar
+https://www.wikihow.com/Hide-the-Windows-Taskbar
+
+0 - Troubleshooting Windows 10
+
+1 - Press .
+Press .⊞ Win+R and type "powershell" to open PowerShell. If you're using Windows 10 and the taskbar won't stay hidden, you can try using the PowerShell utility to fix it.
+
+2 - Right-click the PowerShell icon in your taskbar and select "Run as administrator."
+Right-click the PowerShell icon in your taskbar and select "Run as administrator." Confirm that you want to proceed. This will open a new "Administrator" PowerShell window.
+
+3 - Copy and paste the following command.
+Copy and paste the following command. Make sure you paste it into the "Administrator" window:
+- Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+
+4 - Run the command.
+Run the command. You may see a few errors as the command runs, which can safely be ignored.
+
+5 - Click or tap the Start menu after the command finishes.
+Click or tap the Start menu after the command finishes. You should notice that the taskbar hides as it should and stays hidden.[4]
+- X
+- Research source
+

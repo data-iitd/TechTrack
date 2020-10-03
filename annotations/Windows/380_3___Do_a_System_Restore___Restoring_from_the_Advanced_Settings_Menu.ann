@@ -1,0 +1,15 @@
+T1	Hardware-Devices 212 220	computer
+A1	isUsed T1 true
+T2	Software-OS-Related 130 147	Advanced Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 791 803	Troubleshoot
+A3	isOpened T3 f->t
+T4	Software-OS-Related 897 905	Advanced
+A4	isOpened T4 f->t
+T5	Software-OS-Related 998 1012	System Restore
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1511 1519	Continue
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1941 1947	Finish
+A7	isSettingsChanged T7 true
+R1	SubPart Arg1:T7 Arg2:T5	

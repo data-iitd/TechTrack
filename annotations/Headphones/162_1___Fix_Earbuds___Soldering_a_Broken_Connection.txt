@@ -1,0 +1,70 @@
+Fix Earbuds
+https://www.wikihow.com/Fix-Earbuds
+
+0 - Soldering a Broken Connection
+
+1 - Pinpoint the source of the issue.
+Pinpoint the source of the issue. Put your earbuds in and listen closely to determine where the sound is cutting out. If only one earbud is dead, it usually means there’s a short in that section of the wiring. If there’s no output whatsoever, the damage may be located around the jack.[6]
+- X
+- Research source
+
+2 - Pry open the plastic housing of a defective earbud.
+Pry open the plastic housing of a defective earbud. To do this, you’ll need to use a small, thin tool, such as a flat blade screwdriver or pocket knife. Wedge the tip of the tool into the groove where the two halves of the housing fit together, then push down and twist sharply to force them apart.[7]
+- X
+- Research source
+- 
+- Unless your earbuds are designed to be opened up, you may need to super glue them back together once you’re done with your repairs.
+
+3 - Inspect the earbuds for faulty wiring.
+Inspect the earbuds for faulty wiring. Inside the earbud, you should see two copper wires, each running to a different terminal around the edges of the circular circuit board. You’re looking for wires that have broken or come loose from their terminals.[8]
+- X
+- Research source
+- 
+- If both wires seem to be in their proper place, the broken connection may be lower down the cord near the jack.
+
+4 - Remove the barrel from the jack if that’s where the issue lies.
+Remove the barrel from the jack if that’s where the issue lies. Sometimes, the loose wire isn’t in one of the earbuds, but in the jack that plugs into your phone, laptop, or car stereo. In this case, you’ll need to remove the protective plastic barrel and peel back the rubber coating in order to expose the wires underneath. With the barrel out of the way, you’ll be able to apply solder freely as needed.[9]
+- X
+- Research source
+- 
+- Some headphone jacks have barrels that screw off. Others can be pulled away using a little bit of force.
+
+5 - Clean away the old solder
+Clean away the old solder inside the earbuds before resoldering them. Lay the end of the desoldering braid flat over the blob of solder where the shorted wire has pulled away from the terminal. Heat the braid with your soldering iron where the two materials meet. The tightly-woven copper will wick up the remnants of the old solder, clearing the way for the new.[11]
+- X
+- Research source
+- 
+- 
+- Desoldering braids (sometimes known as “desoldering wicks”) can be found at any hardware store or home improvement center.
+- Once you’re done removing a blob of solder, cut the end off of the desoldering braid and repeat the process for each of the remaining blobs where the wire has come loose using a fresh section.
+
+6 - Solder the broken wires back to the terminals inside the earbuds.
+Solder the broken wires back to the terminals inside the earbuds. Now that the faulty solder is out of the way, reattach the loose wire to its terminal and press a length of .032-diameter electronics solder into the joint. Heat the solder with your soldering iron to melt it and resecure the wire. Proceed to solder each broken wire.[12]
+- X
+- Research source
+- 
+- 
+- If both wires are broken, you can reconnect them to either of the terminals on the circuit board.
+- It may help to use a table clamp or pair of pliers to hold the cord and earbud together while you’re working.
+
+7 - Reconnect each colored wire to its respective terminal to fix the jack.
+Reconnect each colored wire to its respective terminal to fix the jack. When soldering split wires at the jack, it’s important to first make sure they’re running to the right terminals. On most pairs of earbuds, the copper wire should go to the large central terminal, the red wire to the smaller righthand terminal, and the green wire to the left.[13]
+- X
+- Research source
+- 
+- 
+- Connecting the wires to the wrong terminals could fail to solve the problem.
+- If you had to cut off the jack to uncover the broken wires, purchase a replacement jack and solder the wires to the color-coded terminals as described in the included instructions.[14]
+- X
+- Research source
+- 
+- 
+- On some replacement jacks, you can simply wind the broken wire through the small hole in the terminal a few times rather than soldering it on.[15]
+- X
+- Research source
+
+8 - Test the earbuds to make sure they work.
+Test the earbuds to make sure they work. Plug in your earbuds and play some music to confirm that you’re getting sound out of both sides. Once you’ve repaired the damage to the internal wiring, they should be as good as new. Happy listening!
+- If you’re still not getting any sound, it may be because the solder didn’t hold, or you’ve accidentally run the colored wires to the wrong terminals. You have to try again in order to correct your mistake.
+- It's hard to justify the difficulty and expense of repairing shorts in the middle of the cord. If you suspect that's where the issue lies, you may be better off simply buying a new set of earbuds.
+

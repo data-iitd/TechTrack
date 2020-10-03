@@ -1,0 +1,34 @@
+T1	Hardware-Other 92 97	image
+T2	Hardware-Other 150 159	documents
+T3	Hardware-Devices 177 184	printer
+A1	isPowered T3 start-T
+T4	Hardware-Devices 188 195	scanner
+A3	isPowered T4 start-T
+T5	Hardware-Other 211 216	photo
+*	Equiv T1 T2 T5
+T6	Hardware-Other 269 272	lid
+T7	Hardware-Other 296 300	scan
+T8	Hardware-Other 352 360	computer
+T10	Software-Other 381 401	scanning preferences
+T11	Software-Other 476 481	color
+T14	Software-Other 500 504	gray
+T15	Software-Other 508 514	custom
+R1	SubPart Arg1:T11 Arg2:T10	
+R4	SubPart Arg1:T14 Arg2:T10	
+R5	SubPart Arg1:T15 Arg2:T10	
+T16	Software-Other 632 639	preview
+T17	Software-Other 873 884	Orientation
+T18	Software-Other 939 949	Resolution
+T24	Software-Other 1735 1746	Scan Wizard
+T25	Hardware-Devices 1869 1876	scanner
+T26	Hardware-Other 1884 1892	computer
+T27	Software-Other 1896 1904	web site
+T29	Hardware-Other 2110 2118	computer
+T9	Software-Other 483 498	black and white
+R2	SubPart Arg1:T9 Arg2:T10	
+A2	isSettingsChanged T10 true
+R3	SubPart Arg1:T16 Arg2:T10	
+A4	isSettingsChanged T16 true
+R6	SubPart Arg1:T18 Arg2:T10	
+R7	SubPart Arg1:T17 Arg2:T10	
+A5	isInstalled T24 start-T

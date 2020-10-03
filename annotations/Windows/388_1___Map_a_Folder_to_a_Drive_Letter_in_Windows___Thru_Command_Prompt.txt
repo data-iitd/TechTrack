@@ -1,0 +1,24 @@
+Map a Folder to a Drive Letter in Windows
+https://www.wikihow.com/Map-a-Folder-to-a-Drive-Letter-in-Windows
+
+0 - Thru Command Prompt
+
+1 - Open a command prompt window.
+Open a command prompt window. On Windows Vista or Windows 7, open the command prompt as default user, not as Administrator. The reason will be explained later.
+- ;
+
+2 - Use the SUBST command to map your folder to a drive letter.
+Use the SUBST command to map your folder to a drive letter. For example: SUBST X: "D:\Documents\John\Letters".
+
+3 - To try it, open a windows explorer window.
+To try it, open a windows explorer window. You should see a newly created drive letter X:, with which you can access your mapped folder directly.
+
+4 - To un-map the previously created drive letter, type SUBST X:
+To un-map the previously created drive letter, type SUBST X: /D
+
+5 - Note that when you reboot your computer, all mapped drive letters will be reset.
+Note that when you reboot your computer, all mapped drive letters will be reset. To automatically map your folder when your system starts, put the SUBST command in a batch file, and put the batch file in your Autostart folder in the start menu. Advanced users can use the windows task scheduler, however this is not covered here.
+
+6 - Execute the SUBST command using the account that issued it.
+Execute the SUBST command using the account that issued it. These mappings are only created for the user who originally issued the SUBST command. When you login as "John", and you open a command prompt as "Administrator" and execute the SUBST command, "John" will not be able to see any mapped drive letters because the mapping was created for "Administrator". This is why you need to open the command prompt as a default user in Windows Vista and Windows 7. When using the task scheduler, again make sure that the command is executed under the default user account.
+

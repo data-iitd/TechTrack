@@ -1,0 +1,33 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - Scanning with Windows Defender
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Scroll down and click Windows Defender Security Center.
+Scroll down and click Windows Defender Security Center. It's in the "W" section of the Start menu.
+
+3 - Click ☰.
+Click ☰. It's in the top-left corner of the window.
+
+4 - Click Virus & threat protection.
+Click Virus & threat protection. It's in the upper-left section of the Windows Defender window.
+
+5 - Click Advanced scan.
+Click Advanced scan. This link is below the Quick scan button in the middle of the page.
+
+6 - Make sure "Full scan" is checked.
+Make sure "Full scan" is checked. If not, click the circle to the left of "Full scan" at the top of the page.
+
+7 - Click Scan now.
+Click Scan now. It's in the middle of the page. Doing so will begin scanning your computer for disruptive programs.
+
+8 - Wait for the scan to complete.
+Wait for the scan to complete. If anything malicious turns up during the scan, Windows Defender will alert you. You should allow Windows Defender to remove the dangerous items.
+- If this scan doesn't find anything, repeat the scan with "Windows Defender Offline scan" checked instead of "Full scan" checked.
+
+9 - Try to shut down your computer.
+Try to shut down your computer. If the computer successfully shuts down after the scan is complete, the problem was resolved. If not, proceed to the next part.
+

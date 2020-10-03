@@ -1,0 +1,27 @@
+Get Help for Ubuntu
+https://www.wikihow.com/Get-Help-for-Ubuntu
+
+0 - Asking for Help
+
+1 - Determine your problem.
+Determine your problem. Most - if not all - of the support you will get will be from the community. For this reason, you will need to explain your problem in a way the community will understand and hopefully be able to help you on.
+
+2 - Explain your problem in detail.
+Explain your problem in detail. Try and make it as easy as possible for the individual trying to solve your problem. If they ask for more information and you can supply it (for an example, error logs or console output), give it to them. The more detailed your question is, the quicker you will get a response.
+
+3 - Be specific.
+Be specific. Depending on where you are asking your question, being specific can be very important. Although broad questions are good for discussion, this may make it harder for the person to offer help.
+
+4 - Aim to make your question helpful to others as well.
+Aim to make your question helpful to others as well. Keep in mind that others who have the same problem may read what you have posted. Although this step is optional, many people will thank you.
+
+5 - Spell and grammar check your post.
+Spell and grammar check your post. You are aiming to make your question as readable and clear as possible for the best results. There are many online tools you can use to check spelling and grammar like Grammarly and Spell Check Plus.
+
+6 - Declare what you have already tried.
+Declare what you have already tried. If you have attempted to follow a tutorial on how to solve the problem, link it! This will prevent people from giving you a solution that you have already tried and it will give them a better idea of what is going on.
+- If you have run commands in attempt to solve the problem, copy and paste the terminal output into your post. Depending on the question, they might ask you to do this anyway, so this will cut out the middle-man and get you an answer quicker.
+
+7 - Ask for more information if needed.
+Ask for more information if needed. Don't be afraid to ask for more information if the provided solution doesn't work. Depending on the size of your question, it may take several solutions to get an answer that completely solves the problem.
+

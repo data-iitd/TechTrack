@@ -1,0 +1,39 @@
+T1	Software-OS-Related 278 291	Windows Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 509 523	Device Manager
+A2	isOpened T2 f->t
+T3	Software-OS-Related 617 630	Other Devices
+A3	isOpened T3 f->t
+T4	Software-OS-Related 772 786	Unknown device
+A4	isOpened T4 f->t
+T5	Software-OS-Related 979 986	Disable
+A5	isSettingsChanged T5 true
+T6	Software-OS-Related 1142 1156	Unknown device
+A6	isOpened T6 f->t
+T7	Software-OS-Related 1243 1268	Scan for hardware changes
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 1406 1420	Unknown device
+A8	isOpened T8 f->t
+T9	Software-OS-Related 1488 1494	Enable
+A9	isSettingsChanged T9 true
+T10	Software-OS-Related 1638 1652	Unknown device
+A10	isOpened T10 f->t
+T12	Software-OS-Related 1871 1919	Search automatically for updated driver software
+A12	isSettingsChanged T12 true
+T13	Software-OS-Related 2035 2066	Universal Serial Bus controller
+A13	isOpened T13 f->t
+T14	Software-OS-Related 2171 2182	USB port(s)
+A14	isOpened T14 f->t
+T15	Software-OS-Related 2264 2274	Properties
+A15	isOpened T15 f->t
+T16	Software-OS-Related 2384 2404	Power Management tab
+A16	isOpened T16 f->t
+T17	Software-OS-Related 2549 2606	Allow this computer to turn off this device to save power
+A17	isSettingsChanged T17 true
+R1	SubPart Arg1:T17 Arg2:T13	
+R2	SubPart Arg1:T5 Arg2:T3	
+R3	SubPart Arg1:T7 Arg2:T3	
+R4	SubPart Arg1:T9 Arg2:T3	
+T11	Software-OS-Related 1737 1759	Update Software Driver
+A11	isSettingsChanged T11 true
+R5	SubPart Arg1:T11 Arg2:T3	

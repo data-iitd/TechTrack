@@ -1,0 +1,60 @@
+Change Your IP Address (Windows)
+https://www.wikihow.com/Change-Your-IP-Address-(Windows)
+
+0 - Private IP
+
+1 - Open Start .
+Open Start . It's in the bottom-left corner of the screen. If you're trying to change your IP address in order to fix a connection issue, renewing it is an easier process than manually changing the address.
+
+2 - Type command prompt into Start.
+Type command prompt into Start. This will search your computer for the Command Prompt app.
+
+3 - Right-click  Command Prompt.
+Right-click  Command Prompt. It should be at the top of the Start window.
+
+4 - Click Run as administrator.
+Click Run as administrator. This option is at the bottom of the drop-down menu.
+- If you aren't an administrator on your current computer, you won't have this option and thus won't be able to renew your computer's IP address.
+
+5 - Click Yes when prompted.
+Click Yes when prompted. Doing so opens Command Prompt.
+
+6 - Type in ipconfig _release and press ↵ Enter.
+Type in ipconfig /release and press ↵ Enter. This command "forgets" your current IP address.
+
+7 - Type in ipconfig _renew and press ↵ Enter.
+Type in ipconfig /renew and press ↵ Enter. This refreshes your IP address. Doing this in and of itself will likely solve some connection issues, though it won't always change your computer's actual IP address.
+
+8 - Open the Settings app
+Open the Settings app. Click the Start  button and select the Settings  gear.
+
+9 - Select the Network & Internet category.
+Select the Network & Internet category.
+
+10 - Ensure the Status section is selected.
+Ensure the Status section is selected. This is the first tab on the left pane.
+
+11 - Click the "Change connection properties" link.
+Click the "Change connection properties" link.
+
+12 - Click Edit under "IP assignment".
+Click Edit under "IP assignment". Scroll down to access this section.
+
+13 - Switch to a manual IP assignment.
+Switch to a manual IP assignment. Click the dropdown menu from the dialog that appears and choose the "Manual" option.
+
+14 - Toggle on  IPv4.
+Toggle on  IPv4. Several text boxes will appear.
+
+15 - Fill in the text boxes.
+Fill in the text boxes.  Here's what they mean:
+- 
+- IP address - Usually, your device's IP address will be "192.168.1.X" (or a similar set of numbers), wherein "X" is specific to your device. Change the "X" value to a number between 1 and 100. Make sure you don't use the same IP address as another device on your network (e.g., your phone).
+- Subnet prefix length - This depends on your IP address, but will usually be "255.255.255.X".
+- Gateway - This is your router's IP address.
+- Preferred DNS - Your preferred DNS address (for example: "208.67.222.222" for the OpenDNS server, or "8.8.8.8" for Google's server).
+- Alternate DNS - A secondary DNS address (for example: "208.67.220.220" for the OpenDNS server, or "8.8.4.4" for Google's server).
+
+16 - Click Save.
+Click Save. Your new network settings will be saved and applied.
+

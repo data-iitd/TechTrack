@@ -1,0 +1,21 @@
+Activate Text to Speech in Mac OS X
+https://www.wikihow.com/Activate-Text-to-Speech-in-Mac-OS-X
+
+0 - The Shortcut Way
+
+1 - Open System Preferences_Speech_Text to Speech.
+Open System Preferences/Speech/Text to Speech.
+
+2 - Check Speak Selected Text When Key is Pressed.
+Check Speak Selected Text When Key is Pressed.
+- A box will appear.
+
+3 - Press the key-combination that you would like to use.
+Press the key-combination that you would like to use.
+
+4 - Select the text you would like to have read.
+Select the text you would like to have read.
+
+5 - Press the key-combination that you have set.
+Press the key-combination that you have set.
+

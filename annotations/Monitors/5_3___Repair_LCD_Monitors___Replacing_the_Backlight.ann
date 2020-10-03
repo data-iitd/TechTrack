@@ -1,0 +1,27 @@
+T1	Hardware-Other 118 131	power source.
+T2	Hardware-Devices 173 180	monitor
+A1	isPowered T2 start-F
+T3	Hardware-Other 195 202	battery
+T4	Hardware-Other 212 218	laptop
+T5	Hardware-Devices 239 246	monitor
+T6	Hardware-Other 282 294	plastic case
+T7	Hardware-Other 361 366	knife
+T8	Hardware-Other 406 419	display panel
+T9	Hardware-Other 467 476	backlight
+T10	Hardware-Other 507 519	glass lights
+T11	Hardware-Other 546 559	glass display
+T12	Hardware-Other 632 638	covers
+T13	Hardware-Other 738 752	circuit boards
+T14	Hardware-Other 796 809	rubber gloves
+T15	Hardware-Other 1051 1057	lights
+T16	Hardware-Devices 1102 1109	monitor
+T17	Hardware-Other 1125 1135	old lights
+T18	Hardware-Other 1216 1225	backlight
+T19	Hardware-Other 1231 1268	cold cathode fluorescent light (CCFL)
+T20	Hardware-Other 1284 1291	mercury
+T21	Hardware-Devices 1413 1420	monitor
+T22	Hardware-Other 1471 1484	circuit board
+T23	Hardware-Other 1498 1507	backlight
+T24	Hardware-Other 1528 1536	inverter
+T25	Hardware-Other 1598 1601	cap
+T26	Hardware-Devices 1881 1887	screen

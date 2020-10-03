@@ -1,0 +1,24 @@
+Install a Printer Driver to Ubuntu
+https://www.wikihow.com/Install-a-Printer-Driver-to-Ubuntu
+
+0 - Steps
+
+1 - Search on the Internet.
+Search on the Internet. Your printer might need special software. If you don't have to, do the following.
+- ;
+
+2 - Be sure that your printer is connected, either directly with your PC or in your network.
+Be sure that your printer is connected, either directly with your PC or in your network.
+
+3 - Click on System settings >> Printers.
+Click on System settings >> Printers. This will take you to the Add Printer screen.
+
+4 - Click on Add.
+Click on Add.
+
+5 - Click on printer URI and give link for local printer.
+Click on printer URI and give link for local printer.
+
+6 - If it is a network printer, click on Network printer and search for host of your printer in network.
+If it is a network printer, click on Network printer and search for host of your printer in network.
+

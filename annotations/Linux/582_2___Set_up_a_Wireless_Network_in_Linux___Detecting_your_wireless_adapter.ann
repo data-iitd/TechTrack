@@ -1,0 +1,8 @@
+T1	Hardware-Other 146 162	wireless adapter
+T2	Software-OS-Related 662 670	terminal
+T3	Software-OS-Related 644 652	iwconfig
+T4	Software-OS-Related 836 845	sudo lshw
+T5	Software-OS-Related 1206 1216	Linux Mint
+T6	Software-Device-Drivers 1222 1230	MintWifi
+T7	Software-Device-Drivers 1304 1315	ndiswrapper
+T8	Software-Device-Drivers 1325 1339	Windows driver

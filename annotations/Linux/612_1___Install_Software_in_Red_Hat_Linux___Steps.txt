@@ -1,0 +1,31 @@
+Install Software in Red Hat Linux
+https://www.wikihow.com/Install-Software-in-Red-Hat-Linux
+
+0 - Steps
+
+1 - Understand that in Linux, software is bundled in packages which can be downloaded from repositories (repos).
+Understand that in Linux, software is bundled in packages which can be downloaded from repositories (repos). Installation tools are called package managers which automatically resolve dependencies on other software libraries.
+- ;
+
+2 - Now for the command line.
+Now for the command line. Open a root shell/terminal.
+
+3 - Type the root password.
+Type the root password.
+
+4 - To update the package lists type yum check-update
+
+To update the package lists type yum check-update
+
+5 - Type yum install "program name".
+Type yum install "program name".
+
+6 - For example, to install the Dillo web browser, you would type yum install dillo.
+For example, to install the Dillo web browser, you would type yum install dillo.
+
+7 - Confirm by pressing Y.
+Confirm by pressing Y.
+
+8 - You're done!
+You're done!
+

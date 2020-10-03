@@ -1,0 +1,30 @@
+Change the Registered Name on a Windows PC
+https://www.wikihow.com/Change-the-Registered-Name-on-a-Windows-PC
+
+0 - Using Control Panel
+
+1 - Decide on a name change.
+Decide on a name change. If you're simply trying to change the name that displays upon boot-up and on the start screen--not the official registration--then your accuracy doesn't really matter. Be creative!
+- Nicknames, pet names, or other monikers are great ideas if you're looking for a change in scenery, so to speak.
+
+2 - Open Control Panel.
+Open Control Panel. Control Panel allows you to make changes to system processes and apps. The easiest way to find Control Panel is by typing its name into the search bar located in the start menu, then clicking the relevant app as soon as it pops up. [3]
+- X
+- Research source
+- 
+- 
+- On older systems, it is possible to access Control Panel through system settings; on newer systems such as Windows 8 and 10, however, it's easier to simply search "Control Panel" and click on the resulting app.
+- You can also open Run and type in "control panel" to open this folder.
+
+3 - Select "User Accounts".
+Select "User Accounts". Once Control Panel opens, look for and click on a subcategory labeled "User Accounts".
+- Make sure you don't click on the link entitled "Type of account"; this will open a series of settings that can potentially harm your computer or your ownership thereof if handled incorrectly.
+- User Accounts may redirect you to a subfolder with another link entitled "User Accounts"--if so, click this link.
+
+4 - Click "Change your account name".
+Click "Change your account name". Once you've accessed the User Accounts folder, find the link entitled "Change your account name" and click on it. This will bring up the option to type in a new account name. Type in the name of your choosing and click "Change Name" to finalize the process.
+- Note that, while this change does affect the login name above your password entry box, the official registration of your computer and the default username will remain the way it appeared before.
+
+5 - Restart your computer.
+Restart your computer. When you log back in, your computer should display your newly-entered name above the login information section. This will finalize your process.
+

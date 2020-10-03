@@ -1,0 +1,27 @@
+Make a Webcam Into an Infrared Camera
+https://www.wikihow.com/Make-a-Webcam-Into-an-Infrared-Camera
+
+0 - Steps
+
+1 - Get a Webcam.
+Get a Webcam.
+- ;
+
+2 - Open the webcam casing.
+Open the webcam casing.
+
+3 - Unscrew the lens assembly from the camera PCB.
+Unscrew the lens assembly from the camera PCB.
+
+4 - Remove the small piece of glass that appears to reflect red light, on the back of the lens.
+Remove the small piece of glass that appears to reflect red light, on the back of the lens.
+
+5 - Cut two pieces of black photographic negative the same size as the glass you just removed.
+Cut two pieces of black photographic negative the same size as the glass you just removed.
+
+6 - Fit the negative pieces where the glass was.
+Fit the negative pieces where the glass was.
+
+7 - Re-assemble the camera.
+Re-assemble the camera. Be sure to use either daylight or incandescent lighting and the webcam will now see in infrared.  If you leave the negative squares out the only color the camera will pick up is red, black, and white.
+

@@ -1,0 +1,51 @@
+Establish a Secure Connection
+https://www.wikihow.com/Establish-a-Secure-Connection
+
+0 - Using a Different Browser
+
+1 - Open the site in another browser.
+Open the site in another browser. Most likely, Safari won't load a page because it doesn't meet the security standards of macOS 10.10.4 and iOS 8.4. You can use another browser to unlock these sites for Safari so you can access them with the default browser.
+
+2 - Click the lock icon in the address bar.
+Click the lock icon in the address bar. Once the page loads in the other browser, such as Firefox, you'll see a small green lock icon next to the URL address. When you click that, a menu will pop-up.
+
+3 - Click the arrow to expand more information .
+Click the arrow to expand more information . This will bring up more information and options for the site security.[4]
+- X
+- Research source
+
+4 - Click More information.
+Click More information. You'll see this at the bottom of the pop-up menu.
+
+5 - Click View Certificate.
+Click View Certificate. This is on the Security tab, in the top section.
+
+6 - Click the Details tab.
+Click the Details tab. You'll find this near the top of the page with General.
+- You'll see the information you need to allow Safari to connect to this site on this tab.
+
+7 - Open Keychain.
+Open Keychain. You can either press Cmd + Spacebar and search for keychain in Spotlight or you can open the program from Finder > Applications > Utilities.
+
+8 - Click System Roots.
+Click System Roots. You'll see this in the column on the left side of the window under "Keychains."
+
+9 - Find the entry that is blocked by Safari.
+Find the entry that is blocked by Safari. You'll see this certificate information in the "Details" page of the website. It's usually listed as "Issued by…".
+- For example, if Facebook is blocked by Safari, you'll see in the "Details" page of the website "Issued by: DigiCert SHA2 High Assurance CA," which you should find in your Keychain as well.
+
+10 - Double-click the entry.
+Double-click the entry. It'll open in a new window.
+
+11 - Click the arrow next to "Trust" to expand it .
+Click the arrow next to "Trust" to expand it . You'll see a bunch of options load.
+
+12 - Select Use System Defaults next to "When using this certificate.
+Select Use System Defaults next to "When using this certificate." You don't want to use your system's defaults because that'll end up blocking that page from loading.
+
+13 - Select "Always Trust" from the drop-down.
+Select "Always Trust" from the drop-down. This setting allows this page to always load with Safari. You'll see all the other options change as well.
+
+14 - Close all the windows you have open and try the website on Safari.
+Close all the windows you have open and try the website on Safari. If it still doesn't load, continue to the next method.
+

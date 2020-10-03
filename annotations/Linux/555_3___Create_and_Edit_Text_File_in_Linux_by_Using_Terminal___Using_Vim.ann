@@ -1,0 +1,46 @@
+T1	Software-OS-Related 160 175	vi filename.txt
+T2	Software-OS-Related 181 189	Terminal
+T3	Software-OS-Related 619 623	file
+A1	isOpened T3 f->t
+T4	Software-Other 643 653	Vim editor
+T5	Software-Other 270 285	Vim text editor
+T6	Software-OS-Related 474 483	directory
+T7	Software-OS-Related 678 693	Terminal window
+T8	Software-OS-Related 708 709	~
+T9	Software-OS-Related 701 706	tilde
+*	Equiv T9 T8
+T10	Software-OS-Related 779 785	window
+T11	Software-OS-Related 891 897	Insert
+T12	Software-OS-Related 878 886	document
+T13	Software-OS-Related 1053 1068	document's text
+T14	Hardware-Devices 1347 1366	computer's keyboard
+A3	isPowered T14 start-T
+T15	Software-OS-Related 1391 1402	insert mode
+T16	Software-Other 1482 1485	Vim
+T18	Software-OS-Related 1525 1531	cursor
+T19	Software-OS-Related 1560 1566	window
+T20	Software-OS-Related 1580 1582	:w
+T21	Software-OS-Related 1588 1596	Terminal
+T22	Software-OS-Related 1686 1694	document
+T23	Software-OS-Related 1676 1680	save
+T24	Software-OS-Related 1663 1670	command
+T25	Software-OS-Related 1727 1729	:q
+T26	Software-OS-Related 1735 1743	Terminal
+T27	Software-Other 1831 1834	Vim
+A5	isOpened T27 t->f
+T28	Software-OS-Related 1853 1878	Terminal's main interface
+T29	Software-OS-Related 1819 1823	quit
+T30	Software-OS-Related 1885 1894	text file
+T31	Software-OS-Related 1920 1929	directory
+T32	Software-OS-Related 1976 1978	ls
+T33	Software-OS-Related 2073 2076	:wq
+T34	Software-OS-Related 2080 2084	save
+T35	Software-OS-Related 2101 2108	command
+T36	Software-OS-Related 2128 2132	file
+A6	isOpened T36 f->t
+T37	Software-OS-Related 2142 2157	Terminal window
+T38	Software-OS-Related 2250 2265	vi filename.txt
+A2	isInstalled T5 start-T
+A7	isOpened T4 f->t
+T17	Software-Other 1490 1497	Command
+A8	isSettingsChanged T16 true

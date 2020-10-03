@@ -1,0 +1,36 @@
+T1	Software-Other 139 150	web browser
+A1	isOpened T1 f->t
+T6	Software-Other 599 632	https://www.shimovpn.com/download
+A2	isOpened T6 f->t
+T7	Software-Other 760 765	Shimo
+T8	Software-OS-Related 834 850	Downloads folder
+A3	isOpened T8 f->t
+T9	Software-Other 1024 1029	Shimo
+T10	Software-OS-Related 1266 1285	Applications Folder
+A4	isOpened T10 f->t
+T11	Software-OS-Related 1328 1336	menu bar
+T12	Software-Other 1489 1499	Shimo icon
+A5	isOpened T12 f->t
+T13	Software-Other 1559 1570	Preferences
+T14	Software-Other 1620 1628	Accounts
+T15	Software-Other 1851 1867	VPN account type
+T17	Software-Other 2106 2112	Create
+T18	Software-Other 2600 2610	Shimo icon
+R2	SubPart Arg1:T14 Arg2:T13	
+T20	Software-Other 82 87	Shimo
+T21	Software-OS-Related 91 103	macOS Sierra
+A6	isInstalled T6 start-F
+R3	SubPart Arg1:T6 Arg2:T1	
+T2	Software-Other 961 981	Shimo_4.1.2_8433.zip
+A8	isOpened T9 f->t
+A9	isOpened T11 f->t
+A11	isInstalled T2 f->t
+A7	isSettingsChanged T14 true
+A12	isSettingsChanged T15 true
+A13	isSettingsChanged T17 true
+T3	Software-OS-Related 1057 1061	Open
+A14	isOpened T3 f->t
+A10	isOpened T13 f->t
+R1	SubPart Arg1:T15 Arg2:T13	
+T4	Software-Other 2682 2685	VPN
+A15	isSettingsChanged T4 true

@@ -1,0 +1,22 @@
+Stop a Mac's Screen From Dimming when Not Plugged in
+https://www.wikihow.com/Stop-a-Mac%27s-Screen-From-Dimming-when-Not-Plugged-in
+
+0 - Steps
+
+1 - Open the Apple Menu.
+Open the Apple Menu. It appears as an Apple Logo on top-left corner of your screen.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+- If you don't see the System Preferences main menu, click Show All or the button that looks like three rows of small dots near the top of the window.
+
+3 - Click Energy Saver.
+Click Energy Saver. Look for the light bulb on the second row.
+
+4 - Click Battery.
+Click Battery.
+
+5 - Uncheck Slightly dim the display while on battery power.
+Uncheck Slightly dim the display while on battery power. Your Macbook will no longer automatically dim the screen when you unplug it from your power adapter.
+

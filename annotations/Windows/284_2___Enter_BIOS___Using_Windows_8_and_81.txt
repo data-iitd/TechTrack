@@ -1,0 +1,41 @@
+Enter BIOS
+https://www.wikihow.com/Enter-BIOS
+
+0 - Using Windows 8 and 8.1
+
+1 - Open the Charms bar.
+Open the Charms bar. You can do this by holding the mouse cursor at the bottom-right corner of your desktop.
+- Entering the BIOS requires you to restart your PC. Save your work and shut down other programs before you continue with this method.
+
+2 - Click Settings .
+Click Settings . It's the gear icon on the Charms bar.
+
+3 - Click Change PC settings.
+Click Change PC settings. It's at the bottom of the menu.
+
+4 - Click Update & Recovery.
+Click Update & Recovery. It's at the bottom of the left panel.
+- If you're using Windows 8 and haven't updated to 8.1, select General in the left panel instead.
+
+5 - Click Recovery (Windows 8.1 only).
+Click Recovery (Windows 8.1 only). It's in the left panel.[2]
+- X
+- Research source
+
+6 - Click Restart Now.
+Click Restart Now. It's under the "Advanced Setup" header in the right panel.
+
+7 - Click Troubleshoot on the menu.
+Click Troubleshoot on the menu. It's the second option.
+
+8 - Click Advanced options.
+Click Advanced options. It's the last option.
+
+9 - Click UEFI Firmware Settings.
+Click UEFI Firmware Settings. It's the icon of a microchip with a gear on it. A confirmation screen will appear.
+- If you don't see this option, you'll need to use the Using the Setup Key method.
+
+10 - Click Restart.
+Click Restart. This option will restart your PC into the BIOS/UEFI. 
+- Once you're in the BIOS or UEFI, use your mouse to navigate and make menu selections.
+

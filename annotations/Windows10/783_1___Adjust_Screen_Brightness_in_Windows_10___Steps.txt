@@ -1,0 +1,22 @@
+Adjust Screen Brightness in Windows 10
+https://www.wikihow.com/Adjust-Screen-Brightness-in-Windows-10
+
+0 - Steps
+
+1 - Click the Start menu .
+Click the Start menu .  The Windows Start menu is the icon that has the Windows logo in the task bar.  By default, it's in the lower-left corner in the task bar.
+- ;
+
+2 - Click .
+Click .  The Settings menu is the icon that resembles a gear.  It's on the far left side of the Windows Start menu.
+
+3 - Click System.
+Click System.  It's the first item in the Windows Settings menu.  It's next to an icon that resembles a computer.
+
+4 - Click Display.
+Click Display.  It's the first option in the sidebar to the left.  This displays your display settings.
+
+5 - Drag the slider bar to adjust the screen brightness.
+Drag the slider bar to adjust the screen brightness.  The slider bar that says "Change brightness" is at the top of the display settings.  Drag the slider bar to the left to lower the screen brightness.  Drag it to the right to increase the screen brightness.
+- Use a lower screen brightness to conserve power/battery life.
+

@@ -1,0 +1,18 @@
+T1	Software-OS-Related 162 173	Start  menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 185 191	System
+A2	isOpened T2 f->t
+R1	SubPart Arg1:T2 Arg2:T1	
+T3	Software-OS-Related 291 296	Sound
+A3	isOpened T3 f->t
+T4	Software-OS-Related 383 408	Choose your output device
+T5	Software-OS-Related 655 672	Device properties
+A4	isOpened T5 f->t
+T6	Software-OS-Related 866 894	Additional device properties
+A5	isOpened T6 f->t
+T7	Software-OS-Related 1037 1045	Advanced
+T9	Software-OS-Related 1484 1488	Test
+A6	isSettingsChanged T9 true
+T8	Software-OS-Related 1343 1356	new frequency
+A7	isSettingsChanged T8 true
+R2	SubPart Arg1:T8 Arg2:T5	

@@ -1,0 +1,26 @@
+T1	Hardware-Other 203 211	computer
+T2	Software-Device-Drivers 99 114	printer drivers
+T3	Software-OS-Related 423 432	Windows 7
+T4	Software-OS-Related 449 454	Start
+A1	isOpened T4 f->t
+T5	Software-OS-Related 474 487	Control Panel
+A2	isOpened T5 f->t
+T7	Software-OS-Related 729 755	Network and Sharing Center
+A4	isOpened T7 f->t
+T6	Software-OS-Related 767 787	Network and Internet
+A3	isOpened T6 f->t
+T8	Software-OS-Related 892 924	Change advanced sharing settings
+A5	isOpened T8 f->t
+T9	Software-OS-Related 1205 1228	Advanced share settings
+A6	isOpened T9 f->t
+T10	Software-OS-Related 1348 1372	File and printer sharing
+A7	isSettingsChanged T10 true
+R1	SubPart Arg1:T10 Arg2:T7	
+T11	Hardware-Devices 1716 1723	printer
+T12	Software-OS-Related 2147 2154	printer
+A8	isOpened T12 f->t
+T13	Software-OS-Related 2184 2202	Printer properties
+A9	isOpened T13 f->t
+T14	Software-OS-Related 2215 2226	Sharing tab
+A10	isOpened T14 f->t
+T15	Software-OS-Related 2248 2266	Share this printer

@@ -1,0 +1,22 @@
+T1	Software-Other 436 443	AutoCAD
+A1	isOpened T1 f->t
+T2	Software-Other 454 458	File
+A2	isOpened T2 f->t
+T3	Software-Other 469 473	Open
+A3	isOpened T3 f->t
+R1	SubPart Arg1:T3 Arg2:T2	
+T4	Software-Other 543 547	File
+A4	isOpened T4 f->t
+T5	Software-Other 651 656	Print
+A5	isOpened T5 f->t
+R2	SubPart Arg1:T5 Arg2:T4	
+T6	Software-Other 816 830	Printer_Plotte
+T7	Software-Other 727 739	Plot - Model
+A6	isOpened T7 f->t
+T8	Hardware-Other 955 962	printer
+T9	Software-Other 1313 1317	Plot
+A7	isSettingsChanged T9 true
+R3	SubPart Arg1:T6 Arg2:T7	
+T10	Hardware-Other 1480 1487	printer
+T11	Software-Other 1512 1519	AutoCAD
+R4	SubPart Arg1:T9 Arg2:T5	

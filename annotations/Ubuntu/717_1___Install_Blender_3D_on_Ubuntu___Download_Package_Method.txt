@@ -1,0 +1,22 @@
+Install Blender 3D on Ubuntu
+https://www.wikihow.com/Install-Blender-3D-on-Ubuntu
+
+0 - Download Package Method
+
+1 - Navigate to the Blender website.
+Navigate to the Blender website. Then go to the download page. You can do that by clicking on this link. 
+- ;
+
+2 - Download the Linux package.
+Download the Linux package. Scroll down until you see the Linux Download packages. Download the correct package for your operating system. Be sure you download the correct package for your computer architecture system.
+- If you don't know if your Ubuntu installation is 32-bit or 64-bit, open the terminal and type in uname -m. If the response is x86_64, you have a 64-bit kernel; if the response is i686, you have a 32-bit kernel.
+
+3 - Create a new folder inside your Home folder.
+Create a new folder inside your Home folder.  Extract the contents of the tarball into that folder. In the screenshot above, we used the name Programs for this folder.
+
+4 - Make the blender file executable.
+Make the blender file executable. You can do this by right-clicking the blender file and clicking on Properties.  Then select the Permissions tab and select the Allow executing file as program option.
+
+5 - Create a shortcut for Blender.
+Create a shortcut for Blender. Right-click the blender executable and select Make Link. Then drag the new link to your Desktop or anywhere you like.
+

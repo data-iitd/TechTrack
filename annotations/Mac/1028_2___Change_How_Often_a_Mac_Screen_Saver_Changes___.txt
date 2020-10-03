@@ -1,0 +1,23 @@
+Change How Often a Mac Screen Saver Changes
+https://www.wikihow.com/Change-How-Often-a-Mac-Screen-Saver-Changes
+
+0 - 
+
+1 - Click Utilities.
+Click Utilities. Once on the recovery screen, you can open Terminal and disable SIP.
+
+2 - Click Terminal.
+Click Terminal.
+
+3 - Type in csrutil disable.
+Type in csrutil disable.
+
+4 - Press ↵ Enter.
+Press ↵ Enter.
+
+5 - Click on the Apple logo.
+Click on the Apple logo. It's at the top left of the menu bar.
+
+6 - Click Restart.
+Click Restart.
+

@@ -1,0 +1,24 @@
+Find a Users SID on Windows
+https://www.wikihow.com/Find-a-Users-SID-on-Windows
+
+0 - Steps
+
+1 - Press ⊞ Win+X.
+Press ⊞ Win+X. This opens the Windows “power user” menu at the bottom-left corner of the screen.
+- ;
+
+2 - Click Command Prompt (Admin).
+Click Command Prompt (Admin). A confirmation message will appear.
+
+3 - Click Yes.
+Click Yes. Now you'll see a terminal window displaying the command prompt.
+
+4 - Type WMIC useraccount get name,sid.
+Type WMIC useraccount get name,sid. This is the command to display the SIDs of all user accounts on the system.
+- If you know the person's username, use this command instead: wmic useraccount where name="USER" get sid (but replace USER with the username).[1]
+- X
+- Research source
+
+5 - Press ↵ Enter.
+Press ↵ Enter. The SID is the long number that appears after each username.
+

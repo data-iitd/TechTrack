@@ -1,0 +1,63 @@
+Install Headphones
+https://www.wikihow.com/Install-Headphones
+
+0 - 
+
+1 - Download SABnzbd.
+Download SABnzbd. Download SABnzbd for free from sabnzbd.org/. This is a free, open-source newsgroup downloader that will pull files from Usenet posts and download them to your computer. It is designed to be highly automated, so that once it's configured you won't need to interact with it again. SABnzbd will download NZB files, which are the Usenet equivalents of torrents.
+- When properly configured, Headphones will search for new tracks and then push the downloads to SABnzbd. SABnzbd will then download the NZB files to your system and extract the contents.
+- If you'd prefer to use a torrent client instead of a Usenet client, click here.
+- ;
+
+2 - Install SABnzbd.
+Install SABnzbd. The installation process varies depending on your operating system:
+- 
+- Windows - Run the installer file that you downloaded. During the installation process, indicate whether or not you want SABnzbd to start when Windows starts (this is recommended if you want the process to be fully automated). Also indicate that you want to associate NZB file with SABnzbd.
+- Mac - Double-click the DMG file that you downloaded. Drag SABnzbd from the window that appears into your Applications folder. Double-click it in the Applications folder to start it. To add it to your system startup process, open the "System Preferences" menu, select "Accounts", select your account, and then drag SABnzbd into the "Login Items" field.
+- Linux (Ubuntu/Debian) - Open the Terminal and type sudo add-apt-repository ppa:jcfp/ppa. Then type sudo apt-get update to load the new repository into your list of available packages. Type sudo apt-get install sabnzbdplus to install SABnzbd, and then type sabnzbdplus to start it.
+
+3 - Wait for the browser window to load.
+Wait for the browser window to load. When starting SABnzbd for the first time after installation, it may take a little while for the browser to appear. SABnzbd is run through your default web browser, and all configuration is done through the web-style interface.
+
+4 - Run through the initial configuration.
+Run through the initial configuration. After launching for the first time, yo will be prompted to select your preferred language and theme. Select whichever theme you'd like.
+
+5 - Determine your access settings.
+Determine your access settings. You can select if you want SABnzbd accessible by other computers on the network, or just the computer it was installed on. You can also set a password, which is recommended if you plan on remotely accessing the service.
+
+6 - Enter your Usenet service information.
+Enter your Usenet service information. You will need to enter the Usenet server address and port of the service you are subscribed to, your username and password, the number of connections your server allows, and you will need to indicate if it supports SSL (encryption).
+- All of this information will be available on your Usenet service's account page. Click here for instructions on setting up a Usenet account.
+- Click Test Server to check that the information you entered is correct.
+
+7 - Skip the Newzbin and NZBMatrix step.
+Skip the Newzbin and NZBMatrix step. These services are no longer active.
+
+8 - Wait for SABnzbd to restart.
+Wait for SABnzbd to restart. This will occur automatically after you finish the configuration wizard. Bookmark the webpage that opens after a moment, as this will be your SABnzbd configuration page.
+
+9 - Click the "Folders" tab.
+Click the "Folders" tab. You can make adjustments here if you'd like downloaded files to be stored somewhere other than the default locations.
+
+10 - Click the "Configuration" tab and find the "API Key" field.
+Click the "Configuration" tab and find the "API Key" field. Copy and paste this key into a text document for now so that you have easy access to it later, you'll need it to configure Headphones.[1]
+- X
+- Research source
+- 
+- That's it for now with SABnzbd, you can close the browser window and SABnzbd will continue running in the background. Click here to move on to installing and configuring Headphones.
+
+11 - SABnzbd is not able to connect to the Usenet provider.
+SABnzbd is not able to connect to the Usenet provider. This is typically caused by an issue with your Usenet credentials. Make sure that you've entered in the correct provider, authentication information, and retention amount. Also ensure that you have SSL enabled if your provider supports it.
+
+12 - SABnzbd won't start.
+SABnzbd won't start. SABnzbd does not get along well with firewalls, and this is usually what's causing connection problems.
+- Add SABnzbd to your firewall's exceptions list, or "whitelist". Click here for instructions.
+- If you are using Windows 7, download and install this Microsoft optional update.
+- Some antivirus programs will interfere with SABnzbd. Try disabling your antivirus to see if the problem is fixed. If it is, you'll need to add an exception for SABnzbd or try a different antivirus program.
+
+13 - SABnzbd hangs while repairing a file.
+SABnzbd hangs while repairing a file. Occasionally SABnzbd won't be able to repair a file after downloading it. This can cause the process to freeze, holding up the rest of your download queue. You'll need to manually kill the repair process so that SABnzbd can continue downloading.
+- Open your operating system's process manager.
+- Find and kill the "par2" process. This is SABnzbd's repair process.
+- Manually extract the file. Since the repair process has failed, SABnzbd will mark it as "Failed" and move on. You will need to manually extract the file using WinRAR or 7-Zip.
+

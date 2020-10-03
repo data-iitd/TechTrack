@@ -1,0 +1,31 @@
+Fix Windows Shutdown Problems
+https://www.wikihow.com/Fix-Windows-Shutdown-Problems
+
+0 - General Fixes
+
+1 - Make sure you don't have any third-party antivirus programs installed.
+Make sure you don't have any third-party antivirus programs installed. Any antivirus program other than Windows Defender is technically a third-party program. Having any third-party antivirus program running on your computer is likely to keep your computer from shutting down, so uninstall any third-party antivirus programs.
+- ;
+
+2 - Close any open programs.
+Close any open programs. Running programs can interfere with your computer's shutdown process, so exit any open programs and apps.
+- You can close programs that won't close by using Task Manager.
+
+3 - Remove any attached devices.
+Remove any attached devices. USB drives, mice, controllers, SD cards, and anything else you may have plugged into your PC may be preventing your computer from shutting down properly. Eject and remove these items before continuing.
+- Failing to eject attached devices before removing them may cause problems with the drivers or information on the devices later.
+
+4 - Update your computer.
+Update your computer. Your computer's operating system version, outdated drivers, or a combination thereof can easily cause problems when you try to shut down. To update your computer's operating system and drivers:
+- Open Start.
+- Click the Settings gear.
+- Click Update & security.
+- Click Check for updates.
+- Wait for your computer to update.
+
+5 - Disable your PC's wireless connections before shutting down.
+Disable your PC's wireless connections before shutting down. Disconnecting your computer from all wireless networks (including Bluetooth) may fix the shutdown problem; if it does, you're likely encountering a network issue. Placing your computer in Airplane Mode is the easiest way to disconnect your computer:
+- Click the Notification box in the bottom-right corner of the taskbar.
+- Click the Airplane Mode box.
+- If you're on a wired (Ethernet) network, unplug the Ethernet cable from your computer as well.
+

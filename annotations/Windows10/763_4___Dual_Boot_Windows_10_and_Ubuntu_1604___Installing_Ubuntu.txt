@@ -1,0 +1,67 @@
+Dual Boot Windows 10 and Ubuntu 16.04
+https://www.wikihow.com/Dual-Boot-Windows-10-and-Ubuntu-16.04
+
+0 - Installing Ubuntu
+
+1 - Boot from the Ubuntu USB install drive.
+Boot from the Ubuntu USB install drive. Make sure you have set your computer to boot from the USB drive first in the BIOS. Insert the Ubuntu USB install drive and boot up your computer and power it on.
+- It may take a minute for Ubuntu to boot from the USB drive.
+
+2 - Select your language.
+Select your language. Use the drop-down menu on the left side to select your preferred language.
+
+3 - Click Install Ubuntu.
+Click Install Ubuntu. It's on the right side of the screen below the image that resembles a laptop with the Ubuntu logo on the screen. This starts the installation wizard for Ubuntu.
+
+4 - Choose your keyboard layout and click Continue.
+Choose your keyboard layout and click Continue. Use the menu on the left to select your keyboard language. Then use the menu on the right to select your specific keyboard layout. Click Continue in the lower-right corner when you are ready to continue.
+
+5 - Connect to your WI-FI network and click Continue.
+Connect to your WI-FI network and click Continue. Select your WI-FI network from the list of available networks and enter your WI-FI password to connect to your WI-FI.
+
+6 - Select "Normal Installation".
+Select "Normal Installation". The normal installation includes the Ubuntu installation with all the standard apps, a web browser, utilities, games, and media player.
+- Alternatively, you can select Minimal installation to install only a web browser and some basic utilities.
+
+7 - Check "Install third-party software for graphics and WI-FI hardware".
+Check "Install third-party software for graphics and WI-FI hardware". Some computers require additional software to be installed for the graphics, WI-FI, and other hardware drivers. Your computer may or may not require this software, but check the box anyway just to be safe.
+- Ensure that "Download updates while installing Ubuntu" is also checked.
+
+8 - Click Continue.
+Click Continue. Once you select your installation options, click Continue in the lower-right corner.
+
+9 - Choose the "Something else" option and click Continue.
+Choose the "Something else" option and click Continue. It's at the bottom of the menu. This option allows you to install Ubuntu on the partition you created in Windows.
+- Alternatively, you can select "Install Ubuntu alongside Windows 10" if the option is available.  This may make the install process a little easier.
+
+10 - Select the partition you want to install Ubuntu on and click +.
+Select the partition you want to install Ubuntu on and click +. The partition will likely be labeled "Free Space" in the list of all drives and partitions. Click the partition you want to install Ubuntu on and then click the plus (+) icon below the list of drives.This will open a new window where you can choose to add partitions.
+
+11 - Create a swap partition.
+Create a swap partition. The swap partition is like virtual memory that your computer can use if it runs out of RAM. Your swap area should be the same size of your RAM or double the space of your RAM. Use the following steps to create a swap partition:
+- Type the amount of space in MB next to "Size" (I.E. 4000 for 4 GB).
+- Ensure "Logical" and "Beginning of this space" is selected.
+- Select "Swap area" in the drop-down menu next to "Use as".
+- Click Ok.
+
+12 - Create a root partition.
+Create a root partition. Use the following steps to create a root partition:
+- Select the remaining partition you want to install Ubuntu on.
+- Click the plus (+) icon below the list of drives.
+- Ensure "Logical" and "Beginning of this space" is selected.
+- Select "Ext4 journaling file system" next to "Use as".
+- Select the dash "/" in the drop-down menu next to "Mount point".
+- Click Ok.
+
+13 - Click Install Now.
+Click Install Now. It's in the lower-right corner.
+
+14 - Select your location and click Continue.
+Select your location and click Continue. While Ubuntu is installing, click your location on the map to select your location. Then click Continue.
+
+15 - Enter your name, and log-in details and click Continue.
+Enter your name, and log-in details and click Continue. The "Who are you?" screen asks you to enter your name, computer name, username and create a password. Fill out the form with your desired log-in information and click continue.
+
+16 - Wait for the installation to finish and click Restart.
+Wait for the installation to finish and click Restart. After Ubuntu finishes installing, click Restart to restart your computer. Be sure to remove your USB drive before restarting your computer.
+

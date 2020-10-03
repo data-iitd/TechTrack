@@ -1,0 +1,29 @@
+Use Microsoft Whiteboard
+https://www.wikihow.com/Use-Microsoft-Whiteboard
+
+0 - Working with Objects
+
+1 - Click the A to insert text.
+Click the A to insert text. It's the second icon in the bottom toolbar. This creates a text box, in which you can type whatever you'd like in a default font.
+- To increase the size of the text box, drag the circle at the bottom-right corner outward.
+
+2 - Click the notepad icon to add a sticky-style note.
+Click the notepad icon to add a sticky-style note. It's the third icon in the bottom toolbar. This adds a small notepad sheet to the whiteboard, on which you can type whatever you wish.
+- To change the color of the sticky note, click the note once to select it, and then click the palette icon that appears above it to access the color options.
+
+3 - Click the Add image icon to insert an image.
+Click the Add image icon to insert an image. It's the fourth icon on the toolbar. This opens your computer's file browser, in which you can select and open an image file.
+- To resize an image, click it once to select it, and then drag the circle at the bottom-right corner inward or outward.
+- To move the image, click it once, and then drag it to the desired location.
+
+4 - Click the + to insert a file or template.
+Click the + to insert a file or template. It's the fifth option in the bottom toolbar. This opens another menu, which lets you insert a variety of objects:
+- Click Note grid or List to insert some basic note-taking tools.
+- Click Templates to select a premade template to use as the basis of your whiteboard.
+- Click PDF, Word document, or PowerPoint Document to insert one of these file types.
+
+5 - Right-click the canvas to view additional options.
+Right-click the canvas to view additional options. Here you'll find some of the same tools that are in the toolbar, plus some new options:
+- Click the clipboard icon (Paste) to paste the last thing you copied to your computer's clipboard.
+- Click the … icon to expand other insert options, including adding Word and PowerPoint documents, taking a photo with your webcam, or doing an image search on Bing. You'll also find the option to clear the whole canvas here.
+

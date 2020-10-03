@@ -1,0 +1,27 @@
+Remove a Saved Wireless Network on Windows 10
+https://www.wikihow.com/Remove-a-Saved-Wireless-Network-on-Windows-10
+
+0 - Steps
+
+1 - Click the Start  button.
+Click the Start  button. It's at the bottom-left corner of your screen.
+- ;
+
+2 - Click the settings gear .
+Click the settings gear .
+
+3 - Go to the Network & Internet category.
+Go to the Network & Internet category.
+
+4 - Navigate to the Wi-Fi settings.
+Navigate to the Wi-Fi settings. Click Wi-Fi from the left pane.
+
+5 - Click the "Manage known networks" link.
+Click the "Manage known networks" link. This is in the main section of the window. Doing so will open a page with all your saved networks.
+
+6 - Click the name of the network you'd like to forget.
+Click the name of the network you'd like to forget. A box will appear around it and two buttons will show.
+
+7 - Forget the network.
+Forget the network. Click the Forget button. By doing this, you'll need to manually reconnect to the network. If the network is secured, you'll need to reenter the password.
+

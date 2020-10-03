@@ -1,0 +1,25 @@
+Change the Windows Taskbar Position
+https://www.wikihow.com/Change-the-Windows-Taskbar-Position
+
+0 - Windows 8
+
+1 - Right-click a blank section of the taskbar.
+Right-click a blank section of the taskbar. A menu with tools to customize the desktop will open.
+
+2 - Verify the taskbar is unlocked.
+Verify the taskbar is unlocked. Towards the bottom of the menu you will see an option to "Lock the taskbar". Make sure this option is unchecked before proceeding to the next step. [2]
+- X
+- Research source
+
+3 - Click "Properties" at the bottom of the menu.
+Click "Properties" at the bottom of the menu. The "Taskbar and Start Menu Properties" window will open.
+
+4 - Click the "Taskbar location on screen" box.
+Click the "Taskbar location on screen" box. Choose "Left", "Right", or "Top" in the drop down menu to reposition the taskbar.
+
+5 - Click Apply.
+Click Apply. Click Ok next to close the window. The taskbar is now in the chosen location on your screen.
+
+6 - Reset the taskbar to its original position.
+Reset the taskbar to its original position. Right-click the taskbar, go back into "Properties" in the menu, then select "Bottom" in the "Taskbar location on screen" drop down menu. Click Ok to close.
+

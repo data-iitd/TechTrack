@@ -1,0 +1,24 @@
+Un Pause an Application (Mac OS X)
+https://www.wikihow.com/Un-Pause-an-Application-(Mac-OS-X)
+
+0 - Steps
+
+1 - In the search bar, search for the application called "Activity Monitor" and open it.
+In the search bar, search for the application called "Activity Monitor" and open it. Make sure the application that you need to un-pause is listed.
+- ;
+
+2 - Go "View > Columns > Process ID".
+Go "View > Columns > Process ID". This will bring up a new column called PID that has numbers in it.
+
+3 - Find the number listed in the PID column, of the application you need to unpause.
+Find the number listed in the PID column, of the application you need to unpause.
+
+4 - In the search bar, search for the application "Terminal" and open it.
+In the search bar, search for the application "Terminal" and open it.
+
+5 - In the text area of Terminal type the code "kill -CONT 155".
+In the text area of Terminal type the code "kill -CONT 155". Replacing the '155' with the PID number of the application you want to un-pause.
+
+6 - Press the enter key and wait for the application to start responding again, this could take a couple of seconds.
+Press the enter key and wait for the application to start responding again, this could take a couple of seconds.
+

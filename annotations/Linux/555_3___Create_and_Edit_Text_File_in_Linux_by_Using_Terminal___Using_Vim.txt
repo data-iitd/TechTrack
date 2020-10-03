@@ -1,0 +1,38 @@
+Create and Edit Text File in Linux by Using Terminal
+https://www.wikihow.com/Create-and-Edit-Text-File-in-Linux-by-Using-Terminal
+
+0 - Using Vim
+
+1 - Type vi filename.txt into Terminal.
+Type vi filename.txt into Terminal. The "vi" part of this command selects the Vim text editor as the program to use. You'll replace "filename" with the name you wish to assign to your new file.
+- For a file named "tamins", for example, you'd type vi tamins.txt.
+- If your current directory has a file by the same name, this command will instead open that file.
+
+2 - Press ↵ Enter.
+Press ↵ Enter. This will create your new file and open it in the Vim editor. You should see a blank Terminal window with a tilde (~) on each line, as well as your text file's name at the bottom of the window.
+
+3 - Press your computer's i key.
+Press your computer's i key. Doing so will place your document in "Insert" mode, wherein you can enter text as needed.
+- You should see -- INSERT -- pop up at the bottom of the window when you press the I key.
+
+4 - Enter your document's text.
+Enter your document's text. You can simply type as you typically would for any other text document. To save the current line of text and jump to the next line, you'll press ↵ Enter.
+
+5 - Press the Esc key.
+Press the Esc key. It's typically in the upper-left corner of your computer's keyboard. This key will stop the insert mode.
+
+6 - Press the : (colon) key.
+Press the : (colon) key. This key will place Vim in "Command" mode.
+- You should see a cursor appear at the bottom of the window.
+
+7 - Type :w into Terminal and press ↵ Enter.
+Type :w into Terminal and press ↵ Enter. This command will save your document as it currently is.
+
+8 - Type :q into Terminal and press ↵ Enter.
+Type :q into Terminal and press ↵ Enter. Doing so will quit out of Vim and return you to Terminal's main interface. Your text file is now in your specified directory.
+- You can check for the text file by typing ls into Terminal and pressing ↵ Enter and then looking for the file's name.
+- You can also type :wq to save and quit in one command.
+
+9 - Reopen the file from the Terminal window.
+Reopen the file from the Terminal window. Just as you did to create the file, you'll type vi filename.txt to open the file. This time when you open the file, you should see any saved changes that you made.
+

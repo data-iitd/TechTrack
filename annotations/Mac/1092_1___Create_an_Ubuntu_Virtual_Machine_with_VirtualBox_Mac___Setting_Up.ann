@@ -1,0 +1,46 @@
+T1	Software-Other 220 235	VirtualBox icon
+A1	isOpened T1 f->t
+T2	Software-Other 300 303	New
+A2	isSettingsChanged T2 true
+T3	Software-Other 334 339	Linux
+A3	isSettingsChanged T3 true
+T4	Software-Other 373 395	Ubuntu (64 bit) option
+A4	isSettingsChanged T4 true
+T5	Software-Other 411 419	Continue
+A5	isOpened T5 f->t
+T6	Software-Other 659 667	Continue
+A6	isOpened T6 f->t
+T7	Software-Other 785 816	Create a virtual hard drive now
+A7	isOpened T7 f->t
+T8	Software-Other 947 974	VDI (VirtualBox Disk Image)
+A8	isSettingsChanged T8 true
+T9	Software-Other 1020 1028	Continue
+A9	isOpened T9 f->t
+T10	Software-Other 1159 1190	Storage and physical hard drive
+A10	isOpened T10 f->t
+T11	Software-Other 1253 1261	Continue
+A11	isOpened T11 f->t
+T12	Software-Other 1676 1681	Start
+A12	isOpened T12 f->t
+T13	Software-OS-Related 1774 1792	yellow folder icon
+A13	isOpened T13 f->t
+T14	Software-Other 1978 1992	Install Ubuntu
+A14	isOpened T14 f->t
+T15	Software-Other 2250 2258	Continue
+A15	isOpened T15 f->t
+T16	Software-Other 2336 2365	Erase disk and install Ubuntu
+A16	isSettingsChanged T16 true
+T17	Software-Other 2388 2396	Continue
+A17	isOpened T17 f->t
+T18	Software-Other 2553 2559	region
+A18	isSettingsChanged T18 true
+T19	Software-Other 2576 2596	language preferences
+A19	isSettingsChanged T19 true
+T20	Software-Other 2607 2628	username and password
+A20	isSettingsChanged T20 true
+T21	Software-Other 2648 2660	Log in later
+A21	isSettingsChanged T21 true
+R1	SubPart Arg1:T14 Arg2:T1	
+R2	SubPart Arg1:T18 Arg2:T14	
+R3	SubPart Arg1:T19 Arg2:T14	
+R4	SubPart Arg1:T20 Arg2:T14	

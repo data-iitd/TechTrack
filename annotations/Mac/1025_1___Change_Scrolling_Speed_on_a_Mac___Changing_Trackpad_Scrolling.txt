@@ -1,0 +1,28 @@
+Change Scrolling Speed on a Mac
+https://www.wikihow.com/Change-Scrolling-Speed-on-a-Mac
+
+0 - Changing Trackpad Scrolling
+
+1 - Click the Apple menu.
+Click the Apple menu. You'll find this in the upper-left corner of the screen.
+
+2 - Click "System Preferences."
+Click "System Preferences." If a window other than the main System Preferences window appears, click the "Show All" button at the top. The icon has 12 dots arranged in a grid.
+
+3 - Click the "Accessibility" option.
+Click the "Accessibility" option.
+
+4 - Click "Mouse & Trackpad."
+Click "Mouse & Trackpad." You may have to scroll down on the left frame to find it.
+
+5 - Click the "Trackpad Options" button.
+Click the "Trackpad Options" button. This will display your trackpad scrolling options in a new window.
+
+6 - Click and drag the "Scrolling speed" slider.
+Click and drag the "Scrolling speed" slider. A slower scrolling speed will require you to drag farther on the pad to scroll.
+
+7 - Click the "with inertia" menu to change acceleration.
+Click the "with inertia" menu to change acceleration. This allows you to set whether the scrolling speeds up as you accelerate your fingers, or if it scrolls at a constant rate.[2]
+- X
+- Research source
+

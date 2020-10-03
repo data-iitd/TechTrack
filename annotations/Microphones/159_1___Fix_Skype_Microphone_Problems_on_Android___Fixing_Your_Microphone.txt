@@ -1,0 +1,34 @@
+Fix Skype Microphone Problems on Android
+https://www.wikihow.com/Fix-Skype-Microphone-Problems-on-Android
+
+0 - Fixing Your Microphone
+
+1 - Restart your Android phone or tablet.
+Restart your Android phone or tablet. Restarting your device may solve some of your memory and system problems, and help you fix your microphone without any further action.
+- Hold down the power button, and select Restart to restart your Android.
+- ;
+
+2 - Clean the microphone hole on your phone or tablet.
+Clean the microphone hole on your phone or tablet. Find the microphone opening on your Android, and clean off any dust or particles that might be blocking it.
+- The best way to clean off dust is using canned air. It will help you easily move most of the dust and particles stuck in here.
+- Consider using a cotton swab or toothpick to remove the harder particles. Be careful not to damage your microphone.
+- Refrain from using any wet products here. As a rule of thumb, water may cause damage to electronics.
+
+3 - Open your Android's Settings app.
+Open your Android's Settings app. Find and tap the  icon on your Apps list to open your Settings menu.
+- Alternatively, swipe down the notification bar from the top of your screen, and tap the  icon on the top-right.
+
+4 - Scroll down and tap Apps.
+Scroll down and tap Apps. This option will open a list of all your native and third-party apps.
+- On some versions, this option may be named App manager, Applications, or another similar name.
+
+5 - Find and tap Skype on the Apps list.
+Find and tap Skype on the Apps list. This will open the Skype app's info page.
+
+6 - Tap Permisssions on the Info page.
+Tap Permisssions on the Info page. This will open a list of all the access permissions you've allowed or denied the Skype app on your Android.
+
+7 - Make sure the Microphone switch is turned .
+Make sure the Microphone switch is turned . This option must be enabled in order for the Skype app to access your microphone and pick up your voice.
+- If Microphone is turned , tap on the switch to turn it on.
+

@@ -1,0 +1,32 @@
+Speed Up a Slow Windows Computer for Free
+https://www.wikihow.com/Speed-Up-a-Slow-Windows-Computer-for-Free
+
+0 - Uninstalling Unnecessary Programs
+
+1 - Open your Start menu.
+Open your Start menu. You can view all of your PC's programs and apps from inside of the Start menu; simply scroll down to view all of them.
+- You will also see folders here; they often contain more apps, so click them to view their contents.
+
+2 - Decide on which apps you want to uninstall.
+Decide on which apps you want to uninstall. Generally speaking, apps like "News" or a radio app that ship with your OS are completely unnecessary (and easily replaced with better programs or online plugins).
+- If an app is crucial to your computer's functionality, you won't be able to delete it; that being said, most mandatory apps take up minimal processing power.
+
+3 - Right-click an app you want to uninstall.
+Right-click an app you want to uninstall. This will prompt a context menu.
+
+4 - Click "Uninstall", then confirm your choice.
+Click "Uninstall", then confirm your choice. This will immediately uninstall your app or program, negating the need to visit the "Programs and Features" folder.
+- You may have to click "More" at the bottom of the context menu to access the "Uninstall" option.
+
+5 - Uninstall any apps you don't use.
+Uninstall any apps you don't use. Most Windows computers ship with a large quantity of stock apps, plugins, programs, and free trials; these should all be candidates for deletion.
+
+6 - Consider installing replacement programs.
+Consider installing replacement programs. For every stock installed app, there is at least one viable alternative:[citation needed]
+- Replace Microsoft Edge with Chrome or Firefox. Both of these browsers are faster, easier-to-use alternatives to Edge. [citation needed]
+- Replace "Groove" with iTunes. Again, you can't delete Groove, but it takes much more processing power to run Groove than it does to run iTunes.[citation needed]
+- Replace your default video player with VLC. VLC can play almost any video format and has a simpler, cleaner interface than default Microsoft video players, which translates to quicker processing speed.[citation needed]
+
+7 - Restart your computer.
+Restart your computer. After implementing all of these changes, your computer should be running much faster now!
+

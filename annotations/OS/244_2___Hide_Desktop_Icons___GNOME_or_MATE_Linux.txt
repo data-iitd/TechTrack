@@ -1,0 +1,23 @@
+Hide Desktop Icons
+https://www.wikihow.com/Hide-Desktop-Icons
+
+0 - GNOME or MATE Linux
+
+1 - Open the Configuration Editor.
+Open the Configuration Editor. Press Alt+F2 and type gconf-editor. Click "Run". This will open the Configuration Editor. If the command doesn't work, try mateconf-editor.
+
+2 - Navigate to the Desktop section.
+Navigate to the Desktop section. Use the left directory tree and navigate to "apps" → "nautilus" → "desktop".
+
+3 - Hide your system icons.
+Hide your system icons. Uncheck the box next to each of the icons that you want to hide. You can choose to hide any of your system icons, which can be useful for items you rarely use. This usually includes your Home, Computer, Trash, and Drives.
+
+4 - Hide your whole desktop.
+Hide your whole desktop. Navigate to "apps" → "nautilus" → "preferences". Find the "show_desktop" item in the right frame. Uncheck it to hide the whole desktop. If you are using a MATE environment, navigate to "apps" → "caja" → "preferences".
+- [2]
+- X
+- Research source
+
+5 - Download Ubuntu Tweak.
+Download Ubuntu Tweak. If you are running Ubuntu, you can download Ubuntu Tweak. This allows you to quickly turn off your desktop icons from the Ubuntu Tweak menu. You can download and install Ubuntu Tweak from the Ubuntu Package Manager.
+

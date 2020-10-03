@@ -1,0 +1,39 @@
+Scan Multiple Pages Into One PDF File
+https://www.wikihow.com/Scan-Multiple-Pages-Into-One-PDF-File
+
+0 - Using A Computer and Scanner
+
+1 - Prepare your document to be scanned.
+Prepare your document to be scanned. You can place your document in either the tray where it will feed automatically into the scanner, or you can open the lid and place each paper on the glass. The scanner you have should tell you in the manual how to best scan documents.[1]
+- X
+- Research source
+- 
+- ;
+
+2 - Scan your document.
+Scan your document. In most cases, you can press a Scan button on your physical scanner to begin scanning. Your computer, whether Mac or Windows, should also have a corresponding software that you can open that will also let you initiate the scan. For example, if you have a Brother scanner, you'll find a software called "Control Center 3" in either your Start Menu or Applications folder.[2]
+- X
+- Research source
+- 
+- When the scan is complete, whether you used the scanner glass or the automatic document feeder (ADF), you'll see a window pop-up with a preview of the scan.
+
+3 - Click Save if you used the ADF.
+Click Save if you used the ADF. If you put your document in the automatic document feeder and the scan finishes satisfactorily, you can click to save the file and skip the rest of the steps.
+
+4 - Change the page on the scanner glass (if you're not using the ADF).
+Change the page on the scanner glass (if you're not using the ADF). If you're lifting the lid and placing a page on the scanner glass, you'll need to scan each page individually. If you're not satisfied with the scanning on the previous page, you can readjust it and re-scan before continuing.
+- If you're using an HP scanner, make sure the box next to "Single Page Files" is not checked. If you're scanning with the automatic document feeder, all the pages in the document will automatically save in the same PDF.
+
+5 - Click to add another page on the scan preview.
+Click to add another page on the scan preview. Some scanners, like the Brother and HP scanners, if you scan by setting your document on the glass, will display a scan preview after each scan. You can click the icon that looks like a plus sign in a piece of paper or Start to scan a page on the glass.
+- When the preview window pops up again, you can repeat the previous steps to change the paper and click Start to add as many pages as you need.[3]
+- X
+- Research source
+
+6 - Click Cancel or Save when you're done.
+Click Cancel or Save when you're done. If you want to edit your pages, click Edit page and you can change the settings of the page before saving the final file.[4]
+- X
+- Research source
+- 
+- After clicking Save, you can choose where to save the PDF and what to name it.
+

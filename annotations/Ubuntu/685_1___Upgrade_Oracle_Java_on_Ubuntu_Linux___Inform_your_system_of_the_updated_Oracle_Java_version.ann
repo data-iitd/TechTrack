@@ -1,0 +1,13 @@
+T8	Software-Other 1979 1992	java -version
+A8	isOpened T8 f->t
+T1	Software-OS-Related 407 424	update the system
+A1	isSettingsChanged T1 true
+T2	Software-OS-Related 354 384	Oracle Java JRE/JDK is located
+A2	isOpened T2 f->t
+T3	Software-OS-Related 1390 1431	Reload your system wide PATH /etc/profile
+A3	isOpened T3 f->t
+T4	Software-Other 2695 2731	removing the old Oracle Java JDK/JRE
+A4	isInstalled T4 t->f
+T5	Software-OS-Related 3064 3070	Reboot
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T1 Arg2:T2	

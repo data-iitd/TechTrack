@@ -1,0 +1,20 @@
+T1	Software-OS-Related 160 170	Apple menu
+A1	isOpened T1 f->t
+T2	Software-OS-Related 291 309	System Preferences
+A2	isOpened T2 f->t
+T3	Software-OS-Related 356 373	Language & Region
+A3	isOpened T3 f->t
+T4	Software-OS-Related 471 482	Temperature
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 618 626	Advanced
+A5	isOpened T5 f->t
+T6	Software-OS-Related 730 747	Measurement Units
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 877 885	Currency
+A7	isSettingsChanged T7 true
+T8	Software-OS-Related 955 957	OK
+A8	isSettingsChanged T8 true
+R1	SubPart Arg1:T6 Arg2:T5	
+R2	SubPart Arg1:T7 Arg2:T5	
+R5	SubPart Arg1:T4 Arg2:T3	
+R6	SubPart Arg1:T5 Arg2:T3	

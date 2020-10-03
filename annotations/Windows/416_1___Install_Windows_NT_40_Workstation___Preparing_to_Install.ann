@@ -1,0 +1,5 @@
+T1	Hardware-Other 140 172	Windows NT 4.0 installation disc
+T2	Hardware-Devices 755 763	computer
+A1	isUsed T2 true
+T3	Hardware-Other 883 893	hard drive
+T4	Hardware-Other 1201 1211	hard drive

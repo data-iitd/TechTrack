@@ -1,0 +1,35 @@
+Be a Linux Expert
+https://www.wikihow.com/Be-a-Linux-Expert
+
+0 - Steps
+
+1 - Use a GNU_Linux based operating system as your main.
+Use a GNU/Linux based operating system as your main. A lot of IT, Computer, Physics , etc. students install a Linux distro as a secondary operating system on their computers. If you want to be an expert, Use it as your primary operating system.
+- ;
+
+2 - Try different distributions.
+Try different distributions. GNU/Linux has thousands of distributions, try major ones. Like Debian and Archlinux
+
+3 - Use Terminal to solve problems.
+Use Terminal to solve problems. GNU/Linux is a terminal-based operating system. If you want to be an expert, you need to learn how to work on terminal.
+
+4 - Learn a Programming Language.
+Learn a Programming Language. Programming Languages let you make better tweaks to the system and to fix what you need to. Learn main languages of the Unix family like C, C++, Python, and/or Bash.
+
+5 - Try different Desktop Environments(Graphical UIs).
+Try different Desktop Environments(Graphical UIs). GNU/Linux has thousands of X Desktop environments like GNOME, KDE or XFCE.
+
+6 - Use IRC channels to get support.
+Use IRC channels to get support. A lot of Linux distributions have their own IRC (Internet Relay Chat) channels. You can ask your questions there.
+
+7 - Learn about patching and versioning systems(subversion, git)
+
+Learn about patching and versioning systems(subversion, git)
+
+8 - Use forums or communities such as linux.com
+
+Use forums or communities such as linux.com
+
+9 - Look for a Linux-related job.
+Look for a Linux-related job. (Go to Openhatch)
+

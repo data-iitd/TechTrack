@@ -1,0 +1,28 @@
+Defrag Windows 10
+https://www.wikihow.com/Defrag-Windows-10
+
+0 - Using the Defrag App
+
+1 - Type “defrag” in the Cortana search box.
+Type “defrag” in the Cortana search box. You will find the Cortana search box at the lower left side of the desktop beside the Start button shown as a magnifying glass icon. As you type, a list of search results will appear on the Cortana search window. When you finish typing “defrag,” the Defragment and Optimize Drives (Desktop app) option will appear at the top of the search window.
+- ;
+
+2 - Click_tap “Defragment and Optimize Drives (Desktop app).
+Click/tap “Defragment and Optimize Drives (Desktop app).” This will open the Optimize Drives dialog box. If you are not signed into an Administrator account, right-click (press and hold) “Defragment and Optimize Drives (Desktop app)” and choose “Run as administrator” when the pop-up menu appears.
+
+3 - Highlight the drive you want to defrag.
+Highlight the drive you want to defrag. In the Optimize Drives window, you will see a box labeled “Status” inside of which is a table where the rows list all the drives in your device as well as all storage media connected to the device. The columns have the following headings (from left to right): “Drive,” “Media type,” “Last run,” and “Current status.” Highlight the drive you want to optimize by clicking/tapping on it.
+- For each drive listed, you will see its Current Status in the last column, which tells you how fragmented your drive is and advises you on what to do (“OK,” meaning “no need to defrag,” or “Needs Optimization”).
+
+4 - Click_tap the “Analyze” button on the Optimize Drives window.
+Click/tap the “Analyze” button on the Optimize Drives window. This will analyze the extent of fragmentation of the drive. After a few minutes, the Current Status column opposite the drive you are testing will show you (in percentage) how fragmented the drive is. It is recommended that you optimize your drive only if it is 10% or more fragmented.
+- If the fragmentation is less than 10%, click/tap the “Close” button at the bottom right side of the window to exit Optimize drives. It is not advisable to defragment your drive too often as this will contribute to the wear and tear of your hard drive.
+
+5 - Click the “Optimize” button to start defragmenting your drive.
+Click the “Optimize” button to start defragmenting your drive. The defragmentation will take some time (several minutes or even hours) depending on how large the capacity of your hard drive is, how many files are in your hard drive, and how fragmented these files are. The Current Status column will give a real-time report on the progress of optimization.
+- You will know if the defragging process is finished when the running progress report stops and the entry in the Current Status column becomes “OK.” Enclosed in parentheses beside “OK” is the percentage of defragmentation (0% if your hard drive is not too full).
+- If your hard disk is large and there are many files and many of these files are fragmented, the defragging process may take hours to complete. In this instance, it would be better to start the defragging process and do some other things: read a book, do housework, take a nap, etc.
+
+6 - Exit the menu when you’re done.
+Exit the menu when you’re done. When the defrag process is finished, click the “Close” button at the bottom right hand of the window to exit Optimize Drives.
+

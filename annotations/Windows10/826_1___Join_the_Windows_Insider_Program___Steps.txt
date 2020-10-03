@@ -1,0 +1,24 @@
+Join the Windows Insider Program
+https://www.wikihow.com/Join-the-Windows-Insider-Program
+
+0 - Steps
+
+1 - Access the Windows Insider Program's website here.
+Access the Windows Insider Program's website here.
+- You will be redirected to the Insider website when you click "Join the Windows Insider Program."
+- ;
+
+2 - Select "Preview" and then "Quick Start".
+Select "Preview" and then "Quick Start". This will give you a quick guide on how to use the Insider feature.
+
+3 - Sign in.
+Sign in. After that, you should see a prompt to join the Insider program.
+- If you already have, you can stop the tutorial.
+
+4 - Read and accept the Program Agreement.
+Read and accept the Program Agreement. You must be 13 or older to be part of the Insider Program, as Microsoft may send some personal information to certain third party groups.
+- If you do not feel comfortable with the agreement, don’t sign up for the program.
+
+5 - You've been registered!
+You've been registered! You can take an optional survey if desired. If you’re logged into your Microsoft account on a Windows 10 system, you can install the Insider updates on it now.
+

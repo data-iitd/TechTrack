@@ -1,0 +1,42 @@
+T1	Hardware-Other 127 140	Power adaptor
+T2	Hardware-Other 162 170	computer
+T3	Hardware-Other 256 263	battery
+T4	Hardware-Other 285 293	computer
+T5	Hardware-Other 317 323	button
+T6	Hardware-Other 597 608	screwdriver
+T7	Hardware-Devices 707 715	keyboard
+T8	Hardware-Other 905 912	plastic
+T9	Hardware-Other 949 960	screwdriver
+T10	Hardware-Other 1079 1086	plastic
+T11	Hardware-Other 1371 1377	screws
+T12	Hardware-Devices 1395 1403	keyboard
+T13	Hardware-Other 1411 1419	computer
+T14	Hardware-Other 1504 1515	screwdriver
+T15	Hardware-Devices 1628 1636	keyboard
+T16	Hardware-Devices 1666 1672	screen
+T17	Hardware-Other 1758 1766	computer
+T18	Hardware-Devices 2067 2075	keyboard
+T19	Hardware-Other 2088 2100	cable holder
+T20	Hardware-Other 2240 2252	cable holder
+T21	Hardware-Devices 2303 2311	keyboard
+T23	Hardware-Other 2453 2465	cable holder
+T22	Hardware-Other 2415 2436	cable connection site
+T24	Hardware-Other 2280 2295	cable connector
+T25	Hardware-Other 2561 2565	tape
+T26	Hardware-Other 2615 2633	keyboard connector
+T27	Hardware-Other 2642 2650	computer
+T28	Hardware-Devices 2770 2778	keyboard
+T29	Hardware-Other 2837 2851	compressed air
+T30	Hardware-Other 2866 2890	keyboard connection site
+T31	Hardware-Other 2906 2914	computer
+T32	Hardware-Other 3060 3078	keyboard connector
+T33	Hardware-Devices 3103 3111	keyboard
+T34	Hardware-Devices 3341 3349	keyboard
+T35	Hardware-Other 3385 3388	fan
+T36	Hardware-Other 3404 3412	computer
+T37	Hardware-Other 3635 3640	motor
+T38	Hardware-Other 3654 3660	blades
+T39	Hardware-Other 3723 3741	keyboard connector
+T40	Hardware-Other 3774 3782	computer
+T41	Hardware-Devices 3884 3892	keyboard
+T42	Hardware-Other 4024 4031	battery

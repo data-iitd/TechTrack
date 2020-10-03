@@ -1,0 +1,39 @@
+Install Gnome on Ubuntu
+https://www.wikihow.com/Install-Gnome-on-Ubuntu
+
+0 - Steps
+
+1 - Open a Terminal window on your Ubuntu system.
+Open a Terminal window on your Ubuntu system. Click the Dash icon on the top-left, and select Terminal from your app list to open the Terminal.
+- Alternatively, press Ctrl+Alt+T on your keyboard to open the Terminal.
+- ;
+
+2 - Type sudo apt-get update in Terminal.
+Type sudo apt-get update in Terminal. This command will update all your repositories, and make sure you have the latest versions of packages.
+
+3 - Press ↵ Enter or ⏎ Return on your keyboard.
+Press ↵ Enter or ⏎ Return on your keyboard. This will run your command, and update your repositories.
+- If you're prompted, enter your admin user password, and press ↵ Enter or ⏎ Return to proceed.
+
+4 - Type sudo apt-get install ubuntu-gnome-desktop.
+Type sudo apt-get install ubuntu-gnome-desktop. This command will install the full Gnome desktop environment with the standard applications and optimizations for Ubuntu.
+- Alternatively, you can only install the Gnome Shell by using the sudo apt-get install gnome-shell command.
+- Gnome Shell will install the minimal packages required for the Gnome desktop environment, but exclude the additional desktop apps and Ubuntu themes that come with the full installation.
+- The ubuntu-gnome-desktop install already includes Gnome Shell in it.
+- To make sure, you can also combine the two commands, and type sudo apt-get install gnome-shell ubuntu-gnome-desktop.
+
+5 - Press ↵ Enter or ⏎ Return on your keyboard.
+Press ↵ Enter or ⏎ Return on your keyboard. This will run the command, and start installing the Gnome desktop environment on your computer.
+
+6 - Enter y on your keyboard when prompted.
+Enter y on your keyboard when prompted. During the installation, you'll be prompted to upgrade several packages. Type y and press ↵ Enter or ⏎ Return to proceed with the install.
+
+7 - Select a display manager when prompted.
+Select a display manager when prompted. Towards the end of your installation, you'll be prompted to select between gdm3 and lightDM as your Gnome display manager.
+- Gdm3 is the default Gnome 3 desktop environment greeter. LightDM is a lighter and faster version of the same greeter system.
+- Use the Tab ↹ key to select, and press ↵ Enter or ⏎ Return to confirm.
+
+8 - Restart your computer.
+Restart your computer. When your installation is finished, reboot your computer to start using your Ubuntu system with the Gnome desktop environment.
+- For a quick reboot, you can run the reboot command in the Terminal.
+

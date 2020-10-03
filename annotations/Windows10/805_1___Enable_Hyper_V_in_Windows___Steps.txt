@@ -1,0 +1,31 @@
+Enable Hyper V in Windows
+https://www.wikihow.com/Enable-Hyper-V-in-Windows
+
+0 - Steps
+
+1 - Click the Windows search icon.
+Click the Windows search icon. It's either a magnifying glass or a circle next to the Start  menu.
+- You'll need to have Windows 10 Enterprise, Pro, or Educational edition to use this method.
+- Your computer must have a 64-bit processor with Second Level Address Translation (SLAT), CPU support for the VM monitor mode extension, and at least 4 GB of RAM.
+- ;
+
+2 - Type powershell.
+Type powershell. A list of search results will appear.
+
+3 - Right-click Windows PowerShell ISE.
+Right-click Windows PowerShell ISE. A context menu will appear.
+
+4 - Click Run as administrator.
+Click Run as administrator. This opens an elevated command prompt.
+- You may have to grant permission for the app to run as an administrator.
+
+5 - Type Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All.
+Type Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All.
+
+6 - Press ↵ Enter.
+Press ↵ Enter. A pop-up will appear, asking if you want to restart the computer.
+
+7 - Click Yes.
+Click Yes. The computer will restart with Hyper V enabled.
+- See Install Windows 10 Environment As a Virtual Machine with Hyper V Manager to learn how to use Hyper V.
+

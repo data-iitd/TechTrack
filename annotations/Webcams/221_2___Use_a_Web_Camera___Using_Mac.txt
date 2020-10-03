@@ -1,0 +1,33 @@
+Use a Web Camera
+https://www.wikihow.com/Use-a-Web-Camera
+
+0 - Using Mac
+
+1 - Locate your webcam.
+Locate your webcam.  Most computers have a webcam built-in.  It's usually located above the screen in the center.  Look for a pin-hole lens in the center above the screen.
+- If your computer does not have a built-in webcam, you can purchase one and connect it using a free USB port on your computer.
+
+2 - Click the magnifying glass icon .
+Click the magnifying glass icon .  It's in the menu bar in the upper-right corner.  This displays the Mac Spotlight search bar.
+
+3 - Type Photo Booth in the search bar and press ↵ Enter.
+Type Photo Booth in the search bar and press ↵ Enter.  This opens Photo Booth.  It's a free webcam app that comes with macOS.
+
+4 - Select a camera mode.
+Select a camera mode.  Click one of the three icons in the lower-left corner to select a camera mode.  The three modes are as follows:
+- 
+- Camera:  Click the icon with a single square to select camera mode.  This mode takes still photographs.
+- Video:  Click the icon that resembles a filmstrip to select video mode.  This mode takes motion videos.
+- Mosaic:  Click the icon that resembles 4 squares to select mosaic mode.  This mode takes 4 pictures and displays them in a 2x2 grid.
+
+5 - Select an effect (optional).
+Select an effect (optional).  If you want to select an effect for your photo or video, click Effects in the lower-right corner.  Then click one of the effects displayed on the screen to select an effect.  Use the arrow icons at the bottom of the image to browse the different pages of effects.
+- Click Normal to go back without selecting an effect.
+
+6 - Click the red button.
+Click the red button.  It's at the bottom-center of the screen.  There will be a count down from three and then it will either take a picture or start filming, depending on which mode you have active.
+
+7 - Click the Stop button.
+Click the Stop button.  When you are ready to stop filming, click the white button with the red square at the bottom-center of the screen.  You can find images and videos you take using Photo Booth in the Pictures folder in the Finder.
+- There are many apps you can use your webcam with, including Skype, and Zoom.  You can also do video chats using Messenger apps like Facebook Messenger, Whatsapp, and Viber, and Apple's proprietary app FaceTime.  These apps should automatically recognize your webcam.  If not, you can select it from the Settings menu.
+

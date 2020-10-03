@@ -1,0 +1,32 @@
+Print Brochures
+https://www.wikihow.com/Print-Brochures
+
+0 - Using Microsoft Word
+
+1 - Open your brochure in Microsoft Word.
+Open your brochure in Microsoft Word. Double-click the Word document that serves as your brochure template.
+- If the brochure is in PDF format rather than Word format, try using Preview for a Mac or Adobe Acrobat for a Windows computer.
+- ;
+
+2 - Click File.
+Click File. It's in either the upper-left corner of the window (Windows) or the upper-left corner of the screen (Mac). A menu will appear.
+
+3 - Click Print.
+Click Print. This option is in the menu. Doing so prompts a Print menu.
+
+4 - Select a printer.
+Select a printer. Click the "Printer" drop-down box, then click a printer in the resulting drop-down menu.
+
+5 - Set up double-sided printing.
+Set up double-sided printing. Click the "Print One-Sided" box, then click Print Double Sided (or a similarly titled option).
+- On a Mac, click the Copies & Pages drop-down box, click Layout, click the "Two-Sided" box, and click Long-Edge Binding.
+- You may need to click Manually Print on Both Sides instead if your printer doesn't support double-sided printing.
+
+6 - Change the paper orientation.
+Change the paper orientation. Click the "Orientation" drop-down box, then click Landscape Orientation.
+
+7 - Click Print.
+Click Print. It's at the bottom of the page. Your brochure should print on both sides.
+- If you chose the Manually Print on Both Sides option, you'll need to remove and reinsert the paper once one side has printed.
+- If your printer doesn't support double-sided printing, you can print only the first page from your brochure, remove the paper, reinsert the paper printed-side-up and front cover-side-in, and then print only the second page.
+

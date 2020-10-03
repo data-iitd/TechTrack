@@ -1,0 +1,17 @@
+T1	Software-OS-Related 110 115	Start
+A1	isOpened T1 f->t
+T2	Software-OS-Related 404 412	Settings
+A2	isOpened T2 f->t
+T3	Software-OS-Related 517 534	Update & Security
+A3	isOpened T3 f->t
+T4	Software-OS-Related 641 653	Recovery tab
+A4	isOpened T4 f->t
+T5	Software-OS-Related 730 741	Get started
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1278 1283	Reset
+A6	isOpened T6 f->t
+T7	Software-OS-Related 842 859	Remove everything
+A7	isOpened T7 f->t
+T8	Software-OS-Related 1383 1391	Continue
+A8	isOpened T8 f->t
+R1	SubPart Arg1:T7 Arg2:T3	

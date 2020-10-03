@@ -1,0 +1,49 @@
+T1	Software-Other 86 94	EXE file
+A1	isInstalled T1 f->t
+T2	Software-OS-Related 752 762	Properties
+A2	isOpened T2 f->t
+T4	Software-OS-Related 942 957	Registry Editor
+A4	isOpened T4 f->t
+T5	Software-Other 1089 1097	EXE file
+T8	Software-OS-Related 1365 1372	regedit
+T9	Software-Other 1408 1432	.HKEY_CLASSES_ROOT\.exe.
+T10	Software-OS-Related 1549 1555	Modify
+A6	isOpened T10 f->t
+T11	Software-OS-Related 1521 1528	Default
+A7	isSettingsChanged T11 true
+T3	Software-OS-Related 787 800	Compatibility
+A3	isSettingsChanged T3 true
+R1	SubPart Arg1:T3 Arg2:T2	
+T6	Software-OS-Related 1151 1176	Windows registry settings
+A5	isOpened T9 f->t
+T12	Software-OS-Related 1685 1695	Value data
+T13	Software-OS-Related 1710 1712	OK
+A8	isSettingsChanged T13 true
+R2	SubPart Arg1:T13 Arg2:T12	
+T14	Software-OS-Related 1768 1794	.HKEY_CLASSES_ROOT\exefile
+A9	isOpened T14 f->t
+T15	Software-OS-Related 1884 1891	Default
+A10	isOpened T15 f->t
+T16	Software-OS-Related 1912 1918	Modify
+A11	isOpened T16 f->t
+T18	Software-OS-Related 2050 2060	Value data
+T19	Software-OS-Related 2075 2077	OK
+A12	isSettingsChanged T19 true
+R3	SubPart Arg1:T19 Arg2:T18	
+T20	Software-OS-Related 2133 2169	.KEY_CLASSES_ROOT\exefile\shell\open
+A13	isOpened T20 f->t
+T21	Software-OS-Related 2260 2267	Default
+A14	isOpened T21 f->t
+T22	Software-OS-Related 2288 2294	Modify
+A15	isOpened T22 f->t
+T24	Software-OS-Related 2452 2454	OK
+A16	isSettingsChanged T24 true
+T25	Software-OS-Related 2427 2437	Value data
+R4	SubPart Arg1:T24 Arg2:T25	
+T26	Hardware-Other 2496 2504	computer
+T27	Software-OS-Related 2578 2593	Registry Editor
+A17	isOpened T27 t->f
+T28	Software-Other 2647 2656	EXE files
+T7	Software-OS-Related 1666 1674	.exefile
+T17	Software-OS-Related 2032 2039	"%1" %*
+T23	Software-OS-Related 2409 2416	"%1" %*

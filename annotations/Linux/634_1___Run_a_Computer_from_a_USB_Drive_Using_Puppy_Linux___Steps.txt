@@ -1,0 +1,21 @@
+Run a Computer from a USB Drive Using Puppy Linux
+https://www.wikihow.com/Run-a-Computer-from-a-USB-Drive-Using-Puppy-Linux
+
+0 - Steps
+
+1 - Go to the Puppy Linux home page and download the newest version of Puppy Linux.
+Go to the Puppy Linux home page and download the newest version of Puppy Linux. http://puppylinux.org/  The downloaded file will be an "iso" - a special file that burning software uses to burn a CD ROM.
+- ;
+
+2 - Burn the "iso" to a CD ROM.
+Burn the "iso" to a CD ROM. You will need a program that can handle burning the iso. If your computer does not have suitable software there are many available for free for downloading over the internet. To assure a perfect CD select the slowest burning speed available.
+
+3 - Boot the computer from the CD ROM.
+Boot the computer from the CD ROM. You may need to change the computer's set up settings. If you do change the boot order to 1st USB, 2nd CD ROM and 3rd hard drive.
+
+4 - Once the computer boots into Puppy Linux from the CD ROM insert the USB flash drive.
+Once the computer boots into Puppy Linux from the CD ROM insert the USB flash drive. You will see it appear in the lower left hand corner of the desktop. Make note of the USA flash drive ID. To make sure you can remove the USB flash drive and it will disappear from the screen. Reinsert it and write down the ID.
+
+5 - Click on the "Install" button on the desktop.
+Click on the "Install" button on the desktop. Follow instructions to install to the USB flash drive. Be certain to install Puppy Linux to the USB flash drive and not the computer's hard drive. Try to avoid this mistake. Don't worry too much about ruining your computers hard drive. If you do this by mistake your computer will still work as usual.
+

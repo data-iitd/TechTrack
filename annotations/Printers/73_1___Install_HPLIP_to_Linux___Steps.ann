@@ -1,0 +1,17 @@
+T1	Software-Other 113 120	website
+A1	isOpened T1 f->t
+T2	Software-Other 364 369	HPLIP
+A2	isInstalled T2 f->t
+T3	Hardware-Other 497 505	computer
+T4	Software-OS-Related 730 738	Terminal
+A3	isOpened T4 f->t
+T5	Software-Other 878 893	hplip3.12.2.run
+A4	isOpened T5 f->t
+T6	Software-OS-Related 783 795	Applications
+A5	isOpened T6 f->t
+T7	Software-OS-Related 799 810	Accessories
+A6	isOpened T7 f->t
+T8	Software-Other 814 822	Terminal
+A7	isOpened T8 f->t
+T9	Hardware-Devices 1577 1584	printer
+A8	isUsed T9 true

@@ -1,0 +1,16 @@
+T1	Software-Other 226 227	A
+A1	isOpened T1 f->t
+T2	Software-Other 300 305	Print
+A2	isOpened T2 f->t
+T3	Software-Other 382 386	Plot
+A3	isOpened T3 f->t
+T4	Software-OS-Related 808 810	Ok
+A4	isSettingsChanged T4 true
+A5	isOpened T4 f->t
+T5	Software-Other 1337 1349	Printer icon
+A6	isOpened T5 f->t
+T6	Software-Other 1490 1495	Print
+A7	isSettingsChanged T6 true
+R1	SubPart Arg1:T2 Arg2:T1	
+R2	SubPart Arg1:T3 Arg2:T2	
+R3	SubPart Arg1:T6 Arg2:T5	

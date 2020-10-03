@@ -1,0 +1,19 @@
+T1	Software-OS-Related 125 129	OS X
+A1	isOpened T1 f->t
+T2	Software-OS-Related 328 336	language
+A2	isSettingsChanged T2 true
+T3	Software-OS-Related 389 397	Continue
+A3	isOpened T3 f->t
+T4	Software-OS-Related 506 515	Options..
+A4	isSettingsChanged T4 true
+T5	Software-OS-Related 738 740	OK
+A5	isOpened T5 f->t
+T6	Software-OS-Related 1697 1727	hard drive you want to install
+A6	isSettingsChanged T6 true
+T7	Software-OS-Related 1741 1749	Continue
+A7	isOpened T7 f->t
+T8	Software-OS-Related 2002 2041	Choose the software you want to install
+A8	isSettingsChanged T8 true
+T9	Software-OS-Related 2633 2640	Install
+A9	isOpened T9 f->t
+R1	SubPart Arg1:T9 Arg2:T1	

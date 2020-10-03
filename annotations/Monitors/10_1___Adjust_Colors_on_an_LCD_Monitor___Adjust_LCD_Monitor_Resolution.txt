@@ -1,0 +1,30 @@
+Adjust Colors on an LCD Monitor
+https://www.wikihow.com/Adjust-Colors-on-an-LCD-Monitor
+
+0 - Adjust LCD Monitor Resolution
+
+1 - Turn on the computer.
+Turn on the computer. Wait for the main screen to appear.
+- ;
+
+2 - Ensure that no other programs are running.
+Ensure that no other programs are running.
+
+3 - Move the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, and hold the mouse button down to view other menu items.
+Move the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, and hold the mouse button down to view other menu items.
+
+4 - Select "Control Panel.
+Select "Control Panel."
+
+5 - Locate the heading, "Appearance and Personalization," then select the sub-category, "Adjust screen resolution.
+Locate the heading, "Appearance and Personalization," then select the sub-category, "Adjust screen resolution."
+
+6 - Click "Resolution" and wait for a drop-down slider control to appear.
+Click "Resolution" and wait for a drop-down slider control to appear.
+
+7 - Drag the slider up or down until the desired resolution is selected.
+Drag the slider up or down until the desired resolution is selected. Click "Apply." If a compatible resolution was chosen, the screen will revert to these settings (If the resolution is incompatible, select another resolution).
+
+8 - Wait for the system to ask if the settings are acceptable.
+Wait for the system to ask if the settings are acceptable. Select "yes" if the settings are accurate, otherwise continue changing the resolution until the desired effect is achieved.
+

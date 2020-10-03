@@ -1,0 +1,20 @@
+Lock Desktop Icons in Place
+https://www.wikihow.com/Lock-Desktop-Icons-in-Place
+
+0 - Sorting by Tags on Mac
+
+1 - Right-click each desktop item.
+Right-click each desktop item. This opens a drop-down menu. On a Mac with a trackpad or a magic mouse, click the desktop item with two fingers, or hold the ⌥ Option key and click to perform a right-click.
+
+2 - Select a colored tag.
+Select a colored tag.  Use the colored tags to organize the desktop items however you wish.  Icons will be arranged by color in the order they appear in the drop-down menu.
+
+3 - Right-click an empty space on the desktop.
+Right-click an empty space on the desktop. This opens a drop-down menu. On a Mac with a trackpad or a magic mouse, click the desktop item with two fingers, or hold the ⌥ Option key and click to perform a right-click.
+
+4 - Click Sort By.
+Click Sort By.
+
+5 - Select Tags.
+Select Tags. It's near the bottom of the pulldown menu. This will organize your desktop icons in the tag order you selected and they will then be locked in place.
+

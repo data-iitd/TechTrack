@@ -1,0 +1,21 @@
+T1	Hardware-Devices 144 151	monitor
+A1	isPowered T1 start-F
+T2	Hardware-Other 240 248	computer
+T3	Hardware-Other 260 268	VGA spot
+T4	Hardware-Devices 341 348	monitor
+A2	isPowered T4 f->t
+T5	Hardware-Other 366 374	computer
+T7	Software-OS-Related 500 513	control panel
+A4	isOpened T7 f->t
+T8	Software-OS-Related 524 554	Appearance and Personalization
+A5	isOpened T8 f->t
+T9	Software-OS-Related 632 639	Display
+A6	isOpened T9 f->t
+T10	Software-OS-Related 673 696	Change display settings
+A7	isOpened T10 f->t
+T11	Software-OS-Related 747 755	Identify
+T12	Software-OS-Related 776 793	Multiple displays
+T13	Software-OS-Related 804 825	Extend these displays
+A8	isSettingsChanged T13 true
+R1	SubPart Arg1:T13 Arg2:T8	
+A3	isOpened T11 f->t

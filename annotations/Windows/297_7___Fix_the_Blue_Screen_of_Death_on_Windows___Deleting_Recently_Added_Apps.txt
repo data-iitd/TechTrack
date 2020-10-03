@@ -1,0 +1,30 @@
+Fix the Blue Screen of Death on Windows
+https://www.wikihow.com/Fix-the-Blue-Screen-of-Death-on-Windows
+
+0 - Deleting Recently Added Apps
+
+1 - Open Start .
+Open Start . Click the Windows logo in the bottom-left corner of the screen.
+
+2 - Open Settings .
+Open Settings . Click the gear-shaped icon in the bottom-left corner of the Start window.
+
+3 - Click Apps.
+Click Apps. It's on the Settings page.
+
+4 - Click the Apps & features tab.
+Click the Apps & features tab. You'll find this in the upper-left side of the window.
+
+5 - Find a recently installed app.
+Find a recently installed app. Any app that you recently installed needs to be removed, since flawed or broken apps can easily cause the BSOD to appear.
+
+6 - Click the app.
+Click the app. Doing so will prompt a button to appear below the app.
+
+7 - Click Uninstall.
+Click Uninstall. It's below the bottom-right corner of the app's window.
+
+8 - Click Uninstall when prompted.
+Click Uninstall when prompted. This is below the app. Doing so will remove the app from your computer, though you may need to follow a couple of on-screen prompts to finalize the removal.
+- You'll repeat this process for each recently installed app here.
+

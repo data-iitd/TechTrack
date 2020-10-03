@@ -1,0 +1,25 @@
+T1	Hardware-Other 166 170	disc
+T2	Hardware-Other 640 644	disc
+T3	Hardware-Devices 654 662	computer
+T4	Hardware-Devices 795 803	computer
+A1	isUsed T4 true
+A2	isUsed T3 true
+T5	Software-OS-Related 835 840	Start
+A3	isOpened T5 f->t
+T6	Software-OS-Related 849 854	Power
+A4	isOpened T6 f->t
+T7	Software-OS-Related 867 874	Restart
+A5	isOpened T7 start-T
+T8	Software-OS-Related 1257 1261	BIOS
+A6	isOpened T8 f->t
+T9	Software-OS-Related 933 937	boot
+A7	isOpened T9 f->t
+T10	Software-OS-Related 1705 1711	Custom
+A8	isOpened T10 f->t
+T11	Hardware-Devices 1864 1874	hard drive
+T12	Software-OS-Related 2065 2071	Format
+A9	isOpened T12 f->t
+T13	Software-OS-Related 2275 2279	NTFS
+A10	isSettingsChanged T13 true
+T14	Software-OS-Related 2290 2292	OK
+A11	isSettingsChanged T14 true

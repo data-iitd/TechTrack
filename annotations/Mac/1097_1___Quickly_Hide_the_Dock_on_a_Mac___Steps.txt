@@ -1,0 +1,41 @@
+Quickly Hide the Dock on a Mac
+https://www.wikihow.com/Quickly-Hide-the-Dock-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple icon.
+Click on the Apple icon. It's the Apple logo at the far-left side of the menu bar at the top of your screen.
+- ;
+
+2 - Click System Preferences.
+Click System Preferences.
+
+3 - Click the "Keyboard" icon.
+Click the "Keyboard" icon.
+- If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+
+4 - Click Shortcuts.
+Click Shortcuts.
+
+5 - Click "Launchpad & Dock" from the menu on the left.
+Click "Launchpad & Dock" from the menu on the left. One dock option, "Turn Dock Hiding On/Off," will appear on the right side of the window.
+- The default keyboard shortcut is ⌥ Option+⌘ Command+D.
+
+6 - Click the box next to "Turn Dock Hiding On_Off.
+Click the box next to "Turn Dock Hiding On/Off."
+
+7 - Click on the shortcut combination on the right to edit it.
+Click on the shortcut combination on the right to edit it.
+
+8 - Type in your custom shortcut.
+Type in your custom shortcut. You'll want to start the shortcut with a modifier key such as the ⌘ Command, ⌥ Option, Fn, Control, ⇬ Caps Lock, or ⇧ Shift keys.[1]
+- X
+- Research source
+- 
+- 
+- If you're using an "F" function key, you will have to hold down the Fn key to type your command.
+- Make sure your new shortcut is unique, meaning that no other shortcuts have been assigned to the key combination you enter.
+
+9 - Click the red "X" button.
+Click the red "X" button. Your custom shortcut for dock hiding will be saved, and you can activate the shortcut anytime by pressing your custom key combination.
+

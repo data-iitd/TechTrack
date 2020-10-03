@@ -1,0 +1,29 @@
+Solve the Lnk File Extension Problem in Windows
+https://www.wikihow.com/Solve-the-Lnk-File-Extension-Problem-in-Windows
+
+0 - Running a Registry Fix for Windows
+
+1 - Download the Registry fix for Windows.
+Download the Registry fix for Windows. Usually, .lnk extensions fail to work properly due to a failed Windows Update, missing files or files corrupted by malware. You can download and run .lnk file association fixes to solve this problem.
+- For Windows 8, Windows 8.1 and Windows 10, download File Association Fixer v2. This tool also supports Windows 7 and both 32-bit and 64-bit. Choose the right .exe file for your computer and proceed ahead.
+- For Windows 7 and Vista, you can either download the .zip file, or directly download the .lnk File Association Fix.
+- Download .lnk File Association Fix for Windows XP. The link will automatically download the registry fix to solve the problem.
+- ;
+
+2 - Run the Registry fix.
+Run the Registry fix. Once you download the Registry fix, double-click on it. This will automatically run the fix.
+- If you downloaded the .zip file, you will first have to unzip it. Save its contents to a location on your computer and then click on it.
+
+3 - Download the .lnk file repair tool
+Download the .lnk file repair tool from Tweaking.com. This is an alternate registry fix tool, which is available free of charge. This tool supports all versions of the Windows operating system.
+- Double-click the file to open it.
+- Click the Start button. This will automatically run the tool.
+
+4 - Wait till the process is completed.
+Wait till the process is completed. Wait a while to allow the prompt from the Registry Editor.
+
+5 - Restart your PC.
+Restart your PC. Restarting your computer will save the changes you made to the Registry.
+- Click on the “Start” button.
+- From the “Shut down” tab, choose the “Restart” option. This will automatically restart your computer.
+

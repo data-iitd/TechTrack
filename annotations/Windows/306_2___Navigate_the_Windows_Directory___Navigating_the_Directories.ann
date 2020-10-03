@@ -1,0 +1,13 @@
+T1	Software-OS-Related 143 148	drive
+A1	isOpened T1 f->t
+T2	Software-OS-Related 287 310	Back and Forward arrows
+A2	isOpened T2 f->t
+T3	Software-OS-Related 508 516	Up arrow
+A3	isOpened T3 f->t
+T4	Software-OS-Related 1143 1150	options
+A4	isOpened T4 f->t
+T5	Software-OS-Related 1294 1314	Open in a new window
+A5	isOpened T5 f->t
+R1	SubPart Arg1:T5 Arg2:T4	
+T6	Software-OS-Related 1744 1756	Hidden items
+A6	isSettingsChanged T6 true

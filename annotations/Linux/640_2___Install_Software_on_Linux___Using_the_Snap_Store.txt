@@ -1,0 +1,32 @@
+Install Software on Linux
+https://www.wikihow.com/Install-Software-on-Linux
+
+0 - Using the Snap Store
+
+1 - Open the Snapcraft Store in your internet browser.
+Open the Snapcraft Store in your internet browser. Type or paste https://snapcraft.io/store into your browser's address bar, and press ↵ Enter or ⏎ Return on your screen.
+
+2 - Click the Store tab.
+Click the Store tab. This button is on a gray navigation bar at the top of the page.
+
+3 - Find and click the software you want to install.
+Find and click the software you want to install. This will open the selected app's details on a new page.
+
+4 - Scroll down and select your Linux distribution.
+Scroll down and select your Linux distribution. Snap is available in a variety of different Linux distributions, including Ubuntu, Fedora, CentOS, and Linux Mint.
+- This will open a new page, and show the specific command prompt instructions for your system.
+- If you already have the snapd tool installed and enabled on your system, just click the green Install button on the app info page to see the install command.
+
+5 - Open a Terminal window on your computer.
+Open a Terminal window on your computer. You can open the command prompt from your desktop environment's applications menu.
+
+6 - Run the "Enable snapd" commands from the web page.
+Run the "Enable snapd" commands from the web page. Follow the instructions for your Linux distribution, and run the required commands in Terminal to install the snapd tool.
+- Some systems like Ubuntu 19.04 and 18.10 will not require any extra installation. Snap is already installed and ready to use.
+- Your system may require multiple steps to install and enable Snap. All the required commands are provided on this page for each available system.
+
+7 - Type and run the selected app's install command in Terminal.
+Type and run the selected app's install command in Terminal. After enabling Snap on your computer, find the installation command prompt for the selected app in the lower-right corner, and run it on your computer.
+- This command often looks like sudo snap install <app name>, such as sudo snap install opera for the Opera web browser.
+- This will install the selected app on your computer.
+

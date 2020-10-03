@@ -1,0 +1,12 @@
+T1	Software-OS-Related 132 137	Linux
+T2	Software-OS-Related 521 540	root shell/terminal
+A1	isOpened T2 f->t
+T3	Software-OS-Related 558 571	root password
+T4	Software-OS-Related 638 654	yum check-update
+T5	Software-OS-Related 619 632	package lists
+A2	isSettingsChanged T4 true
+R1	SubPart Arg1:T4 Arg2:T5	
+T6	Software-OS-Related 720 746	yum install "program name"
+T7	Software-Other 817 834	Dillo web browser
+T8	Software-OS-Related 851 868	yum install dillo
+A3	isInstalled T7 f->t

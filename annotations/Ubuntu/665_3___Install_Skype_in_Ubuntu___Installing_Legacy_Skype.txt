@@ -1,0 +1,32 @@
+Install Skype in Ubuntu
+https://www.wikihow.com/Install-Skype-in-Ubuntu
+
+0 - Installing Legacy Skype
+
+1 - Open your Terminal.
+Open your Terminal. Ubuntu previously recommended installing Skype using the Canonical (Ubuntu developer) repository instead of the packages from the Skype website. This will ensure that you get the proper version for your system. The Terminal may be intimidating, but you'll just need to enter a couple different commands.
+- You can quickly open the Terminal by pressing Ctrl+Alt+T or by opening "Applications" → "Accessories" → "Terminal".
+
+2 - Determine if you're running the 32- or 64-bit version of Ubuntu.
+Determine if you're running the 32- or 64-bit version of Ubuntu. You'll need to know this before proceeding so that you can install the correct software.
+- Type sudo uname --m and press ↵ Enter. Type in your administrator password.
+- If the Terminal returns i686, you are running the 32-bit version.
+- If the Terminal returns x86_64, you are running the 64-bit version.
+
+3 - Enable MultiArch if you are running 64-bit Linux.
+Enable MultiArch if you are running 64-bit Linux. This allows for better compatibility with programs compiled for other computers.
+- Type sudo dpkg --add-architecture i386 and press ↵ Enter. Type in your administrator password to download the package.
+
+4 - Add the Canonical partner repository.
+Add the Canonical partner repository. This will give you the ability to install any of the programs hosted on this repository, which includes the latest versions of Skype.
+- Type or paste sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner" and press ↵ Enter.
+
+5 - Install Skype.
+Install Skype. Now that you have the proper dependencies and the Canonical partner repository, you can download and install the Skype software.[1]
+- X
+- Research source
+- 
+- 
+- Type sudo apt-get update && sudo apt-get install skype and press ↵ Enter to install Skype. The installation process may take a few minutes to complete.
+- You can also install Skype using the Software Center since you've added the Canonical partner repository. Open the Software Center, search for "Skype", and then click the "Install" button to download and install it.
+

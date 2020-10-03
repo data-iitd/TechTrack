@@ -1,0 +1,24 @@
+Install Steam on Linux
+https://www.wikihow.com/Install-Steam-on-Linux
+
+0 - 
+
+1 - Open a terminal window.
+Open a terminal window. There is no Steam app in the official Fedora repositories, but you can install it via a third-party repository in the command prompt.
+
+2 - Type $ su -c 'dnf install https:__download1.rpmfusion.org_free_fedora_rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https:__download1.rpmfusion.org_nonfree_fedora_rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm'.
+Type $ su -c 'dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm'.
+- This command will install the RPM Fusion repository. You can install Steam via this repo.
+- RPM Fusion is a reliable third-party repository for Fedora/RedHat and clone Linux versions. You can find more information at https://rpmfusion.org.
+
+3 - Press ↵ Enter or ⏎ Return.
+Press ↵ Enter or ⏎ Return. This will run your command, and install the repo.
+- If you're prompted, answer "Y" or "Yes" to install and configure the new repository.
+
+4 - Type and run $ su -c 'dnf -y update'.
+Type and run $ su -c 'dnf -y update'. This will refresh your system's repository list.
+
+5 - Type and run $ su -c 'dnf -y install steam'.
+Type and run $ su -c 'dnf -y install steam'. This will install the Steam app from the RPM Fusion repository.
+- You can launch Steam on your computer when your installation is finished.
+

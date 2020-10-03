@@ -1,0 +1,29 @@
+Create and Apply a Custom Mouse Cursor Using a Photo in Windows
+https://www.wikihow.com/Create-and-Apply-a-Custom-Mouse-Cursor-Using-a-Photo-in-Windows
+
+0 - Converting your image
+
+1 - Go to your browser.
+Go to your browser.
+
+2 - Go to https:__digitalcoding.com.
+Go to https://digitalcoding.com.
+
+3 - Look for Image Converter on the Developer Tools.
+Look for Image Converter on the Developer Tools. Click it.
+
+4 - Go to Convert Image to Panel and locate the .cur or Microsoft Cursor.
+Go to Convert Image to Panel and locate the .cur or Microsoft Cursor.
+
+5 - Leave the width and height blank because you've already resized it.
+Leave the width and height blank because you've already resized it. Now go to Filters, Sharpen it.
+
+6 - Click on Upload Image to Convert.
+Click on Upload Image to Convert. Upload your edited image.
+
+7 - Wait before downloading.
+Wait before downloading. When you see a check mark (green), this means that your file is ready to download. Click Download. It will just take a couple of seconds.
+
+8 - You will see your file on the bottom of your browser, if using Chrome.
+You will see your file on the bottom of your browser, if using Chrome.
+

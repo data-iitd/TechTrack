@@ -1,0 +1,37 @@
+Fix Microsoft Store Downloading Problems
+https://www.wikihow.com/Fix-Microsoft-Store-Downloading-Problems
+
+0 - Signing Out of the Microsoft Store
+
+1 - Make sure your Store app is open.
+Make sure your Store app is open.
+
+2 - Click your account icon to the left of the search bar.
+Click your account icon to the left of the search bar. If you have a picture associated with your Windows account, it will appear here; otherwise, this icon will be a person's silhouette.[2]
+- X
+- Research source
+
+3 - Click your account name.
+Click your account name. You can find this option at the top of the resulting drop-down menu.
+
+4 - Click your account name in the pop-up window.
+Click your account name in the pop-up window.
+
+5 - Click "Sign out" below your name.
+Click "Sign out" below your name. This will sign you out of the Store app.
+
+6 - Click your account icon again.
+Click your account icon again.
+
+7 - Click "Sign in".
+Click "Sign in".
+
+8 - Click your account name.
+Click your account name. You should see this at the top of the pop-up menu.
+
+9 - Enter your password or PIN if prompted.
+Enter your password or PIN if prompted. Doing so will sign you back into the Store app.
+
+10 - Check your downloads tab.
+Check your downloads tab. If signing out and back in fixed your problem, your downloads should have resumed!
+

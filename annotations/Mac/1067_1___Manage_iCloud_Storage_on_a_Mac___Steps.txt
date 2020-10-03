@@ -1,0 +1,24 @@
+Manage iCloud Storage on a Mac
+https://www.wikihow.com/Manage-iCloud-Storage-on-a-Mac
+
+0 - Steps
+
+1 - Click on the Apple menu.
+Click on the Apple menu. It's the black, apple-shaped icon in the upper-left of your screen.
+- ;
+
+2 - Click on System Preferences.
+Click on System Preferences.
+
+3 - Click on iCloud.
+Click on iCloud. It's on the left side of the Preferences window.
+
+4 - Click on Manage.
+Click on Manage. It's in the lower-right corner of the dialog box.
+- The amount of iCloud memory that you have available for storage and the total amount included in your plan will be listed at the top of the dialog box. For example, "26.5 GB of 50 GB."
+
+5 - Click on applications.
+Click on applications. The applications that use iCloud are listed in the left pane of the dialog box. You can manage your iCloud memory by deleting data and files from individual apps.
+- The option to delete data and files appears in the right pane of the dialog box as you click on individual applications.
+- Click on Change Storage Plan -- it may also be Buy More Storage, depending on the plan you have -- in order to add or reduce the amount of iCloud storage available for your account.
+

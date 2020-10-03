@@ -1,0 +1,44 @@
+Set up an FTP Server in Ubuntu Linux
+https://www.wikihow.com/Set-up-an-FTP-Server-in-Ubuntu-Linux
+
+0 - Accessing Your Server
+
+1 - Determine your server's address.
+Determine your server's address. If you're paying for an FTP server through a hosting service (e.g., Bluehost), you'll need to know the service's IP address or regular address in order to connect to it.[4]
+- X
+- Research source
+- 
+- If you're hosting your own server from your computer, you'll use your computer's IP address, which you can figure out by entering ifconfig in Terminal and then reviewing the "inet addr" number.
+- If "ifconfig" isn't installed, you can install it by entering sudo apt-get install net-tools in Terminal.
+
+2 - Forward a port on your router
+Forward a port on your router. Once you know your server's IP address, you'll need to forward your router's port 21 slot to that address; make sure that the port uses TCP (not UDP or a mixture of the two).
+- Port forwarding varies from router to router, so be sure to check the linked article or your router's documentation for instructions.
+
+3 - Open Filezilla.
+Open Filezilla. Type filezilla into Terminal and press ↵ Enter. After a moment, FileZilla will open.
+- If you want to connect via Terminal, you can try typing in ftp [address]. As long as your server is running and you have Internet access, this will attempt to connect to your FTP server; however, you may not be able to transfer files.
+
+4 - Click File.
+Click File. It's in the top-left corner of the FileZilla window. Doing so prompts a drop-down menu.
+
+5 - Click Site Manager….
+Click Site Manager…. You'll find this option in the drop-down menu. The Site Manager window will open.
+
+6 - Click New Site.
+Click New Site. It's a white button in the lower-left side of the window. Doing so opens the New Site section of the Site Manager.
+
+7 - Enter your server's address.
+Enter your server's address. In the "Host:" text field, type in the address (or IP address) of the FTP server to which you want to connect.[5]
+- X
+- Research source
+
+8 - Add the forwarded port number.
+Add the forwarded port number. Type 21 into the "Port:" text field.
+
+9 - Click Connect.
+Click Connect. It's a red button at the bottom of the page. Doing so will prompt FileZilla to connect your computer to your FTP server.
+
+10 - Move files onto the server.
+Move files onto the server. You can click and drag folders from the left-hand window into the right-hand window to upload them to your FTP server page.
+
