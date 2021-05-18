@@ -16,7 +16,7 @@ Source Code:
 The base code for this repository has been taken from https://github.com/allenai/propara
 
 # TechTrack
-The TechTrack dataset is track properties of diverse set of entities in technical procedural documents. For more details, read the [Thesis paper](SaranshGoyal.pdf).
+The TechTrack dataset is track properties of diverse set of entities in technical procedural documents. <!--For more details, read the [Thesis paper](SaranshGoyal.pdf).>
 
 To have a better understanding of the model and the dataset, go through the Thesis paper. To understand the format of the dataset, refer to the ProPara dataset:
 ```
