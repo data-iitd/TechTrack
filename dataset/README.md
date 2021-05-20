@@ -5,6 +5,7 @@
 1. [Directory Structure](#directory-structure)
 	1. [Setup 1: Training each property Individually](#setup-1-training-each-property-individually)
 	1. [Setup 2: Training the Combined Model](#setup-2-training-the-combined-model)
+	1. [Setup 3: Training on first *n* steps of procedure](#setup-3-training-on-first-n-steps-of-procedure)
 1. [How to use it?](#how-to-use-it)
 
 <!-- /MarkdownTOC -->
@@ -24,6 +25,12 @@ In our first setup, we trained the models for each property individually.
 Along with individual models for each property, we also train a combined BERT-based classifier to predict property values for each property type. Here, we train a single model on multiple properties, with each property trained on respective training rows. 
 
 [`./setup_2/bert`](setup_2/bert/) contains the data for this setup.
+
+<a id="setup-3-training-on-first-n-steps-of-procedure"></a>
+### Setup 3: Training on first *n* steps of procedure
+To give BERT model context of previous steps while training, we extend embeddings by training BERT with first *n* steps for every <i>n<sup>th</sup></i> step in the procedure. We do this only for state-type properties, since for event-type properties, only that particular step for which the prediction is being made is causing the state change. Model is trained to predict the actual state of entity at every step, individually for each property.
+
+[`./setup_3/bert`](setup_3/bert/) contains the data for this setup.
 
 
 <a id="how-to-use-it"></a>
