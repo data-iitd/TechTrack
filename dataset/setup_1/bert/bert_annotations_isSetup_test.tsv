@@ -1,0 +1,15 @@
+'Was trackpad setup?'			'0 - Zooming With Your Trackpad'			True
+'Was trackpad setup?'			"1 - Open something that can be zoomed.\nOpen something that can be zoomed. You can change the zoom on web pages, pictures, documents, and more. You won't be able to zoom on the desktop or in Finder.\n- ;"			False
+'Was trackpad setup?'			'2 - Place two fingers on the trackpad.\nPlace two fingers on the trackpad.'			False
+'Was trackpad setup?'			'3 - Move your two fingers apart to zoom in.\nMove your two fingers apart to zoom in.'			False
+'Was trackpad setup?'			'4 - Pinch your two fingers together to zoom out.\nPinch your two fingers together to zoom out.'			False
+'Was trackpad setup?'			'5 - Double-tap two fingers to zoom in on your cursor.\nDouble-tap two fingers to zoom in on your cursor. Double-tap your two fingers again to zoom out. This will magnify the part of the document or web page that your cursor is over.[1]\n- X\n- Research source'			False
+'Was screen setup?'			'0 - Adjust LCD Monitor Resolution'			False
+'Was screen setup?'			'1 - Turn on the computer.\nTurn on the computer. Wait for the main screen to appear.\n- ;'			False
+'Was screen setup?'			'2 - Ensure that no other programs are running.\nEnsure that no other programs are running.'			False
+'Was screen setup?'			'3 - Move the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, and hold the mouse button down to view other menu items.\nMove the cursor over "Start" (or the Microsoft Windows logo) from the lower left hand corner of the screen, single click, and hold the mouse button down to view other menu items.'			False
+'Was screen setup?'			'4 - Select "Control Panel.\nSelect "Control Panel."'			False
+'Was screen setup?'			'5 - Locate the heading, "Appearance and Personalization," then select the sub-category, "Adjust screen resolution.\nLocate the heading, "Appearance and Personalization," then select the sub-category, "Adjust screen resolution."'			False
+'Was screen setup?'			'6 - Click "Resolution" and wait for a drop-down slider control to appear.\nClick "Resolution" and wait for a drop-down slider control to appear.'			False
+'Was screen setup?'			'7 - Drag the slider up or down until the desired resolution is selected.\nDrag the slider up or down until the desired resolution is selected. Click "Apply." If a compatible resolution was chosen, the screen will revert to these settings (If the resolution is incompatible, select another resolution).'			True
+'Was screen setup?'			'8 - Wait for the system to ask if the settings are acceptable.\nWait for the system to ask if the settings are acceptable. Select "yes" if the settings are accurate, otherwise continue changing the resolution until the desired effect is achieved.'			False
